@@ -77,7 +77,7 @@ export default function HomeHero() {
 
           <div className="home-brand-lockup">
             <img
-              src="/brand/mark.png"
+              src="/brand/mark.webp"
               alt=""
               className="home-brand-mark"
               width={76}
@@ -146,7 +146,7 @@ export default function HomeHero() {
             </svg>
 
             <div className="hero-mark-well">
-              <img src="/brand/mark.png" alt="" className="hero-mark-image" width={242} height={242} />
+              <img src="/brand/mark.webp" alt="" className="hero-mark-image" width={242} height={242} />
             </div>
 
             <div className="hero-float-card hero-card-strategy">

@@ -89,7 +89,7 @@ function Header() {
     <header className="hdr">
       <div className="wrap hdr-in">
         <Link href="/" className="logo" aria-label="Easywurld — home">
-          <img src="/brand/mark.png" alt="" className="logo-mark" width={44} height={44} />
+          <img src="/brand/mark.webp" alt="" className="logo-mark" width={44} height={44} />
           <span>
             EASYWURLD
             <small>SIMPLIFY. OPTIMIZE. GROW.</small>
@@ -124,7 +124,7 @@ function Footer() {
         <div className="ftr-grid">
           <div>
             <div className="logo" style={{ color: "var(--paper)" }}>
-              <img src="/brand/mark-light.png" alt="" className="logo-mark" width={46} height={46} />
+              <img src="/brand/mark-light.webp" alt="" className="logo-mark" width={46} height={46} />
               <span>
                 EASYWURLD<small style={{ color: "#9FB3A6" }}>SIMPLIFY. OPTIMIZE. GROW.</small>
               </span>

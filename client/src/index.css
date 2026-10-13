@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap');
 @import 'tailwindcss';
 
 /* ============================================================
@@ -557,4 +556,56 @@ img { max-width: 100%; height: auto; }
     scroll-behavior: auto !important;
   }
   .marquee-track { animation: none !important; }
+}
+
+/* ============================================================
+   MOBILE BREATHING ROOM + BALANCED HOME SECTIONS
+   ============================================================ */
+
+/* Process: intro column and step list share one balanced grid. */
+.process-grid {
+  display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+  gap: clamp(36px, 6vw, 96px); align-items: start;
+}
+.process-intro { color: #C3D2C8; margin: 0; max-width: 40ch; padding-top: 6px; }
+.process-steps { list-style: none; margin: 0; padding: 0; }
+.process-step {
+  display: grid; grid-template-columns: 48px minmax(0, 1fr); gap: 20px;
+  padding: 24px 0; border-top: 1px solid rgba(255,255,255,.18);
+}
+.process-steps li:last-child .process-step { border-bottom: 1px solid rgba(255,255,255,.18); }
+.process-num { font-family: var(--fm); font-size: .72rem; color: #A9C4A0; padding-top: 6px; }
+.process-step h3 { margin: 0 0 8px; color: var(--paper); font-size: var(--t-md); }
+.process-step p { margin: 0; color: #C3D2C8; font-size: var(--t-sm); max-width: 52ch; }
+
+/* Why: heading and body on the same proportional grid, body top-aligned. */
+.why-grid {
+  display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+  gap: clamp(36px, 6vw, 96px); align-items: start;
+}
+.why-title { max-width: 15ch; margin-bottom: 0; }
+.why-body p { font-size: var(--t-base); }
+.why-body .textlink { display: inline-flex; align-items: center; min-height: 44px; margin-top: 8px; }
+
+/* Hero: more air between every block on phones. */
+@media (max-width: 760px) {
+  .home-hero { padding-block: 40px 56px; }
+  .home-hero-grid { gap: 48px; }
+  .home-brand-lockup { margin: 0 0 30px; }
+  .home-hero-lead { font-size: 1.0625rem; line-height: 1.6; margin-bottom: 30px; }
+  .home-hero-actions { flex-direction: column; align-items: stretch; gap: 14px; }
+  .home-hero-actions .btn { justify-content: center; width: 100%; }
+  .home-services-link { align-self: center; margin-top: 2px; }
+  .home-lh-row { margin-top: 30px; flex-direction: column; align-items: flex-start; gap: 12px; }
+  .hero-scene { width: min(100%, 360px); margin-top: 16px; }
+  .hero-scene-caption { margin-top: 6px; }
+  .process-grid, .why-grid { grid-template-columns: 1fr; gap: 34px; }
+  .process-intro { padding-top: 0; }
+  .process-step { padding: 22px 0; }
+}
+
+@media (max-width: 520px) {
+  .home-hero { padding-top: 32px; }
+  .home-hero-grid { gap: 44px; }
+  .home-hero-actions .btn-ghost { min-height: 48px; }
 }

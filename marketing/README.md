@@ -1,5 +1,7 @@
 # Easywurld — 30-Day Content Engine
 
+> **Moved:** the November 2026 content pack (210 posts, with rendered carousels, images, videos, captions and the A/B plan) now lives in its own standalone repo, `easywurld-marketing`. This folder keeps the brand rules and the earlier October calendar for reference.
+
 A ready-to-produce schedule of **120 social posts**: 30 days × 4 posts per day, with carousel slide copy, short-video scripts, visual directions and captions. Generate the assets in one batch, then schedule them.
 
 **Private working documents only:** this folder is outside `client/public`, is not linked from the website, and is not included in the production site build.

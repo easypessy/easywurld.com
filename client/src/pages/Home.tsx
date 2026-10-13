@@ -147,43 +147,38 @@ export default function Home() {
               Understand. Simplify. Build. Optimize.
             </h2>
           </Reveal>
-          <div className="grid-2" style={{ marginTop: 34, alignItems: "start" }}>
-            <p style={{ color: "#C3D2C8", maxWidth: "40ch" }}>
+          <div className="process-grid">
+            <p className="process-intro">
               Four stages, run in order, with a deliverable you can hold at the end of each.
               Nothing starts until we agree what the actual problem is — most briefs describe
               a symptom.
             </p>
-            <div>
+            <ol className="process-steps">
               {PROCESS.map(([t, d], i) => (
-                <Reveal key={t} delay={i * 70}>
-                  <div style={{
-                    display: "grid", gridTemplateColumns: "48px 1fr", gap: 22,
-                    padding: "22px 0", borderTop: "1px solid rgba(255,255,255,.18)",
-                  }}>
-                    <span style={{ fontFamily: "var(--fm)", fontSize: ".72rem", color: "#A9C4A0" }}>
-                      0{i + 1}
-                    </span>
+                <Reveal key={t} delay={i * 70} as="li">
+                  <div className="process-step">
+                    <span className="process-num">0{i + 1}</span>
                     <div>
-                      <h3 style={{ margin: "0 0 6px", color: "var(--paper)", fontSize: "var(--t-md)" }}>{t}</h3>
-                      <p style={{ margin: 0, color: "#C3D2C8", fontSize: "var(--t-sm)" }}>{d}</p>
+                      <h3>{t}</h3>
+                      <p>{d}</p>
                     </div>
                   </div>
                 </Reveal>
               ))}
-            </div>
+            </ol>
           </div>
         </div>
       </section>
 
       {/* WHY */}
       <section>
-        <div className="wrap grid-2">
+        <div className="wrap why-grid">
           <Reveal>
             <p className="eyebrow">05 / Why work with Easywurld</p>
-            <h2 style={{ maxWidth: "15ch" }}>Small enough to care about the detail.</h2>
+            <h2 className="why-title">Small enough to care about the detail.</h2>
           </Reveal>
           <Reveal delay={80}>
-            <div>
+            <div className="why-body">
               <p>
                 You deal with the person doing the work. There is no account manager relaying
                 messages, and no junior quietly assigned to your project after the pitch.
