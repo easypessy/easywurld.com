@@ -102,9 +102,9 @@ export default function Home() {
             <div>
               {PROCESS.map(([t, d], i) => (
                 <Reveal key={t} delay={i * 70}>
-                  <div style={{
+                  <div className="proc-row" style={{
                     display: "grid", gridTemplateColumns: "48px 1fr", gap: 22,
-                    padding: "22px 0", borderTop: "1px solid rgba(255,255,255,.18)",
+                    borderTop: "1px solid rgba(255,255,255,.18)",
                   }}>
                     <span style={{ fontFamily: "var(--fm)", fontSize: ".72rem", color: "#A9C4A0" }}>
                       0{i + 1}
