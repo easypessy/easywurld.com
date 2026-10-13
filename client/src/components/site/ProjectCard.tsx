@@ -18,6 +18,7 @@ export default function ProjectCard({ p }: { p: Project }) {
               src={p.shot}
               alt={`${p.title} — screenshot of the live ${p.industry.toLowerCase()} site`}
               loading="lazy"
+              fetchPriority="low"
               width={1000}
               height={625}
             />
