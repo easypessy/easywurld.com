@@ -44,7 +44,7 @@
   --t-2xl: 2.441rem; --t-3xl: 3.052rem; --t-4xl: 3.815rem;
 
   --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
-  --wrap: 1240px;
+  --wrap: 1120px;
 }
 
 * { box-sizing: border-box; }
@@ -56,7 +56,7 @@ body {
   color: var(--ink);
   font-family: var(--fb);
   font-size: var(--t-base);
-  line-height: 1.65;
+  line-height: 1.6;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -75,7 +75,7 @@ h1, h2, h3, h4 {
 h1 { font-size: clamp(2.3rem, 5.4vw, var(--t-4xl)); }
 h2 { font-size: clamp(1.85rem, 4vw, var(--t-3xl)); }
 h3 { font-size: var(--t-lg); line-height: 1.2; }
-p  { margin: 0 0 1.1em; max-width: 68ch; color: var(--ink-2); }
+p  { margin: 0 0 1.1em; max-width: 60ch; color: var(--ink-2); }
 
 ::selection { background: var(--green); color: var(--paper); }
 
@@ -87,9 +87,11 @@ p  { margin: 0 0 1.1em; max-width: 68ch; color: var(--ink-2); }
 }
 
 /* ---------- layout ---------- */
-.wrap { width: min(100% - 10vw, var(--wrap)); margin-inline: auto; }
-.wrap-narrow { width: min(100% - 10vw, 760px); margin-inline: auto; }
-section { padding-block: clamp(44px, 5.4vw, 78px); }
+.wrap { width: min(var(--wrap), 90%); margin-inline: auto; }
+.wrap-narrow { width: min(760px, 90%); margin-inline: auto; }
+/* Generous, calm rhythm. scroll-margin keeps section headings clear of the
+   sticky header when arriving via anchor / keyboard navigation. */
+section { padding-block: clamp(4rem, 10vw, 9rem); scroll-margin-top: 72px; }
 .rule { height: 1px; background: var(--line); border: 0; margin: 0; }
 
 .eyebrow {
@@ -100,6 +102,12 @@ section { padding-block: clamp(44px, 5.4vw, 78px); }
   color: var(--muted);
   display: flex; align-items: center; gap: 12px;
   margin-bottom: 20px;
+  white-space: nowrap;
+}
+@media (max-width: 760px) {
+  /* One short line on phones — never a wrapped two-line label. */
+  .eyebrow { font-size: 0.68rem; letter-spacing: 0.1em; gap: 8px; }
+  .eyebrow::before { width: 20px; }
 }
 .eyebrow::before {
   content: ""; width: 28px; height: 1px; background: var(--accent); flex: none;
@@ -135,14 +143,20 @@ section { padding-block: clamp(44px, 5.4vw, 78px); }
   backdrop-filter: saturate(140%) blur(9px);
   border-bottom: 1px solid var(--line);
 }
-.hdr-in { display: flex; align-items: center; justify-content: space-between; height: 76px; }
+.hdr-in { display: flex; align-items: center; justify-content: space-between; height: 72px; }
 .logo { font-family: var(--fh); font-weight: 700; font-size: 1.32rem; letter-spacing: -0.03em; line-height: 1;
   color: var(--green-deep); display: inline-flex; align-items: center; gap: 11px; }
 .logo-mark { width: 44px; height: 44px; object-fit: contain; display: block; flex: none; }
-@media (max-width: 520px) { .logo-mark { width: 36px; height: 36px; } }
 .logo small {
   display: block; font-family: var(--fh); font-size: 0.56rem; letter-spacing: 0.045em;
   color: var(--muted); margin-top: 5px; font-weight: 500;
+}
+@media (max-width: 900px) {
+  /* Compact mobile bar (~64px): mark only, no tagline stacked under it. */
+  .hdr-in { height: 64px; }
+  .hdr .logo { font-size: 1.18rem; gap: 9px; }
+  .hdr .logo-mark { width: 36px; height: 36px; }
+  .hdr .logo small { display: none; }
 }
 /* WebP <picture> wrappers stay invisible to layout: the <img> keeps its exact
    flex/grid sizing as before (perf-only change, no visual difference). */
@@ -327,7 +341,7 @@ section { padding-block: clamp(44px, 5.4vw, 78px); }
 
 @media (max-width: 900px) {
   .hdr nav {
-    position: fixed; inset: 76px 0 auto 0; flex-direction: column; align-items: flex-start;
+    position: fixed; inset: 64px 0 auto 0; flex-direction: column; align-items: flex-start;
     gap: 4px; background: var(--paper); border-bottom: 1px solid var(--line);
     padding: 18px 5vw 26px; transform: translateY(-12px); opacity: 0;
     pointer-events: none; transition: opacity .2s var(--ease), transform .2s var(--ease);
