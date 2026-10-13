@@ -30,14 +30,12 @@ export default function ProjectCard({ p }: { p: Project }) {
               <Artwork project={p} />
             </Suspense>
           )}
-          {p.liveUrl && (
-            <span className="live-tag">{p.liveUrl.endsWith(".pdf") ? "PDF document" : "Live build"}</span>
-          )}
         </div>
         <div className="card-meta">
           <span className="card-cat">{p.category} · {p.industry}</span>
           <h3>{p.title}</h3>
           <p>{p.summary}</p>
+          {/* One status tag per card — the honest build state, nothing else. */}
           <span className="badge" data-s={p.status} style={{ marginTop: 8 }}>{p.status}</span>
         </div>
       </Link>
