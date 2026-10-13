@@ -112,16 +112,20 @@
      --------------------------------------------------------------------------- */
 
   var css =
-    '.ew-launch{position:fixed;right:18px;bottom:18px;z-index:2147483000;display:inline-flex;align-items:center;gap:9px;' +
-    'min-height:52px;min-width:52px;padding:0 18px;border:0;border-radius:999px;cursor:pointer;' +
+    /* 48px launcher, 12px from the corner, hidden until the visitor has
+       scrolled past the hero so it never sits over the opening text. */
+    '.ew-launch{position:fixed;right:12px;bottom:12px;z-index:2147483000;display:inline-flex;align-items:center;justify-content:center;' +
+    'width:48px;height:48px;min-width:48px;min-height:48px;padding:0;border:0;border-radius:999px;cursor:pointer;' +
     'background:' + CONFIG.accent + ';color:#fff;font:600 15px/1 ui-sans-serif,-apple-system,"Segoe UI",sans-serif;' +
-    'box-shadow:0 6px 22px rgba(0,0,0,.22)}' +
-    '.ew-launch:hover{transform:translateY(-1px)}' +
+    'box-shadow:0 6px 22px rgba(0,0,0,.22);opacity:0;visibility:hidden;transform:translateY(8px);' +
+    'transition:opacity .25s ease,transform .25s ease,visibility .25s}' +
+    '.ew-launch.ew-show{opacity:1;visibility:visible;transform:none}' +
+    '.ew-launch.ew-show:hover{transform:translateY(-1px)}' +
     '.ew-launch:focus-visible{outline:3px solid #9E4E2C;outline-offset:3px}' +
     '.ew-launch svg{flex:none}' +
-    '@media(max-width:480px){.ew-launch span{display:none}.ew-launch{padding:0;width:56px;height:56px;justify-content:center}}' +
+    '.ew-launch span{display:none}' +
 
-    '.ew-panel{position:fixed;right:18px;bottom:82px;z-index:2147483000;width:min(370px,calc(100vw - 32px));' +
+    '.ew-panel{position:fixed;right:12px;bottom:72px;z-index:2147483000;width:min(370px,calc(100vw - 32px));' +
     'max-height:min(560px,calc(100vh - 110px));display:flex;flex-direction:column;background:' + CONFIG.paper + ';' +
     'color:' + CONFIG.ink + ';border:1px solid ' + CONFIG.line + ';border-radius:14px;overflow:hidden;' +
     'box-shadow:0 18px 50px rgba(0,0,0,.24);font:15px/1.55 ui-sans-serif,-apple-system,"Segoe UI",sans-serif;' +
@@ -151,7 +155,7 @@
     '.ew-form button{min-height:46px;background:' + CONFIG.accent + ';color:#fff;border:0;border-radius:8px;' +
     'font:inherit;font-weight:600;cursor:pointer}' +
     '.ew-foot{padding:9px 14px;border-top:1px solid ' + CONFIG.line + ';font-size:11.5px;color:#5F6659}' +
-    '@media(prefers-reduced-motion:reduce){.ew-panel{transition:none}.ew-launch:hover{transform:none}}' +
+    '@media(prefers-reduced-motion:reduce){.ew-panel,.ew-launch{transition:none}.ew-launch.ew-show:hover{transform:none}}' +
     '@media(prefers-contrast:more){.ew-b.bot{border-color:' + CONFIG.ink + '}}';
 
   function el(tag, attrs, text) {
@@ -334,7 +338,7 @@
         buttons(START);
       }
       setTimeout(function () { ui.close.focus(); }, 30);
-    } else {
+    } else if (ui.launcher.classList.contains("ew-show")) {
       ui.launcher.focus();
     }
   }
@@ -344,6 +348,20 @@
     ui.launcher.addEventListener("click", function () { toggle(!open); });
     ui.close.addEventListener("click", function () { toggle(false); });
     document.addEventListener("keydown", onKey);
+
+    var hero = document.querySelector(".home-hero");
+    function syncLauncher() {
+      var past;
+      if (hero) {
+        past = hero.getBoundingClientRect().bottom <= 120;
+      } else {
+        past = window.scrollY > Math.round(window.innerHeight * 0.8);
+      }
+      ui.launcher.classList.toggle("ew-show", past || open);
+    }
+    window.addEventListener("scroll", syncLauncher, { passive: true });
+    window.addEventListener("resize", syncLauncher, { passive: true });
+    syncLauncher();
   }
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);

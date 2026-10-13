@@ -209,12 +209,16 @@ section { padding-block: clamp(4rem, 10vw, 9rem); scroll-margin-top: 72px; }
 }
 
 /* ---------- footer ---------- */
-.ftr { background: var(--green); color: var(--beige); padding-block: 72px 40px; }
+/* The 88px bottom padding is deliberate clearance: the 48px chat launcher
+   (12px from the corner) always lands in empty footer space, never on text. */
+.ftr { background: var(--green); color: var(--beige); padding-block: 72px 88px; }
 .ftr h4 { font-family: var(--fm); font-size: var(--t-xs); letter-spacing: 0.16em;
   text-transform: uppercase; color: #9FB3A6; margin-bottom: 16px; font-weight: 500; }
 .ftr a:hover { color: #fff; text-decoration: underline; text-underline-offset: 4px; }
 .ftr-grid { display: grid; grid-template-columns: 1.6fr 1fr 1fr 1fr; gap: 42px; }
-.ftr-links { display: flex; flex-direction: column; gap: 9px; font-size: var(--t-sm); }
+/* One rhythm for every column: same gap, same row height, everywhere. */
+.ftr-links { display: flex; flex-direction: column; gap: 12px; font-size: var(--t-sm); }
+.ftr-links a { display: flex; align-items: center; line-height: 1.45; }
 .ftr-base { margin-top: 56px; padding-top: 22px; border-top: 1px solid rgba(255,255,255,.16);
   display: flex; justify-content: space-between; gap: 18px; font-size: var(--t-xs); color: #9FB3A6; }
 @media (max-width: 820px) {
