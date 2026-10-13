@@ -9,6 +9,8 @@ import Home from "./pages/Home";
 import Work from "./pages/Work";
 import CaseStudy from "./pages/CaseStudy";
 import Services from "./pages/Services";
+import Offers from "./pages/Offers";
+import OfferDetail from "./pages/OfferDetail";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 
@@ -22,6 +24,8 @@ function Router() {
       <Route path="/work"><Redirect to="/projects" /></Route>
       <Route path="/work/:slug">{(p) => <Redirect to={`/projects/${p.slug}`} />}</Route>
       <Route path="/services" component={Services} />
+      <Route path="/offers" component={Offers} />
+      <Route path="/offers/:slug" component={OfferDetail} />
       <Route path="/about" component={About} />
       <Route path="/contact" component={Contact} />
       <Route component={NotFound} />
