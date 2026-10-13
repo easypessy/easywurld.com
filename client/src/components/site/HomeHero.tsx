@@ -76,14 +76,18 @@ export default function HomeHero() {
           <p className="eyebrow">Independent digital studio · Lagos, Nigeria</p>
 
           <div className="home-brand-lockup">
-            <img
-              src="/brand/mark.png"
-              alt=""
-              className="home-brand-mark"
-              width={76}
-              height={76}
-              fetchPriority="high"
-            />
+            <picture>
+              <source srcSet="/brand/mark-256.webp" type="image/webp" />
+              <img
+                src="/brand/mark.png"
+                alt=""
+                className="home-brand-mark"
+                width={76}
+                height={76}
+                fetchPriority="high"
+                decoding="async"
+              />
+            </picture>
             <div className="home-brand-type">
               <h1 className="wordmark">Easywurld</h1>
               <p className="home-slogan">Simplify. Optimize. Grow.</p>
@@ -146,7 +150,10 @@ export default function HomeHero() {
             </svg>
 
             <div className="hero-mark-well">
-              <img src="/brand/mark.png" alt="" className="hero-mark-image" width={242} height={242} />
+              <picture>
+                <source srcSet="/brand/mark-512.webp" type="image/webp" />
+                <img src="/brand/mark.png" alt="" className="hero-mark-image" width={242} height={242} decoding="async" />
+              </picture>
             </div>
 
             <div className="hero-float-card hero-card-strategy">

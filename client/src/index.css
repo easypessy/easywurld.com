@@ -1,5 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap');
-@import 'tailwindcss';
+@import 'tailwindcss' source(none);
+
+/* Tailwind scans only shipped code. The ~45 unused ui/* components are
+   intentionally excluded so their utilities don't bloat the render-blocking CSS.
+   If a new ui/* import is added, register it here. */
+@source "./App.tsx";
+@source "./pages";
+@source "./components/site";
+@source "./components/ErrorBoundary.tsx";
+@source "./components/ui/button.tsx";
+@source "./components/ui/card.tsx";
 
 /* ============================================================
    EASYWURLD DESIGN SYSTEM
@@ -134,6 +143,11 @@ section { padding-block: clamp(44px, 5.4vw, 78px); }
 .logo small {
   display: block; font-family: var(--fh); font-size: 0.56rem; letter-spacing: 0.045em;
   color: var(--muted); margin-top: 5px; font-weight: 500;
+}
+/* WebP <picture> wrappers stay invisible to layout: the <img> keeps its exact
+   flex/grid sizing as before (perf-only change, no visual difference). */
+.logo picture, .home-brand-lockup picture, .hero-mark-well picture {
+  display: contents;
 }
 
 /* Homepage-only hero and its Easywurld brand lockup. */

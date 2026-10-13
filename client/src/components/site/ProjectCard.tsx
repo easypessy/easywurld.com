@@ -1,6 +1,11 @@
+import { Suspense, lazy } from "react";
 import { Link } from "wouter";
 import type { Project } from "@/data";
-import Artwork from "./Artwork";
+
+/* All 49 projects currently have photo shots, so the SVG artwork code (~60KB
+   source) never renders on first paint. Lazy-load it; the fallback keeps the
+   same beige box and aspect ratio (800x500) so layout is unchanged. */
+const Artwork = lazy(() => import("./Artwork"));
 
 export default function ProjectCard({ p }: { p: Project }) {
   const w = p.weight ?? 1;
@@ -17,7 +22,13 @@ export default function ProjectCard({ p }: { p: Project }) {
               height={625}
             />
           ) : (
-            <Artwork project={p} />
+            <Suspense
+              fallback={
+                <div className="artwork" style={{ aspectRatio: "8 / 5" }} aria-hidden="true" />
+              }
+            >
+              <Artwork project={p} />
+            </Suspense>
           )}
           {p.liveUrl && (
             <span className="live-tag">{p.liveUrl.endsWith(".pdf") ? "PDF document" : "Live build"}</span>
