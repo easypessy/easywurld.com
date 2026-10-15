@@ -25,6 +25,8 @@ Every post folder holds its image or video and its caption together, so you neve
 | Folder or file | What it is |
 | --- | --- |
 | `START_HERE.pdf` | How to use everything |
+| `Easywurld_Zero_Budget_Launch_Plan.pdf` (and `.docx`) | Your 30-day launch plan with no money needed |
+| `Free_Sample_5_Chat_Scripts.pdf` | A free sample to send to people before they buy |
 | `All_Posts_Preview.pdf` | Every post and caption, viewable as one PDF |
 | `daily_scripts/` | The same daily plans as text files |
 | `plan/` | The posting schedule spreadsheet |
