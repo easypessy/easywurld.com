@@ -75,29 +75,14 @@ export default function HomeHero() {
         <div className="home-hero-copy">
           <p className="eyebrow">Independent digital studio · Lagos, Nigeria</p>
 
-          <div className="home-brand-lockup">
-            <picture>
-              <source srcSet="/brand/mark-256.webp" type="image/webp" />
-              <img
-                src="/brand/mark.png"
-                alt=""
-                className="home-brand-mark"
-                width={76}
-                height={76}
-                fetchPriority="high"
-                decoding="async"
-              />
-            </picture>
-            <div className="home-brand-type">
-              <h1 className="wordmark">Easywurld</h1>
-              <p className="home-slogan">Simplify. Optimize. Grow.</p>
-            </div>
-          </div>
+          <h1 className="home-hero-title">
+            We build websites that help Lagos customers find you.
+          </h1>
 
           <p className="lead home-hero-lead">
-            Web design, SEO and content for small businesses in Lagos. Clear sites
-            that rank, load fast and turn visitors into enquiries — strategy, design,
-            words and practical systems, in one place.
+            We make websites, write the words, and set up simple systems for small
+            businesses in Lagos. A clear site loads fast, shows up in search, and turns
+            visitors into messages.
           </p>
 
           <div className="home-hero-actions">
@@ -148,13 +133,6 @@ export default function HomeHero() {
               <circle className="hero-circuit-node node-three" cx="351" cy="439" r="5" />
               <circle className="hero-circuit-node node-four" cx="75" cy="335" r="5" />
             </svg>
-
-            <div className="hero-mark-well">
-              <picture>
-                <source srcSet="/brand/mark-512.webp" type="image/webp" />
-                <img src="/brand/mark.png" alt="" className="hero-mark-image" width={242} height={242} decoding="async" />
-              </picture>
-            </div>
 
             <div className="hero-float-card hero-card-strategy">
               <span className="hero-card-index">01</span>

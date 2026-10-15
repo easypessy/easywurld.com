@@ -136,8 +136,8 @@ function Footer() {
               </span>
             </div>
             <p style={{ color: "#C3D2C8", marginTop: 18, maxWidth: "34ch", fontSize: "var(--t-sm)" }}>
-              Marketing clarity for small businesses. Strategy, design, content and
-              practical digital systems — Lagos, Nigeria.
+              Clear marketing for small businesses. Strategy, design, words and simple
+              systems — Lagos, Nigeria.
             </p>
           </div>
           <div>
@@ -146,7 +146,7 @@ function Footer() {
               <Link href="/services">Digital marketing strategy</Link>
               <Link href="/services">Web design</Link>
               <Link href="/services">Landing pages</Link>
-              <Link href="/services">business systems</Link>
+              <Link href="/services">Business systems</Link>
               <Link href="/services">Copywriting</Link>
               <Link href="/services">Reports & presentations</Link>
             </div>
@@ -156,7 +156,7 @@ function Footer() {
             <div className="ftr-links">
               <Link href="/projects">All projects</Link>
               <Link href="/projects?c=Web+Design">Web design</Link>
-              <Link href="/projects?c=Business+Systems">business systems</Link>
+              <Link href="/projects?c=Business+Systems">Business systems</Link>
               <Link href="/projects?c=Social+Media">Social media</Link>
             </div>
           </div>

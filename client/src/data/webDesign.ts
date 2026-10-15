@@ -14,23 +14,23 @@ export const webDesign: Project[] = [
     year: "2026",
     weight: 3,
     summary:
-      "A quiet, photography-led storefront for a small clothing label that sells three collections a year.",
+      "A quiet shop site for a small clothing label that sells three collections a year. The photos lead.",
     challenge:
-      "Independent labels usually inherit a template built for supermarkets: dense grids, badges, countdown timers. Northline's garments are slow, expensive and photographed beautifully, and that template made them look like fast fashion. The brief was to make a shop that could hold a 4000px image without apologising for it.",
+      "Most small labels start from a template built for big shops. Dense grids. Badges. Countdown timers. Northline's clothes are slow, costly and well photographed. The template made them look cheap and fast. The job was to build a shop that can hold one huge photo without making excuses for it.",
     approach:
-      "We designed the image pacing before the interface. A collection page alternates full-bleed frames with narrow text columns, so the eye rests between garments. Navigation is a single line of text that never competes. Price appears once, in the same size as body copy, because haggling over prominence is how a luxury page starts to look cheap.",
+      "We planned the photo flow before we drew any page. A collection page moves between full-width photos and narrow columns of text, so the eye rests between garments. The menu is one line of text and never fights for attention. The price shows once, in the same size as body text. Making a price shout is how an expensive shop starts to look cheap.",
     built: [
-      "Collection and lookbook templates on a 12-column editorial grid",
-      "Product page with a sticky size/fit rail and no upsell modules",
-      "Type-only navigation with a slow-fade mega panel",
-      "Image pipeline spec: AVIF, three breakpoints, art-directed crops",
+      "Collection and lookbook pages on a 12-column grid",
+      "Product page with a fixed size and fit panel, and no add-on offers",
+      "A text-only menu with a slow fade panel",
+      "Photo plan: AVIF files, three screen sizes, a crop made for each spot",
     ],
     direction:
-      "Off-white paper, ink black, one muted clay accent used only on hover. Headings in a high-contrast serif at generous sizes; body in a neutral grotesque at 17px. Almost no borders — separation is done with space, which is the most expensive-looking material available.",
+      "Off-white paper, black ink, and one soft clay colour used only on hover. Big headings in a high-contrast serif. Body text in a plain sans at 17px. Almost no lines. Space does the separating, and space is the cheapest way to look costly.",
     result:
-      "No performance data — this is a concept build, not a live store. What it demonstrates is a workable pattern for image-heavy retail: the product page carries a single action and the imagery is never cropped to fit a card.",
+      "No results data. This is a concept build, not a live shop. It shows a pattern that works for photo-heavy shops: the product page has one action, and no photo is ever cropped to fit a box.",
     takeaway:
-      "When the photography is the product, the interface's job is to disappear on time.",
+      "When the photos are the product, the design should step out of the way.",
     tags: ["Editorial", "E-commerce", "Photography"],
     visual: {
       archetype: "website",
@@ -57,23 +57,23 @@ export const webDesign: Project[] = [
     year: "2026",
     weight: 2,
     summary:
-      "A menu-first site for a thirty-cover restaurant that changes its dishes weekly.",
+      "A menu-first site for a small restaurant with thirty seats that changes its dishes every week.",
     challenge:
-      "The kitchen answered the same three questions on the phone all night: are you open, what's on, can we book. The old site buried all three under a hero video and an 'our story' essay. Worse, the menu was a PDF that the chef couldn't update without emailing a developer.",
+      "The kitchen answered the same three questions on the phone all night. Are you open? What is on today? Can we book? The old site hid all three under a video and a long story about the owners. Worse, the menu was a PDF, so the chef had to email a developer to change a dish.",
     approach:
-      "We inverted the hierarchy. Hours, tonight's menu and the booking link sit in the first screen on mobile, before any photography. The menu became structured content the chef edits directly, with a 'changed today' marker so regulars can see what's new without reading the whole list.",
+      "We put the useful things first. Opening hours, today's menu and the booking link sit at the top of a phone screen, before any photos. The menu is now content the chef edits directly. A 'changed today' mark shows regulars what is new, without making them read the whole list.",
     built: [
-      "Menu system with per-dish availability and a weekly changelog",
-      "Above-the-fold hours block that reads live opening state",
-      "Booking handoff to the existing reservation provider",
-      "Seasonal notice slot for closures and private events",
+      "Menu system with dish availability and a weekly change log",
+      "An hours block at the top that shows if they are open now",
+      "Booking handed to the service they already use",
+      "A space for holiday closures and private events",
     ],
     direction:
-      "Warm paper stock, deep olive ink, terracotta accent. A humanist serif for dish names at a size you can read across a table, and generous leading throughout — the layout is closer to a printed menu than to a website. Food photography is used sparingly, four images total, because a menu that needs photos of every dish is a menu that isn't written well.",
+      "Warm paper, deep olive ink, terracotta accent. Dish names use a friendly serif, big enough to read across a table, with roomy spacing. It reads closer to a printed menu than a website. Only four photos, because a menu that needs a photo of every dish is a menu that is not written well.",
     result:
-      "Concept build. The measurable intent is a reduction in phone enquiries for hours and menu — the practical outcome is that the three most-asked questions are answerable in under five seconds on a phone.",
+      "Concept build. The aim is fewer phone calls about hours and menus. In practice, the three most common questions can be answered in under five seconds on a phone.",
     takeaway:
-      "A restaurant site works when the phone stops ringing for the wrong reasons.",
+      "A restaurant site works when the phone stops ringing about small things.",
     tags: ["Hospitality", "Content editing", "Local"],
     visual: {
       archetype: "website",
@@ -100,23 +100,23 @@ export const webDesign: Project[] = [
     year: "2026",
     weight: 1,
     summary:
-      "A four-person advisory firm that kept losing pitches to competitors ten times its size.",
+      "A four-person advisory firm that kept losing bids to firms ten times its size.",
     challenge:
-      "Their old site copied the language of large consultancies — 'global capabilities', stock photos of glass towers — which invited exactly the comparison they lose. Prospects arrived unable to tell what Cedar actually did, who would do it, or what it cost.",
+      "Their old site copied the words big consultancies use. 'Global reach'. Stock photos of glass towers. That invited the exact comparison they always lose. Visitors could not tell what the firm did, who would do the work, or what it would cost.",
     approach:
-      "We stopped competing on scale and competed on specificity. Named people with real biographies. Engagement types with fee bands. Stated timelines. A page that says plainly what they decline to take on. Small firms win when the buyer can picture the first meeting.",
+      "We stopped trying to look big and started being exact. Named people with real backgrounds. Types of work with price bands. Clear timelines. A page that says out loud what they will not take on. Small firms win when the buyer can picture the first meeting.",
     built: [
-      "Service architecture split by engagement type rather than industry",
-      "Team pages with named leads and direct contact",
-      "An engagement explainer with indicative fee bands and durations",
-      "A 'work we don't take' section",
+      "Services split by type of work, not by industry",
+      "Team pages with names and direct contact details",
+      "A page on how an engagement runs, with price bands and timelines",
+      "A 'work we do not take' section",
     ],
     direction:
-      "Structured and typographic. Near-black on warm white, a single slate blue accent, 1px rules doing the organising. No photography of people in meetings. The grid is deliberately rigid — for an advisory firm, visible order is the aesthetic argument.",
+      "Orderly and text-led. Near-black on warm white, one slate blue accent, thin lines to organise the page. No photos of people in meetings. The grid is strict on purpose. For an advisory firm, visible order is the argument.",
     result:
-      "Concept build. The practical outcome is a site where a prospect can determine fit, cost range and named contact without sending an email first.",
+      "Concept build. In practice, a buyer can work out fit, rough cost and who to contact before sending an email.",
     takeaway:
-      "A small firm's advantage is specificity; every page should spend it rather than hide it.",
+      "A small firm wins on being exact. Every page should use that, not hide it.",
     tags: ["B2B", "Typography", "Trust"],
     visual: {
       archetype: "website",
@@ -143,23 +143,23 @@ export const webDesign: Project[] = [
     year: "2026",
     weight: 2,
     summary:
-      "A builder whose best evidence — 600 site photographs — was sitting unused on a phone.",
+      "A builder with 600 site photos on a phone, and almost none of them on the website.",
     challenge:
-      "Construction sites are judged on proof, and this builder had plenty: framing, pours, finishes, snagging. But the website showed four finished exteriors and a contact form. Prospective clients couldn't assess quality, and the firm kept being asked to price against contractors who cut corners.",
+      "Building work is judged on proof. This builder had plenty: frames, pours, finishes, snagging. The website showed four finished houses and a contact form. Clients could not judge the quality. So the firm kept being asked to match prices from builders who cut corners.",
     approach:
-      "We built the site around project chronology instead of a gallery. Each job is a sequence — survey, groundwork, structure, finish — with photographs and a short note per stage. This makes competence visible and, usefully, makes a low quote look suspicious by comparison.",
+      "We built the site around the order of the work, not a photo gallery. Each job is a sequence: survey, groundwork, structure, finish. Every stage has photos and a short note. This makes skill visible. It also makes a very low quote look odd by comparison.",
     built: [
-      "Project timeline template with staged photography",
-      "Trade and certification block with verifiable registration numbers",
-      "Service-area map with realistic travel radius",
-      "Enquiry form that asks for project stage and site address",
+      "A project timeline page with photos at each stage",
+      "A trade and certificate block with registration numbers you can check",
+      "A service area map with a realistic travel range",
+      "An enquiry form that asks for the job stage and the site address",
     ],
     direction:
-      "Bold and structural. Concrete grey, high-contrast black, a safety-yellow accent used only for wayfinding. Condensed grotesque headings, wide tracking on labels, hard 90-degree corners everywhere. Nothing soft — the design borrows from site signage rather than from brochures.",
+      "Strong and plain. Concrete grey, black, and a safety yellow used only for directions. Tight headings, wide letter spacing on labels, sharp corners everywhere. Nothing soft. The look comes from site signs, not brochures.",
     result:
-      "Concept build. The intended effect is qualification: enquiries arrive with stage and location already stated, so the builder can price or decline faster.",
+      "Concept build. The aim is better questions. Enquiries arrive with the stage and the location already stated, so the builder can price or say no faster.",
     takeaway:
-      "In trades, showing the middle of the job is more persuasive than showing the end of it.",
+      "In building work, showing the middle of the job proves more than showing the end.",
     tags: ["Trades", "Proof", "Local"],
     visual: {
       archetype: "website",
@@ -186,23 +186,23 @@ export const webDesign: Project[] = [
     year: "2026",
     weight: 1,
     summary:
-      "A results-focused skin clinic whose booking journey asked for commitment far too early.",
+      "A skin clinic that asked people to book before it told them anything.",
     challenge:
-      "Skin treatment is a considered, slightly anxious purchase. The previous site opened with a booking widget, which meant first-time visitors had to choose a treatment they didn't understand before they could learn anything. Repeat clients were fine; new clients bounced.",
+      "Skin treatment is a careful, slightly worrying purchase. The old site opened with a booking box. That meant new visitors had to pick a treatment they did not understand before they could read about it. Regulars were fine. New clients left.",
     approach:
-      "We split the audience. Returning clients get a booking link in the header — one tap, done. New clients get a concern-led route: choose what's bothering you, read what the treatment actually involves, see the honest range of outcomes, then book. Two journeys, one site.",
+      "We split the two groups. Regulars get a booking link at the top: one tap, done. New clients pick what is bothering them, read what the treatment really involves, see the honest range of results, then book. Two paths, one site.",
     built: [
-      "Concern-to-treatment mapping with plain-language explanations",
-      "Practitioner credentials and treatment contraindications",
-      "Split booking paths for new and returning clients",
-      "Aftercare content accessible without an account",
+      "A concern-to-treatment guide in plain language",
+      "Staff qualifications, and who should not have each treatment",
+      "Two booking paths: new and returning clients",
+      "Aftercare pages you can read without an account",
     ],
     direction:
-      "Calm and clinical without being cold. Soft sand background, deep plum ink, muted rose accent. A geometric sans throughout — no serif flourishes, because the credibility here is medical, not editorial. Generous spacing and short line lengths to keep a nervous reader moving.",
+      "Calm and clean, not cold. Soft sand background, deep plum ink, muted rose accent. One geometric sans throughout. No fancy serifs, because the trust here is medical, not editorial. Lots of space and short lines, so a worried reader keeps moving.",
     result:
-      "Concept build. No booking data exists. The design intent is to remove the need to understand the menu before understanding the problem.",
+      "Concept build. There is no booking data. The aim is to remove the need to understand the treatment list before you understand your own problem.",
     takeaway:
-      "When a purchase carries anxiety, reassurance has to come before the call to action.",
+      "When a purchase feels risky, comfort has to come before the button.",
     tags: ["Health", "Booking", "UX writing"],
     visual: {
       archetype: "website",
@@ -229,23 +229,23 @@ export const webDesign: Project[] = [
     year: "2026",
     weight: 1,
     summary:
-      "A learning centre where parents and adult learners needed completely different answers from the same site.",
+      "A learning centre where parents and adult learners needed very different answers from one site.",
     challenge:
-      "One navigation was serving two audiences with opposite questions. Parents want safeguarding, staff ratios, term dates and pickup logistics. Adult learners want cost, schedule flexibility and whether the certificate means anything. Merging them produced a site that half-answered both.",
+      "One menu served two groups with opposite questions. Parents want safety, staff numbers, term dates and pickup times. Adults want cost, evening classes and whether the certificate counts for anything. Putting both together gave half-answers to everyone.",
     approach:
-      "We forked the information architecture at the first click and refused to merge it again. Each path has its own language, its own proof and its own enquiry form. Shared pages — safeguarding policy, the building, the staff list — appear in both trees with different framing.",
+      "We split the site at the first click and kept it split. Each path has its own words, its own proof and its own form. Shared pages, like the safety policy and the staff list, appear in both paths with a different framing.",
     built: [
-      "Dual-path IA with separate enrolment funnels",
-      "Term calendar with downloadable dates",
-      "Course pages stating hours, cost and accreditation plainly",
-      "Safeguarding and policy hub",
+      "Two paths from the first click, with separate sign-up forms",
+      "A term calendar with dates you can download",
+      "Course pages that state hours, cost and certificates plainly",
+      "A safety and policy section",
     ],
     direction:
-      "Friendly but orderly. Chalk white, ink navy, a bright ochre accent for wayfinding. Rounded sans headings that read as approachable rather than childish; strong numbering and clear section rules so a parent scanning on a phone at 10pm finds the date they need.",
+      "Friendly but tidy. Chalk white, navy ink, bright ochre for directions. Rounded headings that feel easy, not childish. Strong numbering and clear section lines, so a parent reading on a phone at 10pm can find the date they need.",
     result:
-      "Concept build. The practical outcome is that neither audience has to read content written for the other before reaching an enquiry form.",
+      "Concept build. Neither group has to read the other group's content before reaching a form.",
     takeaway:
-      "Two audiences with different questions need two paths, not one compromise.",
+      "Two audiences with different questions need two paths, not one middle road.",
     tags: ["Education", "IA", "Dual audience"],
     visual: {
       archetype: "website",
@@ -272,23 +272,23 @@ export const webDesign: Project[] = [
     year: "2026",
     weight: 2,
     summary:
-      "Property search that starts from how someone wants to live rather than from a bedroom count.",
+      "Property search that starts with how you want to live, not how many bedrooms you need.",
     challenge:
-      "Every portal filters on the same four fields, so every agency site feels identical and competes only on inventory. Buyers, meanwhile, describe what they want in completely different terms: near a good school, quiet street, room for a workshop, walkable to the market.",
+      "Every property site filters on the same four fields, so every agency looks the same and competes only on what it has to sell. Buyers describe what they want in other words: near a good school, a quiet street, room for a workshop, a short walk to the market.",
     approach:
-      "We kept the conventional filters — they're necessary — but led with lifestyle entry points that map onto them behind the scenes. 'Walkable' resolves to a location set; 'space to work' resolves to floor area plus an outbuilding flag. The buyer speaks their language, the database hears its own.",
+      "We kept the normal filters, because you need them, but we put lifestyle choices first and matched them behind the scenes. 'Walkable' becomes a set of areas. 'Room to work' becomes floor space plus a spare building. The buyer uses their own words, and the system uses its own.",
     built: [
-      "Lifestyle entry points mapped to structured filters",
-      "Listing template with neighbourhood context and travel times",
-      "Saved-search and viewing-request flow",
-      "Honest photography policy: no wide-angle distortion",
+      "Lifestyle choices mapped to real filters",
+      "Listing pages with area information and travel times",
+      "A saved search and viewing request flow",
+      "A photo rule: no wide-angle distortion",
     ],
     direction:
-      "Editorial rather than transactional. Cool stone background, deep teal ink, brass accent. Large photography with a fixed aspect ratio across all listings so properties are compared fairly. A serif for place names and a grotesque for data — the split signals which parts are story and which are fact.",
+      "More magazine than shop. Cool stone background, deep teal ink, brass accent. Big photos at one fixed shape across every listing, so houses compare fairly. A serif for place names and a plain sans for facts. The split shows what is story and what is data.",
     result:
-      "Concept build. No enquiry data. The design demonstrates a search pattern that differentiates an agency without requiring more inventory.",
+      "Concept build. No enquiry data. It shows a search pattern that sets an agency apart without needing more stock.",
     takeaway:
-      "If everyone filters on the same four fields, the only way to stand out is to change the question.",
+      "If everyone filters on the same four fields, change the question.",
     tags: ["Property", "Search UX", "Editorial"],
     visual: {
       archetype: "website",

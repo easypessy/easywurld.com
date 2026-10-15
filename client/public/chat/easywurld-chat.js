@@ -29,7 +29,7 @@
     line: "#DBD3C4",
     launcherLabel: "Chat with Easywurld",
     greeting:
-      "Hello — you've reached Easywurld. Ask me anything below, or tell us about your business and we'll pick it up on WhatsApp.",
+      "Hello. You've reached Easywurld. Ask a question below, or tell us about your business and we'll reply on WhatsApp.",
 
     /* Optional, for later. Leave null and the widget stays fully rule-based.
        Set to a URL that accepts { messages: [...] } and returns { reply: "..." }
@@ -48,8 +48,8 @@
     offer: {
       q: "What do you offer?",
       a: [
-        "Seven things, and they connect: marketing strategy, web design, landing pages, search optimisation, social media management, copywriting, and business reports and presentations.",
-        "Most clients start with one — usually a website or a landing page — and add the rest once it's earning its keep.",
+        "Seven things that fit together: marketing plans, web design, landing pages, search, social media, copywriting, and business reports.",
+        "Most people start with one, often a website or a landing page, and add the rest later.",
       ],
       next: ["how", "cost", "time", "wa"],
     },
@@ -57,40 +57,40 @@
       q: "How does it work?",
       a: [
         "Four steps: Understand, Simplify, Build, Optimize.",
-        "We start with a conversation about what you're actually trying to fix. Then we cut the message back to what matters, build the thing, and adjust it once real people have used it.",
-        "You deal with the same people the whole way through.",
+        "We start by asking what you are really trying to fix. Then we cut the message down to what matters, build it, and adjust it once real people have used it.",
+        "You work with the same people all the way through.",
       ],
       next: ["offer", "cost", "time", "wa"],
     },
     cost: {
       q: "How much does it cost?",
       a: [
-        "It depends on the project — a one-page site and a seven-page site with content and search work aren't the same job, and we'd rather quote properly than throw a number at you.",
-        "Tell us your business type and what you need, and we'll come back with a range and what sits inside it.",
+        "It depends on the job. A one-page site and a seven-page site with content and search work are not the same job, and we would rather give you a real number than a guess.",
+        "Tell us what your business does and what you need, and we will send a range and what it covers.",
       ],
       next: ["form", "time", "wa"],
     },
     time: {
       q: "How long does it take?",
       a: [
-        "A landing page is usually about a week. A small business site is two to four weeks. Larger builds with content and search work run longer.",
-        "The honest bottleneck is normally content — photos, text, prices. When those arrive, things move quickly.",
+        "A landing page is usually about a week. A small business site takes two to four weeks. Bigger jobs with content and search work take longer.",
+        "The usual hold-up is content: photos, text, prices. Once those arrive, things move fast.",
       ],
       next: ["offer", "cost", "form", "wa"],
     },
     work: {
       q: "Can I see your work?",
       a: [
-        "Yes — the Projects page has the full portfolio, and most of them open the real working site or document, not a picture of one.",
-        "Everything is labelled concept or sample where it isn't a paying client. We don't dress up speculative work as commissioned work.",
+        "Yes. The Projects page has everything, and most of them open the real working site or document, not a picture of one.",
+        "Anything that is not paid client work is labelled concept or sample. We don't pass off practice work as client work.",
       ],
       next: ["offer", "cost", "wa"],
     },
     where: {
       q: "Where are you based?",
       a: [
-        "Lagos, Nigeria. We work with businesses across the country and remotely beyond it.",
-        "WhatsApp is the fastest way to reach us, usually same day.",
+        "Lagos, Nigeria. We work with businesses across the country and further away.",
+        "WhatsApp is the fastest way to reach us. We usually reply the same day.",
       ],
       next: ["offer", "form", "wa"],
     },
@@ -103,8 +103,8 @@
 
   /* Fallback when someone types something the rules don't cover */
   var FALLBACK = [
-    "I only know a handful of answers here, so I don't want to guess at that one.",
-    "Send it to a human on WhatsApp and you'll get a proper reply — usually the same day.",
+    "I only know a few answers here, so I won't guess at that one.",
+    "Send it to a person on WhatsApp and you'll get a proper reply, usually the same day.",
   ];
 
   /* ---------------------------------------------------------------------------

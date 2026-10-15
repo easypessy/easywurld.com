@@ -7,14 +7,14 @@ export default function About() {
     <>
       <Seo
         title="About Easywurld — A small digital studio in Lagos"
-        description="Easywurld is an independent digital studio in Lagos combining marketing strategy, web design, content and practical business systems for small businesses."
+        description="Easywurld is a small studio in Lagos. We do marketing plans, web design, words and simple systems for small businesses."
         path="/about"
       />
       <section style={{ paddingBottom: 20 }}>
         <div className="wrap">
           <Reveal>
             <p className="eyebrow">About</p>
-            <h1 style={{ maxWidth: "15ch" }}>Small enough to care deeply.</h1>
+            <h1 style={{ maxWidth: "15ch" }}>A small studio that cares about the details.</h1>
           </Reveal>
         </div>
       </section>
@@ -24,43 +24,41 @@ export default function About() {
           <Reveal>
             <div>
               <p className="lead">
-                Easywurld is an independent digital studio based in Lagos. We work with small
-                businesses that want thoughtful work without the theatre that usually comes
-                attached to it.
+                Easywurld is a small digital studio in Lagos. We work with small businesses
+                that want careful work, without the drama that usually comes with it.
               </p>
               <p>
-                The studio exists because of a pattern we kept seeing: a business hires a
-                designer, a separate copywriter, someone for social, and a developer. Each does
-                competent work. None of them speak to each other, and the result is a business
-                that says four different things in four different voices.
+                We started the studio because we kept seeing the same thing. A business hires
+                a designer, a writer, someone for social media, and a developer. Each one does
+                good work. But they don't talk to each other. So the business ends up saying
+                four different things in four different voices.
               </p>
               <p>
-                So we kept strategy, design, words and systems in one place. Not because we're
-                better at all four than a specialist would be, but because the joins are where
-                small businesses lose most of their money.
+                So we keep the plan, the design, the words and the systems in one place. Not
+                because we are better at all four than a specialist would be. But because the
+                gaps between them are where small businesses lose the most money.
               </p>
             </div>
           </Reveal>
           <Reveal delay={80}>
             <div>
-              <h3>What we're honest about</h3>
+              <h3>What we are honest about</h3>
               <p>
-                We're a young studio. The portfolio on this site is concept and sample work,
-                and every single project says so on its own card. We don't have client logos to
-                show you, we haven't invented testimonials, and we don't quote conversion
-                percentages we can't evidence.
+                We are a young studio. All the work on this site is concept or sample work,
+                and every project says so on its card. We have no client logos to show you. We
+                have not made up testimonials, and we don't quote sales numbers we can't prove.
               </p>
               <p>
-                We'd rather you judge the thinking. There are{" "}
-                <Link href="/projects" className="textlink">{projects.length} projects</Link> here,
-                each with a written case study explaining the problem, the decision and what we'd
-                change. That's a more useful thing to assess than a wall of logos.
+                We would rather you judge the thinking. There are{" "}
+                <Link href="/projects" className="textlink">{projects.length} projects</Link> here.
+                Each one has a case study that explains the problem, the choice we made, and
+                what we would change. That tells you more than a wall of logos.
               </p>
-              <h3 style={{ marginTop: 34 }}>What we decline</h3>
+              <h3 style={{ marginTop: 34 }}>What we turn down</h3>
               <p>
-                Work that needs a claim we can't support. Systems that pretend to be human
-                where that matters — healthcare, money, anything with a legal consequence.
-                And projects where the honest answer is that the client doesn't need us yet.
+                Work that needs a claim we can't back up. Systems that pretend to be a person
+                where that matters — health, money, anything with a legal result. And if the
+                honest answer is that you don't need us yet, we will say so.
               </p>
             </div>
           </Reveal>
@@ -70,30 +68,31 @@ export default function About() {
       <section style={{ background: "var(--beige)" }}>
         <div className="wrap">
           <p className="eyebrow">How we work</p>
-          <h2 style={{ maxWidth: "20ch" }}>Four stages, in order, with something at the end of each.</h2>
+          <h2 style={{ maxWidth: "20ch" }}>Four steps, in order. Each one ends with something real.</h2>
           <div className="grid-2" style={{ marginTop: 44 }}>
             <div>
-              <h3>You deal with the person doing the work</h3>
+              <h3>You talk to the person doing the work</h3>
               <p>
-                No account manager relaying messages, no junior quietly reassigned after the
-                pitch. The person in the first conversation is the person building the thing.
+                Nobody passes messages along for us, and no one new takes over after the first
+                meeting. The person you talk to first is the person who does the work.
               </p>
-              <h3 style={{ marginTop: 28 }}>Everything is handed over</h3>
+              <h3 style={{ marginTop: 28 }}>Everything is handed to you</h3>
               <p>
-                Templates, content systems, documentation. If you can't run it after we leave,
-                we've built you a dependency rather than a solution.
+                Templates, content plans, guides. If you can't run it after we leave, we have
+                given you a problem, not a solution.
               </p>
             </div>
             <div>
               <h3>We write things down</h3>
               <p>
-                Decisions, scope, price, and what's excluded — before work starts. Most
-                disagreements in this industry are really documentation failures.
+                We put the decisions, the scope, the price and what is not included in writing,
+                before any work starts. Most arguments in this business are really missing
+                paperwork.
               </p>
-              <h3 style={{ marginTop: 28 }}>We'll tell you to spend less</h3>
+              <h3 style={{ marginTop: 28 }}>We will tell you to spend less</h3>
               <p>
-                If a smaller piece of work solves the problem, that's the recommendation. It's
-                a worse invoice and a better outcome, and the second one matters more.
+                If a smaller job fixes the problem, that is what we will suggest. It is a
+                smaller bill for us and a better result for you. The second one matters more.
               </p>
             </div>
           </div>

@@ -15,19 +15,19 @@ export const reports: Project[] = [
     weight: 2,
     summary: "Sixty-page reports that nobody read past page three.",
     challenge:
-      "Research was commissioned, delivered and shelved. The findings were sound; the format buried them. Decisions were being made in meetings by people who had read the first two pages.",
+      "The research was paid for, delivered, and put on a shelf. The findings were good. The format hid them. Decisions were made in meetings by people who had read two pages.",
     approach:
-      "Restructured around decisions rather than methodology: what to do, why, and the evidence — in that order. Method moved to an appendix, where the people who need it will still find it.",
+      "We rebuilt it around decisions instead of method: what to do, why, then the evidence, in that order. The method moved to the back, where the people who want it can still find it.",
     built: [
-      "Decision summary as page one, one page maximum",
-      "Chart standards: one idea per chart, labelled directly",
-      "Section template with a standing 'so what' line",
-      "One-page brief version generated from the same content",
+      "A one-page summary of the decisions, right at the front",
+      "Chart rules: one idea per chart, labelled directly",
+      "A fixed question at the end of each section: so what?",
+      "A one-page brief made from the same content",
     ],
     direction:
-      "Borrowed from print journalism rather than corporate decks: a strong text column, generous margins, charts that sit inline. Ink on off-white, one accent for emphasis only.",
+      "Borrowed from newspapers, not slide decks: a strong column of text, wide margins, charts sitting inside the words. Black on off-white, one accent for emphasis.",
     result:
-      "Sample system. No readership data. The structural change is that the recommendation appears before the evidence rather than after it.",
+      "Sample system. No readership data. The change is simple: the recommendation comes before the evidence, not after.",
     takeaway: "A report nobody finishes is a report nobody commissioned.",
     tags: ["Reports", "Data", "Editorial"],
     visual: {
@@ -48,21 +48,21 @@ export const reports: Project[] = [
     status: "Sample Project",
     year: "2026",
     weight: 1,
-    summary: "A proposal template that gives a small team a consistent narrative.",
+    summary: "A proposal template that keeps a small team saying the same thing.",
     challenge:
-      "Every proposal was written from scratch by whoever had time, so quality varied with authorship and the pricing section was formatted differently each time. Clients noticed.",
+      "Every proposal was written from nothing by whoever had time. Quality changed with the writer, and the price section looked different each time. Clients noticed.",
     approach:
-      "Built a template with a fixed argument — understanding, approach, team, timeline, price, terms — and wrote the connective tissue so only the specifics need changing.",
+      "We built a template with a fixed order: what we understand, how we would work, the team, the timeline, the price, the terms. We wrote the joins, so only the details need changing.",
     built: [
-      "Six-section proposal template with locked structure",
-      "Pricing table with consistent inclusions and exclusions",
-      "Standing terms page cleared for reuse",
-      "Guidance notes for the author inside the template",
+      "A six-part proposal template with the order locked",
+      "A price table that lists what is in and what is out, every time",
+      "A standing terms page that can be reused",
+      "Notes inside the template to guide the writer",
     ],
     direction:
-      "Restrained and institutional. Navy and warm white, hairline rules, a single accent for the price line. Designed to print correctly, because proposals still get printed.",
+      "Calm and formal. Navy and warm white, thin lines, one accent on the price line. Built to print properly, because proposals still get printed.",
     result:
-      "Sample template. The practical outcome is consistency across authors rather than a higher win rate, which would require data to claim.",
+      "Sample template. The win is that every writer produces the same quality. We cannot claim a higher win rate without data.",
     takeaway: "Consistency is the cheapest form of credibility.",
     tags: ["Proposals", "Templates", "B2B"],
     visual: {
@@ -85,19 +85,19 @@ export const reports: Project[] = [
     weight: 1,
     summary: "A parents' evening deck that works in a bright hall.",
     challenge:
-      "The existing slides were dense paragraphs at 14pt, projected in a room with the lights on. Parents at the back read nothing and the presenter ended up reading the slides aloud.",
+      "The old slides were dense paragraphs at 14pt, shown in a hall with the lights on. Parents at the back could not read them, so the presenter read the slides out loud.",
     approach:
-      "One idea per slide, minimum 28pt, high contrast. The detail moved to a printed handout, which is where detail belongs when the audience is in a room rather than at a desk.",
+      "One idea per slide, 28pt or bigger, strong contrast. The detail moved to a printed handout. That is where detail belongs when people are standing in a hall, not sitting at a desk.",
     built: [
-      "24-slide deck with a one-idea-per-slide rule",
-      "Accompanying two-page handout carrying the detail",
-      "Presenter notes with timing per section",
-      "High-contrast variant for poorly lit rooms",
+      "24 slides, one idea on each",
+      "A two-page handout that carries the detail",
+      "Speaker notes with a time for each part",
+      "A high-contrast version for dim rooms",
     ],
     direction:
-      "Ivory and navy with ochre accents. Very large type, wide margins, no logo on every slide. Charts redrawn as single comparisons rather than full data tables.",
+      "Ivory and navy with ochre accents. Very large type, wide margins, no logo on every slide. Charts cut down to one comparison each, instead of full tables.",
     result:
-      "Sample deck. Designed against the constraint of the actual room rather than the author's monitor.",
+      "Sample deck. Designed for the real room, not for the writer's screen.",
     takeaway: "Design slides for the back row or don't use slides.",
     tags: ["Presentation", "Education", "Legibility"],
     visual: {
@@ -118,21 +118,21 @@ export const reports: Project[] = [
     status: "Sample Project",
     year: "2026",
     weight: 1,
-    summary: "A visual briefing document for a new property release.",
+    summary: "A briefing document for a new property release.",
     challenge:
-      "Agents were being briefed by email thread. By launch day, three of them were quoting different availability and two had the old price list.",
+      "Agents were briefed by email chain. By launch day, three were quoting different availability and two were using the old price list.",
     approach:
-      "A single briefing document with a version number and a date on every page, structured so an agent can find any fact in under ten seconds during a call.",
+      "One briefing document, with a version number and a date on every page. It is laid out so an agent can find any fact in under ten seconds while on a call.",
     built: [
-      "Versioned brief with change log on page two",
-      "Unit availability table designed for phone reading",
-      "Objection-and-answer sheet for known concerns",
-      "Printable one-page summary card",
+      "A versioned brief, with the changes listed on page two",
+      "An availability table built to be read on a phone",
+      "A sheet of common worries and answers",
+      "A one-page summary card you can print",
     ],
     direction:
-      "Stone and bronze, architectural photography, a strict two-column grid. Data set in a mono face so figures are unmistakable.",
+      "Stone and bronze, real building photos, a strict two-column grid. All numbers in a mono type, so nothing is misread.",
     result:
-      "Sample document. The useful mechanic is versioning: one source, dated, with changes listed.",
+      "Sample document. The useful part is versioning: one source, dated, with the changes written down.",
     takeaway: "If three people quote three prices, the problem is the document, not the people.",
     tags: ["Property", "Internal comms", "Versioning"],
     visual: {
@@ -153,21 +153,21 @@ export const reports: Project[] = [
     status: "Sample Project",
     year: "2026",
     weight: 1,
-    summary: "A seasonal plan built to be used in a stockroom, not filed.",
+    summary: "A seasonal plan made to be used in a stockroom, not filed away.",
     challenge:
-      "Previous plans were slide decks that lived on a laptop. The people who needed them were on a shop floor with wet hands and no screen.",
+      "Earlier plans were slide decks that stayed on a laptop. The people who needed them were on the shop floor, with wet hands and no screen.",
     approach:
-      "Designed for the wall. A3, printable in greyscale, one page per month, with the ordering deadlines as the most prominent element because those are what get missed.",
+      "We designed for the wall. A3 size, fine in black and white, one page per month. The order deadlines are the biggest thing on the page, because those are what get missed.",
     built: [
-      "Twelve monthly sheets, A3, greyscale-safe",
-      "Ordering deadlines as the dominant element",
-      "Seasonality chart by produce type",
-      "Blank column for handwritten notes",
+      "Twelve monthly sheets, A3, clear in black and white",
+      "Order deadlines as the biggest element",
+      "A season chart by type of produce",
+      "A blank column for handwritten notes",
     ],
     direction:
-      "Utilitarian: heavy rules, large numerals, high contrast, no photography. Legible at two metres under fluorescent light.",
+      "Practical: heavy lines, big numbers, strong contrast, no photos. Readable from two metres under strip lights.",
     result:
-      "Sample document. The design constraint was physical use, which changed almost every decision from what a digital-first plan would have been.",
+      "Sample document. The constraint was how it gets used in the hand. That changed almost every choice a screen-first plan would have made.",
     takeaway: "Ask where the document will physically be when it is read.",
     tags: ["Operations", "Print", "Planning"],
     visual: {
@@ -188,21 +188,21 @@ export const reports: Project[] = [
     status: "Sample Project",
     year: "2026",
     weight: 1,
-    summary: "A compact lookbook that also functions as an order form.",
+    summary: "A compact lookbook that doubles as an order form.",
     challenge:
-      "Buyers were given a beautiful lookbook and a separate spreadsheet, then asked to cross-reference the two. Orders arrived with wrong style codes.",
+      "Buyers got a lovely lookbook and a separate spreadsheet, and had to match them up by hand. Orders kept arriving with the wrong style codes.",
     approach:
-      "Merged them. Every image carries its style code, wholesale price and minimum quantity on the same spread, so the buyer never has to look away from the garment.",
+      "We put them together. Every photo carries its style code, wholesale price and minimum order on the same spread, so the buyer never looks away from the clothes.",
     built: [
-      "24-page lookbook with integrated order data",
-      "Style code system consistent with the warehouse",
-      "Size grid per style on the facing page",
-      "Print and screen versions from one layout",
+      "A 24-page lookbook with the order details built in",
+      "Style codes that match the warehouse exactly",
+      "A size grid for each style on the facing page",
+      "One layout that works for print and screen",
     ],
     direction:
-      "Generous image pacing with a small, precise data block in a fixed position on every spread. Paper white, ink black, no accent — the garments provide the colour.",
+      "Room around the images, and a small, exact data block in the same place on every spread. Paper white, black ink, no accent colour. The clothes bring the colour.",
     result:
-      "Sample document. The change is structural: one artefact instead of two, which removes the transcription step where errors occurred.",
+      "Sample document. The change is structural: one document instead of two, which removes the copying step where errors happen.",
     takeaway: "Two documents that must be read together should be one document.",
     tags: ["Fashion", "Wholesale", "Print"],
     visual: {
@@ -223,21 +223,21 @@ export const reports: Project[] = [
     status: "Sample Project",
     year: "2026",
     weight: 1,
-    summary: "Progress information formatted for clients, not for the site team.",
+    summary: "Progress updates written for clients, not for the site team.",
     challenge:
-      "Clients were receiving the internal progress report: trade abbreviations, programme references, variation codes. It generated anxious phone calls every fortnight asking what any of it meant.",
+      "Clients were sent the internal progress report: trade shorthand, schedule codes, variation numbers. It caused worried phone calls every two weeks asking what it all meant.",
     approach:
-      "A separate client-facing version derived from the same data — what happened, what is next, what needs a decision from you, and whether cost or date has moved. Four questions, answered every time.",
+      "A separate client version, built from the same data: what happened, what is next, what needs a decision from you, and whether the cost or the date has moved. Four questions, answered every time.",
     built: [
-      "Fortnightly client report template, two pages maximum",
-      "Decision-required section placed first",
-      "Plain-language progress photography with captions",
-      "Cost and programme movement stated explicitly, including zero",
+      "A two-weekly client report, two pages at most",
+      "The 'decisions needed' section first",
+      "Site photos with captions in plain words",
+      "Cost and date changes stated, even when the change is zero",
     ],
     direction:
-      "Clear and unfussy. Grey, black, one yellow accent for the decisions block. Photographs are captioned in full sentences, which is unusual and immediately more useful.",
+      "Clear and plain. Grey, black, one yellow accent on the decisions block. Photo captions are full sentences. That is unusual, and far more useful.",
     result:
-      "Sample template. The intent is fewer clarifying calls, though no call-volume data exists to claim it.",
+      "Sample template. The hope is fewer clarifying calls. We have no call data to claim that.",
     takeaway: "An internal document sent to a client is not a client report.",
     tags: ["Construction", "Client comms", "Templates"],
     visual: {

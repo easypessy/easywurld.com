@@ -6,27 +6,27 @@ import HomeHero from "@/components/site/HomeHero";
 import { Seo, Reveal, WA } from "@/components/site/Layout";
 
 const PROBLEMS = [
-  ["People can't tell what you do", "The message changed three times as the business grew and the website never caught up."],
-  ["The work is good, the presence isn't", "Referrals convert; strangers don't, because there is nothing for them to judge."],
-  ["Enquiries arrive and go cold", "Not a lead problem. A follow-up problem, and nobody owns it."],
-  ["Everything is done twice", "The same questions, the same quotes, the same posts — all retyped by hand."],
+  ["People can't tell what you do", "Your business grew and changed. The website still says what you said three years ago."],
+  ["Your work is good, your website isn't", "People who know you say yes. Strangers look you up, find nothing to trust, and leave."],
+  ["Messages come in, then go cold", "That is not a lead problem. It is a follow-up problem, and nobody owns it."],
+  ["Everything gets done twice", "The same questions, the same quotes, the same posts. All typed out again by hand."],
 ];
 
 const SERVICES = [
-  ["01", "Digital marketing strategy", "Audience, positioning, content and customer journeys — the thinking before the making."],
-  ["02", "Web design", "Business, service and local sites built to be understood in ten seconds."],
-  ["03", "Landing pages", "One offer, one action, and the objections handled in between."],
-  ["04", "business systems", "Receptionists, qualification and follow-up workflows with honest boundaries."],
-  ["05", "Social media management", "A content system that survives a busy month."],
-  ["06", "Copywriting & business content", "Plain words for websites, offers, emails and services."],
-  ["07", "Reports & presentations", "Documents people finish reading."],
+  ["01", "Digital marketing strategy", "Who you are talking to, what you say, and where you say it. The thinking before the making."],
+  ["02", "Web design", "Sites for businesses and services. A visitor should know what you do in ten seconds."],
+  ["03", "Landing pages", "One offer, one action. We answer the doubts in between."],
+  ["04", "Business systems", "Enquiry desks, lead checks and follow-up flows. Simple, and clear about what they can't do."],
+  ["05", "Social media management", "A content plan that still works in a busy month."],
+  ["06", "Copywriting & business content", "Plain words for your website, offers, emails and service pages."],
+  ["07", "Reports & presentations", "Reports and decks people read to the end."],
 ];
 
 const PROCESS = [
-  ["Understand", "We get close to the business, the audience and the real problem — which is often not the one described."],
-  ["Simplify", "We find the useful message and remove everything competing with it."],
-  ["Build", "We turn the thinking into clear, working, maintainable output."],
-  ["Optimize", "We look at what is working, fix what isn't, and hand over something you can run."],
+  ["Understand", "We learn about your business, your customers and the real problem. It is often not the one you first described."],
+  ["Simplify", "We find the message that matters and cut everything getting in its way."],
+  ["Build", "We make the thing. Clear, working, and easy to keep running."],
+  ["Optimize", "We check what works, fix what doesn't, and hand you something you can run."],
 ];
 
 export default function Home() {
@@ -35,18 +35,18 @@ export default function Home() {
     <>
       <Seo
         title="Easywurld | Web Design & SEO for Lagos Small Businesses"
-        description="Web design, SEO and content for small businesses in Lagos. Clear sites that rank, load fast and turn visitors into enquiries. Simplify. Optimize. Grow."
+        description="We build websites, write the words and set up simple systems for small businesses in Lagos. Clear sites that load fast, show up in search and turn visitors into messages. Simplify. Optimize. Grow."
         path="/"
       />
 
-      {/* HOMEPAGE HERO — dimensional Easywurld brand scene */}
+      {/* HOMEPAGE HERO — headline plus the dimensional Easywurld brand scene */}
       <HomeHero />
 
       <div className="marquee" aria-hidden="true">
         <div className="marquee-track">
           {[0, 1].map((dup) => (
             <div key={dup} style={{ display: "flex" }}>
-              {["Strategy", "Web design", "Landing pages", "business systems", "Social media",
+              {["Strategy", "Web design", "Landing pages", "Business systems", "Social media",
                 "Copywriting", "Reports & decks", "Lagos, Nigeria"].map((t) => (
                 <span className="marquee-item" key={t}>{t}</span>
               ))}
@@ -84,7 +84,7 @@ export default function Home() {
         <div className="wrap">
           <Reveal>
             <p className="eyebrow">02 / What we do</p>
-            <h2 style={{ maxWidth: "20ch" }}>Seven services, one connected system.</h2>
+            <h2 style={{ maxWidth: "20ch" }}>Seven services that fit together.</h2>
           </Reveal>
           <div style={{ marginTop: 30, borderTop: "1px solid var(--line)" }}>
             {SERVICES.map(([n, t, d], i) => (
@@ -111,7 +111,7 @@ export default function Home() {
             <div style={{ display: "flex", justifyContent: "space-between", alignItems: "end", gap: 30, flexWrap: "wrap" }}>
               <div>
                 <p className="eyebrow">03 / Selected work</p>
-                <h2 style={{ maxWidth: "16ch", margin: 0 }}>A body of work with a point of view.</h2>
+                <h2 style={{ maxWidth: "16ch", margin: 0 }}>Real designs, with the thinking behind them.</h2>
               </div>
               <Link href="/projects" className="textlink">
                 All {projects.length} projects →
@@ -121,8 +121,8 @@ export default function Home() {
           <div className="note" style={{ margin: "22px 0 30px", maxWidth: "70ch" }}>
             <p>
               Easywurld is a young studio. Every project below is a <strong>concept</strong> or
-              <strong> sample</strong> build, and each one says so on its card. We don't publish
-              client names, testimonials or performance figures we cannot evidence.
+              <strong> sample</strong> build, and each card says so. We don't list client names,
+              testimonials or numbers we can't prove.
             </p>
           </div>
           <div className="work-grid">
@@ -148,10 +148,15 @@ export default function Home() {
             </h2>
           </Reveal>
           <div className="grid-2" style={{ marginTop: 34, alignItems: "start" }}>
-            <p style={{ color: "#C3D2C8", maxWidth: "40ch" }}>
-              Four stages, run in order, with a deliverable you can hold at the end of each.
-              Nothing starts until we agree what the actual problem is — most briefs describe
-              a symptom.
+            {/* Same hairline and 22px padding as the first numbered row, so both
+                columns start their text on the same line. */}
+            <p style={{
+              color: "#C3D2C8", maxWidth: "40ch", margin: 0,
+              borderTop: "1px solid rgba(255,255,255,.18)", padding: "22px 0",
+            }}>
+              Four steps, in order. You get something you can hold at the end of each one.
+              We don't start until we agree on the real problem. Most briefs only describe
+              the symptom.
             </p>
             <div>
               {PROCESS.map(([t, d], i) => (
@@ -177,24 +182,26 @@ export default function Home() {
 
       {/* WHY */}
       <section>
-        <div className="wrap grid-2">
+        <div className="wrap grid-2 why-grid">
           <Reveal>
             <p className="eyebrow">05 / Why work with Easywurld</p>
-            <h2 style={{ maxWidth: "15ch" }}>Small enough to care about the detail.</h2>
+            <h2 style={{ maxWidth: "15ch" }}>Small enough to care about the little things.</h2>
           </Reveal>
           <Reveal delay={80}>
-            <div>
+            {/* Top-aligned on desktop, then dropped to sit level with the heading
+                rather than with the eyebrow above it. */}
+            <div className="why-copy">
               <p>
-                You deal with the person doing the work. There is no account manager relaying
-                messages, and no junior quietly assigned to your project after the pitch.
+                You talk to the person doing the work. Nobody passes messages along, and no
+                one new takes over after the first meeting.
               </p>
               <p>
-                We work across strategy, design, words and systems, so the parts fit together
-                instead of being handed between three suppliers who never speak.
+                We do the plan, the design, the words and the systems. So the parts fit
+                together, instead of being split between three people who never talk.
               </p>
               <p>
-                And we tell you when something isn't worth doing. A cheaper answer that solves
-                the problem is a better outcome than a larger invoice.
+                And we tell you when something is not worth paying for. A cheaper answer that
+                fixes the problem beats a bigger bill.
               </p>
               <Link href="/about" className="textlink">More about how we work →</Link>
             </div>
@@ -210,8 +217,8 @@ export default function Home() {
               Tell us what you're trying to solve.
             </h2>
             <p className="lead" style={{ maxWidth: "48ch", marginInline: "auto" }}>
-              A question, a half-formed idea, or a project ready to start. WhatsApp is the
-              fastest way to reach us.
+              A question, half an idea, or a project ready to start. WhatsApp is the fastest
+              way to reach us.
             </p>
             <div style={{ display: "flex", gap: 14, justifyContent: "center", flexWrap: "wrap", marginTop: 30 }}>
               <a href={WA} target="_blank" rel="noopener noreferrer" className="btn btn-wa">

@@ -13,21 +13,21 @@ export const digitalMarketing: Project[] = [
     status: "Concept Project",
     year: "2026",
     weight: 2,
-    summary: "Connecting listings, reviews and content for a business invisible in local search.",
+    summary: "Joining up listings, reviews and content for a business nobody finds online.",
     challenge:
-      "Strong word of mouth, no digital presence. The business appeared below aggregator sites for its own name. Listings were inconsistent across four platforms and reviews were requested inconsistently or not at all.",
+      "People told their friends, but online the business was nowhere. Search its own name and the big directory sites came first. Its details were different on four platforms, and reviews were asked for rarely, or never.",
     approach:
-      "Three things that were being run separately — listings accuracy, review generation and locally relevant content — treated as one system with a weekly maintenance rhythm a non-marketer can follow.",
+      "Three jobs were being done separately: keeping listings right, asking for reviews, and writing local content. We made them one system, with a weekly routine anyone can follow.",
     built: [
-      "Listing audit and correction across four platforms",
-      "Review request loop attached to job completion",
-      "Twelve locally specific content topics with search intent noted",
-      "One-page weekly maintenance checklist",
+      "Listings checked and fixed on four platforms",
+      "A review request sent when each job finishes",
+      "Twelve local content topics, with the search reason noted",
+      "A one-page weekly checklist",
     ],
     direction:
-      "The deliverable is documentation, so it is designed like documentation: clear hierarchy, numbered steps, printable. No dashboard theatre.",
+      "This one is a document, so it looks like a document: clear order, numbered steps, easy to print. No fancy dashboards.",
     result:
-      "Concept strategy. No ranking data, since it has not been executed. The output is an operating routine rather than a forecast.",
+      "Concept strategy. It has not been run, so there is no ranking data. What you get is a routine, not a forecast.",
     takeaway: "Local visibility is maintenance, not a launch.",
     tags: ["Local SEO", "Reviews", "Systems"],
     visual: {
@@ -48,21 +48,21 @@ export const digitalMarketing: Project[] = [
     status: "Concept Project",
     year: "2026",
     weight: 2,
-    summary: "Finding the leak between strong interest and booked viewings.",
+    summary: "Finding the leak between interest and booked viewings.",
     challenge:
-      "Top-of-funnel interest in a new development was healthy. Viewings were not. The assumption was a traffic problem; the evidence pointed at the middle of the journey, where an interested buyer had no obvious next step short of a full appointment.",
+      "Plenty of people were interested in the new building. Very few booked a viewing. Everyone assumed traffic was the problem. The real gap was in the middle: an interested buyer had no small next step, only a full appointment.",
     approach:
-      "We mapped every touchpoint from first impression to viewing and inserted two intermediate commitments — a floor-plan pack and a ten-minute call — so the gap between browsing and booking was no longer a cliff.",
+      "We mapped every step from first look to viewing, then added two small steps in between: a floor-plan pack and a ten-minute call. The jump from browsing to booking stopped being a cliff.",
     built: [
-      "Full journey map with drop-off hypotheses at each stage",
-      "Two intermediate commitment steps",
-      "Channel sequencing with message angle per stage",
-      "Follow-up cadence tied to which asset was requested",
+      "A journey map, with a guess at where people drop off at each stage",
+      "Two small steps in the middle, instead of one big one",
+      "Which channel to use at each stage, and what to say",
+      "Follow-up that depends on what the person asked for",
     ],
     direction:
-      "Presented as a horizontal journey diagram with stage-by-stage messaging beneath. Architectural restraint: stone, ink, one bronze accent for the leak point.",
+      "A journey laid out left to right, with the message for each stage underneath. Restrained colours: stone, ink, and one bronze mark for the leak.",
     result:
-      "Concept strategy. No campaign data. The diagnostic pattern — look mid-funnel before buying more traffic — is the transferable part.",
+      "Concept strategy. No campaign data. The habit worth copying: check the middle before buying more visitors.",
     takeaway: "Most funnels leak in the middle, not at the top.",
     tags: ["Funnel", "Property", "Journey mapping"],
     visual: {
@@ -85,19 +85,19 @@ export const digitalMarketing: Project[] = [
     weight: 1,
     summary: "Three buyers, three completely different reasons, one product.",
     challenge:
-      "A candle brand was writing every message for 'women 25–45', which is a demographic, not an audience. The gift buyer, the self-treat buyer and the wholesale buyer needed opposite arguments and were getting the same one.",
+      "A candle brand wrote every message for 'women 25 to 45'. That is an age group, not an audience. The gift buyer, the treat-yourself buyer and the shop buyer need different reasons. All three were getting the same one.",
     approach:
-      "We separated them by purchase motivation rather than demographics, then wrote a distinct message angle, objection set and channel priority for each.",
+      "We sorted them by why they buy, not by age. Then each group got its own message, its own worries to answer, and its own best channel.",
     built: [
-      "Three motivation-led segments with real quotes",
-      "Message angle and primary objection per segment",
-      "Channel priority matrix",
-      "Seasonal weighting, since gift demand is not constant",
+      "Three groups split by why they buy, with real quotes",
+      "One message and one main worry for each group",
+      "Which channel matters most for each group",
+      "Season timing, because gift buying is not steady",
     ],
     direction:
-      "Three-column comparative layout so the differences are visible at a glance. Warm neutrals with one accent per segment.",
+      "Three columns side by side, so you can see the differences at a glance. Warm neutral colours, with one accent for each group.",
     result:
-      "Concept strategy. Demonstrates segmentation by reason-to-buy rather than by age bracket.",
+      "Concept strategy. It groups people by why they buy, not by how old they are.",
     takeaway: "A demographic is not an audience.",
     tags: ["Segmentation", "Messaging", "E-commerce"],
     visual: {
@@ -118,22 +118,22 @@ export const digitalMarketing: Project[] = [
     status: "Concept Project",
     year: "2026",
     weight: 1,
-    summary: "Turning a consultant's expertise into predictable demand.",
+    summary: "Turning a consultant's know-how into steady work.",
     challenge:
-      "Work arrived entirely through referral, which meant revenue was unpredictable and the pipeline was invisible. Attempts at marketing had been scattershot across five channels at once.",
+      "Every job came from a referral. Income was unpredictable, and there was no way to see what was coming. Past marketing had been spread thin over five channels at once.",
     approach:
-      "We cut to two channels chosen on where the buyer already looks, and built a publishing rhythm sustainable at four hours a month. Referral is kept as a channel, but made deliberate rather than accidental.",
+      "We cut down to two channels, picked because that is where buyers already look, and set a posting rhythm that fits four hours a month. Referrals are still a channel. Now they are planned, not lucky.",
     built: [
-      "Channel selection rationale with explicit rejections",
-      "Referral prompt system for past clients",
-      "Monthly publishing rhythm sized to available time",
-      "Simple pipeline tracking in a spreadsheet, not a CRM",
+      "Why these channels, and why the others were dropped",
+      "A simple way to ask past clients for referrals",
+      "A monthly rhythm that fits the time available",
+      "Pipeline tracking in a spreadsheet, not a CRM",
     ],
     direction:
-      "Sober and typographic. Near-white, ink black, one slate accent. Presented as a short strategy document rather than a deck.",
+      "Plain and text-led. Near-white, black ink, one slate accent. It reads as a short document, not a slide deck.",
     result:
-      "Concept strategy. The honest position is that referral is already working and should be systematised before new channels are added.",
-    takeaway: "Before adding channels, make the one that already works deliberate.",
+      "Concept strategy. The honest point: referrals already work, so make them reliable before adding anything new.",
+    takeaway: "Before adding a channel, make the one that works a habit.",
     tags: ["Consulting", "Channels", "Referral"],
     visual: {
       archetype: "strategy", bg: "#FAFAF8", ink: "#141619", accent: "#3D5A73", muted: "#6E747B",
@@ -155,19 +155,19 @@ export const digitalMarketing: Project[] = [
     weight: 1,
     summary: "Filling Tuesday and Wednesday without discounting Friday.",
     challenge:
-      "Weekends sold out; midweek sat half empty. The instinct was a blanket discount, which would have cannibalised the profitable nights and trained regulars to wait.",
+      "Weekends were full. Tuesday and Wednesday were half empty. The first idea was a blanket discount. That would have eaten into the good nights and taught regulars to wait.",
     approach:
-      "A midweek-only proposition with its own name, its own menu and its own audience — people who live nearby and eat out spontaneously, rather than people who book occasions weeks ahead.",
+      "We built an offer for midweek only, with its own name, its own menu and its own audience: people who live nearby and decide on the day, not people who book weeks ahead.",
     built: [
-      "Midweek proposition distinct from the weekend offer",
-      "Audience definition based on proximity and spontaneity",
-      "Message calendar timed to the decision window",
-      "Guardrails preventing weekend discounting",
+      "A midweek offer, clearly separate from the weekend",
+      "An audience based on living close and deciding late",
+      "Messages timed to when people decide",
+      "Rules that stop the discount spreading to weekends",
     ],
     direction:
-      "Warm and informal, visibly different from the main brand's evening materials so the two offers never blur.",
+      "Warm and casual, clearly different from the evening brand, so the two offers never mix.",
     result:
-      "Concept campaign. No covers data. The structural idea is segmenting by occasion rather than discounting across the board.",
+      "Concept campaign. No covers data. The idea is to aim one offer at one occasion, instead of discounting everything.",
     takeaway: "Discount the empty night, never the full one.",
     tags: ["Hospitality", "Yield", "Campaign"],
     visual: {
@@ -188,22 +188,22 @@ export const digitalMarketing: Project[] = [
     status: "Concept Project",
     year: "2026",
     weight: 1,
-    summary: "From local discovery to a first session that people actually attend.",
+    summary: "From finding the studio to a first class people really attend.",
     challenge:
-      "Trial sign-ups were respectable; attendance at the trial was not. A no-show trial costs more than a lost lead because a coach's hour is already committed.",
+      "Plenty of people signed up for a trial. Far fewer turned up. A no-show costs more than a lost lead, because the coach's hour is already set aside.",
     approach:
-      "We moved the effort from acquisition to the gap between booking and attending: a confirmation that sets expectations, a reminder that reduces anxiety, and a named coach the person expects to meet.",
+      "We moved the effort to the gap between booking and turning up. A confirmation that sets expectations. A reminder that calms nerves. And a coach with a name, so the person knows who to look for.",
     built: [
-      "Pre-attendance sequence with what-to-expect content",
-      "Named coach introduction before the first session",
-      "Anxiety-reduction messaging for complete beginners",
-      "Rebooking path for no-shows that isn't punitive",
+      "Messages before the visit, explaining what will happen",
+      "An introduction to the coach, by name",
+      "Calm wording for total beginners",
+      "A kind way for no-shows to rebook",
     ],
     direction:
-      "Direct and energetic without shouting. Black, chalk, one orange accent. Diagrams over prose.",
+      "Direct and lively, but not loud. Black, chalk, one orange accent. Pictures instead of paragraphs.",
     result:
-      "Concept strategy. The reframing — attendance, not sign-ups, is the metric — is the contribution.",
-    takeaway: "Optimise the step that wastes your capacity, not the one that flatters your dashboard.",
+      "Concept strategy. The main idea: count who turns up, not who signs up.",
+    takeaway: "Fix the step that wastes your time, not the one that looks good on a chart.",
     tags: ["Fitness", "Attendance", "Funnel"],
     visual: {
       archetype: "strategy", bg: "#18181A", ink: "#F4F4F2", accent: "#FF6B2C", muted: "#9B9B98",
@@ -223,22 +223,22 @@ export const digitalMarketing: Project[] = [
     status: "Concept Project",
     year: "2026",
     weight: 1,
-    summary: "An intake campaign built around a decision that takes six weeks.",
+    summary: "A sign-up campaign built around a choice that takes six weeks.",
     challenge:
-      "Enrolment marketing ran for two weeks before term, while the actual decision — involving a partner, a budget and a childcare rearrangement — takes far longer than that.",
+      "The campaign ran for two weeks before term started. The real choice takes much longer. It involves a partner, a budget and new childcare plans.",
     approach:
-      "We stretched the campaign to match the real decision period and staged the content: awareness early, logistics in the middle, deadline pressure only at the end, where it is legitimate.",
+      "We made the campaign as long as the real decision. Early on, people learn it exists. In the middle, they get the practical details. Only at the end is there a deadline, where that is fair.",
     built: [
-      "Six-week staged campaign matched to decision length",
-      "Content mapped to the question asked at each stage",
-      "Partner-facing material, since the decision is rarely solo",
-      "Deadline messaging restricted to the final week",
+      "Six weeks, matched to how long the choice takes",
+      "Content that answers the question asked at each stage",
+      "Material for partners, because the choice is rarely made alone",
+      "Deadline talk only in the last week",
     ],
     direction:
-      "Institutional warmth: ivory, navy, ochre. A timeline is the primary artwork because the timing is the strategy.",
+      "Warm and steady: ivory, navy, ochre. A timeline is the main picture, because the timing is the plan.",
     result:
-      "Concept strategy. No intake numbers. The insight is calendar alignment, not message improvement.",
-    takeaway: "Match the campaign length to the decision length, not to the budget cycle.",
+      "Concept strategy. No intake numbers. The point is the calendar, not better wording.",
+    takeaway: "Make the campaign as long as the decision, not as long as the budget year.",
     tags: ["Education", "Timing", "Campaign"],
     visual: {
       archetype: "strategy", bg: "#FCFAF4", ink: "#1C2A46", accent: "#D18A18", muted: "#737C8E",
