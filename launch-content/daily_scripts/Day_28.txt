@@ -7,7 +7,7 @@ More posts do not guarantee more sales. Stories and Status carry the volume. Kee
 
 ----------------------------------------------------------------------
 08:00  ·  Instagram + Facebook feed  ·  Carousel or tip post  ·  CORE
-File(s): O01_Carousel1_Slide1.png, O01_Carousel1_Slide2.png, O01_Carousel1_Slide3.png, O01_Carousel1_Slide4.png, O01_Carousel1_Slide5.png, O01_Carousel1_Slide6.png
+Folder: Post_01_0800_Instagram-and-Facebook-feed_Carousel-or-tip-post   (inside the Day_28 folder: Caption.txt + Slide_1 to Slide_6)
 Caption / text to copy:
 
 Five stages of a chat sale
@@ -20,7 +20,7 @@ Chat-to-Customer Playbook, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837
 
 ----------------------------------------------------------------------
 09:00  ·  WhatsApp Status  ·  Launch / promo post  ·  optional boost
-File(s): O01_Post02_Launch.png
+Folder: Post_02_0900_WhatsApp-Status_Launch-promo-post   (inside the Day_28 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 New from Easywurld: The Chat-to-Customer Playbook.
@@ -37,7 +37,7 @@ Message PLAYBOOK on WhatsApp: 0905 069 0837
 
 ----------------------------------------------------------------------
 10:30  ·  Instagram Story  ·  New-offer story  ·  optional boost
-File(s): O01_Story1_New.png
+Folder: Post_03_1030_Instagram-Story_New-offer-story   (inside the Day_28 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 New: The Chat-to-Customer Playbook. Tap, then message PLAYBOOK on WhatsApp.
@@ -46,7 +46,7 @@ Link or contact: https://wa.me/2349050690837
 
 ----------------------------------------------------------------------
 12:30  ·  Instagram Reel + Facebook video  ·  Short video  ·  CORE
-File(s): O01_Video1_Price-question.mp4
+Folder: Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video   (inside the Day_28 folder: Caption.txt + Video.mp4)
 Caption / text to copy:
 
 Price question
@@ -69,7 +69,7 @@ Suggested hashtags: #NigerianBusiness #SmallBusinessNigeria #LagosBusiness #Easy
 
 ----------------------------------------------------------------------
 13:30  ·  WhatsApp Status  ·  What is inside  ·  optional boost
-File(s): O01_Post09_Mockup.png
+Folder: Post_05_1330_WhatsApp-Status_What-is-inside   (inside the Day_28 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 4 files, one download.
@@ -82,7 +82,7 @@ Message PLAYBOOK on WhatsApp: 0905 069 0837
 
 ----------------------------------------------------------------------
 15:00  ·  Facebook feed  ·  Honest-answer (objection) post  ·  CORE
-File(s): O01_Post08_Honest-answer.png
+Folder: Post_06_1500_Facebook-feed_Honest-answer-objection-post   (inside the Day_28 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 Fair. That is why it is built to be used, not studied.
@@ -95,7 +95,7 @@ Chat-to-Customer Playbook, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837
 
 ----------------------------------------------------------------------
 16:00  ·  Instagram Story  ·  Price story  ·  optional boost
-File(s): O01_Story2_Price.png
+Folder: Post_07_1600_Instagram-Story_Price-story   (inside the Day_28 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 The Chat-to-Customer Playbook: ₦5,000. Estimated replacement cost of what is inside: ₦35,000 (our estimate, not a previous price).
@@ -104,7 +104,7 @@ Link or contact: https://wa.me/2349050690837
 
 ----------------------------------------------------------------------
 17:00  ·  WhatsApp Status  ·  Direct-response post  ·  CORE
-File(s): O01_Post06_Order.png
+Folder: Post_08_1700_WhatsApp-Status_Direct-response-post   (inside the Day_28 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 Want the The Chat-to-Customer Playbook?
@@ -117,7 +117,7 @@ Message PLAYBOOK on WhatsApp: 0905 069 0837
 
 ----------------------------------------------------------------------
 18:30  ·  LinkedIn  ·  Text post (no media needed)  ·  optional boost
-File(s): O01_LinkedIn2.txt
+Folder: Post_09_1830_LinkedIn_Text-post-no-media-needed   (inside the Day_28 folder: Caption.txt only)
 Caption / text to copy:
 
 A question for anyone who sells through WhatsApp: how many enquiries did you get last week, and how many did you follow up?
@@ -132,7 +132,7 @@ Message PLAYBOOK on WhatsApp for details.
 
 ----------------------------------------------------------------------
 20:00  ·  Instagram + Facebook feed  ·  Second feed post  ·  optional boost
-File(s): O01_Post01_Tip.png
+Folder: Post_10_2000_Instagram-and-Facebook-feed_Second-feed-post   (inside the Day_28 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 Someone asks “how much?” and you reply with a number. Then silence.
@@ -150,7 +150,7 @@ The Chat-to-Customer Playbook has 36 scripts like this, plus a tracker. ₦5,000
 
 ----------------------------------------------------------------------
 21:00  ·  WhatsApp Status  ·  Banner or price graphic  ·  optional boost
-File(s): O01_Banner.png
+Folder: Post_11_2100_WhatsApp-Status_Banner-or-price-graphic   (inside the Day_28 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 The Chat-to-Customer Playbook. ₦5,000.

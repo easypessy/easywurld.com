@@ -7,7 +7,7 @@ More posts do not guarantee more sales. Stories and Status carry the volume. Kee
 
 ----------------------------------------------------------------------
 08:00  ·  Instagram + Facebook feed  ·  Carousel or tip post  ·  CORE
-File(s): O05_Carousel2_Slide1.png, O05_Carousel2_Slide2.png, O05_Carousel2_Slide3.png, O05_Carousel2_Slide4.png, O05_Carousel2_Slide5.png, O05_Carousel2_Slide6.png
+Folder: Post_01_0800_Instagram-and-Facebook-feed_Carousel-or-tip-post   (inside the Day_14 folder: Caption.txt + Slide_1 to Slide_6)
 Caption / text to copy:
 
 Profile checklist: the basics
@@ -20,7 +20,7 @@ Lagos Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 08
 
 ----------------------------------------------------------------------
 09:00  ·  WhatsApp Status  ·  Launch / promo post  ·  optional boost
-File(s): O05_Post10_Whats-inside.png
+Folder: Post_02_0900_WhatsApp-Status_Launch-promo-post   (inside the Day_14 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 The Lagos Local Visibility Starter: 4 files for ₦5,000.
@@ -36,7 +36,7 @@ Message LOCAL on WhatsApp: 0905 069 0837
 
 ----------------------------------------------------------------------
 10:30  ·  Instagram Story  ·  New-offer story  ·  optional boost
-File(s): O05_Story1_New.png
+Folder: Post_03_1030_Instagram-Story_New-offer-story   (inside the Day_14 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 New: The Lagos Local Visibility Starter. Tap, then message LOCAL on WhatsApp.
@@ -45,7 +45,7 @@ Link or contact: https://wa.me/2349050690837
 
 ----------------------------------------------------------------------
 12:30  ·  Instagram Reel + Facebook video  ·  Short video  ·  CORE
-File(s): O05_Video2_Reviews.mp4
+Folder: Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video   (inside the Day_14 folder: Caption.txt + Video.mp4)
 Caption / text to copy:
 
 Reviews
@@ -68,7 +68,7 @@ Suggested hashtags: #NigerianBusiness #SmallBusinessNigeria #LagosBusiness #Easy
 
 ----------------------------------------------------------------------
 13:30  ·  WhatsApp Status  ·  What is inside  ·  optional boost
-File(s): O05_Post09_Mockup.png
+Folder: Post_05_1330_WhatsApp-Status_What-is-inside   (inside the Day_14 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 4 files, one download.
@@ -81,7 +81,7 @@ Message LOCAL on WhatsApp: 0905 069 0837
 
 ----------------------------------------------------------------------
 15:00  ·  Facebook feed  ·  Honest-answer (objection) post  ·  CORE
-File(s): O05_Post08_Honest-answer.png
+Folder: Post_06_1500_Facebook-feed_Honest-answer-objection-post   (inside the Day_14 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 The examples are Lagos-based, because that is where the Easywurld team is. The method works for any Nigerian town: profile, titles, reviews.
@@ -92,7 +92,7 @@ Lagos Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 08
 
 ----------------------------------------------------------------------
 16:00  ·  Instagram Story  ·  Price story  ·  optional boost
-File(s): O05_Story2_Price.png
+Folder: Post_07_1600_Instagram-Story_Price-story   (inside the Day_14 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 The Lagos Local Visibility Starter: ₦5,000. Estimated replacement cost of what is inside: ₦32,500 (our estimate, not a previous price).
@@ -101,7 +101,7 @@ Link or contact: https://wa.me/2349050690837
 
 ----------------------------------------------------------------------
 17:00  ·  WhatsApp Status  ·  Direct-response post  ·  CORE
-File(s): O05_Post06_Order.png
+Folder: Post_08_1700_WhatsApp-Status_Direct-response-post   (inside the Day_14 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 Want the The Lagos Local Visibility Starter?
@@ -114,7 +114,7 @@ Message LOCAL on WhatsApp: 0905 069 0837
 
 ----------------------------------------------------------------------
 18:30  ·  LinkedIn  ·  Text post (no media needed)  ·  optional boost
-File(s): O05_LinkedIn2.txt
+Folder: Post_09_1830_LinkedIn_Text-post-no-media-needed   (inside the Day_14 folder: Caption.txt only)
 Caption / text to copy:
 
 A small habit with a big payoff for local businesses: ask every happy customer for a review, every time.
@@ -129,7 +129,7 @@ Message LOCAL on WhatsApp.
 
 ----------------------------------------------------------------------
 20:00  ·  Instagram + Facebook feed  ·  Second feed post  ·  optional boost
-File(s): O05_Post04_Tip.png
+Folder: Post_10_2000_Instagram-and-Facebook-feed_Second-feed-post   (inside the Day_14 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 A half-filled profile makes customers guess.
@@ -146,7 +146,7 @@ The Lagos Local Visibility Starter includes a complete setup checklist. ₦5,000
 
 ----------------------------------------------------------------------
 21:00  ·  WhatsApp Status  ·  Banner or price graphic  ·  optional boost
-File(s): O05_Banner.png
+Folder: Post_11_2100_WhatsApp-Status_Banner-or-price-graphic   (inside the Day_14 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 The Lagos Local Visibility Starter. ₦5,000.

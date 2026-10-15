@@ -1,11 +1,36 @@
-# Easywurld launch content (marketing posts only)
+# Easywurld launch content (posts only)
 
-Social posts, captions, videos, daily 11-a-day scripts, schedule and WhatsApp QR codes for the nine ₦5,000 offers.
+## Get everything in ONE click
 
-- `posts/`: every graphic, carousel slide and video, each with a matching `.txt` caption
-- `daily_scripts/`: `Day_01.txt` to `Day_30.txt` (what to post at what time)
-- `plan/11_a_Day_Schedule.xlsx`: the schedule spreadsheet
-- `qr_codes/`: WhatsApp QR cards and links
-- `START_HERE.pdf`, `All_Posts_Preview.pdf`: how to use it, and a viewable preview of everything
+1. Click **[Easywurld_Posts_By_Day.zip](Easywurld_Posts_By_Day.zip)** (in this folder).
+2. Click the **download icon** (down arrow) at the top right of the file page.
+3. Open the ZIP on your laptop and choose **Extract all**.
 
-The paid product files, payment details and customer records are deliberately NOT in this repository, because it is public.
+You get `Day_01` to `Day_30`. Inside each day there is one folder per post, in posting order:
+
+```
+Day_01/
+  Day_01_Plan.txt                      what to post today, with times
+  Post_01_0800_Instagram-and-Facebook-feed_.../
+      Slide_1.png ... Slide_6.png      (or Image.png, or Video.mp4)
+      Caption.txt                      copy and paste this
+  Post_02_0900_WhatsApp-Status_.../
+  ...
+```
+
+Every post folder holds its image or video and its caption together, so you never download images one by one.
+
+## Other things in this folder
+
+| Folder or file | What it is |
+| --- | --- |
+| `START_HERE.pdf` | How to use everything |
+| `All_Posts_Preview.pdf` | Every post and caption, viewable as one PDF |
+| `daily_scripts/` | The same daily plans as text files |
+| `plan/` | The posting schedule spreadsheet |
+| `bundle_graphics/` | Posts, Story, banner and captions for the Complete Toolkit (all nine for ₦35,000) |
+| `profile_covers/` | Facebook cover, LinkedIn cover and WhatsApp Business photo |
+| `Image_Sizes_and_Safe_Zones.pdf` | Where each image goes, including the banner |
+| `qr_codes/` | WhatsApp QR cards |
+
+The paid product files, payment details and customer records are NOT in this public repository.

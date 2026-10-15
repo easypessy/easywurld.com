@@ -1,9 +1,0 @@
-Common landing page mistake: three different buttons, none of them clear.
-
-Pick one action: WhatsApp, book or buy. Repeat it at the top, the middle and the bottom. Everything else is a distraction.
-
-The HTML page in the One-Offer Landing Page Kit already has WhatsApp buttons in the right places and a five-line colour change, so you can start from something that works.
-
-It is a starter page, not a custom site, and there is no payment processing. ₦5,000.
-
-Message PAGE on WhatsApp.

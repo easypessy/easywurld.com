@@ -7,7 +7,7 @@ More posts do not guarantee more sales. Stories and Status carry the volume. Kee
 
 ----------------------------------------------------------------------
 08:00  ·  Instagram + Facebook feed  ·  Carousel or tip post  ·  CORE
-File(s): O02_Carousel1_Slide1.png, O02_Carousel1_Slide2.png, O02_Carousel1_Slide3.png, O02_Carousel1_Slide4.png, O02_Carousel1_Slide5.png, O02_Carousel1_Slide6.png
+Folder: Post_01_0800_Instagram-and-Facebook-feed_Carousel-or-tip-post   (inside the Day_29 folder: Caption.txt + Slide_1 to Slide_6)
 Caption / text to copy:
 
 The ten-second test
@@ -20,7 +20,7 @@ Clear Homepage Blueprint, ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.
 
 ----------------------------------------------------------------------
 09:00  ·  WhatsApp Status  ·  Launch / promo post  ·  optional boost
-File(s): O02_Post02_Launch.png
+Folder: Post_02_0900_WhatsApp-Status_Launch-promo-post   (inside the Day_29 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 New from Easywurld: The Clear Homepage Blueprint.
@@ -37,7 +37,7 @@ Message CLEAR on WhatsApp: 0905 069 0837
 
 ----------------------------------------------------------------------
 10:30  ·  Instagram Story  ·  New-offer story  ·  optional boost
-File(s): O02_Story1_New.png
+Folder: Post_03_1030_Instagram-Story_New-offer-story   (inside the Day_29 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 New: The Clear Homepage Blueprint. Tap, then message CLEAR on WhatsApp.
@@ -46,7 +46,7 @@ Link or contact: https://wa.me/2349050690837
 
 ----------------------------------------------------------------------
 12:30  ·  Instagram Reel + Facebook video  ·  Short video  ·  CORE
-File(s): O02_Video1_Ten-second-test.mp4
+Folder: Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video   (inside the Day_29 folder: Caption.txt + Video.mp4)
 Caption / text to copy:
 
 Ten-second test
@@ -69,7 +69,7 @@ Suggested hashtags: #NigerianBusiness #SmallBusinessNigeria #LagosBusiness #Easy
 
 ----------------------------------------------------------------------
 13:30  ·  WhatsApp Status  ·  What is inside  ·  optional boost
-File(s): O02_Banner.png
+Folder: Post_05_1330_WhatsApp-Status_What-is-inside   (inside the Day_29 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 The Clear Homepage Blueprint. ₦5,000.
@@ -80,7 +80,7 @@ Message CLEAR on WhatsApp: 0905 069 0837
 
 ----------------------------------------------------------------------
 15:00  ·  Facebook feed  ·  Honest-answer (objection) post  ·  CORE
-File(s): O02_Post08_Honest-answer.png
+Folder: Post_06_1500_Facebook-feed_Honest-answer-objection-post   (inside the Day_29 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 Honest answer: no. The Clear Homepage Blueprint is a do-it-yourself kit.
@@ -93,7 +93,7 @@ The Blueprint is ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.
 
 ----------------------------------------------------------------------
 16:00  ·  Instagram Story  ·  Price story  ·  optional boost
-File(s): O02_Story2_Price.png
+Folder: Post_07_1600_Instagram-Story_Price-story   (inside the Day_29 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 The Clear Homepage Blueprint: ₦5,000. Estimated replacement cost of what is inside: ₦32,500 (our estimate, not a previous price).
@@ -102,7 +102,7 @@ Link or contact: https://wa.me/2349050690837
 
 ----------------------------------------------------------------------
 17:00  ·  WhatsApp Status  ·  Direct-response post  ·  CORE
-File(s): O02_Post06_Order.png
+Folder: Post_08_1700_WhatsApp-Status_Direct-response-post   (inside the Day_29 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 Want the The Clear Homepage Blueprint?
@@ -115,7 +115,7 @@ Message CLEAR on WhatsApp: 0905 069 0837
 
 ----------------------------------------------------------------------
 18:30  ·  LinkedIn  ·  Text post (no media needed)  ·  optional boost
-File(s): O02_LinkedIn2.txt
+Folder: Post_09_1830_LinkedIn_Text-post-no-media-needed   (inside the Day_29 folder: Caption.txt only)
 Caption / text to copy:
 
 Try this today: open your homepage on your phone, without scrolling, and ask a friend to say what you sell.
@@ -130,7 +130,7 @@ Message CLEAR on WhatsApp.
 
 ----------------------------------------------------------------------
 20:00  ·  Instagram + Facebook feed  ·  Second feed post  ·  optional boost
-File(s): O02_Post01_Tip.png
+Folder: Post_10_2000_Instagram-and-Facebook-feed_Second-feed-post   (inside the Day_29 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 Show your homepage to a friend for ten seconds. Then hide it.
@@ -146,7 +146,7 @@ The Clear Homepage Blueprint walks you through fixing it, with templates and a 2
 
 ----------------------------------------------------------------------
 21:00  ·  WhatsApp Status  ·  Banner or price graphic  ·  optional boost
-File(s): O02_Post05_Value.png
+Folder: Post_11_2100_WhatsApp-Status_Banner-or-price-graphic   (inside the Day_29 folder: Caption.txt + Image.png)
 Caption / text to copy:
 
 What is inside the The Clear Homepage Blueprint, and what we estimate it would cost to produce.
