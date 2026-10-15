@@ -149,15 +149,26 @@ export default function Home() {
           </Reveal>
           <div className="grid-2" style={{ marginTop: 34, alignItems: "start" }}>
             {/* Same hairline and 22px padding as the first numbered row, so both
-                columns start their text on the same line. */}
-            <p style={{
-              color: "#C3D2C8", maxWidth: "40ch", margin: 0,
-              borderTop: "1px solid rgba(255,255,255,.18)", padding: "22px 0",
-            }}>
-              Four steps, in order. You get something you can hold at the end of each one.
-              We don't start until we agree on the real problem. Most briefs only describe
-              the symptom.
-            </p>
+                columns start their text on the same line. The photo and the list
+                fill what used to be dead space under the intro. */}
+            <div className="process-intro">
+              <p>
+                Four steps, in order. You get something you can hold at the end of each one.
+                We don't start until we agree on the real problem. Most briefs only describe
+                the symptom.
+              </p>
+              <figure className="process-figure">
+                <img
+                  src="/demo/img/consultant-desk.jpg"
+                  alt="A desk with an open notebook, a laptop and a printed report, ready for a planning session."
+                  width={1400}
+                  height={933}
+                  loading="lazy"
+                  decoding="async"
+                />
+                <figcaption>Every stage ends with something written down.</figcaption>
+              </figure>
+            </div>
             <div>
               {PROCESS.map(([t, d], i) => (
                 <Reveal key={t} delay={i * 70}>
@@ -184,8 +195,23 @@ export default function Home() {
       <section>
         <div className="wrap grid-2 why-grid">
           <Reveal>
-            <p className="eyebrow">05 / Why work with Easywurld</p>
-            <h2 style={{ maxWidth: "15ch" }}>Small enough to care about the little things.</h2>
+            <div className="why-head">
+              <p className="eyebrow">05 / Why work with Easywurld</p>
+              <h2 style={{ maxWidth: "15ch" }}>Small enough to care about the little things.</h2>
+              {/* The heading is short, which left a tall gap on this side. A photograph
+                  gives the left column its own weight so the two columns balance. */}
+              <figure className="why-figure">
+                <img
+                  src="/demo/img/firm-office.jpg"
+                  alt="A meeting table with a written plan set out for review."
+                  width={1400}
+                  height={933}
+                  loading="lazy"
+                  decoding="async"
+                />
+                <figcaption>One team, from the first call to handover.</figcaption>
+              </figure>
+            </div>
           </Reveal>
           <Reveal delay={80}>
             {/* Top-aligned on desktop, then dropped to sit level with the heading

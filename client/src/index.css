@@ -429,9 +429,35 @@ section { padding-block: clamp(44px, 5.4vw, 78px); }
 
 /* "Why work with Easywurld": both columns top-aligned. On desktop the right
    column drops by one eyebrow (line + 20px gap) so its text starts level with
-   the heading beside it, not level with the eyebrow above it. */
+   the heading beside it, not level with the eyebrow above it. The photo below
+   the copy fills the space that used to sit empty under the heading. */
 .why-grid { align-items: start; }
 @media (min-width: 881px) { .why-copy { padding-top: 40px; } }
+.why-figure { margin: 34px 0 0; }
+.why-figure img {
+  width: 100%; height: auto; border: 1px solid var(--line);
+  aspect-ratio: 3 / 2; object-fit: cover;
+}
+.why-figure figcaption {
+  margin-top: 10px; color: var(--muted);
+  font-family: var(--fm); font-size: var(--t-xs); letter-spacing: .04em;
+}
+
+/* Dark "How we work" intro column: same hairline and padding as the numbered
+   rows, then the photo fills the space below instead of leaving a tall gap. */
+.process-intro > p {
+  color: #C3D2C8; max-width: 40ch; margin: 0;
+  border-top: 1px solid rgba(255,255,255,.18); padding: 22px 0;
+}
+.process-figure { margin: 0; }
+.process-figure img {
+  width: 100%; height: auto; border: 1px solid rgba(255,255,255,.18);
+  aspect-ratio: 3 / 2; object-fit: cover;
+}
+.process-figure figcaption {
+  margin-top: 10px; color: #A9C4A0;
+  font-family: var(--fm); font-size: var(--t-xs); letter-spacing: .04em;
+}
 
 .note {
   background: var(--beige); border-left: 3px solid var(--accent);
