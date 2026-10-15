@@ -1,6 +1,11 @@
+import { Suspense, lazy } from "react";
 import { Link } from "wouter";
 import type { Project } from "@/data";
-import Artwork from "./Artwork";
+
+/* All 49 projects currently have photo shots, so the SVG artwork code (~60KB
+   source) never renders on first paint. Lazy-load it; the fallback keeps the
+   same beige box and aspect ratio (800x500) so layout is unchanged. */
+const Artwork = lazy(() => import("./Artwork"));
 
 export default function ProjectCard({ p }: { p: Project }) {
   const w = p.weight ?? 1;
@@ -13,20 +18,25 @@ export default function ProjectCard({ p }: { p: Project }) {
               src={p.shot}
               alt={`${p.title} — screenshot of the live ${p.industry.toLowerCase()} site`}
               loading="lazy"
+              fetchPriority="low"
               width={1000}
               height={625}
             />
           ) : (
-            <Artwork project={p} />
-          )}
-          {p.liveUrl && (
-            <span className="live-tag">{p.liveUrl.endsWith(".pdf") ? "PDF document" : "Live build"}</span>
+            <Suspense
+              fallback={
+                <div className="artwork" style={{ aspectRatio: "8 / 5" }} aria-hidden="true" />
+              }
+            >
+              <Artwork project={p} />
+            </Suspense>
           )}
         </div>
         <div className="card-meta">
           <span className="card-cat">{p.category} · {p.industry}</span>
           <h3>{p.title}</h3>
           <p>{p.summary}</p>
+          {/* One status tag per card — the honest build state, nothing else. */}
           <span className="badge" data-s={p.status} style={{ marginTop: 8 }}>{p.status}</span>
         </div>
       </Link>

@@ -67,6 +67,34 @@ export default function About() {
         </div>
       </section>
 
+      <section style={{ paddingTop: 20 }}>
+        <div className="wrap">
+          <Reveal>
+            <p className="eyebrow">What brings people here</p>
+            <h2 style={{ maxWidth: "18ch" }}>Four problems, over and over.</h2>
+          </Reveal>
+          <div style={{ marginTop: 32 }}>
+            {[
+              ["People can't tell what you do", "The message changed three times as the business grew and the website never caught up."],
+              ["The work is good, the presence isn't", "Referrals convert; strangers don't, because there is nothing for them to judge."],
+              ["Enquiries arrive and go cold", "Not a lead problem. A follow-up problem, and nobody owns it."],
+              ["Everything is done twice", "The same questions, the same quotes, the same posts — all retyped by hand."],
+            ].map(([t, d], i) => (
+              <Reveal key={t} delay={i * 60}>
+                <div style={{
+                  display: "grid", gridTemplateColumns: "56px 1fr 1.4fr", gap: 24,
+                  padding: "20px 0", borderTop: "1px solid var(--line)", alignItems: "start",
+                }} className="prob-row">
+                  <span className="kicker">0{i + 1}</span>
+                  <h3 style={{ margin: 0, fontSize: "var(--t-md)" }}>{t}</h3>
+                  <p style={{ margin: 0, fontSize: "var(--t-sm)", color: "var(--muted)" }}>{d}</p>
+                </div>
+              </Reveal>
+            ))}
+          </div>
+        </div>
+      </section>
+
       <section style={{ background: "var(--beige)" }}>
         <div className="wrap">
           <p className="eyebrow">How we work</p>
@@ -97,6 +125,31 @@ export default function About() {
               </p>
             </div>
           </div>
+        </div>
+      </section>
+
+      <section>
+        <div className="wrap grid-2">
+          <Reveal>
+            <p className="eyebrow">Why Easywurld</p>
+            <h2 style={{ maxWidth: "15ch" }}>Small enough to care about the detail.</h2>
+          </Reveal>
+          <Reveal delay={80}>
+            <div>
+              <p>
+                You deal with the person doing the work. There is no account manager relaying
+                messages, and no junior quietly assigned to your project after the pitch.
+              </p>
+              <p>
+                We work across strategy, design, words and systems, so the parts fit together
+                instead of being handed between three suppliers who never speak.
+              </p>
+              <p>
+                And we tell you when something isn't worth doing. A cheaper answer that solves
+                the problem is a better outcome than a larger invoice.
+              </p>
+            </div>
+          </Reveal>
         </div>
       </section>
 

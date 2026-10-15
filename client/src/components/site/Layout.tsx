@@ -90,7 +90,10 @@ function Header() {
     <header className="hdr">
       <div className="wrap hdr-in">
         <Link href="/" className="logo" aria-label="Easywurld — home">
-          <img src="/brand/mark.png" alt="" className="logo-mark" width={44} height={44} />
+          <picture>
+            <source srcSet="/brand/mark-256.webp" type="image/webp" />
+            <img src="/brand/mark.png" alt="" className="logo-mark" width={44} height={44} fetchPriority="high" decoding="async" />
+          </picture>
           <span>
             EASYWURLD
             <small>SIMPLIFY. OPTIMIZE. GROW.</small>
@@ -125,7 +128,10 @@ function Footer() {
         <div className="ftr-grid">
           <div>
             <div className="logo" style={{ color: "var(--paper)" }}>
-              <img src="/brand/mark-light.png" alt="" className="logo-mark" width={46} height={46} />
+              <picture>
+                <source srcSet="/brand/mark-light-128.webp" type="image/webp" />
+                <img src="/brand/mark-light.png" alt="" className="logo-mark" width={46} height={46} loading="lazy" decoding="async" />
+              </picture>
               <span>
                 EASYWURLD<small style={{ color: "#9FB3A6" }}>SIMPLIFY. OPTIMIZE. GROW.</small>
               </span>
@@ -141,7 +147,7 @@ function Footer() {
               <Link href="/services">Digital marketing strategy</Link>
               <Link href="/services">Web design</Link>
               <Link href="/services">Landing pages</Link>
-              <Link href="/services">business systems</Link>
+              <Link href="/services">Business systems</Link>
               <Link href="/services">Copywriting</Link>
               <Link href="/services">Reports & presentations</Link>
               <Link href="/offers">₦5,000 offers</Link>
@@ -152,7 +158,7 @@ function Footer() {
             <div className="ftr-links">
               <Link href="/projects">All projects</Link>
               <Link href="/projects?c=Web+Design">Web design</Link>
-              <Link href="/projects?c=Business+Systems">business systems</Link>
+              <Link href="/projects?c=Business+Systems">Business systems</Link>
               <Link href="/projects?c=Social+Media">Social media</Link>
             </div>
           </div>
