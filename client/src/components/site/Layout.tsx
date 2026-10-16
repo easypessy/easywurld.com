@@ -6,8 +6,8 @@ export const WA = "https://wa.me/2349050690837";
 
 /* ---------- SEO: per-route head management ---------- */
 export function Seo({
-  title, description, path, type = "website",
-}: { title: string; description: string; path: string; type?: string }) {
+  title, description, path, type = "website", image = "/brand/og.png",
+}: { title: string; description: string; path: string; type?: string; image?: string }) {
   useEffect(() => {
     const origin =
       typeof window !== "undefined" ? window.location.origin : "https://website-builder-portfolio.vercel.app";
@@ -32,17 +32,17 @@ export function Seo({
     meta("og:url", url, true);
     meta("og:type", type, true);
     meta("og:site_name", "Easywurld", true);
-    meta("og:image", origin + "/brand/og.png", true);
+    meta("og:image", origin + image, true);
     meta("og:image:width", "1200", true);
     meta("og:image:height", "630", true);
     meta("twitter:card", "summary_large_image");
-    meta("twitter:image", origin + "/brand/og.png");
+    meta("twitter:image", origin + image);
     meta("twitter:title", title);
     meta("twitter:description", description);
     set('link[rel="canonical"]', "href", url, () => {
       const l = document.createElement("link"); l.setAttribute("rel", "canonical"); return l;
     });
-  }, [title, description, path, type]);
+  }, [title, description, path, type, image]);
   return null;
 }
 
@@ -71,6 +71,7 @@ export function Reveal({ children, delay = 0, as: As = "div" }: any) {
 const NAV = [
   ["Projects", "/projects"],
   ["Services", "/services"],
+  ["Offers", "/offers"],
   ["About", "/about"],
   ["Contact", "/contact"],
 ] as const;
@@ -149,6 +150,7 @@ function Footer() {
               <Link href="/services">Business systems</Link>
               <Link href="/services">Copywriting</Link>
               <Link href="/services">Reports & presentations</Link>
+              <Link href="/offers">₦5,000 offers</Link>
             </div>
           </div>
           <div>
