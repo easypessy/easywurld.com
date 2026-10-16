@@ -1,0 +1,38 @@
+# Easywurld launch content (posts only)
+
+## Get everything in ONE click
+
+1. Click **[Easywurld_Posts_By_Day.zip](Easywurld_Posts_By_Day.zip)** (in this folder).
+2. Click the **download icon** (down arrow) at the top right of the file page.
+3. Open the ZIP on your laptop and choose **Extract all**.
+
+You get `Day_01` to `Day_30`. Inside each day there is one folder per post, in posting order:
+
+```
+Day_01/
+  Day_01_Plan.txt                      what to post today, with times
+  Post_01_0800_Instagram-and-Facebook-feed_.../
+      Slide_1.png ... Slide_6.png      (or Image.png, or Video.mp4)
+      Caption.txt                      copy and paste this
+  Post_02_0900_WhatsApp-Status_.../
+  ...
+```
+
+Every post folder holds its image or video and its caption together, so you never download images one by one.
+
+## Other things in this folder
+
+| Folder or file | What it is |
+| --- | --- |
+| `START_HERE.pdf` | How to use everything |
+| `Easywurld_Zero_Budget_Launch_Plan.pdf` (and `.docx`) | Your 30-day launch plan with no money needed |
+| `Free_Sample_5_Chat_Scripts.pdf` | A free sample to send to people before they buy |
+| `All_Posts_Preview.pdf` | Every post and caption, viewable as one PDF |
+| `daily_scripts/` | The same daily plans as text files |
+| `plan/` | The posting schedule spreadsheet |
+| `bundle_graphics/` | Posts, Story, banner and captions for the Complete Toolkit (all nine for ₦35,000) |
+| `profile_covers/` | Facebook cover, LinkedIn cover and WhatsApp Business photo |
+| `Image_Sizes_and_Safe_Zones.pdf` | Where each image goes, including the banner |
+| `qr_codes/` | WhatsApp QR cards |
+
+The paid product files, payment details and customer records are NOT in this public repository.
