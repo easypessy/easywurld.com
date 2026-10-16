@@ -47,7 +47,7 @@ export default function CaseStudy() {
               </a>
               <span className="kicker" style={{ display: "block", marginTop: 10 }}>
                 {p.liveUrl.endsWith(".pdf")
-                  ? "Opens the full PDF in a new tab — the real document, every page."
+                  ? "Opens the full PDF in a new tab. The real document, every page."
                   : "Opens the working site in a new tab."}
               </span>
             </p>
@@ -83,7 +83,7 @@ export default function CaseStudy() {
               ? (p.liveUrl?.endsWith(".pdf")
                   ? "Page one of the document linked above."
                   : "Screenshot of the live build linked above.")
-              : "Mockup — generated for this case study, not a photograph of a live site."}
+              : "Mockup made for this case study. It is not a photo of a live site."}
           </p>
           {p.liveUrl && (
             <p style={{ marginTop: 20 }}>
@@ -97,10 +97,10 @@ export default function CaseStudy() {
 
       <section>
         <div className="wrap cs-body">
-          <h2>The challenge</h2>
+          <h2>The problem</h2>
           <div className="cs-block"><p>{p.challenge}</p></div>
 
-          <h2>Our approach</h2>
+          <h2>What we did</h2>
           <div className="cs-block"><p>{p.approach}</p></div>
 
           <h2>What we built</h2>
@@ -135,14 +135,14 @@ export default function CaseStudy() {
             <p>{p.result}</p>
             <div className="note" style={{ marginTop: 10 }}>
               <p>
-                <strong>No performance figures are claimed.</strong> This is a {p.status.toLowerCase()},
-                so there is no live traffic, conversion or revenue data to report. Anything
-                stated above describes design intent, not measured outcomes.
+                <strong>We are not claiming any results.</strong> This is a {p.status.toLowerCase()},
+                so there is no live traffic or sales data to report. Everything above
+                describes what we set out to design, not what happened.
               </p>
             </div>
           </div>
 
-          <h2>Key takeaway</h2>
+          <h2>The main point</h2>
           <div className="cs-block">
             <p className="pull">{p.takeaway}</p>
           </div>

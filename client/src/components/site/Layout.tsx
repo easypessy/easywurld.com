@@ -137,8 +137,8 @@ function Footer() {
               </span>
             </div>
             <p style={{ color: "#C3D2C8", marginTop: 18, maxWidth: "34ch", fontSize: "var(--t-sm)" }}>
-              Marketing clarity for small businesses. Strategy, design, content and
-              practical digital systems — Lagos, Nigeria.
+              Clear marketing for small businesses. Strategy, design, words and simple
+              systems — Lagos, Nigeria.
             </p>
           </div>
           <div>
@@ -166,6 +166,7 @@ function Footer() {
             <h4>Contact</h4>
             <div className="ftr-links">
               <a href={WA} target="_blank" rel="noopener noreferrer">WhatsApp · 0905 069 0837</a>
+              <Link href="/free-review">Free website review</Link>
               <Link href="/contact">Start a project</Link>
               <Link href="/about">About Easywurld</Link>
             </div>

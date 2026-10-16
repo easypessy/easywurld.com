@@ -22,21 +22,21 @@ export default function Work() {
     <>
       <Seo
         title={`${filter === "All" ? "Portfolio" : filter} — Easywurld`}
-        description={`${projects.length} concept and sample projects across web design, landing pages, business systems, social media, marketing strategy, copywriting and business documents.`}
+        description={`${projects.length} concept and sample projects: web design, landing pages, business systems, social media, marketing plans, copywriting and business documents.`}
         path="/projects"
       />
       <section style={{ paddingBottom: 40 }}>
         <div className="wrap">
           <Reveal>
             <p className="eyebrow">Portfolio · {projects.length} projects</p>
-            <h1 style={{ maxWidth: "15ch" }}>Projects we've made, and why.</h1>
+            <h1 style={{ maxWidth: "15ch" }}>Projects we made, and why.</h1>
             <p className="lead" style={{ maxWidth: "52ch", marginTop: 20 }}>
-              Every project here is labelled concept or sample. They exist to show how we
-              think, design and build — not to imply client relationships we don't have.
+              Every project here is marked concept or sample. They show how we think, design
+              and build. They are not client work, and we don't pretend they are.
             </p>
             <p className="kicker" style={{ marginTop: 16 }}>
-              {projects.filter((p) => p.liveUrl).length} of them are built and deployed —
-              open a project and click through to the working site.
+              {projects.filter((p) => p.liveUrl).length} of them are live. Open a project and
+              click through to the working site.
             </p>
           </Reveal>
         </div>

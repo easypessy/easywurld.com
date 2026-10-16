@@ -13,22 +13,22 @@ export const aiAutomation: Project[] = [
     status: "Concept Project",
     year: "2026",
     weight: 3,
-    summary: "Capturing the enquiries that arrive after the practice closes.",
+    summary: "Catching the enquiries that come in after the practice closes.",
     challenge:
-      "A large share of enquiries arrive between 6pm and midnight, when nobody is at the desk. By morning the caller has usually booked with whichever practice answered first. Voicemail does not solve this; people don't leave them.",
+      "Many enquiries arrive between 6pm and midnight, when nobody is at the desk. By morning, the caller has booked with a practice that answered. Voicemail does not fix this. Most people do not leave a message.",
     approach:
-      "A bounded assistant that does exactly three things: answer logistics questions from the practice's own information, capture the reason for contact, and book a call-back slot. It is explicitly forbidden from clinical advice and says so in plain words when asked.",
+      "A helper with three jobs only. It answers simple questions from the practice's own notes. It records why the person called. It books a call-back time. It is never allowed to give medical advice, and it says so in plain words when asked.",
     built: [
-      "Conversation design with a hard clinical-advice refusal boundary",
-      "Knowledge base limited to hours, location, fees, insurers, parking",
-      "Call-back scheduling against real front-desk availability",
-      "Morning digest summarising every overnight conversation",
+      "Conversation rules with a hard stop on medical advice",
+      "Answers limited to hours, location, fees, insurers and parking",
+      "Call-back times that match real front-desk gaps",
+      "A morning summary of every overnight conversation",
     ],
     direction:
-      "The interface is deliberately plain text on white with a visible 'not a clinician' notice. No avatar, no personality, no typing animation pretending to think. In healthcare, an assistant that appears human is a liability.",
+      "Plain text on white, with a clear 'not a clinician' note. No avatar. No jokes. No fake typing dots. In health care, a helper that pretends to be a person is a risk.",
     result:
-      "Concept workflow. No live deployment and therefore no capture-rate data. The designed benefit is that an out-of-hours enquiry becomes a scheduled call-back rather than a missed call.",
-    takeaway: "The value is in capturing the enquiry, not in answering everything.",
+      "Concept workflow. It has never run live, so there is no data. The aim is simple: an evening enquiry becomes a booked call-back instead of a missed call.",
+    takeaway: "The win is catching the enquiry, not answering every question.",
     tags: ["Healthcare", "Boundaries", "Out-of-hours"],
     visual: {
       archetype: "chat", bg: "#F7F9FA", ink: "#152026", accent: "#1F7A8C", muted: "#6D7E86",
@@ -48,22 +48,22 @@ export const aiAutomation: Project[] = [
     status: "Concept Project",
     year: "2026",
     weight: 2,
-    summary: "A product finder that cannot invent stock it doesn't have.",
+    summary: "A stock finder that cannot make up products.",
     challenge:
-      "Staff spent much of the day answering 'do you have this in my size' by walking to the stockroom. Generic chatbots made this worse by confidently describing products the shop had never carried.",
+      "Staff spent much of the day walking to the stockroom to check sizes. Common chatbots made it worse. They answered with confidence about products the shop had never sold.",
     approach:
-      "Retrieval is restricted to the shop's own catalogue export, refreshed nightly. If an item isn't in the export, the assistant says it isn't stocked and offers the nearest match — it has no mechanism to answer otherwise.",
+      "Answers can only come from the shop's own stock list, refreshed every night. If an item is not on the list, the helper says it is not in stock and offers the closest match. It has no other way to answer.",
     built: [
-      "Catalogue-grounded retrieval with a strict no-invention rule",
-      "Out-of-stock handling that offers substitutions, not apologies",
-      "Size and fit answers drawn from real product attributes",
-      "Escalation to a staff member with conversation context attached",
+      "Answers tied to the stock list, with no room to invent",
+      "Out-of-stock replies that offer another item, not an apology",
+      "Size and fit answers taken from real product details",
+      "Handover to a staff member with the conversation attached",
     ],
     direction:
-      "Utility over personality. Compact layout, product cards inside the conversation, real photographs and live prices. Short answers — a shop assistant who monologues is a bad shop assistant.",
+      "Useful beats friendly. A tight layout, product cards inside the chat, real photos and live prices. Short answers. A shop assistant who talks too much is a bad shop assistant.",
     result:
-      "Concept workflow. Demonstrates grounding as the primary design constraint rather than an afterthought.",
-    takeaway: "An assistant is only as trustworthy as the data it is forbidden to leave.",
+      "Concept workflow. It shows a helper built around its limits, not one with limits added later.",
+    takeaway: "A helper is only as honest as the data it is not allowed to leave.",
     tags: ["Retail", "Grounding", "Catalogue"],
     visual: {
       archetype: "chat", bg: "#FFFFFF", ink: "#1B1A18", accent: "#B5533C", muted: "#78736C",
@@ -83,22 +83,22 @@ export const aiAutomation: Project[] = [
     status: "Concept Project",
     year: "2026",
     weight: 2,
-    summary: "Sorting property enquiries by fit before an agent spends time on them.",
+    summary: "Sorting property enquiries by fit before an agent calls.",
     challenge:
-      "Agents were spending the first ten minutes of every call establishing budget, area, timeline and finance status — information that determines whether the call was worth making at all.",
+      "Agents spent the first ten minutes of every call on budget, area, timing and finance. That is the exact information that decides whether the call was worth making.",
     approach:
-      "A WhatsApp-first qualification flow that asks the four questions conversationally, tolerates vague answers, and routes the result: qualified leads to an agent with a summary, everything else to a nurture list. It never quotes prices or gives valuation advice.",
+      "A WhatsApp flow asks the four questions in a normal way and accepts vague answers. Then it sorts them. Ready buyers go to an agent with a short summary. The rest go to a follow-up list. It never quotes prices or gives valuations.",
     built: [
-      "Four-question qualification sequence tolerant of partial answers",
-      "Budget banding that accepts ranges and 'not sure'",
-      "Routing rules: agent handoff, nurture, or polite decline",
-      "Summary card delivered to the agent before the first call",
+      "Four questions that accept partial answers",
+      "Budget bands that allow ranges and 'not sure'",
+      "Clear routes: to an agent, to follow-up, or a polite no",
+      "A short summary card sent to the agent before the call",
     ],
     direction:
-      "WhatsApp-native. The workflow diagram is the deliverable here: a left-to-right flow with decision diamonds and explicit failure paths, drawn plainly enough that a non-technical agency owner can audit it.",
+      "Built for WhatsApp. The diagram is the main thing here: a simple flow from left to right, with decision points and clear dead ends. Plain enough for an owner who is not technical to check.",
     result:
-      "Concept workflow. No live lead data. The intended benefit is that agents start calls already knowing the answers to the first four questions.",
-    takeaway: "Qualification is a routing problem, not a sales problem.",
+      "Concept workflow. No real enquiry data. The point is that agents start a call already knowing the first four answers.",
+    takeaway: "Sorting enquiries is a traffic problem, not a sales problem.",
     tags: ["Property", "WhatsApp", "Routing"],
     visual: {
       archetype: "workflow", bg: "#F5F7F4", ink: "#18281F", accent: "#2E7D52", muted: "#6E7D72",
@@ -118,22 +118,22 @@ export const aiAutomation: Project[] = [
     status: "Concept Project",
     year: "2026",
     weight: 1,
-    summary: "Booking, rescheduling and reminders without a receptionist in the loop.",
+    summary: "Booking, moving and reminding, with no receptionist in the middle.",
     challenge:
-      "No-shows and last-minute reschedules were being handled by phone tag. Each one consumed staff time twice — once to rebook, once to fill the gap.",
+      "Cancellations and late changes were handled by phone tag. Each one cost staff time twice: once to rebook, and once to fill the empty slot.",
     approach:
-      "The assistant owns the whole appointment lifecycle: book, confirm, remind at 24 hours, offer the slot to a waitlist if cancelled. The waitlist offer is the part that actually recovers revenue, and it runs without anyone being asked.",
+      "The helper runs the whole appointment: book it, confirm it, remind 24 hours before, and offer a cancelled slot to a waiting list. That last part is what saves money, and it happens without anyone lifting a finger.",
     built: [
-      "Booking against live calendar availability",
-      "24-hour and 2-hour reminder sequence",
-      "Cancellation detection with automatic waitlist offer",
-      "Reschedule flow that never double-books",
+      "Bookings that follow the real calendar",
+      "Reminders at 24 hours and again at 2 hours",
+      "An automatic offer to the waiting list when someone cancels",
+      "A rebooking flow that never double-books",
     ],
     direction:
-      "A state diagram rather than a chat transcript — booked, confirmed, cancelled, refilled — because the interesting design work here is the transitions, not the wording.",
+      "Shown as a simple map, not a chat log: booked, confirmed, cancelled, refilled. The interesting part is how one state moves to the next, not the wording.",
     result:
-      "Concept workflow. No measured no-show reduction, as it has not run live. The mechanism it demonstrates is gap recovery.",
-    takeaway: "The money in a booking system is in refilling cancellations, not in taking bookings.",
+      "Concept workflow. It has not run live, so there is no measured drop in no-shows. It shows how empty slots get filled.",
+    takeaway: "In a booking system, the money is in refilling cancellations, not in taking bookings.",
     tags: ["Scheduling", "Waitlist", "Lifecycle"],
     visual: {
       archetype: "workflow", bg: "#FAF7FB", ink: "#2A1F33", accent: "#7A4FBF", muted: "#7A7080",
@@ -153,22 +153,22 @@ export const aiAutomation: Project[] = [
     status: "Concept Project",
     year: "2026",
     weight: 2,
-    summary: "Turning Instagram and WhatsApp messages into structured orders.",
+    summary: "Turning Instagram and WhatsApp chats into tidy orders.",
     challenge:
-      "A vendor selling through social DMs was reconstructing orders from scrolled-back conversations: item, size, colour, address, payment proof, all scattered across a thread. Mistakes were frequent and expensive.",
+      "The seller built orders by scrolling back through old chats. Item, size, colour, address, proof of payment, all buried in one long thread. Mistakes happened often, and they cost money.",
     approach:
-      "The assistant reads the thread and fills a structured order card, asking only for what is missing. Payment proof is flagged for human verification — never auto-confirmed, because that is where fraud enters.",
+      "The helper reads the chat and fills in an order card, asking only for what is missing. Proof of payment is always checked by a person. It is never confirmed by the system, because that is where fraud gets in.",
     built: [
-      "Thread parsing into a structured order record",
-      "Targeted follow-up for missing fields only",
-      "Payment-proof flag requiring human confirmation",
-      "Daily order export in a format a bookkeeper can use",
+      "Chats read into a tidy order record",
+      "Follow-up questions only for what is missing",
+      "A payment flag that a person has to confirm",
+      "A daily order export a bookkeeper can use",
     ],
     direction:
-      "Split-screen artwork: the messy conversation on one side, the clean order card on the other. That contrast is the entire value proposition and needs no explanation.",
+      "Two panels side by side: the messy chat on one side, the clean order card on the other. That picture explains the whole idea without a word.",
     result:
-      "Concept workflow. Demonstrates structured extraction from unstructured chat, with a deliberate human checkpoint at the payment step.",
-    takeaway: "Let the system do the transcription. Keep the trust decision human.",
+      "Concept workflow. It shows messy chat turned into clean records, with a person still checking the payment.",
+    takeaway: "Let the system type it up. Keep the trust call with a person.",
     tags: ["Social commerce", "Extraction", "Human-in-the-loop"],
     visual: {
       archetype: "workflow", bg: "#FFF9F2", ink: "#2B1D12", accent: "#D97706", muted: "#83725F",
@@ -188,22 +188,22 @@ export const aiAutomation: Project[] = [
     status: "Concept Project",
     year: "2026",
     weight: 1,
-    summary: "Helping staff find the current version of a policy, not last year's.",
+    summary: "Helping staff find the current policy, not last year's.",
     challenge:
-      "Policies, rotas and referral procedures lived across a shared drive, three email threads and one person's memory. New staff asked colleagues, colleagues guessed, and occasionally the guess was out of date.",
+      "Policies, rotas and referral rules were spread over a shared drive, three email threads and one person's memory. New staff asked around. People guessed. Sometimes the guess was out of date.",
     approach:
-      "An internal-only assistant restricted to approved documents, which always returns the document name and revision date with its answer. If two versions conflict it surfaces both rather than choosing — resolving conflicts is a human job.",
+      "A staff-only helper that can only read approved documents. Every answer names the document and its date. If two versions disagree, it shows both instead of picking one. Sorting out a conflict is a human job.",
     built: [
-      "Document-scoped retrieval with mandatory source citation",
-      "Revision-date surfacing on every answer",
-      "Conflict detection between document versions",
-      "Access control mirroring existing staff permissions",
+      "Answers only from approved documents, always with the source named",
+      "The document date shown on every answer",
+      "A warning when two versions disagree",
+      "The same access rules staff already have",
     ],
     direction:
-      "Deliberately unglamorous: a search field, an answer, and a citation line. Institutional grey and a single blue link colour. Anything more decorative would undermine the point, which is verifiability.",
+      "Plain on purpose: a search box, an answer, and the source line. Institutional grey, one blue link. Anything fancier would weaken the point, which is proof.",
     result:
-      "Concept workflow. No deployment. The designed benefit is that every answer is checkable against a named source.",
-    takeaway: "For internal knowledge, the citation matters more than the answer.",
+      "Concept workflow. It was never deployed. The aim is that every answer can be checked against a named document.",
+    takeaway: "For rules and policies, the source matters more than the answer.",
     tags: ["Internal", "Knowledge", "Governance"],
     visual: {
       archetype: "chat", bg: "#F4F5F7", ink: "#1C2026", accent: "#2557A7", muted: "#6E747E",
@@ -223,22 +223,22 @@ export const aiAutomation: Project[] = [
     status: "Concept Project",
     year: "2026",
     weight: 1,
-    summary: "The three messages after the first conversation that nobody ever sends.",
+    summary: "The three follow-up messages nobody ever sends.",
     challenge:
-      "Warm enquiries were going cold not because of price but because nobody followed up. The owner intended to, then didn't, and after two weeks it felt awkward to try.",
+      "Good enquiries went cold for one reason: no follow-up. The owner meant to, then did not. After two weeks it felt awkward to try.",
     approach:
-      "A light three-touch sequence with genuinely different content each time — a relevant example, a practical answer to the question they asked, then a single direct close. Any reply cancels the sequence immediately and hands to a human.",
+      "Three light messages, each with something new: a useful example, a real answer to their question, then one plain ask. If the person replies, the messages stop at once and a human takes over.",
     built: [
-      "Three-touch cadence at day 2, day 6 and day 14",
-      "Each touch carries new information, never a bump",
-      "Instant sequence cancellation on any human reply",
-      "Explicit opt-out honoured permanently",
+      "Messages on day 2, day 6 and day 14",
+      "Each message adds something new, never just a nudge",
+      "Anything they send stops the sequence at once",
+      "An opt-out that is always respected",
     ],
     direction:
-      "Shown as a timeline with the actual message text at each step, so the reader can judge the tone rather than trust a description of it.",
+      "Shown as a timeline with the real message text at each step, so you can judge the tone yourself.",
     result:
-      "Concept workflow. No response-rate data. What it demonstrates is a follow-up pattern that does not rely on the owner remembering.",
-    takeaway: "Follow-up fails for lack of a system, not for lack of intent.",
+      "Concept workflow. No reply data. It shows a follow-up pattern that does not depend on the owner remembering.",
+    takeaway: "Follow-up fails because there is no system, not because people do not care.",
     tags: ["Sales", "Sequences", "Tone"],
     visual: {
       archetype: "workflow", bg: "#F6F5F2", ink: "#20211E", accent: "#5B7553", muted: "#75766F",

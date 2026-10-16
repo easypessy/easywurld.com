@@ -29,7 +29,7 @@ export default function Contact() {
     <>
       <Seo
         title="Contact Easywurld — Start a project"
-        description="Tell Easywurld what you're trying to solve. WhatsApp 0905 069 0837, or send a short brief through the form."
+        description="Tell Easywurld what you are trying to solve. WhatsApp 0905 069 0837, or send a short brief through the form."
         path="/contact"
       />
       <section style={{ paddingBottom: 24 }}>
@@ -38,8 +38,8 @@ export default function Contact() {
             <p className="eyebrow">Contact</p>
             <h1 style={{ maxWidth: "14ch" }}>Tell us what you're trying to solve.</h1>
             <p className="lead" style={{ maxWidth: "50ch", marginTop: 16 }}>
-              A question, a half-formed idea, or a project ready to start. We reply to
-              WhatsApp fastest — usually the same day.
+              A question, half an idea, or a project ready to start. WhatsApp is the fastest
+              way to reach us. We usually reply the same day.
             </p>
           </Reveal>
         </div>
@@ -51,8 +51,8 @@ export default function Contact() {
             <div>
               <h3>Straight to WhatsApp</h3>
               <p>
-                If you'd rather just talk, skip the form entirely. Tell us the problem in a
-                sentence and we'll take it from there.
+                If you would rather just talk, skip the form. Tell us the problem in one
+                sentence and we will take it from there.
               </p>
               <a href={WA} target="_blank" rel="noopener noreferrer" className="btn btn-wa">
                 <MessageCircle size={18} /> 0905 069 0837
@@ -61,16 +61,16 @@ export default function Contact() {
               <div style={{ marginTop: 40, borderTop: "1px solid var(--line)", paddingTop: 26 }}>
                 <h3>What happens next</h3>
                 <ol style={{ paddingLeft: 18, color: "var(--ink-2)", fontSize: "var(--t-sm)", lineHeight: 1.9 }}>
-                  <li>We reply with questions, or say it isn't a fit.</li>
-                  <li>A short call — fifteen minutes, no pitch deck.</li>
-                  <li>A written scope and a price, before anything starts.</li>
+                  <li>We reply with questions, or tell you it is not a good fit.</li>
+                  <li>A short call. Fifteen minutes, no slide deck.</li>
+                  <li>A written plan and a price, before anything starts.</li>
                 </ol>
               </div>
 
               <div className="note" style={{ marginTop: 26 }}>
                 <p>
-                  Based in Lagos, Nigeria. We work with businesses anywhere, but most of our
-                  clients are within a WhatsApp message and one time zone.
+                  We are based in Lagos, Nigeria. We work with businesses anywhere, but most
+                  of our clients are one WhatsApp message and one time zone away.
                 </p>
               </div>
             </div>
@@ -105,7 +105,7 @@ export default function Contact() {
               <div className="field">
                 <label htmlFor="link">Website or social link</label>
                 <input id="link" name="link" placeholder="@yourbusiness or https://…" />
-                <span className="hint">Optional — but it saves a round of questions.</span>
+                <span className="hint">Optional, but it saves us asking later.</span>
               </div>
               <div className="field">
                 <label htmlFor="contact">How should we reach you?</label>
@@ -116,13 +116,13 @@ export default function Contact() {
                 Continue on WhatsApp <ArrowUpRight size={17} />
               </button>
               <p className="hint" style={{ marginTop: 12, marginBottom: 0 }}>
-                This form opens WhatsApp with your answers filled in. Nothing is stored on this
-                website and no data is sent anywhere else.
+                This form opens WhatsApp with your answers filled in. Nothing is saved on this
+                website, and nothing is sent anywhere else.
               </p>
               {sent && (
                 <p role="status" className="note" style={{ marginTop: 16 }}>
-                  WhatsApp should have opened in a new tab. If it didn't, use the button above
-                  or message 0905 069 0837 directly.
+                  WhatsApp should have opened in a new tab. If it did not, use the button above,
+                  or message 0905 069 0837.
                 </p>
               )}
             </form>

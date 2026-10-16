@@ -29,7 +29,7 @@
     line: "#DBD3C4",
     launcherLabel: "Chat with Easywurld",
     greeting:
-      "Hello — you've reached Easywurld. Ask me anything below, or tell us about your business and we'll pick it up on WhatsApp.",
+      "Hello. You've reached Easywurld. Ask a question below, or tell us about your business and we'll reply on WhatsApp.",
 
     /* Optional, for later. Leave null and the widget stays fully rule-based.
        Set to a URL that accepts { messages: [...] } and returns { reply: "..." }
@@ -48,8 +48,8 @@
     offer: {
       q: "What do you offer?",
       a: [
-        "Seven things, and they connect: marketing strategy, web design, landing pages, search optimisation, social media management, copywriting, and business reports and presentations.",
-        "Most clients start with one — usually a website or a landing page — and add the rest once it's earning its keep.",
+        "Seven things that fit together: marketing plans, web design, landing pages, search, social media, copywriting, and business reports.",
+        "Most people start with one, often a website or a landing page, and add the rest later.",
       ],
       next: ["how", "cost", "time", "wa"],
     },
@@ -57,40 +57,40 @@
       q: "How does it work?",
       a: [
         "Four steps: Understand, Simplify, Build, Optimize.",
-        "We start with a conversation about what you're actually trying to fix. Then we cut the message back to what matters, build the thing, and adjust it once real people have used it.",
-        "You deal with the same people the whole way through.",
+        "We start by asking what you are really trying to fix. Then we cut the message down to what matters, build it, and adjust it once real people have used it.",
+        "You work with the same people all the way through.",
       ],
       next: ["offer", "cost", "time", "wa"],
     },
     cost: {
       q: "How much does it cost?",
       a: [
-        "It depends on the project — a one-page site and a seven-page site with content and search work aren't the same job, and we'd rather quote properly than throw a number at you.",
-        "Tell us your business type and what you need, and we'll come back with a range and what sits inside it.",
+        "It depends on the job. A one-page site and a seven-page site with content and search work are not the same job, and we would rather give you a real number than a guess.",
+        "Tell us what your business does and what you need, and we will send a range and what it covers.",
       ],
       next: ["form", "time", "wa"],
     },
     time: {
       q: "How long does it take?",
       a: [
-        "A landing page is usually about a week. A small business site is two to four weeks. Larger builds with content and search work run longer.",
-        "The honest bottleneck is normally content — photos, text, prices. When those arrive, things move quickly.",
+        "A landing page is usually about a week. A small business site takes two to four weeks. Bigger jobs with content and search work take longer.",
+        "The usual hold-up is content: photos, text, prices. Once those arrive, things move fast.",
       ],
       next: ["offer", "cost", "form", "wa"],
     },
     work: {
       q: "Can I see your work?",
       a: [
-        "Yes — the Projects page has the full portfolio, and most of them open the real working site or document, not a picture of one.",
-        "Everything is labelled concept or sample where it isn't a paying client. We don't dress up speculative work as commissioned work.",
+        "Yes. The Projects page has everything, and most of them open the real working site or document, not a picture of one.",
+        "Anything that is not paid client work is labelled concept or sample. We don't pass off practice work as client work.",
       ],
       next: ["offer", "cost", "wa"],
     },
     where: {
       q: "Where are you based?",
       a: [
-        "Lagos, Nigeria. We work with businesses across the country and remotely beyond it.",
-        "WhatsApp is the fastest way to reach us, usually same day.",
+        "Lagos, Nigeria. We work with businesses across the country and further away.",
+        "WhatsApp is the fastest way to reach us. We usually reply the same day.",
       ],
       next: ["offer", "form", "wa"],
     },
@@ -103,8 +103,8 @@
 
   /* Fallback when someone types something the rules don't cover */
   var FALLBACK = [
-    "I only know a handful of answers here, so I don't want to guess at that one.",
-    "Send it to a human on WhatsApp and you'll get a proper reply — usually the same day.",
+    "I only know a few answers here, so I won't guess at that one.",
+    "Send it to a person on WhatsApp and you'll get a proper reply, usually the same day.",
   ];
 
   /* ---------------------------------------------------------------------------
@@ -112,20 +112,16 @@
      --------------------------------------------------------------------------- */
 
   var css =
-    /* 48px launcher, 12px from the corner, hidden until the visitor has
-       scrolled past the hero so it never sits over the opening text. */
-    '.ew-launch{position:fixed;right:12px;bottom:12px;z-index:2147483000;display:inline-flex;align-items:center;justify-content:center;' +
-    'width:48px;height:48px;min-width:48px;min-height:48px;padding:0;border:0;border-radius:999px;cursor:pointer;' +
+    '.ew-launch{position:fixed;right:18px;bottom:18px;z-index:2147483000;display:inline-flex;align-items:center;gap:9px;' +
+    'min-height:52px;min-width:52px;padding:0 18px;border:0;border-radius:999px;cursor:pointer;' +
     'background:' + CONFIG.accent + ';color:#fff;font:600 15px/1 ui-sans-serif,-apple-system,"Segoe UI",sans-serif;' +
-    'box-shadow:0 6px 22px rgba(0,0,0,.22);opacity:0;visibility:hidden;transform:translateY(8px);' +
-    'transition:opacity .25s ease,transform .25s ease,visibility .25s}' +
-    '.ew-launch.ew-show{opacity:1;visibility:visible;transform:none}' +
-    '.ew-launch.ew-show:hover{transform:translateY(-1px)}' +
+    'box-shadow:0 6px 22px rgba(0,0,0,.22)}' +
+    '.ew-launch:hover{transform:translateY(-1px)}' +
     '.ew-launch:focus-visible{outline:3px solid #9E4E2C;outline-offset:3px}' +
     '.ew-launch svg{flex:none}' +
-    '.ew-launch span{display:none}' +
+    '@media(max-width:480px){.ew-launch span{display:none}.ew-launch{padding:0;width:56px;height:56px;justify-content:center}}' +
 
-    '.ew-panel{position:fixed;right:12px;bottom:72px;z-index:2147483000;width:min(370px,calc(100vw - 32px));' +
+    '.ew-panel{position:fixed;right:18px;bottom:82px;z-index:2147483000;width:min(370px,calc(100vw - 32px));' +
     'max-height:min(560px,calc(100vh - 110px));display:flex;flex-direction:column;background:' + CONFIG.paper + ';' +
     'color:' + CONFIG.ink + ';border:1px solid ' + CONFIG.line + ';border-radius:14px;overflow:hidden;' +
     'box-shadow:0 18px 50px rgba(0,0,0,.24);font:15px/1.55 ui-sans-serif,-apple-system,"Segoe UI",sans-serif;' +
@@ -155,7 +151,7 @@
     '.ew-form button{min-height:46px;background:' + CONFIG.accent + ';color:#fff;border:0;border-radius:8px;' +
     'font:inherit;font-weight:600;cursor:pointer}' +
     '.ew-foot{padding:9px 14px;border-top:1px solid ' + CONFIG.line + ';font-size:11.5px;color:#5F6659}' +
-    '@media(prefers-reduced-motion:reduce){.ew-panel,.ew-launch{transition:none}.ew-launch.ew-show:hover{transform:none}}' +
+    '@media(prefers-reduced-motion:reduce){.ew-panel{transition:none}.ew-launch:hover{transform:none}}' +
     '@media(prefers-contrast:more){.ew-b.bot{border-color:' + CONFIG.ink + '}}';
 
   function el(tag, attrs, text) {
@@ -338,7 +334,7 @@
         buttons(START);
       }
       setTimeout(function () { ui.close.focus(); }, 30);
-    } else if (ui.launcher.classList.contains("ew-show")) {
+    } else {
       ui.launcher.focus();
     }
   }
@@ -348,20 +344,6 @@
     ui.launcher.addEventListener("click", function () { toggle(!open); });
     ui.close.addEventListener("click", function () { toggle(false); });
     document.addEventListener("keydown", onKey);
-
-    var hero = document.querySelector(".home-hero");
-    function syncLauncher() {
-      var past;
-      if (hero) {
-        past = hero.getBoundingClientRect().bottom <= 120;
-      } else {
-        past = window.scrollY > Math.round(window.innerHeight * 0.8);
-      }
-      ui.launcher.classList.toggle("ew-show", past || open);
-    }
-    window.addEventListener("scroll", syncLauncher, { passive: true });
-    window.addEventListener("resize", syncLauncher, { passive: true });
-    syncLauncher();
   }
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);

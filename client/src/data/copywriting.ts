@@ -13,21 +13,21 @@ export const copywriting: Project[] = [
     status: "Sample Project",
     year: "2026",
     weight: 2,
-    summary: "A homepage that opened with twenty years of history and never named a problem.",
+    summary: "A homepage that started with twenty years of history and never named a problem.",
     challenge:
-      "The first two hundred words were about the firm: founding date, office locations, a values list. A visitor with an urgent problem had to read all of it before discovering whether the firm could help.",
+      "The first two hundred words were about the firm: when it started, where the offices are, a list of values. A visitor with an urgent problem had to read all of that before finding out whether these were the right people.",
     approach:
-      "Inverted the structure. The visitor's question first, the firm's credentials as supporting evidence afterwards. Credentials are more persuasive once the reader believes you understand them.",
+      "We turned it around. The visitor's question comes first. The firm's record comes after, as proof. Proof works better once the reader believes you understand them.",
     built: [
-      "Full homepage rewrite, roughly 40% shorter",
-      "Section headings rewritten as questions the visitor is asking",
-      "Credential block moved below the fold and cut by half",
-      "Call-to-action language tested against three alternatives",
+      "The whole homepage rewritten, about 40% shorter",
+      "Headings changed into the questions the visitor is asking",
+      "The record section moved lower down, and cut in half",
+      "Three versions of the main button text compared",
     ],
     direction:
-      "Before and after set side by side in the same typeface, so the reader judges the words rather than the design.",
+      "Before and after side by side, in the same typeface, so you judge the words and not the design.",
     result:
-      "Sample rewrite produced for demonstration; no live A/B data. The measurable change is length — 412 words down to 248 — and the position of the first client-facing sentence, moved from paragraph five to paragraph one.",
+      "Sample rewrite made to show the method. No live test data. The changes you can count: 412 words down to 248, and the first sentence about the client moved from paragraph five to paragraph one.",
     takeaway: "Nobody reads your About section before they believe you can help them.",
     tags: ["Homepage", "Structure", "B2B"],
     visual: {
@@ -48,21 +48,21 @@ export const copywriting: Project[] = [
     status: "Sample Project",
     year: "2026",
     weight: 1,
-    summary: "Between clinical ingredient lists and overwrought poetry.",
+    summary: "Somewhere between a plain ingredient list and fancy poetry.",
     challenge:
-      "Menu descriptions swung between the two failure modes: bare component lists that sold nothing, and lyrical paragraphs that made ordering embarrassing. Staff also had no guidance for writing specials.",
+      "Menu lines swung between two bad habits. Some were bare lists of ingredients that sold nothing. Others were so flowery that ordering felt awkward. Staff had no guide for writing the specials either.",
     approach:
-      "Found a middle register — specific, warm, honest about what arrives — and wrote it down as rules simple enough for a chef to apply at 4pm on a Tuesday.",
+      "We found a middle way: specific, warm, and honest about what lands on the plate. Then we wrote it down as three simple rules a chef can use mid-service.",
     built: [
-      "Full menu rewrite, 34 dishes",
-      "Voice guide with three rules and worked examples",
-      "Specials template for kitchen staff",
-      "Allergen phrasing that is clear without being alarming",
+      "The whole menu rewritten, 34 dishes",
+      "A short guide with three rules and examples",
+      "A template for specials the kitchen can fill in",
+      "Allergy notes that are clear, not scary",
     ],
     direction:
-      "Set as an actual menu page, in menu typography, because copy should be judged in the format it will live in.",
+      "Shown as a real menu page, in menu type, because words should be judged in the shape they will be used.",
     result:
-      "Sample work. No sales data. The practical outcome is that specials can be written by the kitchen without a copywriter.",
+      "Sample work. No sales data. The practical win: the kitchen can write its own specials without a writer.",
     takeaway: "Describe the dish, not the adjective.",
     tags: ["Hospitality", "Voice", "Templates"],
     visual: {
@@ -83,21 +83,21 @@ export const copywriting: Project[] = [
     status: "Sample Project",
     year: "2026",
     weight: 1,
-    summary: "Product copy with detail, restraint and an actual point of view.",
+    summary: "Product copy with detail, restraint and a clear point of view.",
     challenge:
-      "Descriptions were manufacturer specifications — fabric weight, care instructions, country of origin — with a sentence of adjectives on top. Returns were driven by fit surprises the copy could have prevented.",
+      "The descriptions were factory specs: fabric weight, washing notes, where it was made. Then one line of adjectives. Most returns happened because the fit was a surprise, and better words could have prevented that.",
     approach:
-      "Every description answers three questions: what it's made of, how it sits on the body, and when you would actually wear it. The third is where returns are prevented and where most brands say nothing.",
+      "Each description answers three questions: what it is made of, how it sits on the body, and when you would really wear it. That third one is where returns are saved, and where most brands say nothing.",
     built: [
-      "18 product descriptions in a consistent three-part structure",
-      "Fit notes written from real measurements on real bodies",
-      "Fabric behaviour described in use, not in specification",
-      "House style sheet for future products",
+      "18 product pages using the same three-part shape",
+      "Fit notes from real measurements on real people",
+      "How the fabric behaves when worn, not just its spec",
+      "A style sheet for future products",
     ],
     direction:
-      "Small type, generous space, one product per screen. The restraint is the brand argument.",
+      "Small type, lots of space, one product per screen. That restraint is the brand's argument.",
     result:
-      "Sample work. No returns data available. The structural intent is to answer the fit question before purchase rather than after.",
+      "Sample work. There is no returns data. The aim is to answer the fit question before someone buys, not after.",
     takeaway: "Product copy that prevents a return is worth more than copy that wins a sale.",
     tags: ["Fashion", "E-commerce", "Returns"],
     visual: {
@@ -120,20 +120,20 @@ export const copywriting: Project[] = [
     weight: 1,
     summary: "Clinical accuracy at a reading age of twelve.",
     challenge:
-      "Service pages were written by clinicians for clinicians. Patients arrived anxious and left more anxious, having understood roughly a third of it, and then phoned to ask what it meant.",
+      "The pages were written by clinicians, for clinicians. Patients arrived worried, understood about a third of it, felt worse, and then phoned to ask what it all meant.",
     approach:
-      "Rewrote for comprehension without losing accuracy — a harder constraint than it sounds, because removing hedging language can change clinical meaning. Every page was checked back against the original for accuracy.",
+      "We rewrote for understanding without losing accuracy. That is harder than it sounds. Taking out careful wording can change the medical meaning, so every page was checked against the original.",
     built: [
-      "Nine service pages rewritten and accuracy-checked",
-      "Terminology pairs: the clinical term and the everyday one, together",
-      "What happens, step by step, with realistic timings",
-      "Explicit statement of what the service does not cover",
+      "Nine service pages rewritten and checked for accuracy",
+      "Both words given: the clinical term and the everyday one",
+      "What happens, step by step, with real timings",
+      "A clear line on what the service does not cover",
     ],
     direction:
-      "Single column, 60-character measure, generous paragraph spacing. Nothing decorative — an anxious reader needs a clear path, not a designed experience.",
+      "One column, short lines, roomy spacing. Nothing decorative. A worried reader needs a clear path, not a clever design.",
     result:
-      "Sample work. No comprehension testing has been run. The stated goal is that a patient can describe the procedure to a family member after one read.",
-    takeaway: "Simplifying clinical copy is an accuracy problem before it is a style one.",
+      "Sample work. No comprehension testing has been done. The goal: after one read, a patient can explain the procedure to a family member.",
+    takeaway: "Making medical words simple is an accuracy job before it is a writing job.",
     tags: ["Healthcare", "Plain language", "Accessibility"],
     visual: {
       archetype: "copy", bg: "#F7F9FA", ink: "#17232B", accent: "#1F7A8C", muted: "#6E7C84",
@@ -155,20 +155,20 @@ export const copywriting: Project[] = [
     weight: 1,
     summary: "Five emails for people who downloaded a syllabus and went quiet.",
     challenge:
-      "The existing sequence was five reminders of the same offer with escalating urgency, which reads as desperation and teaches people to unsubscribe.",
+      "The old sequence was the same offer five times, with rising urgency. That reads as desperation, and it teaches people to unsubscribe.",
     approach:
-      "Each email does one job and carries genuinely new information: a real lesson excerpt, the honest time commitment, a graduate's unedited account, the cost including what is not included, then a single clear close.",
+      "Each email does one job and says something new: a real piece of a lesson, the honest time it takes, a former student's own words, the price with what is not included, then one plain ask.",
     built: [
-      "Five emails, each with a distinct job and new content",
-      "Subject lines written to be accurate rather than clever",
-      "One honest objection addressed per email",
-      "A close that accepts 'no' as a complete answer",
+      "Five emails, each with its own job and new content",
+      "Subject lines that are accurate, not clever",
+      "One real worry answered in each email",
+      "An ending that treats 'no' as a full answer",
     ],
     direction:
-      "Plain text with minimal formatting. Marketing-designed emails in education signal a sales funnel; plain text signals a person.",
+      "Plain text, almost no styling. A heavily designed email in education looks like a funnel. Plain text looks like a person.",
     result:
-      "Sample sequence. No open or conversion data. The design principle is that every email must be worth reading even if the reader never enrols.",
-    takeaway: "If an email has nothing new to say, not sending it is the better campaign.",
+      "Sample sequence. No open or reply data. The rule we followed: every email must be worth reading even if the person never signs up.",
+    takeaway: "If an email has nothing new to say, not sending it is the better plan.",
     tags: ["Email", "Sequences", "Education"],
     visual: {
       archetype: "copy", bg: "#FBF8F2", ink: "#1E1B17", accent: "#7B2D26", muted: "#7B746B",
@@ -188,21 +188,21 @@ export const copywriting: Project[] = [
     status: "Sample Project",
     year: "2026",
     weight: 1,
-    summary: "A founder story shaped into a reason to choose them.",
+    summary: "A founder story turned into a reason to pick them.",
     challenge:
-      "The About page was a chronology: founded, expanded, incorporated. True, and of no use to a homeowner deciding who to trust with a structural job.",
+      "The About page was a timeline: started, grew, registered. All true, and no help at all to a homeowner deciding who to trust with serious building work.",
     approach:
-      "Kept the facts and changed what they were evidence for. Twenty years became specific competence; a small team became direct access to the person doing the work; one honest account of a job that went wrong became the most credible paragraph on the site.",
+      "We kept the facts and changed what they proved. Twenty years became real skill. A small team became direct access to the person doing the work. And one honest story about a job that went wrong became the most believable paragraph on the site.",
     built: [
-      "About page rewrite anchored on client-relevant evidence",
-      "One candid account of a project that overran, and why",
-      "Named team with actual trade qualifications",
-      "Guarantee written in plain terms",
+      "The page rebuilt around proof a client cares about",
+      "One open account of a job that ran late, and why",
+      "Named staff with real trade qualifications",
+      "The guarantee written in plain words",
     ],
     direction:
-      "Structural and plain. Concrete grey, black, a single yellow rule. One photograph of the actual team on an actual site.",
+      "Solid and plain. Concrete grey, black, one yellow line. One photo of the real team on a real site.",
     result:
-      "Sample work. The notable editorial decision is including a failure, which most trade sites omit and which buyers consistently say they look for.",
+      "Sample work. The bold choice is including a mistake. Most building sites leave that out, yet buyers say it is what they look for.",
     takeaway: "Admitting one thing that went wrong makes everything else believable.",
     tags: ["Trades", "Trust", "Story"],
     visual: {
@@ -225,19 +225,19 @@ export const copywriting: Project[] = [
     weight: 1,
     summary: "Answers to the questions people are too uncomfortable to ask.",
     challenge:
-      "The existing FAQ answered administrative questions — parking, cancellation, payment methods — while the real hesitations went unaddressed because nobody had asked them out loud.",
+      "The old FAQ covered parking, cancellations and payment. The real worries were never answered, because nobody had ever said them out loud.",
     approach:
-      "Collected the unspoken questions from practitioners, then answered them without overpromising. 'Will this work for me' is answered honestly, including the circumstances in which it might not.",
+      "We collected the unspoken questions from the people who do the work, then answered them without promising too much. 'Will this help me' gets an honest answer, including when it might not.",
     built: [
-      "Twelve questions drawn from practitioner experience, not analytics",
-      "Answers that decline to promise outcomes",
-      "Explicit note on when to seek a different service",
-      "Confidentiality explained including its legal limits",
+      "Twelve questions taken from practice, not from analytics",
+      "Answers that refuse to promise results",
+      "A clear note on when to look for other help",
+      "Privacy explained, including its legal limits",
     ],
     direction:
-      "Quiet typography, wide leading, no accordions — hiding an anxious reader's question behind a click is a small cruelty.",
+      "Quiet type, wide spacing, and nothing hidden behind a click. Making a worried reader tap to see their own question is unkind.",
     result:
-      "Sample work. The editorial position is that honest limits build more confidence than confident claims.",
+      "Sample work. Our view: honest limits build more trust than big claims.",
     takeaway: "The most useful FAQ answers the question nobody typed into the search box.",
     tags: ["Wellness", "FAQ", "Honesty"],
     visual: {

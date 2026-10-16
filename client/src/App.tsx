@@ -15,6 +15,7 @@ const Offers = lazy(() => import("./pages/Offers"));
 const OfferDetail = lazy(() => import("./pages/OfferDetail"));
 const About = lazy(() => import("./pages/About"));
 const Contact = lazy(() => import("./pages/Contact"));
+const FreeReview = lazy(() => import("./pages/FreeReview"));
 const NotFound = lazy(() => import("./pages/NotFound"));
 
 function Router() {
@@ -32,6 +33,7 @@ function Router() {
         <Route path="/offers/:slug" component={OfferDetail} />
         <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} />
+        <Route path="/free-review" component={FreeReview} />
         <Route component={NotFound} />
       </Switch>
     </Suspense>
