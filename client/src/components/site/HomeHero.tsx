@@ -76,13 +76,13 @@ export default function HomeHero() {
           <p className="eyebrow">Independent digital studio · Lagos, Nigeria</p>
 
           <h1 className="home-hero-title">
-            We build websites that help Lagos customers find you.
+            Simplify. Optimize. Grow.
           </h1>
 
           <p className="lead home-hero-lead">
-            We make websites, write the words, and set up simple systems for small
-            businesses in Lagos. A clear site loads fast, shows up in search, and turns
-            visitors into messages.
+            Marketing clarity for small businesses in Lagos — strategy, design, words
+            and simple systems that work together. Clear, fast and built to bring in
+            messages.
           </p>
 
           <div className="home-hero-actions">
@@ -140,7 +140,7 @@ export default function HomeHero() {
             </div>
             <div className="hero-float-card hero-card-design">
               <span className="hero-card-index">02</span>
-              <span><b>Web design</b><small>Simplify</small></span>
+              <span><b>Design & words</b><small>Simplify</small></span>
             </div>
             <div className="hero-float-card hero-card-systems">
               <span className="hero-card-index">03</span>

@@ -34,8 +34,8 @@ export default function Home() {
   return (
     <>
       <Seo
-        title="Easywurld | Web Design & SEO for Lagos Small Businesses"
-        description="We build websites, write the words and set up simple systems for small businesses in Lagos. Clear sites that load fast, show up in search and turn visitors into messages. Simplify. Optimize. Grow."
+        title="Easywurld | Simplify. Optimize. Grow."
+        description="Marketing clarity for small businesses in Lagos — strategy, web design, copywriting, social media and simple systems. Simplify. Optimize. Grow."
         path="/"
       />
 
