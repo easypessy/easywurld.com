@@ -14,6 +14,7 @@ const CaseStudy = lazy(() => import("./pages/CaseStudy"));
 const Services = lazy(() => import("./pages/Services"));
 const About = lazy(() => import("./pages/About"));
 const Contact = lazy(() => import("./pages/Contact"));
+const FreeReview = lazy(() => import("./pages/FreeReview"));
 const NotFound = lazy(() => import("./pages/NotFound"));
 
 function Router() {
@@ -29,6 +30,7 @@ function Router() {
         <Route path="/services" component={Services} />
         <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} />
+        <Route path="/free-review" component={FreeReview} />
         <Route component={NotFound} />
       </Switch>
     </Suspense>

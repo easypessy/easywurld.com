@@ -164,6 +164,7 @@ function Footer() {
             <h4>Contact</h4>
             <div className="ftr-links">
               <a href={WA} target="_blank" rel="noopener noreferrer">WhatsApp · 0905 069 0837</a>
+              <Link href="/free-review">Free website review</Link>
               <Link href="/contact">Start a project</Link>
               <Link href="/about">About Easywurld</Link>
             </div>

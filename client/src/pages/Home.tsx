@@ -250,6 +250,9 @@ export default function Home() {
               <a href={WA} target="_blank" rel="noopener noreferrer" className="btn btn-wa">
                 Message us on WhatsApp
               </a>
+              <Link href="/free-review" className="btn btn-solid">
+                Get a free 3-point review
+              </Link>
               <Link href="/contact" className="btn btn-ghost">Use the form instead</Link>
             </div>
           </Reveal>
