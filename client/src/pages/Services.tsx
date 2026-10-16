@@ -59,7 +59,7 @@ export default function Services() {
   return (
     <>
       <Seo
-        title="Services — Web Design, SEO & Content in Lagos | Easywurld"
+        title="Services — Websites, Copy, Social & Systems in Lagos | Easywurld"
         description="Marketing plans, web design, landing pages, simple systems, social media, copywriting and business reports for small businesses in Lagos."
         path="/services"
       />

@@ -7,7 +7,7 @@ export default function About() {
     <>
       <Seo
         title="About Easywurld — A small digital studio in Lagos"
-        description="Easywurld is a small studio in Lagos. We do marketing plans, web design, words and simple systems for small businesses."
+        description="One team for the website, the words, the social media and the follow-up."
         path="/about"
       />
       <section style={{ paddingBottom: 20 }}>

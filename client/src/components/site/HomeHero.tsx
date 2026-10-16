@@ -140,7 +140,7 @@ export default function HomeHero() {
             </div>
             <div className="hero-float-card hero-card-design">
               <span className="hero-card-index">02</span>
-              <span><b>Web design</b><small>Simplify</small></span>
+              <span><b>Design & words</b><small>Simplify</small></span>
             </div>
             <div className="hero-float-card hero-card-systems">
               <span className="hero-card-index">03</span>
