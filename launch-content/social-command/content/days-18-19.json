@@ -1,0 +1,915 @@
+[
+  {
+    "day": 18,
+    "label": "Day 18",
+    "theme": "Say it in one breath",
+    "offer": "The Chat-to-Customer Playbook · PLAYBOOK",
+    "posts": [
+      {
+        "id": "D18-01",
+        "type": "Teach",
+        "topic": "How to say what you do in one breath",
+        "why": "Teach. It is the most reusable sentence in the whole month, and it applies to a page, a caption and a conversation.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "If you cannot say what you do in one breath, nobody else will say it for you.",
+          "beats": [
+            "I help [who] to [do what]",
+            "That is the sentence",
+            "Everything else is\nthe explanation",
+            "And the explanation comes second"
+          ],
+          "vo": "If you cannot say what you do in one breath, nobody else will say it for you. Here is the sentence: I help this person to do this thing. That is it. Everything else is the explanation, and the explanation comes second. People who write one breath first and then explain it sound clear. People who explain first sound like they are apologising for existing.",
+          "cap": "The sentence:\n\nI help [who] to [do what].\n\nThat is the whole thing. Everything else is the explanation, and the explanation comes second.\n\nPeople who explain first sound like they are apologising for existing.",
+          "tags": ["#Copywriting", "#SmallBusinessNigeria", "#Easywurld", "#BusinessTips"],
+          "asset": "Cream background, one line of text with two blanks marked, terracotta underline, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "If you cannot say what you do\nin one breath, nobody else\nwill say it for you.",
+            "I help [who]\nto [do what].",
+            "That is the sentence.",
+            "Everything else is the\nexplanation, and the\nexplanation comes second.",
+            "People who explain first\nsound like they are\napologising for existing."
+          ],
+          "cap": "Try it now: I help tailors in Yaba to fit clothes properly in one week. That is a sentence you can put on a page, in a bio, and in the first line of a message.\n\nThe Clear Message Workbook starts with that sentence. ₦5,000, message MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": ["#Copywriting", "#Easywurld", "#LagosSME", "#BusinessTips"],
+          "asset": "Cream slides, deep green serif, terracotta underline."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "If you cannot say what you do in one breath, nobody else will say it for you.\n\nHere is the sentence:\n\nI help [who] to [do what].\n\nThat is it. Everything else is the explanation, and the explanation comes second.\n\nTry it with your own business. I help tailors in Yaba to fit clothes properly in one week. I help neighbourhood restaurants to fill the Tuesday lunch slot. I help new mothers in Lekki to find a housekeeper they can trust. Each one is a sentence you can put on a page, in a bio, and in the first line of a message.\n\nPeople who write one breath first and then explain it sound clear. People who explain first sound like they are apologising for existing.\n\nThe Clear Message Workbook, ₦5,000, starts with that sentence and works outward from it. Message MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 08:15",
+          "body": "If you cannot say what you do in one breath, nobody else will say it for you.\n\nThe sentence: I help this person to do this thing.\n\nThat is it. Everything else is the explanation, and the explanation comes second.\n\nTry it with a real business. I help tailors in Yaba to fit clothes properly in one week. I help neighbourhood restaurants to fill the Tuesday lunch slot. I help new mothers in Lekki to find a housekeeper they can trust.\n\nEach of those is a sentence you can put on a page, in a bio, in the first line of a message, and in the answer to the question every customer asks in their head.\n\nThe reason this matters more than it sounds: a business that cannot be summarised in one breath will be summarised by its customers instead, and customers summarise in the most boring way available. \"They do things.\" \"They sell stuff.\" \"They are an IT company.\" That is the version that ends up in the group chat, and it is the version that gets you skipped.\n\nThe Clear Message Workbook, ₦5,000, starts with that sentence. WhatsApp: 0905 069 0837. Message MESSAGE."
+        }
+      },
+      {
+        "id": "D18-02",
+        "type": "Meme",
+        "topic": "We offer quality services for all your needs",
+        "why": "Meme. The universal example of a business that has hidden its own offer behind vague words.",
+        "tiktok": {
+          "fmt": "Static meme, 12s, with voiceover",
+          "hook": "Our About Us section",
+          "beats": [
+            "\"We offer quality solutions\"",
+            "\"Tailored to your needs\"",
+            "\"With a customer-first approach\"",
+            "Customer: but what do you sell"
+          ],
+          "vo": "Our About Us section. We offer quality solutions, tailored to your needs, with a customer-first approach. Customer: but what do you sell. This is what happens when the business writes the copy instead of the owner. The owner knows exactly what they sell. They just never wrote it down, so the page filled up with the words that sound professional instead of the ones that are true.",
+          "cap": "\"We offer quality solutions, tailored to your needs, with a customer-first approach.\"\n\nCustomer: but what do you sell?\n\nThe owner knows exactly. The page just filled up with the words that sound professional.",
+          "tags": ["#Meme", "#Copywriting", "#Easywurld", "#SmallBusinessNigeria"],
+          "asset": "Four-panel meme, cream background, deep green type, terracotta on the customer panel."
+        },
+        "instagram": {
+          "fmt": "Static meme post, 4:5",
+          "slides": [
+            "Our About Us section:",
+            "\"We offer quality solutions\"",
+            "\"Tailored to your needs\"",
+            "\"With a customer-first approach\"",
+            "Customer: but what do you sell",
+            "The owner knows exactly.\nThe page filled up with the\nwords that sound professional."
+          ],
+          "cap": "Say what you do, for whom, and what happens next. Three lines. Everything else is decoration.\n\nThe Clear Homepage Blueprint has the structure for that. ₦5,000, message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": ["#Meme", "#Easywurld", "#LagosSME", "#Copywriting"],
+          "asset": "Two-panel meme, cream and deep green."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Our About Us section:\n\n\"We offer quality solutions.\"\n\"Tailored to your needs.\"\n\"With a customer-first approach.\"\n\nCustomer: but what do you sell?\n\nThis is what happens when the business writes the copy instead of the owner. The owner knows exactly what they sell. They just never wrote it down, so the page filled up with the words that sound professional instead of the words that are true.\n\nThree lines fix it: what you do, who it is for, what happens next.\n\nThe Clear Homepage Blueprint, ₦5,000, has the structure and twenty fill-in copy templates so you write it in an evening. Message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D18-03",
+        "type": "Trust",
+        "topic": "We make it easy for you to say no to us",
+        "why": "Trust. It is an unusual and credible position, and it costs the brand nothing to say.",
+        "tiktok": {
+          "fmt": "Talking head, 25s",
+          "hook": "We have a rule that makes it easy for you to turn us down. Here it is.",
+          "beats": [
+            "If it is not a fit, we say so",
+            "In the first reply",
+            "Not after the proposal",
+            "And we do not follow up\nfor two weeks"
+          ],
+          "vo": "We have a rule that makes it easy for you to turn us down. If it is not a fit, we say so in the first reply, not after the proposal. And after a no, we do not follow up for two weeks. If you tell us it is not a fit, we have saved you a month and we have not lost anything except the job we should not have taken. The alternative is worse for everybody.",
+          "cap": "We have a rule that makes it easy to turn us down.\n\nIf it is not a fit, we say so in the first reply, not after the proposal. And after a no, we do not follow up for two weeks.\n\nWe have saved you a month, and not taken the job we should not have taken.",
+          "tags": ["#Easywurld", "#HonestBusiness", "#SmallBusinessNigeria", "#ClientWork"],
+          "asset": "Talking head, plain shirt, warm light, brand mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "We have a rule that makes\nit easy to turn us down.",
+            "If it is not a fit, we say so\nin the first reply.",
+            "Not after the proposal.",
+            "And after a no, we do not\nfollow up for two weeks.",
+            "We have saved you a month,\nand not taken the job\nwe should not have taken."
+          ],
+          "cap": "If you would rather know whether we are right for you before you spend anything: send your link and get a free 24-hour review, no sales call. WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#HonestBusiness", "#LagosSME", "#WorkingTogether"],
+          "asset": "Cream slides, deep green serif, terracotta rule."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "We have a rule that makes it easy for you to turn us down.\n\nIf it is not a fit, we say so in the first reply. Not after the proposal. And after a no, we do not follow up for two weeks.\n\nHere is the reasoning, plainly. We have saved you a month. We have not taken the job we should not have taken, which is the job where we would have done it badly and been paid for it. And the alternative is worse for everybody, because the alternative is a slow no where you spend three weeks waiting for a reply that was never going to be yes.\n\nIf you would rather find out whether we are right for you before you spend anything: send us your link. Within 24 hours you get a voice note and three points. Free, no sales call.\n\nWhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 12:15",
+          "body": "We have a rule that makes it easy for you to turn us down.\n\nIf it is not a fit, we say so in the first reply. Not after the proposal. And after a no, we do not follow up for two weeks.\n\nThe reasoning is plain enough. We have saved you a month. We have not taken the job we should not have taken, which is the one where we would have done it badly and been paid for it anyway. And the alternative is worse for everybody: a slow no, where you spend three weeks waiting for a reply that was never going to be a yes.\n\nThis is unusual enough that we think it is worth stating out loud, because a lot of the distrust in this industry comes from businesses that make it difficult to say no.\n\nIf you would rather know whether we are right for you before spending anything: send your link. Within 24 hours, a voice note and three points. Free, no sales call.\n\nWhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D18-04",
+        "type": "Teach",
+        "topic": "The three parts of an offer people actually understand",
+        "why": "Teach. A simple, complete structure for the offer, which is the day\u2019s whole argument.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "An offer has three parts. Most offers only have one.",
+          "beats": [
+            "1 · What you do for them",
+            "2 · What they get, concretely",
+            "3 · What it costs and\nwhat you need from them",
+            "Two out of three is a guess"
+          ],
+          "vo": "An offer has three parts, and most offers only have one. One: what you do for them, in their language. Two: what they get, concretely, so they can picture it. Three: what it costs and what you need from them to start. Two out of three is a guess, and a guess does not get a yes, it gets a maybe. A maybe is the same as a no, except it takes longer.",
+          "cap": "An offer has three parts. Most offers only have one.\n\n1 · What you do for them, in their language\n2 · What they get, concretely\n3 · What it costs, and what you need from them\n\nTwo out of three is a guess. And a maybe is a no that takes longer.",
+          "tags": ["#SmallBusinessNigeria", "#Easywurld", "#BusinessTips", "#Pricing"],
+          "asset": "Cream background, three numbered lines, terracotta tick on the third, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "An offer has three parts.\nMost offers only have one.",
+            "1 · What you do for them,\nin their language",
+            "2 · What they get,\nconcretely",
+            "3 · What it costs and what\nyou need from them to start",
+            "Two out of three is a guess.\n\nAnd a maybe is a no\nthat takes longer."
+          ],
+          "cap": "The one-offer landing page is built around exactly these three, section by section. ₦5,000, message PAGE on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#LagosSME", "#BusinessTips", "#Pricing"],
+          "asset": "Cream slides, deep green serif, terracotta numbers."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "An offer has three parts, and most offers only have one.\n\n1. What you do for them, in their language.\n2. What they get, concretely, so they can picture it happening.\n3. What it costs, and what you need from them to start.\n\nTwo out of three is a guess. And a guess does not get a yes, it gets a maybe. A maybe is the same as a no, except it takes three more weeks and a follow-up you did not want to send.\n\nThe third part is the one people leave out, and it is the one that moves things. \"It costs this, and I need these three things from you by Friday\" is a decision. \"It costs this\" is a price.\n\nThe one-offer landing page is built around exactly these three, section by section. ₦5,000, message PAGE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 16:15",
+          "body": "An offer has three parts, and most offers only have one.\n\nWhat you do for them, in their language.\n\nWhat they get, concretely, so they can picture it happening.\n\nWhat it costs, and what you need from them to start.\n\nTwo out of three is a guess. And a guess does not get a yes, it gets a maybe, which is the same as a no except it takes three more weeks and a follow-up you did not want to send.\n\nThe third part is the one people leave out, and it is the one that moves things. \"It costs this, and I need these three things from you by Friday\" is a decision. \"It costs this\" is a price.\n\nPrices get compared. Decisions get made. That is the whole difference between an offer and a price, and it is why a clear offer sells more than a cheap one.\n\nThe one-offer landing page is built around exactly these three, section by section, with copy blocks for each. ₦5,000, message PAGE on WhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D18-05",
+        "type": "Story",
+        "topic": "The sentence that finally worked",
+        "why": "Story. A specific moment of clarity, told plainly, that shows the method in action.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "A business tried four versions of its homepage headline. Here is the one that worked.",
+          "beats": [
+            "Version one: welcome to us",
+            "Version two: quality service",
+            "Version three: we care",
+            "Version four: we fix phones\nin Yaba, same day",
+            "That is the one"
+          ],
+          "vo": "A business tried four versions of its homepage headline. Version one, welcome to us. Version two, quality service with a smile. Version three, we care about you. Version four: we fix phones in Yaba, same day while you wait. That is the one, and it is the shortest and least impressive of the four. The person who wrote it said the other three sounded like a company, and the fourth sounded like the shop on the corner. The fourth is the one people read.",
+          "cap": "Four versions of one headline:\n\n1 · Welcome to us\n2 · Quality service with a smile\n3 · We care about you\n4 · We fix phones in Yaba, same day while you wait\n\nThe shortest and least impressive one won. It sounded like the shop on the corner.",
+          "tags": ["#Easywurld", "#Story", "#Copywriting", "#SmallBusinessNigeria"],
+          "asset": "Talking head, plain shirt, warm light, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Four versions of\none headline.",
+            "1 · Welcome to us\n2 · Quality service with a smile",
+            "3 · We care about you",
+            "4 · We fix phones in Yaba,\nsame day while you wait",
+            "The shortest and least impressive\none won. It sounded like the\nshop on the corner."
+          ],
+          "cap": "The Clear Homepage Blueprint has 20 copy templates, including twelve call-to-action options, so you are not writing from a blank page. ₦5,000, message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#Story", "#LagosSME", "#Copywriting"],
+          "asset": "Cream slides, deep green serif, terracotta on version 4."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Four versions of one headline:\n\n1. Welcome to us.\n2. Quality service with a smile.\n3. We care about you.\n4. We fix phones in Yaba, same day while you wait.\n\nThe fourth one won, and it is the shortest and least impressive of the four.\n\nThe person who wrote it said the other three sounded like a company, and the fourth sounded like the shop on the corner. The fourth is the one people read, because it says what, where and when, in a language somebody would actually use to describe it.\n\nNotice what is missing from version four: the word quality, the word service, the smile, and the caring. All of that was in the others, and none of it was in the one that worked.\n\nThe Clear Homepage Blueprint, ₦5,000, has twenty copy templates, including twelve call-to-action options, so you are not staring at a blank page. Message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D18-06",
+        "type": "Offer",
+        "topic": "The Chat-to-Customer Playbook, the enquiry flow",
+        "why": "Offer. It leads with the system rather than the file list, which is a stronger pitch.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "The Chat-to-Customer Playbook is not a document. It is a flow.",
+          "beats": [
+            "Five stages from enquiry to order",
+            "With a response time rule",
+            "And a price reply that works",
+            "₦5,000, message PLAYBOOK"
+          ],
+          "vo": "The Chat-to-Customer Playbook is not a document. It is a flow. Five stages from the first enquiry to the order, with a response time rule at each one, the price reply that works, and what to do at every stage where the conversation usually dies. Plus 36 scripts and a tracker that tells you who to contact today. Five thousand naira, message PLAYBOOK on WhatsApp.",
+          "cap": "The Playbook is not a document. It is a flow.\n\nFive stages from enquiry to order. A response time rule at each one. The price reply that works. What to do where the conversation usually dies.\n\nPlus 36 scripts and a tracker. ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#WhatsAppBusiness", "#SmallBusinessNigeria"],
+          "asset": "Cream background, a five-step flow diagram, terracotta accent, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "The Chat-to-Customer\nPlaybook is not a document.",
+            "It is a flow.",
+            "Five stages from enquiry\nto order, with a response\ntime rule at each one.",
+            "The price reply that works.\nAnd what to do where\nconversations usually die.",
+            "Plus 36 scripts and a tracker.\n₦5,000, message PLAYBOOK\non WhatsApp: 0905 069 0837"
+          ],
+          "cap": "Also inside: a WhatsApp Business setup, a worked example end to end, and a 7-day checklist so the whole system is running by next week.\n\nMessage PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#LagosSME", "#WhatsAppBusiness"],
+          "asset": "Cream slides, deep green serif, terracotta price, mark bottom right."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "The Chat-to-Customer Playbook. ₦5,000. Digital download.\n\nIt is not a document. It is a flow.\n\nFive stages from the first enquiry to the order. At each stage: what should happen, how fast, and what to say. The price reply that works. And what to do at the three points where the conversation usually dies, which are not the ones you would guess.\n\nAlso inside:\n\n1. The Playbook itself, the flow, written out.\n2. 36 scripts: greetings, prices, quotes, delivery, payment, follow-ups, objections, complaints, reviews, re-engagement. Each with a note on when to use it.\n3. The lead and follow-up tracker, with automatic follow-up flags and a weekly dashboard.\n4. WhatsApp Business setup: profile, labels, quick replies, greeting and away message.\n5. A worked example, start to finish.\n6. A 7-day setup checklist, so it is running by next week.\n\nMessage PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 17:15",
+          "body": "The Chat-to-Customer Playbook, ₦5,000, and the thing that makes it work is that it is a flow rather than a document.\n\nFive stages from the first enquiry to the order. At each stage: what should happen, how fast, and what to say. The price reply that works. And what to do at the three points where the conversation usually dies.\n\nThose three points are not where people expect. They are not the price, and they are not the close. They are after the first message, after the quote, and after the silence. That is where most of the money is lost, and it is why most people think the problem is price when the problem is the gap between two messages.\n\nAlongside it: 36 scripts with notes on when each is wrong to use, a tracker with follow-up flags, WhatsApp Business setup, a worked example, and a 7-day checklist.\n\nIt does not create enquiries. It handles the ones you already have.\n\nWhatsApp: 0905 069 0837. Message PLAYBOOK."
+        }
+      },
+      {
+        "id": "D18-07",
+        "type": "Hot take",
+        "topic": "Your offer should be smaller than you think",
+        "why": "Hot take. It pushes back on the instinct to list everything, and it is a real principle.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "Your offer should be smaller than you think. I will explain.",
+          "beats": [
+            "Eleven features is not\na clear offer",
+            "It is a list",
+            "And a list does not\nget remembered",
+            "Pick the one thing\nyou are best at",
+            "Then be excellent at it"
+          ],
+          "vo": "Your offer should be smaller than you think. Eleven features is not a clear offer, it is a list, and a list does not get remembered. Pick the one thing you are best at, say it plainly, and be excellent at it. The business with one clear speciality gets recommended by name. The business with eleven services gets described vaguely, which is the worst possible outcome, because nobody is going to say \"the one that does everything\".",
+          "cap": "Your offer should be smaller than you think.\n\nEleven features is not a clear offer. It is a list, and a list does not get remembered.\n\nPick the one thing you are best at, say it plainly, be excellent at it.",
+          "tags": ["#HotTake", "#Easywurld", "#BusinessTips", "#SmallBusinessNigeria"],
+          "asset": "Talking head, plain shirt, warm light, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Your offer should be\nsmaller than you think.",
+            "Eleven features is not\na clear offer.",
+            "It is a list.",
+            "And a list does not\nget remembered.",
+            "Pick the one thing you are\nbest at. Say it plainly.\nBe excellent at it."
+          ],
+          "cap": "The business with one clear speciality gets recommended by name. The business with eleven services gets described vaguely.\n\n₦5,000, message PAGE on WhatsApp: 0905 069 0837.",
+          "tags": ["#HotTake", "#Easywurld", "#LagosSME", "#BusinessTips"],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Your offer should be smaller than you think.\n\nEleven features is not a clear offer. It is a list, and a list does not get remembered. Nobody is going to recommend \"the place that does everything\". They are going to recommend \"the place that does the one thing really well\".\n\nPick the one thing you are best at. Say it plainly. Be excellent at it. Everything else you do is fine, you just do not lead with it.\n\nThe other half of this is the page. One offer, one page, one action. The One-Offer Landing Page Kit, ₦5,000, is built exactly for that, and it is much harder to build a clear page for eleven things than it is for one.\n\nMessage PAGE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D18-08",
+        "type": "Relatable",
+        "topic": "The offer with eleven features",
+        "why": "Relatable. It shows the specific failure in a way people recognise from their own page.",
+        "tiktok": {
+          "fmt": "Static meme, 12s, with voiceover",
+          "hook": "My services page",
+          "beats": [
+            "Web design, branding, SEO,",
+            "social media, content writing,",
+            "ads, email, photography,",
+            "and management",
+            "Also a pop-up"
+          ],
+          "vo": "My services page. Web design, branding, SEO, social media, content writing, ads, email, photography, management. Also a pop-up. And yet when somebody asks what we do, we say we do everything, and they say ah, and then they are gone. Because a customer cannot recommend a list, and they cannot remember a list either.",
+          "cap": "My services page:\n\nWeb design, branding, SEO, social media,\ncontent writing, ads, email, photography,\nand management. Also a pop-up.\n\nAnd when somebody asks what we do, we say we do everything. And they say ah. And then they are gone.",
+          "tags": ["#Meme", "#Easywurld", "#SmallBusinessNigeria", "#Relatable"],
+          "asset": "Four-panel meme, cream background, deep green type, terracotta on the last line."
+        },
+        "instagram": {
+          "fmt": "Static meme post, 4:5",
+          "slides": [
+            "My services page:",
+            "Web design, branding, SEO,\nsocial media, content writing,",
+            "ads, email, photography,\nand management. Also a pop-up.",
+            "When somebody asks what we do,\nwe say we do everything.",
+            "They say ah. And then\nthey are gone.",
+            "A customer cannot recommend\na list, and they cannot\nremember a list either."
+          ],
+          "cap": "The Clear Homepage Blueprint has a section order that fixes this. ₦5,000, message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": ["#Meme", "#Easywurld", "#LagosSME", "#Relatable"],
+          "asset": "Two-panel meme, cream and deep green."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "My services page:\n\nWeb design, branding, SEO, social media, content writing, ads, email, photography, and management. Also a pop-up.\n\nAnd when somebody asks what we do, we say we do everything. And they say ah. And then they are gone.\n\nBecause a customer cannot recommend a list, and they cannot remember a list either. \"They do everything\" is the phrase you get, and it is worth nothing, because it does not make anybody pick you.\n\nOne offer. One page. One action. Then everything else, later, when they trust you.\n\nThe Clear Homepage Blueprint, ₦5,000, has the section order and twenty copy templates for exactly this. Message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D18-09",
+        "type": "Teach",
+        "topic": "How to price a bundle without confusing people",
+        "why": "Teach. Bundles are where small businesses get tangled, and the rule is simple and useful.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "Three options on a page is a choice. Five is a maths problem. Here is the fix.",
+          "beats": [
+            "Pick one to be the obvious one",
+            "Make it the cheapest to start,\nnot the cheapest",
+            "Mark the other two honestly",
+            "And say who each is for"
+          ],
+          "vo": "Three options on a page is a choice. Five is a maths problem, and the customer is doing the maths instead of you. The fix is this. Pick one to be the obvious one. Make it the cheapest to start, not the cheapest overall, because that is the one you want them in. Mark the other two honestly, with who each is for. And never let the middle option be a padded version of the cheap one, because that is the one that makes people think you are being clever.",
+          "cap": "Three options is a choice. Five is a maths problem, and now the customer is doing the maths instead of you.\n\nPick one to be the obvious one. Make it the cheapest to start, not the cheapest overall. Mark the other two honestly. Never let the middle option be a padded version of the cheap one.",
+          "tags": ["#Pricing", "#SmallBusinessNigeria", "#Easywurld", "#BusinessTips"],
+          "asset": "Cream background, three option boxes, one marked in terracotta, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Three options is a choice.\nFive is a maths problem.",
+            "Now the customer is doing\nthe maths instead of you.",
+            "Pick one to be the obvious one.",
+            "Make it the cheapest to start,\nnot the cheapest overall.",
+            "Mark the other two honestly,\nand say who each is for."
+          ],
+          "cap": "Never let the middle option be a padded version of the cheap one. That is the one that makes people think you are being clever.\n\n₦5,000, message PAGE on WhatsApp: 0905 069 0837.",
+          "tags": ["#PricingTips", "#Easywurld", "#LagosSME", "#BusinessTips"],
+          "asset": "Cream slides, deep green serif, terracotta marks."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Three options on a page is a choice. Five is a maths problem, and now the customer is doing the maths instead of you.\n\nThe fix:\n\n1. Pick one to be the obvious one.\n2. Make it the cheapest to start, not the cheapest overall, because that is the one you want them in.\n3. Mark the other two honestly, with who each one is for.\n4. Never let the middle option be a padded version of the cheap one, because that is the option that makes people think you are being clever with the pricing.\n\nMost small businesses have the opposite problem, which is one option and no explanation. That is worse, because now the customer does not know what they are buying.\n\nThe One-Offer Landing Page Kit, ₦5,000, has the offer block, the copy for it and the objection block. Message PAGE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D18-10",
+        "type": "Offer",
+        "topic": "The Playbook, the 7-day setup",
+        "why": "Offer. The setup angle is a strong objection-handler: what does this involve on my side?",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 25s",
+          "hook": "How long does the Playbook take to set up? Seven days, twenty minutes a day.",
+          "beats": [
+            "Day 1-2: WhatsApp Business setup",
+            "Day 3-4: copy the scripts\ninto quick replies",
+            "Day 5: start the tracker",
+            "Day 6-7: run the first week"
+          ],
+          "vo": "How long does the Playbook take to set up? Seven days, about twenty minutes a day. Days one and two, WhatsApp Business setup: profile, labels, greeting, away message. Days three and four, copy the scripts you actually use into quick replies. Day five, start the tracker. Days six and seven, run the first week and do the fifteen-minute review. That is it. No consultant, no call, no waiting.",
+          "cap": "How long does the Playbook take to set up?\n\nSeven days, about twenty minutes a day.\n\nDay 1-2: WhatsApp Business setup\nDay 3-4: scripts into quick replies\nDay 5: start the tracker\nDay 6-7: run the first week\n\nNo consultant. No call. No waiting.",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#WhatsAppBusiness", "#SmallBusinessNigeria"],
+          "asset": "Cream background, a seven-day checklist drawn in deep green, terracotta ticks, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "How long does the\nPlaybook take to set up?",
+            "Seven days.\nAbout twenty minutes a day.",
+            "Day 1-2: WhatsApp Business\nsetup, labels, greeting,\naway message",
+            "Day 3-4: copy the scripts you\nactually use into quick replies",
+            "Day 5: start the tracker\nDay 6-7: run the first week\n\n₦5,000, message PLAYBOOK\non WhatsApp: 0905 069 0837"
+          ],
+          "cap": "No consultant, no call, no waiting. You use it on the same phone you already reply from.\n\nMessage PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#LagosSME", "#WhatsAppBusiness"],
+          "asset": "Cream slides, deep green serif, terracotta price, mark bottom right."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "How long does the Chat-to-Customer Playbook take to set up?\n\nSeven days. About twenty minutes a day.\n\nDay 1 and 2: WhatsApp Business setup. Profile, labels, greeting, away message.\n\nDay 3 and 4: copy the scripts you will actually use into quick replies. Not all thirty-six. The six you will use every week.\n\nDay 5: start the tracker and log the enquiries you already have.\n\nDay 6 and 7: run the week and do the fifteen-minute review on Friday.\n\nNo consultant. No call. No waiting for anybody. You use it on the same phone you already reply from, and the tracker opens in Google Sheets on that same phone.\n\n₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 20:15 (optional)",
+          "body": "A question we get more than any other: how long does this actually take?\n\nFor the Chat-to-Customer Playbook, ₦5,000, the answer is seven days of about twenty minutes.\n\nDays one and two, WhatsApp Business setup: profile, labels, greeting, away message. Days three and four, copy the scripts you will actually use into quick replies, which is six of them, not thirty-six. Day five, start the tracker and log the enquiries you already have. Days six and seven, run the week and do the fifteen-minute review on Friday.\n\nNo consultant. No call. No waiting for anybody, and no dependency on our calendar, which is the point. You use it on the same phone you already reply from.\n\nThat constraint, by the way, is deliberate. Anything that needs a scheduled call with us is a service, and services are not what a pack is. A pack has to work at eleven at night, on a bad day, without a call.\n\nWhatsApp: 0905 069 0837. Message PLAYBOOK."
+        }
+      },
+      {
+        "id": "D18-11",
+        "type": "Direct response",
+        "topic": "Write your one sentence today",
+        "why": "Direct response. A tiny writing task that produces a shareable result and drives comments.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 20s",
+          "hook": "One sentence. Two minutes. Write it now.",
+          "beats": [
+            "I help [who]",
+            "to [do what]",
+            "In [place] if you do",
+            "Then read it out loud",
+            "If you would not say it,\ndo not publish it"
+          ],
+          "vo": "One sentence. Two minutes. Write it now. I help, who, to do what. Add the place if you do. Then read it out loud, because a sentence you would not say at a party is a sentence you should not publish. That is the whole exercise, and it is the fastest improvement available to your business page.",
+          "cap": "One sentence. Two minutes. Write it now.\n\nI help [who] to [do what]. Add the place if you do.\n\nThen read it out loud. If you would not say it at a party, do not publish it.",
+          "tags": ["#Easywurld", "#Copywriting", "#SmallBusinessNigeria", "#BusinessTips"],
+          "asset": "Cream background, a fill-in-the-blank sentence, terracotta underline, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "One sentence.\nTwo minutes.\nWrite it now.",
+            "I help [who]\nto [do what].",
+            "Add the place\nif you do.",
+            "Then read it out loud.",
+            "If you would not say it at a\nparty, do not publish it."
+          ],
+          "cap": "Thirty templates for the sentences around it, in the Clear Message Workbook, ₦5,000. Message MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#LagosSME", "#Copywriting", "#BusinessTips"],
+          "asset": "Cream slides, deep green serif, terracotta rule."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "One sentence. Two minutes. Write it now.\n\nI help [who] to [do what]. Add the place if you do.\n\nThen read it out loud. If you would not say it at a party, do not publish it.\n\nThat is the whole exercise, and it is the fastest improvement available to your business page. A lot of pages need a redesign, and a lot of pages just need the truth in the first line.\n\nIf you want the sentences around it, thirty of them for the difficult moments, the Clear Message Workbook is ₦5,000. Message MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      }
+    ]
+  },
+  {
+    "day": 19,
+    "label": "Day 19",
+    "theme": "How you get recommended",
+    "offer": "The Clear Homepage Blueprint · CLEAR",
+    "posts": [
+      {
+        "id": "D19-01",
+        "type": "Teach",
+        "topic": "Why people recommend some businesses and not others",
+        "why": "Teach. It turns word of mouth from luck into something you can influence.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "People do not recommend the best business. They recommend the least surprising one.",
+          "beats": [
+            "The one they can describe",
+            "The one they can trust\nwithout checking",
+            "The one that solved\ntheir exact problem",
+            "That is the recommendation"
+          ],
+          "vo": "People do not recommend the best business. They recommend the least surprising one. The one they can describe in a sentence without thinking. The one they can trust without checking, because it did what it said. And the one that solved their exact problem, in their exact words, so they can tell the story. If your customer has to think about how to describe you, they will describe you vaguely, and vague recommendations do not bring anybody through the door.",
+          "cap": "People do not recommend the best business.\n\nThey recommend the least surprising one.\n\nThe one they can describe in a sentence. The one they can trust without checking. The one that solved their exact problem, in their words.\n\nIf they have to think about how to describe you, they will describe you vaguely.",
+          "tags": ["#SmallBusinessNigeria", "#Easywurld", "#BusinessTips", "#CustomerServiceTips"],
+          "asset": "Cream background, three lines, terracotta tick, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "People do not\nrecommend the best business.",
+            "They recommend the\nleast surprising one.",
+            "The one they can describe\nin a sentence.",
+            "The one they can trust\nwithout checking.",
+            "The one that solved their\nexact problem, in their words."
+          ],
+          "cap": "Vague recommendations do not bring anybody through the door.\n\nThe Clear Homepage Blueprint gives you the sentence they can repeat. ₦5,000, message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": ["#SmallBusinessTips", "#Easywurld", "#LagosSME", "#BusinessTips"],
+          "asset": "Cream slides, deep green serif, terracotta marks."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "People do not recommend the best business. They recommend the least surprising one.\n\n1. The one they can describe in a sentence without thinking.\n2. The one they can trust without checking, because it did what it said.\n3. The one that solved their exact problem, in their exact words, so they can tell the story.\n\nIf your customer has to think about how to describe you, they will describe you vaguely. And vague recommendations do not bring anybody through the door, because \"there is this place, it is nice\" is not a reason to cross a street.\n\n\"The place that fixed my phone while I waited\" is a reason.\n\nThe Clear Homepage Blueprint, ₦5,000, is how you get the sentence that makes somebody say the second one. Message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 08:15",
+          "body": "People do not recommend the best business. They recommend the least surprising one.\n\nThe one they can describe in a sentence without thinking. The one they can trust without checking, because it did what it said. The one that solved their exact problem, in their exact words, so they can tell the story.\n\nIf your customer has to think about how to describe you, they will describe you vaguely. And vague recommendations do not bring anybody through the door, because \"there is this place, it is nice\" is not a reason to cross a street. \"The place that fixed my phone while I waited\" is a reason.\n\nThis is a slightly uncomfortable idea for a business owner, because it says the thing that makes you recommendable is clarity and consistency rather than excellence. But excellence without a describable outcome is invisible. People can only recommend what they can put into a sentence.\n\nSo the work is not to be better than the shop down the road. It is to be the shop down the road, with one thing that is easy to describe and always true.\n\nThe Clear Homepage Blueprint, ₦5,000, is how you get that sentence onto a page. WhatsApp: 0905 069 0837. Message CLEAR."
+        }
+      },
+      {
+        "id": "D19-02",
+        "type": "Meme",
+        "topic": "Tell somebody about my business",
+        "why": "Meme. It is the universal recommendation struggle, and it is funny and true.",
+        "tiktok": {
+          "fmt": "Static meme, 12s, with voiceover",
+          "hook": "Someone asked for a recommendation",
+          "beats": [
+            "Me, thinking: my business\nis the obvious answer",
+            "Me, out loud:",
+            "\"there is this place...\"",
+            "Them: what does it do",
+            "Me: ...it is nice"
+          ],
+          "vo": "Someone asked for a recommendation. Me, thinking: my business is the obvious answer. Me, out loud: there is this place. Them: what does it do. Me: it is nice. If you cannot describe your business in a sentence, you are not competing for the recommendation. You are hoping somebody remembers you. That is a much weaker position.",
+          "cap": "Someone asked for a recommendation.\n\nMe, thinking: my business is the obvious answer.\nMe, out loud: \"there is this place...\"\nThem: what does it do.\nMe: ...it is nice.\n\nIf you cannot describe it in a sentence, you are not competing for the recommendation. You are hoping somebody remembers you.",
+          "tags": ["#Meme", "#Easywurld", "#SmallBusinessNigeria", "#Relatable"],
+          "asset": "Four-panel meme, cream background, deep green type, terracotta on the last panel."
+        },
+        "instagram": {
+          "fmt": "Static meme post, 4:5",
+          "slides": [
+            "Someone asked for\na recommendation",
+            "Me, thinking: my business\nis the obvious answer",
+            "Me, out loud:\n\"there is this place...\"",
+            "Them: what does it do",
+            "Me: ...it is nice",
+            "You are not competing for\nthe recommendation.\nYou are hoping somebody\nremembers you."
+          ],
+          "cap": "The one sentence that fixes this is in the Clear Message Workbook, ₦5,000. Message MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": ["#Meme", "#Easywurld", "#LagosSME", "#Relatable"],
+          "asset": "Two-panel meme, cream and deep green."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Someone asked for a recommendation.\n\nMe, thinking: my business is the obvious answer.\nMe, out loud: there is this place.\nThem: what does it do.\nMe: it is nice.\n\nIf you cannot describe your business in a sentence, you are not competing for the recommendation. You are hoping somebody remembers you. And hoping is a much weaker position, because the person asking does not even know to think of you.\n\nThe fix is not marketing. It is one sentence, written down, that somebody else can repeat without you in the room.\n\nThe Clear Message Workbook, ₦5,000, starts with that sentence. Message MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D19-03",
+        "type": "Trust",
+        "topic": "The rule about never asking for a review",
+        "why": "Trust. It is an unpopular position that actually protects the audience from spam, and it is genuinely correct.",
+        "tiktok": {
+          "fmt": "Talking head, 25s",
+          "hook": "We will never ask you to leave a review. Here is why.",
+          "beats": [
+            "A review you asked for\nis worth less",
+            "Not to them. To you",
+            "Because you selected for\nthe happy ones",
+            "The good ones come anyway"
+          ],
+          "vo": "We will never ask you to leave a review, and I want to explain why, because it goes against the money. A review you asked for is worth less. Not to them. To you. Because asking selects for the happy ones, and the unhappy ones are the ones you need to hear from. The good ones come anyway, when somebody is genuinely pleased, and those are the ones that sound like a person. Ask for the referral instead. That is the one you actually want.",
+          "cap": "We will never ask you to leave a review.\n\nA review you asked for is worth less. Not to them. To you, because asking selects for the happy ones, and the unhappy ones are the ones you need to hear from.\n\nThe good ones come anyway. Ask for the referral instead.",
+          "tags": ["#Easywurld", "#HonestBusiness", "#SmallBusinessNigeria", "#LocalSEO"],
+          "asset": "Talking head, plain shirt, warm light, brand mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "We will never ask you\nto leave a review.",
+            "A review you asked for\nis worth less.",
+            "Not to them. To you.",
+            "Because asking selects for\nthe happy ones, and the unhappy\nones are the ones you need to hear.",
+            "The good ones come anyway,\nwhen somebody is genuinely pleased.\n\nAsk for the referral instead."
+          ],
+          "cap": "The referral is the one you actually want, because it carries the sentence with it.\n\nThe Lagos Local Visibility Starter has how to ask for a referral without begging, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#HonestBusiness", "#LagosSME", "#LocalSEO"],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "We will never ask you to leave a review. Here is why, and it goes against the money.\n\nA review you asked for is worth less. Not to them. To you. Because asking selects for the happy ones, and the unhappy ones are the ones you need to hear from.\n\nAsk somebody who is genuinely pleased and they will write something in their own words, in their own tone, which is the only kind of review that sounds like a person. Ask a satisfied customer to write a review and you get \"great service, thanks\", from somebody who did not care that much, and now you have to guess whether they meant it.\n\nThe good ones come anyway. Ask for the referral instead, because a referral carries the sentence with it, and that is what actually brings people through the door.\n\nThe Lagos Local Visibility Starter, ₦5,000, has how to ask for a referral without begging, and what to say when somebody asks you for a recommendation. Message LOCAL on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 12:15",
+          "body": "We will never ask you to leave a review, and I want to explain why, because it goes against the money.\n\nA review you asked for is worth less. Not to them. To you.\n\nAsking selects for the happy ones, and the unhappy ones are precisely the ones you need to hear from. Ask somebody who is genuinely pleased and they will write in their own words and their own tone, which is the only kind of review that sounds like a person and persuades a stranger. Ask a merely satisfied customer and you get \"great service, thanks\", from somebody who did not care that much, and you have no idea whether to believe it.\n\nThe good ones come anyway. And the thing you actually want is a referral, because a referral carries the sentence with it, and that sentence is what brings somebody through the door.\n\nThe Lagos Local Visibility Starter, ₦5,000, covers the referral wording, the listing details, and what to say when somebody asks you for a recommendation. WhatsApp: 0905 069 0837. Message LOCAL."
+        }
+      },
+      {
+        "id": "D19-04",
+        "type": "Teach",
+        "topic": "The three moments that create a recommendation",
+        "why": "Teach. It turns recommendations from luck into something you can design for.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "Three moments create almost every recommendation you will ever get.",
+          "beats": [
+            "1 · The moment it works\nstraight away",
+            "2 · The moment somebody\nsaves you from a mistake",
+            "3 · The moment you are\nremembered for a small thing"
+          ],
+          "vo": "Three moments create almost every recommendation you will ever get. One, the moment it works straight away, when the customer expected to wait and did not. Two, the moment somebody saves you from a mistake, which costs you nothing and is worth more than any discount. Three, the moment you are remembered for a small thing, the extra bag, the extra minute, the water in the heat. None of them are marketing. They are all decisions somebody makes in thirty seconds.",
+          "cap": "Three moments create almost every recommendation you will ever get:\n\n1 · It works straight away\n2 · Somebody saves you from a mistake\n3 · You are remembered for a small thing\n\nNone of them are marketing. They are decisions somebody makes in thirty seconds.",
+          "tags": ["#CustomerServiceTips", "#Easywurld", "#SmallBusinessNigeria", "#BusinessTips"],
+          "asset": "Cream background, three numbered lines, terracotta tick, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Three moments create almost\nevery recommendation you\nwill ever get.",
+            "1 · It works straight away",
+            "2 · Somebody saves you\nfrom a mistake",
+            "3 · You are remembered\nfor a small thing",
+            "None of them are marketing.\nThey are decisions somebody\nmakes in thirty seconds."
+          ],
+          "cap": "The extra bag, the extra minute, the water in the heat. That is the third one, and it is the cheapest of the three to do.\n\nThe Chat-to-Customer Playbook has the scripts for moments one and two, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": ["#CustomerService", "#Easywurld", "#LagosSME", "#BusinessTips"],
+          "asset": "Cream slides, deep green serif, terracotta numbers."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Three moments create almost every recommendation you will ever get.\n\n1. It works straight away. The customer expected to wait and did not.\n2. Somebody saves you from a mistake. Which costs you nothing and is worth more than any discount.\n3. You are remembered for a small thing. The extra bag, the extra minute, the water in the heat.\n\nNone of them are marketing. They are all decisions somebody makes in thirty seconds, when nobody is watching and nobody is measuring.\n\nThe third one is the cheapest and the most forgotten. It costs almost nothing and it is the reason people describe a place warmly to their friends.\n\nThe scripts for the first two are in the Chat-to-Customer Playbook, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D19-05",
+        "type": "Story",
+        "topic": "The delivery that produced a referral",
+        "why": "Story. A concrete, honest illustration of the third moment, without inventing a result.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "We changed one thing about deliveries. Here is what happened.",
+          "beats": [
+            "We started sending the\narrival time as a message",
+            "Before they asked",
+            "Not a review request",
+            "Not a discount",
+            "Just the time"
+          ],
+          "vo": "We changed one thing about deliveries. We started sending the arrival time as a message before they asked for it. Not a review request, not a discount, just the time. It took ten seconds per delivery and it removed the most common message we used to get, which was the one asking where the order was. The second thing that happened is quieter. People stopped asking us to confirm the order, because the message had already done that.",
+          "cap": "We changed one thing about deliveries.\n\nWe started sending the arrival time before they asked. Not a review request, not a discount, just the time.\n\nIt removed the most common message we used to get: where is my order?",
+          "tags": ["#Easywurld", "#Story", "#CustomerServiceTips", "#SmallBusinessNigeria"],
+          "asset": "Talking head, plain shirt, warm light, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "We changed one thing\nabout deliveries.",
+            "We started sending the\narrival time as a message\nbefore they asked.",
+            "Not a review request.\nNot a discount.\nJust the time.",
+            "It removed the message we\nused to get most often: where\nis my order?",
+            "Ten seconds per delivery."
+          ],
+          "cap": "The second thing that happened is quieter. People stopped asking us to confirm the order, because the message had already done that.\n\n₦5,000, message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#Story", "#LagosSME", "#CustomerServiceTips"],
+          "asset": "Cream slides, deep green serif, terracotta rule."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "We changed one thing about deliveries.\n\nWe started sending the arrival time as a message before they asked for it. Not a review request, not a discount, just the time.\n\nIt took ten seconds per delivery, and it removed the message we used to get most often, which was the one asking where the order was.\n\nThe second thing that happened is quieter. People stopped asking us to confirm the order, because the message had already done that. We had been doing the confirming ourselves, every single time, in a longer message, hours later.\n\nTen seconds, and a whole category of message disappeared.\n\nThe setup and the scripts for moments like this are in the Chat-to-Customer Playbook, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D19-06",
+        "type": "Offer",
+        "topic": "The Clear Homepage Blueprint, the audit scorecard",
+        "why": "Offer. The scorecard is a concrete, do-it-today tool that shows the pack has a working instrument in it.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 25s",
+          "hook": "Inside the Blueprint there is a 20-point scorecard. Here are five of the points.",
+          "beats": [
+            "Can I say what you do\nin one breath",
+            "Is the next step visible\nwithout scrolling",
+            "Is the price or the\nstarting point there",
+            "Is there an objection\nanswered"
+          ],
+          "vo": "Inside the Clear Homepage Blueprint there is a 20-point scorecard, and it takes about twenty minutes to run on any homepage. Here are five of the points. Can I say what you do in one breath. Is the next step visible without scrolling. Is the price or the starting point there. Is the main objection answered. And can I tell whether this is a real business or a concept project. Five thousand naira, and the scorecard is the part you will use even if you never buy anything else from us.",
+          "cap": "Inside the Clear Homepage Blueprint: a 20-point scorecard, about 20 minutes, works on any homepage.\n\nFive of the points:\n1 · Can I say what you do in one breath\n2 · Is the next step visible without scrolling\n3 · Is the price or the starting point there\n4 · Is the main objection answered\n\n₦5,000. Message CLEAR on WhatsApp: 0905 069 0837",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#WebDesign", "#SmallBusinessNigeria"],
+          "asset": "Cream background, a checklist mock with ticks, terracotta accent, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Inside the Clear Homepage\nBlueprint: a 20-point scorecard.",
+            "About 20 minutes.\nWorks on any homepage.",
+            "1 · Can I say what you do\nin one breath?",
+            "2 · Is the next step visible\nwithout scrolling?",
+            "3 · Is the price or the\nstarting point there?",
+            "4 · Is the main objection\nanswered?",
+            "₦5,000, message CLEAR\non WhatsApp: 0905 069 0837"
+          ],
+          "cap": "You can run it on your own site, or on a competitor's, and it tells you what to fix in the order to fix it.\n\nMessage CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#LagosSME", "#WebDesign"],
+          "asset": "Cream slides, deep green serif, terracotta numbers, mark bottom right."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "The Clear Homepage Blueprint, ₦5,000. Digital download.\n\nInside it there is a 20-point scorecard. It takes about twenty minutes to run on any homepage, yours or somebody else's, and it tells you what to fix and in what order.\n\nFive of the points:\n\n1. Can I say what you do in one breath?\n2. Is the next step visible without scrolling?\n3. Is the price or the starting point there?\n4. Is the main objection answered somewhere?\n5. Can I tell whether this is a real business or a concept project?\n\nAlso inside: the three visitor questions, the ten-second test, a section order that works with a note on what each section is for, twenty fill-in copy templates, and twelve call-to-action options.\n\nMessage CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 16:15",
+          "body": "The Clear Homepage Blueprint, ₦5,000, and the instrument inside it is a 20-point scorecard.\n\nAbout twenty minutes to run on any homepage, and it tells you what to fix and in what order. Five of the points:\n\nCan I say what you do in one breath?\nIs the next step visible without scrolling?\nIs the price or the starting point there?\nIs the main objection answered somewhere?\nCan I tell whether this is a real business or a concept project?\n\nThat last one matters more than it sounds. If a visitor cannot tell, they assume it is a design portfolio piece, and they read it differently. A lot of small business sites are accidentally written to look like portfolios.\n\nAlongside the scorecard: the three visitor questions, the ten-second test, a section order that works, twenty fill-in copy templates, and twelve call-to-action options.\n\nWhatsApp: 0905 069 0837. Message CLEAR."
+        }
+      },
+      {
+        "id": "D19-07",
+        "type": "Hot take",
+        "topic": "Reviews are rented. Referrals are owned.",
+        "why": "Hot take. A memorable line that reframes how a business should think about proof.",
+        "tiktok": {
+          "fmt": "Talking head, 25s",
+          "hook": "Reviews are rented. Referrals are owned. Here is the difference.",
+          "beats": [
+            "A review lives on a page",
+            "One click away from gone",
+            "A referral lives in a\nconversation",
+            "And it carries your sentence",
+            "With it"
+          ],
+          "vo": "Reviews are rented. Referrals are owned. A review lives on a page, one click from gone, and it belongs to the platform more than it belongs to you. A referral lives in a conversation, and it carries your sentence with it. If you are building on rented ground, you are building on somebody else's page. Build the thing people repeat, and put a way to make it easy for them to repeat it.",
+          "cap": "Reviews are rented. Referrals are owned.\n\nA review lives on a page, one click from gone.\nA referral lives in a conversation, and it carries your sentence with it.\n\nIf you are building on rented ground, you are building on somebody else's page.",
+          "tags": ["#HotTake", "#Easywurld", "#LocalSEO", "#SmallBusinessNigeria"],
+          "asset": "Talking head, plain shirt, warm light, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Reviews are rented.\nReferrals are owned.",
+            "A review lives on a page,\none click from gone.",
+            "A referral lives in a\nconversation,",
+            "and it carries your sentence\nwith it.",
+            "If you are building on rented\nground, you are building on\nsomebody else's page."
+          ],
+          "cap": "Build the thing people repeat, and make it easy for them to repeat it.\n\nThe Lagos Local Visibility Starter has the referral wording, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.",
+          "tags": ["#HotTake", "#Easywurld", "#LagosSME", "#LocalSEO"],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Reviews are rented. Referrals are owned.\n\nA review lives on a page, one click from gone, and it belongs to the platform more than it belongs to you. The page can be deleted, the account can close, the ranking can change.\n\nA referral lives in a conversation, in a voice you cannot see, and it carries your sentence with it. That is why a referral outperforms a review, and why chasing star ratings is chasing the weaker version of the same thing.\n\nIf you are building on rented ground, you are building on somebody else's page. Build the thing people repeat, and then make it easy for them to repeat it, because the intention is there and the words are not always.\n\nThe Lagos Local Visibility Starter, ₦5,000, has the referral wording, the listing details and what to say when somebody asks you for a recommendation. Message LOCAL on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D19-08",
+        "type": "Relatable",
+        "topic": "Loved by the customers, unknown to everybody else",
+        "why": "Relatable. It names a very common and very painful small business situation.",
+        "tiktok": {
+          "fmt": "Talking head, 25s",
+          "hook": "My customers love me and nobody outside my WhatsApp knows I exist.",
+          "beats": [
+            "Every sale is a repeat",
+            "Which is good!",
+            "And also means nobody\nnew is finding you",
+            "The next 20 customers\nare the whole game"
+          ],
+          "vo": "My customers love me and nobody outside my WhatsApp knows I exist. Every sale is a repeat, which is good, and also means nobody new is finding you. And that is the thing to be careful about, because a business with only repeat customers is not a business that grew, it is a business that did not shrink. The next twenty customers are the whole game, and right now they have no way to find you.",
+          "cap": "My customers love me and nobody outside my WhatsApp knows I exist.\n\nEvery sale is a repeat. Which is good, and also means nobody new is finding you.\n\nThe next 20 customers are the whole game, and right now they have no way to find you.",
+          "tags": ["#Easywurld", "#Relatable", "#SmallBusinessNigeria", "#LocalSEO"],
+          "asset": "Talking head, plain shirt, warm light, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "My customers love me and\nnobody outside my WhatsApp\nknows I exist.",
+            "Every sale is a repeat.",
+            "Which is good!",
+            "And also means nobody\nnew is finding you.",
+            "The next 20 customers\nare the whole game."
+          ],
+          "cap": "And right now they have no way to find you, because nobody outside your contacts has ever heard of you.\n\nThat is a visibility problem, and it has a name in the Lagos Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#Relatable", "#LagosSME", "#LocalSEO"],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "My customers love me and nobody outside my WhatsApp knows I exist.\n\nEvery sale is a repeat. Which is good. And also means nobody new is finding you.\n\nThat is the thing to be careful about. A business with only repeat customers is not a business that grew, it is a business that did not shrink. The repeat customers are the reward for the work you did before. They are not the plan.\n\nThe next twenty customers are the whole game, and right now they have no way to find you, because nobody outside your contacts has ever heard of you.\n\nThat is a visibility problem, and it has a specific answer for Lagos in the Lagos Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D19-09",
+        "type": "Teach",
+        "topic": "How to ask for a recommendation without begging",
+        "why": "Teach. A specific script, a real skill, and the ethical way to do it.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 25s",
+          "hook": "How to ask for a referral without sounding like you are begging.",
+          "beats": [
+            "Never say: recommend me",
+            "Say: who else do you know",
+            "Make it easy to refuse",
+            "And give them the sentence"
+          ],
+          "vo": "How to ask for a referral without sounding like you are begging. Never say recommend me to somebody. That asks them to promote you. Say instead: who else do you know who might have this problem. That asks them a question they can answer, and the answer can be no. Make it easy to refuse, or people will not answer at all. And give them the sentence, because a referral with no words in it is just a name.",
+          "cap": "How to ask for a referral without begging.\n\nNever say: recommend me to somebody.\nSay: who else do you know who might have this problem?\n\nMake it easy to refuse. And give them the sentence.",
+          "tags": ["#SalesTips", "#Easywurld", "#SmallBusinessNigeria", "#LocalSEO"],
+          "asset": "Cream background, two speech bubbles, terracotta tick, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "How to ask for a referral\nwithout begging.",
+            "Never say:\n\"recommend me to somebody\"",
+            "Say instead:\n\"who else do you know who\nmight have this problem?\"",
+            "Make it easy to refuse, or\npeople will not answer at all.",
+            "And give them the sentence.\nA referral with no words\nin it is just a name."
+          ],
+          "cap": "The full referral wording, and the answer to what to do when somebody asks you for a recommendation, are in the Lagos Local Visibility Starter. ₦5,000, message LOCAL on WhatsApp: 0905 069 0837.",
+          "tags": ["#SalesTips", "#Easywurld", "#LagosSME", "#LocalSEO"],
+          "asset": "Cream slides, deep green serif, terracotta marks."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "How to ask for a referral without sounding like you are begging.\n\nNever say: recommend me to somebody. That asks them to promote you, which is a favour.\n\nSay instead: who else do you know who might have this problem? That asks them a question, and the question has an answer, and the answer can be no.\n\nMake it easy to refuse, or people will not answer at all. If somebody hesitates, say no problem, and mean it.\n\nAnd give them the sentence, because a referral with no words in it is just a name. \"Tell them about the place on the corner that does the same day repairs\" is a referral. \"Tell them about my business\" is not.\n\nThe full wording, and what to say when somebody asks you for a recommendation, are in the Lagos Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D19-10",
+        "type": "Offer",
+        "topic": "The Clear Homepage Blueprint, who it is for",
+        "why": "Offer. A filtering offer post, which builds trust and reduces refunds.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 25s",
+          "hook": "Do not buy the Homepage Blueprint if you have no homepage yet.",
+          "beats": [
+            "It is for rewriting,\nnot for building",
+            "You need a site first",
+            "A builder, a page, anything",
+            "Then the Blueprint saves\nyou a rewrite"
+          ],
+          "vo": "Do not buy the Homepage Blueprint if you do not have a homepage yet. It is for rewriting, not for building. You need a site first, even a bad one, even a page on a builder. Then the Blueprint saves you from rewriting it twice, which is what everybody does, once in a panic and once after it goes live. If you have no site at all, that is the Website Launch & Care Handbook instead.",
+          "cap": "Do not buy the Homepage Blueprint if you do not have a homepage yet.\n\nIt is for rewriting, not for building. You need a site first, even a bad one, even one page on a builder.\n\nThen it saves you rewriting it twice.",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#WebDesign", "#SmallBusinessNigeria"],
+          "asset": "Cream background, a simple page mock, terracotta underline, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Do not buy the Homepage\nBlueprint if you do not have\na homepage yet.",
+            "It is for rewriting,\nnot for building.",
+            "You need a site first.\nEven a bad one. Even one page\non a builder.",
+            "Then it saves you rewriting\nit twice, which is what\neverybody does.",
+            "No site at all? That is the\nWebsite Launch & Care Handbook.\n₦5,000 either way."
+          ],
+          "cap": "The Blueprint has the structure, the ten-second test, twenty copy templates and the 20-point scorecard. ₦5,000, message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#LagosSME", "#WebDesign"],
+          "asset": "Cream slides, deep green serif, terracotta marks."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Do not buy the Clear Homepage Blueprint if you do not have a homepage yet.\n\nIt is for rewriting, not for building. You need a site first, even a bad one, even one page on a builder. Then the Blueprint saves you from rewriting it twice, which is what everybody does, once in a panic and once after it goes live and you can see what is wrong.\n\nIf you have no site at all, that is the Website Launch & Care Handbook, also ₦5,000, which covers the order of decisions, domain and hosting, and how to brief and compare quotes.\n\nThe Blueprint itself: the three visitor questions, the ten-second test, a section order that works, twenty fill-in copy templates, twelve call-to-action options and a 20-point scorecard.\n\nMessage CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 20:15 (optional)",
+          "body": "Do not buy the Clear Homepage Blueprint if you do not have a homepage yet.\n\nIt is for rewriting, not for building. You need a site first, even a bad one, even a single page on a builder. Then the Blueprint saves you from rewriting it twice, which is what everybody does, once in a panic and once after it goes live and you can finally see what is wrong.\n\nIf you have no site at all, that is the Website Launch & Care Handbook, also ₦5,000, which covers the order of decisions, domain and hosting in plain language, how to brief a designer, and how to compare two quotes.\n\nBeing precise about who a pack is not for is the cheapest thing we can do. A refund is a bad afternoon for us and a bad afternoon for the person who spent the money, and a clear description before buying avoids both.\n\nWhatsApp: 0905 069 0837. Message CLEAR."
+        }
+      },
+      {
+        "id": "D19-11",
+        "type": "Direct response",
+        "topic": "Ask one customer this week",
+        "why": "Direct response. A small, specific, ethical ask that the reader can act on and share.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 20s",
+          "hook": "One customer. This week. One question.",
+          "beats": [
+            "\"Who else do you know who\nmight have this problem?\"",
+            "Not: can you post a review",
+            "Not: please recommend me",
+            "Just the question",
+            "And let the no be a no"
+          ],
+          "vo": "One customer. This week. One question. Who else do you know who might have this problem? Not can you post a review. Not please recommend me. Just the question, and let a no be a no. One of those will get you a name, and a name is worth more than a star.",
+          "cap": "One customer. This week. One question:\n\n\"Who else do you know who might have this problem?\"\n\nNot: can you post a review. Not: please recommend me. Just the question, and let the no be a no.\n\nOne of those gets you a name, and a name is worth more than a star.",
+          "tags": ["#Easywurld", "#SalesTips", "#SmallBusinessNigeria", "#LocalSEO"],
+          "asset": "Cream background, the question in deep green serif, terracotta underline, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "One customer.\nThis week.\nOne question.",
+            "\"Who else do you know who\nmight have this problem?\"",
+            "Not: can you post a review.\nNot: please recommend me.",
+            "Just the question,\nand let the no be a no.",
+            "One of those gets you a name,\nand a name is worth more\nthan a star."
+          ],
+          "cap": "The referral wording and the local visibility plan are in the Lagos Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#LagosSME", "#SalesTips", "#LocalSEO"],
+          "asset": "Cream slides, deep green serif, terracotta rule."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "One customer. This week. One question.\n\n\"Who else do you know who might have this problem?\"\n\nNot: can you post a review. Not: please recommend me. Just the question, and let the no be a no.\n\nOne of those will get you a name, and a name is worth more than a star, because a name arrives with the reason attached.\n\nIf you want the wording that does not make you sound desperate, and the answer to what to do when somebody asks you for a recommendation, the Lagos Local Visibility Starter is ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      }
+    ]
+  }
+]
