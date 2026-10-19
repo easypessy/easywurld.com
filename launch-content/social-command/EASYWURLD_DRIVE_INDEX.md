@@ -8,7 +8,7 @@ WhatsApp: 0905 069 0837 · Site: website-builder-portfolio.vercel.app
 ## 1. Open this first — the Post Commander
 
 **Easywurld — Post Commander (open this on your phone)**
-https://drive.google.com/file/d/1iu7BihjHAJfGDQ2rJYxomJx3eOSCnDI4/view
+https://drive.google.com/file/d/13rLTdfd4y8jWYftFTOj7MOmMQsZ6KbTK/view
 
 This is the tool. One file. It has all 30 days of posts, dated, with a copy button on every
 block and tick marks that save on your phone. It works with no internet.
@@ -25,7 +25,7 @@ you are posting in.
 
 | What | Where | What it is for |
 |---|---|---|
-| **30 Day Social Plan** | https://docs.google.com/document/d/1QJ57gX9BTfAdR3a9nHv4ysnenHolUmIHS7XbnxzcHb0/edit | Every post written out long, for all four platforms. Read it, print it, or copy from it. |
+| **30 Day Social Plan** | https://docs.google.com/document/d/1AhRhGGl3Ir-nEwyhOlTfNq7CO3SnKtj8_cKn2DViSjY/edit | Every post written out long, for all four platforms. Read it, print it, or copy from it. |
 | **Content Calendar (Sheet)** | https://docs.google.com/spreadsheets/d/14fuVWINNu4K1NmAaRH3bRD336lPjJKmbndNTpme1dZc/edit | One row per post, dated, sortable. This is what you schedule the month from. |
 | **Offers Master (PDF)** | https://drive.google.com/file/d/1YtkN5S9Xf_E7ELpgAKPwxkl1ylqdxoCY/view | The 9 packs, what Easywurld does, and how to start. Send this to customers. |
 

@@ -460,7 +460,8 @@ function setFilter(f) { filter = f; renderToday(); }
 /* ---------------- render: month ---------------- */
 function renderMonth() {
   var tot = 0, td = 0, h = "";
-  h += '<h2 class="sechead">The month <small>' + DATA.days.length + " days · " + DATA.days.length * 37 + " posts</small></h2>";
+  var daySlots = slotsForDay(DATA.days[0]).length;
+  h += '<h2 class="sechead">The month <small>' + DATA.days.length + " days · " + DATA.days.length * daySlots + " posts</small></h2>";
   h += '<div class="monthgrid">';
   DATA.days.forEach(function (dd, i) {
     var s = slotsForDay(dd), c = s.filter(function (x) { return done[x.key]; }).length;
