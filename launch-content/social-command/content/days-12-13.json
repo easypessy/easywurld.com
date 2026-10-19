@@ -1,0 +1,919 @@
+[
+  {
+    "day": 12,
+    "label": "Day 12",
+    "theme": "The week in six memes",
+    "offer": "The Proposal & Report Template Pack · TEMPLATES",
+    "posts": [
+      {
+        "id": "D12-01",
+        "type": "Meme",
+        "topic": "The quick question that is not quick",
+        "why": "Meme. A shared, instantly recognisable moment that earns likes and shares from other business owners.",
+        "tiktok": {
+          "fmt": "Static meme, 12s, with voiceover",
+          "hook": "Customer: quick question",
+          "beats": [
+            "Me: sure",
+            "Me: 4 hours later",
+            "Me: still typing",
+            "Me: it is not quick"
+          ],
+          "vo": "Customer: quick question. Me: sure. Four hours later, still typing. It was never going to be quick. And here is the thing that costs you money. A quick question from a person who is ready to buy is an opportunity. A quick question from a person who is browsing is research. You cannot tell them apart in the first line, so the only way to tell them apart is to ask one question early and see how fast they answer.",
+          "cap": "\"Quick question\" is never quick.\n\nThe only way to tell a buyer from a browser is to ask one question early and see how fast they answer.\n\n36 reply scripts for exactly this, in the Chat-to-Customer Playbook.",
+          "tags": ["#Meme", "#CustomerServiceTips", "#Easywurld", "#SmallBusinessNigeria"],
+          "asset": "Four-panel meme, cream background, deep green type, terracotta clock in the last panel."
+        },
+        "instagram": {
+          "fmt": "Static meme post, 4:5",
+          "slides": [
+            "Customer: quick question",
+            "Me: sure",
+            "Me: 4 hours later, still typing",
+            "Me: it is not quick",
+            "Ask one question early.\nA buyer answers fast.\nA browser goes quiet."
+          ],
+          "cap": "A quick question from someone ready to buy is an opportunity. A quick question from someone browsing is research. Same words, completely different value, and you find out by asking one question early.\n\nThe Chat-to-Customer Playbook has 36 scripts for this, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": ["#Meme", "#Easywurld", "#LagosSME", "#CustomerServiceTips"],
+          "asset": "Two-panel meme, cream and deep green, no stock imagery."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Customer: quick question.\n\nMe: sure.\n\nMe, four hours later, still typing.\n\nIt was never going to be quick. And the real cost of that message is not the time. It is that the person who was ready to buy while you were writing a long answer is now buying somewhere else.\n\nThere is a way to tell. A buyer answers a question fast. A browser goes quiet. One question, asked early, separates them in about a minute.\n\nThirty-six scripts for moments exactly like this are in the Chat-to-Customer Playbook, ₦5,000, with a tracker so the slow ones still get answered. Message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D12-02",
+        "type": "Teach",
+        "topic": "The fifteen-minute Friday review that decides next week",
+        "why": "Teach. A short weekly ritual is the easiest habit to sell and the one that compounds fastest.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 25s",
+          "hook": "Fifteen minutes on Friday. That is the whole difference between next week and the week after.",
+          "beats": [
+            "1 · How many chats came in",
+            "2 · How many got a reply",
+            "3 · What was the same question",
+            "4 · What to change on Monday"
+          ],
+          "vo": "Fifteen minutes on Friday. That is the whole difference between next week and the week after. Four questions. How many chats came in. How many got a reply. What was the same question three times. And what one thing you will change on Monday. That last question is the one that matters. Everything before it is just numbers. One change a week, and after a quarter you have changed more than most businesses change in a year.",
+          "cap": "Fifteen minutes on Friday.\n\n1 · How many chats came in\n2 · How many got a reply\n3 · What was the same question\n4 · What one thing you change on Monday\n\nOne change a week. After a quarter, that is 12 changes.",
+          "tags": ["#SmallBusinessNigeria", "#ProductivityTips", "#Easywurld", "#BusinessTips"],
+          "asset": "Cream background, four numbered lines, terracotta tick on the fourth, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Fifteen minutes on Friday.",
+            "1 · How many chats came in\n2 · How many got a reply",
+            "3 · What was the same\nquestion three times",
+            "4 · What one thing you\nchange on Monday",
+            "One change a week.\nAfter a quarter that is 12\nchanges most businesses\nnever make."
+          ],
+          "cap": "The weekly review routine is in the Chat-to-Customer Playbook, together with the tracker that gives you the numbers. ₦5,000, message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": ["#Productivity", "#Easywurld", "#LagosSME", "#SmallBusinessTips"],
+          "asset": "Cream slides, deep green serif, terracotta number markers."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Fifteen minutes on Friday. That is the whole difference between next week and the week after.\n\nFour questions:\n\n1. How many chats came in.\n2. How many got a reply.\n3. What was the same question three times this week.\n4. What one thing you will change on Monday.\n\nQuestion four is the one that matters. The first three are just numbers. The change is the deliverable.\n\nOne change a week sounds like nothing. After a quarter, it is twelve changes, and most businesses do not make twelve changes in a year.\n\nThe review routine is in the Chat-to-Customer Playbook, ₦5,000, with the tracker that gives you the answers in the first two questions. Message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D12-03",
+        "type": "Meme",
+        "topic": "The neighbour who wants to be your business partner",
+        "why": "Meme. A very local, very real Lagos situation, and it is funny enough to be shared.",
+        "tiktok": {
+          "fmt": "Static meme, 12s, with voiceover",
+          "hook": "Neighbour: I have an idea, let us partner",
+          "beats": [
+            "Me: what is the idea?",
+            "Neighbour: we will do what you do",
+            "But with my logo",
+            "And 40% for me"
+          ],
+          "vo": "Neighbour: I have an idea, let us partner. What is the idea. We will do what you do, but with my logo, and I take forty percent. Forty. For the logo. This is why you write the partnership terms down before the first cup of coffee, even when the person is your neighbour and you have known them for nine years.",
+          "cap": "\"We will do what you do, but with my logo, and I take 40%.\"\n\nWrite the terms down before the first cup of coffee. Especially with your neighbour.",
+          "tags": ["#Meme", "#Easywurld", "#SmallBusinessNigeria", "#LagosBusiness"],
+          "asset": "Four-panel meme, cream background, deep green type, terracotta on the 40% panel."
+        },
+        "instagram": {
+          "fmt": "Static meme post, 4:5",
+          "slides": [
+            "Neighbour: I have an idea,\nlet us partner",
+            "Me: what is the idea?",
+            "Neighbour: we will do what\nyou do, but with my logo",
+            "And I take 40%",
+            "Write the terms down before\nthe first cup of coffee.\nEspecially with your neighbour."
+          ],
+          "cap": "A partnership needs a written scope, a split, a name for the thing, and an exit. Four lines, one page.\n\nThe Proposal & Report Template Pack has a one-page partnership agreement and a proposal template, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": ["#Meme", "#Easywurld", "#LagosSME", "#BusinessTips"],
+          "asset": "Two-panel meme, cream and deep green."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Neighbour: I have an idea, let us partner.\n\nMe: what is the idea?\nNeighbour: we will do what you do, but with my logo, and I take forty percent.\n\nForty percent, for the logo.\n\nThis is why you write the terms down before the first cup of coffee, even when the person is your neighbour and you have known them for nine years.\n\nFour lines, one page: what you are actually building, how the work and the money split, what it is called, and how either of you leaves. We put that as a partnership agreement template in the Proposal & Report Template Pack, ₦5,000, with the proposal and report templates.\n\nMessage TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D12-04",
+        "type": "Offer",
+        "topic": "The Proposal & Report Template Pack, and who it saves",
+        "why": "Offer. It sells a specific, felt pain: writing documents from scratch under time pressure.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "Who writes your proposals? If the answer is you, at midnight, this one is for you.",
+          "beats": [
+            "A proposal, a report, a brief",
+            "Each from a blank page",
+            "Templates, not decoration",
+            "₦5,000, message TEMPLATES"
+          ],
+          "vo": "Who writes your proposals? If the answer is you, at midnight, this one is for you. The Proposal and Report Template Pack has a proposal template, a report template, a one-page partnership agreement, a client brief, a project plan, a monthly status report, and a feedback form. They are templates, not decoration. You fill in the parts that are about your business and send it. Five thousand naira. Message TEMPLATES on WhatsApp.",
+          "cap": "Who writes your proposals?\n\nIf the answer is you, at midnight, this one is for you.\n\nThe Proposal & Report Template Pack. ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#BusinessTemplates", "#SmallBusinessNigeria"],
+          "asset": "Cream background, a stack of document mockups, terracotta price tag, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "The Proposal &\nReport Template Pack",
+            "For anyone who writes\ntheir own documents.",
+            "Proposal. Report. Brief.\nProject plan. Status report.",
+            "Plus a one-page\npartnership agreement",
+            "₦5,000, digital download.\nMessage TEMPLATES on WhatsApp\n0905 069 0837"
+          ],
+          "cap": "The Proposal & Report Template Pack, ₦5,000:\n\n1. A proposal template that leads with the problem\n2. A report template with the section order that keeps people reading\n3. A one-page client brief\n4. A project plan with milestones and sign-off points\n5. A monthly status report\n6. A partnership agreement, one page, four clauses\n\nMessage TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#LagosSME", "#BusinessTemplates"],
+          "asset": "Cream slides, deep green serif, terracotta price, mark bottom right."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "The Proposal & Report Template Pack. ₦5,000. Digital download, you fill them in yourself.\n\nSeven templates:\n\n1. A proposal that leads with the problem, not with you.\n2. A report with the section order that keeps a tired reader going.\n3. A one-page client brief.\n4. A project plan with milestones and sign-off points.\n5. A monthly status report.\n6. A one-page partnership agreement, four clauses, so the neighbour with the logo has nothing to argue about.\n7. A feedback form, because the alternative is \"it was fine\" and you learn nothing.\n\nThey are templates, not decoration. Fill in the parts that are about your business, and send it.\n\nMessage TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 08:15",
+          "body": "There is a specific kind of Friday afternoon where a deadline meets a blank document.\n\nYou need to send a proposal. Or a report. Or a brief. And you have to write it from nothing, on a phone, while the rest of the business is still running.\n\nThe cost is not the writing. The cost is that a document written from a blank page at 4pm on a Friday is a worse document than the same content written from a good structure on a Tuesday morning.\n\nThe Proposal & Report Template Pack, ₦5,000, has seven: a proposal that leads with the problem, a report with the section order that keeps a tired reader going, a one-page client brief, a project plan with milestones and sign-off points, a monthly status report, a one-page partnership agreement, and a feedback form.\n\nThey are templates. You fill in the parts that are about your business.\n\nWhatsApp: 0905 069 0837. Message TEMPLATES."
+        }
+      },
+      {
+        "id": "D12-05",
+        "type": "Trust",
+        "topic": "We do not send proposals you cannot read",
+        "why": "Trust. It shows a quality standard, which is what a careful buyer is actually shopping for.",
+        "tiktok": {
+          "fmt": "Talking head, 25s",
+          "hook": "A proposal nobody reads is not a proposal. It is a letter to yourself.",
+          "beats": [
+            "If it is twelve pages, it is four",
+            "Put the price on page one",
+            "Say what is not included",
+            "That is the whole trick"
+          ],
+          "vo": "A proposal nobody reads is not a proposal, it is a letter to yourself. If it is twelve pages, it should be four. Put the price on page one, say what is not included, and say what you need from them. That is the whole trick. A clear proposal is not less impressive than a long one. It is more professional, and it is faster to agree.",
+          "cap": "A proposal nobody reads is not a proposal. It is a letter to yourself.\n\nIf it is twelve pages, it should be four. Price on page one. Say what is not included. Say what you need from them.",
+          "tags": ["#Easywurld", "#HonestBusiness", "#BusinessTips", "#SmallBusinessNigeria"],
+          "asset": "Talking head, plain shirt, warm light, brand mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "A proposal nobody reads\nis not a proposal.",
+            "It is a letter to yourself.",
+            "If it is twelve pages,\nit should be four.",
+            "Price on page one.\nSay what is not included.",
+            "Say what you need from them."
+          ],
+          "cap": "A clear proposal is not less impressive than a long one. It is faster to agree.\n\nThe proposal template in the Template Pack is built on exactly these rules, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#HonestBusiness", "#LagosSME", "#BusinessTips"],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "A proposal nobody reads is not a proposal. It is a letter to yourself.\n\nIf it is twelve pages, it should be four. Put the price on page one. Say what is not included. Say what you need from them.\n\nThat is the whole trick. A clear proposal is not less impressive than a long one. It is more professional, and it is much faster to agree, because there is nothing for the other side to get confused about.\n\nThe proposal template in the Proposal & Report Template Pack is built on those rules. ₦5,000, with six more documents in the same folder.\n\nMessage TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D12-06",
+        "type": "Teach",
+        "topic": "The four-part proposal that gets a yes",
+        "why": "Teach. A structure they can apply to their next quote makes the pack obviously worth ₦5,000.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "Four parts. One page. That is a proposal that gets read.",
+          "beats": [
+            "1 · Their problem, in their words",
+            "2 · What you will do about it",
+            "3 · What it costs and what is not included",
+            "4 · What you need from them"
+          ],
+          "vo": "Four parts, one page, and a proposal that gets read. One: their problem, in their words, not yours. Two: what you will do about it, in three sentences. Three: what it costs, and what is not included, because the thing they will argue about is the thing you did not mention. Four: what you need from them. That last part is the one everybody skips, and it is the one that gets a yes.",
+          "cap": "Four parts, one page:\n\n1 · Their problem, in their words\n2 · What you will do about it\n3 · What it costs, and what is not included\n4 · What you need from them\n\nPart four is the one everybody skips.",
+          "tags": ["#BusinessTips", "#Easywurld", "#SmallBusinessNigeria", "#WritingTips"],
+          "asset": "Cream background, four numbered lines, terracotta tick on the last, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Four parts.\nOne page.",
+            "1 · Their problem,\nin their words",
+            "2 · What you will do\nabout it",
+            "3 · What it costs and\nwhat is not included",
+            "4 · What you need from them",
+            "Part four is the one\neverybody skips,\nand it is the one\nthat gets a yes."
+          ],
+          "cap": "The proposal template in the Proposal & Report Template Pack is exactly this structure, with the prompts filled in.\n\n₦5,000, message TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": ["#BusinessTips", "#Easywurld", "#LagosSME", "#WritingTips"],
+          "asset": "Cream slides, deep green serif, terracotta numbers."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Four parts. One page. That is a proposal that gets read.\n\n1. Their problem, in their words, not yours.\n2. What you will do about it, in three sentences.\n3. What it costs, and what is not included.\n4. What you need from them.\n\nNumber three and number four are where proposals are won. Three, because the thing they will argue about is the thing you did not mention. Four, because a proposal that does not say what you need from them gets a slow, polite nothing.\n\nThe proposal template in the Proposal & Report Template Pack is exactly this structure, with the prompts filled in, plus six more documents in the same folder. ₦5,000.\n\nMessage TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 12:15",
+          "body": "Most proposals fail on part four, and part four is the part everybody skips.\n\nA proposal that works:\n\nTheir problem, in their words, not yours. What you will do about it, in three sentences. What it costs, and what is not included. And what you need from them.\n\nThe first three parts are familiar. The fourth is the one that changes the outcome.\n\nWithout it, a proposal is a document that asks for a decision but never says what the customer has to do to make that decision. So the customer does nothing, and six weeks later you find out they were not undecided, they were waiting for you to tell them how to start.\n\nWith it, the customer knows exactly what happens next. And a proposal that makes the next step obvious gets a faster answer, including a faster no, which saves both sides a month.\n\nThe Proposal & Report Template Pack, ₦5,000, has this structure as a template, with the prompts filled in, plus a report template, a brief, a project plan, a status report, a partnership agreement and a feedback form.\n\nWhatsApp: 0905 069 0837. Message TEMPLATES."
+        }
+      },
+      {
+        "id": "D12-07",
+        "type": "Meme",
+        "topic": "The free design advice from a relative",
+        "why": "Meme. A universal family moment that every small business owner recognises instantly.",
+        "tiktok": {
+          "fmt": "Static meme, 12s, with voiceover",
+          "hook": "My brother, who has never run a business, has feedback",
+          "beats": [
+            "\"It is nice but\"",
+            "\"Maybe more like...\"",
+            "He cannot say what",
+            "He has been in a business\nfor two weeks"
+          ],
+          "vo": "My brother, who has never run a business, has feedback. It is nice but. Maybe more like something. He cannot say what. He has been in a business for two weeks. Listen to feedback that comes with a reason, and ignore feedback that comes with a feeling. The second kind is not wrong, it is just not information.",
+          "cap": "\"It is nice but.\"\n\"Maybe more like...\"\n\nFeedback with a feeling is not information.\nFeedback with a reason is a specification.",
+          "tags": ["#Meme", "#Easywurld", "#SmallBusinessNigeria", "#WebDesign"],
+          "asset": "Four-panel meme, cream background, deep green type, terracotta speech bubble."
+        },
+        "instagram": {
+          "fmt": "Static meme post, 4:5",
+          "slides": [
+            "My brother, who has never run\na business, has feedback:",
+            "\"It is nice but\"",
+            "\"Maybe more like...\"",
+            "He cannot say what.",
+            "Feedback with a feeling\nis not information.\nFeedback with a reason\nis a specification."
+          ],
+          "cap": "The client brief template in the Proposal & Report Template Pack exists to turn feelings into reasons before the work starts. ₦5,000, message TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": ["#Meme", "#Easywurld", "#LagosSME", "#WebDesign"],
+          "asset": "Two-panel meme, cream and deep green."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "My brother, who has never run a business, has feedback.\n\n\"It is nice but.\"\n\"Maybe more like...\"\n\nHe cannot say what. He has been in a business for two weeks.\n\nThere is a rule I use now. Feedback that comes with a reason is a specification, and you can act on it. Feedback that comes with a feeling is not information, even though it is usually delivered in a meeting, in a tone, with a lot of confidence.\n\nNeither is wrong. Only one of them tells you what to change.\n\nThe client brief template in the Proposal & Report Template Pack is built to get the reasons on paper before the work starts, so nobody has to guess in a meeting. ₦5,000.\n\nMessage TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D12-08",
+        "type": "Story",
+        "topic": "The document we almost did not send",
+        "why": "Story. A specific moment of hesitation, told honestly, that shows the work behind the work.",
+        "tiktok": {
+          "fmt": "Talking head over a laptop screen, 30s",
+          "hook": "We nearly did not send a proposal once. Here is why we did.",
+          "beats": [
+            "It was four pages",
+            "And it was less than we wanted",
+            "We nearly padded it",
+            "They signed in a day"
+          ],
+          "vo": "We nearly did not send a proposal once. It was four pages, and it was less than we wanted, and we spent an hour deciding whether to pad it. We did not pad it. We sent the four pages and the price we meant. They signed the next day, and then they sent two more people, and the second project was bigger than the first. I have thought about that hour a lot since.",
+          "cap": "We nearly padded a proposal once. It was four pages and less than we wanted, so we spent an hour deciding whether to make it longer.\n\nWe sent the four pages and the price we meant.\n\nThey signed the next day.",
+          "tags": ["#Easywurld", "#Story", "#HonestBusiness", "#SmallBusinessNigeria"],
+          "asset": "Talking head, laptop screen visible with a document open, warm light, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "We nearly did not send\na proposal once.",
+            "It was four pages.",
+            "And it was less than\nwe wanted.",
+            "We spent an hour\ndeciding whether to pad it.",
+            "We did not pad it.\nThey signed the next day."
+          ],
+          "cap": "A longer proposal is not a more professional one. It is a more tiring one.\n\nThe proposal template in the Template Pack is deliberately four pages. ₦5,000, message TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#Story", "#LagosSME", "#HonestBusiness"],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "We nearly did not send a proposal once.\n\nIt was four pages. It was less than we wanted. We spent an hour deciding whether to pad it out to look more serious.\n\nWe did not pad it. We sent the four pages and the price we actually meant.\n\nThey signed the next day. And then they sent us two more people, and the second project was bigger than the first.\n\nI have thought about that hour a lot since. The hour we spent making a document worse, in a meeting, in a tone, with a lot of confidence.\n\nA longer proposal is not a more professional one. It is a more tiring one.\n\nThe proposal template in the Proposal & Report Template Pack is deliberately four pages, with the price on page one. ₦5,000.\n\nMessage TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D12-09",
+        "type": "Offer",
+        "topic": "The Proposal & Report Template Pack, what is inside",
+        "why": "Offer. The full inventory removes the risk of buying something unseen.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "Seven documents, ₦5,000, and every one of them you can use tomorrow.",
+          "beats": [
+            "Proposal, report, brief",
+            "Project plan, status report",
+            "Partnership agreement",
+            "Feedback form",
+            "₦5,000, message TEMPLATES"
+          ],
+          "vo": "Seven documents, five thousand naira, and every one of them you can use tomorrow. A proposal. A report. A client brief. A project plan. A monthly status report. A one-page partnership agreement. And a feedback form, because the alternative is the phrase it was fine, and you learn nothing from that. All editable. All yours. Message TEMPLATES on WhatsApp.",
+          "cap": "Seven documents, ₦5,000:\n\nProposal · Report · Client brief · Project plan · Monthly status report · Partnership agreement · Feedback form\n\nAll editable. All yours.",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#BusinessTemplates", "#SmallBusinessNigeria"],
+          "asset": "Cream background, seven document labels, terracotta ticks, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Seven documents.\n₦5,000.",
+            "Proposal · Report\nClient brief",
+            "Project plan\nMonthly status report",
+            "One-page partnership\nagreement",
+            "And a feedback form,\nbecause \"it was fine\"\nteaches you nothing.\n\nMessage TEMPLATES on WhatsApp\n0905 069 0837"
+          ],
+          "cap": "Every template is editable and every one has the prompt beside the blank, so you are never guessing what belongs in the space.\n\nMessage TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#LagosSME", "#BusinessTemplates"],
+          "asset": "Cream slides, deep green serif, terracotta ticks, mark bottom right."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "The Proposal & Report Template Pack, ₦5,000. Seven documents, all editable, all with the prompt beside the blank so you are never guessing what goes there.\n\n1. Proposal. Four pages. Their problem first, price on page one, what is not included, what you need from them.\n\n2. Report. The section order that keeps a tired reader going to the end.\n\n3. Client brief. One page, so the project starts from answers instead of assumptions.\n\n4. Project plan. Milestones and sign-off points, so nobody is surprised in week three.\n\n5. Monthly status report. Because \"how is it going\" deserves a real answer.\n\n6. Partnership agreement. One page, four clauses, and the 40% neighbour scenario handled.\n\n7. Feedback form. The alternative is \"it was fine\", and you learn nothing from that.\n\nMessage TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 16:15",
+          "body": "Seven documents, and the one nobody expects is probably the most useful.\n\nProposal. Report. Client brief. Project plan. Monthly status report. One-page partnership agreement. Feedback form.\n\nThat last one: a feedback form sounds trivial until you realise what happens without it. The client says it was fine, and you agree, and neither of you learns anything, and the same problem arrives in six months wearing a different shirt.\n\nA few questions on a page turns a vague ending into a specific one. It is the cheapest improvement in most client relationships and almost nobody does it.\n\nAll seven are in the Proposal & Report Template Pack, ₦5,000, editable, with the prompt beside every blank.\n\nWhatsApp: 0905 069 0837. Message TEMPLATES."
+        }
+      },
+      {
+        "id": "D12-10",
+        "type": "Hot take",
+        "topic": "A proposal is not a price list",
+        "why": "Hot take. It reframes a boring document into a persuasion tool, and it is a position people disagree with.",
+        "tiktok": {
+          "fmt": "Talking head, 25s",
+          "hook": "A proposal is not a price list. I will explain what that means.",
+          "beats": [
+            "A price list says: this costs X",
+            "A proposal says: here is\nwhat I understand, and here\nis what happens next",
+            "Then it says: this costs X",
+            "Same price, different outcome"
+          ],
+          "vo": "A proposal is not a price list. A price list says this costs X. A proposal says here is what I understand about your problem, here is what I am going to do about it, here is what I need from you, and this is what it costs. Same price, completely different outcome. The customer is not comparing your price to your cost. They are comparing your document to the alternative of doing nothing, which is free, and which is why the document has to do some work.",
+          "cap": "A proposal is not a price list.\n\nA price list says: this costs X.\nA proposal says: here is what I understand, here is what happens next, and this is what it costs.\n\nSame price. Different outcome.",
+          "tags": ["#HotTake", "#Easywurld", "#BusinessTips", "#SmallBusinessNigeria"],
+          "asset": "Talking head, plain shirt, warm light, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "A proposal is not\na price list.",
+            "A price list says:\nthis costs X.",
+            "A proposal says: here is what\nI understand, here is what\nhappens next, and this is what\nit costs.",
+            "Same price.\nDifferent outcome.",
+            "The customer is comparing your\ndocument to doing nothing,\nwhich is free."
+          ],
+          "cap": "That is why the proposal template is four pages and not one. The extra pages are not filler, they are the argument.\n\n₦5,000, message TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": ["#HotTake", "#Easywurld", "#LagosSME", "#BusinessTips"],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "A proposal is not a price list. I will explain what that means, because the difference is the whole job.\n\nA price list says: this costs X.\n\nA proposal says: here is what I understand about your problem, here is what I am going to do about it, here is what I need from you, and this is what it costs.\n\nSame price. Completely different outcome.\n\nBecause the customer is not comparing your price to your cost. They are comparing your document to the alternative, which is doing nothing, which is free. Your document has to do some work to beat free.\n\nThat is why the proposal template in the Template Pack is four pages, and it is why the price goes on page one anyway. The extra pages are not filler, they are the argument.\n\n₦5,000, message TEMPLATES on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 17:15",
+          "body": "A proposal is not a price list, and the difference is the whole job.\n\nA price list says: this costs X.\n\nA proposal says: here is what I understand about your problem, here is what I will do about it, here is what I need from you, and this is what it costs.\n\nSame price, completely different outcome. And notice the order: the price comes last, even though it is the only part most people read first.\n\nThe reason is not style. It is that the customer is not comparing your price to your cost. They are comparing your document to the alternative, which is doing nothing, which costs nothing. Your document has to do some work to beat free.\n\nThe price on page one is right, because hiding it is a trick and people notice. But the three pages before it are what make the price acceptable.\n\nThe Proposal & Report Template Pack, ₦5,000, has this structure as a template, plus six other documents.\n\nWhatsApp: 0905 069 0837. Message TEMPLATES."
+        }
+      },
+      {
+        "id": "D12-11",
+        "type": "Direct response",
+        "topic": "The end-of-week question that sets up next week",
+        "why": "Direct response. It invites a reply, which pushes engagement, and it carries the review habit.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 20s",
+          "hook": "One question to ask yourself on Friday night.",
+          "beats": [
+            "Not: what did I sell today",
+            "But: what did I learn today",
+            "About my customers",
+            "One answer is enough",
+            "Write it down"
+          ],
+          "vo": "One question to ask yourself on Friday night. Not what did I sell today, because somebody else decides that. What did I learn today about my customers. One answer is enough. Write it down, and put it where Monday morning will find it. That is how a business gets sharper, instead of just busier.",
+          "cap": "One Friday night question:\n\nNot \"what did I sell today\".\n\n\"What did I learn today about my customers?\"\n\nOne answer is enough. Write it down, where Monday morning will find it.",
+          "tags": ["#SmallBusinessNigeria", "#Easywurld", "#BusinessTips", "#ProductivityTips"],
+          "asset": "Cream background, one question in deep green serif, terracotta underline, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "One question to ask\nyourself on Friday night.",
+            "Not: what did I sell today.",
+            "But: what did I learn today\nabout my customers?",
+            "One answer is enough.",
+            "Write it down, where Monday\nmorning will find it."
+          ],
+          "cap": "That is how a business gets sharper instead of just busier.\n\nThe tracker and the weekly review routine are in the Chat-to-Customer Playbook, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": ["#BusinessTips", "#Easywurld", "#LagosSME", "#Productivity"],
+          "asset": "Cream slides, deep green serif, terracotta rule."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "One question to ask yourself on Friday night.\n\nNot \"what did I sell today\", because somebody else decides that. Somebody else's price, somebody else's timing, somebody else's mood.\n\nAsk this instead: what did I learn today about my customers?\n\nOne answer is enough. Write it down, and put it where Monday morning will find it.\n\nThat is how a business gets sharper, instead of just busier. Most owners can tell you their revenue. Far fewer can tell you what their customers told them this week.\n\nThe tracker and the 15-minute weekly review are in the Chat-to-Customer Playbook, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 20:15 (optional)",
+          "body": "One question for Friday night, and it is not the one you think.\n\nNot what did I sell today. Revenue is mostly somebody else's decision: their budget, their timing, their mood.\n\nWhat did I learn today about my customers?\n\nOne answer. Write it down. Put it where Monday morning will find it.\n\nThis is the cheapest advantage available to a small business, because almost nobody does it. Most owners can tell you their revenue and cannot tell you what their customers said to them last week.\n\nThe habit is part of the weekly review routine in the Chat-to-Customer Playbook, ₦5,000, along with the tracker that gives you the raw numbers the question needs.\n\nWhatsApp: 0905 069 0837. Message PLAYBOOK."
+        }
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "label": "Day 13",
+    "theme": "The person behind the counter",
+    "offer": "The Everyday AI Prompt Desk · PROMPTS",
+    "posts": [
+      {
+        "id": "D13-01",
+        "type": "Teach",
+        "topic": "What a small business day actually looks like",
+        "why": "Teach. It names the reality of the reader's week, which creates recognition and relief.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "A small business day is not what people think. Here is a real one.",
+          "beats": [
+            "8am · open, deliveries, arguments",
+            "11am · three WhatsApp chats,\none customer, one complaint",
+            "2pm · the actual work",
+            "6pm · close, and start again",
+            "That is why content is hard"
+          ],
+          "vo": "A small business day is not what people think. Here is a real one. Eight in the morning, open, deliveries, an argument about something. Eleven, three WhatsApp chats, one customer, one complaint. Two in the afternoon, the actual work. Six in the evening, close, and then the admin you promised yourself you would do. That is why content is hard. Not because people are lazy. Because there is no time left by the time everybody has stopped asking.",
+          "cap": "A real small business day:\n\n8am · open, deliveries, an argument\n11am · three chats, one complaint\n2pm · the actual work\n6pm · close, then the admin\n\nThat is why content is hard. Not laziness. No time left.",
+          "tags": ["#SmallBusinessNigeria", "#Easywurld", "#LagosBusiness", "#Relatable"],
+          "asset": "Cream background, a timeline of four rows, terracotta clock marks, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "A small business day is\nnot what people think.",
+            "8am · open, deliveries,\nan argument about something",
+            "11am · three chats,\none customer, one complaint",
+            "2pm · the actual work",
+            "6pm · close, then the admin\nyou promised yourself",
+            "That is why content is hard.\nNot laziness. No time left."
+          ],
+          "cap": "If your content plan assumes two spare hours a day, it will fail in week two.\n\nThe 30-Day Content Engine is built around the time you actually have. ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.",
+          "tags": ["#SmallBusinessNigeria", "#Easywurld", "#LagosSME", "#ContentStrategy"],
+          "asset": "Cream slides, deep green serif, terracotta time markers."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "A small business day is not what people think.\n\nHere is a real one:\n\n8am. Open. Deliveries. An argument about something.\n11am. Three WhatsApp chats, one customer, one complaint.\n2pm. The actual work.\n6pm. Close, and then the admin you promised yourself you would do.\n\nThat is why content is hard. Not because people are lazy. Because by the time everybody has stopped asking, there is no time left.\n\nIf a content plan assumes two spare hours a day, it will fail in week two and the owner will blame themselves instead of the plan.\n\nThe 30-Day Content Engine is built around the time you actually have, with a mix that runs in fifteen minutes. ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 08:15",
+          "body": "A small business day is not what people think.\n\n8am: open, deliveries, an argument about something.\n11am: three chats, one customer, one complaint.\n2pm: the actual work.\n6pm: close, and then the admin you promised yourself.\n\nThat is why content is hard. Not laziness. By the time everyone has stopped asking, there is no time left, and a plan that assumes two spare hours a day is a plan that fails in week two.\n\nWorse, when it fails, the owner usually concludes that they are bad at marketing. They are not. The plan was written for a business with a marketing department and a business with a marketing department in it.\n\nIf you want to post regularly with the hours you have, plan around the time you actually have. A mix that can be produced in fifteen minutes on a bad day, and expanded on a good one, will survive contact with December.\n\nThe 30-Day Content Engine, ₦5,000, is built that way.\n\nWhatsApp: 0905 069 0837. Message ENGINE."
+        }
+      },
+      {
+        "id": "D13-02",
+        "type": "Story",
+        "topic": "The person who answers the messages",
+        "why": "Story. It puts a human at the centre of the business, which is the emotional core of the brand.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "Somebody answers your messages at 9pm. Here is what that costs them.",
+          "beats": [
+            "It is not the business owner",
+            "It is usually one person",
+            "On their own phone",
+            "After the shop closes",
+            "And nobody calls it work"
+          ],
+          "vo": "Somebody answers your messages at nine at night. It is not the business owner, usually. It is one person, on their own phone, after the shop has closed, and nobody calls it work. They have a name, they are probably studying, and they are the reason your customer got an answer at all. When you write your process, remember there is a person at the end of it. That is why the templates matter. They are not for the business. They are for the person doing the job.",
+          "cap": "Somebody answers your messages at 9pm.\n\nNot the owner. One person, on their own phone, after the shop closed. And nobody calls it work.\n\nThat is why the templates matter. They are not for the business. They are for the person doing the job.",
+          "tags": ["#Easywurld", "#Story", "#SmallBusinessNigeria", "#LagosBusiness"],
+          "asset": "Talking head, plain shirt, warm light, no graphics, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Somebody answers your\nmessages at 9pm.",
+            "Not the owner.",
+            "One person, on their own phone,\nafter the shop has closed.",
+            "And nobody calls it work.",
+            "That is why the templates matter.\nThey are not for the business.\nThey are for the person\ndoing the job."
+          ],
+          "cap": "They have a name, they are probably studying, and they are the reason your customer got an answer at all.\n\nThe 36 scripts in the Chat-to-Customer Playbook are written for that person. ₦5,000, message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#Story", "#LagosSME", "#WhatsAppBusiness"],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Somebody answers your messages at nine at night.\n\nIt is not the business owner, usually. It is one person, on their own phone, after the shop has closed, and nobody calls it work. They have a name, they are probably studying, and they are the reason your customer got an answer at all.\n\nWhen you write a process, remember there is a person at the end of it.\n\nThat is why templates matter more than advice. Advice assumes you are available and in the right headspace. A template assumes the reply needs to happen at nine at night, and it makes that possible in twenty seconds.\n\nThe 36 scripts in the Chat-to-Customer Playbook are written for that person. ₦5,000, message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D13-03",
+        "type": "Meme",
+        "topic": "Saturday mood versus Monday mood",
+        "why": "Meme. Light, shareable, and a good palate cleanser before the teaching posts.",
+        "tiktok": {
+          "fmt": "Static meme, 12s, with voiceover",
+          "hook": "Saturday, 6pm: the shop is closed",
+          "beats": [
+            "Me: the work is done",
+            "Me: I am free",
+            "Me: I will rest",
+            "Monday, 7am:",
+            "Me: what is the plan"
+          ],
+          "vo": "Saturday at six in the evening, the shop is closed. Me: the work is done, I am free, I will rest. Monday at seven in the morning: me, what is the plan. Every small business owner knows this. Which is why the plan has to exist before you need it, on a Saturday, not on a Monday, when the week is already moving and nobody has time to think.",
+          "cap": "Saturday 6pm: the shop is closed, I am free, I will rest.\n\nMonday 7am: what is the plan.\n\nWhich is why the plan has to exist before you need it, on a Saturday.",
+          "tags": ["#Meme", "#Easywurld", "#SmallBusinessNigeria", "#Relatable"],
+          "asset": "Four-panel meme, cream background, deep green type, terracotta sun on the Saturday panel."
+        },
+        "instagram": {
+          "fmt": "Static meme post, 4:5",
+          "slides": [
+            "Saturday, 6pm:\nthe shop is closed",
+            "Me: the work is done\nI am free\nI will rest",
+            "Monday, 7am:",
+            "Me: what is the plan",
+            "The plan has to exist\nbefore you need it,\non a Saturday."
+          ],
+          "cap": "Which is exactly what the 30-Day Content Engine is. Thirty days, planned in advance, so Monday morning is execution and not decisions.\n\n₦5,000, message ENGINE on WhatsApp: 0905 069 0837.",
+          "tags": ["#Meme", "#Easywurld", "#LagosSME", "#ContentStrategy"],
+          "asset": "Two-panel meme, cream and deep green."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Saturday at six in the evening, the shop is closed.\n\nMe: the work is done. I am free. I will rest.\n\nMonday at seven in the morning: me, what is the plan.\n\nEvery small business owner knows this feeling. Which is why the plan has to exist before you need it, on a Saturday, and not on a Monday when the week is already moving and nobody has time to think.\n\nThe 30-Day Content Engine is thirty days planned in advance, so Monday morning is execution, not decisions. ₦5,000.\n\nMessage ENGINE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D13-04",
+        "type": "Trust",
+        "topic": "What we do when the answer is no",
+        "why": "Trust. It shows what happens in the difficult moments, which nobody else shows you.",
+        "tiktok": {
+          "fmt": "Talking head, 25s",
+          "hook": "What do we actually do when a project does not work?",
+          "beats": [
+            "We say so before the deadline",
+            "We do not run to the end",
+            "We hand back what is done",
+            "And we do not charge for\nthe part that failed"
+          ],
+          "vo": "What do we actually do when a project does not work? We say so before the deadline, not after. We do not run to the end hoping it turns around. We hand back what is done, in a usable state. And we do not charge for the part that failed, because the failure is ours, not the client's. That last one is the rule most studios break, and it is the reason people talk about studios badly.",
+          "cap": "When a project does not work:\n\nWe say so before the deadline.\nWe hand back what is done, usable.\nAnd we do not charge for the part that failed, because the failure is ours.",
+          "tags": ["#Easywurld", "#HonestBusiness", "#ClientWork", "#SmallBusinessNigeria"],
+          "asset": "Talking head, plain shirt, warm light, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "When a project\ndoes not work:",
+            "We say so before\nthe deadline.",
+            "We do not run to the end\nhoping it turns around.",
+            "We hand back what is done,\nin a usable state.",
+            "We do not charge for the part\nthat failed. The failure is ours."
+          ],
+          "cap": "That last rule is the one most studios break, and it is the reason people talk about studios badly.\n\nIf you want a second opinion on your own page before it goes anywhere, send us the link. Within 24 hours, a voice note and three points, free, no sales call.",
+          "tags": ["#Easywurld", "#HonestBusiness", "#LagosSME", "#ClientWork"],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "What do we actually do when a project does not work?\n\nWe say so before the deadline, not after. We do not run to the end hoping it turns around. We hand back what is done, in a usable state. And we do not charge for the part that failed, because the failure is ours, not the client's.\n\nThat last rule is the one most studios break. And it is the reason people talk about studios badly, when they talk about studios badly.\n\nIt is also the reason people come back. A business that fails a project well is a business you will send your friend to.\n\nIf you want a second opinion on your own page before it goes anywhere, send us the link. Within 24 hours you get a voice note and three points, free, no sales call.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 12:15",
+          "body": "What happens when a project does not work is more revealing than what happens when it does.\n\nOur rules, written down so nobody has to remember them in a bad moment:\n\nWe say so before the deadline, not after. We do not run to the end hoping it turns around. We hand back what is done, in a usable state. And we do not charge for the part that failed.\n\nThat last one is the rule most studios break, and it is the reason people talk about studios badly.\n\nIt is also, in the long run, the profitable behaviour. A studio that fails a project well gets referred. A studio that fails a project badly and bills for it gets avoided, and avoidance is contagious in small circles.\n\nNone of this is generosity. It is arithmetic about reputation, and it happens to be the same thing.\n\nIf you want a second opinion on your own page before it goes anywhere: send the link, get a 24-hour voice note with three points. Free, no sales call.\n\nWhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D13-05",
+        "type": "Teach",
+        "topic": "How to post when you have nothing to announce",
+        "why": "Teach. It removes the single biggest reason small businesses stop posting: nothing to say.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 25s",
+          "hook": "You do not need news to post. You need answers.",
+          "beats": [
+            "1 · The question you get asked daily",
+            "2 · The mistake you see weekly",
+            "3 · The thing you do differently",
+            "That is a month of posts"
+          ],
+          "vo": "You do not need news to post. You need answers. The question you get asked every day, the mistake you see every week, the thing you do differently from everyone else in your line of business. Those three are a month of posts on their own, and they never run out because they come from the work. Most small businesses stop posting because they think a post needs an announcement. It does not. It needs a reason to keep reading.",
+          "cap": "You do not need news to post. You need answers.\n\n1 · The question you get asked daily\n2 · The mistake you see every week\n3 · The thing you do differently\n\nThat is a month of posts, and it never runs out.",
+          "tags": ["#ContentStrategy", "#SmallBusinessNigeria", "#Easywurld", "#SocialMediaTips"],
+          "asset": "Cream background, three lines, terracotta tick on the last, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "You do not need news\nto post.",
+            "You need answers.",
+            "1 · The question you get\nasked every day",
+            "2 · The mistake you see\nevery week",
+            "3 · The thing you do\ndifferently",
+            "That is a month of posts\nand it never runs out."
+          ],
+          "cap": "The 30-Day Content Engine has the calendar built on exactly this, with the mix worked out for you. ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.",
+          "tags": ["#ContentStrategy", "#Easywurld", "#LagosSME", "#SocialMediaTips"],
+          "asset": "Cream slides, deep green serif, terracotta numbers."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "You do not need news to post. You need answers.\n\n1. The question you get asked every day.\n2. The mistake you see every week.\n3. The thing you do differently from everyone else in your line of work.\n\nThose three are a month of posts on their own, and they never run out, because they come from the work itself.\n\nMost small businesses stop posting because they think a post needs an announcement. A launch. A discount. A new logo. It does not. It needs a reason for somebody to keep reading, and the three questions above are the easiest reason there is.\n\nThe 30-Day Content Engine has the calendar built on this, with the daily mix worked out for you. ₦5,000.\n\nMessage ENGINE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D13-06",
+        "type": "Offer",
+        "topic": "The Everyday AI Prompt Desk, and what it is really for",
+        "why": "Offer. It demystifies AI for a sceptical audience and makes the pack feel practical, not trendy.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "The AI Prompt Desk is not for people who want to sound like AI.",
+          "beats": [
+            "It is for the opposite",
+            "You write the way you talk",
+            "It gives you a starting point",
+            "You edit it into your voice",
+            "₦5,000, message PROMPTS"
+          ],
+          "vo": "The AI Prompt Desk is not for people who want to sound like AI. It is for the opposite. You write the way you talk, and the prompts give you a starting point for the things that take too long, like turning notes into a post, or a customer complaint into a reply, or a long explanation into something short. You edit it into your voice, because the voice is the part that matters. Five thousand naira, message PROMPTS on WhatsApp.",
+          "cap": "The AI Prompt Desk is not for people who want to sound like AI. It is for the opposite.\n\nYou write the way you talk. It gives you a starting point. You edit it into your voice.\n\n₦5,000. Message PROMPTS on WhatsApp: 0905 069 0837",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#AI", "#SmallBusinessNigeria"],
+          "asset": "Cream background, a prompt-card mock, terracotta accent, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "The Everyday\nAI Prompt Desk",
+            "Not for people who want\nto sound like AI.",
+            "For the opposite.",
+            "You write the way you talk.\nIt gives you a starting point.\nYou edit it into your voice.",
+            "₦5,000, digital download.\nMessage PROMPTS on WhatsApp\n0905 069 0837"
+          ],
+          "cap": "The Everyday AI Prompt Desk, ₦5,000:\n\n1. 40 prompts for real business jobs: replies, posts, product descriptions, complaints, proposals, follow-ups\n2. A section on keeping your voice, so it does not sound like a manual\n3. What not to paste in, and what to check before you send anything\n4. A one-page prompt card you can keep next to you\n\nMessage PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#LagosSME", "#AI"],
+          "asset": "Cream slides, deep green serif, terracotta price, mark bottom right."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "The Everyday AI Prompt Desk. ₦5,000. Digital download.\n\nLet us be clear about what it is. It is not for people who want to sound like a robot wrote their posts. It is for the opposite.\n\nYou write the way you talk. The prompts give you a starting point for the work that takes too long:\n\n1. Turning rough notes into a post.\n2. Answering a difficult customer message.\n3. Writing a product description in your own words.\n4. Turning a long explanation into something short enough to read.\n5. Drafting a proposal or a follow-up.\n\nAlso inside: a section on keeping your voice so it does not come out sounding like a manual, a list of what not to paste in, and what to check before you send anything. And a one-page prompt card to keep next to you.\n\nThe voice is the part that matters. The tool just removes the blank page.\n\nMessage PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 16:15",
+          "body": "The most common reason small businesses do not use AI is not cost and not fear. It is that the output sounds like a manual.\n\nSo the design goal for our AI Prompt Desk was the opposite of the usual one. It is not a pack of clever prompts. It is 40 prompts for real business jobs, plus a section on keeping your own voice, plus a list of what not to paste in.\n\nThe framing matters. You write the way you talk. The prompt gives you a starting point for the work that takes too long, and you edit it into your voice, because the voice is the part that carries the trust.\n\nNobody trusts a brand that sounds like a brand. They trust a business that sounds like a person from that business, which is harder to fake with a template and worth more when you get it right.\n\nA useful side effect: when you write things down in your own voice for a prompt, you often find out what you actually think. That is worth the ₦5,000 on its own.\n\nWhatsApp: 0905 069 0837. Message PROMPTS."
+        }
+      },
+      {
+        "id": "D13-07",
+        "type": "Hot take",
+        "topic": "Your business should not look like a brand",
+        "why": "Hot take. It is a position people will argue with, and it points to something true about trust.",
+        "tiktok": {
+          "fmt": "Talking head, 25s",
+          "hook": "Your business should not look like a brand. And I will explain.",
+          "beats": [
+            "It should look like a business",
+            "That people can talk to",
+            "If it looks like an advert,\nthey lower their guard",
+            "If it looks like a person,\nthey ask a question"
+          ],
+          "vo": "Your business should not look like a brand. It should look like a business that people can talk to. If your page looks like an advert, the customer lowers their guard. If it looks like a person, they ask a question. And a question is the start of a conversation, and a conversation is the start of a sale. That is the whole argument for writing like a human. It is not a style preference. It is a strategy about how easy it is to reply.",
+          "cap": "Your business should not look like a brand.\n\nIt should look like a business people can talk to.\n\nIf it looks like an advert, they lower their guard. If it looks like a person, they ask a question. And a question is the start of a sale.",
+          "tags": ["#HotTake", "#Easywurld", "#Copywriting", "#SmallBusinessNigeria"],
+          "asset": "Talking head, plain shirt, warm light, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Your business should not\nlook like a brand.",
+            "It should look like a business\npeople can talk to.",
+            "If it looks like an advert,\nthey lower their guard.",
+            "If it looks like a person,\nthey ask a question.",
+            "A question is the start\nof a sale."
+          ],
+          "cap": "The Clear Message Workbook has 30 templates written in plain English, not in brand speak, for exactly this reason. ₦5,000, message MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": ["#HotTake", "#Easywurld", "#LagosSME", "#Copywriting"],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Your business should not look like a brand. It should look like a business that people can talk to.\n\nIf your page looks like an advert, the customer lowers their guard. If it looks like a person, they ask a question. And a question is the start of a conversation, and a conversation is the start of a sale.\n\nThat is the whole argument for writing like a human. It is not a style preference. It is a strategy about how easy it is for somebody to reply to you.\n\nThe Clear Message Workbook has 30 messages written in plain English, not in brand speak. ₦5,000.\n\nMessage MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D13-08",
+        "type": "Teach",
+        "topic": "The three posts that work when you have no product, no news and no budget",
+        "why": "Teach. It gives an immediately usable answer to the most common stall in small business content.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 25s",
+          "hook": "No product, no news, no budget? Here are three posts that still work.",
+          "beats": [
+            "1 · The answer post",
+            "2 · The mistake post",
+            "3 · The behind-the-counter post",
+            "None of them need a product"
+          ],
+          "vo": "No product, no news, no budget? Here are three posts that still work. The answer post, where you answer one question properly. The mistake post, where you show a mistake you see every week and how you avoid it. And the behind-the-counter post, where you show the work, the space, the hands, the ordinary day. None of them need a product. All three need you to be there, which is free.",
+          "cap": "No product, no news, no budget? Three posts that still work:\n\n1 · The answer post\n2 · The mistake post\n3 · The behind-the-counter post\n\nNone of them need a product. All three need you to be there, which is free.",
+          "tags": ["#ContentStrategy", "#SmallBusinessNigeria", "#Easywurld", "#SocialMediaTips"],
+          "asset": "Cream background, three lines, terracotta tick, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "No product, no news,\nno budget?",
+            "Three posts that still work:",
+            "1 · The answer post\none question, answered properly",
+            "2 · The mistake post\na mistake you see weekly",
+            "3 · The behind-the-counter post\nthe work, the space, the hands",
+            "None of them need a product.\nAll three need you to be there,\nwhich is free."
+          ],
+          "cap": "The 30-Day Content Engine has the calendar built on this, with a mix you can keep running. ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.",
+          "tags": ["#ContentStrategy", "#Easywurld", "#LagosSME", "#SocialMediaTips"],
+          "asset": "Cream slides, deep green serif, terracotta numbers."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "No product, no news, no budget? Here are three posts that still work.\n\n1. The answer post. One question, answered properly. The question everybody in your line of business asks but nobody bothers to answer.\n\n2. The mistake post. A mistake you see every week, and how you avoid it. Useful, and it quietly says you know your work.\n\n3. The behind-the-counter post. The work, the space, the hands, the ordinary day. People are watching a business, not a product.\n\nNone of them need a product. All three need you to be there, which is free.\n\nThe 30-Day Content Engine has the calendar built on this, with the daily mix worked out. ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 17:15",
+          "body": "The stall point for most small business content is not inspiration. It is the belief that you need something to announce.\n\nNo product, no news, no budget. So you post nothing. And then two months later you say the social media is not working, when really it never started.\n\nThree post types need none of those things:\n\nThe answer post. One question, answered properly, from the questions you get every day.\nThe mistake post. A mistake you see weekly, and how you avoid it.\nThe behind-the-counter post. The work, the space, the hands, the ordinary day. People are watching a business, not a product.\n\nAll three are free, all three are repeatable, and all three come from the work rather than from a marketing idea.\n\nIf you want thirty days of this worked out with a mix and a timetable: the 30-Day Content Engine, ₦5,000.\n\nWhatsApp: 0905 069 0837. Message ENGINE."
+        }
+      },
+      {
+        "id": "D13-09",
+        "type": "Meme",
+        "topic": "Explaining your business to someone who asked about your hobby",
+        "why": "Meme. Funny, universal, and it earns the shares that a teaching post does not.",
+        "tiktok": {
+          "fmt": "Static meme, 12s, with voiceover",
+          "hook": "So what do you do?",
+          "beats": [
+            "Me: I run a small business",
+            "Them: like, what?",
+            "Me: I make things and sell them",
+            "Them: so it is like a hobby"
+          ],
+          "vo": "So what do you do. I run a small business. Like what. I make things and sell them. So it is like a hobby. No. It is not like a hobby, because a hobby does not have a customer, a price, a delivery and a return. If you cannot explain your business in one sentence to somebody at a party, that sentence is your first piece of work. Not your logo. Your sentence.",
+          "cap": "\"So it is like a hobby.\"\n\nNo. A hobby does not have a customer, a price, a delivery and a return.\n\nIf you cannot explain your business in one sentence, that sentence is your first piece of work.",
+          "tags": ["#Meme", "#Easywurld", "#SmallBusinessNigeria", "#Copywriting"],
+          "asset": "Four-panel meme, cream background, deep green type, terracotta on the last panel."
+        },
+        "instagram": {
+          "fmt": "Static meme post, 4:5",
+          "slides": [
+            "So what do you do?",
+            "Me: I run a small business",
+            "Them: like, what?",
+            "Me: I make things and sell them",
+            "Them: so it is like a hobby",
+            "No. A hobby does not have a customer,\na price, a delivery and a return."
+          ],
+          "cap": "If you cannot explain your business in one sentence to somebody at a party, that sentence is your first piece of work.\n\nThe Clear Message Workbook starts with that sentence. ₦5,000, message MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": ["#Meme", "#Easywurld", "#LagosSME", "#Copywriting"],
+          "asset": "Two-panel meme, cream and deep green."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "\"So what do you do?\"\n\n\"I run a small business.\"\n\"Like, what?\"\n\"I make things and sell them.\"\n\"So it is like a hobby.\"\n\nNo. A hobby does not have a customer, a price, a delivery and a return.\n\nIf you cannot explain your business in one sentence to somebody at a party, that sentence is your first piece of work. Not your logo, not your colour scheme. Your sentence.\n\nThe Clear Message Workbook starts with that sentence, then works outward. ₦5,000, message MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D13-10",
+        "type": "Offer",
+        "topic": "The Everyday AI Prompt Desk, what is inside",
+        "why": "Offer. The inventory plus the honesty about limits removes the scepticism.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "What is actually in the AI Prompt Desk. Forty prompts, and three rules.",
+          "beats": [
+            "40 prompts for real work",
+            "Replies, posts, descriptions",
+            "A section on keeping your voice",
+            "What not to paste in",
+            "₦5,000, message PROMPTS"
+          ],
+          "vo": "What is actually in the AI Prompt Desk. Forty prompts for real work: customer replies, posts, product descriptions, complaint handling, proposals, follow-ups. A section on keeping your voice, because that is the thing that breaks. A list of what not to paste in, and what to check before you send. And a one-page prompt card to keep next to you. Five thousand naira. Message PROMPTS on WhatsApp.",
+          "cap": "Inside the AI Prompt Desk:\n\n40 prompts for real work\nA section on keeping your voice\nWhat not to paste in, and what to check\nA one-page prompt card\n\n₦5,000. Message PROMPTS on WhatsApp: 0905 069 0837",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#AI", "#SmallBusinessNigeria"],
+          "asset": "Cream background, a list of contents, terracotta ticks, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Inside the\nAI Prompt Desk",
+            "40 prompts for real work:\nreplies, posts, descriptions,\ncomplaints, proposals",
+            "A section on keeping\nyour own voice",
+            "What not to paste in,\nand what to check first",
+            "₦5,000, digital download.\nMessage PROMPTS on WhatsApp\n0905 069 0837"
+          ],
+          "cap": "It is a desk, not a subscription. Nothing renews, nothing is emailed to you, and you can print the card and keep it by the phone.\n\nMessage PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": ["#Easywurld", "#DigitalDownloads", "#LagosSME", "#AI"],
+          "asset": "Cream slides, deep green serif, terracotta price, mark bottom right."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "The Everyday AI Prompt Desk. ₦5,000. Digital download, and here is exactly what is inside:\n\n1. Forty prompts for real business jobs: answering a customer, writing a post from notes, a product description, a reply to a complaint, a proposal, a follow-up, a price reply, a handover note.\n\n2. A section on keeping your voice, because the thing that gives AI away is not the facts, it is the rhythm.\n\n3. A list of what not to paste in, including anything about a customer you have not met yet.\n\n4. What to check before you send anything out.\n\n5. A one-page prompt card you can print and keep by the phone.\n\nIt is a desk, not a subscription. Nothing renews, nothing is emailed to you.\n\nMessage PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 20:15 (optional)",
+          "body": "The AI Prompt Desk, ₦5,000, and the part I am most careful about is the part that tells you what not to do.\n\nForty prompts for real work. A section on keeping your voice, because what gives AI away is rhythm rather than facts. A list of what not to paste in, including anything about a customer you have not met. What to check before you send. And a one-page card to keep by the phone.\n\nThat last list is the one I would keep if I could only keep one. Most people will get the value from the prompts in an afternoon. The value from knowing what to check before you send a message out on a company's behalf arrives later, and it arrives quietly.\n\nWhatsApp: 0905 069 0837. Message PROMPTS."
+        }
+      },
+      {
+        "id": "D13-11",
+        "type": "Direct response",
+        "topic": "Send us your link",
+        "why": "Direct response. It converts attention into a message to Easywurld, which is the business goal of the whole channel.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 20s",
+          "hook": "Here is the easiest way to start with us. It is free.",
+          "beats": [
+            "Send your link",
+            "Your name, one line",
+            "Within 24 hours",
+            "A voice note, three points",
+            "No sales call"
+          ],
+          "vo": "Here is the easiest way to start with us, and it is free. Send your link, your business name, and one line about what you sell. Within twenty-four hours you get a voice note and three points. What is costing you enquiries, what to fix first, and what to leave alone. No charge, no sales call, no list. And if the answer is that you do not need a website yet, that is what you will hear.",
+          "cap": "The easiest way to start with us is free.\n\nSend: your link, your business name, one line about what you sell.\n\nWithin 24 hours: a voice note and three points. No sales call.",
+          "tags": ["#Easywurld", "#FreeReview", "#SmallBusinessNigeria", "#LagosBusiness"],
+          "asset": "Cream background, three lines, terracotta tick, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "The easiest way to start\nwith us is free.",
+            "Send: your link,\nyour business name,\none line about what you sell.",
+            "Within 24 hours:",
+            "A voice note and three points.",
+            "No charge. No sales call.\nWhatsApp 0905 069 0837"
+          ],
+          "cap": "The three points are: what is costing you enquiries, what to fix first, and what to leave alone.\n\nThe third one is usually the biggest. Most pages need less work than people think, and hearing that early saves everybody time.",
+          "tags": ["#Easywurld", "#FreeReview", "#LagosSME", "#SmallBusinessTips"],
+          "asset": "Cream slides, deep green serif, terracotta rule."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "The easiest way to start with us is free.\n\nSend three things on WhatsApp: your link, your business name, and one line about what you sell.\n\nWithin 24 hours you get a voice note and three points:\n\n1. What is costing you enquiries.\n2. What to fix first.\n3. What to leave alone.\n\nNo charge. No sales call. No list, no spam. If you have a site you are unhappy with, or no site and a social page instead, both are fine.\n\nAnd if the honest answer is that you do not need a website yet, that is what you will hear, and you will not be chased afterwards.\n\nSend your link: WhatsApp 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      }
+    ]
+  }
+]
