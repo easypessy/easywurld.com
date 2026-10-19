@@ -73,7 +73,7 @@ Est. value = hours × ₦5,000 per hour. It is an estimate of the work, not a pr
 | File | Where | Notes |
 |---|---|---|
 | How To Post & Schedule A Month Ahead | https://docs.google.com/document/d/1gCtw_qUwDG4tBTvMhsqlZ8WO1SJiUlqiyF_QMandrEQ/edit | Times, batching, phone storage. |
-| Meme Bank (30 memes) | https://docs.google.com/document/d/1LOAExMKWhZk-9vqDTY10JMs7Wir3p45tUj6E2VJKdu8/edit | For the 2 meme slots a day. |
+| Meme Bank (all 37 memes) | https://docs.google.com/document/d/1LOAExMKWhZk-9vqDTY10JMs7Wir3p45tUj6E2VJKdu8/edit | Every meme in the month, with the exact words to type. |
 | Start Here | https://docs.google.com/document/d/1nGuLMP3F_oZbZciACUfjuEyMhx5rVitcQgqQ8K_ZwU0/edit | One page. Read it once. |
 | Offers Master (editable) | https://docs.google.com/document/d/1O567RH0kw_088UfNQO176I5RtiO4rc6-IoIa21bSYxA/edit | Same content as the PDF, editable. |
 | Prompt to rebuild the offers PDF | https://docs.google.com/document/d/1VOqhw-6BERRiMQuGwwem2EZpeB6tQvwom6mWcTaknmw/edit | Paste into Claude to regenerate the PDF. |

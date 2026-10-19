@@ -15454,6 +15454,21 @@ are the whole game
 > 
 > The full wording, and what to say when somebody asks you for a recommendation, are in the Lagos Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.
 
+### LinkedIn · 17:15 · Text post, 17:15
+
+> There is a specific way to ask for a referral that works, and it is not the way most people ask.
+> 
+> Never: recommend me to somebody. That is a request for a favour, and it puts the work of describing you onto somebody who is busy. Worse, it asks them to promote you, which is a different and larger thing than sharing.
+> 
+> Instead: who else do you know who might have this problem?
+> 
+> That is a question with an answer, and the answer can be no. Make it easy to refuse, because if somebody hesitates, they will not reply at all, and you have lost the second chance too.
+> 
+> And give them the sentence, because a referral with no words in it is just a name. "Tell them about the place on the corner that does same-day repairs" works. "Tell them about my business" does not.
+> 
+> The referral wording, the listing details, and what to say when somebody asks you for a recommendation are in the Lagos Local Visibility Starter, ₦5,000.
+> 
+> WhatsApp: 0905 069 0837. Message LOCAL.
 
 ---
 
@@ -15517,7 +15532,7 @@ you a rewrite
 > 
 > Message CLEAR on WhatsApp: 0905 069 0837.
 
-### LinkedIn · 17:15 · Text post, 20:15 (optional)
+### LinkedIn · 20:15 (optional) · Text post, 20:15 (optional)
 
 > Do not buy the Clear Homepage Blueprint if you do not have a homepage yet.
 > 
@@ -15593,6 +15608,9366 @@ might have this problem?"
 > 
 > If you want the wording that does not make you sound desperate, and the answer to what to do when somebody asks you for a recommendation, the Lagos Local Visibility Starter is ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.
 
+
+---
+
+
+# Day 20 · Saturday · Saturday 7 Nov 2026 — Working with other people
+
+**Offer in focus:** LOCAL + TEMPLATES
+
+---
+
+
+## Post 01 · The four kinds of help a small business needs
+
+**Type:** Teach · **Why it works:** Teach. It helps them identify the gap they actually have, which is the first step to fixing it.
+
+### TikTok · 07:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> There are four kinds of help a small business needs. You probably need one of them, not all four.
+
+**On-screen beats**
+- 1 · Hands (someone does it)
+- 2 · Eyes (someone looks at it)
+- 3 · A system (so it happens again)
+- 4 · Knowledge (so you can do it)
+
+**Voiceover script**
+> There are four kinds of help a small business needs, and you probably need one of them rather than all four. Hands: somebody does the work. Eyes: somebody looks at it and tells you what is wrong. A system: so it happens the same way next time without you. And knowledge: so you can do it yourself in a year. The mistake is paying for hands when you needed knowledge, and paying for knowledge when you needed hands.
+
+**Caption**
+> Four kinds of help a small business needs:
+> 
+> 1 · Hands — somebody does it
+> 2 · Eyes — somebody looks and says what is wrong
+> 3 · A system — so it repeats without you
+> 4 · Knowledge — so you can do it yourself
+> 
+> Paying for hands when you needed knowledge is the expensive mistake.
+
+**Hashtags:** #SmallBusinessNigeria #Easywurld #BusinessTips #FreelanceLagos
+
+**Visual:** Cream background, four numbered lines, terracotta tick on the fourth, mark bottom right.
+
+### Instagram · 07:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Four kinds of help a small business needs.
+2. 1 · Hands somebody does it
+3. 2 · Eyes somebody looks and says what is wrong
+4. 3 · A system so it repeats without you
+5. 4 · Knowledge so you can do it yourself
+6. Paying for hands when you needed knowledge is the expensive mistake.
+
+**Caption**
+> And the reverse is also expensive: paying a consultant for knowledge when you needed hands.
+> 
+> The AI Prompt Desk is the knowledge option, ₦5,000, message PROMPTS on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessTips #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 08:00 · Feed post
+
+> There are four kinds of help a small business needs, and you probably need one of them rather than all four.
+> 
+> 1. Hands. Somebody does the work.
+> 2. Eyes. Somebody looks at it and tells you what is wrong.
+> 3. A system. So it happens the same way next time, without you.
+> 4. Knowledge. So you can do it yourself in a year.
+> 
+> The expensive mistake is paying for hands when you needed knowledge. You spend money every month on something that was supposed to teach you. And the other expensive mistake is paying a consultant for knowledge when you needed hands, and then being too proud to ask for the actual doing.
+> 
+> Be honest about which one this month needs.
+> 
+> The Chat-to-Customer Playbook is a system, ₦5,000, message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 08:15 · Text post, 08:15
+
+> There are four kinds of help a small business needs:
+> 
+> Hands. Somebody does the work.
+> 
+> Eyes. Somebody looks at it and tells you what is wrong.
+> 
+> A system. So it happens the same way next time, without you.
+> 
+> Knowledge. So you can do it yourself in a year.
+> 
+> Most owners can only see the first one, so they buy it, and then they wonder why they are dependent.
+> 
+> The expensive mistake is paying for hands when you needed knowledge. You spend every month on something that was supposed to make you less dependent, and you end up more dependent than when you started.
+> 
+> The other expensive mistake is the reverse: paying a consultant for knowledge when you needed hands, and then being too proud to say so, because admitting you needed somebody to do it feels like admitting you cannot.
+> 
+> The honest question is not what can I afford. It is which of these four does this month need.
+> 
+> The Chat-to-Customer Playbook, ₦5,000, is a system: the flow, the scripts, the tracker, so it repeats without you. The AI Prompt Desk, ₦5,000, is knowledge. The Website Launch & Care Handbook is knowledge. Most of what we do as projects is hands, and we will say which one we are selling you.
+> 
+> WhatsApp: 0905 069 0837.
+
+---
+
+
+## Post 02 · My business partner, according to me in 2019
+
+**Type:** Meme · **Why it works:** Meme. A very relatable and funny take on partnerships, which is the day's subject.
+
+### TikTok · 09:15 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> My business partner, according to me in 2019
+
+**On-screen beats**
+- "We will split everything 50/50"
+- That was the plan
+- That was the whole plan
+- There was no second part
+
+**Voiceover script**
+> My business partner, according to me in 2019: we will split everything fifty fifty. That was the plan. That was the whole plan. There was no second part. Every partnership I have seen fail was decided in one conversation on a Tuesday, with a drink in hand, and no document. And every partnership that worked had one page, written down, while they were still friends.
+
+**Caption**
+> "We will split everything 50/50."
+> 
+> That was the plan. That was the whole plan. There was no second part.
+> 
+> Every partnership that worked had one page, written down, while they were still friends.
+
+**Hashtags:** #Meme #Easywurld #SmallBusinessNigeria #Relatable
+
+**Visual:** Four-panel meme, cream background, deep green type, terracotta on the last panel.
+
+### Instagram · 10:00 · Static meme post, 4:5
+
+**Slide copy**
+1. My business partner, according to me in 2019:
+2. "We will split everything 50/50"
+3. That was the plan.
+4. That was the whole plan.
+5. There was no second part.
+6. Every partnership that worked had one page, written down, while they were still friends.
+
+**Caption**
+> The one-page partnership agreement is in the Proposal & Report Template Pack, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #Relatable
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 10:30 · Feed post
+
+> My business partner, according to me in 2019:
+> 
+> "We will split everything 50/50."
+> 
+> That was the plan. That was the whole plan. There was no second part.
+> 
+> Every partnership I have watched fail was decided in one conversation, on a Tuesday, with a drink in hand, and no document. And every partnership that worked had one page, written down, while they were still friends and still talking normally.
+> 
+> One page. Four things: what you are building, how the work splits, how the money splits, and how either of you leaves.
+> 
+> That template is in the Proposal & Report Template Pack, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 03 · We credit everybody who did the work
+
+**Type:** Trust · **Why it works:** Trust. It shows professional integrity in a small city where that is often in short supply.
+
+### TikTok · 11:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> If we build a site with you, your name is on it. Not in a footnote.
+
+**On-screen beats**
+- We do not take the credit
+- Not in a portfolio piece
+with their logo
+and no name
+- If the photographer
+shot the pictures,
+we say so
+- It costs us nothing
+and it means something
+
+**Voiceover script**
+> If we build something with you, your name is on it. Not in a footnote. If the photographer shot the pictures, we say the photographer shot the pictures. If you wrote the copy and we built the page, the page says you wrote the copy. It costs us nothing and it means something, because a portfolio where nobody is credited is a portfolio where nobody should trust the work. We are not claiming to be the people who make every pixel. That is not modesty, it is accuracy.
+
+**Caption**
+> If we build something with you, your name is on it. Not in a footnote.
+> 
+> If the photographer shot the pictures, we say the photographer shot the pictures.
+> 
+> A portfolio where nobody is credited is a portfolio nobody should trust.
+
+**Hashtags:** #Easywurld #HonestBusiness #SmallBusinessNigeria #SampleBuild
+
+**Visual:** Talking head, plain shirt, warm light, brand mark lower right.
+
+### Instagram · 12:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. If we build something with you, your name is on it.
+2. Not in a footnote.
+3. If the photographer shot the pictures, we say the photographer shot the pictures.
+4. If you wrote the copy and we built the page, the page says you wrote the copy.
+5. It costs us nothing and it means something.
+
+**Caption**
+> Not modesty. Accuracy. A portfolio where nobody is credited is a portfolio nobody should trust.
+> 
+> Every piece in ours is also labelled a concept project or sample build. Both things are true at once.
+
+**Hashtags:** #Easywurld #HonestBusiness #LagosSME #SampleBuild
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 12:00 · Feed post
+
+> If we build something with you, your name is on it. Not in a footnote.
+> 
+> If the photographer shot the pictures, we say the photographer shot the pictures. If you wrote the copy and we built the page, the page says you wrote the copy. If you brought the business and we brought the strategy, the project says both.
+> 
+> It costs us nothing and it means something, because a portfolio where nobody is credited is a portfolio nobody should trust. People are quietly learning to read the work in a way that tells them who to hire next time, and you want to be in that reading.
+> 
+> This is not modesty, it is accuracy. We are not claiming to be the people who made every pixel.
+> 
+> And the other half of it: every piece in our portfolio is labelled a concept project or sample build, because the two are true at the same time. The work is ours to show, and it is not a client engagement.
+
+### LinkedIn · 12:15 · Text post, 12:15
+
+> If we build something with you, your name is on it. Not in a footnote.
+> 
+> If the photographer shot the pictures, we say the photographer shot the pictures. If you wrote the copy and we built the page, the page says you wrote the copy.
+> 
+> It costs us nothing and it means something, because a portfolio where nobody is credited is a portfolio nobody should trust. People are quietly learning to read work in a way that tells them who to hire next time, and you want to be in that reading.
+> 
+> This is not modesty. It is accuracy. We are not claiming to have made every pixel, and pretending to have is a small lie that makes the real work harder to believe.
+> 
+> The other half of it: every piece in our portfolio is labelled a concept project or sample build, because both are true at once. The work is ours to show, and it is not a client engagement.
+> 
+> Forty-nine sample builds so far. Every one labelled, every credit given.
+> 
+> WhatsApp: 0905 069 0837 if you want a free 24-hour review of your own page.
+
+---
+
+
+## Post 04 · How to work with somebody you hired
+
+**Type:** Teach · **Why it works:** Teach. It addresses the frustration of every owner who has hired help, and it is unusually specific.
+
+### TikTok · 13:45 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> How to work with somebody you hired, so you do not end up resenting them by week three.
+
+**On-screen beats**
+- Give them the why, not just the what
+- Show them one good example
+- Say who decides, and when
+- And never ask for changes
+without a reason
+
+**Voiceover script**
+> How to work with somebody you hired, so you do not end up resenting them by week three. Give them the why, not just the what, because the same instruction gets done four different ways if the reason is missing. Show them one good example, because examples beat descriptions. Say who decides and when, so nobody is waiting for permission. And never ask for a change without a reason, because a change with no reason reads as a complaint about the person, not about the work.
+
+**Caption**
+> How to work with somebody you hired:
+> 
+> 1 · Give the why, not just the what
+> 2 · Show one good example
+> 3 · Say who decides, and when
+> 4 · Never ask for a change without a reason
+> 
+> A change with no reason reads as a complaint about the person.
+
+**Hashtags:** #SmallBusinessNigeria #Easywurld #BusinessTips #FreelanceLagos
+
+**Visual:** Cream background, four numbered lines, terracotta tick on the fourth, mark bottom right.
+
+### Instagram · 14:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. How to work with somebody you hired.
+2. 1 · Give the why, not just the what
+3. 2 · Show one good example
+4. 3 · Say who decides, and when
+5. 4 · Never ask for a change without a reason
+6. A change with no reason reads as a complaint about the person, not about the work.
+
+**Caption**
+> A one-page brief with the why, the example and the decision rights is in the Proposal & Report Template Pack, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessTips #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 13:30 · Feed post
+
+> How to work with somebody you hired, so you do not end up resenting them by week three.
+> 
+> 1. Give them the why, not just the what. The same instruction gets done four different ways if the reason is missing, and then you are correcting four things instead of one.
+> 
+> 2. Show them one good example. Examples beat descriptions, every time, and it takes ten minutes to show something you already like.
+> 
+> 3. Say who decides, and when. Nobody should be waiting for permission to make a small call.
+> 
+> 4. Never ask for a change without a reason. A change with no reason reads as a complaint about the person, not about the work, and people respond to that.
+> 
+> The one-page brief that covers the first two is in the Proposal & Report Template Pack, ₦5,000, with the proposal, the project plan and the partnership agreement. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 05 · The collaboration that did not work, and the one that did
+
+**Type:** Story · **Why it works:** Story. An honest comparison, with no claim of results, and it teaches the difference.
+
+### TikTok · 15:00 · Talking head, 30s
+
+**Hook (0-3s)**
+> We tried two collaborations. One worked. Here is the difference.
+
+**On-screen beats**
+- The first one:
+we both did everything
+- The second one:
+one thing each,
+and a date
+- That was it
+- That was the whole difference
+
+**Voiceover script**
+> We tried two collaborations. The first one failed, and it failed because we both did everything, so nobody owned anything and the thing died in week five. The second one worked, and the difference was that each of us did one thing, we wrote it down, and we put a date on it. That was it. That was the whole difference. A collaboration is not two people being friendly, it is two people each owning a thing, with a date.
+
+**Caption**
+> We tried two collaborations. The first failed because we both did everything, so nobody owned anything and it died in week five.
+> 
+> The second worked. One thing each, written down, with a date on it.
+> 
+> A collaboration is two people each owning a thing, with a date.
+
+**Hashtags:** #Easywurld #Story #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 15:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. We tried two collaborations.
+2. The first failed: we both did everything, so nobody owned anything.
+3. It died in week five.
+4. The second worked: one thing each, written down, with a date on it.
+5. A collaboration is two people each owning a thing, with a date.
+
+**Caption**
+> One page, four clauses: what you are building, how the work splits, how the money splits, how either of you leaves.
+> 
+> It is in the Proposal & Report Template Pack, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #Story #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 15:00 · Feed post
+
+> We tried two collaborations. Here is the difference, because we got the first one wrong in a way we see all the time.
+> 
+> The first failed. We both did everything. Nobody owned anything, so every decision needed both of us, and the thing died in week five. Not from conflict. From nothing moving.
+> 
+> The second worked. One thing each, written down, with a date on it. That was the entire difference.
+> 
+> A collaboration is not two people being friendly. It is two people each owning a thing, with a date. The friendliness is not what makes it survive.
+> 
+> One page, four clauses: what you are building, how the work splits, how the money splits, how either of you leaves. The agreement template is in the Proposal & Report Template Pack, ₦5,000.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 06 · The Lagos Local Visibility Starter, and finding local partners
+
+**Type:** Offer · **Why it works:** Offer. It ties the pack to a business outcome: people who can send you customers.
+
+### TikTok · 16:30 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> You do not need more followers. You need five businesses within a kilometre of you.
+
+**On-screen beats**
+- Who is already sending
+customers to you
+- Who could be sending
+customers to you
+- And the question that
+starts the conversation
+
+**Voiceover script**
+> You do not need more followers. You need five businesses within a kilometre of you. The Lagos Local Visibility Starter has the map question: who is already sending customers to you, and who could be sending customers to you, because a person who sends people to you is worth more than a page with a thousand followers. It also has the question that starts the conversation with another business owner, and what to do on the first call. Five thousand naira.
+
+**Caption**
+> You do not need more followers. You need five businesses within a kilometre of you.
+> 
+> The Lagos Local Visibility Starter has the map question, the partner question, and what to say on the first call.
+> 
+> ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837
+
+**Hashtags:** #Easywurld #DigitalDownloads #LocalSEO #SmallBusinessNigeria
+
+**Visual:** Cream background, a map sketch with terracotta pins, mark bottom right.
+
+### Instagram · 17:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. You do not need more followers.
+2. You need five businesses within a kilometre of you.
+3. Who is already sending customers to you?
+4. Who could be sending customers to you?
+5. A person who sends people to you is worth more than a page with a thousand followers.  ₦5,000, message LOCAL on WhatsApp: 0905 069 0837
+
+**Caption**
+> It also has the question that starts the conversation with another business owner, and what to say on the first call, which is where most collaborations die.
+> 
+> Message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #LocalSEO
+
+**Visual:** Cream slides, deep green serif, terracotta pins, mark bottom right.
+
+### Facebook · 16:30 · Feed post
+
+> You do not need more followers. You need five businesses within a kilometre of you.
+> 
+> The Lagos Local Visibility Starter, ₦5,000, is built on that idea:
+> 
+> 1. Who is already sending customers to you? You would be surprised how few people can name three.
+> 2. Who could be sending customers to you, and does not know you exist yet?
+> 3. The question that starts the conversation with them, which is not can we collaborate, it is who do you usually send people to.
+> 4. What to say on the first call, because that is where most collaborations die, in the first thirty seconds of two people being vague.
+> 5. The listing details people search for, and how to ask for a referral without begging.
+> 6. A thirty-day plan you can keep.
+> 
+> It is built for Lagos, with Lagos examples, because a generic local guide does not survive a market like this one.
+> 
+> Message LOCAL on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 16:15 · Text post, 16:15
+
+> You do not need more followers. You need five businesses within a kilometre of you.
+> 
+> A person who sends people to you is worth more than a page with a thousand followers, and the arithmetic is not close. The Lagos Local Visibility Starter, ₦5,000, is built on that idea:
+> 
+> Who is already sending customers to you? Most owners cannot name three.
+> 
+> Who could be sending customers to you and does not know you exist yet?
+> 
+> The question that starts the conversation, which is not can we collaborate. It is who do you usually send people to.
+> 
+> And what to say on the first call, because that is where most collaborations die, in the first thirty seconds of two people being vague about what they want.
+> 
+> Plus the listing details people search for, how to ask for a referral without begging, and a thirty-day plan.
+> 
+> It is built for Lagos with Lagos examples, because a generic local guide does not survive a market with this many markets in it.
+> 
+> WhatsApp: 0905 069 0837. Message LOCAL.
+
+---
+
+
+## Post 07 · Do not start a partnership with a friend
+
+**Type:** Hot take · **Why it works:** Hot take. A strong opinion that is carefully argued and respects the friendship.
+
+### TikTok · 18:00 · Talking head, 30s
+
+**Hook (0-3s)**
+> Do not start a partnership with a friend. I will explain, and I say that as somebody who has made the mistake.
+
+**On-screen beats**
+- You cannot say no
+to your friend
+- You cannot fire your friend
+- You cannot be angry
+- So you write it down
+- Before, not after
+
+**Voiceover script**
+> Do not start a partnership with a friend. I say that as somebody who has made the mistake. You cannot say no to your friend without a cost. You cannot fire your friend. You cannot be properly angry, so the resentment sits there for two years. You cannot raise the price in year two without it becoming a whole thing. The fix is not to avoid your friends. The fix is one page, written down, while you are still speaking normally.
+
+**Caption**
+> Do not start a partnership with a friend.
+> 
+> You cannot say no without a cost. You cannot fire them. You cannot be properly angry. You cannot raise the price in year two without it becoming a whole thing.
+> 
+> The fix is not to avoid your friends. The fix is one page, written down, while you are still speaking normally.
+
+**Hashtags:** #HotTake #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 18:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Do not start a partnership with a friend.
+2. You cannot say no to your friend.
+3. You cannot fire your friend.
+4. You cannot be properly angry.
+5. So you write it down.  Before, not after.
+
+**Caption**
+> The one-page partnership agreement is in the Proposal & Report Template Pack, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #HotTake #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 18:00 · Feed post
+
+> Do not start a partnership with a friend. I say that as somebody who has made the mistake.
+> 
+> You cannot say no to your friend without a cost. You cannot fire your friend. You cannot be properly angry, so the resentment sits there for two years. You cannot raise the price in year two without it becoming a whole thing about the friendship rather than about the work.
+> 
+> None of that means you should avoid your friends, and it does not mean partnerships with friends are doomed. It means the ordinary protections you would put in place with a stranger have to be put in place deliberately, because with a friend you will skip them.
+> 
+> One page, four clauses: what you are building, how the work splits, how the money splits, how either of you leaves. Write it down while you are still speaking normally, because the conversation is much harder after the first argument.
+> 
+> The agreement template is in the Proposal & Report Template Pack, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 08 · The person doing three jobs
+
+**Type:** Relatable · **Why it works:** Relatable. It names the real structure of a small business, and it leads into the systems argument.
+
+### TikTok · 19:00 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> Small business job titles
+
+**On-screen beats**
+- CEO, CMO, CFO
+- Head of Sales, Ops,
+Customer Service,
+- Delivery, and the
+WhatsApp
+- Also the one who fixes
+the generator
+
+**Voiceover script**
+> Small business job titles: CEO, CMO, CFO, head of sales, head of operations, customer service, delivery, and the WhatsApp. Also the one who fixes the generator. And the thing is, none of those are jobs. They are all symptoms of the same missing thing, which is a process that does not need you in the room. That is the whole argument for writing things down, and everybody thinks it is about paperwork.
+
+**Caption**
+> Small business job titles: CEO, CMO, CFO, head of sales, head of ops, customer service, delivery, and the WhatsApp. Also the one who fixes the generator.
+> 
+> None of those are jobs. They are all symptoms of the same missing thing: a process that does not need you in the room.
+
+**Hashtags:** #Meme #Easywurld #SmallBusinessNigeria #Relatable
+
+**Visual:** Four-panel meme, cream background, deep green type, terracotta on the last line.
+
+### Instagram · 19:30 · Static meme post, 4:5
+
+**Slide copy**
+1. Small business job titles:
+2. CEO, CMO, CFO
+3. Head of sales, ops, customer service, delivery,
+4. and the WhatsApp
+5. Also the one who fixes the generator
+6. None of those are jobs. They are symptoms of the same missing thing: a process that does not need you in the room.
+
+**Caption**
+> That is the argument for writing things down, and everybody thinks it is about paperwork. It is about not being the only person who can do it.
+> 
+> The Chat-to-Customer Playbook does it for the chat, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #Relatable
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 19:30 · Feed post
+
+> Small business job titles: CEO, CMO, CFO, head of sales, head of ops, customer service, delivery, and the WhatsApp. Also the one who fixes the generator.
+> 
+> None of those are jobs. They are all symptoms of the same missing thing, which is a process that does not need you in the room.
+> 
+> And that is what writing things down actually is, which everybody gets wrong. It is not paperwork. It is the difference between a business that runs and a job you have built around yourself.
+> 
+> Start with the one that eats your evenings. For most people that is the chat, and the Chat-to-Customer Playbook, ₦5,000, is a flow, 36 scripts and a tracker, so somebody else could answer a message while you sleep.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 09 · How to scope a freelancer in one page
+
+**Type:** Teach · **Why it works:** Teach. A one-page scoping method that prevents the most common expensive mistake.
+
+### TikTok · 20:00 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> How to scope a freelancer in one page, so nobody can be blamed later.
+
+**On-screen beats**
+- What is done, in plain words
+- What is not done
+- What you provide
+- What it costs and when
+- And who decides
+
+**Voiceover script**
+> How to scope a freelancer in one page, so nobody can be blamed later. What is done, in plain words a stranger would understand. What is not done, because that is the list people forget and then argue about in month two. What you provide, because a project stalls waiting for your photos and your passwords. What it costs and when. And who decides. One page, and it is the cheapest insurance in small business.
+
+**Caption**
+> How to scope a freelancer in one page:
+> 
+> 1 · What is done, in plain words
+> 2 · What is not done
+> 3 · What you provide
+> 4 · What it costs and when
+> 5 · Who decides
+> 
+> One page, and it is the cheapest insurance in small business.
+
+**Hashtags:** #SmallBusinessNigeria #Easywurld #BusinessTips #FreelanceLagos
+
+**Visual:** Cream background, five numbered lines, terracotta tick on the fifth, mark bottom right.
+
+### Instagram · 20:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. How to scope a freelancer in one page.
+2. 1 · What is done, in plain words a stranger understands
+3. 2 · What is not done
+4. 3 · What you provide
+5. 4 · What it costs and when
+6. 5 · Who decides
+7. The second point is the one people forget, and it is the one you argue about in month two.
+
+**Caption**
+> The brief, the proposal and the partnership agreement are in the Template Pack, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessTips #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 20:15 · Feed post
+
+> How to scope a freelancer in one page, so nobody can be blamed later.
+> 
+> 1. What is done, in plain words a stranger would understand.
+> 2. What is not done. This is the one people forget, and it is the one you argue about in month two.
+> 3. What you provide, because most projects stall waiting for somebody's photos, passwords and decisions.
+> 4. What it costs and when.
+> 5. Who decides, and who to ask when it is not urgent.
+> 
+> One page. It is the cheapest insurance in small business, and it takes an hour.
+> 
+> The brief, the proposal and the partnership agreement are in the Proposal & Report Template Pack, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The Template Pack, and the brief that saves a project
+
+**Type:** Offer · **Why it works:** Offer. A third angle on the pack that highlights the most overlooked item in it.
+
+### TikTok · 20:45 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> The most useful file in the Template Pack is the one nobody expects. The client brief.
+
+**On-screen beats**
+- One page, five questions
+- It replaces three calls
+- And it stops the project
+starting from assumptions
+- ₦5,000, message TEMPLATES
+
+**Voiceover script**
+> The most useful file in the Template Pack is the one nobody expects: the client brief. One page, five questions, and it replaces three calls. Fill it in, send it, and the project starts from answers instead of assumptions. It is the difference between a project that starts on Monday and one that starts in three weeks after everybody remembers the same thing differently. Five thousand naira, message TEMPLATES on WhatsApp.
+
+**Caption**
+> The most useful file in the Template Pack is the one nobody expects: the client brief.
+> 
+> One page, five questions. It replaces three calls.
+> 
+> ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837
+
+**Hashtags:** #Easywurld #DigitalDownloads #BusinessTemplates #SmallBusinessNigeria
+
+**Visual:** Cream background, a one-page brief mock, terracotta accent, mark bottom right.
+
+### Instagram · 20:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The most useful file in the Template Pack is the one nobody expects:
+2. The client brief.
+3. One page, five questions.
+4. It replaces three calls, and it stops the project starting from assumptions.
+5. ₦5,000, message TEMPLATES on WhatsApp: 0905 069 0837
+
+**Caption**
+> The difference between a project that starts on Monday and one that starts in three weeks, after everybody remembers the same thing differently.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #BusinessTemplates
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 21:00 · Feed post
+
+> The most useful file in the Proposal & Report Template Pack is the one nobody expects: the client brief.
+> 
+> One page, five questions, and it replaces three calls. Fill it in, send it, and the project starts from answers instead of assumptions.
+> 
+> That is the difference between a project that starts on Monday and one that starts in three weeks, after everybody remembers the same thing differently and the person who is paying has changed their mind about the scope without telling anybody.
+> 
+> The pack, ₦5,000:
+> 
+> 1. Client brief. One page, five questions.
+> 2. Proposal. Four pages, price on page one.
+> 3. Report. The section order that keeps a tired reader going.
+> 4. Project plan. Milestones and sign-off points.
+> 5. Monthly status report.
+> 6. Partnership agreement. One page, four clauses.
+> 7. Feedback form.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 17:15 · Text post, 17:15
+
+> The most useful file in the Proposal & Report Template Pack, ₦5,000, is the one nobody expects: the client brief.
+> 
+> One page, five questions, and it replaces three calls.
+> 
+> That is the difference between a project that starts on Monday and one that starts in three weeks, after everybody remembers the same thing differently and the person paying has quietly changed the scope without telling anybody.
+> 
+> The cost of a brief is an hour. The cost of skipping it is a project that is three weeks late and nobody can say why, because the assumptions were never written down anywhere.
+> 
+> The pack also has the proposal, the report, the project plan, the status report, the partnership agreement and the feedback form, all editable, all with the prompt beside the blank.
+> 
+> WhatsApp: 0905 069 0837. Message TEMPLATES.
+
+---
+
+
+## Post 11 · Name three businesses you have never worked with
+
+**Type:** Direct response · **Why it works:** Direct response. It asks for a reply, which drives comments, and it is the first step to a referral partner.
+
+### TikTok · 21:30 · Kinetic type with voiceover, 20s
+
+**Hook (0-3s)**
+> Name three businesses within a kilometre of you. You have never worked with.
+
+**On-screen beats**
+- If you cannot name three,
+your customers have
+no easy way to find you
+- If you can, what do you sell
+them?
+- That is the whole exercise
+- And it takes 60 seconds
+
+**Voiceover script**
+> Name three businesses within a kilometre of you that you have never worked with. If you cannot name three, your customers have no easy way to find you. If you can, what do you sell them? That is the whole exercise, and it takes sixty seconds. The answer is usually a hairdresser, a pharmacist, a tailor, a mechanic, a food spot, a gym. Every one of them already has a customer who needs what you sell. Nobody has introduced you.
+
+**Caption**
+> Name three businesses within a kilometre of you that you have never worked with.
+> 
+> If you cannot name three, your customers have no easy way to find you.
+> 
+> If you can: what do you sell them? That is the whole exercise. 60 seconds.
+
+**Hashtags:** #Easywurld #LocalSEO #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, a simple map with three terracotta pins, mark bottom right.
+
+### Instagram · 21:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Name three businesses within a kilometre of you that you have never worked with.
+2. If you cannot name three, your customers have no easy way to find you.
+3. If you can: what do you sell them?
+4. That is the whole exercise.
+5. 60 seconds. And the answer is usually a hairdresser, a pharmacist, a mechanic, a gym.
+
+**Caption**
+> Every one of them already has a customer who needs what you sell. Nobody has introduced you.
+> 
+> The Lagos Local Visibility Starter, ₦5,000, message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #LagosSME #LocalSEO #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta pins.
+
+### Facebook · 21:45 · Feed post
+
+> Name three businesses within a kilometre of you that you have never worked with.
+> 
+> If you cannot name three, your customers have no easy way to find you. If you can, the next question is what do you sell them? And that is the whole exercise. Sixty seconds.
+> 
+> The answer is usually a hairdresser, a pharmacist, a tailor, a mechanic, a food spot, a gym, a daycare.
+> 
+> Every one of them already has a customer who needs what you sell. Nobody has introduced you, because introducing people to each other is work, and nobody gets paid for it, which is why the businesses that do it get the referrals.
+> 
+> The Lagos Local Visibility Starter, ₦5,000, has the partner question, the listing details and what to say on the first call. Message LOCAL on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 20:15 (optional) · Text post, 20:15 (optional)
+
+> Name three businesses within a kilometre of you that you have never worked with.
+> 
+> If you cannot name three, your customers have no easy way to find you. If you can, the next question is what do you sell them. That is the whole exercise, and it takes sixty seconds.
+> 
+> The answer is usually a hairdresser, a pharmacist, a tailor, a mechanic, a food spot, a gym, a daycare. Every one of them already has a customer who needs what you sell, and nobody has introduced you, because introducing people to each other is work and nobody gets paid for it.
+> 
+> The businesses that do it get the referrals.
+> 
+> The Lagos Local Visibility Starter, ₦5,000, has the partner question, the listing details and what to say on the first call.
+> 
+> WhatsApp: 0905 069 0837. Message LOCAL.
+
+---
+
+
+# Day 21 · Sunday · Sunday 8 Nov 2026 — Three weeks in, and the week ahead
+
+**Offer in focus:** PAGE + ENGINE + PLAYBOOK
+
+---
+
+
+## Post 01 · The three questions to ask at the end of a month
+
+**Type:** Teach · **Why it works:** Teach. It closes the month with a method, which is what turns activity into learning.
+
+### TikTok · 07:00 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> Three questions to ask at the end of a month of posting.
+
+**On-screen beats**
+- 1 · What did people reply to
+- 2 · What did people
+save or share
+- 3 · What did people ask
+for by message
+- The third one is the money
+
+**Voiceover script**
+> Three questions to ask at the end of a month of posting. One, what did people reply to. Two, what did people save or share, because that is the closest thing to a recommendation from a stranger. Three, what did people ask for by message, because that is the only one that turned into a conversation. The third one is the money. The first two are the leading indicators, and they are useful, but only one of them pays for the month.
+
+**Caption**
+> Three questions at the end of a month of posting:
+> 
+> 1 · What did people reply to
+> 2 · What did people save or share
+> 3 · What did people ask for by message
+> 
+> The third one is the money. The first two are the leading indicators.
+
+**Hashtags:** #ContentStrategy #SmallBusinessNigeria #Easywurld #Metrics
+
+**Visual:** Cream background, three numbered lines, terracotta tick on the third, mark bottom right.
+
+### Instagram · 07:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Three questions at the end of a month of posting.
+2. 1 · What did people reply to
+3. 2 · What did people save or share
+4. 3 · What did people ask for by message
+5. The third one is the money. The first two are the leading indicators, and they are useful, but only one of them pays for the month.
+
+**Caption**
+> The weekly review routine, in the Chat-to-Customer Playbook, does the small version of this every Friday. ₦5,000, message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #ContentStrategy #Easywurld #LagosSME #Metrics
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 08:00 · Feed post
+
+> Three questions to ask at the end of a month of posting.
+> 
+> 1. What did people reply to?
+> 2. What did people save or share?
+> 3. What did people ask for by message?
+> 
+> The third one is the money. The first two are the leading indicators, and they are genuinely useful, because a save is the closest thing to a recommendation from a stranger, and a reply is the closest thing to a friend telling you something.
+> 
+> But only one of them pays for the month, and if you only look at likes you will not see it.
+> 
+> The weekly version of this review, fifteen minutes on a Friday, is in the Chat-to-Customer Playbook, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 08:15 · Text post, 08:15
+
+> Three questions to ask at the end of a month of posting.
+> 
+> What did people reply to?
+> 
+> What did people save or share?
+> 
+> What did people ask for by message?
+> 
+> The third one is the money. The first two are leading indicators, and they are genuinely useful, because a save is the closest thing to a recommendation from a stranger, and a reply is the closest thing to a friend telling you something. But only one of them pays for the month.
+> 
+> This matters because the default metric in every social dashboard is the one that is easiest to report and least connected to money. Likes, reach, follower growth. A month of those is a month of feeling busy.
+> 
+> Ask the third question instead, and it changes what you make next month. A message is not a metric. It is a person who wanted something, and it tells you which subject to make more of.
+> 
+> The weekly version of this review, fifteen minutes on a Friday, is in the Chat-to-Customer Playbook, ₦5,000.
+> 
+> WhatsApp: 0905 069 0837. Message PLAYBOOK.
+
+---
+
+
+## Post 02 · What three weeks of this taught us about attention
+
+**Type:** Story · **Why it works:** Story. A reflective observation from the brand's own month, which builds closeness.
+
+### TikTok · 09:15 · Talking head, 30s
+
+**Hook (0-3s)**
+> Three weeks of posting this much taught us one thing about attention.
+
+**On-screen beats**
+- It is not that short
+- It is that the first line
+is doing all the work
+- The first line is a question
+- Or it is a specific number
+- Or it is a name
+
+**Voiceover script**
+> Three weeks of posting this much taught us one thing about attention. It is not that short posts work. It is that the first line is doing all the work. And the first line is not a teaser, it is a question, a specific number, or a name. Every post that struggled had a first line that was trying to be clever instead of being clear. That is it. That is the whole thing we learned this month.
+
+**Caption**
+> Three weeks of posting this much taught us one thing:
+> 
+> It is not that short posts work. It is that the first line is doing all the work.
+> 
+> And the first line is a question, a specific number, or a name. Not a teaser.
+
+**Hashtags:** #Easywurld #Story #ContentStrategy #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 10:00 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Three weeks of posting this much taught us one thing:
+2. It is not that short posts work.
+3. It is that the first line is doing all the work.
+4. And the first line is a question, a specific number, or a name.
+5. Every post that struggled had a first line trying to be clever instead of being clear.
+
+**Caption**
+> That is it. That is the whole thing we learned this month.
+> 
+> The 30-Day Content Engine has the hooks written that way, for 30 days. ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #Story #LagosSME #ContentStrategy
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 10:30 · Feed post
+
+> Three weeks of posting this much taught us one thing about attention.
+> 
+> It is not that short posts work. It is that the first line is doing all the work.
+> 
+> And the first line is a question, a specific number, or a name. Every post that struggled this month had a first line that was trying to be clever instead of being clear.
+> 
+> That sounds obvious. It is not, because clever is easier to write than clear. Clever is a joke, a pun, a wordplay. Clear is "we fixed phones in Yaba, same day while you wait", which takes an afternoon of thinking and one line of writing.
+> 
+> The 30-Day Content Engine has the first lines written that way, for all thirty days. ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 03 · The One-Offer Landing Page Kit, angle three
+
+**Type:** Offer · **Why it works:** Offer. A third angle on the pack: the objection block, which is the part most people skip.
+
+### TikTok · 11:30 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> The part of your page that loses people is the part you did not write.
+
+**On-screen beats**
+- The objection block
+- Three questions your customer
+is already asking
+- Answered on the page,
+before they ask
+- ₦5,000, message PAGE
+
+**Voiceover script**
+> The part of your page that loses people is the part you did not write. It is the objection block, and it is where your customer asks the three questions they are too polite to send: is this for me, is it worth the money, what happens if it goes wrong. If the page does not answer them, they are still asked, and they are answered in their own head, and the answer is no. The Landing Page Kit has the block, and the three questions. Five thousand naira.
+
+**Caption**
+> The part of your page that loses people is the part you did not write.
+> 
+> It is the objection block: is this for me, is it worth the money, what happens if it goes wrong.
+> 
+> If the page does not answer them, they are still answered. In the customer's head. And the answer is no.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LandingPage #SmallBusinessNigeria
+
+**Visual:** Cream background, a page diagram with a highlighted block, terracotta accent, mark bottom right.
+
+### Instagram · 12:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The part of your page that loses people is the part you did not write.
+2. It is the objection block:
+3. Is this for me?
+4. Is it worth the money?
+5. What happens if it goes wrong?
+6. Answer them on the page, before they ask.  ₦5,000, message PAGE on WhatsApp: 0905 069 0837
+
+**Caption**
+> If the page does not answer them, they are still asked, and they are answered in the customer's own head, and the answer is no.
+> 
+> Message PAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #LandingPage
+
+**Visual:** Cream slides, deep green serif, terracotta marks, mark bottom right.
+
+### Facebook · 12:00 · Feed post
+
+> The part of your page that loses people is the part you did not write.
+> 
+> It is the objection block, and it is where your customer asks the three questions they are too polite to send you:
+> 
+> 1. Is this for me?
+> 2. Is it worth the money?
+> 3. What happens if it goes wrong?
+> 
+> If the page does not answer them, they are still asked, and they are answered in the customer's own head, and the answer is no. That is why the quiet pages lose the sale, not the ugly ones.
+> 
+> The One-Offer Landing Page Kit, ₦5,000, has the objection block, the three questions, and the sentence to answer each one. Plus the page structure and twelve fill-in copy blocks.
+> 
+> Message PAGE on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 12:15 · Text post, 12:15
+
+> The part of your page that loses people is the part you did not write.
+> 
+> It is the objection block, and it is where the customer asks the three questions they are too polite to send you:
+> 
+> Is this for me?
+> Is it worth the money?
+> What happens if it goes wrong?
+> 
+> If the page does not answer them, they are still asked, and they are answered in the customer's own head, and the answer is no.
+> 
+> This is why the quiet pages lose the sale, not the ugly ones. The beautiful page with a missing answer beats the plain page with a clear one only in the short term, and only if somebody already knew they wanted it.
+> 
+> The One-Offer Landing Page Kit, ₦5,000, has the objection block, the three questions, and the sentence to answer each one, alongside the page structure and twelve fill-in copy blocks.
+> 
+> WhatsApp: 0905 069 0837. Message PAGE.
+
+---
+
+
+## Post 04 · My content plan versus my energy
+
+**Type:** Meme · **Why it works:** Meme. A funny, self-aware take that the whole audience recognises.
+
+### TikTok · 13:45 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> My content plan, and my actual energy
+
+**On-screen beats**
+- The plan: 4 posts a day
+- The energy:
+- One good post and
+something that is
+not a good post
+
+**Voiceover script**
+> My content plan, and my actual energy. The plan: four posts a day. The energy: one good post and something that is not a good post. Every content plan in the world is written by somebody with a good day. The only plans that survive December are the ones that assume you will have one good day and one bad day, and put the good one first.
+
+**Caption**
+> My content plan: 4 posts a day.
+> 
+> My actual energy: one good post and something that is not a good post.
+> 
+> Every plan is written on a good day. The ones that survive December assume one good day and one bad day, and put the good one first.
+
+**Hashtags:** #Meme #Easywurld #ContentStrategy #Relatable
+
+**Visual:** Two-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 14:15 · Static meme post, 4:5
+
+**Slide copy**
+1. My content plan: 4 posts a day
+2. My actual energy:
+3. One good post and something that is not a good post
+4. Every plan is written on a good day.
+5. The ones that survive December assume one good day and one bad day, and put the good one first.
+
+**Caption**
+> The 30-Day Content Engine is built on that assumption, with the mix already decided. ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #ContentStrategy
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 13:30 · Feed post
+
+> My content plan: 4 posts a day.
+> 
+> My actual energy: one good post and something that is not a good post.
+> 
+> Every content plan in the world is written by somebody having a good day. And that is fine, but the plans that survive December are the ones that assume you will have one good day and one bad day, and put the good one first.
+> 
+> Which is also why the mix matters more than the volume. If all four posts have to be good, you will not post four. If one of them can be a meme and one can be a repost of something you already made, then you can still post on the bad days, and the good days do the work.
+> 
+> The 30-Day Content Engine, ₦5,000, has the mix already decided, with two easy posts a day built in. Message ENGINE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 05 · What we noticed in our own numbers this month
+
+**Type:** Trust · **Why it works:** Trust. Sharing the brand's own, modest, honest observations without fake proof.
+
+### TikTok · 15:00 · Talking head, 25s
+
+**Hook (0-3s)**
+> Three weeks in, here is what we noticed in our own numbers. Nothing dramatic.
+
+**On-screen beats**
+- Wednesday posts
+did better than Sunday
+- The teaching posts brought
+the messages, the memes
+brought the reach
+- And we changed
+our Sunday slot
+
+**Voiceover script**
+> Three weeks in, here is what we noticed in our own numbers. Nothing dramatic. Wednesday posts did better than Sunday. The teaching posts brought the messages, the memes brought the reach. And the afternoon LinkedIn slot outperformed the evening one, so we moved it. None of that is a rule, it is three weeks of one account, and we are sharing it because it is the kind of thing we normally keep to ourselves, and it is more useful to you than it is to us.
+
+**Caption**
+> Three weeks in, what we noticed in our own numbers. Nothing dramatic.
+> 
+> Wednesday posts did better than Sunday.
+> The teaching posts brought the messages, the memes brought the reach.
+> And the afternoon LinkedIn slot beat the evening one, so we moved it.
+> 
+> Three weeks of one account is not a rule. It is still more useful than nothing.
+
+**Hashtags:** #Easywurld #HonestBusiness #Metrics #ContentStrategy
+
+**Visual:** Talking head, plain shirt, warm light, brand mark lower right.
+
+### Instagram · 15:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Three weeks in, what we noticed in our own numbers.
+2. Nothing dramatic.
+3. Wednesday posts did better than Sunday.
+4. The teaching posts brought the messages. The memes brought the reach.
+5. And the afternoon LinkedIn slot beat the evening one, so we moved it.
+
+**Caption**
+> Three weeks of one account is not a rule. It is still more useful than nothing, and it is the kind of thing we normally keep to ourselves.
+> 
+> What are you noticing in yours? Reply and tell us.
+
+**Hashtags:** #Easywurld #HonestBusiness #LagosSME #Metrics
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 15:00 · Feed post
+
+> Three weeks in, here is what we noticed in our own numbers. Nothing dramatic.
+> 
+> 1. Wednesday posts did better than Sunday.
+> 2. The teaching posts brought the messages, the memes brought the reach.
+> 3. The afternoon LinkedIn slot outperformed the evening one, so we moved it.
+> 
+> That is three weeks of one account, which is not a rule and we will not pretend it is. But it is the kind of thing we normally keep to ourselves, and it is more useful to you than it is to us.
+> 
+> The number that actually moved was the second one. Two teaching posts a day is what brings people in, and two memes a day is what keeps them from leaving, which is why the mix is not a compromise. It is the mechanism.
+> 
+> What are you noticing in yours? Reply and tell us, we read all of them.
+
+### LinkedIn · 16:15 · Text post, 16:15
+
+> Three weeks in, here is what we noticed in our own numbers. Nothing dramatic.
+> 
+> Wednesday posts did better than Sunday.
+> 
+> The teaching posts brought the messages, the memes brought the reach.
+> 
+> The afternoon LinkedIn slot outperformed the evening one, so we moved it.
+> 
+> That is three weeks of one account, which is not a rule and I will not pretend it is. But it is the kind of thing we normally keep to ourselves, and it is more useful to you than it is to us.
+> 
+> The one that actually moved was the second. Two teaching posts a day is what brings people in. Two memes a day is what keeps them from leaving. Which is why the mix is not a compromise between usefulness and reach. It is the mechanism.
+> 
+> That is also the argument for the 30-Day Content Engine, ₦5,000: the daily mix, 3 teaching, 2 meme, 2 trust, 2 offer, 1 story, 1 hot take, is built on the assumption that the teaching brings them in and the memes keep them.
+> 
+> WhatsApp: 0905 069 0837. Message ENGINE.
+
+---
+
+
+## Post 06 · The 30-Day Content Engine, angle three
+
+**Type:** Offer · **Why it works:** Offer. A third angle: the handover training, which speaks to the owner who will not be around.
+
+### TikTok · 16:30 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> The part of the Content Engine nobody expects: handover training.
+
+**On-screen beats**
+- So somebody else
+can keep it going
+- When you are not there
+- When you are tired
+- When you are on holiday
+- ₦5,000, message ENGINE
+
+**Voiceover script**
+> The part of the Content Engine nobody expects is the handover training. Because the plan you cannot hand to somebody else is not a system, it is a dependency. How to brief the person who will post it, what they can decide alone, what they must ask you about, and what to do when the week goes wrong and there is no time. Five thousand naira, message ENGINE on WhatsApp.
+
+**Caption**
+> The part of the Content Engine nobody expects is the handover training.
+> 
+> Because a plan you cannot hand to somebody else is not a system, it is a dependency.
+> 
+> ₦5,000. Message ENGINE on WhatsApp: 0905 069 0837
+
+**Hashtags:** #Easywurld #DigitalDownloads #ContentStrategy #SmallBusinessNigeria
+
+**Visual:** Cream background, a handover note mock, terracotta accent, mark bottom right.
+
+### Instagram · 17:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The part of the Content Engine nobody expects:
+2. The handover training.
+3. How to brief the person who will post it.
+4. What they can decide alone, and what they must ask you.
+5. And what to do when the week goes wrong and there is no time.  ₦5,000, message ENGINE on WhatsApp: 0905 069 0837
+
+**Caption**
+> A plan you cannot hand to somebody else is not a system, it is a dependency.
+> 
+> Message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #ContentStrategy
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 16:30 · Feed post
+
+> The part of the 30-Day Content Engine nobody expects is the handover training.
+> 
+> Because a plan you cannot hand to somebody else is not a system, it is a dependency. You are the plan, and the business only runs when you are awake and in the mood.
+> 
+> Inside it: how to brief the person who will post it, what they can decide on their own, what they must ask you about, and what to do when the week goes wrong and there is no time. Plus the content pillars, the caption frameworks, the grid direction and templates for people who are not designers.
+> 
+> The whole pack, ₦5,000, digital download, and you keep every file.
+> 
+> Message ENGINE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 07 · Consistency is not a virtue
+
+**Type:** Hot take · **Why it works:** Hot take. It challenges the gospel of posting every day with a better, more nuanced position.
+
+### TikTok · 18:00 · Talking head, 25s
+
+**Hook (0-3s)**
+> Consistency is not a virtue. I will explain what is instead.
+
+**On-screen beats**
+- Consistency means
+posting when you have
+nothing to say
+- That teaches people
+to ignore you
+- Being reliable is a virtue
+- Being predictable is not
+
+**Voiceover script**
+> Consistency is not a virtue. Consistency means posting when you have nothing to say, and after a while people learn that some posts are filler, and they start skipping them. Being reliable is a virtue. Being predictable is not. Show up when you have something, say clearly when you do not, and do not post a daily reminder of the fact that you are alive.
+
+**Caption**
+> Consistency is not a virtue.
+> 
+> It means posting when you have nothing to say. And after a while people learn which posts are filler, and they start skipping them.
+> 
+> Being reliable is a virtue. Being predictable is not.
+
+**Hashtags:** #HotTake #Easywurld #ContentStrategy #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 18:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Consistency is not a virtue.
+2. It means posting when you have nothing to say.
+3. And after a while people learn which posts are filler,
+4. and they start skipping them.
+5. Being reliable is a virtue. Being predictable is not.
+
+**Caption**
+> Show up when you have something, say clearly when you do not, and do not post a daily reminder of the fact that you are alive.
+> 
+> ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #HotTake #Easywurld #LagosSME #ContentStrategy
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 18:00 · Feed post
+
+> Consistency is not a virtue.
+> 
+> Consistency means posting when you have nothing to say, and after a few weeks people learn which posts are filler, and they start skipping them. The daily reminder that you still exist is worse than nothing, because it teaches people to scroll past you.
+> 
+> Being reliable is a virtue. Being predictable is not.
+> 
+> Show up when you have something. Say clearly when you do not. And never post a daily reminder of the fact that you are alive.
+> 
+> The 30-Day Content Engine, ₦5,000, is built around that, which is why the mix has two easy posts a day built in. It is not a volume plan. It is thirty days of things worth saying, with two slots you can fill on a bad day without lying to anybody.
+> 
+> Message ENGINE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 08 · How to review a month of posting in twenty minutes
+
+**Type:** Teach · **Why it works:** Teach. A practical method that makes the month self-improving, which is what the user needs to actually sustain this.
+
+### TikTok · 19:00 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> How to review a month of posting in twenty minutes, so month two is better than month one.
+
+**On-screen beats**
+- 10 min: the three best
+and the three worst
+- 5 min: the subject they
+had in common
+- 5 min: write the rule
+in one sentence
+- Then change the template
+
+**Voiceover script**
+> How to review a month of posting in twenty minutes, so month two is better than month one. Ten minutes: find the three best and the three worst, and write down why. Five minutes: look for the subject they have in common. Five minutes: write the rule in one sentence. And then change the template, not the effort. Month two is not about working harder, it is about removing the thing that was not working.
+
+**Caption**
+> How to review a month of posting in twenty minutes:
+> 
+> 10 min: the three best and the three worst, and why
+> 5 min: the subject they have in common
+> 5 min: write the rule in one sentence
+> 
+> Then change the template, not the effort.
+
+**Hashtags:** #ContentStrategy #Easywurld #SmallBusinessNigeria #ProductivityTips
+
+**Visual:** Cream background, a timer and a checklist, terracotta accents, mark bottom right.
+
+### Instagram · 19:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. How to review a month of posting in 20 minutes.
+2. 10 min: the three best and the three worst, and why
+3. 5 min: the subject they have in common
+4. 5 min: write the rule in one sentence
+5. Then change the template, not the effort.  Month two is not about working harder.
+
+**Caption**
+> The 30-Day Content Engine is a month you can review like this, because every post is written and dated, so the good and the bad are easy to find.
+> 
+> ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #ContentStrategy #Easywurld #LagosSME #ProductivityTips
+
+**Visual:** Cream slides, deep green serif, terracotta marks.
+
+### Facebook · 19:30 · Feed post
+
+> How to review a month of posting in twenty minutes, so month two is better than month one.
+> 
+> Ten minutes: find the three best and the three worst, and write down why each one worked or did not.
+> 
+> Five minutes: look for the subject they have in common.
+> 
+> Five minutes: write the rule in one sentence.
+> 
+> Then change the template, not the effort.
+> 
+> That last line is the whole point. Month two is not about working harder. It is about removing the one thing that was quietly not working, which is almost always smaller than you think, and almost always a format rather than a subject.
+> 
+> This is also the reason the 30-Day Content Engine has every post written and dated, so the good and the bad are easy to find, and month two is a real plan rather than a fresh start.
+> 
+> ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 09 · The Chat-to-Customer Playbook, the weekly review
+
+**Type:** Offer · **Why it works:** Offer. The weekly review routine as a standalone, which is a small, attractive entry point.
+
+### TikTok · 20:00 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> The 15 minute Friday review, and the four questions it asks.
+
+**On-screen beats**
+- How many chats came in
+- How many got a reply
+- What was the same question
+- What one thing to change
+on Monday
+- That is it
+
+**Voiceover script**
+> The fifteen minute Friday review, and the four questions it asks. How many chats came in. How many got a reply. What was the same question three times. And what one thing you will change on Monday. That is the entire review, and it is inside the Chat-to-Customer Playbook along with the tracker that gives you the numbers for the first two. Five thousand naira, message PLAYBOOK on WhatsApp.
+
+**Caption**
+> The 15 minute Friday review, and the four questions it asks:
+> 
+> 1 · How many chats came in
+> 2 · How many got a reply
+> 3 · What was the same question
+> 4 · What one thing to change on Monday
+> 
+> That is the entire review. It is in the Playbook, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837
+
+**Hashtags:** #Easywurld #DigitalDownloads #WhatsAppBusiness #SmallBusinessNigeria
+
+**Visual:** Cream background, a Friday checklist, terracotta ticks, mark bottom right.
+
+### Instagram · 20:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The 15 minute Friday review.
+2. 1 · How many chats came in 2 · How many got a reply
+3. 3 · What was the same question
+4. 4 · What one thing to change on Monday
+5. That is the entire review.  It is in the Playbook, with the tracker that gives you the numbers. ₦5,000.  Message PLAYBOOK on WhatsApp 0905 069 0837
+
+**Caption**
+> If a fifteen-minute Friday habit is all you can manage, that is enough. Most businesses that do this for a quarter are ahead of most businesses that do nothing for a year.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #WhatsAppBusiness
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 20:15 · Feed post
+
+> The fifteen-minute Friday review, and the four questions it asks.
+> 
+> 1. How many chats came in.
+> 2. How many got a reply.
+> 3. What was the same question three times this week.
+> 4. What one thing you will change on Monday.
+> 
+> That is the entire review. Fifteen minutes, Friday afternoon, done.
+> 
+> It is inside the Chat-to-Customer Playbook, ₦5,000, together with the tracker that gives you the numbers for the first two questions, which is the part people do not want to do by hand.
+> 
+> And it is worth saying plainly: if a fifteen-minute Friday habit is all you can manage, that is enough. Most businesses that do this for a quarter are well ahead of most businesses that do nothing for a year.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 17:15 · Text post, 17:15
+
+> The fifteen-minute Friday review, and the four questions it asks.
+> 
+> How many chats came in. How many got a reply. What was the same question three times this week. And what one thing you will change on Monday.
+> 
+> That is the entire review, and it is inside the Chat-to-Customer Playbook, ₦5,000, with the tracker that gives you the numbers for the first two questions.
+> 
+> The tracker exists because the first two questions are the ones people will not do by hand, and a review that depends on a number you cannot be bothered to look up does not happen.
+> 
+> It is also worth saying plainly: if a fifteen-minute Friday habit is all you can manage, that is enough. Most businesses that do this for a quarter are well ahead of most businesses that do nothing for a year. Consistency is a word people use to avoid saying small.
+> 
+> WhatsApp: 0905 069 0837. Message PLAYBOOK.
+
+---
+
+
+## Post 10 · The business that burned out posting
+
+**Type:** Relatable · **Why it works:** Relatable. A warning story that prevents the audience from quitting at week three.
+
+### TikTok · 20:45 · Talking head, 25s
+
+**Hook (0-3s)**
+> The business that burned out posting. It is a common story and it ends the same way.
+
+**On-screen beats**
+- Week 1: eleven posts,
+proud of itself
+- Week 3: four posts,
+frustrated with itself
+- Week 5: no posts,
+convinced it does not work
+- The problem was never
+the posting
+
+**Voiceover script**
+> The business that burned out posting. Week one, eleven posts, proud of itself. Week three, four posts, frustrated with itself. Week five, no posts, convinced social media does not work. The problem was never the posting. It was a plan that assumed a version of the owner that does not exist. The owner is also running the shop, and the plan did not have a bad day in it.
+
+**Caption**
+> Week 1: eleven posts, proud of itself.
+> Week 3: four posts, frustrated with itself.
+> Week 5: no posts, convinced social media does not work.
+> 
+> The problem was never the posting. It was a plan that assumed a version of the owner that does not exist.
+
+**Hashtags:** #Easywurld #Relatable #ContentStrategy #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 20:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The business that burned out posting.
+2. Week 1: eleven posts, proud of itself.
+3. Week 3: four posts, frustrated with itself.
+4. Week 5: no posts, convinced social media does not work.
+5. The problem was never the posting. It was a plan that assumed a version of the owner that does not exist.
+
+**Caption**
+> The owner is also running the shop. The plan did not have a bad day in it.
+> 
+> The 30-Day Content Engine has two easy posts a day built in, because a plan with no bad day in it does not survive week three. ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #Relatable #LagosSME #ContentStrategy
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 21:00 · Feed post
+
+> The business that burned out posting. It is a common story and it ends the same way.
+> 
+> Week one: eleven posts, proud of itself.
+> Week three: four posts, frustrated with itself.
+> Week five: no posts, convinced social media does not work.
+> 
+> And the conclusion is wrong, which is the problem. The problem was never the posting. It was a plan that assumed a version of the owner that does not exist. The owner is also running the shop, the delivery, the family, and the generator. The plan did not have a bad day in it.
+> 
+> A plan with a bad day in it looks less impressive on paper and works in real life. Two easy posts a day, one good post, and the rest optional.
+> 
+> That is how the 30-Day Content Engine is built, ₦5,000. Message ENGINE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 11 · What is coming in the last week
+
+**Type:** Direct response · **Why it works:** Direct response. It builds anticipation for the final week and gives a reason to stay.
+
+### TikTok · 21:30 · Kinetic type with voiceover, 20s
+
+**Hook (0-3s)**
+> The last week of the month. Here is what is in it.
+
+**On-screen beats**
+- The year-end push
+- The reviews, the referrals,
+the recommendation
+- The AI that actually
+helps on a Monday
+- And a month-two setup
+- So you are not starting
+from scratch
+
+**Voiceover script**
+> The last week of the month. Here is what is in it. The year-end push, so December is made rather than wished for. The reviews, the referrals and the recommendation, which is the cheapest growth channel in Lagos. The AI that actually helps on a Monday morning. And a month-two setup, so you are not starting from scratch next month. It is all written and dated. You can schedule the whole week and stop thinking about it.
+
+**Caption**
+> The last week of the month:
+> 
+> The year-end push, so December is made rather than wished for.
+> The reviews, the referrals, the recommendation.
+> The AI that actually helps on a Monday morning.
+> And a month-two setup, so you are not starting from scratch.
+> 
+> All written and dated.
+
+**Hashtags:** #Easywurld #ContentStrategy #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Cream background, a calendar page with the last week highlighted, terracotta accent, mark bottom right.
+
+### Instagram · 21:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The last week of the month.
+2. The year-end push, so December is made rather than wished for.
+3. The reviews, the referrals, the recommendation.
+4. The AI that actually helps on a Monday morning.
+5. And a month-two setup, so you are not starting from scratch.  All written and dated.
+
+**Caption**
+> Thirty days of it, dated from 19 October to 17 November. ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #LagosSME #ContentStrategy #SmallBusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta calendar highlight.
+
+### Facebook · 21:45 · Feed post
+
+> The last week of the month. Here is what is in it.
+> 
+> 1. The year-end push, so December is made rather than wished for.
+> 2. The reviews, the referrals and the recommendation, which is the cheapest growth channel in Lagos and the one nobody does properly.
+> 3. The AI that actually helps on a Monday morning, without you becoming a different person.
+> 4. A month-two setup, so you are not starting from scratch next month.
+> 
+> Everything is written and dated, so you can schedule the whole week and stop thinking about it.
+> 
+> The 30-Day Content Engine, ₦5,000. Message ENGINE on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 20:15 (optional) · Text post, 20:15 (optional)
+
+> The last week of the month. Here is what is in it.
+> 
+> The year-end push, so December is made rather than wished for. The reviews, the referrals and the recommendation, which is the cheapest growth channel in Lagos and the one nobody does properly. The AI that actually helps on a Monday morning, without you becoming a different person. And a month-two setup, so you are not starting from scratch next month.
+> 
+> Everything is written and dated, so you can schedule the whole week and stop thinking about it.
+> 
+> Thirty days of it, dated from 19 October to 17 November. The 30-Day Content Engine, ₦5,000.
+> 
+> WhatsApp: 0905 069 0837. Message ENGINE.
+
+---
+
+
+# Day 22 · Monday · Monday 9 Nov 2026 — Which pack do you actually need?
+
+**Offer in focus:** Routing guide + MESSAGE
+
+---
+
+
+## Post 01 · Which of the nine packs do you need?
+
+**Type:** Teach · **Why it works:** Teach. It removes the single biggest barrier to buying: not knowing which one to buy.
+
+### TikTok · 07:00 · Kinetic type with voiceover, 35s
+
+**Hook (0-3s)**
+> There are nine packs. Here is which one you need, in thirty seconds.
+
+**On-screen beats**
+- People are not clear what they sell → MESSAGE
+- People are clear but nobody finds them → LOCAL
+- People visit and leave → CLEAR
+- People cannot find what to post → ENGINE
+- People message but do not buy → PLAYBOOK
+
+**Voiceover script**
+> There are nine packs, and here is which one you need, in thirty seconds. If people cannot tell what you sell, get the Clear Message Workbook. If people know what you sell but cannot find you, get the Lagos Local Visibility Starter. If people visit your page and leave without understanding, get the Clear Homepage Blueprint. If you run out of ideas about what to post, get the 30-Day Content Engine. If people message you and you do not close, get the Chat-to-Customer Playbook. Five more, in the comments. Or reply and tell me your problem, and I will tell you.
+
+**Caption**
+> Which pack do you need?
+> 
+> · Cannot say what you sell → MESSAGE
+> · Known but not found → LOCAL
+> · Visit and leave → CLEAR
+> · No ideas to post → ENGINE
+> · Message but no sale → PLAYBOOK
+> 
+> Five more in the comments. Or reply and I will tell you.
+
+**Hashtags:** #Easywurld #BusinessTips #SmallBusinessNigeria #DigitalDownloads
+
+**Visual:** Cream background, a five-row routing list, terracotta arrows, mark bottom right.
+
+### Instagram · 07:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Which pack do you need? Nine packs, thirty seconds.
+2. Cannot say what you sell → MESSAGE
+3. Known but not found → LOCAL
+4. Visit and leave → CLEAR  No ideas to post → ENGINE  Message but no sale → PLAYBOOK
+5. Five more in the comments. Or reply and tell me your problem, and I will tell you which one.  All ₦5,000. WhatsApp: 0905 069 0837
+
+**Caption**
+> The other four: launching a website → LAUNCH. Launching one offer → PAGE. Sending documents to clients → TEMPLATES. Using AI and getting generic answers → PROMPTS.
+> 
+> All nine are ₦5,000, digital download, same-day.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta arrows, mark bottom right.
+
+### Facebook · 08:00 · Feed post
+
+> There are nine packs. Here is which one you need, in thirty seconds.
+> 
+> · You cannot explain what you sell → The Clear Message Workbook (MESSAGE)
+> · People know you but cannot find you → The Lagos Local Visibility Starter (LOCAL)
+> · People visit your page and leave → The Clear Homepage Blueprint (CLEAR)
+> · You run out of ideas about what to post → The 30-Day Content Engine (ENGINE)
+> · People message you and you do not close → The Chat-to-Customer Playbook (PLAYBOOK)
+> · You are planning a website → The Website Launch & Care Handbook (LAUNCH)
+> · You are launching one offer → The One-Offer Landing Page Kit (PAGE)
+> · You send proposals and reports → The Proposal & Report Template Pack (TEMPLATES)
+> · You use AI and get generic answers → The Everyday AI Prompt Desk (PROMPTS)
+> 
+> All nine are ₦5,000, digital download, and you get the file the same day. No consultation, no call, no waiting.
+> 
+> If you still cannot tell, reply here and tell me your business and what is going wrong. I will tell you which one, and if it is none of them, I will say that too.
+
+### LinkedIn · 08:15 · Text post, 08:15
+
+> There are nine packs. Here is which one you need, in thirty seconds.
+> 
+> You cannot explain what you sell in one sentence → The Clear Message Workbook.
+> 
+> People know you but cannot find you → The Lagos Local Visibility Starter.
+> 
+> People visit your page and leave without understanding it → The Clear Homepage Blueprint.
+> 
+> You run out of ideas about what to post → The 30-Day Content Engine.
+> 
+> People message you and you do not close → The Chat-to-Customer Playbook.
+> 
+> You are planning a website → The Website Launch & Care Handbook.
+> 
+> You are launching one offer and sending people to your bio → The One-Offer Landing Page Kit.
+> 
+> You send proposals and reports to clients → The Proposal & Report Template Pack.
+> 
+> You use AI and get generic answers → The Everyday AI Prompt Desk.
+> 
+> All nine are ₦5,000, digital download, and the file comes the same day. No consultation, no call, no waiting.
+> 
+> If you still cannot tell which one applies, reply here with your business and what is going wrong. I will tell you which one, and if it is none of them, I will say that too.
+> 
+> WhatsApp: 0905 069 0837.
+
+---
+
+
+## Post 02 · Me choosing between nine downloads
+
+**Type:** Meme · **Why it works:** Meme. It makes the choice funny and lowers the stakes around buying.
+
+### TikTok · 09:15 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> Me choosing between nine downloads at ₦5,000 each
+
+**On-screen beats**
+- "I only need one"
+- Two hours later
+- Four tabs open,
+two carts, and
+no idea where
+I started
+
+**Voiceover script**
+> Me choosing between nine downloads at five thousand naira each. I only need one. Two hours later: four tabs open, two carts, and no idea where I started. This is why we made the routing list. Because the person with the least time is the person most likely to buy the wrong thing and feel bad about it, and then never buy anything from us again.
+
+**Caption**
+> "I only need one."
+> 
+> Two hours later: four tabs open, two carts, and no idea where I started.
+> 
+> Which is why we made the routing list. The person with the least time is the one most likely to buy the wrong thing.
+
+**Hashtags:** #Meme #Easywurld #Relatable #DigitalDownloads
+
+**Visual:** Two-panel meme, cream background, deep green type, terracotta on the last line.
+
+### Instagram · 10:00 · Static meme post, 4:5
+
+**Slide copy**
+1. Me choosing between nine downloads at ₦5,000 each:
+2. "I only need one"
+3. Two hours later:
+4. Four tabs open, two carts, and no idea where I started
+5. The person with the least time is the one most likely to buy the wrong thing.
+
+**Caption**
+> That is why there is a routing list. Post one said which one matches which problem, and the comments have the other four.
+> 
+> WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #Relatable
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 10:30 · Feed post
+
+> Me choosing between nine downloads at ₦5,000 each.
+> 
+> "I only need one."
+> 
+> Two hours later: four tabs open, two carts, and no idea where I started.
+> 
+> That is the whole reason we made the routing list this morning. The person with the least time is the one most likely to buy the wrong thing, feel a bit silly about it, and then never buy anything from us again. We would rather you bought one thing that helped than four things that confused you.
+> 
+> So: nine packs, one routing list, and if you cannot tell, message us and we will tell you which one. And if it is none of them, we will say that too.
+> 
+> WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 03 · We would rather sell you nothing
+
+**Type:** Trust · **Why it works:** Trust. It is the strongest possible positioning claim and it is true.
+
+### TikTok · 11:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> We would rather sell you nothing than sell you the wrong thing.
+
+**On-screen beats**
+- And we will say so
+- If a pack will not fix it,
+we will tell you
+- If the problem is bigger
+than a download,
+we will tell you that too
+- You will still get
+the free review
+
+**Voiceover script**
+> We would rather sell you nothing than sell you the wrong thing. If a pack will not fix the problem, we will tell you. If the problem is bigger than a download, for instance if your business model does not work yet, we will tell you that too, because a ₦5,000 file is not going to fix that and pretending otherwise is just a sale. And even when the answer is no, you still get the free review, the three points, inside 24 hours. That is not a favour. It is how we would want to be treated.
+
+**Caption**
+> We would rather sell you nothing than sell you the wrong thing.
+> 
+> If a pack will not fix it, we will tell you. If the problem is bigger than a download, we will tell you that too.
+> 
+> And even when the answer is no, you still get the free review, three points, inside 24 hours.
+
+**Hashtags:** #Easywurld #HonestBusiness #SmallBusinessNigeria #FreeReview
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 12:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. We would rather sell you nothing than sell you the wrong thing.
+2. If a pack will not fix it, we will tell you.
+3. If the problem is bigger than a download, we will tell you that too.
+4. A ₦5,000 file cannot fix a business model that does not work yet. Pretending otherwise is just a sale.
+5. And even when the answer is no, you still get the free review, three points, inside 24 hours.
+
+**Caption**
+> That is not a favour. It is how we would want to be treated.
+> 
+> Send your link: website-builder-portfolio.vercel.app — and get a free 24-hour review.
+
+**Hashtags:** #Easywurld #HonestBusiness #LagosSME #FreeReview
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 12:00 · Feed post
+
+> We would rather sell you nothing than sell you the wrong thing.
+> 
+> If one of the packs will not fix your problem, we will tell you. If your problem is bigger than a download, for instance if the business model does not work yet, we will tell you that too, because a ₦5,000 file is not going to fix that, and pretending otherwise is just a sale.
+> 
+> And even when the answer is no, you still get the free review: send your link plus your business name and one line about what you do, and you get a voice note and three points inside 24 hours. No sales call, no pressure.
+> 
+> That is not a favour. It is how we would want to be treated, and it costs us nothing because the review is useful to us too.
+> 
+> WhatsApp: 0905 069 0837.
+
+### LinkedIn · 12:15 · Text post, 12:15
+
+> We would rather sell you nothing than sell you the wrong thing.
+> 
+> If one of the nine packs will not fix your problem, we will tell you. If the problem is bigger than a download, for instance if the business model does not work yet, we will tell you that too. A ₦5,000 file cannot fix that, and pretending otherwise is just a sale.
+> 
+> This is not a humblebrag, it is a routing decision. The person with the least time is the person most likely to buy the wrong thing, feel silly about it, and then never buy anything again. We would rather have one customer for five years than nine refunds and one bad review.
+> 
+> And even when the answer is no, you still get the free review: send your link, your business name and one line about what you do, and you get a voice note and three points inside 24 hours. No sales call.
+> 
+> That is not a favour. It is how we would want to be treated.
+> 
+> WhatsApp: 0905 069 0837.
+
+---
+
+
+## Post 04 · How to buy the right one, step by step
+
+**Type:** Teach · **Why it works:** Teach. It gives a simple, usable decision procedure rather than a list to stare at.
+
+### TikTok · 13:45 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> How to pick the right pack, in three steps. Do not skip the first one.
+
+**On-screen beats**
+- 1 · Name the actual problem
+in one sentence
+- 2 · Find the sentence
+that starts the same way
+- 3 · If two fit, buy
+the earlier step
+- Order: MESSAGE, LOCAL,
+CLEAR, ENGINE, PLAYBOOK
+
+**Voiceover script**
+> How to pick the right pack in three steps. One, name the actual problem in one sentence, in the words your customer would use, not your internal name for it. Two, find the sentence that starts the same way. Three, if two of them fit, buy the earlier step, because the order matters. Message, then local, then clear, then engine, then playbook. Fix the message before the traffic, or the traffic arrives at the wrong thing.
+
+**Caption**
+> How to pick the right pack, in three steps:
+> 
+> 1 · Name the actual problem in one sentence, in your customer's words
+> 2 · Find the sentence that starts the same way
+> 3 · If two fit, buy the earlier step
+> 
+> Order: MESSAGE → LOCAL → CLEAR → ENGINE → PLAYBOOK
+
+**Hashtags:** #Easywurld #BusinessTips #SmallBusinessNigeria #DigitalDownloads
+
+**Visual:** Cream background, three steps and an order line, terracotta arrows, mark bottom right.
+
+### Instagram · 14:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. How to pick the right pack. Three steps. Do not skip the first one.
+2. 1 · Name the actual problem in one sentence, in your customer's words, not your internal name for it.
+3. 2 · Find the sentence that starts the same way.
+4. 3 · If two fit, buy the everlier step.
+5. MESSAGE → LOCAL → CLEAR → ENGINE → PLAYBOOK  Fix the message before the traffic, or the traffic arrives at the wrong thing.
+
+**Caption**
+> All nine packs are ₦5,000, and the order matters more than the choice.
+> 
+> WhatsApp: 0905 069 0837 and say which one you picked, we will send it over.
+
+**Hashtags:** #Easywurld #LagosSME #BusinessTips #DigitalDownloads
+
+**Visual:** Cream slides, deep green serif, terracotta order line.
+
+### Facebook · 13:30 · Feed post
+
+> How to pick the right pack, in three steps. Do not skip the first one.
+> 
+> 1. Name the actual problem in one sentence, in the words your customer would use, not the internal name your team uses for it. "We are not converting" is not a customer problem. "People message and then disappear" is.
+> 
+> 2. Find the sentence that starts the same way. Every pack in our list starts with a symptom, so you match on symptoms, not on topics.
+> 
+> 3. If two of them fit, buy the earlier step, because the order matters.
+> 
+> The order: MESSAGE → LOCAL → CLEAR → ENGINE → PLAYBOOK.
+> 
+> Fix the message before the traffic, or the traffic arrives at the wrong thing and you blame the traffic.
+> 
+> All nine are ₦5,000, digital download, same day. WhatsApp: 0905 069 0837.
+
+### LinkedIn · 16:15 · Text post, 16:15
+
+> How to pick the right one, in three steps. Do not skip the first step.
+> 
+> Name the actual problem in one sentence, in the words your customer would use, not the internal name your team uses for it. "We are not converting" is not a customer problem. "People message and then disappear" is.
+> 
+> Find the sentence that starts the same way. Every one of our packs starts with a symptom, so you match on symptoms, not on topics.
+> 
+> And if two fit, buy the earlier step, because the order matters: Message, then Local, then Clear, then Engine, then Playbook.
+> 
+> Fix the message before the traffic, or the traffic arrives at the wrong thing and you end up blaming the traffic. That is the most expensive mistake in this list, because it costs you money twice, once for the traffic and once for the fix you never made.
+> 
+> All nine packs are ₦5,000, digital download, same day.
+> 
+> WhatsApp: 0905 069 0837.
+
+---
+
+
+## Post 05 · The Clear Message Workbook, and where to start
+
+**Type:** Offer · **Why it works:** Offer. It presents the first step in the sequence, which is the natural place for a new buyer to begin.
+
+### TikTok · 15:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Start here. The Clear Message Workbook, ₦5,000.
+
+**On-screen beats**
+- Before you fix the site,
+the ads, the posting
+- Decide what you say
+and to whom
+- The workbook has the
+interview kit
+- Six real questions
+- And the finished answers
+as an example
+
+**Voiceover script**
+> Start here. The Clear Message Workbook, five thousand naira. Before you fix the site, the ads or the posting, decide what you say and to whom. The workbook has the customer interview kit with six real questions you can ask this week, the finished answers as a worked example, your one-sentence positioning, a three-pillar message, a voice guide, ready-made bios and pitches, and a one-page marketing plan. It is the process we start every project with, before anything gets built.
+
+**Caption**
+> Start here: The Clear Message Workbook, ₦5,000.
+> 
+> Before you fix the site, the ads or the posting, decide what you say and to whom.
+> 
+> Six customer interview questions, a worked example, your one-sentence positioning, three pillars, a voice guide, ready-made bios and pitches, and a one-page plan.
+
+**Hashtags:** #Easywurld #DigitalDownloads #Branding #SmallBusinessNigeria
+
+**Visual:** Cream background, a positioning statement mock, terracotta accent, mark bottom right.
+
+### Instagram · 15:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Start here.
+2. The Clear Message Workbook
+3. Before you fix the site, the ads or the posting, decide what you say and to whom.
+4. Six interview questions you can ask this week, a worked example, your one-sentence positioning, three pillars, a voice guide, bios and pitches, and a one-page plan.
+5. ₦5,000. Message MESSAGE on WhatsApp: 0905 069 0837
+
+**Caption**
+> It is the process we start every project with, before anything gets built.
+> 
+> Message MESSAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #Branding
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 15:00 · Feed post
+
+> Start here: The Clear Message Workbook, ₦5,000.
+> 
+> Before you fix the site, the ads or the posting, decide what you say and to whom.
+> 
+> The pack:
+> 
+> 1. The customer interview kit, six real questions you can ask this week.
+> 2. A fully worked example, so you can see what finished answers look like.
+> 3. Your one-sentence positioning statement.
+> 4. A three-pillar message.
+> 5. A voice guide, so you sound the same on Monday and on Saturday.
+> 6. Ready-to-use bios and pitches.
+> 7. A one-page marketing plan.
+> 
+> This is the first step in the order, and it is the process we start every project with, before anything gets built. If you do this one, the other eight get easier.
+> 
+> Message MESSAGE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 06 · Nine products is too many, and that is our problem
+
+**Type:** Hot take · **Why it works:** Hot take. A candid, self-critical position that builds trust and is genuinely interesting.
+
+### TikTok · 16:30 · Talking head, 30s
+
+**Hook (0-3s)**
+> We have nine products. That is too many, and it is our fault, not yours.
+
+**On-screen beats**
+- Every extra choice
+is a place to stop
+- So we built a routing list
+- And we will tell you when
+none of them fits
+- That is the honest way
+to sell nine things
+
+**Voiceover script**
+> We have nine products. That is too many, and it is our fault, not yours. Every extra choice is a place to stop, and most people stop rather than decide. So we built a routing list, we put it at the top of this page, and we will tell you plainly when none of the nine fits your problem. Nine is one too many. We kept them because they are genuinely different jobs, and we made the choosing easy instead of pretending the problem does not exist.
+
+**Caption**
+> We have nine products. That is too many, and it is our fault.
+> 
+> Every extra choice is a place to stop, and most people stop rather than decide.
+> 
+> So we built a routing list, and we will tell you when none of them fits.
+
+**Hashtags:** #HotTake #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 17:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. We have nine products.
+2. That is too many, and it is our fault, not yours.
+3. Every extra choice is a place to stop, and most people stop rather than decide.
+4. So we built a routing list, we put it at the top of the page, and we tell you plainly when none of the nine fits.
+5. Nine is one too many. We made the choosing easy instead of pretending the problem does not exist.
+
+**Caption**
+> Message us with your problem and we will point you at one, or at none.
+> 
+> WhatsApp: 0905 069 0837.
+
+**Hashtags:** #HotTake #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 16:30 · Feed post
+
+> We have nine products. That is too many, and it is our fault, not yours.
+> 
+> Every extra choice is a place to stop, and most people stop rather than decide. Which is why, if you have ever stared at a shop window full of things and left with nothing, that is not you being indecisive. That is the shop being badly arranged.
+> 
+> So we did three things. We built a routing list that says which pack matches which symptom. We put it at the top of the page instead of the bottom. And we tell you plainly when none of the nine fits your problem, which happens, and which is fine.
+> 
+> Nine is one too many. We kept them because they are genuinely nine different jobs, and we made the choosing easy rather than pretending the problem does not exist.
+> 
+> WhatsApp: 0905 069 0837.
+
+### LinkedIn · 17:15 · Text post, 17:15
+
+> We have nine products. That is too many, and it is our fault, not yours.
+> 
+> Every extra choice is a place to stop, and most people stop rather than decide. If you have ever stood in front of a shop window full of things and left with nothing, that is not indecisiveness. That is a badly arranged shop.
+> 
+> So we did three things. We built a routing list that says which pack matches which symptom. We put it at the top of the page instead of the bottom, where the usual arrangement buries it. And we tell you plainly when none of the nine fits your problem, which happens, and which is fine.
+> 
+> Nine is one too many. We kept them because they are genuinely nine different jobs, not nine versions of the same thing. And we made the choosing easy rather than pretending the problem does not exist.
+> 
+> If you want the short version: Message first, then Local, then Clear, then Engine, then Playbook. The full list is on our site.
+> 
+> WhatsApp: 0905 069 0837.
+
+---
+
+
+## Post 07 · The forty saved posts and no plan
+
+**Type:** Relatable · **Why it works:** Relatable. It describes the exact state the Content Engine is for, and sets up the offer post later in the week.
+
+### TikTok · 18:00 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> Me with forty saved posts and a content plan of zero
+
+**On-screen beats**
+- Forty saved posts
+- Posted once, in March
+- And a folder called
+"ideas" with
+eleven things in it
+- All of them from 2024
+
+**Voiceover script**
+> Me with forty saved posts and a content plan of zero. Forty saved posts, posted once, in March. And a folder called ideas with eleven things in it, all of them from 2024. The problem was never ideas. Ideas are the easy part. The problem is that every post is a fresh decision, and a fresh decision every day is a decision you will eventually not make.
+
+**Caption**
+> Forty saved posts, posted once, in March.
+> 
+> A folder called "ideas" with eleven things in it, all of them from 2024.
+> 
+> The problem was never ideas. The problem is that every post is a fresh decision, and a fresh decision every day is a decision you will eventually not make.
+
+**Hashtags:** #Meme #Easywurld #Relatable #ContentStrategy
+
+**Visual:** Two-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 18:30 · Static meme post, 4:5
+
+**Slide copy**
+1. Me with forty saved posts and a content plan of zero
+2. Forty saved posts. Posted once, in March.
+3. A folder called "ideas" with eleven things in it,
+4. all of them from 2024
+5. The problem was never ideas. The problem is that every post is a fresh decision, and a fresh decision every day is a decision you will eventually not make.
+
+**Caption**
+> The 30-Day Content Engine, ₦5,000: pillars, 60 ideas, 25 hook formulas and a dated calendar. Message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #ContentStrategy
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 18:00 · Feed post
+
+> Me with forty saved posts and a content plan of zero.
+> 
+> Forty saved posts, posted once, in March. And a folder called "ideas" with eleven things in it, all of them from 2024.
+> 
+> The problem was never ideas. Ideas are the easy part, and everybody has a folder of them. The problem is that every post is a fresh decision, and a fresh decision every day is a decision you will eventually not make. Which is why the plans that fail are not the ones with bad ideas, they are the ones where you had to decide from nothing.
+> 
+> The fix is not more ideas. It is deciding once, in advance, and then only choosing from a list.
+> 
+> The 30-Day Content Engine, ₦5,000, has the pillars, sixty ideas, twenty-five hook formulas and a dated calendar you fill in one sitting. Message ENGINE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 08 · What is actually inside a ₦5,000 file
+
+**Type:** Trust · **Why it works:** Trust. It answers the price objection with the contents, not with sales pressure.
+
+### TikTok · 19:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> What is actually inside a ₦5,000 file from us.
+
+**On-screen beats**
+- Not a PDF of tips
+- A guide, a worksheet,
+and a template
+- Plus a worked example
+- And the prompts in the
+blank spaces
+- That is the part people
+do not expect
+
+**Voiceover script**
+> What is actually inside a ₦5,000 file from us. Not a PDF of tips. A guide, a worksheet and a template, plus a worked example, and the prompts written in the blank spaces, which is the part people do not expect. Every blank in every template has a sentence beside it telling you what to write and what a good answer looks like. That is the difference between a template and a form.
+
+**Caption**
+> What is actually inside a ₦5,000 file from us:
+> 
+> Not a PDF of tips.
+> A guide, a worksheet and a template.
+> Plus a worked example.
+> And the prompts written in the blank spaces.
+> 
+> That is the difference between a template and a form.
+
+**Hashtags:** #Easywurld #DigitalDownloads #HonestBusiness #SmallBusinessNigeria
+
+**Visual:** Cream background, a file contents list, terracotta ticks, mark bottom right.
+
+### Instagram · 19:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. What is actually inside a ₦5,000 file from us.
+2. Not a PDF of tips.
+3. A guide, a worksheet and a template.
+4. Plus a worked example, and the prompts written in the blank spaces.
+5. That is the difference between a template and a form.  Message us on WhatsApp 0905 069 0837
+
+**Caption**
+> Every blank has a sentence beside it telling you what to write and what a good answer looks like.
+> 
+> Message us on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #HonestBusiness
+
+**Visual:** Cream slides, deep green serif, terracotta ticks.
+
+### Facebook · 19:30 · Feed post
+
+> What is actually inside a ₦5,000 file from us.
+> 
+> Not a PDF of tips. A guide, a worksheet and a template, plus a worked example, and the prompts written in the blank spaces, which is the part people do not expect.
+> 
+> Every blank in every template has a sentence beside it telling you what to write and what a good answer looks like. That is the difference between a template and a form. A form makes you feel stupid if you do not know the answer. A template tells you how to find it.
+> 
+> For example, the client brief in the Proposal & Report Template Pack does not just say "project description". It says what a stranger would need to know to do this job without meeting you, and gives you a good example and a bad one.
+> 
+> All nine packs, ₦5,000, digital download, same day. WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 09 · Why we sell nine packs instead of one big one
+
+**Type:** Teach · **Why it works:** Teach. It explains the product architecture honestly, which is a common small-business question.
+
+### TikTok · 20:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Why we sell nine packs instead of one big bundle. The reason is not clever.
+
+**On-screen beats**
+- Because you only need one
+- A bundle of nine is ₦45,000
+and you will use one
+- And the one you need
+might be the last one
+on the list
+- So: buy the one
+you need today
+
+**Voiceover script**
+> Why we sell nine packs instead of one big bundle? The reason is not clever. Because you only need one. A bundle of nine is forty-five thousand naira, you will use one of them, and the one you need might be the last one on the list. So the honest thing is: buy the one you need today, and buy the next one next month, when you have finished the first. If you want all nine anyway, message us, we will do the price.
+
+**Caption**
+> Why nine packs and not one bundle? Because you only need one.
+> 
+> A bundle of nine is ₦45,000, you will use one, and the one you need might be the last one on the list.
+> 
+> Buy the one you need today. Buy the next one next month. If you want all nine, message us, we will do the price.
+
+**Hashtags:** #Easywurld #BusinessTips #DigitalDownloads #SmallBusinessNigeria
+
+**Visual:** Cream background, nine small boxes with one highlighted, terracotta accent, mark bottom right.
+
+### Instagram · 20:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Why we sell nine packs instead of one big bundle.
+2. Because you only need one.
+3. A bundle of nine is ₦45,000, you will use one, and the one you need might be the last one on the list.
+4. So: buy the one you need today, and the next one next month, when you have finished the first.
+5. If you want all nine anyway, message us. We will do the price.  WhatsApp: 0905 069 0837
+
+**Caption**
+> This is the boring, honest version and it works better than a bundle.
+> 
+> Message us on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #LagosSME #DigitalDownloads #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta price.
+
+### Facebook · 20:15 · Feed post
+
+> Why do we sell nine packs instead of one big bundle?
+> 
+> Because you only need one.
+> 
+> A bundle of nine is ₦45,000, you will use one of them, and the one you need might be the last one on the list. So the honest thing is: buy the one you need today, and buy the next one next month, when you have finished the first one properly.
+> 
+> Most people who buy the bundle never open six of them. They open one, feel busy, and never come back.
+> 
+> If you want all nine anyway, message us and we will do the price, and we will also tell you which order to open them in.
+> 
+> WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · How we built the routing list
+
+**Type:** Story · **Why it works:** Story. It shows the work behind the offer, which builds belief without claiming results.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> How we built the list that says which pack you need. It took one Saturday and a lot of arguing.
+
+**On-screen beats**
+- We wrote the symptom
+for each pack, first
+- In the customer's words
+- Then we tested whether
+any two started the same
+- And that is how we found
+the order
+
+**Voiceover script**
+> How we built the list that says which pack you need. It took one Saturday and a lot of arguing. We wrote the symptom for each pack first, in the customer's words, not ours. Then we tested whether any two of them started the same way, and the ones that did were the ones people were choosing wrongly. That is also how we found the order. And then we wrote the part that matters most, the line that says if it is none of them, say so.
+
+**Caption**
+> How we built the routing list: one Saturday and a lot of arguing.
+> 
+> We wrote the symptom for each pack first, in the customer's words. Then we tested whether any two started the same way. The ones that did were the ones people were choosing wrongly. That is also how we found the order.
+
+**Hashtags:** #Easywurld #Story #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 20:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. How we built the list that says which pack you need.
+2. One Saturday and a lot of arguing.
+3. We wrote the symptom for each pack first, in the customer's words, not ours.
+4. Then we tested whether any two of them started the same way.
+5. The ones that did were the ones people were choosing wrongly. That is also how we found the order.
+
+**Caption**
+> And then we wrote the part that matters most: the line that says if it is none of them, say so.
+> 
+> WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #Story #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 21:00 · Feed post
+
+> How we built the list that says which pack you need. It took one Saturday and a lot of arguing.
+> 
+> We wrote the symptom for each pack first, in the customer's words, not ours. Then we tested whether any two of them started the same way. The ones that did were the ones people were choosing wrongly, and that is also how we found the order they go in.
+> 
+> And then we wrote the part that matters most: the line that says, if it is none of them, say so.
+> 
+> That last line took the longest and it is the one we would keep if we could only keep one, because a business that tells you the truth when it costs them a sale is a business you can come back to.
+> 
+> The list is at the top of our site, and the packs are ₦5,000 each. WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 11 · Reply and we will pick the one for you
+
+**Type:** Direct response · **Why it works:** Direct response. It asks for a reply, which starts a real conversation and gives a warm lead.
+
+### TikTok · 21:30 · Kinetic type with voiceover, 20s
+
+**Hook (0-3s)**
+> Tell me your business and what is going wrong. I will tell you which one to buy.
+
+**On-screen beats**
+- Business name,
+what you sell,
+and the problem
+- That is all I need
+- I will tell you the pack
+or tell you it is none
+of them
+- And I will tell you
+what to do first
+
+**Voiceover script**
+> Tell me your business and what is going wrong, and I will tell you which one to buy. Business name, what you sell, and the problem. That is all I need. I will tell you the pack, or I will tell you it is none of the nine, and I will tell you what to do first, even if the answer is free and even if the answer is not us. Reply here, or send it on WhatsApp, 0905 069 0837.
+
+**Caption**
+> Tell me your business and what is going wrong, and I will tell you which one to buy.
+> 
+> Business name, what you sell, and the problem. That is all I need.
+> 
+> I will tell you the pack, or I will tell you it is none of the nine, and what to do first.
+> 
+> WhatsApp: 0905 069 0837
+
+**Hashtags:** #Easywurld #SmallBusinessNigeria #BusinessTips #DigitalDownloads
+
+**Visual:** Cream background, three short lines of a message, terracotta accent, mark bottom right.
+
+### Instagram · 21:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Tell me your business and what is going wrong.
+2. I will tell you which one to buy.
+3. Business name, what you sell, and the problem.
+4. That is all I need.
+5. I will tell you the pack, or I will tell you it is none of the nine, and what to do first.  WhatsApp: 0905 069 0837
+
+**Caption**
+> Even if the answer is free. Even if the answer is not us.
+> 
+> Message us on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #LagosSME #BusinessTips #DigitalDownloads
+
+**Visual:** Cream slides, deep green serif, terracotta marks.
+
+### Facebook · 21:45 · Feed post
+
+> Tell me your business and what is going wrong, and I will tell you which one to buy.
+> 
+> Business name, what you sell, and the problem. That is all I need.
+> 
+> I will tell you the pack, or I will tell you it is none of the nine, and what to do first. Even if the answer is free. Even if the answer is not us.
+> 
+> Reply here, or send it on WhatsApp: 0905 069 0837.
+> 
+> We answer these properly, so it may take a little while. We are a small studio and we do the replies ourselves.
+
+### LinkedIn · 20:15 (optional) · Text post, 20:15 (optional)
+
+> Tell me your business and what is going wrong, and I will tell you which one to buy.
+> 
+> Business name, what you sell, and the problem. That is all I need.
+> 
+> I will tell you the pack, or I will tell you it is none of the nine, and what to do first. Even if the answer is free. Even if the answer is not us.
+> 
+> Send it here, or on WhatsApp: 0905 069 0837. We answer these properly, so it may take a little while. We are a small studio and we do the replies ourselves.
+> 
+> All nine packs are ₦5,000, digital download, same day. But the routing is free, and it is the part that actually helps.
+
+---
+
+
+# Day 23 · Tuesday · Tuesday 10 Nov 2026 — The message before the machine
+
+**Offer in focus:** MESSAGE
+
+---
+
+
+## Post 01 · Your message is not your bio
+
+**Type:** Teach · **Why it works:** Teach. It separates the two things owners confuse most, and it is the first step of the sequence.
+
+### TikTok · 07:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Your message is not your Instagram bio. They do different jobs.
+
+**On-screen beats**
+- The bio is for the people
+who already found you
+- The message is for the
+person who has not
+- A bio describes,
+a message persuades
+- So describe in the bio
+and persuade everywhere else
+
+**Voiceover script**
+> Your message is not your Instagram bio. They do different jobs. The bio is for the people who already found you, and its job is to confirm they are in the right place. The message is for the person who has not found you yet, and its job is to make them believe you can do the thing they need. A bio describes. A message persuades. So describe in the bio, and persuade everywhere else.
+
+**Caption**
+> Your message is not your Instagram bio. They do different jobs.
+> 
+> The bio is for the people who already found you. The message is for the person who has not.
+> 
+> A bio describes. A message persuades.
+
+**Hashtags:** #Branding #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, two boxes side by side, terracotta arrow, mark bottom right.
+
+### Instagram · 07:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Your message is not your Instagram bio. They do different jobs.
+2. The bio is for the people who already found you.
+3. Its job is to confirm they are in the right place.
+4. The message is for the person who has not found you yet.
+5. A bio describes. A message persuades.  So describe in the bio and persuade everywhere else.
+
+**Caption**
+> The Clear Message Workbook, ₦5,000, starts with this separation. Message MESSAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Branding #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta arrow.
+
+### Facebook · 08:00 · Feed post
+
+> Your message is not your Instagram bio. They do different jobs, and mixing them is why so many pages feel unclear.
+> 
+> The bio is for the people who already found you. Its job is to confirm they are in the right place, and it should describe.
+> 
+> The message is for the person who has not found you yet. Its job is to make them believe you can do the thing they need, and it should persuade.
+> 
+> So describe in the bio, and persuade everywhere else: the first line of your site, the first line of your WhatsApp reply, the sentence you say when somebody asks what you do.
+> 
+> That separation is the first step in the Clear Message Workbook, ₦5,000. Message MESSAGE on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 08:15 · Text post, 08:15
+
+> Your message is not your Instagram bio. They do different jobs.
+> 
+> The bio is for the people who already found you. Its job is to confirm they are in the right place. It should describe.
+> 
+> The message is for the person who has not found you yet. Its job is to make them believe you can do the thing they need. It should persuade.
+> 
+> So describe in the bio, and persuade everywhere else: the first line of your site, the first line of your reply, the sentence you say when somebody asks what you do.
+> 
+> This matters more than it sounds, because most small businesses write one paragraph and paste it everywhere. The result is a page that describes the business to people who already know it, and says nothing to the person who needs to be persuaded.
+> 
+> The Clear Message Workbook, ₦5,000, starts with this separation, then builds your positioning statement, three pillars, voice guide, bios and pitches from it.
+> 
+> WhatsApp: 0905 069 0837. Message MESSAGE.
+
+---
+
+
+## Post 02 · Every bio I have ever written
+
+**Type:** Meme · **Why it works:** Meme. A funny, self-deprecating post that makes a real point about unclear bios.
+
+### TikTok · 09:15 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> Every bio I have ever written, in order
+
+**On-screen beats**
+- "We offer quality services"
+- "Your satisfaction is our
+priority"
+- "Empowering brands to
+unlock their potential"
+- And the one that worked:
+- "We fix phones in Yaba,
+same day while you wait"
+
+**Voiceover script**
+> Every bio I have ever written, in order. We offer quality services. Your satisfaction is our priority. Empowering brands to unlock their potential. And the one that worked: we fix phones in Yaba, same day while you wait. Same business, same work, same price. The only thing that changed is that the last one said what happens, where, and how long.
+
+**Caption**
+> Every bio I have ever written, in order:
+> 
+> "We offer quality services."
+> "Your satisfaction is our priority."
+> "Empowering brands to unlock their potential."
+> 
+> And the one that worked:
+> "We fix phones in Yaba, same day while you wait."
+> 
+> Same business, same price. Only the words changed.
+
+**Hashtags:** #Meme #Easywurld #Branding #Relatable
+
+**Visual:** Four-panel meme, cream background, deep green type, terracotta on the last panel.
+
+### Instagram · 10:00 · Static meme post, 4:5
+
+**Slide copy**
+1. Every bio I have ever written, in order:
+2. "We offer quality services"
+3. "Your satisfaction is our priority"
+4. "Empowering brands to unlock their potential"
+5. And the one that worked:
+6. "We fix phones in Yaba, same day while you wait"  Same business, same price. Only the words changed.
+
+**Caption**
+> The Clear Message Workbook shows you how to get from the first kind to the last kind, in about an hour.
+> 
+> ₦5,000, message MESSAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #Branding
+
+**Visual:** Four-panel meme, cream and deep green.
+
+### Facebook · 10:30 · Feed post
+
+> Every bio I have ever written, in order:
+> 
+> "We offer quality services."
+> "Your satisfaction is our priority."
+> "Empowering brands to unlock their potential."
+> 
+> And the one that worked: "We fix phones in Yaba, same day while you wait."
+> 
+> Same business, same work, same price, same people. The only thing that changed is that the last one said what happens, where, and how long.
+> 
+> The first three could describe any of ten businesses in Lagos. The fourth one could only describe this one. And that is the whole job of a message: not to sound good, but to be recognisable.
+> 
+> The Clear Message Workbook, ₦5,000, is how you get from the first kind to the last kind, in about an hour of actual work.
+> 
+> Message MESSAGE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 03 · We start every project with the message
+
+**Type:** Trust · **Why it works:** Trust. It shows the process behind the work, which is the brand's actual method.
+
+### TikTok · 11:30 · Talking head, 30s
+
+**Hook (0-3s)**
+> We start every project with the message, not the design. That is the order that saves money.
+
+**On-screen beats**
+- Understand, simplify,
+build, optimize
+- The first step takes
+a phone call, not
+a design fee
+- And it is free
+- You get three points
+in 24 hours
+
+**Voiceover script**
+> We start every project with the message, not the design. Understand, simplify, build, optimize. The first step takes a phone call, not a design fee, and it is free. You send your link, your business name and one line about what you do, and you get a voice note and three points inside twenty-four hours. Sometimes the three points are the whole project, and you have saved yourself the rest of it.
+
+**Caption**
+> We start every project with the message, not the design.
+> 
+> Understand, simplify, build, optimize.
+> 
+> The first step is free: send your link, your business name and one line, and get a voice note and three points within 24 hours. Sometimes the three points are the whole project.
+
+**Hashtags:** #Easywurld #Process #SmallBusinessNigeria #FreeReview
+
+**Visual:** Talking head, plain shirt, warm light, brand mark lower right.
+
+### Instagram · 12:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. We start every project with the message, not the design.
+2. Understand, simplify, build, optimize.
+3. The first step takes a phone call, not a design fee.
+4. And it is free.
+5. Send your link, your business name and one line, and get a voice note and three points within 24 hours.
+
+**Caption**
+> Sometimes the three points are the whole project, and you have saved yourself the rest of it.
+> 
+> website-builder-portfolio.vercel.app
+
+**Hashtags:** #Easywurld #Process #LagosSME #FreeReview
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 12:00 · Feed post
+
+> We start every project with the message, not the design. That is the order that saves money.
+> 
+> Understand. Simplify. Build. Optimize.
+> 
+> The first step takes a phone call, not a design fee, and it is free. You send your link, your business name and one line about what you do, and you get a voice note and three points inside twenty-four hours.
+> 
+> And sometimes the three points are the whole project. Somebody sends us a link, we tell them the headline is wrong, the first screen does not say what they sell, and there is no way to buy, and that is it, they fix those three things and their enquiries change. That is a better outcome for them and it did not need a website rebuild.
+> 
+> Send your link: website-builder-portfolio.vercel.app. Free, 24 hours, no sales call.
+
+### LinkedIn · 12:15 · Text post, 12:15
+
+> We start every project with the message, not the design. That is the order that saves money.
+> 
+> Understand. Simplify. Build. Optimize.
+> 
+> The first step takes a phone call, not a design fee, and it is free. You send your link, your business name and one line about what you do, and you get a voice note and three points inside twenty-four hours.
+> 
+> Sometimes the three points are the whole project. Somebody sends us a link and we tell them the headline does not say what they sell, the first screen has no next step, and there is no way to buy. They fix those three things and their enquiries change. That is a better outcome for them, and it did not need a website rebuild.
+> 
+> We do not always say this in sales conversations because it does not make us money, but it is the honest position and it is the reason people come back.
+> 
+> Free review: website-builder-portfolio.vercel.app
+> 
+> WhatsApp: 0905 069 0837.
+
+---
+
+
+## Post 04 · The Clear Message Workbook, what is in it
+
+**Type:** Offer · **Why it works:** Offer. It lists the contents, which is what closes the sale for a digital product.
+
+### TikTok · 13:45 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> What is inside the Clear Message Workbook, ₦5,000.
+
+**On-screen beats**
+- The customer interview kit,
+six questions
+- Your one-sentence
+positioning
+- Three pillars
+- A voice guide, so you sound
+the same every day
+- Bios, pitches,
+and a one-page plan
+
+**Voiceover script**
+> What is inside the Clear Message Workbook, five thousand naira. The customer interview kit with six questions. Your one-sentence positioning. Three pillars. A voice guide, so you sound the same on Monday and on Saturday. Ready-made bios and pitches, and a one-page marketing plan at the end. It is the file we start every project with, and the file we wish clients had read before they came to us.
+
+**Caption**
+> What is inside the Clear Message Workbook, ₦5,000:
+> 
+> The customer interview kit, six questions.
+> Your one-sentence positioning.
+> Three pillars.
+> A voice guide, so you sound the same on Monday and Saturday.
+> Bios, pitches, and a one-page marketing plan.
+
+**Hashtags:** #Easywurld #DigitalDownloads #Branding #SmallBusinessNigeria
+
+**Visual:** Cream background, a contents list, terracotta ticks, mark bottom right.
+
+### Instagram · 14:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. What is inside the Clear Message Workbook.
+2. The customer interview kit, six questions
+3. Your one-sentence positioning, and three pillars
+4. A voice guide, so you sound the same on Monday and Saturday
+5. Bios, pitches, and a one-page marketing plan at the end.  ₦5,000. Message MESSAGE on WhatsApp: 0905 069 0837
+
+**Caption**
+> It is the file we start every project with, and the file we wish clients had read before they came to us.
+> 
+> Message MESSAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #Branding
+
+**Visual:** Cream slides, deep green serif, terracotta ticks, mark bottom right.
+
+### Facebook · 13:30 · Feed post
+
+> What is inside the Clear Message Workbook, ₦5,000.
+> 
+> 1. The customer interview kit, six questions you can ask this week.
+> 2. A fully worked example, so you see what finished answers look like.
+> 3. Your one-sentence positioning statement.
+> 4. A three-pillar message.
+> 5. A voice guide, so you sound the same on Monday and on Saturday.
+> 6. Ready-made bios and pitches.
+> 7. A one-page marketing plan.
+> 
+> It is the file we start every project with, and it is the file we wish clients had read before they came to us.
+> 
+> Message MESSAGE on WhatsApp: 0905 069 0837. You get the file the same day.
+
+
+---
+
+
+## Post 05 · The three pillars of a message
+
+**Type:** Teach · **Why it works:** Teach. A simple framework that makes an abstract idea usable today.
+
+### TikTok · 15:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> A message that works has three pillars. Here they are.
+
+**On-screen beats**
+- 1 · Who it is for
+- 2 · What changes for them
+- 3 · Why you, and not
+the next one
+- Three pillars,
+not thirty points
+
+**Voiceover script**
+> A message that works has three pillars. One, who it is for, described the way the customer would describe themselves, not the way you would. Two, what changes for them, in a way that is specific enough to check. Three, why you and not the next one, which must be true and must be defensible. Three pillars, not thirty points. If you cannot fill all three, you are not ready to write the page yet.
+
+**Caption**
+> A message that works has three pillars:
+> 
+> 1 · Who it is for, in their words
+> 2 · What changes for them, specifically enough to check
+> 3 · Why you and not the next one, and it must be true
+> 
+> Three pillars, not thirty points.
+
+**Hashtags:** #Branding #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, three pillars, terracotta numbers, mark bottom right.
+
+### Instagram · 15:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. A message that works has three pillars.
+2. 1 · Who it is for, in their words, not yours
+3. 2 · What changes for them, specific enough to check
+4. 3 · Why you and not the next one, and it must be true
+5. Three pillars, not thirty points.
+6. If you cannot fill all three, you are not ready to write the page yet.
+
+**Caption**
+> The Clear Message Workbook builds all three, with a worked example. ₦5,000, message MESSAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Branding #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 15:00 · Feed post
+
+> A message that works has three pillars.
+> 
+> 1. Who it is for, described the way the customer would describe themselves, not the way you would.
+> 
+> 2. What changes for them, specific enough to be checked. Not better service, not quality, not experience. The thing that is different on a Tuesday.
+> 
+> 3. Why you and not the next one. This has to be true and it has to be defensible, because you will be asked.
+> 
+> Three pillars, not thirty points.
+> 
+> If you cannot fill all three, you are not ready to write the page yet, and that is a good thing to know before you pay somebody to write it for you.
+> 
+> The Clear Message Workbook, ₦5,000, builds all three, with a fully worked example. Message MESSAGE on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 16:15 · Text post, 16:15
+
+> A message that works has three pillars.
+> 
+> Who it is for, described the way the customer would describe themselves, not the way you would.
+> 
+> What changes for them, specific enough to be checked. Not better service, not quality, not experience. The thing that is different on a Tuesday.
+> 
+> And why you and not the next one, which has to be true and has to be defensible, because you will be asked.
+> 
+> Three pillars, not thirty points.
+> 
+> If you cannot fill all three, you are not ready to write the page yet. That is a good thing to know before you pay somebody to write it for you.
+> 
+> The Clear Message Workbook, ₦5,000, builds all three, with a fully worked example, and adds the interview kit that fills them with real answers instead of guesses.
+> 
+> WhatsApp: 0905 069 0837. Message MESSAGE.
+
+---
+
+
+## Post 06 · Your tagline is not your strategy
+
+**Type:** Hot take · **Why it works:** Hot take. A sharp, defensible opinion that separates decoration from substance.
+
+### TikTok · 16:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> Your tagline is not your strategy. It is decoration on top of one.
+
+**On-screen beats**
+- A tagline is what you say
+after the strategy
+- If the strategy is missing,
+the tagline is a guess
+- And a guess in three words
+is very hard to correct
+- So fix the sentence first
+
+**Voiceover script**
+> Your tagline is not your strategy. It is decoration on top of one. A tagline is what you say after the strategy is already clear. If the strategy is missing, the tagline is a guess, and a guess in three words is very hard to correct, because it sounds so finished. So fix the sentence first. Then the tagline writes itself, and it takes five minutes instead of five months.
+
+**Caption**
+> Your tagline is not your strategy. It is decoration on top of one.
+> 
+> A tagline is what you say after the strategy is already clear. If the strategy is missing, the tagline is a guess, and a guess in three words is very hard to correct, because it sounds so finished.
+
+**Hashtags:** #HotTake #Easywurld #Branding #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 17:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Your tagline is not your strategy.
+2. It is decoration on top of one.
+3. A tagline is what you say after the strategy is already clear.
+4. If the strategy is missing, the tagline is a guess, and a guess in three words is very hard to correct.
+5. Because it sounds so finished.  So fix the sentence first.
+
+**Caption**
+> Then the tagline writes itself, and it takes five minutes instead of five months.
+> 
+> ₦5,000, message MESSAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #HotTake #Easywurld #LagosSME #Branding
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 16:30 · Feed post
+
+> Your tagline is not your strategy. It is decoration on top of one.
+> 
+> A tagline is what you say after the strategy is already clear. If the strategy is missing, the tagline is a guess, and a guess in three words is very hard to correct, because it sounds so finished. Nobody questions a finished sentence, so it just sits there, being wrong, for years.
+> 
+> So fix the sentence first. One sentence, to one type of customer, about one specific change. Then the tagline writes itself, and it takes five minutes instead of five months of workshops.
+> 
+> The Clear Message Workbook, ₦5,000, gets you to that sentence. Message MESSAGE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 07 · Changing the message every month
+
+**Type:** Relatable · **Why it works:** Relatable. It names a specific, expensive habit and sets up the voice guide offer.
+
+### TikTok · 18:00 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> Me changing my bio every month like it will fix things
+
+**On-screen beats**
+- January: new direction
+- March: "let's simplify"
+- June: totally rebranding
+- November: back to the
+January one
+- The problem was never the bio
+
+**Voiceover script**
+> Me changing my bio every month like it will fix things. January, new direction. March, let's simplify. June, totally rebranding. November, back to the January one. The problem was never the bio. The problem was that the message underneath it was never decided, so every month I was trying to fix the cover of a book that had no story. And people who saw the January version and the November version got two different impressions of the same business, which is worse than having no impression at all.
+
+**Caption**
+> January: new direction. March: "let's simplify". June: totally rebranding. November: back to the January one.
+> 
+> The problem was never the bio. The message underneath was never decided, so every month I was fixing the cover of a book with no story.
+> 
+> And people who saw January and November got two different impressions of the same business.
+
+**Hashtags:** #Meme #Easywurld #Branding #Relatable
+
+**Visual:** Two-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 18:30 · Static meme post, 4:5
+
+**Slide copy**
+1. Me changing my bio every month like it will fix things
+2. January: new direction March: "let's simplify" June: totally rebranding
+3. November: back to the January one
+4. The problem was never the bio. The message underneath was never decided.
+5. People who saw January and November got two different impressions of the same business, which is worse than having no impression at all.
+
+**Caption**
+> The voice guide in the Clear Message Workbook exists exactly to stop this. ₦5,000, message MESSAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #Branding
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 18:00 · Feed post
+
+> Me changing my bio every month like it will fix things.
+> 
+> January: new direction. March: "let's simplify". June: totally rebranding. November: back to the January one.
+> 
+> The problem was never the bio. The message underneath it was never decided, so every month I was fixing the cover of a book that had no story.
+> 
+> And the real cost: people who saw the January version and the November version got two different impressions of the same business, which is worse than having no impression at all. A stranger who follows you for three months should be able to say what you do without checking.
+> 
+> The voice guide in the Clear Message Workbook, ₦5,000, exists exactly to stop this. Message MESSAGE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 08 · The six customer questions to ask this week
+
+**Type:** Teach · **Why it works:** Teach. The single most actionable thing in the pack, given away free to build trust.
+
+### TikTok · 19:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Six questions you can ask five customers this week, and they will tell you your message.
+
+**On-screen beats**
+- What did you do before
+you found us?
+- What made you try us?
+- What were you expecting
+to happen?
+- What was different
+from the last one?
+
+**Voiceover script**
+> Six questions you can ask five customers this week, and they will tell you your message. What did you do before you found us? What made you try us? What were you expecting to happen? What was different from the last one? What did you have to do yourself that you would rather we did? And if you were to describe us to a friend, what would you say? Do not pitch. Do not explain. Just ask, write down the words, and use their words, not yours.
+
+**Caption**
+> Six questions you can ask five customers this week, and they will tell you your message:
+> 
+> 1 · What did you do before you found us?
+> 2 · What made you try us?
+> 3 · What were you expecting to happen?
+> 4 · What was different from the last one?
+> 5 · What do you still have to do yourself?
+> 6 · If you described us to a friend, what would you say?
+> 
+> Do not pitch. Just ask, and use their words.
+
+**Hashtags:** #Branding #Easywurld #SmallBusinessNigeria #CustomerResearch
+
+**Visual:** Cream background, six numbered questions, terracotta numbers, mark bottom right.
+
+### Instagram · 19:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Six questions you can ask five customers this week.
+2. 1 · What did you do before you found us? 2 · What made you try us? 3 · What were you expecting to happen?
+3. 4 · What was different from the last one? 5 · What do you still have to do yourself?
+4. 6 · If you described us to a friend, what would you say?
+5. Do not pitch. Do not explain. Just ask, write down the words, and use their words, not yours.
+
+**Caption**
+> That is question six from the interview kit in the Clear Message Workbook, ₦5,000. Message MESSAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Branding #Easywurld #LagosSME #CustomerResearch
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 19:30 · Feed post
+
+> Six questions you can ask five customers this week, and they will tell you your message.
+> 
+> 1. What did you do before you found us?
+> 2. What made you try us?
+> 3. What were you expecting to happen?
+> 4. What was different from the last one?
+> 5. What do you still have to do yourself?
+> 6. If you described us to a friend, what would you say?
+> 
+> Do not pitch. Do not explain. Just ask, write down the words, and use their words, not yours.
+> 
+> That last instruction is the one people break. The moment you explain, you get polite answers, and polite answers say nothing. If they start explaining, let them, and take notes. The phrases they use are the message.
+> 
+> The full interview kit is in the Clear Message Workbook, ₦5,000, with a worked example. Message MESSAGE on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 17:15 · Text post, 17:15
+
+> Six questions you can ask five customers this week, and they will tell you your message.
+> 
+> What did you do before you found us?
+> What made you try us?
+> What were you expecting to happen?
+> What was different from the last one?
+> What do you still have to do yourself?
+> And if you described us to a friend, what would you say?
+> 
+> Do not pitch. Do not explain. Just ask, write down the words, and use their words, not yours.
+> 
+> That last instruction is the one people break. The moment you explain, you get polite answers, and polite answers say nothing. If they start explaining, let them, and take notes. The phrases they use are the message, and they are almost never the phrases on your website.
+> 
+> Cost of doing this: one phone call each, maybe twenty minutes total. Cost of not doing it: a year of marketing built on a guess.
+> 
+> The full interview kit is in the Clear Message Workbook, ₦5,000, with a worked example.
+> 
+> WhatsApp: 0905 069 0837. Message MESSAGE.
+
+---
+
+
+## Post 09 · The Clear Message Workbook, the voice guide
+
+**Type:** Offer · **Why it works:** Offer. A third angle on the pack: the voice guide, which is the least known part.
+
+### TikTok · 20:00 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> The part of the workbook nobody expects: the voice guide.
+
+**On-screen beats**
+- It decides what you never
+say and what you always say
+- Words you use
+- Words you never use
+- How you sound when
+you are busy
+- ₦5,000, message MESSAGE
+
+**Voiceover script**
+> The part of the workbook nobody expects is the voice guide. It decides what you never say and what you always say. The words you use, the words you never use, and how you sound when you are busy, which is when most replies are written. A business that sounds the same on a good day and a bad day is easier to trust, and that is not talent, it is a list. Five thousand naira, message MESSAGE on WhatsApp.
+
+**Caption**
+> The part of the workbook nobody expects is the voice guide.
+> 
+> It decides what you never say and what you always say. The words you use, the words you never use, and how you sound when you are busy, which is when most replies are written.
+> 
+> ₦5,000. Message MESSAGE on WhatsApp: 0905 069 0837
+
+**Hashtags:** #Easywurld #DigitalDownloads #Branding #SmallBusinessNigeria
+
+**Visual:** Cream background, a voice guide page mock, terracotta accent, mark bottom right.
+
+### Instagram · 20:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The part of the workbook nobody expects:
+2. The voice guide.
+3. It decides what you never say and what you always say.
+4. The words you use, the words you never use, and how you sound when you are busy.
+5. Which is when most replies are written.  ₦5,000, message MESSAGE on WhatsApp: 0905 069 0837
+
+**Caption**
+> A business that sounds the same on a good day and a bad day is easier to trust. And that is not talent, it is a list.
+> 
+> Message MESSAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #Branding
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 20:15 · Feed post
+
+> The part of the Clear Message Workbook nobody expects is the voice guide.
+> 
+> It decides what you never say and what you always say. The words you use. The words you never use. And how you sound when you are busy, which is when most replies are actually written.
+> 
+> A business that sounds the same on a good day and a bad day is easier to trust, and that is not talent, it is a list. Most businesses are recognisable by their logo, and the ones that are recognisable by their sentences are the ones people recommend.
+> 
+> The full pack, ₦5,000: interview kit, worked example, positioning statement, three pillars, voice guide, bios and pitches, one-page plan.
+> 
+> Message MESSAGE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The moment a message gets shorter
+
+**Type:** Story · **Why it works:** Story. A concrete, believable narrative about the craft of the work.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> The best moment in this job is when the sentence gets shorter.
+
+**On-screen beats**
+- "We provide comprehensive
+end-to-end solutions
+for growing brands"
+- Twelve weeks later
+- "We build websites for Lagos
+shops, in one week"
+- That is the whole journey
+- Most of it is deleting
+
+**Voiceover script**
+> The best moment in this job is when the sentence gets shorter. We provide comprehensive end-to-end solutions for growing brands. Twelve weeks later: we build websites for Lagos shops, in one week. That is the whole journey, and most of it is deleting. Everybody thinks clarity comes from adding the right words. It comes from removing the ones that hide the meaning, and that takes longer and feels like less work, which is why nobody does it.
+
+**Caption**
+> The best moment in this job is when the sentence gets shorter.
+> 
+> "We provide comprehensive end-to-end solutions for growing brands."
+> 
+> Twelve weeks later: "We build websites for Lagos shops, in one week."
+> 
+> Most of it is deleting.
+
+**Hashtags:** #Easywurld #Story #Branding #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 20:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The best moment in this job is when the sentence gets shorter.
+2. "We provide comprehensive end-to-end solutions for growing brands"
+3. Twelve weeks later:
+4. "We build websites for Lagos shops, in one week"
+5. That is the whole journey, and most of it is deleting.
+
+**Caption**
+> Everybody thinks clarity comes from adding the right words. It comes from removing the ones that hide the meaning. And that takes longer and feels like less work, which is why nobody does it.
+> 
+> ₦5,000, message MESSAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #Story #LagosSME #Branding
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 21:00 · Feed post
+
+> The best moment in this job is when the sentence gets shorter.
+> 
+> "We provide comprehensive end-to-end solutions for growing brands."
+> 
+> Twelve weeks later: "We build websites for Lagos shops, in one week."
+> 
+> That is the whole journey, and most of it is deleting.
+> 
+> Everybody thinks clarity comes from adding the right words. It comes from removing the ones that hide the meaning, and that takes longer and feels like less work, which is exactly why nobody does it.
+> 
+> The Clear Message Workbook, ₦5,000, is mostly that. Message MESSAGE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 11 · Send us your sentence
+
+**Type:** Direct response · **Why it works:** Direct response. A low-effort reply prompt that demonstrates the value of the workbook.
+
+### TikTok · 21:30 · Kinetic type with voiceover, 20s
+
+**Hook (0-3s)**
+> Send us your sentence. The one that says what you do. We will tell you if it is clear.
+
+**On-screen beats**
+- One sentence,
+no context needed
+- We will tell you three things:
+- Whether it is clear
+- Who it confuses
+- And what to say instead
+- Free, and it takes us a day
+
+**Voiceover script**
+> Send us your sentence, the one that says what you do. We will tell you three things: whether it is clear, who it confuses, and what we would say instead. It is free, and it takes us a day. Reply here, or send it on WhatsApp, 0905 069 0837, with your business name and the sentence. No pitch afterwards. Just the three points.
+
+**Caption**
+> Send us your sentence, the one that says what you do. We will tell you three things:
+> 
+> 1 · Whether it is clear
+> 2 · Who it confuses
+> 3 · What we would say instead
+> 
+> Free, and it takes us a day. Reply here, or WhatsApp 0905 069 0837 with your business name and the sentence. No pitch afterwards.
+
+**Hashtags:** #Easywurld #Branding #SmallBusinessNigeria #FreeReview
+
+**Visual:** Cream background, a message bubble, terracotta accent, mark bottom right.
+
+### Instagram · 21:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Send us your sentence.
+2. The one that says what you do.
+3. We will tell you three things:
+4. 1 · Whether it is clear 2 · Who it confuses 3 · What we would say instead
+5. Free, and it takes us a day.  Reply here, or WhatsApp 0905 069 0837, with your business name and the sentence. No pitch afterwards.
+
+**Caption**
+> Just the three points. If you want the full process afterwards, the Clear Message Workbook is ₦5,000, but start with the sentence either way.
+> 
+> Message MESSAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #LagosSME #Branding #FreeReview
+
+**Visual:** Cream slides, deep green serif, terracotta marks.
+
+### Facebook · 21:45 · Feed post
+
+> Send us your sentence, the one that says what you do.
+> 
+> We will tell you three things:
+> 
+> 1. Whether it is clear.
+> 2. Who it confuses.
+> 3. What we would say instead.
+> 
+> It is free, and it takes us a day. Reply here, or send it on WhatsApp: 0905 069 0837, with your business name and the sentence. No pitch afterwards, just the three points.
+> 
+> And if you want the full process after that, the Clear Message Workbook is ₦5,000. But start with the sentence either way, because that is where the difficulty actually is.
+> 
+> We read every one. We have not missed a deadline yet.
+
+### LinkedIn · 20:15 (optional) · Text post, 20:15 (optional)
+
+> Send us your sentence, the one that says what you do.
+> 
+> We will tell you three things: whether it is clear, who it confuses, and what we would say instead.
+> 
+> It is free, and it takes us a day. Reply here, or send it on WhatsApp: 0905 069 0837, with your business name and the sentence. No pitch afterwards, just the three points.
+> 
+> If you want the full process after that, the Clear Message Workbook is ₦5,000. But start with the sentence either way, because that is where the difficulty actually is. Most people can describe their business accurately and still be unable to say it in a sentence that a stranger would believe.
+> 
+> We read every one. We have not missed a deadline yet.
+> 
+> WhatsApp: 0905 069 0837.
+
+---
+
+
+# Day 24 · Wednesday · Wednesday 11 Nov 2026 — Documents that get read
+
+**Offer in focus:** TEMPLATES
+
+---
+
+
+## Post 01 · The order of a proposal
+
+**Type:** Teach · **Why it works:** Teach. It teaches a genuinely useful structure that most small businesses get wrong.
+
+### TikTok · 07:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> The order of a proposal decides whether it gets read. Four parts, in this order.
+
+**On-screen beats**
+- 1 · Their problem, in
+their words
+- 2 · What you will do,
+and what you will not
+- 3 · The price, and the
+next step
+- 4 · The proof, last
+- Proof last. Always last
+
+**Voiceover script**
+> The order of a proposal decides whether it gets read. Four parts, in this order. One, their problem, in their words, so they feel understood before they see your work. Two, what you will do, and what you will not do, because the second half is what makes it believable. Three, the price and the next step. Four, the proof, and proof goes last, always last, because proof before the price is just showing off.
+
+**Caption**
+> The order of a proposal decides whether it gets read:
+> 
+> 1 · Their problem, in their words
+> 2 · What you will do, and what you will not
+> 3 · The price, and the next step
+> 4 · The proof, last. Always last.
+> 
+> Proof before the price is just showing off.
+
+**Hashtags:** #FreelanceLagos #Easywurld #BusinessTips #SmallBusinessNigeria
+
+**Visual:** Cream background, four numbered lines, terracotta tick on the fourth, mark bottom right.
+
+### Instagram · 07:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The order of a proposal decides whether it gets read.
+2. 1 · Their problem, in their words
+3. 2 · What you will do, and what you will not do
+4. 3 · The price, and the next step
+5. 4 · The proof, last
+6. Proof before the price is just showing off.
+
+**Caption**
+> The second half of point two is what makes it believable. Nobody believes a list of everything you will do, because everybody promises everything.
+> 
+> The Proposal & Report Template Pack, ₦5,000, message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #FreelanceLagos #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 08:00 · Feed post
+
+> The order of a proposal decides whether it gets read. Four parts, in this order.
+> 
+> 1. Their problem, in their words, so they feel understood before they see your work.
+> 2. What you will do, and what you will not do. The second half is what makes it believable. Nobody believes a list of everything you will do, because everybody promises everything.
+> 3. The price, and the next step.
+> 4. The proof. And proof goes last, always last, because proof before the price is just showing off, and it is also the reason a tired reader stops at page two.
+> 
+> That order, with a worked example and an editable Word file, is in the Proposal & Report Template Pack, ₦5,000.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 08:15 · Text post, 08:15
+
+> The order of a proposal decides whether it gets read. Four parts, in this order.
+> 
+> Their problem, in their words, so they feel understood before they see your work.
+> 
+> What you will do, and what you will not do. The second half is what makes it believable. Nobody believes a list of everything you will do, because everybody promises everything.
+> 
+> The price, and the next step.
+> 
+> And the proof, last. Always last, because proof before the price is just showing off, and it is also the reason a tired reader stops at page two.
+> 
+> That last point is the one nobody agrees with. I still think it is right. A case study is a response to doubt, and you should spend it on the doubt that comes after the reader already believes you are worth the money.
+> 
+> The Proposal & Report Template Pack, ₦5,000, has this order, a fully worked example, an editable Word file, and the prompts written into every blank.
+> 
+> WhatsApp: 0905 069 0837. Message TEMPLATES.
+
+---
+
+
+## Post 02 · My proposal is forty pages
+
+**Type:** Meme · **Why it works:** Meme. A punchy, recognisable complaint that makes the lesson land.
+
+### TikTok · 09:15 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> Me: my proposal is forty pages. Also me: nobody has read past page two.
+
+**On-screen beats**
+- Table of contents
+- Team structure
+- Our values
+- Eight case studies
+- Then, eventually,
+the price
+
+**Voiceover script**
+> Me: my proposal is forty pages. Also me: nobody has read past page two. Table of contents. Team structure. Our values. Eight case studies. And then, eventually, the price, on page nineteen, formatted as an image so it cannot be copied. I am not blaming anybody. I am blaming the order.
+
+**Caption**
+> Me: my proposal is forty pages.
+> 
+> Also me: nobody has read past page two.
+> 
+> Table of contents. Team structure. Our values. Eight case studies. And then, eventually, the price, on page nineteen, formatted as an image so it cannot be copied.
+> 
+> I am not blaming anybody. I am blaming the order.
+
+**Hashtags:** #Meme #Easywurld #FreelanceLagos #Relatable
+
+**Visual:** Four-panel meme, cream background, deep green type, terracotta on the last panel.
+
+### Instagram · 10:00 · Static meme post, 4:5
+
+**Slide copy**
+1. Me: my proposal is forty pages.
+2. Also me: nobody has read past page two.
+3. Table of contents Team structure Our values Eight case studies
+4. And then, eventually, the price
+5. on page nineteen, formatted as an image so it cannot be copied
+6. I am not blaming anybody. I am blaming the order.
+
+**Caption**
+> Price on page one, proof at the end, four pages total. The Template Pack, ₦5,000, message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #FreelanceLagos
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 10:30 · Feed post
+
+> Me: my proposal is forty pages.
+> 
+> Also me: nobody has read past page two.
+> 
+> Table of contents. Team structure. Our values. Eight case studies. And then, eventually, the price, on page nineteen, formatted as an image so it cannot be copied.
+> 
+> I am not blaming anybody. I am blaming the order.
+> 
+> Price on page one, proof at the end, four pages total. That is the structure in the Proposal & Report Template Pack, ₦5,000, with a worked example.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 03 · We price in the first page now
+
+**Type:** Trust · **Why it works:** Trust. An honest, slightly counter-intuitive business practice that builds credibility.
+
+### TikTok · 11:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> We put the price on page one now. It used to be on page six.
+
+**On-screen beats**
+- The page six version
+cost us work
+- Because the best clients
+were the ones who
+read the whole thing
+- And those were not
+the clients we wanted
+- So now the price is first
+
+**Voiceover script**
+> We put the price on page one now. It used to be on page six. The page six version cost us work, because the best clients were the ones who read the whole thing, and those were not the clients we wanted. Now the price is first, and the people who read past it are the people we are actually for. It is a strange thing to say about your own business, but the number changes the conversation in a good way.
+
+**Caption**
+> We put the price on page one now. It used to be on page six.
+> 
+> The page six version cost us work, because the best clients were the ones who read the whole thing, and those were not the clients we wanted.
+> 
+> Now the price is first, and the people who read past it are the people we are actually for.
+
+**Hashtags:** #Easywurld #HonestBusiness #FreelanceLagos #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, brand mark lower right.
+
+### Instagram · 12:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. We put the price on page one now. It used to be on page six.
+2. The page six version cost us work, because the best clients were the ones who read the whole thing.
+3. And those were not the clients we wanted.
+4. Now the price is first, and the people who read past it are the people we are actually for.
+5. It is a strange thing to say about your own business, but the number changes the conversation in a good way.
+
+**Caption**
+> Price on page one. Proof at the end. Four pages.
+> 
+> The Proposal & Report Template Pack, ₦5,000, message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #HonestBusiness #LagosSME #FreelanceLagos
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 12:00 · Feed post
+
+> We put the price on page one now. It used to be on page six.
+> 
+> The page six version cost us work, because the best clients were the ones who read the whole thing, and those were not the clients we wanted. Now the price is first, and the people who read past it are the people we are actually for.
+> 
+> It is a strange thing to say about your own business, but the number changes the conversation in a good way. It filters, and it saves everybody time.
+> 
+> The same structure is in the Proposal & Report Template Pack, ₦5,000: the brief, the proposal with the price on page one, the report section order, the project plan, the status report, the partnership agreement and the feedback form.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 12:15 · Text post, 12:15
+
+> We put the price on page one now. It used to be on page six.
+> 
+> The page six version cost us work, because the best clients were the ones who read the whole thing, and those were not the clients we wanted. Now the price is first, and the people who read past it are the people we are actually for.
+> 
+> It is a strange thing to say about your own business, but the number changes the conversation in a good way. It filters, and it saves everybody time, including ours.
+> 
+> There is a version of this advice that is obviously true and boring, and a version that costs you some business in the short term, and the second one is the one that pays.
+> 
+> The same structure is in the Proposal & Report Template Pack, ₦5,000: the brief, the proposal with the price on page one, the report section order, the project plan, the status report, the partnership agreement and the feedback form.
+> 
+> WhatsApp: 0905 069 0837. Message TEMPLATES.
+
+---
+
+
+## Post 04 · The report a tired reader can act on
+
+**Type:** Teach · **Why it works:** Teach. It is the least-known skill in the pack and one every small team needs.
+
+### TikTok · 13:45 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> How to write a report that a tired reader can act on.
+
+**On-screen beats**
+- 1 · What changed
+- 2 · What it means
+- 3 · What we recommend
+- 4 · What we need from you
+- The last one is the whole job
+
+**Voiceover script**
+> How to write a report a tired reader can act on. Four parts, in this order. One, what changed, with the numbers. Two, what it means, in plain words, because numbers do not explain themselves. Three, what we recommend. Four, what we need from you. That last part is the whole job. A report that ends with information and no request has wasted the reader's time and yours.
+
+**Caption**
+> How to write a report a tired reader can act on:
+> 
+> 1 · What changed
+> 2 · What it means
+> 3 · What we recommend
+> 4 · What we need from you
+> 
+> That last part is the whole job. A report that ends with information and no request has wasted the reader's time and yours.
+
+**Hashtags:** #BusinessTips #Easywurld #FreelanceLagos #SmallBusinessNigeria
+
+**Visual:** Cream background, four numbered lines, terracotta tick on the fourth, mark bottom right.
+
+### Instagram · 14:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. How to write a report that a tired reader can act on.
+2. 1 · What changed
+3. 2 · What it means
+4. 3 · What we recommend
+5. 4 · What we need from you
+6. That last part is the whole job. A report that ends with information and no request has wasted the reader's time and yours.
+
+**Caption**
+> The section order is in the Proposal & Report Template Pack, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #BusinessTips #Easywurld #LagosSME #FreelanceLagos
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 13:30 · Feed post
+
+> How to write a report a tired reader can act on. Four parts, in this order.
+> 
+> 1. What changed, with the numbers.
+> 2. What it means, in plain words, because numbers do not explain themselves.
+> 3. What we recommend.
+> 4. What we need from you.
+> 
+> That last part is the whole job. A report that ends with information and no request has wasted the reader's time and yours.
+> 
+> If you want the same for proposals, it is the same file: the Proposal & Report Template Pack, ₦5,000, with editable Word templates, a fully worked example, and the prompts written into every blank so you are never staring at an empty page.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 05 · The Template Pack, and what a template really is
+
+**Type:** Offer · **Why it works:** Offer. It reframes the product as a working tool rather than a document, which raises the perceived value.
+
+### TikTok · 15:00 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> A template is not a document. It is a document with the decisions already made.
+
+**On-screen beats**
+- Every blank has a question
+beside it
+- And a good answer
+and a bad one
+- So you are never
+staring at nothing
+- ₦5,000, message TEMPLATES
+
+**Voiceover script**
+> A template is not a document. It is a document with the decisions already made. Every blank has a question beside it, and a good answer and a bad one, so you are never staring at nothing and wondering what goes there. That is the difference between a template and a form. A form punishes you for not knowing. A template teaches you. Five thousand naira, message TEMPLATES on WhatsApp.
+
+**Caption**
+> A template is not a document. It is a document with the decisions already made.
+> 
+> Every blank has a question beside it, and a good answer and a bad one, so you are never staring at nothing wondering what goes there.
+> 
+> That is the difference between a template and a form. A form punishes you for not knowing. A template teaches you.
+
+**Hashtags:** #Easywurld #DigitalDownloads #BusinessTemplates #SmallBusinessNigeria
+
+**Visual:** Cream background, a template page mock, terracotta accent, mark bottom right.
+
+### Instagram · 15:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. A template is not a document.
+2. It is a document with the decisions already made.
+3. Every blank has a question beside it, and a good answer and a bad one,
+4. so you are never staring at nothing wondering what goes there.
+5. A form punishes you for not knowing. A template teaches you.  ₦5,000, message TEMPLATES on WhatsApp: 0905 069 0837
+
+**Caption**
+> Seven editable files: client brief, proposal, report, project plan, status report, partnership agreement, feedback form.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #BusinessTemplates
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 15:00 · Feed post
+
+> A template is not a document. It is a document with the decisions already made.
+> 
+> Every blank has a question beside it, and a good answer and a bad one, so you are never staring at nothing wondering what goes there. That is the difference between a template and a form: a form punishes you for not knowing, a template teaches you.
+> 
+> The Proposal & Report Template Pack, ₦5,000:
+> 
+> 1. Client brief. One page, five questions.
+> 2. Proposal. Four pages, price on page one.
+> 3. Report. The section order that keeps a tired reader going.
+> 4. Project plan. Milestones and sign-off points.
+> 5. Monthly status report.
+> 6. Partnership agreement. One page, four clauses.
+> 7. Feedback form.
+> 
+> Plus a short guide on writing for busy readers, and an Excel workbook for quotes and invoices with automatic totals.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 16:15 · Text post, 16:15
+
+> A template is not a document. It is a document with the decisions already made.
+> 
+> Every blank has a question beside it, and a good answer and a bad one, so you are never staring at nothing wondering what goes there. That is the difference between a template and a form: a form punishes you for not knowing, a template teaches you.
+> 
+> Most templates are distributed as blank files, because blank files are cheap to make. The question gets typed at the top and deleted when the work is done, and the second person to use the template repeats the same questions.
+> 
+> The Proposal & Report Template Pack, ₦5,000, has seven editable files: client brief, proposal, report, project plan, status report, partnership agreement and feedback form. Plus a worked example, an Excel workbook for quotes and invoices with automatic totals, and a short guide on writing for busy readers.
+> 
+> WhatsApp: 0905 069 0837. Message TEMPLATES.
+
+---
+
+
+## Post 06 · Your document is a product
+
+**Type:** Hot take · **Why it works:** Hot take. It reframes something the audience thinks is admin, which is memorable and useful.
+
+### TikTok · 16:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> The document you send is a product. Most people treat it as admin.
+
+**On-screen beats**
+- Every proposal is a
+demonstration of
+how you work
+- The invoice is a
+demonstration
+- The report is a
+demonstration
+- So treat them like
+the real thing
+
+**Voiceover script**
+> The document you send is a product. Most people treat it as admin, and admin is where care goes to die. But every proposal is a demonstration of how you work, every invoice is a demonstration of how you work, every report is a demonstration. Somebody reading your proposal has already read you. So write it like the real thing, because it is the real thing.
+
+**Caption**
+> The document you send is a product. Most people treat it as admin, and admin is where care goes to die.
+> 
+> Every proposal is a demonstration of how you work. The invoice is a demonstration. The report is a demonstration.
+> 
+> Somebody reading your proposal has already read you.
+
+**Hashtags:** #HotTake #Easywurld #FreelanceLagos #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 17:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The document you send is a product.
+2. Most people treat it as admin, and admin is where care goes to die.
+3. Every proposal is a demonstration of how you work.
+4. The invoice is a demonstration. The report is a demonstration.
+5. Somebody reading your proposal has already read you.  So write it like the real thing, because it is the real thing.
+
+**Caption**
+> The seven editable files are in the Template Pack, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #HotTake #Easywurld #LagosSME #FreelanceLagos
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 16:30 · Feed post
+
+> The document you send is a product. Most people treat it as admin, and admin is where care goes to die.
+> 
+> Every proposal is a demonstration of how you work. The invoice is a demonstration. The report is a demonstration. The error message is a demonstration. Somebody reading your proposal has already read you, before they have read your work.
+> 
+> So write it like the real thing, because it is the real thing. Which is why we built a template pack instead of a folder of blank forms, and why every blank has a question beside it and a good answer and a bad one.
+> 
+> The Proposal & Report Template Pack, ₦5,000, seven editable files, a worked example, and the prompts written into every blank.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 07 · The invoice nobody understands
+
+**Type:** Relatable · **Why it works:** Relatable. It is the small, everyday frustration that makes a real point about clear documents.
+
+### TikTok · 18:00 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> Me sending an invoice with no line items
+
+**On-screen beats**
+- "Professional services"
+- "Consultation"
+- "Final balance"
+- Total: ₦340,000
+- And a friend asking
+what the second line means
+
+**Voiceover script**
+> Me sending an invoice with no line items. Professional services. Consultation. Final balance. Total, three hundred and forty thousand naira. And a friend asking what the second line means. An invoice is the one document your client is guaranteed to read, and most people make it unreadable. Line items, dates, and what they get for their money, and the payment instruction, all in that order.
+
+**Caption**
+> Me sending an invoice with no line items.
+> 
+> "Professional services."
+> "Consultation."
+> "Final balance."
+> 
+> Total: ₦340,000.
+> 
+> And a friend asking what the second line means.
+> 
+> An invoice is the one document your client is guaranteed to read, and most people make it unreadable.
+
+**Hashtags:** #Meme #Easywurld #Relatable #FreelanceLagos
+
+**Visual:** Two-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 18:30 · Static meme post, 4:5
+
+**Slide copy**
+1. Me sending an invoice with no line items
+2. "Professional services" "Consultation" "Final balance"
+3. Total: ₦340,000
+4. And a friend asking what the second line means
+5. An invoice is the one document your client is guaranteed to read, and most people make it unreadable.
+6. Line items, dates, what they get for their money, and the payment instruction. In that order.
+
+**Caption**
+> The quote and invoice workbook with automatic totals is in the Template Pack, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #Relatable
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 18:00 · Feed post
+
+> Me sending an invoice with no line items.
+> 
+> "Professional services."
+> "Consultation."
+> "Final balance."
+> 
+> Total: ₦340,000.
+> 
+> And a friend asking what the second line means.
+> 
+> An invoice is the one document your client is guaranteed to read, and most people make it unreadable. Line items, dates, what they get for their money, and the payment instruction, in that order. That is the whole craft.
+> 
+> The quote and invoice workbook, with automatic totals, is in the Proposal & Report Template Pack, ₦5,000.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 08 · How to write a quote people can accept
+
+**Type:** Teach · **Why it works:** Teach. A very practical, money-related skill that the audience can use immediately.
+
+### TikTok · 19:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> How to write a quote people can actually accept.
+
+**On-screen beats**
+- Give one price,
+not a range
+- Say what is included
+and what is not
+- Say what happens
+if the scope changes
+- And make the next step
+one sentence
+
+**Voiceover script**
+> How to write a quote people can actually accept. Give one price, not a range, because a range means they will pick the bottom of it and then feel bad. Say what is included and what is not. Say what happens if the scope changes, in one line, so the change is not a fight later. And make the next step one sentence. If your client has to decide what to do next, they will decide later.
+
+**Caption**
+> How to write a quote people can actually accept:
+> 
+> 1 · Give one price, not a range
+> 2 · Say what is included and what is not
+> 3 · Say what happens if the scope changes
+> 4 · Make the next step one sentence
+> 
+> A range means they pick the bottom of it and then feel bad.
+
+**Hashtags:** #BusinessTips #Easywurld #FreelanceLagos #SmallBusinessNigeria
+
+**Visual:** Cream background, four numbered lines, terracotta tick on the fourth, mark bottom right.
+
+### Instagram · 19:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. How to write a quote people can actually accept.
+2. 1 · Give one price, not a range
+3. 2 · Say what is included and what is not
+4. 3 · Say what happens if the scope changes
+5. 4 · Make the next step one sentence
+6. A range means they pick the bottom of it and then feel bad. And if your client has to decide what to do next, they will decide later.
+
+**Caption**
+> The quote workbook and the proposal template are in the Template Pack, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #BusinessTips #Easywurld #LagosSME #FreelanceLagos
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 19:30 · Feed post
+
+> How to write a quote people can actually accept.
+> 
+> 1. Give one price, not a range. A range means they pick the bottom of it and then feel bad about it, and you both end up unhappy.
+> 2. Say what is included and what is not. Especially what is not.
+> 3. Say what happens if the scope changes, in one line, so the change is a conversation and not a fight.
+> 4. Make the next step one sentence. If your client has to decide what to do next, they will decide later, and later is usually never.
+> 
+> The quote and invoice workbook, with automatic totals, and the proposal template, are in the Proposal & Report Template Pack, ₦5,000.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 17:15 · Text post, 17:15
+
+> How to write a quote people can actually accept.
+> 
+> Give one price, not a range. A range means they pick the bottom of it and then feel bad about it, and you both end up unhappy.
+> 
+> Say what is included and what is not. Especially what is not.
+> 
+> Say what happens if the scope changes, in one line, so the change is a conversation and not a fight.
+> 
+> And make the next step one sentence. If your client has to decide what to do next, they will decide later, and later is usually never.
+> 
+> That last point is worth a little more attention, because the standard document ends with a thank-you and a signature line, which is a request with the request removed. A quote should end with one clear sentence and one date.
+> 
+> The quote and invoice workbook, with automatic totals, and the proposal template, are in the Proposal & Report Template Pack, ₦5,000.
+> 
+> WhatsApp: 0905 069 0837. Message TEMPLATES.
+
+---
+
+
+## Post 09 · The Template Pack, the Excel workbook
+
+**Type:** Offer · **Why it works:** Offer. It surfaces the practical spreadsheet that most people in the audience do not know exists in the pack.
+
+### TikTok · 20:00 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> The Excel workbook in the Template Pack does the maths for you.
+
+**On-screen beats**
+- Quotes, invoices,
+totals calculated
+- Project plan with
+milestones
+- A launch tracker
+and a care log
+- And renewal reminders
+- ₦5,000, message TEMPLATES
+
+**Voiceover script**
+> The Excel workbook in the Template Pack does the maths for you. Quotes, invoices, totals calculated, so you stop doing arithmetic in your head at midnight. A project plan with milestones and sign-off points. A launch tracker and a care log with renewal reminders, so you remember the domain before it expires. Five thousand naira, message TEMPLATES on WhatsApp.
+
+**Caption**
+> The Excel workbook in the Template Pack does the maths for you.
+> 
+> Quotes, invoices, totals calculated. A project plan with milestones and sign-off points. A launch tracker and a care log with renewal reminders, so you remember the domain before it expires.
+> 
+> ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837
+
+**Hashtags:** #Easywurld #DigitalDownloads #BusinessTemplates #SmallBusinessNigeria
+
+**Visual:** Cream background, a spreadsheet mock, terracotta accent, mark bottom right.
+
+### Instagram · 20:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The Excel workbook in the Template Pack does the maths for you.
+2. Quotes, invoices, totals calculated, so you stop doing arithmetic in your head at midnight.
+3. A project plan with milestones and sign-off points.
+4. A launch tracker and a care log with renewal reminders, so you remember the domain before it expires.
+5. ₦5,000, message TEMPLATES on WhatsApp: 0905 069 0837
+
+**Caption**
+> That renewal reminder alone has paid for the pack for a few people, which is not a claim about you, it is just what domains do.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #BusinessTemplates
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 20:15 · Feed post
+
+> The Excel workbook in the Template Pack does the maths for you.
+> 
+> Quotes and invoices with totals calculated automatically, so you stop doing arithmetic in your head at midnight. A project plan with milestones and sign-off points. A launch tracker and a care log with renewal reminders, so you remember the domain before it expires.
+> 
+> That renewal reminder alone has paid for the pack for a few people, which is not a claim about you, it is just what domains do. A domain that expires takes the site with it, and the email with it, and it happens to a surprising number of small businesses every year.
+> 
+> The Proposal & Report Template Pack, ₦5,000, seven editable Word files plus this workbook, a worked example, and the prompts written into every blank.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The document that saved a project
+
+**Type:** Story · **Why it works:** Story. A specific narrative about a document doing real work, with no invented client claims.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> One document saved a project this year. It was not the proposal.
+
+**On-screen beats**
+- It was the brief
+- The brief said what
+we were not doing
+- And what we were not
+doing was the thing
+they assumed we would
+- No rebuild, no fight,
+no lost week
+
+**Voiceover script**
+> One document saved a project this year. It was not the proposal. It was the brief. The brief said what we were not doing, and what we were not doing was the thing they assumed we would. So there was no rebuild, no fight, no lost week, and everybody knew what Monday was. The proposal sells the work. The brief protects it. Most people only write the first one.
+
+**Caption**
+> One document saved a project this year. It was not the proposal.
+> 
+> It was the brief. The brief said what we were not doing, and what we were not doing was the thing they assumed we would. So there was no rebuild, no fight, no lost week, and everybody knew what Monday was.
+> 
+> The proposal sells the work. The brief protects it.
+
+**Hashtags:** #Easywurld #Story #FreelanceLagos #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 20:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. One document saved a project this year.
+2. It was not the proposal.
+3. It was the brief.
+4. The brief said what we were not doing, and what we were not doing was the thing they assumed we would.
+5. No rebuild, no fight, no lost week.  The proposal sells the work. The brief protects it.
+
+**Caption**
+> Most people only write the first one. The client brief is in the Template Pack, ₦5,000. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #Story #LagosSME #FreelanceLagos
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 21:00 · Feed post
+
+> One document saved a project this year. It was not the proposal.
+> 
+> It was the brief. The brief said what we were not doing, and what we were not doing was the thing they assumed we would. So there was no rebuild, no fight, no lost week, and everybody knew what Monday was.
+> 
+> The proposal sells the work. The brief protects it. Most people only write the first one.
+> 
+> One page, five questions: the client brief. It is in the Proposal & Report Template Pack, ₦5,000, together with the proposal, the report structure, the project plan, the status report, the partnership agreement and the feedback form.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 11 · What is the document you keep rewriting
+
+**Type:** Direct response · **Why it works:** Direct response. It asks for a reply about a specific pain, which produces easy, useful comments.
+
+### TikTok · 21:30 · Kinetic type with voiceover, 20s
+
+**Hook (0-3s)**
+> What is the document you rewrite from scratch every single time?
+
+**On-screen beats**
+- Proposals, right?
+- Or quotes, or reports,
+or contracts
+- Tell us in the comments
+- We are putting the answer
+in the next pack
+
+**Voiceover script**
+> What is the document you rewrite from scratch every single time? Proposals, right? Or quotes, or reports, or contracts. Tell us in the comments, because we are building the next version of the pack and we would rather it fixed your document than the one we assumed. Seven files in there already, and there is room for more.
+
+**Caption**
+> What is the document you rewrite from scratch every single time?
+> 
+> Proposals, right? Or quotes, or reports, or contracts.
+> 
+> Tell us in the comments. We are building the next version of the pack and we would rather it fixed your document than the one we assumed.
+
+**Hashtags:** #Easywurld #FreelanceLagos #BusinessTips #SmallBusinessNigeria
+
+**Visual:** Cream background, a document with a terracotta pen, mark bottom right.
+
+### Instagram · 21:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. What is the document you rewrite from scratch every single time?
+2. Proposals, right?
+3. Or quotes, or reports, or contracts
+4. Tell us in the comments
+5. We are building the next version of the pack and we would rather it fixed your document than the one we assumed.
+
+**Caption**
+> Seven files in there already, and there is room for more.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #LagosSME #FreelanceLagos #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta marks.
+
+### Facebook · 21:45 · Feed post
+
+> What is the document you rewrite from scratch every single time?
+> 
+> Proposals, right? Or quotes, or reports, or contracts.
+> 
+> Tell us in the comments, because we are building the next version of the pack and we would rather it fixed your document than the one we assumed.
+> 
+> Seven files in there already: client brief, proposal, report, project plan, status report, partnership agreement, feedback form. And there is room for more.
+> 
+> Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 20:15 (optional) · Text post, 20:15 (optional)
+
+> What is the document you rewrite from scratch every single time?
+> 
+> Proposals, right? Or quotes, or reports, or contracts.
+> 
+> Tell us in the comments, because we are building the next version of the pack and we would rather it fixed your document than the one we assumed.
+> 
+> Seven files in there already: client brief, proposal, report, project plan, status report, partnership agreement, feedback form. And there is room for more.
+> 
+> If you want the current version in the meantime: the Proposal & Report Template Pack, ₦5,000, editable Word files, a worked example, an Excel workbook for quotes and invoices, and the prompts written into every blank.
+> 
+> WhatsApp: 0905 069 0837. Message TEMPLATES.
+
+---
+
+
+# Day 25 · Thursday · Thursday 12 Nov 2026 — The chat is the shop counter
+
+**Offer in focus:** PLAYBOOK
+
+---
+
+
+## Post 01 · The five stages of a chat that ends in a sale
+
+**Type:** Teach · **Why it works:** Teach. It is the core of the Playbook and it is a genuinely useful, simple structure.
+
+### TikTok · 07:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Every chat that ends in a sale goes through five stages. Missing one is where you lose them.
+
+**On-screen beats**
+- 1 · Greeting,
+because silence is rude
+- 2 · Understanding,
+what do they actually want
+- 3 · Answer, price and options
+- 4 · Next step, one clear action
+- 5 · After, when they go quiet
+
+**Voiceover script**
+> Every chat that ends in a sale goes through five stages. One, greeting, because silence is rude and rude loses the sale. Two, understanding, what do they actually want, because most people ask "how much" before saying what it is for. Three, answer, with the price and the options. Four, next step, one clear action. Five, after, when they go quiet. Most businesses do one and three. That is why most chats die.
+
+**Caption**
+> Every chat that ends in a sale goes through five stages:
+> 
+> 1 · Greeting, because silence is rude
+> 2 · Understanding, what do they actually want
+> 3 · Answer, price and options
+> 4 · Next step, one clear action
+> 5 · After, when they go quiet
+> 
+> Most businesses do one and three. That is why most chats die.
+
+**Hashtags:** #WhatsAppBusiness #Easywurld #SmallBusinessNigeria #SalesTips
+
+**Visual:** Cream background, five numbered stages, terracotta numbers, mark bottom right.
+
+### Instagram · 07:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Every chat that ends in a sale goes through five stages.
+2. 1 · Greeting, because silence is rude
+3. 2 · Understanding, what do they actually want
+4. 3 · Answer, price and options
+5. 4 · Next step, one clear action
+6. 5 · After, when they go quiet
+7. Most businesses do one and three. That is why most chats die.
+
+**Caption**
+> The Chat-to-Customer Playbook, ₦5,000, has all five stages and 36 scripts for the moments that cost you sales. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #WhatsAppBusiness #Easywurld #LagosSME #SalesTips
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 08:00 · Feed post
+
+> Every chat that ends in a sale goes through five stages, and missing one is where you lose people.
+> 
+> 1. Greeting, because silence is rude and rude loses the sale.
+> 2. Understanding, what do they actually want. Most people ask "how much" before saying what it is for, and the price is not the same for every job.
+> 3. Answer, with the price and the options.
+> 4. Next step, one clear action.
+> 5. After, when they go quiet.
+> 
+> Most businesses do one and three. That is why most chats die.
+> 
+> The Chat-to-Customer Playbook, ₦5,000, has all five stages, 36 ready-to-paste scripts for the moments that cost you sales, a follow-up tracker and a one-page WhatsApp Business setup checklist.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 08:15 · Text post, 08:15
+
+> Every chat that ends in a sale goes through five stages, and missing one is where you lose people.
+> 
+> Greeting, because silence is rude and rude loses the sale.
+> 
+> Understanding, what do they actually want. Most people ask "how much" before saying what it is for, and the price is not the same for every job.
+> 
+> Answer, with the price and the options.
+> 
+> Next step, one clear action.
+> 
+> And after, when they go quiet.
+> 
+> Most businesses do one and three. That is why most chats die.
+> 
+> Stage four is the one people skip, and it is the cheapest to fix. A chat that has a price in it and no next step is a polite conversation, not a sale.
+> 
+> The Chat-to-Customer Playbook, ₦5,000, has all five stages, 36 ready-to-paste scripts, a follow-up tracker and a one-page WhatsApp Business setup checklist.
+> 
+> WhatsApp: 0905 069 0837. Message PLAYBOOK.
+
+---
+
+
+## Post 02 · "Let me think about it"
+
+**Type:** Meme · **Why it works:** Meme. The most common killer sentence in Nigerian small business, treated lightly.
+
+### TikTok · 09:15 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> The five stages of a chat, and the one sentence that skips to the end
+
+**On-screen beats**
+- "Let me think about it"
+- Translation:
+- "I have two other people
+and I am waiting to see
+who replies first"
+- And then silence,
+from both sides
+
+**Voiceover script**
+> The five stages of a chat, and the one sentence that skips to the end. Let me think about it. Translation: I have two other people and I am waiting to see who replies first. And then silence, from both sides. The fix is not a discount. The fix is a next step with a time in it, so silence has a shape and you can follow up instead of wondering.
+
+**Caption**
+> The five stages of a chat, and the one sentence that skips to the end:
+> 
+> "Let me think about it."
+> 
+> Translation: I have two other people and I am waiting to see who replies first.
+> 
+> And then silence, from both sides. The fix is not a discount. The fix is a next step with a time in it.
+
+**Hashtags:** #Meme #Easywurld #Relatable #WhatsAppBusiness
+
+**Visual:** Two-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 10:00 · Static meme post, 4:5
+
+**Slide copy**
+1. The five stages of a chat, and the one sentence that skips to the end:
+2. "Let me think about it"
+3. Translation:
+4. "I have two other people and I am waiting to see who replies first"
+5. And then silence, from both sides
+6. The fix is not a discount. The fix is a next step with a time in it, so silence has a shape.
+
+**Caption**
+> Then you can follow up instead of wondering. The 36 scripts in the Playbook include this one, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #WhatsAppBusiness
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 10:30 · Feed post
+
+> The five stages of a chat, and the one sentence that skips to the end: "Let me think about it."
+> 
+> Translation: I have two other people and I am waiting to see who replies first.
+> 
+> And then silence, from both sides.
+> 
+> The fix is not a discount. A discount rewards the customer for saying no. The fix is a next step with a time in it, so silence has a shape and you can follow up instead of wondering whether they are still interested or just polite.
+> 
+> The 36 scripts in the Chat-to-Customer Playbook include this one, and a follow-up tracker so you know who to chase. ₦5,000.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 03 · We do not promise the pack will make you sales
+
+**Type:** Trust · **Why it works:** Trust. It states the limits of the product honestly, which is a brand rule and a real differentiator.
+
+### TikTok · 11:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> The Playbook will not create enquiries. We say that on the first page, on purpose.
+
+**On-screen beats**
+- It will not make
+people contact you
+- It will help you convert
+the people who already do
+- And if you have no enquiries,
+the problem is somewhere else
+- We would rather say so
+
+**Voiceover script**
+> The Playbook will not create enquiries, and we say that on the first page on purpose. It will help you convert the people who already contact you. If you have no enquiries, the problem is somewhere else, and no script will fix it, and we would rather say so than sell you a PDF that leaves you disappointed. The Playbook is for the people whose problem is what happens after the message arrives.
+
+**Caption**
+> The Playbook will not create enquiries, and we say that on the first page on purpose.
+> 
+> It will help you convert the people who already contact you.
+> 
+> If you have no enquiries, the problem is somewhere else, and no script will fix it. We would rather say so than sell you a PDF that leaves you disappointed.
+
+**Hashtags:** #Easywurld #HonestBusiness #WhatsAppBusiness #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, brand mark lower right.
+
+### Instagram · 12:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The Playbook will not create enquiries, and we say that on the first page on purpose.
+2. It will help you convert the people who already contact you.
+3. If you have no enquiries, the problem is somewhere else, and no script will fix it.
+4. We would rather say so than sell you a PDF that leaves you disappointed.
+5. The Playbook is for the people whose problem is what happens after the message arrives.
+
+**Caption**
+> If your problem is that nobody contacts you, start with the Clear Message Workbook or the Local Visibility Starter instead. Tell us and we will point you there.
+> 
+> WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #HonestBusiness #LagosSME #WhatsAppBusiness
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 12:00 · Feed post
+
+> The Playbook will not create enquiries, and we say that on the first page on purpose.
+> 
+> It will help you convert the people who already contact you. Every chat you already get, handled the way the scripts handle it, is worth more than the same chat handled the way most businesses handle it.
+> 
+> And if you have no enquiries, the problem is somewhere else, and no script will fix it. We would rather say so than sell you a PDF that leaves you disappointed on a Tuesday evening.
+> 
+> The Playbook is for the people whose problem is what happens after the message arrives.
+> 
+> If your problem is that nobody contacts you, start with the Clear Message Workbook or the Local Visibility Starter instead, and we will point you there.
+> 
+> WhatsApp: 0905 069 0837.
+
+### LinkedIn · 12:15 · Text post, 12:15
+
+> The Playbook will not create enquiries, and we say that on the first page on purpose.
+> 
+> It will help you convert the people who already contact you. Every chat you already get, handled the way the scripts handle it, is worth more than the same chat handled the way most businesses handle it.
+> 
+> And if you have no enquiries, the problem is somewhere else, and no script will fix it. We would rather say so than sell you a PDF that leaves you disappointed on a Tuesday evening.
+> 
+> This is the part of the product description most people would leave out, because leaving it out sounds better in the moment. Leaving it in means fewer sales and better customers, which is a trade we are happy to make and a position we can hold for years.
+> 
+> The Chat-to-Customer Playbook, ₦5,000: a five-stage flow, 36 scripts, a follow-up tracker, and a one-page WhatsApp Business setup checklist.
+> 
+> WhatsApp: 0905 069 0837. Message PLAYBOOK.
+
+---
+
+
+## Post 04 · The Chat-to-Customer Playbook, what is inside
+
+**Type:** Offer · **Why it works:** Offer. It lists the contents, which is the strongest close for a digital product.
+
+### TikTok · 13:45 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> What is inside the Chat-to-Customer Playbook, ₦5,000.
+
+**On-screen beats**
+- A five-stage flow,
+from greeting to after-sale
+- 36 scripts for the moments
+that cost you sales
+- A follow-up tracker
+in Excel
+- And a one-page WhatsApp
+Business checklist
+- Plus the nine replies
+people forget
+
+**Voiceover script**
+> What is inside the Chat-to-Customer Playbook, five thousand naira. A five-stage flow from greeting to after-sale. Thirty-six scripts for the moments that cost you sales. A follow-up tracker in Excel. A one-page WhatsApp Business setup checklist. And the nine replies people forget to send, which is the part that quietly doubles the closing rate for a lot of people. Five thousand naira, message PLAYBOOK on WhatsApp.
+
+**Caption**
+> What is inside the Chat-to-Customer Playbook, ₦5,000:
+> 
+> A five-stage flow, from greeting to after-sale.
+> 36 scripts for the moments that cost you sales.
+> A follow-up tracker in Excel.
+> A one-page WhatsApp Business setup checklist.
+> And the nine replies people forget to send.
+
+**Hashtags:** #Easywurld #DigitalDownloads #WhatsAppBusiness #SmallBusinessNigeria
+
+**Visual:** Cream background, a contents list, terracotta ticks, mark bottom right.
+
+### Instagram · 14:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. What is inside the Chat-to- Customer Playbook.
+2. A five-stage flow, from greeting to after-sale
+3. 36 scripts for the moments that cost you sales
+4. A follow-up tracker in Excel, and a one-page WhatsApp Business setup checklist
+5. And the nine replies people forget to send.  ₦5,000, message PLAYBOOK on WhatsApp: 0905 069 0837
+
+**Caption**
+> Written for Nigerian small businesses, in plain language, with worked examples. No software to buy, no jargon.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #WhatsAppBusiness
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 13:30 · Feed post
+
+> What is inside the Chat-to-Customer Playbook, ₦5,000.
+> 
+> 1. A five-stage flow, from greeting to after-sale.
+> 2. 36 scripts for the moments that cost you sales: the price question, "let me think about it", delivery, payment, the silent one.
+> 3. A follow-up tracker in Excel, so you know who to chase and when.
+> 4. A one-page WhatsApp Business setup checklist.
+> 5. The nine replies people forget to send, which is the part that quietly doubles the closing rate for a lot of people.
+> 
+> Written for Nigerian small businesses, in plain language, with worked examples. No software to buy, no jargon, no subscription.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 05 · The three replies people forget
+
+**Type:** Teach · **Why it works:** Teach. Concrete, specific, immediately usable advice that the audience can apply today.
+
+### TikTok · 15:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Three replies people forget to send, and they are the easy ones.
+
+**On-screen beats**
+- 1 · After they say yes,
+thank them and say what happens next
+- 2 · After they pay,
+tell them what you need from them
+- 3 · After it is done,
+ask for the review
+- All three take
+one line
+
+**Voiceover script**
+> Three replies people forget to send, and they are the easy ones. One, after they say yes: thank them, and tell them exactly what happens next and when. Two, after they pay: tell them what you need from them, so you are not chasing. Three, after it is done: ask for the review, while they are still happy. All three take one line, and all three are the moment where the customer is most willing to say yes to a small request.
+
+**Caption**
+> Three replies people forget to send, and they are the easy ones:
+> 
+> 1 · After they say yes: thank them, and say what happens next and when
+> 2 · After they pay: tell them what you need from them, so you are not chasing
+> 3 · After it is done: ask for the review, while they are still happy
+> 
+> All three take one line, and all three are when the customer is most willing to say yes.
+
+**Hashtags:** #WhatsAppBusiness #Easywurld #SalesTips #SmallBusinessNigeria
+
+**Visual:** Cream background, three numbered lines, terracotta ticks, mark bottom right.
+
+### Instagram · 15:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Three replies people forget to send, and they are the easy ones.
+2. 1 · After they say yes: thank them, and say what happens next and when
+3. 2 · After they pay: tell them what you need from them, so you are not chasing
+4. 3 · After it is done: ask for the review, while they are still happy
+5. All three take one line, and all three are when the customer is most willing to say yes.
+
+**Caption**
+> The nine forgotten replies are in the Chat-to-Customer Playbook, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #WhatsAppBusiness #Easywurld #LagosSME #SalesTips
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 15:00 · Feed post
+
+> Three replies people forget to send, and they are the easy ones.
+> 
+> 1. After they say yes: thank them, and say exactly what happens next and when.
+> 2. After they pay: tell them what you need from them, so you are not chasing people for things you should have asked for on day one.
+> 3. After it is done: ask for the review, while they are still happy.
+> 
+> All three take one line, and all three land at the moment when the customer is most willing to say yes to a small request. Which is why the one you skip is the one that costs you the most.
+> 
+> The nine forgotten replies are in the Chat-to-Customer Playbook, ₦5,000, with the 36 scripts and the tracker.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 16:15 · Text post, 16:15
+
+> Three replies people forget to send, and they are the easy ones.
+> 
+> After they say yes: thank them, and say exactly what happens next and when.
+> 
+> After they pay: tell them what you need from them, so you are not chasing people for things you should have asked for on day one.
+> 
+> After it is done: ask for the review, while they are still happy.
+> 
+> All three take one line, and all three land at the moment when the customer is most willing to say yes to a small request. Which is why the one you skip is the one that costs you the most.
+> 
+> The review request is the one people leave out, because by the time the job is done the customer has already been difficult once and you do not want to ask them for anything. That is exactly backwards. A customer who just got what they paid for is the most likely person alive to write you two sentences.
+> 
+> The nine forgotten replies are in the Chat-to-Customer Playbook, ₦5,000, with the 36 scripts and the tracker.
+> 
+> WhatsApp: 0905 069 0837. Message PLAYBOOK.
+
+---
+
+
+## Post 06 · Response speed is a bigger deal than you think
+
+**Type:** Hot take · **Why it works:** Hot take. A specific, evidence-shaped opinion that many business owners have never been told.
+
+### TikTok · 16:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> Reply speed matters more than most business owners think. Not the speed of typing. The speed of first contact.
+
+**On-screen beats**
+- If somebody messages
+at 9pm and you reply
+at 9am
+- They have already booked
+somebody else
+- Or talked themselves
+out of it
+- So the fix is a template
+and an alarm, not
+effort
+
+**Voiceover script**
+> Reply speed matters more than most business owners think. Not the speed of typing, the speed of first contact. If somebody messages at nine at night and you reply at nine in the morning, they have already booked somebody else, or talked themselves out of it. The fix is not effort. The fix is a template and an alarm. Most people are not slow on purpose, they are slow because answering is not a job until somebody assigns it to you.
+
+**Caption**
+> Reply speed matters more than most business owners think. Not the speed of typing, the speed of first contact.
+> 
+> If somebody messages at 9pm and you reply at 9am, they have already booked somebody else, or talked themselves out of it.
+> 
+> The fix is a template and an alarm, not effort.
+
+**Hashtags:** #HotTake #Easywurld #WhatsAppBusiness #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 17:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Reply speed matters more than most business owners think.
+2. Not the speed of typing. The speed of first contact.
+3. If somebody messages at 9pm and you reply at 9am,
+4. they have already booked somebody else, or talked themselves out of it.
+5. The fix is not effort. The fix is a template and an alarm.
+
+**Caption**
+> Most people are not slow on purpose. They are slow because answering is not a job until somebody assigns it to you.
+> 
+> The Playbook, ₦5,000, message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #HotTake #Easywurld #LagosSME #WhatsAppBusiness
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 16:30 · Feed post
+
+> Reply speed matters more than most business owners think. Not the speed of typing, the speed of first contact.
+> 
+> If somebody messages at nine at night and you reply at nine in the morning, they have already booked somebody else, or talked themselves out of it. The gap between those two moments is where a good customer is lost, and it is lost quietly, so nobody notices it on a spreadsheet.
+> 
+> The fix is not effort. The fix is a template and an alarm.
+> 
+> Most people are not slow on purpose. They are slow because answering is not a job until somebody assigns it to you, and nobody ever assigns it, so it sits at the bottom of a real day.
+> 
+> The Chat-to-Customer Playbook, ₦5,000, has the scripts, the tracker and the setup checklist. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 07 · The chat from someone who wants to buy
+
+**Type:** Relatable · **Why it works:** Relatable. A funny, painfully accurate description of a real message.
+
+### TikTok · 18:00 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> The chat that shows up at 11:47pm on a Sunday
+
+**On-screen beats**
+- "Good afternoon, I saw your
+post, how much is the
+still available?"
+- It is 11pm on a Sunday
+- And they are clearly
+still typing, which means
+they care
+
+**Voiceover script**
+> The chat that shows up at 11:47pm on a Sunday. Good afternoon, I saw your post, how much is the still available. It is 11pm on a Sunday, and they are clearly still typing, which means they care. That is the person you should be replying to at eleven at night. The person who sent it at ten on a Tuesday afternoon is browsing. The one sending it at midnight on a Sunday is deciding.
+
+**Caption**
+> The chat that shows up at 11:47pm on a Sunday:
+> 
+> "Good afternoon, I saw your post, how much is the still available?"
+> 
+> It is 11pm on a Sunday, and they are clearly still typing, which means they care.
+> 
+> That is the person you should be replying to at eleven at night.
+
+**Hashtags:** #Meme #Easywurld #Relatable #WhatsAppBusiness
+
+**Visual:** Two-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 18:30 · Static meme post, 4:5
+
+**Slide copy**
+1. The chat that shows up at 11:47pm on a Sunday
+2. "Good afternoon, I saw your post, how much is the still available?"
+3. It is 11pm on a Sunday,
+4. and they are clearly still typing, which means they care
+5. The one sending it at ten on a Tuesday afternoon is browsing.  The one sending it at midnight on a Sunday is deciding.
+
+**Caption**
+> The Quick Reply templates in the Playbook exist for exactly this, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #WhatsAppBusiness
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 18:00 · Feed post
+
+> The chat that shows up at 11:47pm on a Sunday.
+> 
+> "Good afternoon, I saw your post, how much is the still available?"
+> 
+> It is 11pm on a Sunday, and they are clearly still typing, which means they care.
+> 
+> That is the person you should be replying to at eleven at night. The person who sent it at ten on a Tuesday afternoon is browsing. The one sending it at midnight on a Sunday is deciding. The timing tells you which one it is, and it takes one glance.
+> 
+> The Playbook has quick-reply templates so you can answer in under a minute without writing from scratch at midnight, and the tracker so you can follow up tomorrow. ₦5,000.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 08 · How to set up WhatsApp Business properly
+
+**Type:** Teach · **Why it works:** Teach. A small, useful setup lesson most people never do, and it is a freebie from the pack.
+
+### TikTok · 19:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Six settings to change in WhatsApp Business, ten minutes, and it changes how you look.
+
+**On-screen beats**
+- 1 · Business name and category,
+so it is searchable
+- 2 · Catalogue with your
+three best items
+- 3 · Away message with
+your hours
+- 4 · Quick replies,
+so you answer in seconds
+- 5 · Labels, so you know
+who owes you
+- 6 · Profile photo, not
+a picture of the logo
+on a dark background
+
+**Voiceover script**
+> Six settings to change in WhatsApp Business, ten minutes, and it changes how you look. One, business name and category, so you are searchable. Two, a catalogue with your three best items, not your whole shop. Three, an away message with your hours. Four, quick replies, so you can answer in seconds. Five, labels, so you know who owes you what. Six, a proper profile photo. Nobody believes a business is real when their picture is a logo on a dark background.
+
+**Caption**
+> Six settings to change in WhatsApp Business, ten minutes:
+> 
+> 1 · Business name and category, so it is searchable
+> 2 · Catalogue with your three best items
+> 3 · Away message with your hours
+> 4 · Quick replies, so you answer in seconds
+> 5 · Labels, so you know who owes you
+> 6 · A real profile photo, not a logo on a dark background
+> 
+> Nobody believes a business is real when their picture is a logo.
+
+**Hashtags:** #WhatsAppBusiness #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, six numbered settings, terracotta numbers, mark bottom right.
+
+### Instagram · 19:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Six settings to change in WhatsApp Business, ten minutes.
+2. 1 · Business name and category 2 · Catalogue with your three best items 3 · Away message with your hours
+3. 4 · Quick replies, so you answer in seconds 5 · Labels, so you know who owes you
+4. 6 · A real profile photo, not a logo on a dark background
+5. Nobody believes a business is real when their picture is a logo.
+
+**Caption**
+> There is a one-page checklist for all of this in the Chat-to-Customer Playbook, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #WhatsAppBusiness #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 19:30 · Feed post
+
+> Six settings to change in WhatsApp Business. Ten minutes, and it changes how you look.
+> 
+> 1. Business name and category, so you are searchable.
+> 2. A catalogue with your three best items, not your whole shop.
+> 3. An away message with your hours.
+> 4. Quick replies, so you can answer in seconds instead of typing from scratch.
+> 5. Labels, so you know who owes you what.
+> 6. A real profile photo. Nobody believes a business is real when their picture is a logo on a dark background.
+> 
+> Most people never touch the settings, and then they conclude that WhatsApp is not for business. It is a tool, and a tool nobody set up is a tool that is working against them.
+> 
+> There is a one-page checklist for all six in the Chat-to-Customer Playbook, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 09 · The Playbook, the follow-up tracker
+
+**Type:** Offer · **Why it works:** Offer. A third angle on the pack that highlights the tracker, which is the most tangible item.
+
+### TikTok · 20:00 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> The tracker in the Playbook answers one question: who do I chase today?
+
+**On-screen beats**
+- Name, what they wanted,
+what you said, when you
+will follow up
+- And a column that
+turns red
+- That is it
+- ₦5,000, message PLAYBOOK
+
+**Voiceover script**
+> The tracker in the Playbook answers one question: who do I chase today? Name, what they wanted, what you said, when you will follow up, and a column that turns red when the day arrives. That is it. And it is the difference between following up and meaning to, because a thing you did not write down is a thing you forgot.
+
+**Caption**
+> The tracker in the Playbook answers one question: who do I chase today?
+> 
+> Name, what they wanted, what you said, when you will follow up, and a column that turns red when the day arrives.
+> 
+> That is the difference between following up and meaning to.
+
+**Hashtags:** #Easywurld #DigitalDownloads #WhatsAppBusiness #SmallBusinessNigeria
+
+**Visual:** Cream background, a tracker mock, terracotta accent, mark bottom right.
+
+### Instagram · 20:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The tracker in the Playbook answers one question:
+2. Who do I chase today?
+3. Name, what they wanted, what you said, when you will follow up, and a column that turns red when the day arrives.
+4. That is the difference between following up and meaning to.
+5. A thing you did not write down is a thing you forgot.  ₦5,000, message PLAYBOOK on WhatsApp: 0905 069 0837
+
+**Caption**
+> Open it in Excel, Google Sheets, or Numbers on your phone. Nothing to install, no account, no monthly fee.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #WhatsAppBusiness
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 20:15 · Feed post
+
+> The tracker in the Chat-to-Customer Playbook answers one question: who do I chase today?
+> 
+> Name. What they wanted. What you said. When you will follow up. And a column that turns red when the day arrives.
+> 
+> That is the difference between following up and meaning to, because a thing you did not write down is a thing you forgot. Everybody means to follow up. Almost nobody has the list.
+> 
+> It is a simple Excel file. It works in Excel, Google Sheets, or Numbers on your phone. Nothing to install, no account, no monthly fee, and it does not need to be beautiful, only used.
+> 
+> The Chat-to-Customer Playbook, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 17:15 · Text post, 17:15
+
+> The tracker in the Chat-to-Customer Playbook answers one question: who do I chase today?
+> 
+> Name. What they wanted. What you said. When you will follow up. And a column that turns red when the day arrives.
+> 
+> That is the difference between following up and meaning to, because a thing you did not write down is a thing you forgot. Everybody means to follow up. Almost nobody has the list.
+> 
+> It is a simple Excel file. It works in Excel, Google Sheets, or Numbers on your phone. Nothing to install, no account, no monthly fee, and it does not need to be beautiful, only used.
+> 
+> There is a version of this where the business buys a CRM, which is a real answer if you have a team, and an expensive answer if you have a phone and a WhatsApp account. For most small businesses in Lagos, the phone and the sheet are the right amount of tool.
+> 
+> The Chat-to-Customer Playbook, ₦5,000.
+> 
+> WhatsApp: 0905 069 0837. Message PLAYBOOK.
+
+---
+
+
+## Post 10 · The message that took three days to write
+
+**Type:** Story · **Why it works:** Story. A human, relatable story about writing scripts for a real business.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> One script in the Playbook took three days to write, and it is eleven words long.
+
+**On-screen beats**
+- "I can do Tuesday
+or Thursday."
+- That is it
+- It took three days because
+we had to find the words
+that did not sound like
+pressure
+- And it worked, because
+it gave the customer
+a choice
+
+**Voiceover script**
+> One script in the Playbook took three days to write, and it is eleven words long. I can do Tuesday or Thursday. That is it. It took three days because we had to find the words that did not sound like pressure, and because every version we tried sounded like either a chase or an apology. And it worked, because it gave the customer a choice, and a choice is not a no. Most follow-ups fail because they ask one question, and one question has one answer.
+
+**Caption**
+> One script in the Playbook took three days to write, and it is eleven words long:
+> 
+> "I can do Tuesday or Thursday."
+> 
+> It took three days because we had to find words that did not sound like pressure. And it worked, because it gave the customer a choice, and a choice is not a no.
+> 
+> Most follow-ups fail because they ask one question, and one question has one answer.
+
+**Hashtags:** #Easywurld #Story #WhatsAppBusiness #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 20:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. One script in the Playbook took three days to write,
+2. and it is eleven words long:
+3. "I can do Tuesday or Thursday."
+4. It took three days because we had to find words that did not sound like pressure, and every version sounded like either a chase or an apology.
+5. And it worked, because it gave the customer a choice, and a choice is not a no.
+
+**Caption**
+> Most follow-ups fail because they ask one question, and one question has one answer.
+> 
+> ₦5,000, message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #Story #LagosSME #WhatsAppBusiness
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 21:00 · Feed post
+
+> One script in the Playbook took three days to write, and it is eleven words long.
+> 
+> "I can do Tuesday or Thursday."
+> 
+> It took three days because we had to find words that did not sound like pressure, and because every version we tried sounded like either a chase or an apology. Both of those make the customer feel bad, and a customer who feels bad says no.
+> 
+> And it worked, because it gave the customer a choice, and a choice is not a no. Most follow-ups fail because they ask one question, and one question has one answer, which is usually the answer you did not want.
+> 
+> The 36 scripts in the Chat-to-Customer Playbook were written like this, one at a time, ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 11 · What is the message that costs you the most
+
+**Type:** Direct response · **Why it works:** Direct response. It asks for a specific, personal detail, which produces high-quality comments.
+
+### TikTok · 21:30 · Kinetic type with voiceover, 20s
+
+**Hook (0-3s)**
+> What is the message that costs you the most? Be honest.
+
+**On-screen beats**
+- The price question?
+- The one that says
+"let me think"?
+- The one that just says
+"okay" and goes?
+- Tell us which one,
+and we will send you
+a better version
+
+**Voiceover script**
+> What is the message that costs you the most? Be honest. The price question? The one that says let me think? The one that just says okay and goes? Tell us which one, and we will send you a better version, free, here, as a reply. No purchase, no form, no wait. We would rather help you with one reply than sell you a pack you did not need.
+
+**Caption**
+> What is the message that costs you the most? Be honest.
+> 
+> The price question? The one that says "let me think"? The one that just says "okay" and goes?
+> 
+> Tell us which one, and we will send you a better version, free, here, as a reply. No purchase, no form, no wait.
+
+**Hashtags:** #Easywurld #WhatsAppBusiness #SalesTips #SmallBusinessNigeria
+
+**Visual:** Cream background, a chat bubble, terracotta accent, mark bottom right.
+
+### Instagram · 21:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. What is the message that costs you the most? Be honest.
+2. The price question?
+3. The one that says "let me think"?
+4. The one that just says "okay" and goes?
+5. Tell us which one, and we will send you a better version, free, here, as a reply.  No purchase, no form, no wait.
+
+**Caption**
+> We would rather help you with one reply than sell you a pack you did not need.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #LagosSME #WhatsAppBusiness #SalesTips
+
+**Visual:** Cream slides, deep green serif, terracotta marks.
+
+### Facebook · 21:45 · Feed post
+
+> What is the message that costs you the most? Be honest.
+> 
+> The price question? The one that says "let me think about it"? The one that just says "okay" and goes quiet?
+> 
+> Tell us which one, and we will send you a better version, free, right here as a reply. No purchase, no form, no waiting, no phone number required.
+> 
+> We would rather help you with one reply than sell you a pack you did not need.
+> 
+> And if you want all 36 scripts plus the tracker and the setup checklist, it is ₦5,000: message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 20:15 (optional) · Text post, 20:15 (optional)
+
+> What is the message that costs you the most? Be honest.
+> 
+> The price question? The one that says "let me think about it"? The one that just says "okay" and goes quiet?
+> 
+> Tell us which one, and we will send you a better version, free, right here as a reply. No purchase, no form, no waiting, no phone number required.
+> 
+> We would rather help you with one reply than sell you a pack you did not need.
+> 
+> If you want all 36 scripts, plus the follow-up tracker and the setup checklist, the Chat-to-Customer Playbook is ₦5,000.
+> 
+> WhatsApp: 0905 069 0837. Message PLAYBOOK.
+
+---
+
+
+# Day 26 · Friday · Friday 13 Nov 2026 — The week you plan, and the site that lives
+
+**Offer in focus:** PROMPTS + LAUNCH
+
+---
+
+
+## Post 01 · The five parts of a good prompt
+
+**Type:** Teach · **Why it works:** Teach. It is the core teaching of the Prompt Desk and immediately usable.
+
+### TikTok · 07:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Five parts of a prompt that gets you a usable answer, not a vague one.
+
+**On-screen beats**
+- 1 · The role,
+who the AI should be
+- 2 · The task,
+what you want done
+- 3 · The context,
+who it is for and why
+- 4 · The constraints,
+length, tone, format
+- 5 · The example,
+one sample of good
+
+**Voiceover script**
+> Five parts of a prompt that gets you a usable answer instead of a vague one. One, the role: who the AI should be. Two, the task: what you want done. Three, the context: who it is for and why. Four, the constraints: length, tone, format. Five, the example: one sample of a good answer. Most people use one and two, which is why they get search-box answers, because that is all a search box can do.
+
+**Caption**
+> Five parts of a prompt that gets you a usable answer:
+> 
+> 1 · The role, who the AI should be
+> 2 · The task, what you want done
+> 3 · The context, who it is for and why
+> 4 · The constraints, length, tone, format
+> 5 · The example, one sample of good
+> 
+> Most people use one and two, which is why they get search-box answers.
+
+**Hashtags:** #AIForBusiness #Easywurld #SmallBusinessNigeria #ProductivityTips
+
+**Visual:** Cream background, five numbered parts, terracotta numbers, mark bottom right.
+
+### Instagram · 07:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Five parts of a prompt that gets you a usable answer.
+2. 1 · The role, who the AI should be 2 · The task, what you want done
+3. 3 · The context, who it is for and why 4 · The constraints, length, tone, format
+4. 5 · The example, one sample of good
+5. Most people use one and two, which is why they get search-box answers.
+
+**Caption**
+> The Everyday AI Prompt Desk, ₦5,000, has 60 ready-to-adapt prompts built this way. Message PROMPTS on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #AIForBusiness #Easywurld #LagosSME #ProductivityTips
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 08:00 · Feed post
+
+> Five parts of a prompt that gets you a usable answer instead of a vague one.
+> 
+> 1. The role: who the AI should be.
+> 2. The task: what you want done.
+> 3. The context: who it is for and why.
+> 4. The constraints: length, tone, format.
+> 5. The example: one sample of a good answer.
+> 
+> Most people use one and two, which is why they get search-box answers, because that is all a search box can do. Add the context and the same tool gives you a different answer, because now it knows what you are trying to achieve and who is reading it.
+> 
+> The Everyday AI Prompt Desk, ₦5,000, has 60 ready-to-adapt prompts built this way, organised by the work small businesses actually do.
+> 
+> Message PROMPTS on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 08:15 · Text post, 08:15
+
+> Five parts of a prompt that gets you a usable answer instead of a vague one.
+> 
+> The role: who the AI should be.
+> 
+> The task: what you want done.
+> 
+> The context: who it is for and why.
+> 
+> The constraints: length, tone, format.
+> 
+> The example: one sample of a good answer.
+> 
+> Most people use one and two, which is why they get search-box answers, because that is all a search box can do. Add the context and the same tool gives you a different answer, because now it knows what you are trying to achieve and who is reading it.
+> 
+> The example is the part people skip, and it is the part that most reliably fixes tone. One sample of a good answer is worth a paragraph of description, because it removes the guessing about what you meant.
+> 
+> There is also a part three of this that matters more than the craft: what you must never paste in. Customer lists, bank details, passwords, unreleased plans. A prompt is only as safe as the data you put into it.
+> 
+> The Everyday AI Prompt Desk, ₦5,000, has 60 ready-to-adapt prompts, a method for writing your own, and a review and safety checklist.
+> 
+> WhatsApp: 0905 069 0837. Message PROMPTS.
+
+---
+
+
+## Post 02 · Asking AI to write a caption
+
+**Type:** Meme · **Why it works:** Meme. A very shared experience that teaches the value of the role and context parts.
+
+### TikTok · 09:15 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> Asking AI to write a caption for my business
+
+**On-screen beats**
+- "Write a caption for my
+business"
+- AI: "Unlock the power of
+your brand with our
+unparalleled solutions"
+- Me: yes, exactly,
+that
+is what I meant
+- It is not
+
+**Voiceover script**
+> Asking AI to write a caption for my business. AI: unlock the power of your brand with our unparalleled solutions. Me: yes, exactly, that is what I meant. It is not. The problem is I gave it a task and no context, so it did what everybody on the internet does, which is say the most average thing possible. The moment I tell it who the customer is and what she already knows, it writes like a person.
+
+**Caption**
+> Asking AI to write a caption for my business.
+> 
+> AI: "Unlock the power of your brand with our unparalleled solutions."
+> 
+> Me: yes, exactly, that is what I meant.
+> 
+> It is not.
+> 
+> The problem is I gave it a task and no context. The moment I tell it who the customer is and what she already knows, it writes like a person.
+
+**Hashtags:** #Meme #AIForBusiness #Easywurld #Relatable
+
+**Visual:** Two-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 10:00 · Static meme post, 4:5
+
+**Slide copy**
+1. Asking AI to write a caption for my business
+2. "Write a caption for my business"
+3. AI: "Unlock the power of your brand with our unparalleled solutions"
+4. Me: yes, exactly, that is what I meant
+5. It is not
+6. I gave it a task and no context. The moment I tell it who the customer is and what she already knows, it writes like a person.
+
+**Caption**
+> Sixty prompts built the right way, ₦5,000. Message PROMPTS on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #AIForBusiness #Easywurld #LagosSME
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 10:30 · Feed post
+
+> Asking AI to write a caption for my business.
+> 
+> "Write a caption for my business."
+> 
+> AI: "Unlock the power of your brand with our unparalleled solutions."
+> 
+> Me: yes, exactly, that is what I meant.
+> 
+> It is not.
+> 
+> The problem is I gave it a task and no context, so it did what everybody on the internet does, which is say the most average thing possible. The moment I tell it who the customer is, what she already knows, and what she is worried about, it writes like a person. Same tool, same model, different prompt.
+> 
+> The Everyday AI Prompt Desk, ₦5,000, has sixty prompts built with the role, the task, the context, the constraints and an example, plus a review and safety checklist.
+> 
+> Message PROMPTS on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 03 · We review everything before it goes out
+
+**Type:** Trust · **Why it works:** Trust. It makes the safety stance of the Prompt Desk explicit and responsible.
+
+### TikTok · 11:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> We review everything before it goes out. Even the AI's version.
+
+**On-screen beats**
+- The AI is fast,
+not careful
+- It does not know your
+customers, your prices,
+or your promises
+- So the rule is simple:
+AI drafts, you decide
+- And never paste anything
+private
+
+**Voiceover script**
+> We review everything before it goes out, even the AI's version. The AI is fast, not careful. It does not know your customers, your prices or your promises. So the rule is simple: the AI drafts, you decide. And never paste anything private into it. A customer list, a bank detail, a password, an unreleased plan. If it is private, it does not go in the box. That checklist is in the Prompt Desk, on purpose, before the prompts.
+
+**Caption**
+> The AI is fast, not careful. It does not know your customers, your prices or your promises.
+> 
+> So the rule is simple: the AI drafts, you decide.
+> 
+> And never paste anything private into it. A customer list, a bank detail, a password, an unreleased plan.
+> 
+> That checklist is in the Prompt Desk, on purpose, before the prompts.
+
+**Hashtags:** #Easywurld #AIForBusiness #HonestBusiness #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, brand mark lower right.
+
+### Instagram · 12:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. We review everything before it goes out. Even the AI's version.
+2. The AI is fast, not careful.
+3. It does not know your customers, your prices, or your promises.
+4. So the rule is simple: AI drafts, you decide.
+5. And never paste anything private into it. A customer list, a bank detail, a password, an unreleased plan.
+
+**Caption**
+> That checklist is in the Prompt Desk, on purpose, before the prompts.
+> 
+> ₦5,000, message PROMPTS on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #AIForBusiness #LagosSME #HonestBusiness
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 12:00 · Feed post
+
+> We review everything before it goes out, even the AI's version.
+> 
+> The AI is fast, not careful. It does not know your customers, your prices or your promises. It does not know that you would rather not promise delivery in two days, or that your business will not do something everybody else does, or that you do not use the word "solutions".
+> 
+> So the rule is simple: the AI drafts, you decide.
+> 
+> And never paste anything private into it. A customer list, a bank detail, a password, an unreleased plan, a contract. If it is private, it does not go in the box. That checklist is in the Everyday AI Prompt Desk, and it comes before the prompts, on purpose.
+> 
+> ₦5,000. Message PROMPTS on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 12:15 · Text post, 12:15
+
+> We review everything before it goes out, even the AI's version.
+> 
+> The AI is fast, not careful. It does not know your customers, your prices or your promises. It does not know that you would rather not promise delivery in two days, or that your business will not do something everybody else does, or that you do not use the word "solutions".
+> 
+> So the rule is simple: the AI drafts, you decide.
+> 
+> And never paste anything private into it. A customer list, a bank detail, a password, an unreleased plan, a contract. If it is private, it does not go in the box.
+> 
+> That checklist is in the Everyday AI Prompt Desk, ₦5,000, and it comes before the prompts, on purpose. We would rather sell sixty useful prompts with a safety page than a hundred prompts and a footnote nobody reads.
+> 
+> Output quality also varies by tool, which is why the review step is not optional advice. It is the job.
+> 
+> WhatsApp: 0905 069 0837. Message PROMPTS.
+
+---
+
+
+## Post 04 · The Everyday AI Prompt Desk, what is inside
+
+**Type:** Offer · **Why it works:** Offer. It lists the contents of the AI pack in a way that is immediately legible.
+
+### TikTok · 13:45 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> What is inside the Everyday AI Prompt Desk, ₦5,000.
+
+**On-screen beats**
+- 60 prompts, organised by
+the work you actually do
+- Content, replies, sales,
+documents, website,
+planning, team
+- A method for writing
+your own
+- A review and safety checklist
+- And a template for an
+enquiry assistant
+
+**Voiceover script**
+> What is inside the Everyday AI Prompt Desk, five thousand naira. Sixty prompts, organised by the work small businesses actually do: content, customer replies, sales, documents, website, planning, team. A method for writing your own, so you are not stuck with the sixty. A review and safety checklist. And a template for designing a small enquiry assistant, which follows the same rule we use for everything: decide what it will refuse and when it hands over to a human, before you decide what it will say. It works with any mainstream AI chat tool.
+
+**Caption**
+> What is inside the Everyday AI Prompt Desk, ₦5,000:
+> 
+> 60 prompts, organised by the work you actually do: content, replies, sales, documents, website, planning, team.
+> A method for writing your own.
+> A review and safety checklist.
+> And a template for a small enquiry assistant.
+
+**Hashtags:** #Easywurld #DigitalDownloads #AIForBusiness #SmallBusinessNigeria
+
+**Visual:** Cream background, a contents list, terracotta ticks, mark bottom right.
+
+### Instagram · 14:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. What is inside the Everyday AI Prompt Desk.
+2. 60 prompts, organised by the work you actually do: content, replies, sales, documents, website, planning, team.
+3. A method for writing your own, so you are not stuck with the sixty.
+4. A review and safety checklist.
+5. And a template for a small enquiry assistant.  ₦5,000, message PROMPTS on WhatsApp: 0905 069 0837
+
+**Caption**
+> It works with any mainstream AI chat tool, because the method is not tool-specific.
+> 
+> Message PROMPTS on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #AIForBusiness
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 13:30 · Feed post
+
+> What is inside the Everyday AI Prompt Desk, ₦5,000.
+> 
+> 1. 60 prompts, organised by the work small businesses actually do: content, customer replies, sales, documents, website, planning, team.
+> 2. A method for writing your own, so you are not stuck with the sixty.
+> 3. A review and safety checklist, and what must never be pasted in.
+> 4. A template for designing a small enquiry assistant, with clear boundaries.
+> 
+> Point four is the one nobody expects, and it is the one we would keep. If you build a little assistant for enquiries, the first decision should not be what it says. It should be what it refuses and when it hands over to a human. Get that wrong and you have built a thing that confidently tells a customer the wrong price.
+> 
+> It works with any mainstream AI chat tool, because the method is not tool-specific.
+> 
+> Message PROMPTS on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 16:15 · Text post, 16:15
+
+> What is inside the Everyday AI Prompt Desk, ₦5,000.
+> 
+> Sixty prompts, organised by the work small businesses actually do: content, customer replies, sales, documents, website, planning, team.
+> 
+> A method for writing your own, so you are not stuck with the sixty.
+> 
+> A review and safety checklist, and what must never be pasted in.
+> 
+> And a template for designing a small enquiry assistant, with clear boundaries.
+> 
+> Point four is the one nobody expects, and it is the one we would keep. If you build a little assistant for enquiries, the first decision should not be what it says. It should be what it refuses and when it hands over to a human. Get that wrong and you have built a thing that confidently tells a customer the wrong price, and then apologises by email.
+> 
+> It works with any mainstream AI chat tool, because the method is not tool-specific. Output quality varies by tool, which is why the review step is the job and not advice.
+> 
+> WhatsApp: 0905 069 0837. Message PROMPTS.
+
+---
+
+
+## Post 05 · Who should own your domain
+
+**Type:** Teach · **Why it works:** Teach. It is a serious, real risk that most small business owners have never considered.
+
+### TikTok · 15:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Who owns your domain? If the answer is your developer, your business is not yours.
+
+**On-screen beats**
+- If they leave, the site
+goes with them
+- And you cannot get it back
+without paying them
+- The rule is simple:
+- Own the domain, the hosting
+and the site
+- Always. In your name
+
+**Voiceover script**
+> Who owns your domain? If the answer is your developer, your business is not really yours. If they leave, the site goes with them, and you cannot get it back without paying them. The rule is simple: own the domain, the hosting and the site, always, in the name of the business or the person who owns the business. It takes ten minutes to fix now and it is nearly impossible to fix later.
+
+**Caption**
+> Who owns your domain? If the answer is your developer, your business is not really yours.
+> 
+> If they leave, the site goes with them, and you cannot get it back without paying them.
+> 
+> The rule is simple: own the domain, the hosting and the site, always, in the name of the business or of the person who owns the business.
+
+**Hashtags:** #WebDesign #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, a domain card mock, terracotta accent, mark bottom right.
+
+### Instagram · 15:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Who owns your domain?
+2. If the answer is your developer, your business is not really yours.
+3. If they leave, the site goes with them, and you cannot get it back without paying them.
+4. The rule is simple: own the domain, the hosting and the site.
+5. Always. In the name of the business, or of the person who owns the business.  It takes ten minutes to fix now. It is nearly impossible to fix later.
+
+**Caption**
+> There is an account inventory worksheet in the Website Launch & Care Handbook, ₦5,000, with renewal reminders. Message LAUNCH on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #WebDesign #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta rule.
+
+### Facebook · 15:00 · Feed post
+
+> Who owns your domain? If the answer is your developer, your business is not really yours.
+> 
+> If they leave, the site goes with them, and you cannot get it back without paying them. This happens more often than anybody admits, because nothing goes wrong right up until the day it does.
+> 
+> The rule is simple: own the domain, the hosting and the site. Always. In the name of the business, or in the name of the person who owns the business, and make sure the email address on the account is an address you control, not a developer's.
+> 
+> It takes ten minutes to fix now, and it is nearly impossible to fix later.
+> 
+> There is an account inventory worksheet, with renewal reminders so you do not lose a domain to a lapsed card, in the Website Launch & Care Handbook, ₦5,000.
+> 
+> Message LAUNCH on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 17:15 · Text post, 17:15
+
+> Who owns your domain? If the answer is your developer, your business is not really yours.
+> 
+> If they leave, the site goes with them, and you cannot get it back without paying them. This happens more often than anybody admits, because nothing goes wrong right up until the day it does.
+> 
+> The rule is simple: own the domain, the hosting and the site. Always. In the name of the business, or in the name of the person who owns the business. And make sure the email address on the account is one you control, not a developer's, because that email is the reset button for everything else.
+> 
+> It takes ten minutes to fix now and it is nearly impossible to fix later.
+> 
+> There is an account inventory worksheet in the Website Launch & Care Handbook, ₦5,000, with renewal reminders so you do not lose a domain to a lapsed card, plus a launch tracker and a 30-minute monthly care routine.
+> 
+> WhatsApp: 0905 069 0837. Message LAUNCH.
+
+---
+
+
+## Post 06 · The Website Launch & Care Handbook
+
+**Type:** Offer · **Why it works:** Offer. It introduces a pack that has had less airtime, with a clear value proposition.
+
+### TikTok · 16:30 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> The Website Launch & Care Handbook, ₦5,000. It does not build your site. It tells you what to do.
+
+**On-screen beats**
+- Goals, pages and content
+- Domain and hosting,
+in plain language
+- How to brief and
+compare quotes
+- A launch-day checklist
+- And a 30-minute monthly
+care routine
+
+**Voiceover script**
+> The Website Launch & Care Handbook, five thousand naira. It does not build your site, and it says so on the first page. What it does is tell you what to do, in the right order. Goals, pages and content. Domain and hosting in plain language. Who should own what. How to brief and compare quotes. A launch-day checklist. And a thirty-minute monthly care routine, so the site does not decay in a year while nobody is looking at it.
+
+**Caption**
+> The Website Launch & Care Handbook, ₦5,000. It does not build your site, and it says so on the first page.
+> 
+> Goals, pages and content. Domain and hosting in plain language. Who should own what. How to brief and compare quotes. A launch-day checklist. And a 30-minute monthly care routine.
+
+**Hashtags:** #Easywurld #DigitalDownloads #WebDesign #SmallBusinessNigeria
+
+**Visual:** Cream background, a launch checklist mock, terracotta accent, mark bottom right.
+
+### Instagram · 17:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The Website Launch & Care Handbook.
+2. It does not build your site, and it says so on the first page.
+3. Goals, pages and content. Domain and hosting in plain language. Who should own what. How to brief and compare quotes.
+4. A launch-day checklist, and a 30-minute monthly care routine so the site does not decay in a year while nobody is looking.
+5. ₦5,000, message LAUNCH on WhatsApp: 0905 069 0837
+
+**Caption**
+> It is neutral about tools, because the tools change and the decisions do not.
+> 
+> Message LAUNCH on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #WebDesign
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 16:30 · Feed post
+
+> The Website Launch & Care Handbook, ₦5,000. It does not build your site, and it says so on the first page.
+> 
+> 1. Goals, pages and content, in that order, because the content is the hard part and the pages are not.
+> 2. Domain and hosting in plain language, including what a registrar is and why a cheap domain is sometimes a bad deal.
+> 3. Who should own what.
+> 4. How to brief and compare quotes, including the three questions that reveal whether they have done it before.
+> 5. A launch-day checklist.
+> 6. A 30-minute monthly care routine, so the site does not decay in a year while nobody is looking at it.
+> 7. An Excel workbook with a launch tracker, a care log and an account inventory with renewal reminders.
+> 8. A ready-to-fill website brief.
+> 
+> It is neutral about tools, because the tools change every year and the decisions do not.
+> 
+> Message LAUNCH on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 07 · The website is not the business
+
+**Type:** Hot take · **Why it works:** Hot take. A sharp point of view that separates the studio's method from the typical agency.
+
+### TikTok · 18:00 · Talking head, 25s
+
+**Hook (0-3s)**
+> A website is not a business. It is a tool that sits at the end of a process.
+
+**On-screen beats**
+- The site is last,
+not first
+- Understand, simplify,
+build, optimize
+- Build the site first and
+you build the wrong site
+- Faster, and cheaper
+
+**Voiceover script**
+> A website is not a business. It is a tool that sits at the end of a process. The site is last, not first. Understand, simplify, build, optimize. If you build the site first, you build the wrong site, faster, and then you pay to build it again. Which is slower and more expensive, and everybody has done it.
+
+**Caption**
+> A website is not a business. It is a tool that sits at the end of a process.
+> 
+> The site is last, not first. Understand, simplify, build, optimize.
+> 
+> If you build the site first, you build the wrong site, faster, and then you pay to build it again.
+
+**Hashtags:** #HotTake #Easywurld #WebDesign #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 18:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. A website is not a business.
+2. It is a tool that sits at the end of a process.
+3. The site is last, not first.
+4. Understand, simplify, build, optimize.
+5. If you build the site first, you build the wrong site, faster, and then you pay to build it again.
+
+**Caption**
+> Which is slower and more expensive, and everybody has done it.
+> 
+> The first step is free: send your link and get three points within 24 hours. website-builder-portfolio.vercel.app
+
+**Hashtags:** #HotTake #Easywurld #LagosSME #WebDesign
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 18:00 · Feed post
+
+> A website is not a business. It is a tool that sits at the end of a process.
+> 
+> The site is last, not first. Understand, simplify, build, optimize.
+> 
+> If you build the site first, you build the wrong site, faster, and then you pay to build it again. Which is slower and more expensive, and everybody has done it. We have watched people spend months and money on a site, and then change the offer, and then need a different site. The site was never the problem, it was the first thing they could do.
+> 
+> The first step costs nothing: send your link, your business name and one line, and get three points within 24 hours. website-builder-portfolio.vercel.app
+> 
+> And the Website Launch & Care Handbook, ₦5,000, walks through the same order, with the decisions made before the build. Message LAUNCH on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 08 · The website that was still not finished
+
+**Type:** Relatable · **Why it works:** Relatable. A specific and common situation that the Launch Handbook directly answers.
+
+### TikTok · 19:00 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> The website that went live four months ago and is still not finished
+
+**On-screen beats**
+- The about page
+has a placeholder
+- The contact form
+goes nowhere
+- The phone number
+is the old one
+- And the last thing
+you did was take
+the site down for
+"maintenance"
+
+**Voiceover script**
+> The website that went live four months ago and is still not finished. The about page has a placeholder. The contact form goes nowhere. The phone number is the old one. And the last thing you did was take the site down for maintenance, which is what happens when people are embarrassed by it. Nobody is going to judge your site as hard as you judge your site. That is genuinely good news.
+
+**Caption**
+> The website that went live four months ago and is still not finished.
+> 
+> The about page has a placeholder. The contact form goes nowhere. The phone number is the old one. And the last thing you did was take the site down for "maintenance".
+> 
+> Nobody is going to judge your site as hard as you judge your site. That is genuinely good news.
+
+**Hashtags:** #Meme #Easywurld #Relatable #WebDesign
+
+**Visual:** Four-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 19:30 · Static meme post, 4:5
+
+**Slide copy**
+1. The website that went live four months ago and is still not finished
+2. The about page has a placeholder
+3. The contact form goes nowhere. The phone number is the old one.
+4. And the last thing you did was take the site down for "maintenance"
+5. Nobody is going to judge your site as hard as you judge your site.  That is genuinely good news.
+
+**Caption**
+> The 30-minute monthly care routine in the Launch Handbook is designed for exactly this. ₦5,000, message LAUNCH on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #WebDesign
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 19:30 · Feed post
+
+> The website that went live four months ago and is still not finished.
+> 
+> The about page has a placeholder. The contact form goes nowhere. The phone number is the old one. And the last thing you did was take the site down for "maintenance", which is what happens when people are embarrassed by it.
+> 
+> Nobody is going to judge your site as hard as you judge your site. That is genuinely good news.
+> 
+> The 30-minute monthly care routine in the Website Launch & Care Handbook is designed for exactly this: a short list, once a month, so the site does not quietly rot while you are busy with the part of the business that pays. Plus a launch checklist and a care log.
+> 
+> ₦5,000, message LAUNCH on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 09 · How to compare website quotes
+
+**Type:** Teach · **Why it works:** Teach. It saves real money and is a topic that few small business owners know how to handle.
+
+### TikTok · 20:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Three questions to ask any website quote, and the one thing that matters most.
+
+**On-screen beats**
+- 1 · Who owns the domain
+and the hosting
+- 2 · What exactly is included,
+in writing
+- 3 · What happens if I want
+to move
+- And the one that matters:
+- Can I edit the text
+and the images myself
+
+**Voiceover script**
+> Three questions to ask any website quote. One, who owns the domain and the hosting. Two, what exactly is included, in writing, not in a sentence. Three, what happens if I want to move to somebody else. And the one that matters most: can I edit the text and the images myself afterwards. If the answer is no, you have bought a photograph, not a website, and photographs cannot be updated.
+
+**Caption**
+> Three questions to ask any website quote:
+> 
+> 1 · Who owns the domain and the hosting
+> 2 · What exactly is included, in writing
+> 3 · What happens if I want to move
+> 
+> And the one that matters most:
+> Can I edit the text and the images myself afterwards?
+
+**Hashtags:** #WebDesign #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, three numbered questions, terracotta numbers, mark bottom right.
+
+### Instagram · 20:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Three questions to ask any website quote.
+2. 1 · Who owns the domain and the hosting 2 · What exactly is included, in writing 3 · What happens if I want to move
+3. And the one that matters most:
+4. Can I edit the text and the images myself afterwards?
+5. If the answer is no, you have bought a photograph, not a website. And photographs cannot be updated.
+
+**Caption**
+> The full comparison guide is in the Website Launch & Care Handbook, ₦5,000. Message LAUNCH on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #WebDesign #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 20:15 · Feed post
+
+> Three questions to ask any website quote.
+> 
+> 1. Who owns the domain and the hosting?
+> 2. What exactly is included, in writing, not in a sentence?
+> 3. What happens if I want to move to somebody else?
+> 
+> And the one that matters most: can I edit the text and the images myself afterwards?
+> 
+> If the answer is no, you have bought a photograph, not a website. And photographs cannot be updated. When the price changes, the opening hours change, the offer changes, or you just need a new photo, you are paying again, and you are waiting again.
+> 
+> The full comparison guide, plus the ready-to-fill brief, is in the Website Launch & Care Handbook, ₦5,000.
+> 
+> Message LAUNCH on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The site that was never the problem
+
+**Type:** Story · **Why it works:** Story. A brand-honest narrative with no client claims, that reinforces the process.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> A business spent three months and a lot of money on a website, and the website was never the problem.
+
+**On-screen beats**
+- The site was fine
+- The photos were fine
+- The offer was the problem
+- Nobody could say what they
+were buying, or from whom
+- So we fixed the sentence
+first, and the site
+was the easy part
+
+**Voiceover script**
+> A business spent three months and a lot of money on a website, and the website was never the problem. The site was fine. The photos were fine. The offer was the problem. Nobody inside the business could say what they were buying or from whom, so the page said something different every time, and no amount of design could fix that. So we fixed the sentence first, and the site was the easy part.
+
+**Caption**
+> A business spent three months and a lot of money on a website, and the website was never the problem.
+> 
+> The site was fine. The photos were fine. The offer was the problem. Nobody could say what they were buying, or from whom.
+> 
+> So we fixed the sentence first, and the site was the easy part.
+
+**Hashtags:** #Easywurld #Story #WebDesign #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 20:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. A business spent three months and a lot of money on a website,
+2. and the website was never the problem.
+3. The site was fine. The photos were fine.
+4. The offer was the problem. Nobody could say what they were buying, or from whom.
+5. So we fixed the sentence first, and the site was the easy part.
+
+**Caption**
+> The Clear Message Workbook, ₦5,000, is step one. Message MESSAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #Story #LagosSME #WebDesign
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 21:00 · Feed post
+
+> A business spent three months and a lot of money on a website, and the website was never the problem.
+> 
+> The site was fine. The photos were fine. The offer was the problem. Nobody inside the business could say what they were buying, or from whom, so the page said something slightly different every time it was edited, and no amount of design could fix that. You cannot design your way out of not knowing your own offer.
+> 
+> So we fixed the sentence first, and the site was the easy part.
+> 
+> That is the whole order. Understand, simplify, build, optimize. The step that costs the most when you skip it is the last one.
+> 
+> The Clear Message Workbook, ₦5,000, is step one. Message MESSAGE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 11 · Send us your worst AI output
+
+**Type:** Direct response · **Why it works:** Direct response. It invites a low-effort, entertaining reply and shows the craft.
+
+### TikTok · 21:30 · Kinetic type with voiceover, 20s
+
+**Hook (0-3s)**
+> Send us the worst thing an AI has written for you. We will fix it.
+
+**On-screen beats**
+- The most embarrassing
+caption, the weird email,
+the generic reply
+- We will rewrite it,
+free, here
+- And tell you which part
+of the prompt was missing
+- Usually it is the context
+
+**Voiceover script**
+> Send us the worst thing an AI has written for you. The most embarrassing caption, the weird email, the generic reply. We will rewrite it, free, right here, and tell you which part of the prompt was missing. Usually it is the context. Sometimes it is that you gave it a task with no example, which is the same thing. Paste it in the comments.
+
+**Caption**
+> Send us the worst thing an AI has written for you. The most embarrassing caption, the weird email, the generic reply.
+> 
+> We will rewrite it, free, here, and tell you which part of the prompt was missing. Usually it is the context. Paste it in the comments.
+
+**Hashtags:** #AIForBusiness #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, a chat bubble, terracotta accent, mark bottom right.
+
+### Instagram · 21:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Send us the worst thing an AI has written for you.
+2. The most embarrassing caption, the weird email, the generic reply.
+3. We will rewrite it, free, here,
+4. and tell you which part of the prompt was missing.
+5. Usually it is the context.  Paste it in the comments.
+
+**Caption**
+> Sometimes it is that you gave it a task with no example, which is the same problem.
+> 
+> The Prompt Desk, ₦5,000, message PROMPTS on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #AIForBusiness #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta marks.
+
+### Facebook · 21:45 · Feed post
+
+> Send us the worst thing an AI has written for you.
+> 
+> The most embarrassing caption. The weird email. The generic reply that begins "In today's fast-paced world".
+> 
+> We will rewrite it, free, right here, and tell you which part of the prompt was missing. Usually it is the context. Sometimes it is that you gave it a task with no example, which is the same problem wearing a different hat.
+> 
+> Paste it in the comments.
+> 
+> And if you want all sixty prompts done properly, the Everyday AI Prompt Desk is ₦5,000. Message PROMPTS on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 20:15 (optional) · Text post, 20:15 (optional)
+
+> Send us the worst thing an AI has written for you.
+> 
+> The most embarrassing caption. The weird email. The generic reply that begins "In today's fast-paced world".
+> 
+> We will rewrite it, free, right here, and tell you which part of the prompt was missing. Usually it is the context. Sometimes it is that you gave it a task with no example, which is the same problem wearing a different hat.
+> 
+> Paste it in the comments.
+> 
+> And if you want all sixty prompts done properly, the Everyday AI Prompt Desk is ₦5,000, with a review and safety checklist, and a template for a small enquiry assistant that knows what it should refuse.
+> 
+> WhatsApp: 0905 069 0837. Message PROMPTS.
+
+---
+
+
+# Day 27 · Saturday · Saturday 14 Nov 2026 — Ten seconds, three questions
+
+**Offer in focus:** CLEAR
+
+---
+
+
+## Post 01 · The three questions every visitor arrives with
+
+**Type:** Teach · **Why it works:** Teach. It is the core of the Clear Homepage Blueprint and the single most useful idea in it.
+
+### TikTok · 07:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Every visitor arrives with three questions. If the page does not answer them, they leave.
+
+**On-screen beats**
+- 1 · What is this?
+- 2 · Is this for me?
+- 3 · What do I do next?
+- Answer all three
+in the first screen
+- And the order matters
+
+**Voiceover script**
+> Every visitor arrives with three questions. What is this? Is this for me? What do I do next? If the page does not answer all three in the first screen, they leave, and they leave without telling you. The order matters as much as the content: what it is, then who it is for, then the next step. Put the next step first and people scroll away before they know what they are looking at.
+
+**Caption**
+> Every visitor arrives with three questions:
+> 
+> 1 · What is this?
+> 2 · Is this for me?
+> 3 · What do I do next?
+> 
+> If the page does not answer all three in the first screen, they leave, and they leave without telling you.
+> 
+> And the order matters: what it is, then who it is for, then the next step.
+
+**Hashtags:** #WebDesign #Easywurld #SmallBusinessNigeria #ConversionTips
+
+**Visual:** Cream background, three numbered questions, terracotta numbers, mark bottom right.
+
+### Instagram · 07:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Every visitor arrives with three questions.
+2. 1 · What is this? 2 · Is this for me?
+3. 3 · What do I do next?
+4. Answer all three in the first screen, in that order.
+5. Put the next step first and people scroll away before they know what they are looking at.
+
+**Caption**
+> The Clear Homepage Blueprint, ₦5,000, has the ten-second test and a scored audit you can run on your own site. Message CLEAR on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #WebDesign #Easywurld #LagosSME #ConversionTips
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 08:00 · Feed post
+
+> Every visitor arrives with three questions.
+> 
+> 1. What is this?
+> 2. Is this for me?
+> 3. What do I do next?
+> 
+> If the page does not answer all three in the first screen, they leave, and they leave without telling you.
+> 
+> And the order matters as much as the content: what it is, then who it is for, then the next step. Put the next step first and people scroll away before they know what they are looking at.
+> 
+> Most homepages answer question one beautifully, answer question two with a list of services, and never answer question three at all, so the visitor has to guess, and guessing is work, and people do not do work for strangers.
+> 
+> The Clear Homepage Blueprint, ₦5,000, has the section-by-section structure, fill-in copy templates with examples, and a scored audit you can run on your own site today.
+> 
+> Message CLEAR on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 08:15 · Text post, 08:15
+
+> Every visitor arrives with three questions.
+> 
+> What is this?
+> Is this for me?
+> What do I do next?
+> 
+> If the page does not answer all three in the first screen, they leave, and they leave without telling you.
+> 
+> And the order matters as much as the content: what it is, then who it is for, then the next step. Put the next step first and people scroll away before they know what they are looking at.
+> 
+> Most homepages answer question one beautifully, answer question two with a list of services, and never answer question three at all, so the visitor has to guess. Guessing is work, and people do not do work for strangers.
+> 
+> The Clear Homepage Blueprint, ₦5,000, has the section-by-section structure, fill-in copy templates with examples, a scored audit you can run on your own site today, and a content planner spreadsheet.
+> 
+> WhatsApp: 0905 069 0837. Message CLEAR.
+
+---
+
+
+## Post 02 · My homepage, according to the logo
+
+**Type:** Meme · **Why it works:** Meme. A sharp visual joke about the classic agency homepage and sets up the blueprint.
+
+### TikTok · 09:15 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> My homepage, according to the logo
+
+**On-screen beats**
+- Hero image, 2.4MB,
+of a laptop on a desk
+- "Innovating tomorrow's
+solutions"
+- Three paragraphs
+of nothing
+- And a contact form
+that goes nowhere
+
+**Voiceover script**
+> My homepage, according to the logo. Hero image, two point four megabytes, of a laptop on a desk. Innovating tomorrow's solutions. Three paragraphs of nothing. And a contact form that goes nowhere. We are not laughing at the design. We are laughing at the order. If you put the answer first, the same colours look like a business instead of a template.
+
+**Caption**
+> My homepage, according to the logo:
+> 
+> Hero image, 2.4MB, of a laptop on a desk.
+> "Innovating tomorrow's solutions."
+> Three paragraphs of nothing. And a contact form that goes nowhere.
+> 
+> We are not laughing at the design. We are laughing at the order.
+
+**Hashtags:** #Meme #WebDesign #Easywurld #Relatable
+
+**Visual:** Four-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 10:00 · Static meme post, 4:5
+
+**Slide copy**
+1. My homepage, according to the logo:
+2. Hero image, 2.4MB, of a laptop on a desk
+3. "Innovating tomorrow's solutions"
+4. Three paragraphs of nothing
+5. And a contact form that goes nowhere
+6. We are not laughing at the design. We are laughing at the order.
+
+**Caption**
+> If you put the answer first, the same colours look like a business instead of a template.
+> 
+> The Clear Homepage Blueprint, ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #WebDesign #Easywurld #LagosSME
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 10:30 · Feed post
+
+> My homepage, according to the logo:
+> 
+> Hero image, 2.4.4 megabytes of a laptop on a desk. "Innovating tomorrow's solutions." Three paragraphs of nothing. And a contact form that goes nowhere.
+> 
+> We are not laughing at the design. We are laughing at the order.
+> 
+> If you put the answer first, the same colours look like a business instead of a template. That is the whole difference between a site that confuses people and a site that does not, and it is not a design skill, it is a writing skill.
+> 
+> The Clear Homepage Blueprint, ₦5,000, has the section order, the copy templates and a scored audit you can run on your own site today.
+> 
+> Message CLEAR on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 03 · We score pages honestly, including the low scores
+
+**Type:** Trust · **Why it works:** Trust. It shows the audit is real and not a sales device to guarantee the project.
+
+### TikTok · 11:30 · Talking head, 30s
+
+**Hook (0-3s)**
+> Our homepage audit scores you honestly. That is why it is free.
+
+**On-screen beats**
+- We have scored pages
+where the answer was
+not our answer
+- And we sent them away
+- A high score means
+nothing if everybody
+gets one
+- So the number has
+to be able to come
+back low
+
+**Voiceover script**
+> Our homepage audit scores you honestly, and that is exactly why it is free. We have scored pages where the answer was not our answer, and we sent them away. A high score means nothing if everybody gets one. So the number has to be able to come back low, and sometimes it does, and then we tell them what to fix first, which usually is not a redesign.
+
+**Caption**
+> Our homepage audit scores you honestly, and that is exactly why it is free.
+> 
+> We have scored pages where the answer was not our answer, and we sent them away. A high score means nothing if everybody gets one.
+> 
+> So the number has to be able to come back low. And sometimes it does, and then we tell them what to fix first, which usually is not a redesign.
+
+**Hashtags:** #Easywurld #HonestBusiness #WebDesign #FreeReview
+
+**Visual:** Talking head, plain shirt, warm light, brand mark lower right.
+
+### Instagram · 12:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Our homepage audit scores you honestly, and that is exactly why it is free.
+2. We have scored pages where the answer was not our answer, and we sent them away.
+3. A high score means nothing if everybody gets one.
+4. So the number has to be able to come back low.
+5. And sometimes it does, and then we tell them what to fix first, which usually is not a redesign.
+
+**Caption**
+> Send your link: website-builder-portfolio.vercel.app. Free, 24 hours, no sales call.
+
+**Hashtags:** #Easywurld #HonestBusiness #LagosSME #FreeReview
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 12:00 · Feed post
+
+> Our homepage audit scores you honestly, and that is exactly why it is free.
+> 
+> We have scored pages where the answer was not our answer, and we sent them away. A high score means nothing if everybody gets one. So the number has to be able to come back low, and sometimes it does, and then we tell them what to fix first, which usually is not a redesign. Usually it is one sentence in the wrong place.
+> 
+> Send your link, your business name and one line about what you do. You get a voice note and three points within twenty-four hours, and there is no sales call at the end of it.
+> 
+> website-builder-portfolio.vercel.app
+> 
+> WhatsApp: 0905 069 0837.
+
+### LinkedIn · 12:15 · Text post, 12:15
+
+> Our homepage audit scores you honestly, and that is exactly why it is free.
+> 
+> We have scored pages where the answer was not our answer, and we sent them away. A high score means nothing if everybody gets one. So the number has to be able to come back low, and sometimes it does, and then we tell them what to fix first, which usually is not a redesign. Usually it is one sentence in the wrong place.
+> 
+> This is the same reason we price the packs at ₦5,000 instead of ₦50,000. The price is low enough that buying the wrong one is not a serious problem, and the review is free enough that you can use it before buying anything.
+> 
+> Send your link, your business name and one line about what you do. You get a voice note and three points within twenty-four hours, and there is no sales call at the end of it.
+> 
+> website-builder-portfolio.vercel.app
+> 
+> WhatsApp: 0905 069 0837.
+
+---
+
+
+## Post 04 · The Clear Homepage Blueprint, what is inside
+
+**Type:** Offer · **Why it works:** Offer. It explains the pack and lets the audience see the audit for themselves.
+
+### TikTok · 13:45 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> What is inside the Clear Homepage Blueprint, ₦5,000.
+
+**On-screen beats**
+- The three visitor questions
+- A section-by-section
+structure
+- Fill-in copy templates
+with examples
+- A scored audit you run
+on your own site
+- And a content planner
+spreadsheet
+
+**Voiceover script**
+> What is inside the Clear Homepage Blueprint, five thousand naira. The three visitor questions. A section-by-section structure. Fill-in copy templates with examples. A scored audit you can run on your own site today, without us. And a content planner spreadsheet. It reflects how we do homepage work: the visitor's question first, credentials second, one clear next step.
+
+**Caption**
+> What is inside the Clear Homepage Blueprint, ₦5,000:
+> 
+> The three visitor questions.
+> A section-by-section structure.
+> Fill-in copy templates with examples.
+> A scored audit you can run on your own site.
+> And a content planner spreadsheet.
+> 
+> The visitor's question first, credentials second, one clear next step.
+
+**Hashtags:** #Easywurld #DigitalDownloads #WebDesign #SmallBusinessNigeria
+
+**Visual:** Cream background, a contents list, terracotta ticks, mark bottom right.
+
+### Instagram · 14:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. What is inside the Clear Homepage Blueprint.
+2. The three visitor questions.
+3. A section-by-section structure, and fill-in copy templates with examples.
+4. A scored audit you can run on your own site, without us.
+5. And a content planner spreadsheet.  ₦5,000, message CLEAR on WhatsApp: 0905 069 0837
+
+**Caption**
+> The visitor's question first, credentials second, one clear next step.
+> 
+> Message CLEAR on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #WebDesign
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 13:30 · Feed post
+
+> What is inside the Clear Homepage Blueprint, ₦5,000.
+> 
+> 1. The three questions every visitor arrives with.
+> 2. A section-by-section structure for the homepage.
+> 3. Fill-in copy templates with worked examples.
+> 4. A scored audit you can run on your own site today, without us.
+> 5. A content planner spreadsheet.
+> 6. How to write the first screen, and calls to action that are not vague.
+> 7. Page titles and descriptions that make sense in search results.
+> 8. A before-and-after example.
+> 
+> It reflects how we do homepage work: the visitor's question first, credentials second, one clear next step.
+> 
+> Message CLEAR on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 16:15 · Text post, 16:15
+
+> What is inside the Clear Homepage Blueprint, ₦5,000.
+> 
+> The three questions every visitor arrives with.
+> 
+> A section-by-section structure for the homepage.
+> 
+> Fill-in copy templates with worked examples.
+> 
+> A scored audit you can run on your own site today, without us.
+> 
+> A content planner spreadsheet.
+> 
+> How to write the first screen, and calls to action that are not vague.
+> 
+> Page titles and descriptions that make sense in search results.
+> 
+> And a before-and-after example.
+> 
+> It reflects how we do homepage work: the visitor question first, credentials second, one clear next step. The most common cause of a page that confuses people is not design, it is a headline that describes the business rather than the visitor, and then everything below it has to work twice as hard to compensate.
+> 
+> WhatsApp: 0905 069 0837. Message CLEAR.
+
+---
+
+
+## Post 05 · The ten-second test for your homepage
+
+**Type:** Teach · **Why it works:** Teach. A test you can run in ten seconds, which is a strong, memorable hook.
+
+### TikTok · 15:00 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> The ten-second test. Show your homepage to somebody for ten seconds, then take it away.
+
+**On-screen beats**
+- Ask them three things
+- What does this business do?
+- Who is it for?
+- What do I do next?
+- If they cannot answer all
+three, it is a writing
+problem, not a design
+problem
+
+**Voiceover script**
+> The ten-second test. Show your homepage to somebody for ten seconds, then take it away. Ask them three things. What does this business do? Who is it for? What do I do next? If they cannot answer all three, it is a writing problem, not a design problem, and you can fix it this afternoon for free. It is the cheapest quality check in the business.
+
+**Caption**
+> The ten-second test.
+> 
+> Show your homepage to somebody for ten seconds, then take it away. Ask them three things:
+> 
+> 1 · What does this business do?
+> 2 · Who is it for?
+> 3 · What do I do next?
+> 
+> If they cannot answer all three, it is a writing problem, not a design problem, and you can fix it this afternoon for free.
+
+**Hashtags:** #WebDesign #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, a ten-second stopwatch, terracotta accents, mark bottom right.
+
+### Instagram · 15:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The ten-second test.
+2. Show your homepage to somebody for ten seconds, then take it away.
+3. Ask them three things: 1 · What does this business do? 2 · Who is it for? 3 · What do I do next?
+4. If they cannot answer all three, it is a writing problem, not a design problem.
+5. And you can fix it this afternoon for free.
+
+**Caption**
+> It is the cheapest quality check in the business. The full scored audit is in the Clear Homepage Blueprint, ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #WebDesign #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta marks.
+
+### Facebook · 15:00 · Feed post
+
+> The ten-second test.
+> 
+> Show your homepage to somebody for ten seconds, then take it away. Ask them three things:
+> 
+> 1. What does this business do?
+> 2. Who is it for?
+> 3. What do I do next?
+> 
+> If they cannot answer all three, it is a writing problem, not a design problem, and you can fix it this afternoon for free.
+> 
+> It is the cheapest quality check in the business, and most people have never done it, because they are the only person in the room who knows what the site means.
+> 
+> The full scored audit is in the Clear Homepage Blueprint, ₦5,000, along with the section structure and the copy templates.
+> 
+> Message CLEAR on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 06 · Your homepage is not your brochure
+
+**Type:** Hot take · **Why it works:** Hot take. A strong distinction that most small business owners have never heard stated.
+
+### TikTok · 16:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> Your homepage is not your brochure. It is a counter that somebody walks up to.
+
+**On-screen beats**
+- A brochure is read
+in private
+- A counter is used
+in public
+- At the counter, people
+want one thing:
+where to press
+- Everything else
+is decoration
+
+**Voiceover script**
+> Your homepage is not your brochure. It is a counter that somebody walks up to. A brochure is read in private, at a table, with time. A counter is used in public, while carrying a bag, and the person at the counter wants one thing: where to press. Everything else is decoration around the counter. That is a different design job and a different writing job, and it is cheaper.
+
+**Caption**
+> Your homepage is not your brochure. It is a counter that somebody walks up to.
+> 
+> A brochure is read in private, at a table, with time. A counter is used in public, while carrying a bag, and the person at the counter wants one thing: where to press.
+> 
+> Everything else is decoration around the counter.
+
+**Hashtags:** #HotTake #WebDesign #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 17:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Your homepage is not your brochure.
+2. It is a counter that somebody walks up to.
+3. A brochure is read in private, at a table, with time.
+4. A counter is used in public, while carrying a bag, and the person at the counter wants one thing: where to press.
+5. Everything else is decoration around the counter.
+
+**Caption**
+> That is a different design job and a different writing job, and it is cheaper.
+> 
+> ₦5,000, message CLEAR on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #HotTake #WebDesign #Easywurld #LagosSME
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 16:30 · Feed post
+
+> Your homepage is not your brochure. It is a counter that somebody walks up to.
+> 
+> A brochure is read in private, at a table, with time. A counter is used in public, while carrying a bag, in a hurry, and the person at the counter wants one thing: where to press.
+> 
+> Everything else is decoration around the counter.
+> 
+> That is a different design job and a different writing job, and it is cheaper, because you stop trying to say everything on one screen. You stop trying to say everything on one screen, and then the screen finally works.
+> 
+> The Clear Homepage Blueprint, ₦5,000, is built on that. Message CLEAR on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 07 · Rewriting the homepage in one afternoon
+
+**Type:** Relatable · **Why it works:** Relatable. It gives hope to someone with a live but unclear page, and it is free.
+
+### TikTok · 18:00 · Talking head, 30s
+
+**Hook (0-3s)**
+> You can rewrite your homepage in one afternoon, and you do not need anybody.
+
+**On-screen beats**
+- One afternoon, free
+- Step one: answer the three
+questions in plain words
+- Step two: cut every sentence
+that does not answer them
+- Step three: one next step,
+repeated three times
+- That is the whole rebuild
+
+**Voiceover script**
+> You can rewrite your homepage in one afternoon, and you do not need anybody. Step one, answer the three questions in plain words. Step two, cut every sentence that does not answer them, which is usually most of them. Step three, pick one next step and repeat it three times, in the same words, in the same place. That is the whole rebuild. It will not win a design award. It will win enquiries, which is the point.
+
+**Caption**
+> You can rewrite your homepage in one afternoon, and you do not need anybody.
+> 
+> 1 · Answer the three questions in plain words
+> 2 · Cut every sentence that does not answer them, which is usually most of them
+> 3 · Pick one next step and repeat it three times, in the same words, in the same place
+> 
+> It will not win a design award. It will win enquiries, which is the point.
+
+**Hashtags:** #WebDesign #Easywurld #Relatable #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark bottom right.
+
+### Instagram · 18:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. You can rewrite your homepage in one afternoon.
+2. 1 · Answer the three questions in plain words
+3. 2 · Cut every sentence that does not answer them, which is usually most of them
+4. 3 · Pick one next step and repeat it three times, in the same words, in the same place
+5. It will not win a design award. It will win enquiries, which is the point.
+
+**Caption**
+> The Clear Homepage Blueprint, ₦5,000, is the version of this with the templates filled in. Message CLEAR on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #WebDesign #Easywurld #LagosSME #Relatable
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 18:00 · Feed post
+
+> You can rewrite your homepage in one afternoon, and you do not need anybody.
+> 
+> 1. Answer the three questions in plain words.
+> 2. Cut every sentence that does not answer them, which is usually most of them.
+> 3. Pick one next step and repeat it three times, in the same words, in the same place.
+> 
+> It will not win a design award. It will win enquiries, which is the point.
+> 
+> If you want the version with the templates already filled in and a scored audit to check your work, the Clear Homepage Blueprint is ₦5,000.
+> 
+> Message CLEAR on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 17:15 · Text post, 17:15
+
+> You can rewrite your homepage in one afternoon, and you do not need anybody.
+> 
+> Answer the three questions in plain words. Cut every sentence that does not answer them, which is usually most of them. Pick one next step and repeat it three times, in the same words, in the same place.
+> 
+> It will not win a design award. It will win enquiries, which is the point.
+> 
+> There is a version of this that sounds like a design argument and is really a writing argument. The reason people do not rewrite their homepage is that it feels like admitting the last one was bad, and that takes longer than any project. But the page is not a monument, it is a counter, and counters get rebuilt every few years.
+> 
+> If you want the version with the templates already filled in and a scored audit to check your work, the Clear Homepage Blueprint is ₦5,000.
+> 
+> WhatsApp: 0905 069 0837. Message CLEAR.
+
+---
+
+
+## Post 08 · How to write the first screen
+
+**Type:** Teach · **Why it works:** Teach. A specific writing task that most people find hard, and it is highly reusable.
+
+### TikTok · 19:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> How to write the first screen of your homepage. Five lines, that is all it needs.
+
+**On-screen beats**
+- 1 · What you do, in plain words
+- 2 · Who it is for
+- 3 · The one benefit,
+concretely
+- 4 · One next step
+- 5 · One line of proof
+
+**Voiceover script**
+> How to write the first screen of your homepage. Five lines, that is all it needs. One: what you do, in plain words. Two: who it is for. Three: the one benefit, concretely. Four: one next step. Five: one line of proof, not six. If the first screen has more than five lines of text, it is not a first screen, it is a page you wrote and hoped people would read.
+
+**Caption**
+> How to write the first screen of your homepage. Five lines, that is all it needs:
+> 
+> 1 · What you do, in plain words
+> 2 · Who it is for
+> 3 · The one benefit, concretely
+> 4 · One next step
+> 5 · One line of proof, not six
+> 
+> If the first screen has more than five lines, it is not a first screen, it is a page you wrote and hoped people would read.
+
+**Hashtags:** #WebDesign #Copywriting #Easywurld #SmallBusinessNigeria
+
+**Visual:** Cream background, five numbered lines, terracotta numbers, mark bottom right.
+
+### Instagram · 19:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. How to write the first screen of your homepage.
+2. Five lines, that is all it needs.
+3. 1 · What you do, in plain words 2 · Who it is for 3 · The one benefit, concretely
+4. 4 · One next step 5 · One line of proof, not six
+5. If the first screen has more than five lines, it is not a first screen, it is a page you wrote and hoped people would read.
+
+**Caption**
+> The fill-in copy templates are in the Clear Homepage Blueprint, ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #WebDesign #Copywriting #Easywurld #LagosSME
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 19:30 · Feed post
+
+> How to write the first screen of your homepage. Five lines, that is all it needs.
+> 
+> 1. What you do, in plain words.
+> 2. Who it is for.
+> 3. The one benefit, concretely.
+> 4. One next step.
+> 5. One line of proof, not six.
+> 
+> If the first screen has more than five lines of text, it is not a first screen, it is a page you wrote and hoped people would read.
+> 
+> Line five is where people go wrong, in both directions. Some put nothing, and the page looks like a template from a template shop. Some put six logos and a testimonial carousel and a trust badge, and it looks like a busy counter. One line of proof, placed right under the claim it supports, is enough.
+> 
+> The fill-in copy templates are in the Clear Homepage Blueprint, ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 09 · The Clear Homepage Blueprint, the audit
+
+**Type:** Offer · **Why it works:** Offer. It highlights the scored audit, the most concrete and appealing element of the pack.
+
+### TikTok · 20:00 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> The scored audit in the Blueprint. You run it on your own site, in twenty minutes.
+
+**On-screen beats**
+- Twenty questions,
+one score
+- Each section scored
+out of five
+- And it tells you which
+section to fix first
+- ₦5,000, message CLEAR
+
+**Voiceover script**
+> The scored audit in the Blueprint. You run it on your own site, in twenty minutes. Twenty questions, one score, each section scored out of five, and it tells you which section to fix first, because a score of four out of five everywhere is not useful, but a score of two on the first screen is. It is a spreadsheet. You do not need us for this part, and that is on purpose.
+
+**Caption**
+> The scored audit in the Blueprint. You run it on your own site, in twenty minutes.
+> 
+> Twenty questions, one score, each section scored out of five, and it tells you which section to fix first.
+> 
+> A score of four out of five everywhere is not useful. A score of two on the first screen is.
+
+**Hashtags:** #Easywurld #DigitalDownloads #WebDesign #SmallBusinessNigeria
+
+**Visual:** Cream background, a scorecard mock, terracotta accent, mark bottom right.
+
+### Instagram · 20:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The scored audit in the Blueprint.
+2. You run it on your own site, in twenty minutes.
+3. Twenty questions, one score, each section scored out of five,
+4. and it tells you which section to fix first.
+5. A score of four out of five everywhere is not useful. A score of two on the first screen is.  ₦5,000, message CLEAR on WhatsApp: 0905 069 0837
+
+**Caption**
+> It is a spreadsheet. You do not need us for this part, and that is on purpose.
+> 
+> Message CLEAR on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #WebDesign
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 20:15 · Feed post
+
+> The scored audit in the Clear Homepage Blueprint. You run it on your own site, in twenty minutes.
+> 
+> Twenty questions, one score, each section scored out of five, and it tells you which section to fix first.
+> 
+> A score of four out of five everywhere is not useful. A score of two on the first screen is.
+> 
+> It is a spreadsheet. You do not need us for this part, and that is on purpose. Half the value of the pack is knowing what to fix, and that part should not require buying anything.
+> 
+> The Clear Homepage Blueprint, ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The sentence that was doing all the work
+
+**Type:** Story · **Why it works:** Story. A specific, true-to-life craft story that reinforces the message theme.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> One business had a beautiful website and one sentence doing all the work.
+
+**On-screen beats**
+- Everything else was
+decoration around it
+- When they changed that
+one sentence
+- The enquiries changed
+without anything else
+changing at all
+
+**Voiceover script**
+> One business had a beautiful website and one sentence doing all the work. Everything else was decoration around it. When they changed that one sentence, the enquiries changed without anything else changing at all. Same site, same photos, same price, same colours, one different sentence, and a different month. That is the entire business sometimes. It is not a logo, it is not a font, it is a sentence.
+
+**Caption**
+> One business had a beautiful website and one sentence doing all the work. Everything else was decoration around it.
+> 
+> When they changed that one sentence, the enquiries changed without anything else changing at all.
+> 
+> Same site, same photos, same price, same colours, one different sentence, and a different month.
+> 
+> That is the entire business sometimes. It is not a logo, it is not a font, it is a sentence.
+
+**Hashtags:** #Easywurld #Story #WebDesign #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 20:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. One business had a beautiful website and one sentence doing all the work.
+2. Everything else was decoration around it.
+3. When they changed that one sentence,
+4. the enquiries changed without anything else changing at all.
+5. Same site, same photos, same price, same colours, one different sentence, and a different month.
+
+**Caption**
+> That is the entire business sometimes. It is not a logo, it is not a font, it is a sentence.
+> 
+> The Clear Message Workbook, ₦5,000, message MESSAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #Story #LagosSME #WebDesign
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 21:00 · Feed post
+
+> One business had a beautiful website and one sentence doing all the work.
+> 
+> Everything else was decoration around it. When they changed that one sentence, the enquiries changed without anything else changing at all. Same site, same photos, same price, same colours, one different sentence, and a different month.
+> 
+> That is the entire business sometimes. It is not a logo, it is not a font, it is a sentence.
+> 
+> And it is worth saying that we are not against nice websites. We build them. But a beautiful site with a vague sentence is a beautiful corridor leading to a closed door, and a plain site with a clear sentence is a table with somebody behind it.
+> 
+> The Clear Message Workbook, ₦5,000. Message MESSAGE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 11 · Send us your headline for a rewrite
+
+**Type:** Direct response · **Why it works:** Direct response. A free, high-value offer that produces comments and warms the audience.
+
+### TikTok · 21:30 · Kinetic type with voiceover, 20s
+
+**Hook (0-3s)**
+> Send us your headline. We will rewrite it, free, in the comments.
+
+**On-screen beats**
+- The big line at the top
+of your site
+- We will give you three
+versions
+- The plain one, the
+specific one, and the
+one that names the person
+- No purchase, no form
+
+**Voiceover script**
+> Send us your headline, the big line at the top of your site. We will give you three versions: the plain one, the specific one, and the one that names the person you serve. Free, here in the comments. No purchase, no form, no phone number. Headline only, or the whole first screen if you want to be brave.
+
+**Caption**
+> Send us your headline, the big line at the top of your site.
+> 
+> We will give you three versions: the plain one, the specific one, and the one that names the person you serve.
+> 
+> Free, here in the comments. No purchase, no form, no phone number.
+
+**Hashtags:** #WebDesign #Copywriting #Easywurld #SmallBusinessNigeria
+
+**Visual:** Cream background, a headline mock, terracotta accent, mark bottom right.
+
+### Instagram · 21:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Send us your headline.
+2. The big line at the top of your site.
+3. We will give you three versions:
+4. The plain one, the specific one, and the one that names the person you serve.
+5. Free, here in the comments. No purchase, no form, no phone number.
+
+**Caption**
+> Headline only, or the whole first screen if you want to be brave.
+> 
+> Message CLEAR on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #WebDesign #Copywriting #Easywurld #LagosSME
+
+**Visual:** Cream slides, deep green serif, terracotta marks.
+
+### Facebook · 21:45 · Feed post
+
+> Send us your headline, the big line at the top of your site.
+> 
+> We will give you three versions: the plain one, the specific one, and the one that names the person you serve.
+> 
+> Free, here in the comments. No purchase, no form, no phone number.
+> 
+> Headline only, or the whole first screen if you want to be brave.
+> 
+> The Clear Homepage Blueprint, ₦5,000, has the fill-in templates for all of it. Message CLEAR on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 20:15 (optional) · Text post, 20:15 (optional)
+
+> Send us your headline, the big line at the top of your site.
+> 
+> We will give you three versions: the plain one, the specific one, and the one that names the person you serve.
+> 
+> Free, here in the comments. No purchase, no form, no phone number.
+> 
+> Headline only, or the whole first screen if you want to be brave.
+> 
+> The Clear Homepage Blueprint, ₦5,000, has the fill-in templates for all of it, the section order, and the scored audit you can run on your own site in twenty minutes.
+> 
+> WhatsApp: 0905 069 0837. Message CLEAR.
+
+---
+
+
+# Day 28 · Sunday · Sunday 15 Nov 2026 — Being found nearby
+
+**Offer in focus:** LOCAL
+
+---
+
+
+## Post 01 · How people actually find a business nearby
+
+**Type:** Teach · **Why it works:** Teach. It gives a realistic picture of local search behaviour that most owners have never thought through.
+
+### TikTok · 07:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> How do people actually find a business near you? Not the way you think.
+
+**On-screen beats**
+- Most of it is a map,
+on a phone, close to them
+- And the decision is made
+before they read anything
+- Three things decide it:
+the photo, the hours,
+and the review count
+- Not your logo
+
+**Voiceover script**
+> How do people actually find a business near you? Not the way you think. Most of it is a map, on a phone, close to them, and the decision is made before they read anything. Three things decide it: the photo, the hours, and the review count. Not your logo. The logo is not on the map. That is the Local Visibility Starter, five thousand naira, message LOCAL on WhatsApp.
+
+**Caption**
+> How do people actually find a business near you?
+> 
+> Mostly: a map, on a phone, close to them. And the decision is made before they read anything.
+> 
+> Three things decide it: the photo, the hours, and the review count.
+> 
+> Not your logo. The logo is not on the map.
+
+**Hashtags:** #LocalSEO #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, a map pin graphic, terracotta accent, mark bottom right.
+
+### Instagram · 07:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. How do people actually find a business near you?
+2. Not the way you think.
+3. Mostly: a map, on a phone, close to them.
+4. And the decision is made before they read anything.
+5. Three things decide it: the photo, the hours, and the review count.  Not your logo. The logo is not on the map.
+
+**Caption**
+> The Lagos Local Visibility Starter, ₦5,000, message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #LocalSEO #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta accent.
+
+### Facebook · 08:00 · Feed post
+
+> How do people actually find a business near you? Not the way you think.
+> 
+> Mostly: a map, on a phone, close to them. And the decision is made before they read anything.
+> 
+> Three things decide it: the photo, the hours, and the review count.
+> 
+> Not your logo. The logo is not on the map.
+> 
+> We spend enormous amounts of time on the logo and the business cards, and the map listing is where the actual decision happens, and it takes an afternoon to set up properly.
+> 
+> The Lagos Local Visibility Starter, ₦5,000: profile setup, the keywords customers really search with, page titles and descriptions, review-request scripts that do not feel like begging, and a 30-day tracker.
+> 
+> Message LOCAL on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 08:15 · Text post, 08:15
+
+> How do people actually find a business near you? Not the way you think.
+> 
+> Mostly: a map, on a phone, close to them. And the decision is made before they read anything.
+> 
+> Three things decide it: the photo, the hours, and the review count.
+> 
+> Not your logo. The logo is not on the map.
+> 
+> That last line is the one small business owners find difficult to accept, because the logo is the thing they spent money on and the thing they are proud of. But the logo does not appear when somebody opens a map and looks at ten businesses in their area. What appears is a photo, a set of opening hours, a star rating, and a name.
+> 
+> The Lagos Local Visibility Starter, ₦5,000, is built on that: a completed Google Business Profile, keywords based on how customers actually search, page titles and descriptions, a review-request routine, and a 30-day task tracker. No ranking promises, no tricks, no fake reviews.
+> 
+> WhatsApp: 0905 069 0837. Message LOCAL.
+
+---
+
+
+## Post 02 · My Google Business Profile
+
+**Type:** Meme · **Why it works:** Meme. A painfully familiar screenshot-style joke about an incomplete listing.
+
+### TikTok · 09:15 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> My Google Business Profile, since 2021
+
+**On-screen beats**
+- Hours: "Call for info"
+- Photos: one, taken
+in 2019, in the rain
+- Description: "We provide
+quality services"
+- And the reviews are
+from one guy who
+bought shoes in 2022
+
+**Voiceover script**
+> My Google Business Profile, since 2021. Hours: call for info. Photos: one, taken in 2019, in the rain. Description: we provide quality services. And the reviews are from one guy who bought shoes in 2022. This is a listing that is technically complete and practically invisible. It is on the map, and nobody is ever going to call, because there is nothing there to call about.
+
+**Caption**
+> My Google Business Profile, since 2021.
+> 
+> Hours: "Call for info."
+> Photos: one, taken in 2019, in the rain.
+> Description: "We provide quality services."
+> And the reviews are from one guy who bought shoes in 2022.
+> 
+> A listing that is technically complete and practically invisible.
+
+**Hashtags:** #Meme #LocalSEO #Easywurld #Relatable
+
+**Visual:** Four-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 10:00 · Static meme post, 4:5
+
+**Slide copy**
+1. My Google Business Profile, since 2021
+2. Hours: "Call for info"
+3. Photos: one, taken in 2019, in the rain
+4. Description: "We provide quality services"
+5. And the reviews are from one guy who bought shoes in 2022
+6. A listing that is technically complete and practically invisible.
+
+**Caption**
+> It is on the map, and nobody is ever going to call, because there is nothing there to call about.
+> 
+> ₦5,000, message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #LocalSEO #Easywurld #LagosSME
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 10:30 · Feed post
+
+> My Google Business Profile, since 2021.
+> 
+> Hours: "Call for info."
+> Photos: one, taken in 2019, in the rain.
+> Description: "We provide quality services."
+> And the reviews are from one guy who bought shoes in 2022.
+> 
+> A listing that is technically complete and practically invisible. It is on the map, and nobody is ever going to call, because there is nothing there to call about.
+> 
+> The Lagos Local Visibility Starter, ₦5,000, has the profile setup, the keyword list, the title and description formulas, and the review scripts that do not sound like begging.
+> 
+> Message LOCAL on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 03 · We do not promise rankings
+
+**Type:** Trust · **Why it works:** Trust. It states the honest limit of local SEO, which is exactly the sort of promise the market overclaims.
+
+### TikTok · 11:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> We do not promise rankings. Not for the Local pack, not for anybody.
+
+**On-screen beats**
+- Anybody who promises
+you a number is guessing
+- Or worse, selling
+- What we promise is the
+basics, finished
+- And that is where most
+local visibility is lost
+
+**Voiceover script**
+> We do not promise rankings. Not for the local map, not for anybody. Anybody who promises you a number is guessing, or worse, selling. What we promise is that the basics will be finished, and that is where most local visibility is actually lost. A complete profile with real photos, real hours, and a way to ask for reviews honestly beats any trick, because the tricks get penalised and the basics do not.
+
+**Caption**
+> We do not promise rankings. Not for the local map, not for anybody.
+> 
+> Anybody who promises you a number is guessing, or worse, selling.
+> 
+> What we promise is that the basics will be finished, and that is where most local visibility is actually lost. A complete profile with real photos, real hours, and an honest way to ask for reviews beats any trick, because the tricks get penalised and the basics do not.
+
+**Hashtags:** #Easywurld #HonestBusiness #LocalSEO #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, brand mark lower right.
+
+### Instagram · 12:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. We do not promise rankings.
+2. Not for the local map, not for anybody.
+3. Anybody who promises you a number is guessing, or worse, selling.
+4. What we promise is that the basics will be finished, and that is where most local visibility is actually lost.
+5. A complete profile with real photos, real hours and an honest way to ask for reviews beats any trick, because the tricks get penalised and the basics do not.
+
+**Caption**
+> No ranking promises, no tricks, no fake reviews. That is the whole policy.
+> 
+> ₦5,000, message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #HonestBusiness #LagosSME #LocalSEO
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 12:00 · Feed post
+
+> We do not promise rankings. Not for the local map, not for anybody.
+> 
+> Anybody who promises you a number is guessing, or worse, selling. What we promise is that the basics will be finished, and that is where most local visibility is actually lost. A complete profile with real photos, real hours and an honest way to ask for reviews beats any trick, because the tricks get penalised and the basics do not.
+> 
+> We also do not do fake reviews, and we will not sell you anything that does. It is the one thing in this industry that can shut a business down, and it is never worth the short-term gain.
+> 
+> The Lagos Local Visibility Starter, ₦5,000: profile setup, keyword and title formulas, review-request scripts that do not feel like begging, and a 30-day tracker.
+> 
+> Message LOCAL on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 12:15 · Text post, 12:15
+
+> We do not promise rankings. Not for the local map, not for anybody.
+> 
+> Anybody who promises you a number is guessing, or worse, selling. What we promise is that the basics will be finished, and that is where most local visibility is actually lost. A complete profile with real photos, real hours and an honest way to ask for reviews beats any trick, because the tricks get penalised and the basics do not.
+> 
+> We also do not do fake reviews, and we will not sell you anything that does. It is the one thing in this industry that can shut a business down, and it is never worth the short-term gain.
+> 
+> This is a strange position to take in a market where the promises are wild, and it costs us some conversations. But the person who finishes their profile properly, keeps the hours accurate, answers the reviews, and asks every happy customer once, politely, is doing something almost nobody does, and it shows.
+> 
+> The Lagos Local Visibility Starter, ₦5,000: a completed profile, a keyword list based on how customers actually search, page titles and descriptions, a review-request routine and a 30-day task tracker.
+> 
+> WhatsApp: 0905 069 0837. Message LOCAL.
+
+---
+
+
+## Post 04 · The Lagos Local Visibility Starter, what is inside
+
+**Type:** Offer · **Why it works:** Offer. It lists the contents of the local pack, which is the most geographically specific offer.
+
+### TikTok · 13:45 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> What is inside the Lagos Local Visibility Starter, ₦5,000.
+
+**On-screen beats**
+- A guide in plain words:
+how local search works
+- A keyword and titles
+worksheet, with Lagos
+examples
+- A profile and
+review-scripts pack
+- And a 30-day tracker
+spreadsheet
+- Built for Lagos, with
+Lagos examples
+
+**Voiceover script**
+> What is inside the Lagos Local Visibility Starter, five thousand naira. A guide in plain words on how local search works, because it is not a mystery. A keyword and titles worksheet, with real Lagos examples. A profile and review-scripts pack, so you know exactly what to say when you ask somebody for a review without sounding desperate. And a 30-day tracker spreadsheet. It is built for Lagos with Lagos examples, because a generic local guide does not survive a market with this many markets in it.
+
+**Caption**
+> What is inside the Lagos Local Visibility Starter, ₦5,000:
+> 
+> A guide in plain words on how local search works.
+> A keyword and titles worksheet, with real Lagos examples.
+> A profile and review-scripts pack.
+> And a 30-day tracker spreadsheet.
+> 
+> Built for Lagos, with Lagos examples, because a generic local guide does not survive a market with this many markets in it.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LocalSEO #SmallBusinessNigeria
+
+**Visual:** Cream background, a contents list, terracotta ticks, mark bottom right.
+
+### Instagram · 14:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. What is inside the Lagos Local Visibility Starter.
+2. A guide in plain words on how local search works, because it is not a mystery.
+3. A keyword and titles worksheet, with real Lagos examples.
+4. A profile and review-scripts pack, and a 30-day tracker spreadsheet.
+5. Built for Lagos, with Lagos examples, because a generic local guide does not survive a market with this many markets in it.  ₦5,000, message LOCAL on WhatsApp: 0905 069 0837
+
+**Caption**
+> The 20 seed keyword formulas are in it, so you are not starting from a blank page.
+> 
+> Message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #LocalSEO
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 13:30 · Feed post
+
+> What is inside the Lagos Local Visibility Starter, ₦5,000.
+> 
+> 1. A guide in plain words: how local search works, profile setup, titles and descriptions, keywords, reviews, website basics, what not to do, and realistic expectations.
+> 2. A keyword brainstorm, 20 seed formulas, title and description formulas with Lagos examples, and a location-page template.
+> 3. A profile and review-scripts pack, so you know exactly what to say when you ask somebody for a review without sounding desperate.
+> 4. A 30-day tracker spreadsheet.
+> 
+> Honest throughout: no ranking promises, no tricks, no fake reviews.
+> 
+> It is built for Lagos with Lagos examples, because a generic local guide does not survive a market with this many markets in it.
+> 
+> Message LOCAL on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 16:15 · Text post, 16:15
+
+> What is inside the Lagos Local Visibility Starter, ₦5,000.
+> 
+> A guide in plain words: how local search works, profile setup, titles and descriptions, keywords, reviews, website basics, what not to do, and realistic expectations.
+> 
+> A keyword brainstorm, 20 seed formulas, title and description formulas with Lagos examples, and a location-page template.
+> 
+> A profile and review-scripts pack, so you know exactly what to say when you ask somebody for a review without sounding desperate.
+> 
+> A 30-day tracker spreadsheet.
+> 
+> Honest throughout: no ranking promises, no tricks, no fake reviews.
+> 
+> It is built for Lagos with Lagos examples, because a generic local guide does not survive a market with this many markets in it. How Lagos people search, and which words they actually type at 10pm on a Tuesday, is not the same as a generic guide.
+> 
+> WhatsApp: 0905 069 0837. Message LOCAL.
+
+---
+
+
+## Post 05 · How to ask for a review without begging
+
+**Type:** Teach · **Why it works:** Teach. A small, exacting piece of craft that the audience can use this week.
+
+### TikTok · 15:00 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> How to ask for a review without begging. The trick is in the first sentence.
+
+**On-screen beats**
+- Never start with
+"would you mind leaving a review"
+- Start with the job
+- "Glad the screen was
+sorted, and it was
+quick, right?"
+- And make it easy:
+send the link
+
+**Voiceover script**
+> How to ask for a review without begging. The trick is in the first sentence. Never start with would you mind leaving a review, because that is asking for a favour. Start with the job: glad the screen was sorted, and it was quick, right. And make it easy: send the link in the same message, so there is nothing to figure out. People review when it is easy, not when it is meaningful.
+
+**Caption**
+> How to ask for a review without begging. The trick is in the first sentence.
+> 
+> Never start with "would you mind leaving a review". Start with the job: "Glad the screen was sorted, and it was quick, right?"
+> 
+> And make it easy: send the link in the same message.
+> 
+> People review when it is easy, not when it is meaningful.
+
+**Hashtags:** #LocalSEO #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, a message bubble, terracotta accent, mark bottom right.
+
+### Instagram · 15:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. How to ask for a review without begging.
+2. The trick is in the first sentence.
+3. Never start with "would you mind leaving a review", because that is asking for a favour.
+4. Start with the job: "Glad the screen was sorted, and it was quick, right?"
+5. And make it easy: send the link in the same message, so there is nothing to figure out.  People review when it is easy, not when it is meaningful.
+
+**Caption**
+> The review scripts are in the Lagos Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #LocalSEO #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta marks.
+
+### Facebook · 15:00 · Feed post
+
+> How to ask for a review without begging. The trick is in the first sentence.
+> 
+> Never start with "would you mind leaving a review", because that is asking for a favour, and favours get declined.
+> 
+> Start with the job. "Glad the screen was sorted, and it was quick, right?" That is a statement, not a request, and it reminds them of the thing they were happy about.
+> 
+> And make it easy: send the link in the same message, so there is nothing to figure out and no decision to postpone.
+> 
+> People review when it is easy, not when it is meaningful. A message that makes it take ten seconds gets a reply; a message that makes it feel important gets ignored.
+> 
+> The review scripts are in the Lagos Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 06 · Reviews are not about stars, they are about being findable
+
+**Type:** Hot take · **Why it works:** Hot take. It reframes reviews from vanity to function, which most owners have not considered.
+
+### TikTok · 16:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> Reviews are not about the stars. They are about being findable.
+
+**On-screen beats**
+- Three reviews with the
+words "fast, honest,
+reasonable price"
+- Do more work than
+fifty reviews that say
+"good service, thanks"
+- Because people search
+for the words, not
+the number
+- And the number is
+not the thing that
+brings them in
+
+**Voiceover script**
+> Reviews are not about the stars. They are about being findable. Three reviews with the words fast, honest, reasonable price do more work than fifty reviews that say good service, thanks. Because people search for the words, not the number, and the number is not the thing that brings them in. So stop chasing five stars and start collecting the sentence a customer would actually use when they tell a friend about you.
+
+**Caption**
+> Reviews are not about the stars. They are about being findable.
+> 
+> Three reviews with the words "fast, honest, reasonable price" do more work than fifty reviews that say "good service, thanks".
+> 
+> Because people search for the words, not the number.
+> 
+> So stop chasing five stars and start collecting the sentence a customer would actually use when they tell a friend about you.
+
+**Hashtags:** #HotTake #LocalSEO #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 17:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Reviews are not about the stars.
+2. They are about being findable.
+3. Three reviews with the words "fast, honest, reasonable price" do more work than fifty reviews that say "good service, thanks".
+4. Because people search for the words, not the number.
+5. So stop chasing five stars and start collecting the sentence a customer would actually use when they tell a friend about you.
+
+**Caption**
+> The review scripts in the Local Visibility Starter are written to get you the sentence, not the star.
+> 
+> ₦5,000, message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #HotTake #LocalSEO #Easywurld #LagosSME
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 16:30 · Feed post
+
+> Reviews are not about the stars. They are about being findable.
+> 
+> Three reviews with the words "fast, honest, reasonable price" do more work than fifty reviews that say "good service, thanks". Because people search for the words, not the number.
+> 
+> So stop chasing five stars and start collecting the sentence a customer would actually use when they tell a friend about you. There is a huge difference between a review that says "good service" and one that says "they fixed my laptop in two hours and it cost less than the quote", and the second one is worth more even though it is shorter.
+> 
+> Which is also why the review scripts in the Local Visibility Starter ask the right question. They are not built to get five stars. They are built to get the sentence.
+> 
+> ₦5,000, message LOCAL on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 07 · Asking for a review on the street
+
+**Type:** Relatable · **Why it works:** Relatable. A funny, true image of the review-request moment that people recognise.
+
+### TikTok · 18:00 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> Me asking for a review the moment the job is done
+
+**On-screen beats**
+- Customer: "it is fine, thank you"
+- Me: "great, would you
+leave us a review?"
+- Customer: "...sure, how?"
+- Me, holding my phone,
+searching for the link,
+forty seconds too long
+
+**Voiceover script**
+> Me asking for a review the moment the job is done. Customer: it is fine, thank you. Me: great, would you leave us a review. Customer: sure, how. Me, holding my phone, searching for the link, forty seconds too long. The moment is right and the tool is wrong. If the link is in the message you already wrote, the customer is gone in five seconds. If you have to find it, they have already left the shop.
+
+**Caption**
+> Me asking for a review the moment the job is done.
+> 
+> Customer: "it is fine, thank you."
+> Me: "great, would you leave us a review?"
+> Customer: "...sure, how?"
+> 
+> Me, holding my phone, searching for the link, forty seconds too long.
+> 
+> The moment is right and the tool is wrong. If the link is in the message you already wrote, the customer is gone in five seconds.
+
+**Hashtags:** #Meme #Easywurld #Relatable #LocalSEO
+
+**Visual:** Two-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 18:30 · Static meme post, 4:5
+
+**Slide copy**
+1. Me asking for a review the moment the job is done
+2. Customer: "it is fine, thank you"
+3. Me: "great, would you leave us a review?"
+4. Customer: "...sure, how?"
+5. Me, holding my phone, searching for the link, forty seconds too long
+6. The moment is right and the tool is wrong.  If the link is in the message you already wrote, the customer is gone in five seconds.
+
+**Caption**
+> The scripts in the Local Visibility Starter have the link built in. ₦5,000, message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #LocalSEO
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 18:00 · Feed post
+
+> Me asking for a review the moment the job is done.
+> 
+> Customer: "it is fine, thank you."
+> Me: "great, would you leave us a review?"
+> Customer: "...sure, how?"
+> 
+> Me, holding my phone, searching for the link, forty seconds too long.
+> 
+> The moment is right and the tool is wrong. If the link is in the message you already wrote, the customer is gone in five seconds. If you have to find it, they have already left the shop and the review is never happening.
+> 
+> The review scripts in the Lagos Local Visibility Starter have the link built in, and there is a version that asks for the sentence instead of the star.
+> 
+> ₦5,000, message LOCAL on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 08 · The keywords customers actually type
+
+**Type:** Teach · **Why it works:** Teach. It shows that search language differs from business language, with concrete examples.
+
+### TikTok · 19:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Your customers do not search for what you call it. They search for what they need.
+
+**On-screen beats**
+- You say: "digital marketing
+services"
+- They search: "how to get
+more customers on
+Instagram"
+- Or: "salon near me"
+- Or: "same day phone repair"
+- The gap between those
+is where the customers are
+
+**Voiceover script**
+> Your customers do not search for what you call it. They search for what they need. You say digital marketing services. They search how to get more customers on Instagram. Or salon near me. Or same day phone repair. The gap between your words and theirs is where the customers are, and it is a cheap gap to close, because nobody is fighting for the version of the sentence your customer actually typed.
+
+**Caption**
+> Your customers do not search for what you call it. They search for what they need.
+> 
+> You say: "digital marketing services".
+> They search: "how to get more customers on Instagram". Or "salon near me". Or "same day phone repair".
+> 
+> The gap between your words and theirs is where the customers are.
+
+**Hashtags:** #LocalSEO #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, two columns of words, terracotta accent, mark bottom right.
+
+### Instagram · 19:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Your customers do not search for what you call it.
+2. They search for what they need.
+3. You say: "digital marketing services"
+4. They search: "how to get more customers on Instagram", "salon near me", "same day phone repair"
+5. The gap between your words and theirs is where the customers are.
+
+**Caption**
+> And it is a cheap gap to close, because nobody is fighting for the version of the sentence your customer actually typed.
+> 
+> The keyword worksheet, with 20 seed formulas, is in the Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #LocalSEO #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta marks.
+
+### Facebook · 19:30 · Feed post
+
+> Your customers do not search for what you call it. They search for what they need.
+> 
+> You say: "digital marketing services".
+> They search: "how to get more customers on Instagram". Or "salon near me". Or "same day phone repair". Or "tailor that can sew senator wear".
+> 
+> The gap between your words and theirs is where the customers are, and it is a cheap gap to close, because nobody is fighting for the version of the sentence your customer actually typed. They all optimised for the same three hundred words in the industry.
+> 
+> The keyword worksheet, with 20 seed formulas and title and description templates, is in the Lagos Local Visibility Starter, ₦5,000.
+> 
+> Message LOCAL on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 17:15 · Text post, 17:15
+
+> Your customers do not search for what you call it. They search for what they need.
+> 
+> You say: digital marketing services.
+> 
+> They search: how to get more customers on Instagram. Or salon near me. Or same day phone repair. Or tailor that can sew senator wear.
+> 
+> The gap between your words and theirs is where the customers are, and it is a cheap gap to close, because nobody is fighting for the version of the sentence your customer actually typed. They all optimised for the same three hundred words in the industry, which is a list that contains no customer in it.
+> 
+> The keyword worksheet, with 20 seed formulas, title and description formulas and a location-page template, is in the Lagos Local Visibility Starter, ₦5,000. Built for Lagos, with Lagos examples, because how Lagos people search is not how people in a generic guide search.
+> 
+> WhatsApp: 0905 069 0837. Message LOCAL.
+
+---
+
+
+## Post 09 · The Local Visibility Starter, the 30-day tracker
+
+**Type:** Offer · **Why it works:** Offer. It highlights the tracker, which is the part that makes the pack an action plan.
+
+### TikTok · 20:00 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> The 30-day tracker in the Local pack is the part people actually use.
+
+**On-screen beats**
+- One row per task
+- One column for done
+- And a weekly review
+on Sunday
+- Thirty days, and most
+people stop at day nine
+- So it is built for
+day nine
+
+**Voiceover script**
+> The 30-day tracker in the Local pack is the part people actually use. One row per task, one column for done, and a weekly review on Sunday. Thirty days, and most people stop at day nine. So it is built for day nine: the first nine tasks are the ones with the biggest effect, and the tracker puts them at the top, where you will see them when you open it on a Sunday feeling tired.
+
+**Caption**
+> The 30-day tracker in the Local pack is the part people actually use.
+> 
+> One row per task, one column for done, and a weekly review on Sunday.
+> 
+> Thirty days, and most people stop at day nine. So it is built for day nine: the first nine tasks are the ones with the biggest effect, and they are at the top, where you see them on a Sunday when you are tired.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LocalSEO #SmallBusinessNigeria
+
+**Visual:** Cream background, a checklist mock, terracotta ticks, mark bottom right.
+
+### Instagram · 20:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The 30-day tracker in the Local pack is the part people actually use.
+2. One row per task, one column for done, and a weekly review on Sunday.
+3. Thirty days, and most people stop at day nine.
+4. So it is built for day nine: the first nine tasks are the ones with the biggest effect, and they are at the top, where you see them on a Sunday when you are tired.
+5. ₦5,000, message LOCAL on WhatsApp: 0905 069 0837
+
+**Caption**
+> Thirty days, done properly, is enough to see a difference. Thirty days of nothing is not.
+> 
+> Message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #LocalSEO
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 20:15 · Feed post
+
+> The 30-day tracker in the Lagos Local Visibility Starter is the part people actually use.
+> 
+> One row per task, one column for done, and a weekly review on Sunday.
+> 
+> Thirty days, and most people stop at day nine. So it is built for day nine: the first nine tasks are the ones with the biggest effect, and they are at the top, where you see them when you open the file on a Sunday afternoon feeling tired.
+> 
+> Thirty days done properly is enough to see a difference. Thirty days of nothing is not. That is the whole argument for having a tracker instead of a guide.
+> 
+> ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The business that was invisible for two years
+
+**Type:** Story · **Why it works:** Story. A cautionary tale that makes the local case without claiming results.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> A business was invisible for two years, and it was not because of the internet.
+
+**On-screen beats**
+- The listing was
+half finished
+- The hours were wrong
+for a year
+- And they were blaming
+the algorithm
+- Fixing four things took
+an afternoon, and the
+complaints stopped
+
+**Voiceover script**
+> A business was invisible for two years, and it was not because of the internet. The listing was half finished. The hours were wrong for a year, because somebody changed them in the dry season and never changed them back. And they were blaming the algorithm. Fixing four things took an afternoon, and the complaints about being closed when they were open stopped. Most local visibility is not a ranking battle. It is a paperwork job.
+
+**Caption**
+> A business was invisible for two years, and it was not because of the internet.
+> 
+> The listing was half finished. The hours were wrong for a year, because somebody changed them in the dry season and never changed them back. And they were blaming the algorithm.
+> 
+> Fixing four things took an afternoon, and the complaints about being closed when they were open stopped.
+> 
+> Most local visibility is not a ranking battle. It is a paperwork job.
+
+**Hashtags:** #Easywurld #Story #LocalSEO #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 20:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. A business was invisible for two years, and it was not because of the internet.
+2. The listing was half finished.
+3. The hours were wrong for a year, because somebody changed them in the dry season and never changed them back.
+4. And they were blaming the algorithm.
+5. Fixing four things took an afternoon, and the complaints about being closed when they were open stopped.  Most local visibility is not a ranking battle. It is a paperwork job.
+
+**Caption**
+> ₦5,000, message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #Story #LagosSME #LocalSEO
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 21:00 · Feed post
+
+> A business was invisible for two years, and it was not because of the internet.
+> 
+> The listing was half finished. The hours were wrong for a year, because somebody changed them in the dry season and never changed them back. And they were blaming the algorithm.
+> 
+> Fixing four things took an afternoon, and the complaints about being closed when they were open stopped.
+> 
+> Most local visibility is not a ranking battle. It is a paperwork job. And that is good news, because paperwork can be done on a Sunday with a phone and a cup of tea.
+> 
+> The Lagos Local Visibility Starter, ₦5,000, is the paperwork, in the order that works. Message LOCAL on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 11 · Send us your business and your neighbourhood
+
+**Type:** Direct response · **Why it works:** Direct response. It asks for a specific detail, which is easy to reply to and highly relevant.
+
+### TikTok · 21:30 · Kinetic type with voiceover, 20s
+
+**Hook (0-3s)**
+> Send us your business and your neighbourhood. We will tell you what to fix first.
+
+**On-screen beats**
+- Business name,
+what you do, and
+your area
+- That is it
+- We will tell you the first
+thing to fix on your
+listing, and the second
+- Free, and it takes us
+a day
+
+**Voiceover script**
+> Send us your business and your neighbourhood. Business name, what you do, and your area. That is it. We will tell you the first thing to fix on your listing and the second thing, in that order, for free, and it takes us a day. Most listings need two fixes, not twenty. Reply here, or WhatsApp, 0905 069 0837.
+
+**Caption**
+> Send us your business and your neighbourhood. Business name, what you do, and your area. That is it.
+> 
+> We will tell you the first thing to fix on your listing, and the second thing, in that order, for free, and it takes us a day.
+> 
+> Most listings need two fixes, not twenty.
+
+**Hashtags:** #LocalSEO #Easywurld #SmallBusinessNigeria #FreeReview
+
+**Visual:** Cream background, a map with a terracotta pin, mark bottom right.
+
+### Instagram · 21:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Send us your business and your neighbourhood.
+2. Business name, what you do, and your area.
+3. That is it.
+4. We will tell you the first thing to fix on your listing, and the second thing, in that order.
+5. Free, and it takes us a day.  Most listings need two fixes, not twenty.  WhatsApp: 0905 069 0837
+
+**Caption**
+> Reply here, or send it on WhatsApp: 0905 069 0837.
+> 
+> Message LOCAL on WhatsApp: 0905 069 0837 for the full pack.
+
+**Hashtags:** #LocalSEO #Easywurld #LagosSME #FreeReview
+
+**Visual:** Cream slides, deep green serif, terracotta marks.
+
+### Facebook · 21:45 · Feed post
+
+> Send us your business and your neighbourhood.
+> 
+> Business name, what you do, and your area. That is it.
+> 
+> We will tell you the first thing to fix on your listing, and the second thing, in that order, for free, and it takes us a day.
+> 
+> Most listings need two fixes, not twenty. The rest can wait until next month.
+> 
+> Reply here, or send it on WhatsApp: 0905 069 0837.
+> 
+> And if you want the whole 30-day plan, the Lagos Local Visibility Starter is ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 20:15 (optional) · Text post, 20:15 (optional)
+
+> Send us your business and your neighbourhood.
+> 
+> Business name, what you do, and your area. That is it.
+> 
+> We will tell you the first thing to fix on your listing, and the second thing, in that order, for free, and it takes us a day.
+> 
+> Most listings need two fixes, not twenty. The rest can wait until next month, and a plan that survives contact with a real week is the only kind worth having.
+> 
+> Reply here, or send it on WhatsApp: 0905 069 0837.
+> 
+> And if you want the whole 30-day plan, the Lagos Local Visibility Starter is ₦5,000: a completed profile, a keyword list based on how customers actually search, page titles and descriptions, a review-request routine and a 30-day task tracker. No ranking promises, no tricks, no fake reviews.
+> 
+> WhatsApp: 0905 069 0837. Message LOCAL.
+
+---
+
+
+# Day 29 · Monday · Monday 16 Nov 2026 — The last month of the year, and getting recommended
+
+**Offer in focus:** Reviews + referrals + the recommendation
+
+---
+
+
+## Post 01 · How to ask for a recommendation
+
+**Type:** Teach · **Why it works:** Teach. It is the cheapest growth channel in Lagos and one almost nobody executes well.
+
+### TikTok · 07:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> How to ask for a recommendation. The cheapest growth channel in Lagos, and nobody does it.
+
+**On-screen beats**
+- Never: "can you refer
+somebody to me?"
+- Instead: "who do you know
+who might have this
+problem?"
+- Make it easy to say no
+- And give them the words
+to say about you
+
+**Voiceover script**
+> How to ask for a recommendation. The cheapest growth channel in Lagos, and nobody does it. Never: can you refer somebody to me. That is asking for a favour. Instead: who do you know who might have this problem. Make it easy to say no, because if somebody hesitates, they will not reply at all. And give them the words to say about you, because a referral with no words in it is just a name.
+
+**Caption**
+> How to ask for a recommendation. The cheapest growth channel in Lagos, and nobody does it.
+> 
+> Never: "can you refer somebody to me?"
+> Instead: "who do you know who might have this problem?"
+> 
+> Make it easy to say no. And give them the words to say about you, because a referral with no words in it is just a name.
+
+**Hashtags:** #Referrals #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, a referral arrow, terracotta accent, mark bottom right.
+
+### Instagram · 07:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. How to ask for a recommendation.
+2. The cheapest growth channel in Lagos, and nobody does it.
+3. Never: "can you refer somebody to me?"
+4. Instead: "who do you know who might have this problem?"
+5. Make it easy to say no. And give them the words to say about you, because a referral with no words in it is just a name.
+
+**Caption**
+> The referral wording is in the Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Referrals #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta accent.
+
+### Facebook · 08:00 · Feed post
+
+> How to ask for a recommendation. The cheapest growth channel in Lagos, and nobody does it.
+> 
+> Never: "can you refer somebody to me?" That is asking for a favour, and favours get declined.
+> 
+> Instead: "who do you know who might have this problem?" That is a question with an answer, and the answer can be no.
+> 
+> Make it easy to say no, because if somebody hesitates, they will not reply at all, and you have lost the second chance too.
+> 
+> And give them the words to say about you. A referral with no words in it is just a name, and a name does not travel. "Tell them about the place on the corner that does same-day repairs" works. "Tell them about my business" does not.
+> 
+> The referral wording is in the Lagos Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 08:15 · Text post, 08:15
+
+> How to ask for a recommendation. The cheapest growth channel in Lagos, and nobody does it.
+> 
+> Never: can you refer somebody to me. That is asking for a favour, and favours get declined.
+> 
+> Instead: who do you know who might have this problem. That is a question with an answer, and the answer can be no.
+> 
+> Make it easy to say no, because if somebody hesitates, they will not reply at all, and you have lost the second chance too.
+> 
+> And give them the words to say about you. A referral with no words in it is just a name, and a name does not travel. "Tell them about the place on the corner that does same-day repairs" works. "Tell them about my business" does not.
+> 
+> This is also the cheapest thing on this list, because it costs nothing and it works because people genuinely want to help if it is easy for them. The reason referrals do not happen is not that people are unwilling, it is that you asked in a way that made it awkward.
+> 
+> The referral wording is in the Lagos Local Visibility Starter, ₦5,000.
+> 
+> WhatsApp: 0905 069 0837. Message LOCAL.
+
+---
+
+
+## Post 02 · November, technically
+
+**Type:** Meme · **Why it works:** Meme. A seasonal, relatable joke that is timed to the month and encourages sharing.
+
+### TikTok · 09:15 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> Me in November, technically
+
+**On-screen beats**
+- The month that is not
+December but also not
+the year-end yet
+- The month where the
+"last minute" people
+start panicking
+- And the month where
+everybody says
+"next year, definitely"
+- Next year is in 6 weeks
+
+**Voiceover script**
+> Me in November, technically. The month that is not December but also not the year-end yet. The month where the last minute people start panicking. And the month where everybody says next year, definitely. Next year is in six weeks. The people who will be ready in December started in October. The people who will start in December will say next year. That is the whole year-end argument, and it is not a motivation talk, it is a scheduling fact.
+
+**Caption**
+> Me in November, technically.
+> 
+> The month that is not December but also not the year-end yet. The month where the "last minute" people start panicking. And the month where everybody says "next year, definitely".
+> 
+> Next year is in six weeks. The people who will be ready in December started in October.
+
+**Hashtags:** #Meme #Easywurld #Relatable #YearEnd
+
+**Visual:** Two-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 10:00 · Static meme post, 4:5
+
+**Slide copy**
+1. Me in November, technically
+2. The month that is not December but also not the year-end yet
+3. The month where the "last minute" people start panicking
+4. And the month where everybody says "next year, definitely"
+5. Next year is in six weeks.  The people who will be ready in December started in October. The people who will start in December will say next year.
+
+**Caption**
+> That is the whole year-end argument, and it is not a motivation talk, it is a scheduling fact.
+> 
+> ₦5,000, message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #YearEnd
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 10:30 · Feed post
+
+> Me in November, technically.
+> 
+> The month that is not December but also not the year-end yet. The month where the "last minute" people start panicking. And the month where everybody says "next year, definitely".
+> 
+> Next year is in six weeks.
+> 
+> The people who will be ready in December started in October. The people who will start in December will say next year. And the people who will start in January will say next year as well, and then complain that January is hard.
+> 
+> That is the whole year-end argument, and it is not a motivation talk, it is a scheduling fact.
+> 
+> So: what are you doing in the next six weeks that makes December different from every other December? Pick one thing, not ten, and start it this week.
+> 
+> The 30-day plan runs to 17 November. Message LOCAL on WhatsApp: 0905 069 0837 for the packs, or the full month plan is ₦5,000, message ENGINE.
+
+
+---
+
+
+## Post 03 · December is made in October, not in December
+
+**Type:** Trust · **Why it works:** Trust. A sober, non-hype statement about timing that the audience can act on.
+
+### TikTok · 11:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> December is made in October, not in December. And I am not saying that to make you feel bad.
+
+**On-screen beats**
+- In December you are busy
+serving the people
+who came earlier
+- And the work that takes
+four weeks cannot
+start in four weeks
+- So this is a calendar
+fact, not a lecture
+- One thing, this week
+
+**Voiceover script**
+> December is made in October, not in December, and I am not saying that to make you feel bad. In December you are busy serving the people who came earlier. And the work that takes four weeks cannot start in four weeks. So this is a calendar fact, not a lecture. Pick one thing, this week, and put it in the diary. That is the whole advice.
+
+**Caption**
+> December is made in October, not in December. And I am not saying that to make you feel bad.
+> 
+> In December you are busy serving the people who came earlier. And the work that takes four weeks cannot start in four weeks.
+> 
+> So this is a calendar fact, not a lecture. Pick one thing, this week, and put it in the diary.
+
+**Hashtags:** #Easywurld #HonestBusiness #YearEnd #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, brand mark lower right.
+
+### Instagram · 12:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. December is made in October, not in December.
+2. And I am not saying that to make you feel bad.
+3. In December you are busy serving the people who came earlier.
+4. And the work that takes four weeks cannot start in four weeks.
+5. So this is a calendar fact, not a lecture.  Pick one thing, this week, and put it in the diary.
+
+**Caption**
+> That is the whole advice, and it is free.
+> 
+> Message LOCAL on WhatsApp: 0905 069 0837 for the packs that start it.
+
+**Hashtags:** #Easywurld #HonestBusiness #LagosSME #YearEnd
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 12:00 · Feed post
+
+> December is made in October, not in December. And I am not saying that to make you feel bad.
+> 
+> In December you are busy serving the people who came earlier. And the work that takes four weeks cannot start in four weeks. A new profile, a new offer, a new page, a proper review routine: all of those need October and November.
+> 
+> So this is a calendar fact, not a lecture.
+> 
+> Pick one thing, this week, and put it in the diary. One, not ten. The businesses that look ready in December are not the busiest ones, they are the ones that chose one thing and did it early.
+> 
+> If you want a plan instead of a pep talk, the 30-Day Content Engine is ₦5,000, and the Local Visibility Starter is ₦5,000, and both are dated and written. Message ENGINE or LOCAL on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 12:15 · Text post, 12:15
+
+> December is made in October, not in December. And I am not saying that to make you feel bad.
+> 
+> In December you are busy serving the people who came earlier. And the work that takes four weeks cannot start in four weeks. A new profile, a new offer, a new page, a proper review routine: all of those need October and November.
+> 
+> So this is a calendar fact, not a lecture.
+> 
+> Pick one thing, this week, and put it in the diary. One, not ten. The businesses that look ready in December are not the busiest ones, they are the ones that chose one thing and did it early.
+> 
+> If you want a plan instead of a pep talk, the 30-Day Content Engine is ₦5,000, and the Lagos Local Visibility Starter is ₦5,000, and both are dated and written.
+> 
+> WhatsApp: 0905 069 0837. Message ENGINE or LOCAL.
+
+---
+
+
+## Post 04 · The One-Offer Landing Page Kit, for the year end
+
+**Type:** Offer · **Why it works:** Offer. It positions the landing page pack as the year-end campaign tool.
+
+### TikTok · 13:45 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> The One-Offer Landing Page Kit, ₦5,000. Built for exactly this season.
+
+**On-screen beats**
+- One page, one offer,
+one action
+- The nine-section structure
+- Full copy written
+for your offer
+- And an editable HTML page
+you can open today
+- Publish on a free host
+and send the link
+
+**Voiceover script**
+> The One-Offer Landing Page Kit, five thousand naira. Built for exactly this season. One page, one offer, one action. The nine-section structure we recommend. Full copy written for your offer, with a worked example. And an editable one-file HTML page you can open in any browser, edit in a text editor and publish on a free or low-cost host. It is mobile-friendly, it is accessible, and it has a WhatsApp order button on it. No coding skills needed beyond typing.
+
+**Caption**
+> The One-Offer Landing Page Kit, ₦5,000. Built for exactly this season.
+> 
+> One page, one offer, one action. The nine-section structure. Full copy written for your offer, with a worked example. And an editable one-file HTML page you can open today, edit and publish on a free host.
+> 
+> Mobile-friendly, accessible, with a WhatsApp order button. No coding needed.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LandingPage #YearEnd
+
+**Visual:** Cream background, a landing page mock, terracotta accent, mark bottom right.
+
+### Instagram · 14:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The One-Offer Landing Page Kit. Built for exactly this season.
+2. One page, one offer, one action.
+3. The nine-section structure, and full copy written for your offer, with a worked example.
+4. And an editable one-file HTML page you can open today, edit and publish on a free host.
+5. Mobile-friendly, accessible, and it has a WhatsApp order button on it.  ₦5,000, message PAGE on WhatsApp: 0905 069 0837
+
+**Caption**
+> No coding skills needed beyond typing.
+> 
+> Message PAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #LandingPage
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 13:30 · Feed post
+
+> The One-Offer Landing Page Kit, ₦5,000. Built for exactly this season.
+> 
+> One page, one offer, one action. That is the whole idea, and it is the reason it works better than sending people to your Instagram bio, your whole website, or a chat thread.
+> 
+> Inside:
+> 
+> 1. The nine-section structure we recommend, and why each one is there.
+> 2. A copy template with a full worked example, so you can see finished answers instead of headings with brackets.
+> 3. A single-file HTML page, editable in any text editor, publishable on a free or low-cost host.
+> 
+> It is mobile-friendly, accessible, and it has a WhatsApp order button on it, which in this market is not a nice extra, it is the main call to action.
+> 
+> No coding skills needed beyond typing. Message PAGE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 05 · The December offer, decided in November
+
+**Type:** Teach · **Why it works:** Teach. A specific, actionable year-end planning method with a clear deadline.
+
+### TikTok · 15:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> The December offer should be decided this month, and it should be one thing.
+
+**On-screen beats**
+- Not a sale. An offer
+- A thing that was
+always true but was
+never said out loud
+- December is when people
+spend what is left,
+not when they discover
+new things
+- So say the thing you
+already do well
+
+**Voiceover script**
+> The December offer should be decided this month, and it should be one thing. Not a sale, an offer. A thing that was always true but was never said out loud. December is when people spend what is left, not when they discover new things, so the offer should be something you already do well, said more clearly. And the page, and the photos, and the follow-up, all need to exist before December starts, because December is not the time to be learning a new offer.
+
+**Caption**
+> The December offer should be decided this month, and it should be one thing.
+> 
+> Not a sale. An offer. A thing that was always true but was never said out loud.
+> 
+> December is when people spend what is left, not when they discover new things. So say the thing you already do well.
+> 
+> And it all needs to exist before December starts, because December is not the time to be learning a new offer.
+
+**Hashtags:** #YearEnd #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, a single-offer card, terracotta accent, mark bottom right.
+
+### Instagram · 15:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The December offer should be decided this month.
+2. And it should be one thing.
+3. Not a sale. An offer. A thing that was always true but was never said out loud.
+4. December is when people spend what is left, not when they discover new things.
+5. So say the thing you already do well, and have the page and the photos ready before December starts.
+
+**Caption**
+> Because December is not the time to be learning a new offer.
+> 
+> The Landing Page Kit, ₦5,000, message PAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #YearEnd #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta accent.
+
+### Facebook · 15:00 · Feed post
+
+> The December offer should be decided this month, and it should be one thing.
+> 
+> Not a sale. An offer. A thing that was always true but was never said out loud.
+> 
+> December is when people spend what is left, not when they discover new things. So the offer should be something you already do well, said more clearly. A package of what you already sell, a first-time thing for a specific customer, a price that makes the decision easy.
+> 
+> And the page, the photos and the follow-up all need to exist before December starts, because December is not the time to be learning a new offer while also serving the people who came earlier.
+> 
+> The One-Offer Landing Page Kit, ₦5,000, has the nine-section structure and the copy templates for exactly this page. Message PAGE on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 16:15 · Text post, 16:15
+
+> The December offer should be decided this month, and it should be one thing.
+> 
+> Not a sale. An offer. A thing that was always true but was never said out loud.
+> 
+> December is when people spend what is left, not when they discover new things. So the offer should be something you already do well, said more clearly. A package of what you already sell, a first-time thing for a specific customer, a price that makes the decision easy.
+> 
+> And the page, the photos and the follow-up all need to exist before December starts, because December is not the time to be learning a new offer while also serving the people who came earlier.
+> 
+> The One-Offer Landing Page Kit, ₦5,000, has the nine-section structure and the copy templates for exactly this page.
+> 
+> WhatsApp: 0905 069 0837. Message PAGE.
+
+---
+
+
+## Post 06 · Discounting in December is a confession
+
+**Type:** Hot take · **Why it works:** Hot take. A genuinely useful argument that most small business owners have never heard.
+
+### TikTok · 16:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> A discount in December is a confession. You just said your price was wrong.
+
+**On-screen beats**
+- If you can drop 30%
+in December, why not
+in August?
+- Because you were
+too busy to fix
+the price
+- So a discount is a
+liquidation, not
+a promotion
+- And you do not need
+to liquidate
+
+**Voiceover script**
+> A discount in December is a confession. You just told everybody your price was wrong. If you can drop thirty percent in December, why not in August? Because you were too busy to fix the price. So a discount is a liquidation, not a promotion. And you do not need to liquidate. You need a reason to buy now that is still true in March, and there is one: the deadline you set, and the reason behind it.
+
+**Caption**
+> A discount in December is a confession. You just told everybody your price was wrong.
+> 
+> If you can drop 30% in December, why not in August? Because you were too busy to fix the price.
+> 
+> So a discount is a liquidation, not a promotion. And you do not need to liquidate. You need a reason to buy now that is still true in March.
+
+**Hashtags:** #HotTake #YearEnd #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 17:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. A discount in December is a confession.
+2. You just told everybody your price was wrong.
+3. If you can drop 30% in December, why not in August?
+4. Because you were too busy to fix the price.  So a discount is a liquidation, not a promotion.
+5. And you do not need to liquidate. You need a reason to buy now that is still true in March: the deadline you set, and the reason behind it.
+
+**Caption**
+> A deadline with a real reason behind it is not pressure. It is information.
+> 
+> ₦5,000, message PAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #HotTake #YearEnd #Easywurld #LagosSME
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 16:30 · Feed post
+
+> A discount in December is a confession. You just told everybody your price was wrong.
+> 
+> If you can drop thirty percent in December, why not in August? Because you were too busy to fix the price. So a discount is a liquidation, not a promotion. And you do not need to liquidate.
+> 
+> You need a reason to buy now that is still true in March. That means a real deadline, with a real reason behind it: we are closing the December intake on the 15th, or this price covers work we can start before the holidays. A deadline with a reason is information. A discount with a countdown is pressure, and the smart customers can feel the difference, and they wait you out.
+> 
+> The One-Offer Landing Page Kit, ₦5,000, has the copy templates for the offer, the objection block and the deadline sentence. Message PAGE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 07 · The December energy
+
+**Type:** Relatable · **Why it works:** Relatable. A warm, self-aware seasonal post that softens the selling pressure.
+
+### TikTok · 18:00 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> My business in December vs my business in August
+
+**On-screen beats**
+- August: business is
+the thing I built
+- December: business is
+the thing I am surviving
+until January
+- Same business
+- Different month
+
+**Voiceover script**
+> My business in December versus my business in August. August: the business is the thing I built. December: the business is the thing I am surviving until January. Same business, different month. The trick is to do the December work in August, so that December is just a month you already know how to handle, instead of a month you are learning in real time.
+
+**Caption**
+> My business in December versus my business in August.
+> 
+> August: the business is the thing I built.
+> December: the business is the thing I am surviving until January.
+> 
+> Same business, different month.
+> 
+> The trick is to do the December work in August, so December is a month you already know how to handle, instead of a month you are learning in real time.
+
+**Hashtags:** #Meme #Easywurld #Relatable #YearEnd
+
+**Visual:** Two-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 18:30 · Static meme post, 4:5
+
+**Slide copy**
+1. My business in December vs my business in August
+2. August: business is the thing I built
+3. December: business is the thing I am surviving until January
+4. Same business, different month
+5. The trick is to do the December work in August, so December is a month you already know how to handle, instead of a month you are learning in real time.
+
+**Caption**
+> The 30-Day Content Engine is dated, so you can schedule it and stop deciding. ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #YearEnd
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 18:00 · Feed post
+
+> My business in December versus my business in August.
+> 
+> August: the business is the thing I built.
+> December: the business is the thing I am surviving until January.
+> 
+> Same business, different month.
+> 
+> The trick is to do the December work in August, so December is a month you already know how to handle, instead of a month you are learning in real time, with customers watching.
+> 
+> Practically, that means three things are ready before December starts: the offer, the page, and the content. Everything else in December is delivery.
+> 
+> The 30-Day Content Engine, ₦5,000, is dated and written, so you can schedule it and stop deciding. Message ENGINE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 08 · The year-end review, twenty minutes
+
+**Type:** Teach · **Why it works:** Teach. It gives the audience a concrete way to close the year and start the next one well.
+
+### TikTok · 19:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> A twenty-minute year-end review. Do it in December, and January becomes easy.
+
+**On-screen beats**
+- 5 min: what worked,
+and what you can prove
+- 5 min: what did not work,
+and what it cost
+- 5 min: what you are dropping
+- 5 min: the one thing
+for next year
+- Write it down. That is it
+
+**Voiceover script**
+> A twenty-minute year-end review. Do it in December and January becomes easy. Five minutes on what worked and what you can prove. Five minutes on what did not work and what it cost. Five minutes on what you are dropping, because a year needs things removed as well as added. Five minutes on the one thing that matters next year. And write it down, because a review that stays in your head is a feeling, and a feeling does not survive January.
+
+**Caption**
+> A twenty-minute year-end review. Do it in December and January becomes easy.
+> 
+> 5 min: what worked, and what you can prove
+> 5 min: what did not work, and what it cost
+> 5 min: what you are dropping
+> 5 min: the one thing that matters next year
+> 
+> And write it down. A review that stays in your head is a feeling, and a feeling does not survive January.
+
+**Hashtags:** #YearEnd #Easywurld #BusinessTips #SmallBusinessNigeria
+
+**Visual:** Cream background, a checklist with a timer, terracotta accent, mark bottom right.
+
+### Instagram · 19:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. A twenty-minute year-end review. Do it in December and January becomes easy.
+2. 5 min: what worked, and what you can prove
+3. 5 min: what did not work, and what it cost
+4. 5 min: what you are dropping
+5. 5 min: the one thing that matters next year
+6. And write it down. A review that stays in your head is a feeling, and a feeling does not survive January.
+
+**Caption**
+> The Proposal & Report Template Pack, ₦5,000, has a report structure that works for this. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #YearEnd #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta accent.
+
+### Facebook · 19:30 · Feed post
+
+> A twenty-minute year-end review. Do it in December and January becomes easy.
+> 
+> 5 minutes: what worked, and what you can prove.
+> 5 minutes: what did not work, and what it cost.
+> 5 minutes: what you are dropping.
+> 5 minutes: the one thing that matters next year.
+> 
+> And write it down. A review that stays in your head is a feeling, and a feeling does not survive January.
+> 
+> That third line is the one people skip, and a year needs things removed as well as added. If you do not decide what to drop, you carry it into next year and it quietly takes the space your new thing needed.
+> 
+> The Proposal & Report Template Pack, ₦5,000, has a report structure you can use for this, and the same structure works for a monthly review. Message TEMPLATES on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 17:15 · Text post, 17:15
+
+> A twenty-minute year-end review. Do it in December and January becomes easy.
+> 
+> What worked, and what you can prove. Five minutes.
+> 
+> What did not work, and what it cost. Five minutes.
+> 
+> What you are dropping. Five minutes.
+> 
+> And the one thing that matters next year. Five minutes.
+> 
+> Write it down. A review that stays in your head is a feeling, and a feeling does not survive January.
+> 
+> That third line is the one people skip, and a year needs things removed as well as added. If you do not decide what to drop, you carry it into next year, and it quietly takes the space your new thing needed. The business that looks focused is usually the one that stopped doing four things and started doing one properly, which is not inspiring, it is just arithmetic.
+> 
+> The Proposal & Report Template Pack, ₦5,000, has a report structure you can use for this, and the same structure works for a monthly review.
+> 
+> WhatsApp: 0905 069 0837. Message TEMPLATES.
+
+---
+
+
+## Post 09 · The 30-Day Content Engine, the year-end plan
+
+**Type:** Offer · **Why it works:** Offer. It points the month plan at the immediate season, which is the most relevant use of it.
+
+### TikTok · 20:00 · Kinetic type with voiceover, 25s
+
+**Hook (0-3s)**
+> The Content Engine is dated, so you can schedule December in one sitting.
+
+**On-screen beats**
+- 30 days, 11 posts a day,
+written and dated
+- The mix is already decided:
+teach, meme, trust, offer,
+story, hot take
+- And the month review
+is in there
+- ₦5,000, message ENGINE
+
+**Voiceover script**
+> The Content Engine is dated, so you can schedule December in one sitting. Thirty days, eleven posts a day, written and dated. The mix is already decided: teach, meme, trust, offer, story, hot take. And the month review is in there, so January is not starting from a blank page, it is starting from a note about what worked. Five thousand naira, message ENGINE on WhatsApp.
+
+**Caption**
+> The Content Engine is dated, so you can schedule December in one sitting.
+> 
+> 30 days, 11 posts a day, written and dated. The mix is already decided: teach, meme, trust, offer, story, hot take. And the month review is in there, so January is not starting from a blank page, it is starting from a note about what worked.
+> 
+> ₦5,000. Message ENGINE on WhatsApp: 0905 069 0837
+
+**Hashtags:** #Easywurld #DigitalDownloads #ContentStrategy #YearEnd
+
+**Visual:** Cream background, a calendar grid, terracotta accent, mark bottom right.
+
+### Instagram · 20:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The Content Engine is dated, so you can schedule December in one sitting.
+2. 30 days, 11 posts a day, written and dated.
+3. The mix is already decided: teach, meme, trust, offer, story, hot take.
+4. And the month review is in there,
+5. so January is not starting from a blank page, it is starting from a note about what worked.  ₦5,000, message ENGINE on WhatsApp: 0905 069 0837
+
+**Caption**
+> Aimed at owners who post on Instagram, Facebook, TikTok or LinkedIn, and who run out of ideas by week two.
+> 
+> Message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #ContentStrategy
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 20:15 · Feed post
+
+> The Content Engine is dated, so you can schedule December in one sitting.
+> 
+> 30 days, 11 posts a day, written and dated. The mix is already decided: teach, meme, trust, offer, story, hot take. And the month review is in there, so January is not starting from a blank page, it is starting from a note about what worked.
+> 
+> The pack:
+> 
+> 1. A four-pillar system: Teach, Show, Trust, Sell.
+> 2. A guide to batching a week's content in about two hours.
+> 3. A bank of 60 post ideas.
+> 4. 25 hook formulas with caption frameworks.
+> 5. An Excel calendar that fills the month with dates, pillar balance and a monthly review.
+> 6. Templates for people who are not designers.
+> 7. The handover training, so somebody else can keep it going when you cannot.
+> 
+> ₦5,000. Message ENGINE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The customer who came back twice
+
+**Type:** Story · **Why it works:** Story. A warm, non-specific story about a repeat customer that carries the season.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> One customer came back twice, and it was not because of a discount.
+
+**On-screen beats**
+- The first time, they bought
+because they needed it
+- The second time, they
+came because of what
+they said to a friend
+- The friend did not come,
+she sent her cousin
+- And that is how it actually
+spreads
+
+**Voiceover script**
+> One customer came back twice, and it was not because of a discount. The first time, she bought because she needed it. The second time, she came back because of what she had said to a friend, which is a much better reason and a much better signal. The friend did not come. She sent her cousin. And that is how it actually spreads, in a circle of two or three people you will never see on a spreadsheet.
+
+**Caption**
+> One customer came back twice, and it was not because of a discount.
+> 
+> The first time, she bought because she needed it. The second time, she came back because of what she had said to a friend, which is a much better reason and a much better signal.
+> 
+> The friend did not come. She sent her cousin.
+> 
+> And that is how it actually spreads, in a circle of two or three people you will never see on a spreadsheet.
+
+**Hashtags:** #Easywurld #Story #Referrals #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 20:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. One customer came back twice, and it was not because of a discount.
+2. The first time, she bought because she needed it.
+3. The second time, she came back because of what she had said to a friend, which is a much better reason and a much better signal.
+4. The friend did not come. She sent her cousin.
+5. And that is how it actually spreads, in a circle of two or three people you will never see on a spreadsheet.
+
+**Caption**
+> The referral wording is in the Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Easywurld #Story #LagosSME #Referrals
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 21:00 · Feed post
+
+> One customer came back twice, and it was not because of a discount.
+> 
+> The first time, she bought because she needed it. The second time, she came back because of what she had said to a friend, which is a much better reason and a much better signal.
+> 
+> The friend did not come. She sent her cousin. And that is how it actually spreads, in a circle of two or three people you will never see on a spreadsheet, in a group chat, at a family gathering, at a fitting room, in a taxi.
+> 
+> Which is why the referral question matters more than the discount, and why the year is a good time to start asking it properly, because in December people are telling each other what to buy.
+> 
+> The referral wording is in the Lagos Local Visibility Starter, ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 11 · What are you doing before December
+
+**Type:** Direct response · **Why it works:** Direct response. It creates a simple, low-friction prompt and drives replies and DMs.
+
+### TikTok · 21:30 · Kinetic type with voiceover, 20s
+
+**Hook (0-3s)**
+> What are you doing before December? One sentence in the comments.
+
+**On-screen beats**
+- Not what you will do
+in December
+- What you are doing
+next week
+- The page, the profile,
+the offer, the content
+- One sentence
+- And I will reply to every
+single one
+
+**Voiceover script**
+> What are you doing before December? One sentence in the comments. Not what you will do in December. What you are doing next week. The page, the profile, the offer, the content. One sentence, and I will reply to every single one, because I would rather help you start than sell you a plan, and the plan is right there if you want it.
+
+**Caption**
+> What are you doing before December? One sentence in the comments.
+> 
+> Not what you will do in December. What you are doing next week. The page, the profile, the offer, the content.
+> 
+> One sentence, and I will reply to every single one.
+
+**Hashtags:** #Easywurld #YearEnd #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, a comment box, terracotta accent, mark bottom right.
+
+### Instagram · 21:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. What are you doing before December?
+2. One sentence in the comments.
+3. Not what you will do in December.
+4. What you are doing next week.
+5. The page, the profile, the offer, the content.  And I will reply to every single one.
+
+**Caption**
+> Message ENGINE on WhatsApp: 0905 069 0837 for the full month plan, or LOCAL for the December one-thing plan.
+
+**Hashtags:** #Easywurld #LagosSME #YearEnd #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta marks.
+
+### Facebook · 21:45 · Feed post
+
+> What are you doing before December? One sentence in the comments.
+> 
+> Not what you will do in December. What you are doing next week. The page, the profile, the offer, the content.
+> 
+> And I will reply to every single one, because I would rather help you start than sell you a plan, and the plan is right there if you want it. ₦5,000, dated, written, message ENGINE or LOCAL on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 20:15 (optional) · Text post, 20:15 (optional)
+
+> What are you doing before December? One sentence in the comments.
+> 
+> Not what you will do in December. What you are doing next week. The page, the profile, the offer, the content.
+> 
+> And I will reply to every single one, because I would rather help you start than sell you a plan, and the plan is right there if you want it.
+> 
+> The 30-Day Content Engine is ₦5,000, dated and written, and the Lagos Local Visibility Starter is ₦5,000, and both of them are about doing the thing next week rather than in December.
+> 
+> WhatsApp: 0905 069 0837. Message ENGINE or LOCAL.
+
+---
+
+
+# Day 30 · Tuesday · Tuesday 17 Nov 2026 — Thirty days, and what happens next
+
+**Offer in focus:** The month wrap + month-two setup
+
+---
+
+
+## Post 01 · The thirty-day test
+
+**Type:** Teach · **Why it works:** Teach. It closes the month with a method and makes the last day useful, not just a summary.
+
+### TikTok · 07:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Thirty days of posting. Here is the test that tells you if it worked.
+
+**On-screen beats**
+- Not likes. Three things
+- 1 · Are you posting
+without deciding?
+- 2 · Is there one post
+you would make again?
+- 3 · Did anybody message
+you because of a post?
+- Three yeses and you
+have a system
+
+**Voiceover script**
+> Thirty days of posting. Here is the test that tells you if it worked. Not likes. Three things. One, are you posting without deciding what to post? Two, is there one post you would make again, that you could make ten of? Three, did anybody message you because of a post? Three yeses and you have a system. Two yeses and you have a start. None yeses and you need to change the plan, not the effort.
+
+**Caption**
+> Thirty days of posting. Here is the test that tells you if it worked. Not likes. Three things:
+> 
+> 1 · Are you posting without deciding what to post?
+> 2 · Is there one post you would make again, that you could make ten of?
+> 3 · Did anybody message you because of a post?
+> 
+> Three yeses and you have a system. Two yeses and you have a start. None yeses and you need to change the plan, not the effort.
+
+**Hashtags:** #ContentStrategy #Easywurld #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, three numbered tests, terracotta numbers, mark bottom right.
+
+### Instagram · 07:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Thirty days of posting. Here is the test that tells you if it worked.
+2. Not likes. Three things.
+3. 1 · Are you posting without deciding what to post?
+4. 2 · Is there one post you would make again, that you could make ten of?
+5. 3 · Did anybody message you because of a post?
+6. Three yeses and you have a system. Two yeses and you have a start.
+
+**Caption**
+> None yeses and you need to change the plan, not the effort. That is the good outcome, because effort is the expensive thing to change.
+> 
+> ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #ContentStrategy #Easywurld #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 08:00 · Feed post
+
+> Thirty days of posting. Here is the test that tells you if it worked.
+> 
+> Not likes. Three things.
+> 
+> 1. Are you posting without deciding what to post?
+> 2. Is there one post you would make again, that you could make ten of?
+> 3. Did anybody message you because of a post?
+> 
+> Three yeses and you have a system. Two yeses and you have a start. None yeses and you need to change the plan, not the effort.
+> 
+> That last line is the useful one, because effort is the expensive thing to change. If you posted for thirty days and nothing moved, the answer is rarely "try harder". It is usually "the mix was wrong" or "the times were wrong" or "the subjects were not the ones your customers care about". All three of those are cheap to fix.
+> 
+> And that is what month two is for. The 30-Day Content Engine, ₦5,000, is dated and written, so you can schedule the next month in one sitting.
+> 
+> Message ENGINE on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 08:15 · Text post, 08:15
+
+> Thirty days of posting. Here is the test that tells you if it worked.
+> 
+> Not likes. Three things.
+> 
+> Are you posting without deciding what to post?
+> 
+> Is there one post you would make again, that you could make ten of?
+> 
+> Did anybody message you because of a post?
+> 
+> Three yeses and you have a system. Two yeses and you have a start. None yeses and you need to change the plan, not the effort.
+> 
+> That last line is the useful one, because effort is the expensive thing to change. If you posted for thirty days and nothing moved, the answer is rarely "try harder". It is usually that the mix was wrong, or the times were wrong, or the subjects were not the ones your customers care about. All three of those are cheap to fix, and all three of them are invisible if you only look at likes.
+> 
+> The 30-Day Content Engine, ₦5,000, is dated and written, so you can schedule the next month in one sitting, and the month review is built in.
+> 
+> WhatsApp: 0905 069 0837. Message ENGINE.
+
+---
+
+
+## Post 02 · Me on day 31
+
+**Type:** Meme · **Why it works:** Meme. A warm, funny sign-off that keeps the tone human on the final day.
+
+### TikTok · 09:15 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> Me on day 31, having posted every day like a normal person
+
+**On-screen beats**
+- The last two posts
+are just a photo of
+the shopfront
+- And a "thank you"
+- And honestly?
+- I might do it again
+tomorrow
+
+**Voiceover script**
+> Me on day 31, having posted every day like a normal person. The last two posts are just a photo of the shopfront, and a thank you. And honestly? I might do it again tomorrow. Which is the whole point. Thirty days of showing up is not a sprint, it is what you do on a day when you do not feel like it, and that day comes twice a month.
+
+**Caption**
+> Me on day 31, having posted every day like a normal person.
+> 
+> The last two posts are just a photo of the shopfront, and a "thank you".
+> 
+> And honestly? I might do it again tomorrow.
+> 
+> Thirty days of showing up is not a sprint, it is what you do on a day when you do not feel like it, and that day comes twice a month.
+
+**Hashtags:** #Meme #Easywurld #Relatable #ContentStrategy
+
+**Visual:** Two-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 10:00 · Static meme post, 4:5
+
+**Slide copy**
+1. Me on day 31, having posted every day like a normal person
+2. The last two posts are just a photo of the shopfront,
+3. and a "thank you"
+4. And honestly?
+5. I might do it again tomorrow
+6. Thirty days of showing up is not a sprint, it is what you do on a day when you do not feel like it, and that day comes twice a month.
+
+**Caption**
+> The 30-Day Content Engine has two easy posts a day built in, for exactly that day. ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #ContentStrategy
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 10:30 · Feed post
+
+> Me on day 31, having posted every day like a normal person.
+> 
+> The last two posts are just a photo of the shopfront, and a "thank you".
+> 
+> And honestly? I might do it again tomorrow.
+> 
+> Thirty days of showing up is not a sprint. It is what you do on a day when you do not feel like it, and that day comes twice a month, and the plan either has room for it or it does not.
+> 
+> That is why the 30-Day Content Engine, ₦5,000, has two easy posts a day built into the mix. Not filler. Posts that are genuinely easy to make, on purpose, for the days when you have nothing.
+> 
+> Message ENGINE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 03 · Everything in this kit is ours
+
+**Type:** Trust · **Why it works:** Trust. It is the honest disclosure that the portfolio pieces are concept builds, stated clearly at the end of the month.
+
+### TikTok · 11:30 · Talking head, 30s
+
+**Hook (0-3s)**
+> One last honest thing. Every piece in our portfolio is a concept project or a sample build.
+
+**On-screen beats**
+- Not one of them is a
+client engagement
+- The work is ours to show
+- And it is not a case study
+- We will not pretend
+otherwise to close a deal
+- The free review is the part
+that is about your business
+
+**Voiceover script**
+> One last honest thing. Every piece in our portfolio is a concept project or a sample build. Not one of them is a client engagement. The work is ours to show, and it is not a case study, and we will not pretend otherwise to close a deal. The free review is the part that is about your business, and it is free, and it is real. That is the whole difference between us and the agencies that put logos on their homepage without saying whose they are.
+
+**Caption**
+> One last honest thing. Every piece in our portfolio is a concept project or a sample build. Not one of them is a client engagement.
+> 
+> The work is ours to show, and it is not a case study, and we will not pretend otherwise to close a deal.
+> 
+> The free review is the part that is about your business, and it is free, and it is real.
+
+**Hashtags:** #Easywurld #HonestBusiness #SampleBuild #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, brand mark lower right.
+
+### Instagram · 12:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. One last honest thing.
+2. Every piece in our portfolio is a concept project or a sample build.
+3. Not one of them is a client engagement.
+4. The work is ours to show, and it is not a case study, and we will not pretend otherwise to close a deal.
+5. The free review is the part that is about your business, and it is free, and it is real.
+
+**Caption**
+> That is the whole difference between us and the agencies that put logos on their homepage without saying whose they are.
+> 
+> website-builder-portfolio.vercel.app
+
+**Hashtags:** #Easywurld #HonestBusiness #LagosSME #SampleBuild
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 12:00 · Feed post
+
+> One last honest thing, now that the month is done.
+> 
+> Every piece in our portfolio is a concept project or a sample build. Not one of them is a client engagement. The work is ours to show, and it is not a case study, and we will not pretend otherwise to close a deal.
+> 
+> If you have been through this month with us, you will not have seen a single invented testimonial, a single fake ranking, a single made-up result. There is no number on this account that we cannot show you where it came from, and mostly there are no numbers at all, because the honest ones take longer to earn.
+> 
+> The free review is the part that is about your business, and it is free, and it is real.
+> 
+> website-builder-portfolio.vercel.app
+> 
+> WhatsApp: 0905 069 0837.
+
+### LinkedIn · 12:15 · Text post, 12:15
+
+> One last honest thing, now that the month is done.
+> 
+> Every piece in our portfolio is a concept project or a sample build. Not one of them is a client engagement. The work is ours to show, and it is not a case study, and we will not pretend otherwise to close a deal.
+> 
+> If you have been through this month with us, you will not have seen a single invented testimonial, a single fake ranking, a single made-up result. There is no number on this account that we cannot show you where it came from, and mostly there are no numbers at all, because the honest ones take longer to earn.
+> 
+> The free review is the part that is about your business, and it is free, and it is real.
+> 
+> website-builder-portfolio.vercel.app
+> 
+> WhatsApp: 0905 069 0837.
+
+---
+
+
+## Post 04 · Everything, in one place, and how to start
+
+**Type:** Offer · **Why it works:** Offer. The full range, so nobody in the audience is left thinking there is nothing for them.
+
+### TikTok · 13:45 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Nine packs, ₦5,000 each. Here is the whole list, one more time, and how to start.
+
+**On-screen beats**
+- MESSAGE, LOCAL, CLEAR,
+ENGINE, PLAYBOOK
+- PAGE, LAUNCH,
+TEMPLATES, PROMPTS
+- All ₦5,000, download
+the same day
+- You message the keyword,
+you get the payment details,
+you get the file
+- No call, no waiting,
+no consultation
+
+**Voiceover script**
+> Nine packs, five thousand naira each. Here is the whole list one more time, and how to start. Message, local, clear, engine, playbook, page, launch, templates, prompts. All five thousand, download the same day. You message the keyword, you get the payment details, you pay, you get the file. No call, no waiting, no consultation. And if you still cannot tell which one, message us and we will point you at one, or at none.
+
+**Caption**
+> Nine packs, ₦5,000 each. Here is the whole list, one more time, and how to start.
+> 
+> MESSAGE, LOCAL, CLEAR, ENGINE, PLAYBOOK, PAGE, LAUNCH, TEMPLATES, PROMPTS.
+> 
+> All ₦5,000, download the same day. You message the keyword, you get the payment details, you pay, you get the file. No call, no waiting, no consultation.
+
+**Hashtags:** #Easywurld #DigitalDownloads #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, a nine-item list, terracotta ticks, mark bottom right.
+
+### Instagram · 14:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Nine packs, ₦5,000 each. The whole list, one more time.
+2. MESSAGE · LOCAL · CLEAR ENGINE · PLAYBOOK PAGE · LAUNCH · TEMPLATES PROMPTS
+3. All ₦5,000, download the same day.
+4. You message the keyword, you get the payment details, you pay, you get the file.
+5. No call, no waiting, no consultation. And if you still cannot tell which one, message us and we will point you at one, or at none.  WhatsApp: 0905 069 0837
+
+**Caption**
+> Message the keyword on WhatsApp: 0905 069 0837. Site: website-builder-portfolio.vercel.app
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 13:30 · Feed post
+
+> Nine packs, ₦5,000 each. Here is the whole list, one more time, and how to start.
+> 
+> MESSAGE · LOCAL · CLEAR · ENGINE · PLAYBOOK · PAGE · LAUNCH · TEMPLATES · PROMPTS
+> 
+> All ₦5,000, download the same day. You message the keyword on WhatsApp, you get the payment details, you pay, you get the file. No call, no waiting, no consultation, no upsell at the end of it.
+> 
+> If you still cannot tell which one, message us and we will point you at one, or at none of them, and we will say so.
+> 
+> The free review is still open, and it is still free, and it is still 24 hours: send your link, your business name and one line about what you do, and you get a voice note and three points. website-builder-portfolio.vercel.app
+> 
+> WhatsApp: 0905 069 0837.
+
+### LinkedIn · 16:15 · Text post, 16:15
+
+> Nine packs, ₦5,000 each. Here is the whole list, one more time, and how to start.
+> 
+> MESSAGE · LOCAL · CLEAR · ENGINE · PLAYBOOK · PAGE · LAUNCH · TEMPLATES · PROMPTS
+> 
+> All ₦5,000, download the same day. You message the keyword, you get the payment details, you pay, you get the file. No call, no waiting, no consultation, no upsell at the end of it.
+> 
+> And if you still cannot tell which one, message us and we will point you at one, or at none of them, and we will say so.
+> 
+> The order, if you do not know where to start: message first, then local, then clear, then engine, then playbook. Fix the message before the traffic, or the traffic arrives at the wrong thing and you blame the traffic.
+> 
+> The free review is still open, and it is still free, and it is still twenty-four hours: send your link, your business name and one line about what you do, and you get a voice note and three points. website-builder-portfolio.vercel.app
+> 
+> WhatsApp: 0905 069 0837.
+
+---
+
+
+## Post 05 · How to set up month two in thirty minutes
+
+**Type:** Teach · **Why it works:** Teach. It makes the transition concrete, so the audience does not fall off a cliff after the month ends.
+
+### TikTok · 15:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> How to set up month two in thirty minutes, so you never start from a blank page again.
+
+**On-screen beats**
+- 1 · Look at what got
+a message
+- 2 · Find the subject
+you can make ten of
+- 3 · Write it as a rule,
+not a feeling
+- 4 · Put it in the template
+- 5 · Schedule the first week
+before you close the laptop
+
+**Voiceover script**
+> How to set up month two in thirty minutes, so you never start from a blank page again. One, look at what got a message, not what got a like. Two, find the subject you can make ten of. Three, write it as a rule, not a feeling, because a feeling is arguable and a rule is not. Four, put it in the template, so next month starts with it already built in. Five, schedule the first week before you close the laptop. That is the whole setup.
+
+**Caption**
+> How to set up month two in thirty minutes, so you never start from a blank page again:
+> 
+> 1 · Look at what got a message
+> 2 · Find the subject you can make ten of
+> 3 · Write it as a rule, not a feeling
+> 4 · Put it in the template
+> 5 · Schedule the first week before you close the laptop
+> 
+> That is the whole setup.
+
+**Hashtags:** #ContentStrategy #Easywurld #SmallBusinessNigeria #ProductivityTips
+
+**Visual:** Cream background, five numbered steps, terracotta numbers, mark bottom right.
+
+### Instagram · 15:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. How to set up month two in thirty minutes, so you never start from a blank page again.
+2. 1 · Look at what got a message 2 · Find the subject you can make ten of
+3. 3 · Write it as a rule, not a feeling
+4. 4 · Put it in the template, so next month starts with it already built in
+5. 5 · Schedule the first week before you close the laptop
+6. That is the whole setup.
+
+**Caption**
+> Because a feeling is arguable and a rule is not.
+> 
+> ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #ContentStrategy #Easywurld #LagosSME #ProductivityTips
+
+**Visual:** Cream slides, deep green serif, terracotta numbers.
+
+### Facebook · 15:00 · Feed post
+
+> How to set up month two in thirty minutes, so you never start from a blank page again.
+> 
+> 1. Look at what got a message, not what got a like.
+> 2. Find the subject you can make ten of.
+> 3. Write it as a rule, not a feeling, because a feeling is arguable and a rule is not.
+> 4. Put it in the template, so next month starts with it already built in.
+> 5. Schedule the first week before you close the laptop.
+> 
+> That is the whole setup, and it is the reason the second month is easier than the first, which is the opposite of what most people expect.
+> 
+> The 30-Day Content Engine, ₦5,000, has the pillar balance and the monthly review sheet, so step three is a blank line instead of a blank page. Message ENGINE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 06 · The best content month is the one you finished
+
+**Type:** Hot take · **Why it works:** Hot take. A sharp closing opinion that sums up the month's argument and is memorable.
+
+### TikTok · 16:30 · Talking head, 25s
+
+**Hook (0-3s)**
+> The best content month is the one you finished. Not the one that went best.
+
+**On-screen beats**
+- Not the one that went
+viral, not the one with
+the best numbers
+- The one where you posted
+and then posted again
+the next day
+- Because the month where
+you finish is the month
+you learn what your
+business is like to run
+- And that is the thing
+you cannot buy
+
+**Voiceover script**
+> The best content month is the one you finished. Not the one that went best. Not the one that went viral, not the one with the best numbers. The one where you posted, and then posted again the next day. Because the month where you finish is the month you learn what your business is actually like to run, and that is the thing you cannot buy, and the thing that makes month two possible.
+
+**Caption**
+> The best content month is the one you finished. Not the one that went best.
+> 
+> Not the one that went viral, not the one with the best numbers. The one where you posted, and then posted again the next day.
+> 
+> Because the month where you finish is the month you learn what your business is actually like to run, and that is the thing you cannot buy.
+
+**Hashtags:** #HotTake #Easywurld #ContentStrategy #SmallBusinessNigeria
+
+**Visual:** Talking head, plain shirt, warm light, mark lower right.
+
+### Instagram · 17:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. The best content month is the one you finished.
+2. Not the one that went best.
+3. Not the one that went viral, not the one with the best numbers.
+4. The one where you posted, and then posted again the next day.
+5. Because the month where you finish is the month you learn what your business is actually like to run.
+
+**Caption**
+> And that is the thing you cannot buy, and the thing that makes month two possible.
+> 
+> ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #HotTake #Easywurld #LagosSME #ContentStrategy
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 16:30 · Feed post
+
+> The best content month is the one you finished. Not the one that went best.
+> 
+> Not the one that went viral, not the one with the best numbers, not the one where somebody told you a post was good. The one where you posted, and then posted again the next day.
+> 
+> Because the month where you finish is the month you learn what your business is actually like to run. You learn what time of day you can post without resenting it. You learn which subject you never get tired of. You learn that the good idea takes twenty minutes and the bad one takes two hours, which is the opposite of what you assumed.
+> 
+> And that is the thing you cannot buy. It is the only part of content that genuinely has to be done by you.
+> 
+> The 30-Day Content Engine, ₦5,000, and the free review, which is still free: website-builder-portfolio.vercel.app
+> 
+> WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 07 · The person who started in January
+
+**Type:** Relatable · **Why it works:** Relatable. A warm, familiar story that closes the month with recognition.
+
+### TikTok · 18:00 · Static meme, 12s, with voiceover
+
+**Hook (0-3s)**
+> The person who says "I will start in January"
+
+**On-screen beats**
+- January: "this is the year"
+- February: "this is the year"
+- March: "this is the year"
+- November: "this is the year,
+but starting in January"
+
+**Voiceover script**
+> The person who says I will start in January. January: this is the year. February: this is the year. March: this is the year. November: this is the year, but starting in January. There is nothing wrong with starting in January. But notice that you have now said it eleven times, and it has never happened, and this month you have thirty days of proof that you can do it. So maybe start on the 1st of the month, whatever day that is.
+
+**Caption**
+> The person who says "I will start in January".
+> 
+> January: "this is the year". February: "this is the year". March: "this is the year". November: "this is the year, but starting in January".
+> 
+> There is nothing wrong with starting in January. But you have now said it eleven times, and it has never happened, and this month you have thirty days of proof that you can do it.
+
+**Hashtags:** #Meme #Easywurld #Relatable #YearEnd
+
+**Visual:** Four-panel meme, cream background, deep green type, terracotta.
+
+### Instagram · 18:30 · Static meme post, 4:5
+
+**Slide copy**
+1. The person who says "I will start in January"
+2. January: "this is the year" February: "this is the year" March: "this is the year"
+3. November: "this is the year, but starting in January"
+4. There is nothing wrong with starting in January.
+5. But you have now said it eleven times, and it has never happened, and this month you have thirty days of proof that you can do it.
+6. So maybe start on the 1st of the month, whatever day that is.
+
+**Caption**
+> The 30-Day Content Engine, ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #Meme #Easywurld #LagosSME #YearEnd
+
+**Visual:** Two-panel meme, cream and deep green.
+
+### Facebook · 18:00 · Feed post
+
+> The person who says "I will start in January".
+> 
+> January: "this is the year".
+> February: "this is the year".
+> March: "this is the year".
+> November: "this is the year, but starting in January".
+> 
+> There is nothing wrong with starting in January. But you have now said it eleven times, and it has never happened, and this month you have thirty days of proof that you can do it.
+> 
+> So maybe start on the 1st of the month, whatever day that is.
+> 
+> The 30-Day Content Engine is ₦5,000, dated, written, and finished, so starting is the only step left. Message ENGINE on WhatsApp: 0905 069 0837.
+
+### LinkedIn · 17:15 · Text post, 17:15
+
+> The person who says "I will start in January".
+> 
+> January: this is the year.
+> 
+> February: this is the year.
+> 
+> March: this is the year.
+> 
+> November: this is the year, but starting in January.
+> 
+> There is nothing wrong with starting in January. But you have now said it eleven times, and it has never happened, and this month you have thirty days of proof that you can do it.
+> 
+> So maybe start on the first of the month, whatever day that is.
+> 
+> This one is not really about January, it is about the gap between the version of you who plans and the version of you who posts, and closing that gap is a smaller job than most people think. It is one block of ninety minutes on a Sunday, and then copying and pasting for the rest of the week.
+> 
+> The 30-Day Content Engine, ₦5,000, is dated and written, so starting is the only step left.
+> 
+> WhatsApp: 0905 069 0837. Message ENGINE.
+
+---
+
+
+## Post 08 · The one habit that makes month two possible
+
+**Type:** Teach · **Why it works:** Teach. It reduces the whole month to one repeatable behaviour, which is the most useful thing to leave behind.
+
+### TikTok · 19:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> One habit makes month two possible, and it is not posting more.
+
+**On-screen beats**
+- It is scheduling a
+block of time
+- One block. Ninety minutes.
+Once a week
+- Somewhere quiet, with
+your phone on airplane mode
+- And you fill the week
+in one sitting
+- That is the whole system
+
+**Voiceover script**
+> One habit makes month two possible, and it is not posting more. It is scheduling a block of time. One block, ninety minutes, once a week, somewhere quiet, with your phone on airplane mode. And you fill the whole week in one sitting. That is the whole system. The rest of the week, you just copy and paste. Businesses that post for months are not busier, they are just doing this one thing on Sunday.
+
+**Caption**
+> One habit makes month two possible, and it is not posting more.
+> 
+> It is scheduling a block of time. One block, ninety minutes, once a week, somewhere quiet, with your phone on airplane mode. And you fill the whole week in one sitting.
+> 
+> That is the whole system. Businesses that post for months are not busier, they are just doing this one thing on Sunday.
+
+**Hashtags:** #ContentStrategy #Easywurld #ProductivityTips #SmallBusinessNigeria
+
+**Visual:** Cream background, a calendar with one blocked slot, terracotta accent, mark bottom right.
+
+### Instagram · 19:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. One habit makes month two possible, and it is not posting more.
+2. It is scheduling a block of time.
+3. One block. Ninety minutes. Once a week.
+4. Somewhere quiet, with your phone on airplane mode.
+5. And you fill the week in one sitting.
+6. That is the whole system.  Businesses that post for months are not busier, they are just doing this one thing on Sunday.
+
+**Caption**
+> The 30-Day Content Engine has the guide to batching a week's content in about two hours. ₦5,000, message ENGINE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #ContentStrategy #Easywurld #LagosSME #ProductivityTips
+
+**Visual:** Cream slides, deep green serif, terracotta accent.
+
+### Facebook · 19:30 · Feed post
+
+> One habit makes month two possible, and it is not posting more.
+> 
+> It is scheduling a block of time. One block, ninety minutes, once a week, somewhere quiet, with your phone on airplane mode. And you fill the whole week in one sitting.
+> 
+> That is the whole system. The rest of the week, you just copy and paste.
+> 
+> Businesses that post for months are not busier. They are just doing this one thing on Sunday, and the rest of the week is copy and paste.
+> 
+> The 30-Day Content Engine, ₦5,000, has the guide to batching a week's content in about two hours, the pillars, sixty ideas and the dated calendar. Message ENGINE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 09 · The final word on all nine packs
+
+**Type:** Offer · **Why it works:** Offer. It recaps the whole catalogue with a short, memorable framing, ready for the month-two push.
+
+### TikTok · 20:00 · Kinetic type with voiceover, 30s
+
+**Hook (0-3s)**
+> Nine packs. If you only remember one thing about us, remember this.
+
+**On-screen beats**
+- Every pack is one job,
+done properly
+- Message: what you say
+- Local: being found
+- Clear: the page
+- Engine: what you post
+- Playbook: what happens
+after the message
+- Page: one offer
+- Launch: the website
+- Templates: the documents
+- Prompts: the AI
+
+**Voiceover script**
+> Nine packs. If you only remember one thing about us, remember this. Every pack is one job, done properly. Message: what you say. Local: being found. Clear: the page. Engine: what you post. Playbook: what happens after the message. Page: one offer. Launch: the website. Templates: the documents. Prompts: the AI. Five thousand naira each, the file the same day, and a free review if you want somebody to look at yours first.
+
+**Caption**
+> Nine packs. If you only remember one thing about us, remember this:
+> 
+> Every pack is one job, done properly.
+> 
+> MESSAGE: what you say
+> LOCAL: being found
+> CLEAR: the page
+> ENGINE: what you post
+> PLAYBOOK: what happens after the message
+> PAGE: one offer
+> LAUNCH: the website
+> TEMPLATES: the documents
+> PROMPTS: the AI
+
+**Hashtags:** #Easywurld #DigitalDownloads #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Cream background, a nine-line list, terracotta ticks, mark bottom right.
+
+### Instagram · 20:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Nine packs. If you only remember one thing about us, remember this:
+2. Every pack is one job, done properly.
+3. MESSAGE: what you say LOCAL: being found CLEAR: the page ENGINE: what you post
+4. PLAYBOOK: what happens after the message PAGE: one offer LAUNCH: the website TEMPLATES: the documents PROMPTS: the AI
+5. ₦5,000 each, the file the same day, and a free review if you want somebody to look at yours first.  WhatsApp: 0905 069 0837
+
+**Caption**
+> Message the keyword on WhatsApp: 0905 069 0837.
+> 
+> Free review: website-builder-portfolio.vercel.app
+
+**Hashtags:** #Easywurld #DigitalDownloads #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta price, mark bottom right.
+
+### Facebook · 20:15 · Feed post
+
+> Nine packs. If you only remember one thing about us, remember this:
+> 
+> Every pack is one job, done properly.
+> 
+> MESSAGE: what you say
+> LOCAL: being found
+> CLEAR: the page
+> ENGINE: what you post
+> PLAYBOOK: what happens after the message
+> PAGE: one offer
+> LAUNCH: the website
+> TEMPLATES: the documents
+> PROMPTS: the AI
+> 
+> ₦5,000 each, the file the same day, and a free review if you want somebody to look at yours first.
+> 
+> And the order, if you do not know where to start: message first, then local, then clear, then engine, then playbook. Fix the message before the traffic, or the traffic arrives at the wrong thing.
+> 
+> WhatsApp: 0905 069 0837.
+> Free review: website-builder-portfolio.vercel.app
+
+
+---
+
+
+## Post 10 · Why we started this in the first place
+
+**Type:** Story · **Why it works:** Story. It closes the month with the brand's origin and reason, which is emotionally right for day 30.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> Why we started this at all. One reason, and it is a simple one.
+
+**On-screen beats**
+- Too many small businesses
+are excellent at the work
+and invisible at the rest
+- The work does not
+speak for itself
+- So somebody has to write
+the sentence, and somebody
+has to say it every week
+- That is all we do
+- We just do it plainly
+
+**Voiceover script**
+> Why we started this at all. One reason, and it is a simple one. Too many small businesses are excellent at the work and invisible at the rest. The work does not speak for itself, so somebody has to write the sentence, and somebody has to say it every week, and most owners are too busy doing the actual work to do either. That is all we do. We just do it plainly, and we do not promise things we cannot do.
+
+**Caption**
+> Why we started this at all. One reason, and it is a simple one.
+> 
+> Too many small businesses are excellent at the work and invisible at the rest. The work does not speak for itself, so somebody has to write the sentence, and somebody has to say it every week, and most owners are too busy doing the actual work to do either.
+> 
+> That is all we do. We just do it plainly, and we do not promise things we cannot do.
+
+**Hashtags:** #Easywurld #Story #SmallBusinessNigeria #BusinessTips
+
+**Visual:** Talking head, plain shirt, warm light, brand mark lower right.
+
+### Instagram · 20:45 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Why we started this at all. One reason, and it is a simple one.
+2. Too many small businesses are excellent at the work and invisible at the rest.
+3. The work does not speak for itself, so somebody has to write the sentence, and somebody has to say it every week.
+4. And most owners are too busy doing the actual work to do either.
+5. That is all we do.  We just do it plainly, and we do not promise things we cannot do.
+
+**Caption**
+> Thirty days of that. Thank you for reading.
+> 
+> WhatsApp: 0905 069 0837
+
+**Hashtags:** #Easywurld #Story #LagosSME #BusinessTips
+
+**Visual:** Cream slides, deep green serif, terracotta rule on the last slide.
+
+### Facebook · 21:00 · Feed post
+
+> Why we started this at all. One reason, and it is a simple one.
+> 
+> Too many small businesses are excellent at the work and invisible at the rest. The work does not speak for itself, so somebody has to write the sentence, and somebody has to say it every week, and most owners are too busy doing the actual work to do either.
+> 
+> That is all we do. We just do it plainly, and we do not promise things we cannot do.
+> 
+> Thirty days of that. Thank you for reading, and thank you to the people who messaged us, bought a pack, and sent a link for a free review. That is the part that actually teaches us what to write next.
+> 
+> WhatsApp: 0905 069 0837
+> Free review: website-builder-portfolio.vercel.app
+
+
+---
+
+
+## Post 11 · The month-two plan, and one last question
+
+**Type:** Direct response · **Why it works:** Direct response. It hands the audience a clear next step and asks the question that shapes month two.
+
+### TikTok · 21:30 · Kinetic type with voiceover, 20s
+
+**Hook (0-3s)**
+> Last one. If we do a second month, what should it be about?
+
+**On-screen beats**
+- One word in the comments
+- And we will build the
+month around it
+- Because the second month
+should be about your business
+- Not ours
+- Message us any time:
+0905 069 0837
+
+**Voiceover script**
+> Last one. If we do a second month, what should it be about? One word in the comments, and we will build the month around it, because the second month should be about your business and not ours. And if you are not waiting for a second month, message us any time, 0905 069 0837, for the free review, or for a pack, or just to tell us what is going wrong. We are a small studio and we read everything.
+
+**Caption**
+> Last one. If we do a second month, what should it be about?
+> 
+> One word in the comments, and we will build the month around it, because the second month should be about your business and not ours.
+> 
+> And if you are not waiting for a second month, message us any time: 0905 069 0837.
+> 
+> WhatsApp: 0905 069 0837
+
+**Hashtags:** #Easywurld #SmallBusinessNigeria #BusinessTips #ContentStrategy
+
+**Visual:** Cream background, a comment box, terracotta accent, mark bottom right.
+
+### Instagram · 21:15 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Last one. If we do a second month, what should it be about?
+2. One word in the comments,
+3. and we will build the month around it,
+4. because the second month should be about your business and not ours.
+5. And if you are not waiting for a second month, message us any time: 0905 069 0837  We are a small studio and we read everything.
+
+**Caption**
+> For the free review, for a pack, or just to tell us what is going wrong.
+> 
+> WhatsApp: 0905 069 0837 · website-builder-portfolio.vercel.app
+
+**Hashtags:** #Easywurld #LagosSME #BusinessTips #ContentStrategy
+
+**Visual:** Cream slides, deep green serif, terracotta marks.
+
+### Facebook · 21:45 · Feed post
+
+> Last one. If we do a second month, what should it be about?
+> 
+> One word in the comments, and we will build the month around it, because the second month should be about your business and not ours.
+> 
+> And if you are not waiting for a second month, message us any time: 0905 069 0837. For the free review, for a pack, or just to tell us what is going wrong.
+> 
+> We are a small studio and we read everything. Thirty days of it, this month, and the count of messages we have not answered yet is zero.
+> 
+> WhatsApp: 0905 069 0837
+> Free review: website-builder-portfolio.vercel.app
+
+### LinkedIn · 20:15 (optional) · Text post, 20:15 (optional)
+
+> Last one. If we do a second month, what should it be about?
+> 
+> One word in the comments, and we will build the month around it, because the second month should be about your business and not ours.
+> 
+> And if you are not waiting for a second month, message us any time: 0905 069 0837. For the free review, for a pack, or just to tell us what is going wrong.
+> 
+> We are a small studio and we read everything. Thirty days of it, this month, and the number of messages we have not answered yet is zero.
+> 
+> WhatsApp: 0905 069 0837
+> Free review: website-builder-portfolio.vercel.app
 
 ---
 

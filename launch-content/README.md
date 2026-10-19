@@ -5,15 +5,16 @@
 [`social-command/`](./social-command/) is the current version, built for posting from a phone.
 
 - **`EASYWURLD_POST_COMMANDER.html`** — one file, works offline, opens on today's day of the
-  week with the next post due. Copy buttons for every platform version, tick marks that save
-  on the phone. About 250 KB, so it will not fill a phone.
-- **`WEEK_1_POSTS.md`** — 7 days x 11 core posts, each restructured for TikTok, Instagram,
-  Facebook and LinkedIn. 266 posts with hooks, scripts, captions, hashtags and visual
-  directions.
-- **`content_calendar.csv`** — 266 rows, one per scheduled post, with Lagos times.
+  week with the next post due, and has a Month tab with the whole 30-day grid. Copy buttons
+  for every platform version, tick marks that save on the phone. About 1 MB, so it will not
+  fill a phone.
+- **`MONTH_POSTS.md`** — 30 days x 11 core posts, each restructured for TikTok, Instagram,
+  Facebook and LinkedIn. 1,140 posts with hooks, scripts, captions, hashtags and visual
+  directions, every one dated.
+- **`content_calendar.csv`** — 1,140 rows, one per scheduled post, dated, with Lagos times.
 - **`POSTING_PLAN.md`** — posting times for Nigeria, why 37 posts a day is allowed, what makes
   writing sound human, the emotion map, meme rules, and the phone workflow.
-- **`MEME_BANK.md`** — 30 memes ready to build.
+- **`MEME_BANK.md`** — all 37 memes in the month, already scheduled, with the exact words.
 - **`CLAUDE_OFFERS_PROMPT.md`** — the prompt to give Claude to generate the offers PDF.
 - **`Easywurld Offers Master.pdf`** — the printed offers booklet.
 

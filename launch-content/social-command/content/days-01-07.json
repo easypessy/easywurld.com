@@ -659,6 +659,9 @@
         "type": "Meme",
         "topic": "The homepage that says we are passionate about solutions",
         "why": "Shared eye-roll. The kind of post people send to each other with one word.",
+        "allow_banned": [
+          "cutting-edge"
+        ],
         "tiktok": {
           "fmt": "Static meme, 12s, with voiceover",
           "hook": "Welcome to our website, where we are passionate about delivering cutting-edge solutions.",

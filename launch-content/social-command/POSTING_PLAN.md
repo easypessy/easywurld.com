@@ -6,17 +6,18 @@ phone without it filling up and confusing me".
 
 ---
 
-## 1. The shape of the week
+## 1. The shape of the month
 
-**11 core posts a day, each restructured per platform.**
+**11 core posts a day, each restructured per platform. 30 days, dated, 19 October to
+17 November 2026.**
 
 | Platform | Posts a day | Why that number |
 |---|---|---|
 | TikTok | 11 | Short video is your most native format. Safe under the platform ceiling. |
 | Instagram | 11 | Mixed: 6 carousels, 3 reels, 2 static. A feed of one type gets boring. |
 | Facebook | 11 | Your oldest audience is here. Text posts do the work. |
-| LinkedIn | 4 + 1 optional | 4 a day is the practical ceiling. See section 5. |
-| **Total** | **37 (+1)** | 259 posts a week. |
+| LinkedIn | 4 + 1 optional | 4 a day is the practical ceiling. See section 4. |
+| **Total** | **37 (+1)** | **1,140 posts across the 30 days.** |
 
 **Same idea, different writing.** The 11 core ideas are shared. The TikTok version is
 spoken, 20 to 30 seconds, hook first. The Instagram version is slides you can save. The
@@ -38,7 +39,8 @@ Sources:
 
 ## 2. The times (Lagos time, WAT / UTC+1)
 
-Every post in `WEEK_1_POSTS.md` and every row in `content_calendar.csv` carries its time.
+Every post in `MONTH_POSTS.md` and every row in `content_calendar.csv` carries its date and
+its time.
 These are the windows Nigerian audiences are actually on their phones, not generic US
 advice.
 
@@ -58,8 +60,13 @@ Sources:
 - https://nealschaffer.com/best-time-to-post-on-tiktok/
 
 **How to use it without checking anything:** open the app. It opens on the right day, shows
-the next post due, and each card already carries its time. You do not need to remember
-anything.
+the next post due, and each card already carries its time. The Month tab shows the whole
+run on a grid, so you can see a fortnight ahead and not lose a week to a bad phone.
+You do not need to remember anything.
+
+**The dates are pre-dated.** The month runs from Monday 19 October to Tuesday 17 November
+2026. You are not deciding "what to post today", you are deciding on a Sunday which
+Sunday's posts to schedule.
 
 ---
 
@@ -85,6 +92,11 @@ bank*, not necessarily a good *publishing plan*. Run the full 11 on TikTok, 7 on
 Instagram, 5 on Facebook, 4 on LinkedIn, and keep the other four ideas in the bank for
 the day you need them. Then watch which ones get replies. Volume is cheap, replies are
 the signal.
+
+**What this pack does.** It gives you the full 38 slots a day, every one written, with
+the optional LinkedIn post marked as optional. It is the plan you asked for. If a day
+gets away from you, skip the slots you have to and use the app to see what is left, do
+not stack posts at midnight to catch up.
 
 Source: https://support.buffer.com/article/646-daily-posting-limits
 
@@ -214,6 +226,10 @@ one account.
 **Cadence:** one meme in the morning slot, one in the evening slot. A meme at 9am is
 context, a meme at 9pm is the share.
 
+**Every meme in this pack is already written.** Open `MEME_BANK.md` and the exact words are
+there, panel by panel, for all 37 memes in the month, with the day and the post ID. You
+are building, not inventing.
+
 Source: https://www.memebuilder.ai/guides/meme-marketing, https://www.flickmeme.com/blog/meme-marketing-for-brands
 
 ---
@@ -228,7 +244,7 @@ day is today, what did you already post.
 
 1. **Keep text on the phone, media in the cloud.** The post copy, scripts and schedule are
    text. Text is cheap. Images and video are what fill a phone.
-2. **One file, one purpose.** `EASYWURLD_POST_COMMANDER.html` is a single 250 KB file that
+2. **One file, one purpose.** `EASYWURLD_POST_COMMANDER.html` is a single 1 MB file that
    opens in a phone browser with no internet. Add it to the home screen and it behaves
    like an app. Every post, every platform version, with a copy button and a tick mark.
    It saves your progress on the phone, and you can export a backup file to Drive.
@@ -249,11 +265,16 @@ day is today, what did you already post.
 the schedule in each app, and leave open the two slots that need a real human reply. Do not
 schedule a post you have not read out loud once.
 
+**The month is already dated, so the batch is bigger but the thinking is not.** On the
+first Sunday of the month you set the whole month in one sitting, because every post
+already carries its date and time. From then on it is twenty minutes a week.
+
 ---
 
 ## 9. The weekly review, 10 minutes on a Friday
 
-Open the app, Week tab. You get the posted count for each day and the total.
+Open the app, Month tab. You get the posted count for each day and the total, and the
+grid shows you where the month is still empty.
 
 Look at three things, and only these three:
 
@@ -264,6 +285,10 @@ Look at three things, and only these three:
 
 Write one sentence. Put it in the notes field of the app. Next week's first post should be
 based on it.
+
+**And once a month, on the last Friday, do the bigger version.** 20 minutes. What got a
+message, what got a reply, what got nothing, and what you are dropping. That review is
+what makes month two easier than month one, instead of month two being a fresh start.
 
 ---
 
