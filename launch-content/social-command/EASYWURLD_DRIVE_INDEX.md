@@ -8,7 +8,7 @@ WhatsApp: 0905 069 0837 · Site: website-builder-portfolio.vercel.app
 ## 1. Open this first — the Post Commander
 
 **Easywurld — Post Commander (open this on your phone)**
-https://drive.google.com/file/d/1VIJQ1BNN3TBuSqf9y8hJAkD9_iZR5o2e/view
+https://drive.google.com/file/d/1iu7BihjHAJfGDQ2rJYxomJx3eOSCnDI4/view
 
 This is the tool. One file. It has all 30 days of posts, dated, with a copy button on every
 block and tick marks that save on your phone. It works with no internet.
@@ -25,8 +25,8 @@ you are posting in.
 
 | What | Where | What it is for |
 |---|---|---|
-| **30 Day Social Plan** | https://docs.google.com/document/d/1r028H3IDWs4JEr4U0J_aUBA0JEoAy8JNn6241665Ag0/edit | Every post written out long, for all four platforms. Read it, print it, or copy from it. |
-| **Content Calendar (Sheet)** | https://docs.google.com/spreadsheets/d/1G4MYvTydt-SplWTgweguyVF9YhcnN4HZ2q-5wJBXrZc/edit | One row per post, dated, sortable. This is what you schedule the month from. |
+| **30 Day Social Plan** | https://docs.google.com/document/d/1QJ57gX9BTfAdR3a9nHv4ysnenHolUmIHS7XbnxzcHb0/edit | Every post written out long, for all four platforms. Read it, print it, or copy from it. |
+| **Content Calendar (Sheet)** | https://docs.google.com/spreadsheets/d/14fuVWINNu4K1NmAaRH3bRD336lPjJKmbndNTpme1dZc/edit | One row per post, dated, sortable. This is what you schedule the month from. |
 | **Offers Master (PDF)** | https://drive.google.com/file/d/1YtkN5S9Xf_E7ELpgAKPwxkl1ylqdxoCY/view | The 9 packs, what Easywurld does, and how to start. Send this to customers. |
 
 ---
@@ -72,9 +72,9 @@ Est. value = hours × ₦5,000 per hour. It is an estimate of the work, not a pr
 
 | File | Where | Notes |
 |---|---|---|
-| How To Post & Schedule A Month Ahead | https://docs.google.com/document/d/1gCtw_qUwDG4tBTvMhsqlZ8WO1SJiUlqiyF_QMandrEQ/edit | Times, batching, phone storage. |
-| Meme Bank (all 37 memes) | https://docs.google.com/document/d/1LOAExMKWhZk-9vqDTY10JMs7Wir3p45tUj6E2VJKdu8/edit | Every meme in the month, with the exact words to type. |
-| Start Here | https://docs.google.com/document/d/1nGuLMP3F_oZbZciACUfjuEyMhx5rVitcQgqQ8K_ZwU0/edit | One page. Read it once. |
+| How To Post & Schedule A Month Ahead | https://docs.google.com/document/d/1YYO7evwSxRCiC_YrtLzyD1HmqkIDpjn7F19SyaaUXC0/edit | Times, batching, phone storage. |
+| Meme Bank (all 37 memes) | https://docs.google.com/document/d/1K7wqaZLYeQRbFFetRU4fQcvYesYWNOUCg0gzgt0NuIA/edit | Every meme in the month, with the exact words to type. |
+| Start Here | https://docs.google.com/document/d/1sTnUxtGtBlmTxRsYHweDz4FqABPDXIkV7c-lSv2qgHE/edit | One page. Read it once. |
 | Offers Master (editable) | https://docs.google.com/document/d/1O567RH0kw_088UfNQO176I5RtiO4rc6-IoIa21bSYxA/edit | Same content as the PDF, editable. |
 | Prompt to rebuild the offers PDF | https://docs.google.com/document/d/1VOqhw-6BERRiMQuGwwem2EZpeB6tQvwom6mWcTaknmw/edit | Paste into Claude to regenerate the PDF. |
 | Launch Content (original pack) | https://drive.google.com/drive/folders/1e4XGkhIoHx_zQoJ-fV2JQBtsHSp7-UCL | The first pack, kept as it was. |

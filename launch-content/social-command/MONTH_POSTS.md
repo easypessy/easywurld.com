@@ -24987,8 +24987,14 @@ saves your tick marks on the phone. Add it to your home screen and it behaves li
 | TikTok | Schedule option inside the app for business accounts | Free |
 | LinkedIn | The schedule button in the post composer | Free |
 
-**Batch it on Sunday night, 20 minutes.** Schedule the week, then leave the two slots that
-need a real human reply open. Do not schedule a post you have not read out loud once.
+**Set the whole month in one sitting.** Every post above is dated, so the first Sunday of the
+month you can schedule all thirty days at once. After that it is 20 minutes a week. Leave the
+two slots a week that need a real human reply open, and do not schedule a post you have not
+read out loud once.
+
+**Where to schedule from.** `content_calendar.csv` is the same plan as a Google Sheet. Sort by
+date, and every row carries its time, its format and the full copy, so you never have to
+remember which post goes where.
 
 **Storage.** Keep images and videos in Google Drive, not on the phone. Open them from Drive
 when you need them. Text is cheap, video is not.
