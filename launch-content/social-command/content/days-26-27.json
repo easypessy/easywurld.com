@@ -1,0 +1,1142 @@
+[
+  {
+    "day": 26,
+    "label": "Day 26",
+    "theme": "The week you plan, and the site that lives",
+    "offer": "PROMPTS + LAUNCH",
+    "posts": [
+      {
+        "id": "D26-01",
+        "type": "Teach",
+        "topic": "The five parts of a good prompt",
+        "why": "Teach. It is the core teaching of the Prompt Desk and immediately usable.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "Five parts of a prompt that gets you a usable answer, not a vague one.",
+          "beats": [
+            "1 · The role,\nwho the AI should be",
+            "2 · The task,\nwhat you want done",
+            "3 · The context,\nwho it is for and why",
+            "4 · The constraints,\nlength, tone, format",
+            "5 · The example,\none sample of good"
+          ],
+          "vo": "Five parts of a prompt that gets you a usable answer instead of a vague one. One, the role: who the AI should be. Two, the task: what you want done. Three, the context: who it is for and why. Four, the constraints: length, tone, format. Five, the example: one sample of a good answer. Most people use one and two, which is why they get search-box answers, because that is all a search box can do.",
+          "cap": "Five parts of a prompt that gets you a usable answer:\n\n1 · The role, who the AI should be\n2 · The task, what you want done\n3 · The context, who it is for and why\n4 · The constraints, length, tone, format\n5 · The example, one sample of good\n\nMost people use one and two, which is why they get search-box answers.",
+          "tags": [
+            "#AIForBusiness",
+            "#Easywurld",
+            "#SmallBusinessNigeria",
+            "#ProductivityTips"
+          ],
+          "asset": "Cream background, five numbered parts, terracotta numbers, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Five parts of a prompt\nthat gets you a usable answer.",
+            "1 · The role,\nwho the AI should be\n2 · The task,\nwhat you want done",
+            "3 · The context,\nwho it is for and why\n4 · The constraints,\nlength, tone, format",
+            "5 · The example,\none sample of good",
+            "Most people use one and two,\nwhich is why they get\nsearch-box answers."
+          ],
+          "cap": "The Everyday AI Prompt Desk, ₦5,000, has 60 ready-to-adapt prompts built this way. Message PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#AIForBusiness",
+            "#Easywurld",
+            "#LagosSME",
+            "#ProductivityTips"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta numbers."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Five parts of a prompt that gets you a usable answer instead of a vague one.\n\n1. The role: who the AI should be.\n2. The task: what you want done.\n3. The context: who it is for and why.\n4. The constraints: length, tone, format.\n5. The example: one sample of a good answer.\n\nMost people use one and two, which is why they get search-box answers, because that is all a search box can do. Add the context and the same tool gives you a different answer, because now it knows what you are trying to achieve and who is reading it.\n\nThe Everyday AI Prompt Desk, ₦5,000, has 60 ready-to-adapt prompts built this way, organised by the work small businesses actually do.\n\nMessage PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 08:15",
+          "body": "Five parts of a prompt that gets you a usable answer instead of a vague one.\n\nThe role: who the AI should be.\n\nThe task: what you want done.\n\nThe context: who it is for and why.\n\nThe constraints: length, tone, format.\n\nThe example: one sample of a good answer.\n\nMost people use one and two, which is why they get search-box answers, because that is all a search box can do. Add the context and the same tool gives you a different answer, because now it knows what you are trying to achieve and who is reading it.\n\nThe example is the part people skip, and it is the part that most reliably fixes tone. One sample of a good answer is worth a paragraph of description, because it removes the guessing about what you meant.\n\nThere is also a part three of this that matters more than the craft: what you must never paste in. Customer lists, bank details, passwords, unreleased plans. A prompt is only as safe as the data you put into it.\n\nThe Everyday AI Prompt Desk, ₦5,000, has 60 ready-to-adapt prompts, a method for writing your own, and a review and safety checklist.\n\nWhatsApp: 0905 069 0837. Message PROMPTS."
+        }
+      },
+      {
+        "0": "unlock",
+        "id": "D26-02",
+        "type": "Meme",
+        "topic": "Asking AI to write a caption",
+        "why": "Meme. A very shared experience that teaches the value of the role and context parts.",
+        "tiktok": {
+          "fmt": "Static meme, 12s, with voiceover",
+          "hook": "Asking AI to write a caption for my business",
+          "beats": [
+            "\"Write a caption for my\nbusiness\"",
+            "AI: \"Unlock the power of\nyour brand with our\nunparalleled solutions\"",
+            "Me: yes, exactly,\nthat\nis what I meant",
+            "It is not"
+          ],
+          "vo": "Asking AI to write a caption for my business. AI: unlock the power of your brand with our unparalleled solutions. Me: yes, exactly, that is what I meant. It is not. The problem is I gave it a task and no context, so it did what everybody on the internet does, which is say the most average thing possible. The moment I tell it who the customer is and what she already knows, it writes like a person.",
+          "cap": "Asking AI to write a caption for my business.\n\nAI: \"Unlock the power of your brand with our unparalleled solutions.\"\n\nMe: yes, exactly, that is what I meant.\n\nIt is not.\n\nThe problem is I gave it a task and no context. The moment I tell it who the customer is and what she already knows, it writes like a person.",
+          "tags": [
+            "#Meme",
+            "#AIForBusiness",
+            "#Easywurld",
+            "#Relatable"
+          ],
+          "asset": "Two-panel meme, cream background, deep green type, terracotta."
+        },
+        "instagram": {
+          "fmt": "Static meme post, 4:5",
+          "slides": [
+            "Asking AI to write a caption\nfor my business",
+            "\"Write a caption for my\nbusiness\"",
+            "AI: \"Unlock the power of your\nbrand with our unparalleled\nsolutions\"",
+            "Me: yes, exactly, that is\nwhat I meant",
+            "It is not",
+            "I gave it a task and no context.\nThe moment I tell it who the\ncustomer is and what she already\nknows, it writes like a person."
+          ],
+          "cap": "Sixty prompts built the right way, ₦5,000. Message PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#Meme",
+            "#AIForBusiness",
+            "#Easywurld",
+            "#LagosSME"
+          ],
+          "asset": "Two-panel meme, cream and deep green."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Asking AI to write a caption for my business.\n\n\"Write a caption for my business.\"\n\nAI: \"Unlock the power of your brand with our unparalleled solutions.\"\n\nMe: yes, exactly, that is what I meant.\n\nIt is not.\n\nThe problem is I gave it a task and no context, so it did what everybody on the internet does, which is say the most average thing possible. The moment I tell it who the customer is, what she already knows, and what she is worried about, it writes like a person. Same tool, same model, different prompt.\n\nThe Everyday AI Prompt Desk, ₦5,000, has sixty prompts built with the role, the task, the context, the constraints and an example, plus a review and safety checklist.\n\nMessage PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null,
+        "allow_banned": [
+          "unlock"
+        ]
+      },
+      {
+        "id": "D26-03",
+        "type": "Trust",
+        "topic": "We review everything before it goes out",
+        "why": "Trust. It makes the safety stance of the Prompt Desk explicit and responsible.",
+        "tiktok": {
+          "fmt": "Talking head, 25s",
+          "hook": "We review everything before it goes out. Even the AI's version.",
+          "beats": [
+            "The AI is fast,\nnot careful",
+            "It does not know your\ncustomers, your prices,\nor your promises",
+            "So the rule is simple:\nAI drafts, you decide",
+            "And never paste anything\nprivate"
+          ],
+          "vo": "We review everything before it goes out, even the AI's version. The AI is fast, not careful. It does not know your customers, your prices or your promises. So the rule is simple: the AI drafts, you decide. And never paste anything private into it. A customer list, a bank detail, a password, an unreleased plan. If it is private, it does not go in the box. That checklist is in the Prompt Desk, on purpose, before the prompts.",
+          "cap": "The AI is fast, not careful. It does not know your customers, your prices or your promises.\n\nSo the rule is simple: the AI drafts, you decide.\n\nAnd never paste anything private into it. A customer list, a bank detail, a password, an unreleased plan.\n\nThat checklist is in the Prompt Desk, on purpose, before the prompts.",
+          "tags": [
+            "#Easywurld",
+            "#AIForBusiness",
+            "#HonestBusiness",
+            "#SmallBusinessNigeria"
+          ],
+          "asset": "Talking head, plain shirt, warm light, brand mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "We review everything before\nit goes out. Even the AI's\nversion.",
+            "The AI is fast, not careful.",
+            "It does not know your\ncustomers, your prices, or\nyour promises.",
+            "So the rule is simple:\nAI drafts, you decide.",
+            "And never paste anything\nprivate into it. A customer list,\na bank detail, a password,\nan unreleased plan."
+          ],
+          "cap": "That checklist is in the Prompt Desk, on purpose, before the prompts.\n\n₦5,000, message PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#Easywurld",
+            "#AIForBusiness",
+            "#LagosSME",
+            "#HonestBusiness"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "We review everything before it goes out, even the AI's version.\n\nThe AI is fast, not careful. It does not know your customers, your prices or your promises. It does not know that you would rather not promise delivery in two days, or that your business will not do something everybody else does, or that you do not use the word \"solutions\".\n\nSo the rule is simple: the AI drafts, you decide.\n\nAnd never paste anything private into it. A customer list, a bank detail, a password, an unreleased plan, a contract. If it is private, it does not go in the box. That checklist is in the Everyday AI Prompt Desk, and it comes before the prompts, on purpose.\n\n₦5,000. Message PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 12:15",
+          "body": "We review everything before it goes out, even the AI's version.\n\nThe AI is fast, not careful. It does not know your customers, your prices or your promises. It does not know that you would rather not promise delivery in two days, or that your business will not do something everybody else does, or that you do not use the word \"solutions\".\n\nSo the rule is simple: the AI drafts, you decide.\n\nAnd never paste anything private into it. A customer list, a bank detail, a password, an unreleased plan, a contract. If it is private, it does not go in the box.\n\nThat checklist is in the Everyday AI Prompt Desk, ₦5,000, and it comes before the prompts, on purpose. We would rather sell sixty useful prompts with a safety page than a hundred prompts and a footnote nobody reads.\n\nOutput quality also varies by tool, which is why the review step is not optional advice. It is the job.\n\nWhatsApp: 0905 069 0837. Message PROMPTS."
+        }
+      },
+      {
+        "id": "D26-04",
+        "type": "Offer",
+        "topic": "The Everyday AI Prompt Desk, what is inside",
+        "why": "Offer. It lists the contents of the AI pack in a way that is immediately legible.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "What is inside the Everyday AI Prompt Desk, ₦5,000.",
+          "beats": [
+            "60 prompts, organised by\nthe work you actually do",
+            "Content, replies, sales,\ndocuments, website,\nplanning, team",
+            "A method for writing\nyour own",
+            "A review and safety checklist",
+            "And a template for an\nenquiry assistant"
+          ],
+          "vo": "What is inside the Everyday AI Prompt Desk, five thousand naira. Sixty prompts, organised by the work small businesses actually do: content, customer replies, sales, documents, website, planning, team. A method for writing your own, so you are not stuck with the sixty. A review and safety checklist. And a template for designing a small enquiry assistant, which follows the same rule we use for everything: decide what it will refuse and when it hands over to a human, before you decide what it will say. It works with any mainstream AI chat tool.",
+          "cap": "What is inside the Everyday AI Prompt Desk, ₦5,000:\n\n60 prompts, organised by the work you actually do: content, replies, sales, documents, website, planning, team.\nA method for writing your own.\nA review and safety checklist.\nAnd a template for a small enquiry assistant.",
+          "tags": [
+            "#Easywurld",
+            "#DigitalDownloads",
+            "#AIForBusiness",
+            "#SmallBusinessNigeria"
+          ],
+          "asset": "Cream background, a contents list, terracotta ticks, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "What is inside the\nEveryday AI Prompt Desk.",
+            "60 prompts, organised by the\nwork you actually do: content,\nreplies, sales, documents,\nwebsite, planning, team.",
+            "A method for writing your own,\nso you are not stuck with\nthe sixty.",
+            "A review and safety checklist.",
+            "And a template for a small\nenquiry assistant.\n\n₦5,000, message PROMPTS on\nWhatsApp: 0905 069 0837"
+          ],
+          "cap": "It works with any mainstream AI chat tool, because the method is not tool-specific.\n\nMessage PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#Easywurld",
+            "#DigitalDownloads",
+            "#LagosSME",
+            "#AIForBusiness"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta price, mark bottom right."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "What is inside the Everyday AI Prompt Desk, ₦5,000.\n\n1. 60 prompts, organised by the work small businesses actually do: content, customer replies, sales, documents, website, planning, team.\n2. A method for writing your own, so you are not stuck with the sixty.\n3. A review and safety checklist, and what must never be pasted in.\n4. A template for designing a small enquiry assistant, with clear boundaries.\n\nPoint four is the one nobody expects, and it is the one we would keep. If you build a little assistant for enquiries, the first decision should not be what it says. It should be what it refuses and when it hands over to a human. Get that wrong and you have built a thing that confidently tells a customer the wrong price.\n\nIt works with any mainstream AI chat tool, because the method is not tool-specific.\n\nMessage PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 16:15",
+          "body": "What is inside the Everyday AI Prompt Desk, ₦5,000.\n\nSixty prompts, organised by the work small businesses actually do: content, customer replies, sales, documents, website, planning, team.\n\nA method for writing your own, so you are not stuck with the sixty.\n\nA review and safety checklist, and what must never be pasted in.\n\nAnd a template for designing a small enquiry assistant, with clear boundaries.\n\nPoint four is the one nobody expects, and it is the one we would keep. If you build a little assistant for enquiries, the first decision should not be what it says. It should be what it refuses and when it hands over to a human. Get that wrong and you have built a thing that confidently tells a customer the wrong price, and then apologises by email.\n\nIt works with any mainstream AI chat tool, because the method is not tool-specific. Output quality varies by tool, which is why the review step is the job and not advice.\n\nWhatsApp: 0905 069 0837. Message PROMPTS."
+        }
+      },
+      {
+        "id": "D26-05",
+        "type": "Teach",
+        "topic": "Who should own your domain",
+        "why": "Teach. It is a serious, real risk that most small business owners have never considered.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "Who owns your domain? If the answer is your developer, your business is not yours.",
+          "beats": [
+            "If they leave, the site\ngoes with them",
+            "And you cannot get it back\nwithout paying them",
+            "The rule is simple:",
+            "Own the domain, the hosting\nand the site",
+            "Always. In your name"
+          ],
+          "vo": "Who owns your domain? If the answer is your developer, your business is not really yours. If they leave, the site goes with them, and you cannot get it back without paying them. The rule is simple: own the domain, the hosting and the site, always, in the name of the business or the person who owns the business. It takes ten minutes to fix now and it is nearly impossible to fix later.",
+          "cap": "Who owns your domain? If the answer is your developer, your business is not really yours.\n\nIf they leave, the site goes with them, and you cannot get it back without paying them.\n\nThe rule is simple: own the domain, the hosting and the site, always, in the name of the business or of the person who owns the business.",
+          "tags": [
+            "#WebDesign",
+            "#Easywurld",
+            "#SmallBusinessNigeria",
+            "#BusinessTips"
+          ],
+          "asset": "Cream background, a domain card mock, terracotta accent, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Who owns your domain?",
+            "If the answer is your\ndeveloper, your business is\nnot really yours.",
+            "If they leave, the site goes\nwith them, and you cannot get\nit back without paying them.",
+            "The rule is simple:\nown the domain, the hosting\nand the site.",
+            "Always. In the name of the\nbusiness, or of the person\nwho owns the business.\n\nIt takes ten minutes to fix\nnow. It is nearly impossible\nto fix later."
+          ],
+          "cap": "There is an account inventory worksheet in the Website Launch & Care Handbook, ₦5,000, with renewal reminders. Message LAUNCH on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#WebDesign",
+            "#Easywurld",
+            "#LagosSME",
+            "#BusinessTips"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta rule."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Who owns your domain? If the answer is your developer, your business is not really yours.\n\nIf they leave, the site goes with them, and you cannot get it back without paying them. This happens more often than anybody admits, because nothing goes wrong right up until the day it does.\n\nThe rule is simple: own the domain, the hosting and the site. Always. In the name of the business, or in the name of the person who owns the business, and make sure the email address on the account is an address you control, not a developer's.\n\nIt takes ten minutes to fix now, and it is nearly impossible to fix later.\n\nThere is an account inventory worksheet, with renewal reminders so you do not lose a domain to a lapsed card, in the Website Launch & Care Handbook, ₦5,000.\n\nMessage LAUNCH on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 17:15",
+          "body": "Who owns your domain? If the answer is your developer, your business is not really yours.\n\nIf they leave, the site goes with them, and you cannot get it back without paying them. This happens more often than anybody admits, because nothing goes wrong right up until the day it does.\n\nThe rule is simple: own the domain, the hosting and the site. Always. In the name of the business, or in the name of the person who owns the business. And make sure the email address on the account is one you control, not a developer's, because that email is the reset button for everything else.\n\nIt takes ten minutes to fix now and it is nearly impossible to fix later.\n\nThere is an account inventory worksheet in the Website Launch & Care Handbook, ₦5,000, with renewal reminders so you do not lose a domain to a lapsed card, plus a launch tracker and a 30-minute monthly care routine.\n\nWhatsApp: 0905 069 0837. Message LAUNCH."
+        }
+      },
+      {
+        "id": "D26-06",
+        "type": "Offer",
+        "topic": "The Website Launch & Care Handbook",
+        "why": "Offer. It introduces a pack that has had less airtime, with a clear value proposition.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "The Website Launch & Care Handbook, ₦5,000. It does not build your site. It tells you what to do.",
+          "beats": [
+            "Goals, pages and content",
+            "Domain and hosting,\nin plain language",
+            "How to brief and\ncompare quotes",
+            "A launch-day checklist",
+            "And a 30-minute monthly\ncare routine"
+          ],
+          "vo": "The Website Launch & Care Handbook, five thousand naira. It does not build your site, and it says so on the first page. What it does is tell you what to do, in the right order. Goals, pages and content. Domain and hosting in plain language. Who should own what. How to brief and compare quotes. A launch-day checklist. And a thirty-minute monthly care routine, so the site does not decay in a year while nobody is looking at it.",
+          "cap": "The Website Launch & Care Handbook, ₦5,000. It does not build your site, and it says so on the first page.\n\nGoals, pages and content. Domain and hosting in plain language. Who should own what. How to brief and compare quotes. A launch-day checklist. And a 30-minute monthly care routine.",
+          "tags": [
+            "#Easywurld",
+            "#DigitalDownloads",
+            "#WebDesign",
+            "#SmallBusinessNigeria"
+          ],
+          "asset": "Cream background, a launch checklist mock, terracotta accent, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "The Website Launch &\nCare Handbook.",
+            "It does not build your site,\nand it says so on the first page.",
+            "Goals, pages and content.\nDomain and hosting in plain\nlanguage. Who should own what.\nHow to brief and compare quotes.",
+            "A launch-day checklist, and a\n30-minute monthly care routine\nso the site does not decay in a\nyear while nobody is looking.",
+            "₦5,000, message LAUNCH on\nWhatsApp: 0905 069 0837"
+          ],
+          "cap": "It is neutral about tools, because the tools change and the decisions do not.\n\nMessage LAUNCH on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#Easywurld",
+            "#DigitalDownloads",
+            "#LagosSME",
+            "#WebDesign"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta price, mark bottom right."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "The Website Launch & Care Handbook, ₦5,000. It does not build your site, and it says so on the first page.\n\n1. Goals, pages and content, in that order, because the content is the hard part and the pages are not.\n2. Domain and hosting in plain language, including what a registrar is and why a cheap domain is sometimes a bad deal.\n3. Who should own what.\n4. How to brief and compare quotes, including the three questions that reveal whether they have done it before.\n5. A launch-day checklist.\n6. A 30-minute monthly care routine, so the site does not decay in a year while nobody is looking at it.\n7. An Excel workbook with a launch tracker, a care log and an account inventory with renewal reminders.\n8. A ready-to-fill website brief.\n\nIt is neutral about tools, because the tools change every year and the decisions do not.\n\nMessage LAUNCH on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D26-07",
+        "type": "Hot take",
+        "topic": "The website is not the business",
+        "why": "Hot take. A sharp point of view that separates the studio's method from the typical agency.",
+        "tiktok": {
+          "fmt": "Talking head, 25s",
+          "hook": "A website is not a business. It is a tool that sits at the end of a process.",
+          "beats": [
+            "The site is last,\nnot first",
+            "Understand, simplify,\nbuild, optimize",
+            "Build the site first and\nyou build the wrong site",
+            "Faster, and cheaper"
+          ],
+          "vo": "A website is not a business. It is a tool that sits at the end of a process. The site is last, not first. Understand, simplify, build, optimize. If you build the site first, you build the wrong site, faster, and then you pay to build it again. Which is slower and more expensive, and everybody has done it.",
+          "cap": "A website is not a business. It is a tool that sits at the end of a process.\n\nThe site is last, not first. Understand, simplify, build, optimize.\n\nIf you build the site first, you build the wrong site, faster, and then you pay to build it again.",
+          "tags": [
+            "#HotTake",
+            "#Easywurld",
+            "#WebDesign",
+            "#SmallBusinessNigeria"
+          ],
+          "asset": "Talking head, plain shirt, warm light, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "A website is not\na business.",
+            "It is a tool that sits at\nthe end of a process.",
+            "The site is last, not first.",
+            "Understand, simplify,\nbuild, optimize.",
+            "If you build the site first,\nyou build the wrong site,\nfaster, and then you pay to\nbuild it again."
+          ],
+          "cap": "Which is slower and more expensive, and everybody has done it.\n\nThe first step is free: send your link and get three points within 24 hours. website-builder-portfolio.vercel.app",
+          "tags": [
+            "#HotTake",
+            "#Easywurld",
+            "#LagosSME",
+            "#WebDesign"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "A website is not a business. It is a tool that sits at the end of a process.\n\nThe site is last, not first. Understand, simplify, build, optimize.\n\nIf you build the site first, you build the wrong site, faster, and then you pay to build it again. Which is slower and more expensive, and everybody has done it. We have watched people spend months and money on a site, and then change the offer, and then need a different site. The site was never the problem, it was the first thing they could do.\n\nThe first step costs nothing: send your link, your business name and one line, and get three points within 24 hours. website-builder-portfolio.vercel.app\n\nAnd the Website Launch & Care Handbook, ₦5,000, walks through the same order, with the decisions made before the build. Message LAUNCH on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D26-08",
+        "type": "Relatable",
+        "topic": "The website that was still not finished",
+        "why": "Relatable. A specific and common situation that the Launch Handbook directly answers.",
+        "tiktok": {
+          "fmt": "Static meme, 12s, with voiceover",
+          "hook": "The website that went live four months ago and is still not finished",
+          "beats": [
+            "The about page\nhas a placeholder",
+            "The contact form\ngoes nowhere",
+            "The phone number\nis the old one",
+            "And the last thing\nyou did was take\nthe site down for\n\"maintenance\""
+          ],
+          "vo": "The website that went live four months ago and is still not finished. The about page has a placeholder. The contact form goes nowhere. The phone number is the old one. And the last thing you did was take the site down for maintenance, which is what happens when people are embarrassed by it. Nobody is going to judge your site as hard as you judge your site. That is genuinely good news.",
+          "cap": "The website that went live four months ago and is still not finished.\n\nThe about page has a placeholder. The contact form goes nowhere. The phone number is the old one. And the last thing you did was take the site down for \"maintenance\".\n\nNobody is going to judge your site as hard as you judge your site. That is genuinely good news.",
+          "tags": [
+            "#Meme",
+            "#Easywurld",
+            "#Relatable",
+            "#WebDesign"
+          ],
+          "asset": "Four-panel meme, cream background, deep green type, terracotta."
+        },
+        "instagram": {
+          "fmt": "Static meme post, 4:5",
+          "slides": [
+            "The website that went live\nfour months ago and is still\nnot finished",
+            "The about page has\na placeholder",
+            "The contact form goes\nnowhere. The phone number\nis the old one.",
+            "And the last thing you did\nwas take the site down for\n\"maintenance\"",
+            "Nobody is going to judge your\nsite as hard as you judge\nyour site.\n\nThat is genuinely good news."
+          ],
+          "cap": "The 30-minute monthly care routine in the Launch Handbook is designed for exactly this. ₦5,000, message LAUNCH on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#Meme",
+            "#Easywurld",
+            "#LagosSME",
+            "#WebDesign"
+          ],
+          "asset": "Two-panel meme, cream and deep green."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "The website that went live four months ago and is still not finished.\n\nThe about page has a placeholder. The contact form goes nowhere. The phone number is the old one. And the last thing you did was take the site down for \"maintenance\", which is what happens when people are embarrassed by it.\n\nNobody is going to judge your site as hard as you judge your site. That is genuinely good news.\n\nThe 30-minute monthly care routine in the Website Launch & Care Handbook is designed for exactly this: a short list, once a month, so the site does not quietly rot while you are busy with the part of the business that pays. Plus a launch checklist and a care log.\n\n₦5,000, message LAUNCH on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D26-09",
+        "type": "Teach",
+        "topic": "How to compare website quotes",
+        "why": "Teach. It saves real money and is a topic that few small business owners know how to handle.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "Three questions to ask any website quote, and the one thing that matters most.",
+          "beats": [
+            "1 · Who owns the domain\nand the hosting",
+            "2 · What exactly is included,\nin writing",
+            "3 · What happens if I want\nto move",
+            "And the one that matters:",
+            "Can I edit the text\nand the images myself"
+          ],
+          "vo": "Three questions to ask any website quote. One, who owns the domain and the hosting. Two, what exactly is included, in writing, not in a sentence. Three, what happens if I want to move to somebody else. And the one that matters most: can I edit the text and the images myself afterwards. If the answer is no, you have bought a photograph, not a website, and photographs cannot be updated.",
+          "cap": "Three questions to ask any website quote:\n\n1 · Who owns the domain and the hosting\n2 · What exactly is included, in writing\n3 · What happens if I want to move\n\nAnd the one that matters most:\nCan I edit the text and the images myself afterwards?",
+          "tags": [
+            "#WebDesign",
+            "#Easywurld",
+            "#SmallBusinessNigeria",
+            "#BusinessTips"
+          ],
+          "asset": "Cream background, three numbered questions, terracotta numbers, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Three questions to ask any\nwebsite quote.",
+            "1 · Who owns the domain\nand the hosting\n2 · What exactly is included,\nin writing\n3 · What happens if I want\nto move",
+            "And the one that matters\nmost:",
+            "Can I edit the text and the\nimages myself afterwards?",
+            "If the answer is no, you have\nbought a photograph, not a\nwebsite. And photographs cannot\nbe updated."
+          ],
+          "cap": "The full comparison guide is in the Website Launch & Care Handbook, ₦5,000. Message LAUNCH on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#WebDesign",
+            "#Easywurld",
+            "#LagosSME",
+            "#BusinessTips"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta numbers."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Three questions to ask any website quote.\n\n1. Who owns the domain and the hosting?\n2. What exactly is included, in writing, not in a sentence?\n3. What happens if I want to move to somebody else?\n\nAnd the one that matters most: can I edit the text and the images myself afterwards?\n\nIf the answer is no, you have bought a photograph, not a website. And photographs cannot be updated. When the price changes, the opening hours change, the offer changes, or you just need a new photo, you are paying again, and you are waiting again.\n\nThe full comparison guide, plus the ready-to-fill brief, is in the Website Launch & Care Handbook, ₦5,000.\n\nMessage LAUNCH on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D26-10",
+        "type": "Story",
+        "topic": "The site that was never the problem",
+        "why": "Story. A brand-honest narrative with no client claims, that reinforces the process.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "A business spent three months and a lot of money on a website, and the website was never the problem.",
+          "beats": [
+            "The site was fine",
+            "The photos were fine",
+            "The offer was the problem",
+            "Nobody could say what they\nwere buying, or from whom",
+            "So we fixed the sentence\nfirst, and the site\nwas the easy part"
+          ],
+          "vo": "A business spent three months and a lot of money on a website, and the website was never the problem. The site was fine. The photos were fine. The offer was the problem. Nobody inside the business could say what they were buying or from whom, so the page said something different every time, and no amount of design could fix that. So we fixed the sentence first, and the site was the easy part.",
+          "cap": "A business spent three months and a lot of money on a website, and the website was never the problem.\n\nThe site was fine. The photos were fine. The offer was the problem. Nobody could say what they were buying, or from whom.\n\nSo we fixed the sentence first, and the site was the easy part.",
+          "tags": [
+            "#Easywurld",
+            "#Story",
+            "#WebDesign",
+            "#SmallBusinessNigeria"
+          ],
+          "asset": "Talking head, plain shirt, warm light, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "A business spent three months\nand a lot of money on a website,",
+            "and the website was never\nthe problem.",
+            "The site was fine.\nThe photos were fine.",
+            "The offer was the problem.\nNobody could say what they were\nbuying, or from whom.",
+            "So we fixed the sentence\nfirst, and the site was the\neasy part."
+          ],
+          "cap": "The Clear Message Workbook, ₦5,000, is step one. Message MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#Easywurld",
+            "#Story",
+            "#LagosSME",
+            "#WebDesign"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "A business spent three months and a lot of money on a website, and the website was never the problem.\n\nThe site was fine. The photos were fine. The offer was the problem. Nobody inside the business could say what they were buying, or from whom, so the page said something slightly different every time it was edited, and no amount of design could fix that. You cannot design your way out of not knowing your own offer.\n\nSo we fixed the sentence first, and the site was the easy part.\n\nThat is the whole order. Understand, simplify, build, optimize. The step that costs the most when you skip it is the last one.\n\nThe Clear Message Workbook, ₦5,000, is step one. Message MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D26-11",
+        "type": "Direct response",
+        "topic": "Send us your worst AI output",
+        "why": "Direct response. It invites a low-effort, entertaining reply and shows the craft.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 20s",
+          "hook": "Send us the worst thing an AI has written for you. We will fix it.",
+          "beats": [
+            "The most embarrassing\ncaption, the weird email,\nthe generic reply",
+            "We will rewrite it,\nfree, here",
+            "And tell you which part\nof the prompt was missing",
+            "Usually it is the context"
+          ],
+          "vo": "Send us the worst thing an AI has written for you. The most embarrassing caption, the weird email, the generic reply. We will rewrite it, free, right here, and tell you which part of the prompt was missing. Usually it is the context. Sometimes it is that you gave it a task with no example, which is the same thing. Paste it in the comments.",
+          "cap": "Send us the worst thing an AI has written for you. The most embarrassing caption, the weird email, the generic reply.\n\nWe will rewrite it, free, here, and tell you which part of the prompt was missing. Usually it is the context. Paste it in the comments.",
+          "tags": [
+            "#AIForBusiness",
+            "#Easywurld",
+            "#SmallBusinessNigeria",
+            "#BusinessTips"
+          ],
+          "asset": "Cream background, a chat bubble, terracotta accent, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Send us the worst thing an AI\nhas written for you.",
+            "The most embarrassing caption,\nthe weird email, the\ngeneric reply.",
+            "We will rewrite it, free, here,",
+            "and tell you which part of the\nprompt was missing.",
+            "Usually it is the context.\n\nPaste it in the comments."
+          ],
+          "cap": "Sometimes it is that you gave it a task with no example, which is the same problem.\n\nThe Prompt Desk, ₦5,000, message PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#AIForBusiness",
+            "#Easywurld",
+            "#LagosSME",
+            "#BusinessTips"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta marks."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Send us the worst thing an AI has written for you.\n\nThe most embarrassing caption. The weird email. The generic reply that begins \"In today's fast-paced world\".\n\nWe will rewrite it, free, right here, and tell you which part of the prompt was missing. Usually it is the context. Sometimes it is that you gave it a task with no example, which is the same problem wearing a different hat.\n\nPaste it in the comments.\n\nAnd if you want all sixty prompts done properly, the Everyday AI Prompt Desk is ₦5,000. Message PROMPTS on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 20:15 (optional)",
+          "body": "Send us the worst thing an AI has written for you.\n\nThe most embarrassing caption. The weird email. The generic reply that begins \"In today's fast-paced world\".\n\nWe will rewrite it, free, right here, and tell you which part of the prompt was missing. Usually it is the context. Sometimes it is that you gave it a task with no example, which is the same problem wearing a different hat.\n\nPaste it in the comments.\n\nAnd if you want all sixty prompts done properly, the Everyday AI Prompt Desk is ₦5,000, with a review and safety checklist, and a template for a small enquiry assistant that knows what it should refuse.\n\nWhatsApp: 0905 069 0837. Message PROMPTS."
+        }
+      }
+    ]
+  },
+  {
+    "day": 27,
+    "label": "Day 27",
+    "theme": "Ten seconds, three questions",
+    "offer": "CLEAR",
+    "posts": [
+      {
+        "id": "D27-01",
+        "type": "Teach",
+        "topic": "The three questions every visitor arrives with",
+        "why": "Teach. It is the core of the Clear Homepage Blueprint and the single most useful idea in it.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "Every visitor arrives with three questions. If the page does not answer them, they leave.",
+          "beats": [
+            "1 · What is this?",
+            "2 · Is this for me?",
+            "3 · What do I do next?",
+            "Answer all three\nin the first screen",
+            "And the order matters"
+          ],
+          "vo": "Every visitor arrives with three questions. What is this? Is this for me? What do I do next? If the page does not answer all three in the first screen, they leave, and they leave without telling you. The order matters as much as the content: what it is, then who it is for, then the next step. Put the next step first and people scroll away before they know what they are looking at.",
+          "cap": "Every visitor arrives with three questions:\n\n1 · What is this?\n2 · Is this for me?\n3 · What do I do next?\n\nIf the page does not answer all three in the first screen, they leave, and they leave without telling you.\n\nAnd the order matters: what it is, then who it is for, then the next step.",
+          "tags": [
+            "#WebDesign",
+            "#Easywurld",
+            "#SmallBusinessNigeria",
+            "#ConversionTips"
+          ],
+          "asset": "Cream background, three numbered questions, terracotta numbers, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Every visitor arrives with\nthree questions.",
+            "1 · What is this?\n2 · Is this for me?",
+            "3 · What do I do\nnext?",
+            "Answer all three in the\nfirst screen, in that order.",
+            "Put the next step first and\npeople scroll away before they\nknow what they are looking at."
+          ],
+          "cap": "The Clear Homepage Blueprint, ₦5,000, has the ten-second test and a scored audit you can run on your own site. Message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#WebDesign",
+            "#Easywurld",
+            "#LagosSME",
+            "#ConversionTips"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta numbers."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Every visitor arrives with three questions.\n\n1. What is this?\n2. Is this for me?\n3. What do I do next?\n\nIf the page does not answer all three in the first screen, they leave, and they leave without telling you.\n\nAnd the order matters as much as the content: what it is, then who it is for, then the next step. Put the next step first and people scroll away before they know what they are looking at.\n\nMost homepages answer question one beautifully, answer question two with a list of services, and never answer question three at all, so the visitor has to guess, and guessing is work, and people do not do work for strangers.\n\nThe Clear Homepage Blueprint, ₦5,000, has the section-by-section structure, fill-in copy templates with examples, and a scored audit you can run on your own site today.\n\nMessage CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 08:15",
+          "body": "Every visitor arrives with three questions.\n\nWhat is this?\nIs this for me?\nWhat do I do next?\n\nIf the page does not answer all three in the first screen, they leave, and they leave without telling you.\n\nAnd the order matters as much as the content: what it is, then who it is for, then the next step. Put the next step first and people scroll away before they know what they are looking at.\n\nMost homepages answer question one beautifully, answer question two with a list of services, and never answer question three at all, so the visitor has to guess. Guessing is work, and people do not do work for strangers.\n\nThe Clear Homepage Blueprint, ₦5,000, has the section-by-section structure, fill-in copy templates with examples, a scored audit you can run on your own site today, and a content planner spreadsheet.\n\nWhatsApp: 0905 069 0837. Message CLEAR."
+        }
+      },
+      {
+        "id": "D27-02",
+        "type": "Meme",
+        "topic": "My homepage, according to the logo",
+        "why": "Meme. A sharp visual joke about the classic agency homepage and sets up the blueprint.",
+        "tiktok": {
+          "fmt": "Static meme, 12s, with voiceover",
+          "hook": "My homepage, according to the logo",
+          "beats": [
+            "Hero image, 2.4MB,\nof a laptop on a desk",
+            "\"Innovating tomorrow's\nsolutions\"",
+            "Three paragraphs\nof nothing",
+            "And a contact form\nthat goes nowhere"
+          ],
+          "vo": "My homepage, according to the logo. Hero image, two point four megabytes, of a laptop on a desk. Innovating tomorrow's solutions. Three paragraphs of nothing. And a contact form that goes nowhere. We are not laughing at the design. We are laughing at the order. If you put the answer first, the same colours look like a business instead of a template.",
+          "cap": "My homepage, according to the logo:\n\nHero image, 2.4MB, of a laptop on a desk.\n\"Innovating tomorrow's solutions.\"\nThree paragraphs of nothing. And a contact form that goes nowhere.\n\nWe are not laughing at the design. We are laughing at the order.",
+          "tags": [
+            "#Meme",
+            "#WebDesign",
+            "#Easywurld",
+            "#Relatable"
+          ],
+          "asset": "Four-panel meme, cream background, deep green type, terracotta."
+        },
+        "instagram": {
+          "fmt": "Static meme post, 4:5",
+          "slides": [
+            "My homepage,\naccording to the logo:",
+            "Hero image, 2.4MB,\nof a laptop on a desk",
+            "\"Innovating tomorrow's\nsolutions\"",
+            "Three paragraphs\nof nothing",
+            "And a contact form\nthat goes nowhere",
+            "We are not laughing at the design.\nWe are laughing at the order."
+          ],
+          "cap": "If you put the answer first, the same colours look like a business instead of a template.\n\nThe Clear Homepage Blueprint, ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#Meme",
+            "#WebDesign",
+            "#Easywurld",
+            "#LagosSME"
+          ],
+          "asset": "Two-panel meme, cream and deep green."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "My homepage, according to the logo:\n\nHero image, 2.4.4 megabytes of a laptop on a desk. \"Innovating tomorrow's solutions.\" Three paragraphs of nothing. And a contact form that goes nowhere.\n\nWe are not laughing at the design. We are laughing at the order.\n\nIf you put the answer first, the same colours look like a business instead of a template. That is the whole difference between a site that confuses people and a site that does not, and it is not a design skill, it is a writing skill.\n\nThe Clear Homepage Blueprint, ₦5,000, has the section order, the copy templates and a scored audit you can run on your own site today.\n\nMessage CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D27-03",
+        "type": "Trust",
+        "topic": "We score pages honestly, including the low scores",
+        "why": "Trust. It shows the audit is real and not a sales device to guarantee the project.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "Our homepage audit scores you honestly. That is why it is free.",
+          "beats": [
+            "We have scored pages\nwhere the answer was\nnot our answer",
+            "And we sent them away",
+            "A high score means\nnothing if everybody\ngets one",
+            "So the number has\nto be able to come\nback low"
+          ],
+          "vo": "Our homepage audit scores you honestly, and that is exactly why it is free. We have scored pages where the answer was not our answer, and we sent them away. A high score means nothing if everybody gets one. So the number has to be able to come back low, and sometimes it does, and then we tell them what to fix first, which usually is not a redesign.",
+          "cap": "Our homepage audit scores you honestly, and that is exactly why it is free.\n\nWe have scored pages where the answer was not our answer, and we sent them away. A high score means nothing if everybody gets one.\n\nSo the number has to be able to come back low. And sometimes it does, and then we tell them what to fix first, which usually is not a redesign.",
+          "tags": [
+            "#Easywurld",
+            "#HonestBusiness",
+            "#WebDesign",
+            "#FreeReview"
+          ],
+          "asset": "Talking head, plain shirt, warm light, brand mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Our homepage audit scores\nyou honestly, and that is\nexactly why it is free.",
+            "We have scored pages where\nthe answer was not our answer,\nand we sent them away.",
+            "A high score means nothing\nif everybody gets one.",
+            "So the number has to be able\nto come back low.",
+            "And sometimes it does, and then\nwe tell them what to fix first,\nwhich usually is not a redesign."
+          ],
+          "cap": "Send your link: website-builder-portfolio.vercel.app. Free, 24 hours, no sales call.",
+          "tags": [
+            "#Easywurld",
+            "#HonestBusiness",
+            "#LagosSME",
+            "#FreeReview"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Our homepage audit scores you honestly, and that is exactly why it is free.\n\nWe have scored pages where the answer was not our answer, and we sent them away. A high score means nothing if everybody gets one. So the number has to be able to come back low, and sometimes it does, and then we tell them what to fix first, which usually is not a redesign. Usually it is one sentence in the wrong place.\n\nSend your link, your business name and one line about what you do. You get a voice note and three points within twenty-four hours, and there is no sales call at the end of it.\n\nwebsite-builder-portfolio.vercel.app\n\nWhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 12:15",
+          "body": "Our homepage audit scores you honestly, and that is exactly why it is free.\n\nWe have scored pages where the answer was not our answer, and we sent them away. A high score means nothing if everybody gets one. So the number has to be able to come back low, and sometimes it does, and then we tell them what to fix first, which usually is not a redesign. Usually it is one sentence in the wrong place.\n\nThis is the same reason we price the packs at ₦5,000 instead of ₦50,000. The price is low enough that buying the wrong one is not a serious problem, and the review is free enough that you can use it before buying anything.\n\nSend your link, your business name and one line about what you do. You get a voice note and three points within twenty-four hours, and there is no sales call at the end of it.\n\nwebsite-builder-portfolio.vercel.app\n\nWhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D27-04",
+        "type": "Offer",
+        "topic": "The Clear Homepage Blueprint, what is inside",
+        "why": "Offer. It explains the pack and lets the audience see the audit for themselves.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "What is inside the Clear Homepage Blueprint, ₦5,000.",
+          "beats": [
+            "The three visitor questions",
+            "A section-by-section\nstructure",
+            "Fill-in copy templates\nwith examples",
+            "A scored audit you run\non your own site",
+            "And a content planner\nspreadsheet"
+          ],
+          "vo": "What is inside the Clear Homepage Blueprint, five thousand naira. The three visitor questions. A section-by-section structure. Fill-in copy templates with examples. A scored audit you can run on your own site today, without us. And a content planner spreadsheet. It reflects how we do homepage work: the visitor's question first, credentials second, one clear next step.",
+          "cap": "What is inside the Clear Homepage Blueprint, ₦5,000:\n\nThe three visitor questions.\nA section-by-section structure.\nFill-in copy templates with examples.\nA scored audit you can run on your own site.\nAnd a content planner spreadsheet.\n\nThe visitor's question first, credentials second, one clear next step.",
+          "tags": [
+            "#Easywurld",
+            "#DigitalDownloads",
+            "#WebDesign",
+            "#SmallBusinessNigeria"
+          ],
+          "asset": "Cream background, a contents list, terracotta ticks, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "What is inside the Clear\nHomepage Blueprint.",
+            "The three visitor questions.",
+            "A section-by-section\nstructure, and fill-in copy\ntemplates with examples.",
+            "A scored audit you can run on\nyour own site, without us.",
+            "And a content planner\nspreadsheet.\n\n₦5,000, message CLEAR on\nWhatsApp: 0905 069 0837"
+          ],
+          "cap": "The visitor's question first, credentials second, one clear next step.\n\nMessage CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#Easywurld",
+            "#DigitalDownloads",
+            "#LagosSME",
+            "#WebDesign"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta price, mark bottom right."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "What is inside the Clear Homepage Blueprint, ₦5,000.\n\n1. The three questions every visitor arrives with.\n2. A section-by-section structure for the homepage.\n3. Fill-in copy templates with worked examples.\n4. A scored audit you can run on your own site today, without us.\n5. A content planner spreadsheet.\n6. How to write the first screen, and calls to action that are not vague.\n7. Page titles and descriptions that make sense in search results.\n8. A before-and-after example.\n\nIt reflects how we do homepage work: the visitor's question first, credentials second, one clear next step.\n\nMessage CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 16:15",
+          "body": "What is inside the Clear Homepage Blueprint, ₦5,000.\n\nThe three questions every visitor arrives with.\n\nA section-by-section structure for the homepage.\n\nFill-in copy templates with worked examples.\n\nA scored audit you can run on your own site today, without us.\n\nA content planner spreadsheet.\n\nHow to write the first screen, and calls to action that are not vague.\n\nPage titles and descriptions that make sense in search results.\n\nAnd a before-and-after example.\n\nIt reflects how we do homepage work: the visitor question first, credentials second, one clear next step. The most common cause of a page that confuses people is not design, it is a headline that describes the business rather than the visitor, and then everything below it has to work twice as hard to compensate.\n\nWhatsApp: 0905 069 0837. Message CLEAR."
+        }
+      },
+      {
+        "id": "D27-05",
+        "type": "Teach",
+        "topic": "The ten-second test for your homepage",
+        "why": "Teach. A test you can run in ten seconds, which is a strong, memorable hook.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 25s",
+          "hook": "The ten-second test. Show your homepage to somebody for ten seconds, then take it away.",
+          "beats": [
+            "Ask them three things",
+            "What does this business do?",
+            "Who is it for?",
+            "What do I do next?",
+            "If they cannot answer all\nthree, it is a writing\nproblem, not a design\nproblem"
+          ],
+          "vo": "The ten-second test. Show your homepage to somebody for ten seconds, then take it away. Ask them three things. What does this business do? Who is it for? What do I do next? If they cannot answer all three, it is a writing problem, not a design problem, and you can fix it this afternoon for free. It is the cheapest quality check in the business.",
+          "cap": "The ten-second test.\n\nShow your homepage to somebody for ten seconds, then take it away. Ask them three things:\n\n1 · What does this business do?\n2 · Who is it for?\n3 · What do I do next?\n\nIf they cannot answer all three, it is a writing problem, not a design problem, and you can fix it this afternoon for free.",
+          "tags": [
+            "#WebDesign",
+            "#Easywurld",
+            "#SmallBusinessNigeria",
+            "#BusinessTips"
+          ],
+          "asset": "Cream background, a ten-second stopwatch, terracotta accents, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "The ten-second test.",
+            "Show your homepage to somebody\nfor ten seconds, then take it away.",
+            "Ask them three things:\n1 · What does this business do?\n2 · Who is it for?\n3 · What do I do next?",
+            "If they cannot answer all three,\nit is a writing problem, not a\ndesign problem.",
+            "And you can fix it this\nafternoon for free."
+          ],
+          "cap": "It is the cheapest quality check in the business. The full scored audit is in the Clear Homepage Blueprint, ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#WebDesign",
+            "#Easywurld",
+            "#LagosSME",
+            "#BusinessTips"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta marks."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "The ten-second test.\n\nShow your homepage to somebody for ten seconds, then take it away. Ask them three things:\n\n1. What does this business do?\n2. Who is it for?\n3. What do I do next?\n\nIf they cannot answer all three, it is a writing problem, not a design problem, and you can fix it this afternoon for free.\n\nIt is the cheapest quality check in the business, and most people have never done it, because they are the only person in the room who knows what the site means.\n\nThe full scored audit is in the Clear Homepage Blueprint, ₦5,000, along with the section structure and the copy templates.\n\nMessage CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D27-06",
+        "type": "Hot take",
+        "topic": "Your homepage is not your brochure",
+        "why": "Hot take. A strong distinction that most small business owners have never heard stated.",
+        "tiktok": {
+          "fmt": "Talking head, 25s",
+          "hook": "Your homepage is not your brochure. It is a counter that somebody walks up to.",
+          "beats": [
+            "A brochure is read\nin private",
+            "A counter is used\nin public",
+            "At the counter, people\nwant one thing:\nwhere to press",
+            "Everything else\nis decoration"
+          ],
+          "vo": "Your homepage is not your brochure. It is a counter that somebody walks up to. A brochure is read in private, at a table, with time. A counter is used in public, while carrying a bag, and the person at the counter wants one thing: where to press. Everything else is decoration around the counter. That is a different design job and a different writing job, and it is cheaper.",
+          "cap": "Your homepage is not your brochure. It is a counter that somebody walks up to.\n\nA brochure is read in private, at a table, with time. A counter is used in public, while carrying a bag, and the person at the counter wants one thing: where to press.\n\nEverything else is decoration around the counter.",
+          "tags": [
+            "#HotTake",
+            "#WebDesign",
+            "#Easywurld",
+            "#SmallBusinessNigeria"
+          ],
+          "asset": "Talking head, plain shirt, warm light, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Your homepage is not\nyour brochure.",
+            "It is a counter that\nsomebody walks up to.",
+            "A brochure is read in private,\nat a table, with time.",
+            "A counter is used in public,\nwhile carrying a bag, and the\nperson at the counter wants\none thing: where to press.",
+            "Everything else is decoration\naround the counter."
+          ],
+          "cap": "That is a different design job and a different writing job, and it is cheaper.\n\n₦5,000, message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#HotTake",
+            "#WebDesign",
+            "#Easywurld",
+            "#LagosSME"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Your homepage is not your brochure. It is a counter that somebody walks up to.\n\nA brochure is read in private, at a table, with time. A counter is used in public, while carrying a bag, in a hurry, and the person at the counter wants one thing: where to press.\n\nEverything else is decoration around the counter.\n\nThat is a different design job and a different writing job, and it is cheaper, because you stop trying to say everything on one screen. You stop trying to say everything on one screen, and then the screen finally works.\n\nThe Clear Homepage Blueprint, ₦5,000, is built on that. Message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D27-07",
+        "type": "Relatable",
+        "topic": "Rewriting the homepage in one afternoon",
+        "why": "Relatable. It gives hope to someone with a live but unclear page, and it is free.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "You can rewrite your homepage in one afternoon, and you do not need anybody.",
+          "beats": [
+            "One afternoon, free",
+            "Step one: answer the three\nquestions in plain words",
+            "Step two: cut every sentence\nthat does not answer them",
+            "Step three: one next step,\nrepeated three times",
+            "That is the whole rebuild"
+          ],
+          "vo": "You can rewrite your homepage in one afternoon, and you do not need anybody. Step one, answer the three questions in plain words. Step two, cut every sentence that does not answer them, which is usually most of them. Step three, pick one next step and repeat it three times, in the same words, in the same place. That is the whole rebuild. It will not win a design award. It will win enquiries, which is the point.",
+          "cap": "You can rewrite your homepage in one afternoon, and you do not need anybody.\n\n1 · Answer the three questions in plain words\n2 · Cut every sentence that does not answer them, which is usually most of them\n3 · Pick one next step and repeat it three times, in the same words, in the same place\n\nIt will not win a design award. It will win enquiries, which is the point.",
+          "tags": [
+            "#WebDesign",
+            "#Easywurld",
+            "#Relatable",
+            "#SmallBusinessNigeria"
+          ],
+          "asset": "Talking head, plain shirt, warm light, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "You can rewrite your\nhomepage in one afternoon.",
+            "1 · Answer the three questions\nin plain words",
+            "2 · Cut every sentence that does\nnot answer them, which is usually\nmost of them",
+            "3 · Pick one next step and repeat\nit three times, in the same words,\nin the same place",
+            "It will not win a design award.\nIt will win enquiries, which is\nthe point."
+          ],
+          "cap": "The Clear Homepage Blueprint, ₦5,000, is the version of this with the templates filled in. Message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#WebDesign",
+            "#Easywurld",
+            "#LagosSME",
+            "#Relatable"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "You can rewrite your homepage in one afternoon, and you do not need anybody.\n\n1. Answer the three questions in plain words.\n2. Cut every sentence that does not answer them, which is usually most of them.\n3. Pick one next step and repeat it three times, in the same words, in the same place.\n\nIt will not win a design award. It will win enquiries, which is the point.\n\nIf you want the version with the templates already filled in and a scored audit to check your work, the Clear Homepage Blueprint is ₦5,000.\n\nMessage CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 17:15",
+          "body": "You can rewrite your homepage in one afternoon, and you do not need anybody.\n\nAnswer the three questions in plain words. Cut every sentence that does not answer them, which is usually most of them. Pick one next step and repeat it three times, in the same words, in the same place.\n\nIt will not win a design award. It will win enquiries, which is the point.\n\nThere is a version of this that sounds like a design argument and is really a writing argument. The reason people do not rewrite their homepage is that it feels like admitting the last one was bad, and that takes longer than any project. But the page is not a monument, it is a counter, and counters get rebuilt every few years.\n\nIf you want the version with the templates already filled in and a scored audit to check your work, the Clear Homepage Blueprint is ₦5,000.\n\nWhatsApp: 0905 069 0837. Message CLEAR."
+        }
+      },
+      {
+        "id": "D27-08",
+        "type": "Teach",
+        "topic": "How to write the first screen",
+        "why": "Teach. A specific writing task that most people find hard, and it is highly reusable.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 30s",
+          "hook": "How to write the first screen of your homepage. Five lines, that is all it needs.",
+          "beats": [
+            "1 · What you do, in plain words",
+            "2 · Who it is for",
+            "3 · The one benefit,\nconcretely",
+            "4 · One next step",
+            "5 · One line of proof"
+          ],
+          "vo": "How to write the first screen of your homepage. Five lines, that is all it needs. One: what you do, in plain words. Two: who it is for. Three: the one benefit, concretely. Four: one next step. Five: one line of proof, not six. If the first screen has more than five lines of text, it is not a first screen, it is a page you wrote and hoped people would read.",
+          "cap": "How to write the first screen of your homepage. Five lines, that is all it needs:\n\n1 · What you do, in plain words\n2 · Who it is for\n3 · The one benefit, concretely\n4 · One next step\n5 · One line of proof, not six\n\nIf the first screen has more than five lines, it is not a first screen, it is a page you wrote and hoped people would read.",
+          "tags": [
+            "#WebDesign",
+            "#Copywriting",
+            "#Easywurld",
+            "#SmallBusinessNigeria"
+          ],
+          "asset": "Cream background, five numbered lines, terracotta numbers, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "How to write the first screen\nof your homepage.",
+            "Five lines, that is all it needs.",
+            "1 · What you do, in plain words\n2 · Who it is for\n3 · The one benefit, concretely",
+            "4 · One next step\n5 · One line of proof, not six",
+            "If the first screen has more than\nfive lines, it is not a first\nscreen, it is a page you wrote\nand hoped people would read."
+          ],
+          "cap": "The fill-in copy templates are in the Clear Homepage Blueprint, ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#WebDesign",
+            "#Copywriting",
+            "#Easywurld",
+            "#LagosSME"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta numbers."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "How to write the first screen of your homepage. Five lines, that is all it needs.\n\n1. What you do, in plain words.\n2. Who it is for.\n3. The one benefit, concretely.\n4. One next step.\n5. One line of proof, not six.\n\nIf the first screen has more than five lines of text, it is not a first screen, it is a page you wrote and hoped people would read.\n\nLine five is where people go wrong, in both directions. Some put nothing, and the page looks like a template from a template shop. Some put six logos and a testimonial carousel and a trust badge, and it looks like a busy counter. One line of proof, placed right under the claim it supports, is enough.\n\nThe fill-in copy templates are in the Clear Homepage Blueprint, ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D27-09",
+        "type": "Offer",
+        "topic": "The Clear Homepage Blueprint, the audit",
+        "why": "Offer. It highlights the scored audit, the most concrete and appealing element of the pack.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 25s",
+          "hook": "The scored audit in the Blueprint. You run it on your own site, in twenty minutes.",
+          "beats": [
+            "Twenty questions,\none score",
+            "Each section scored\nout of five",
+            "And it tells you which\nsection to fix first",
+            "₦5,000, message CLEAR"
+          ],
+          "vo": "The scored audit in the Blueprint. You run it on your own site, in twenty minutes. Twenty questions, one score, each section scored out of five, and it tells you which section to fix first, because a score of four out of five everywhere is not useful, but a score of two on the first screen is. It is a spreadsheet. You do not need us for this part, and that is on purpose.",
+          "cap": "The scored audit in the Blueprint. You run it on your own site, in twenty minutes.\n\nTwenty questions, one score, each section scored out of five, and it tells you which section to fix first.\n\nA score of four out of five everywhere is not useful. A score of two on the first screen is.",
+          "tags": [
+            "#Easywurld",
+            "#DigitalDownloads",
+            "#WebDesign",
+            "#SmallBusinessNigeria"
+          ],
+          "asset": "Cream background, a scorecard mock, terracotta accent, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "The scored audit in the\nBlueprint.",
+            "You run it on your own site,\nin twenty minutes.",
+            "Twenty questions, one score,\neach section scored out of five,",
+            "and it tells you which section\nto fix first.",
+            "A score of four out of five\neverywhere is not useful.\nA score of two on the first\nscreen is.\n\n₦5,000, message CLEAR on\nWhatsApp: 0905 069 0837"
+          ],
+          "cap": "It is a spreadsheet. You do not need us for this part, and that is on purpose.\n\nMessage CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#Easywurld",
+            "#DigitalDownloads",
+            "#LagosSME",
+            "#WebDesign"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta price, mark bottom right."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "The scored audit in the Clear Homepage Blueprint. You run it on your own site, in twenty minutes.\n\nTwenty questions, one score, each section scored out of five, and it tells you which section to fix first.\n\nA score of four out of five everywhere is not useful. A score of two on the first screen is.\n\nIt is a spreadsheet. You do not need us for this part, and that is on purpose. Half the value of the pack is knowing what to fix, and that part should not require buying anything.\n\nThe Clear Homepage Blueprint, ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D27-10",
+        "type": "Story",
+        "topic": "The sentence that was doing all the work",
+        "why": "Story. A specific, true-to-life craft story that reinforces the message theme.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "One business had a beautiful website and one sentence doing all the work.",
+          "beats": [
+            "Everything else was\ndecoration around it",
+            "When they changed that\none sentence",
+            "The enquiries changed\nwithout anything else\nchanging at all"
+          ],
+          "vo": "One business had a beautiful website and one sentence doing all the work. Everything else was decoration around it. When they changed that one sentence, the enquiries changed without anything else changing at all. Same site, same photos, same price, same colours, one different sentence, and a different month. That is the entire business sometimes. It is not a logo, it is not a font, it is a sentence.",
+          "cap": "One business had a beautiful website and one sentence doing all the work. Everything else was decoration around it.\n\nWhen they changed that one sentence, the enquiries changed without anything else changing at all.\n\nSame site, same photos, same price, same colours, one different sentence, and a different month.\n\nThat is the entire business sometimes. It is not a logo, it is not a font, it is a sentence.",
+          "tags": [
+            "#Easywurld",
+            "#Story",
+            "#WebDesign",
+            "#SmallBusinessNigeria"
+          ],
+          "asset": "Talking head, plain shirt, warm light, mark lower right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "One business had a beautiful\nwebsite and one sentence\ndoing all the work.",
+            "Everything else was\ndecoration around it.",
+            "When they changed that one\nsentence,",
+            "the enquiries changed without\nanything else changing at all.",
+            "Same site, same photos, same\nprice, same colours, one\ndifferent sentence, and a\ndifferent month."
+          ],
+          "cap": "That is the entire business sometimes. It is not a logo, it is not a font, it is a sentence.\n\nThe Clear Message Workbook, ₦5,000, message MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#Easywurld",
+            "#Story",
+            "#LagosSME",
+            "#WebDesign"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta rule on the last slide."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "One business had a beautiful website and one sentence doing all the work.\n\nEverything else was decoration around it. When they changed that one sentence, the enquiries changed without anything else changing at all. Same site, same photos, same price, same colours, one different sentence, and a different month.\n\nThat is the entire business sometimes. It is not a logo, it is not a font, it is a sentence.\n\nAnd it is worth saying that we are not against nice websites. We build them. But a beautiful site with a vague sentence is a beautiful corridor leading to a closed door, and a plain site with a clear sentence is a table with somebody behind it.\n\nThe Clear Message Workbook, ₦5,000. Message MESSAGE on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": null
+      },
+      {
+        "id": "D27-11",
+        "type": "Direct response",
+        "topic": "Send us your headline for a rewrite",
+        "why": "Direct response. A free, high-value offer that produces comments and warms the audience.",
+        "tiktok": {
+          "fmt": "Kinetic type with voiceover, 20s",
+          "hook": "Send us your headline. We will rewrite it, free, in the comments.",
+          "beats": [
+            "The big line at the top\nof your site",
+            "We will give you three\nversions",
+            "The plain one, the\nspecific one, and the\none that names the person",
+            "No purchase, no form"
+          ],
+          "vo": "Send us your headline, the big line at the top of your site. We will give you three versions: the plain one, the specific one, and the one that names the person you serve. Free, here in the comments. No purchase, no form, no phone number. Headline only, or the whole first screen if you want to be brave.",
+          "cap": "Send us your headline, the big line at the top of your site.\n\nWe will give you three versions: the plain one, the specific one, and the one that names the person you serve.\n\nFree, here in the comments. No purchase, no form, no phone number.",
+          "tags": [
+            "#WebDesign",
+            "#Copywriting",
+            "#Easywurld",
+            "#SmallBusinessNigeria"
+          ],
+          "asset": "Cream background, a headline mock, terracotta accent, mark bottom right."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "Send us your headline.",
+            "The big line at the top\nof your site.",
+            "We will give you three\nversions:",
+            "The plain one, the specific\none, and the one that names\nthe person you serve.",
+            "Free, here in the comments.\nNo purchase, no form, no phone\nnumber."
+          ],
+          "cap": "Headline only, or the whole first screen if you want to be brave.\n\nMessage CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#WebDesign",
+            "#Copywriting",
+            "#Easywurld",
+            "#LagosSME"
+          ],
+          "asset": "Cream slides, deep green serif, terracotta marks."
+        },
+        "facebook": {
+          "fmt": "Feed post",
+          "body": "Send us your headline, the big line at the top of your site.\n\nWe will give you three versions: the plain one, the specific one, and the one that names the person you serve.\n\nFree, here in the comments. No purchase, no form, no phone number.\n\nHeadline only, or the whole first screen if you want to be brave.\n\nThe Clear Homepage Blueprint, ₦5,000, has the fill-in templates for all of it. Message CLEAR on WhatsApp: 0905 069 0837.",
+          "tags": []
+        },
+        "linkedin": {
+          "fmt": "Text post, 20:15 (optional)",
+          "body": "Send us your headline, the big line at the top of your site.\n\nWe will give you three versions: the plain one, the specific one, and the one that names the person you serve.\n\nFree, here in the comments. No purchase, no form, no phone number.\n\nHeadline only, or the whole first screen if you want to be brave.\n\nThe Clear Homepage Blueprint, ₦5,000, has the fill-in templates for all of it, the section order, and the scored audit you can run on your own site in twenty minutes.\n\nWhatsApp: 0905 069 0837. Message CLEAR."
+        }
+      }
+    ]
+  }
+]

@@ -4,8 +4,12 @@
 
 # Build outputs
 dist/
-build/
 *.dist
+
+# The social kit's build/ folder holds the generators for the content plan.
+# It is source code, not build output, so it must stay tracked.
+/build/
+!launch-content/social-command/build/
 
 # Environment variables
 .env
