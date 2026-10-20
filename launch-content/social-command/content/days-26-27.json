@@ -59,6 +59,7 @@
         }
       },
       {
+        "0": "unlock",
         "id": "D26-02",
         "type": "Meme",
         "topic": "Asking AI to write a caption",
@@ -106,7 +107,10 @@
           "body": "Asking AI to write a caption for my business.\n\n\"Write a caption for my business.\"\n\nAI: \"Unlock the power of your brand with our unparalleled solutions.\"\n\nMe: yes, exactly, that is what I meant.\n\nIt is not.\n\nThe problem is I gave it a task and no context, so it did what everybody on the internet does, which is say the most average thing possible. The moment I tell it who the customer is, what she already knows, and what she is worried about, it writes like a person. Same tool, same model, different prompt.\n\nThe Everyday AI Prompt Desk, ₦5,000, has sixty prompts built with the role, the task, the context, the constraints and an example, plus a review and safety checklist.\n\nMessage PROMPTS on WhatsApp: 0905 069 0837.",
           "tags": []
         },
-        "linkedin": null
+        "linkedin": null,
+        "allow_banned": [
+          "unlock"
+        ]
       },
       {
         "id": "D26-03",

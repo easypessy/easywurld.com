@@ -622,6 +622,7 @@
         }
       },
       {
+        "0": "unlock",
         "id": "D23-02",
         "type": "Meme",
         "topic": "Every bio I have ever written",
@@ -670,7 +671,10 @@
           "body": "Every bio I have ever written, in order:\n\n\"We offer quality services.\"\n\"Your satisfaction is our priority.\"\n\"Empowering brands to unlock their potential.\"\n\nAnd the one that worked: \"We fix phones in Yaba, same day while you wait.\"\n\nSame business, same work, same price, same people. The only thing that changed is that the last one said what happens, where, and how long.\n\nThe first three could describe any of ten businesses in Lagos. The fourth one could only describe this one. And that is the whole job of a message: not to sound good, but to be recognisable.\n\nThe Clear Message Workbook, ₦5,000, is how you get from the first kind to the last kind, in about an hour of actual work.\n\nMessage MESSAGE on WhatsApp: 0905 069 0837.",
           "tags": []
         },
-        "linkedin": null
+        "linkedin": null,
+        "allow_banned": [
+          "unlock"
+        ]
       },
       {
         "id": "D23-03",
