@@ -8,7 +8,7 @@ WhatsApp: 0905 069 0837 · Site: website-builder-portfolio.vercel.app
 ## 1. Open this first — the Post Commander
 
 **Easywurld — Post Commander (open this on your phone)**
-https://drive.google.com/file/d/13rLTdfd4y8jWYftFTOj7MOmMQsZ6KbTK/view
+https://drive.google.com/file/d/1dfm4aknO2iWxWk0uQR4T6fzH0byASyDT/view
 
 This is the tool. One file. It has all 30 days of posts, dated, with a copy button on every
 block and tick marks that save on your phone. It works with no internet.
@@ -36,8 +36,8 @@ you are posting in.
 **Monday 19 October 2026 → Tuesday 17 November 2026.** 30 days.
 
 - 11 core posts a day
-- 11 TikTok + 11 Instagram + 11 Facebook + 4 LinkedIn + 1 optional LinkedIn = **37 posts a day**
-- **1,110 scheduled posts for the month**, plus 30 optional LinkedIn slots
+- 11 TikTok + 11 Instagram + 11 Facebook + 4 LinkedIn = **37 required posts a day**, plus 1 optional LinkedIn = **38 slots a day**
+- **1,140 scheduled posts for the month** — 1,110 required, plus 30 optional LinkedIn slots
 - Every day has a theme, an offer in focus, and every post carries its own time in Lagos time
 
 **Scheduling the whole month:** open the Content Calendar, sort by date, and schedule in one
@@ -73,10 +73,10 @@ Est. value = hours × ₦5,000 per hour. It is an estimate of the work, not a pr
 | File | Where | Notes |
 |---|---|---|
 | How To Post & Schedule A Month Ahead | https://docs.google.com/document/d/1YYO7evwSxRCiC_YrtLzyD1HmqkIDpjn7F19SyaaUXC0/edit | Times, batching, phone storage. |
-| Meme Bank (all 37 memes) | https://docs.google.com/document/d/1K7wqaZLYeQRbFFetRU4fQcvYesYWNOUCg0gzgt0NuIA/edit | Every meme in the month, with the exact words to type. |
+| Meme Bank (all 37 memes) | https://docs.google.com/document/d/1aVRWS3G9AKA61rXlLGHJB93ggJfGbhEafVdUnIPDAEM/edit | Every meme in the month, with the exact words to type. |
 | Start Here | https://docs.google.com/document/d/1sTnUxtGtBlmTxRsYHweDz4FqABPDXIkV7c-lSv2qgHE/edit | One page. Read it once. |
 | Offers Master (editable) | https://docs.google.com/document/d/1O567RH0kw_088UfNQO176I5RtiO4rc6-IoIa21bSYxA/edit | Same content as the PDF, editable. |
-| Prompt to rebuild the offers PDF | https://docs.google.com/document/d/1VOqhw-6BERRiMQuGwwem2EZpeB6tQvwom6mWcTaknmw/edit | Paste into Claude to regenerate the PDF. |
+| Prompt to rebuild the offers PDF | https://docs.google.com/document/d/1uIVd7WSkfVQT-176FN0X7fQnzZFeeMkA-gBTGOodATw/edit | Paste into Claude to regenerate the PDF. |
 | Launch Content (original pack) | https://drive.google.com/drive/folders/1e4XGkhIoHx_zQoJ-fV2JQBtsHSp7-UCL | The first pack, kept as it was. |
 | Easywurld Brand Identity Guide | https://drive.google.com/file/d/16Q-AePfxC0jQGv20GIF0sIm-IDqPkTqh2O1GSExt9rQ/view | Colours, type, logo rules. |
 

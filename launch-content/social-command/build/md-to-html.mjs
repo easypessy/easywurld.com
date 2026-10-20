@@ -38,6 +38,84 @@ function tableCells(line) {
   return line.replace(/^\||\|$/g, "").split("|").map((c) => c.trim());
 }
 
+/** true when the text has an unclosed inline code span */
+function hasOpenCode(text) {
+  const ticks = (text.match(/`/g) || []).length;
+  return ticks % 2 === 1;
+}
+
+/**
+ * A list, with one level of nesting and wrapped lines folded in.
+ * Sets listEnd to the line after the last line the list consumed.
+ */
+let listEnd = 0;
+function renderList(lines, start, tag) {
+  const marker = tag === "ul" ? /^([-*])\s+/ : /^(\d+)\.\s+/;
+  const items = [];
+  let i = start;
+
+  while (i < lines.length) {
+    const m = lines[i].match(marker);
+    if (!m) {
+      /* a wrapped continuation of the current item */
+      if (items.length && /^\s{2,}\S/.test(lines[i])
+        && !marker.test(lines[i]) && !/^[-*]\s+/.test(lines[i])
+        && !/^\s*[-*]\s+/.test(lines[i])) {
+        items[items.length - 1].text += " " + lines[i].trim();
+        i++;
+        continue;
+      }
+      break;
+    }
+
+    const indent = lines[i].length - lines[i].trimStart().length;
+    const item = { indent, text: m[2] ? lines[i].slice(m[0].length) : lines[i].replace(marker, ""), children: [] };
+    items.push(item);
+    i++;
+
+    /* a code span that runs past the end of the line takes the next line with it */
+    while (hasOpenCode(item.text) && i < lines.length) {
+      item.text += " " + lines[i].trim();
+      i++;
+    }
+
+    /* fold in wrapped lines and collect any nested bullets */
+    while (i < lines.length) {
+      const nm = lines[i].match(/^(\s*)[-*]\s+(.*)$/);
+      if (nm && nm[1].length > indent) {
+        item.children.push(nm[2]);
+        i++;
+        /* fold the nested bullet's own wrapped lines */
+        while (i < lines.length && /^\s{2,}\S/.test(lines[i])
+          && !/^\s*[-*]\s+/.test(lines[i]) && !marker.test(lines[i])) {
+          item.children[item.children.length - 1] += " " + lines[i].trim();
+          i++;
+        }
+        continue;
+      }
+      if (/^\s{2,}\S/.test(lines[i]) && !/^\s*[-*]\s+/.test(lines[i]) && !marker.test(lines[i])) {
+        item.text += " " + lines[i].trim();
+        i++;
+        while (hasOpenCode(item.text) && i < lines.length && !/^\s*[-*]\s+/.test(lines[i])) {
+          item.text += " " + lines[i].trim();
+          i++;
+        }
+        continue;
+      }
+      break;
+    }
+  }
+
+  listEnd = i;
+  const body = items.map((it) => {
+    const inner = it.children.length
+      ? "<ul>" + it.children.map((c) => `<li>${inline(c)}</li>`).join("") + "</ul>"
+      : "";
+    return `<li>${inline(it.text)}${inner}</li>`;
+  }).join("");
+  return `<${tag}>${body}</${tag}>`;
+}
+
 /**
  * markdownToHtml(md) -> an HTML fragment Google Docs will accept.
  */
@@ -89,23 +167,15 @@ export function markdownToHtml(md) {
 
     /* list */
     if (/^[-*]\s+/.test(line)) {
-      const items = [];
-      while (i < lines.length && /^[-*]\s+/.test(lines[i])) {
-        items.push(lines[i].replace(/^[-*]\s+/, ""));
-        i++;
-      }
-      out.push("<ul>" + items.map((it) => `<li>${inline(it)}</li>`).join("") + "</ul>");
+      out.push(renderList(lines, i, "ul"));
+      i = listEnd;
       continue;
     }
 
     /* numbered list */
     if (/^\d+\.\s+/.test(line)) {
-      const items = [];
-      while (i < lines.length && /^\d+\.\s+/.test(lines[i])) {
-        items.push(lines[i].replace(/^\d+\.\s+/, ""));
-        i++;
-      }
-      out.push("<ol>" + items.map((it) => `<li>${inline(it)}</li>`).join("") + "</ol>");
+      out.push(renderList(lines, i, "ol"));
+      i = listEnd;
       continue;
     }
 
@@ -125,8 +195,13 @@ export function markdownToHtml(md) {
     while (i < lines.length && lines[i].trim()
       && !/^(#{1,6}\s|[-*]\s|\d+\.\s|>|\|)/.test(lines[i])
       && !/^(-{3,}|\*{3,}|_{3,})$/.test(lines[i].trim())) {
-      para.push(lines[i]);
+      para.push(lines[i].trim());
       i++;
+      while (hasOpenCode(para.join(" ")) && i < lines.length && lines[i].trim()
+        && !/^\s*[-*]\s+/.test(lines[i])) {
+        para.push(lines[i].trim());
+        i++;
+      }
     }
     if (para.length) out.push(`<p>${inline(para.join(" "))}</p>`);
     else i++;

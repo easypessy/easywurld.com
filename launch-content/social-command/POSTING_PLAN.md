@@ -17,7 +17,7 @@ phone without it filling up and confusing me".
 | Instagram | 11 | Mixed: 6 carousels, 3 reels, 2 static. A feed of one type gets boring. |
 | Facebook | 11 | Your oldest audience is here. Text posts do the work. |
 | LinkedIn | 4 + 1 optional | 4 a day is the practical ceiling. See section 4. |
-| **Total** | **37 (+1)** | **1,140 posts across the 30 days.** |
+| **Total** | **37 required + 1 optional** | **1,140 posts across the 30 days.** |
 
 **Same idea, different writing.** The 11 core ideas are shared. The TikTok version is
 spoken, 20 to 30 seconds, hook first. The Instagram version is slides you can save. The
@@ -64,13 +64,13 @@ the next post due, and each card already carries its time. The Month tab shows t
 run on a grid, so you can see a fortnight ahead and not lose a week to a bad phone.
 You do not need to remember anything.
 
-**The dates are pre-dated.** The month runs from Monday 19 October to Tuesday 17 November
-2026. You are not deciding "what to post today", you are deciding on a Sunday which
-Sunday's posts to schedule.
+**The dates are pre-dated.** The month runs from Monday 19 October to Tuesday
+17 November 2026. You are not deciding "what to post today", you are deciding on a
+Sunday which Sunday's posts to schedule.
 
 ---
 
-## 3. Why 37 posts a day is allowed, and where the risk is
+## 3. Why 38 posts a day is allowed, and where the risk is
 
 Platform ceilings per 24 hours, from Buffer's current limits page: Facebook 35, Instagram
 50, TikTok 25, LinkedIn 50. So 11 on each of your four platforms is inside the limits on

@@ -30,7 +30,7 @@ there forever, like an app, with no icon pretending to be something it is not.
 | `EASYWURLD_POST_COMMANDER.html` | The phone tool. 30 days x 38 posts, every platform version, copy buttons, tick marks, notes, a month grid, offline. | Every day, on your phone. |
 | `MONTH_POSTS.md` | The same 30 days written out long form, for reading, printing or handing to somebody else. | When you want to read the whole month in one sitting. |
 | `content_calendar.csv` | 1,140 rows: one row per scheduled post, with date, time, format, hook, body, caption, hashtags, visual direction and a status column. | Opens in Google Sheets, editable on your phone. |
-| `POSTING_PLAN.md` | The research behind the plan: posting times for Nigeria, why 37 posts a day is allowed, what makes writing sound human, the emotion map, how memes work, and how to run all of this from a phone. | Read once. It answers most of the questions you will have. |
+| `POSTING_PLAN.md` | The research behind the plan: posting times for Nigeria, why 38 posts a day is allowed, what makes writing sound human, the emotion map, how memes work, and how to run all of this from a phone. | Read once. It answers most of the questions you will have. |
 | `MEME_BANK.md` | All 37 memes in the month, already scheduled, with the exact words to type on each one and the format. | Twice a week, or whenever the meme slot comes round. |
 | `EASYWURLD_OFFERS_MASTER.md` | The full sales copy for all nine packs, laid out page by page. | When you need the words for the offers PDF. |
 | `CLAUDE_OFFERS_PROMPT.md` | The prompt you give Claude to generate the offers PDF. It has the brand, the page plan, the writing rules and all nine offers inside it. | When you want a fresh, print-ready PDF. |
@@ -47,7 +47,7 @@ there forever, like an app, with no icon pretending to be something it is not.
 | Instagram | 11 | 6 carousels, 3 reels, 2 static. |
 | Facebook | 11 | Text posts that read like a conversation. |
 | LinkedIn | 4 + 1 optional | Under 3,000 characters, professional, about the work. |
-| **Total** | **37 a day, 1,140 across the 30 days** | 19 October to 17 November 2026. |
+| **Total** | **37 required a day, 38 with the optional LinkedIn. 1,140 across the 30 days.** | 19 October to 17 November 2026. |
 
 The 11 core ideas are shared. The writing is not. TikTok is spoken and fast, Instagram is
 slides, Facebook is conversation, LinkedIn is professional. That is what stops the feed
@@ -56,9 +56,9 @@ looking like a spam account.
 **The daily mix.** 3 teaching, 2 memes, 2 honest answers, 2 offer posts, 1 story, 1 hot
 take. Memes stay near 20% of output.
 
-**Everything is dated.** Day 1 is Monday 19 October 2026, day 30 is Tuesday 17 November
-2026. You are not deciding what to post today. On the first Sunday of the month you set
-the whole month, because every post already carries its date and time.
+**Everything is dated.** Day 1 is Monday 19 October 2026, day 30 is Tuesday
+17 November 2026. You are not deciding what to post today. On the first Sunday of the
+month you set the whole month, because every post already carries its date and time.
 
 ---
 
