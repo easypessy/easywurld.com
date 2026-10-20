@@ -116,6 +116,10 @@ footer{color:#5b6155;font-size:12px;text-align:center;padding:18px 0 4px;line-he
 .mbar i{display:block;height:100%;background:var(--ok)}
 code{font-family:ui-monospace,Menlo,monospace;font-size:12.5px;background:rgba(39,71,58,.08);
   padding:1px 5px;border-radius:5px}
+#nextBtn{position:fixed;right:14px;bottom:78px;z-index:50;background:var(--terra);color:#fff;
+  border:0;border-radius:99px;padding:11px 16px;font-size:13px;font-weight:700;
+  box-shadow:0 4px 14px rgba(0,0,0,.22)}
+#nextBtn.hide{display:none}
 </style>
 </head>
 <body>
@@ -149,6 +153,7 @@ code{font-family:ui-monospace,Menlo,monospace;font-size:12.5px;background:rgba(3
   <button data-v="help"><span class="ic">?</span>Help</button>
 </nav>
 
+<button id="nextBtn" class="hide">↓ Next to schedule</button>
 <div id="toast"></div>
 <dialog id="dlg">
   <div class="dlg">
@@ -290,7 +295,7 @@ window.KIT = {"meta":{"brand":"Easywurld","generated":"2026-10-20","startDate":"
         var id = b.getAttribute('data-toggle');
         state.scheduled[id] = !state.scheduled[id];
         if (!state.scheduled[id]) delete state.scheduled[id];
-        save(); renderAll();
+        save(); rerenderKeepScroll();
       });
     });
     document.querySelectorAll('[data-copy]').forEach(function(b){
@@ -331,6 +336,7 @@ window.KIT = {"meta":{"brand":"Easywurld","generated":"2026-10-20","startDate":"
           var incoming = JSON.parse(r.result);
           state = { scheduled: incoming.scheduled||{}, notes: incoming.notes||{} };
           save(); renderAll(); toast('Backup imported');
+          updateNextBtn();
         } catch(e){ toast('That file is not a valid backup'); }
       };
       r.readAsText(f);
@@ -412,7 +418,23 @@ window.KIT = {"meta":{"brand":"Easywurld","generated":"2026-10-20","startDate":"
     b.addEventListener('click', function(){ switchTab(b.getAttribute('data-v')); });
   });
 
-  function renderAll(){ renderHeader(); renderQueue(); }
+  function rerenderKeepScroll(){
+    var y = window.scrollY;
+    renderAll();
+    requestAnimationFrame(function(){ window.scrollTo(0, y); });
+  }
+  function updateNextBtn(){
+    var b = document.getElementById('nextBtn');
+    var remaining = KIT.posts.some(function(p){return !state.scheduled[p.id];});
+    b.classList.toggle('hide', !remaining);
+  }
+  document.getElementById('nextBtn').addEventListener('click', function(){
+    if (filter === 'done') { filter = 'all'; renderQueue(); }
+    var next = document.querySelector('.card:not(.done)');
+    if (next) next.scrollIntoView({behavior:'smooth', block:'center'});
+  });
+
+  function renderAll(){ renderHeader(); renderQueue(); updateNextBtn(); }
   renderAll();
 })();
 </script>
