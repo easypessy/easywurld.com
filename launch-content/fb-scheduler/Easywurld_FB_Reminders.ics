@@ -1,0 +1,3507 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Easywurld//FB Scheduler Kit//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Easywurld Facebook Reminders
+X-WR-TIMEZONE:Africa/Lagos
+BEGIN:VTIMEZONE
+TZID:Africa/Lagos
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+TZNAME:WAT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:D01-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261019T080000
+DTEND;TZID=Africa/Lagos:20261019T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 1 (CORE)
+DESCRIPTION:Five stages of a chat sale\n\nSwipe through the five stages eve
+ ry chat goes through. The Playbook turns each into scripts.\n\nChat-to-Cus
+ tomer Playbook\, ₦5\,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.\n
+ \n[MEDIA] Easywurld_Posts_By_Day/Day_01/Post_01_0800_Instagram-and-Faceboo
+ k-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slide_3.png\, 
+ Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Business Suite 
+ → Create post → paste this text\, upload the media above\, schedule fo
+ r this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 1 (CORE) — open the FB Sc
+ heduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 1 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D01-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261019T123000
+DTEND;TZID=Africa/Lagos:20261019T124500
+SUMMARY:FB 12:30 · Short video · Day 1 (CORE)
+DESCRIPTION:Price question\n\nCaption:\nMessage PLAYBOOK on WhatsApp: 0905 
+ 069 0837\nThe Chat-to-Customer Playbook: ₦5\,000. Do-it-yourself\, no gu
+ aranteed results.\n\nOn-screen text:\n- How much?\n- Price + what it inclu
+ des\n- + one next-step question\n- 36 scripts · ₦5\,000\n- Message PLAY
+ BOOK on WhatsApp\n\nVoiceover script (25 seconds\, warm\, calm\, human pac
+ e):\nSomeone asks how much\, you send a number\, and they disappear. It ha
+ ppens to a lot of small businesses. Try this. Give the price\, say what it
+  includes\, and ask one question that moves things forward. That small cha
+ nge turns a price into a conversation. The Chat-to-Customer Playbook has t
+ hirty-six scripts like this\, for five thousand naira. Message the word PL
+ AYBOOK on WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusines
+ sNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_0
+ 1/Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video → Video.mp4
+ \n[HOW] Open Meta Business Suite → Create post → paste this text\, upl
+ oad the media above\, schedule for this date/time (Africa/Lagos). Or post 
+ live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 1 (CORE) — open the FB Schedul
+ er Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 1 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D01-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261019T150000
+DTEND;TZID=Africa/Lagos:20261019T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 1 (CORE)
+DESCRIPTION:Straight answer: no playbook can promise sales.\n\nWhat the Cha
+ t-to-Customer Playbook does: gives you a clear reply flow\, 36 scripts and
+  a tracker\, so fewer enquiries are lost to slow replies or forgotten foll
+ ow-ups.\n\nIt works on the enquiries you already get. Results depend on yo
+ ur product\, your price and whether you use it.\n\n₦5\,000. Message PLAY
+ BOOK on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_01/
+ Post_06_1500_Facebook-feed_Honest-answer-objection-post → Image.png\n[HO
+ W] Open Meta Business Suite → Create post → paste this text\, upload t
+ he media above\, schedule for this date/time (Africa/Lagos). Or post live 
+ now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 1 (CORE) — open the FB 
+ Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 1 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D01-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261019T200000
+DTEND;TZID=Africa/Lagos:20261019T201500
+SUMMARY:FB 20:00 · Second feed post · Day 1 (optional)
+DESCRIPTION:Someone asks “how much?” and you reply with a number. Then 
+ silence.\n\nTry three parts instead:\n1. The price\n2. What it includes (o
+ ne line)\n3. A question that moves things forward\n\n“The Ankara set is 
+ ₦18\,000\, tailored to your size\, ready in 5 days. Would you like me to
+  take your measurements today?”\n\nA price on its own is a dead end. A p
+ rice with a next step is a conversation.\n\nThe Chat-to-Customer Playbook 
+ has 36 scripts like this\, plus a tracker. ₦5\,000. Message PLAYBOOK on 
+ WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_01/Post_10_
+ 2000_Instagram-and-Facebook-feed_Second-feed-post → Image.png\n[HOW] Ope
+ n Meta Business Suite → Create post → paste this text\, upload the med
+ ia above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 1 (optional) — open the F
+ B Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 1 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D02-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261020T080000
+DTEND;TZID=Africa/Lagos:20261020T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 2 (CORE)
+DESCRIPTION:The ten-second test\n\nFive questions a visitor silently asks.\
+ n\nClear Homepage Blueprint\, ₦5\,000. Message CLEAR on WhatsApp: 0905 0
+ 69 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_02/Post_01_0800_Instagram-a
+ nd-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slid
+ e_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Busines
+ s Suite → Create post → paste this text\, upload the media above\, sch
+ edule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 2 (CORE) — open the FB Sc
+ heduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 2 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D02-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261020T123000
+DTEND;TZID=Africa/Lagos:20261020T124500
+SUMMARY:FB 12:30 · Short video · Day 2 (CORE)
+DESCRIPTION:Ten-second test\n\nCaption:\nMessage CLEAR on WhatsApp: 0905 06
+ 9 0837\nThe Clear Homepage Blueprint: ₦5\,000. Do-it-yourself\, no guara
+ nteed results.\n\nOn-screen text:\n- 10 seconds\n- What do you do?\n- Who 
+ is it for?\n- What would they click?\n- Message CLEAR on WhatsApp\n\nVoice
+ over script (22 seconds\, warm\, calm\, human pace):\nShow your homepage t
+ o a friend for ten seconds. Then hide it\, and ask what you do\, who it is
+  for\, and what they would click. If they hesitate\, your first screen nee
+ ds work. The Clear Homepage Blueprint walks you through it\, with template
+ s and a twenty-point audit. Five thousand naira. Message the word CLEAR on
+  WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusinessNigeria 
+ #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_02/Post_04
+ _1230_Instagram-Reel-and-Facebook-video_Short-video → Video.mp4\n[HOW] O
+ pen Meta Business Suite → Create post → paste this text\, upload the m
+ edia above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 2 (CORE) — open the FB Schedul
+ er Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 2 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D02-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261020T150000
+DTEND;TZID=Africa/Lagos:20261020T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 2 (CORE)
+DESCRIPTION:Good. Most small business sites do not need rebuilding. They ne
+ ed clearer words.\n\nThe 20-Point Homepage Audit Scorecard lets you score 
+ your own page\, or a competitor’s\, in about 20 minutes and shows you wh
+ at to fix first.\n\nIt will not guarantee more enquiries. It will show you
+  where visitors may be getting lost.\n\nThe Clear Homepage Blueprint\, ₦
+ 5\,000. Message CLEAR on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Pos
+ ts_By_Day/Day_02/Post_06_1500_Facebook-feed_Honest-answer-objection-post 
+ → Image.png\n[HOW] Open Meta Business Suite → Create post → paste th
+ is text\, upload the media above\, schedule for this date/time (Africa/Lag
+ os). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 2 (CORE) — open the FB 
+ Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 2 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D02-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261020T200000
+DTEND;TZID=Africa/Lagos:20261020T201500
+SUMMARY:FB 20:00 · Second feed post · Day 2 (optional)
+DESCRIPTION:Show your homepage to a friend for ten seconds. Then hide it.\n
+ \nAsk three questions:\n1. What does this business do?\n2. Who is it for?\
+ n3. What would you click?\n\nIf they hesitate on any of them\, your first 
+ screen needs work.\n\nThe Clear Homepage Blueprint walks you through fixin
+ g it\, with templates and a 20-point audit. ₦5\,000. Message CLEAR on Wh
+ atsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_02/Post_10_20
+ 00_Instagram-and-Facebook-feed_Second-feed-post → Image.png\n[HOW] Open 
+ Meta Business Suite → Create post → paste this text\, upload the media
+  above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 2 (optional) — open the F
+ B Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 2 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D03-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261021T080000
+DTEND;TZID=Africa/Lagos:20261021T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 3 (CORE)
+DESCRIPTION:The four content pillars\n\nA simple structure to stop running 
+ out of ideas.\n\n30-Day Content Engine\, ₦5\,000. Message ENGINE on What
+ sApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_03/Post_01_0800
+ _Instagram-and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_
+ 2.png\, Slide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open 
+ Meta Business Suite → Create post → paste this text\, upload the media
+  above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 3 (CORE) — open the FB Sc
+ heduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 3 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D03-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261021T123000
+DTEND;TZID=Africa/Lagos:20261021T124500
+SUMMARY:FB 12:30 · Short video · Day 3 (CORE)
+DESCRIPTION:Four pillars\n\nCaption:\nMessage ENGINE on WhatsApp: 0905 069 
+ 0837\nThe 30-Day Content Engine: ₦5\,000. Do-it-yourself\, no guaranteed
+  results.\n\nOn-screen text:\n- Run out of ideas?\n- Teach · Show · Trus
+ t · Sell\n- 60 ideas + calendar\n- ₦5\,000 · no reach promises\n- Mess
+ age ENGINE on WhatsApp\n\nVoiceover script (26 seconds\, warm\, calm\, hum
+ an pace):\nRunning out of things to post? Use four pillars. Teach\, show\,
+  trust and sell. Rotate them so your feed is useful\, not just salesy. The
+  Thirty-Day Content Engine gives you sixty post ideas and an auto-dated ca
+ lendar to plan the whole month. It cannot promise followers\, but it can t
+ ake away the daily panic. Five thousand naira. Message the word ENGINE on 
+ WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusinessNigeria #
+ LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_03/Post_04_
+ 1230_Instagram-Reel-and-Facebook-video_Short-video → Video.mp4\n[HOW] Op
+ en Meta Business Suite → Create post → paste this text\, upload the me
+ dia above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 3 (CORE) — open the FB Schedul
+ er Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 3 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D03-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261021T150000
+DTEND;TZID=Africa/Lagos:20261021T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 3 (CORE)
+DESCRIPTION:Honest answer: no tool or plan can promise followers\, reach or
+  sales. Platforms change.\n\nWhat the 30-Day Content Engine does: removes 
+ the daily “what do I post?” panic with a system\, 60 ideas and a calen
+ dar.\n\nConsistency is in your hands. Results are not guaranteed.\n\n₦5\
+ ,000. Message ENGINE on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Post
+ s_By_Day/Day_03/Post_06_1500_Facebook-feed_Honest-answer-objection-post 
+ → Image.png\n[HOW] Open Meta Business Suite → Create post → paste th
+ is text\, upload the media above\, schedule for this date/time (Africa/Lag
+ os). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 3 (CORE) — open the FB 
+ Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 3 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D03-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261021T200000
+DTEND;TZID=Africa/Lagos:20261021T201500
+SUMMARY:FB 20:00 · Second feed post · Day 3 (optional)
+DESCRIPTION:Running out of things to post?\n\nUse four pillars:\n- TEACH: t
+ ips\, how-tos\, myths\n- SHOW: your work\, process\, behind the scenes\n- 
+ TRUST: customer stories (real ones)\, values\, FAQs\n- SELL: offers\, pric
+ es\, how to order\n\nRotate them. About a third teaching\, a quarter showi
+ ng\, the rest trust and selling.\n\nThe 30-Day Content Engine gives you 60
+  ideas and an auto-dated calendar. ₦5\,000. Message ENGINE on WhatsApp: 
+ 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_03/Post_10_2000_Insta
+ gram-and-Facebook-feed_Second-feed-post → Image.png\n[HOW] Open Meta Bus
+ iness Suite → Create post → paste this text\, upload the media above\,
+  schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 3 (optional) — open the F
+ B Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 3 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D04-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261022T080000
+DTEND;TZID=Africa/Lagos:20261022T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 4 (CORE)
+DESCRIPTION:Nine sections of a landing page\n\nA simple order for one-offer
+  pages.\n\nOne-Offer Landing Page Kit\, ₦5\,000. Message PAGE on WhatsAp
+ p: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_04/Post_01_0800_In
+ stagram-and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.p
+ ng\, Slide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Met
+ a Business Suite → Create post → paste this text\, upload the media ab
+ ove\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 4 (CORE) — open the FB Sc
+ heduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 4 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D04-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261022T123000
+DTEND;TZID=Africa/Lagos:20261022T124500
+SUMMARY:FB 12:30 · Short video · Day 4 (CORE)
+DESCRIPTION:One offer\, one page\n\nCaption:\nMessage PAGE on WhatsApp: 090
+ 5 069 0837\nThe One-Offer Landing Page Kit: ₦5\,000. Do-it-yourself\, no
+  guaranteed results.\n\nOn-screen text:\n- One offer\n- One person\n- One 
+ action\n- Guide + template + HTML + checklist\n- Message PAGE on WhatsApp\
+ n\nVoiceover script (23 seconds\, warm\, calm\, human pace):\nA homepage t
+ ries to say everything. A landing page says one thing to one person. One o
+ ffer\, one audience\, one action. The One-Offer Landing Page Kit gives you
+  the structure\, a copy template\, an editable page you can open today\, a
+ nd a twenty-point checklist. It is do-it-yourself\, for five thousand nair
+ a. Message the word PAGE on WhatsApp.\n\nSuggested hashtags: #NigerianBusi
+ ness #SmallBusinessNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_
+ Posts_By_Day/Day_04/Post_04_1230_Instagram-Reel-and-Facebook-video_Short-v
+ ideo → Video.mp4\n[HOW] Open Meta Business Suite → Create post → pas
+ te this text\, upload the media above\, schedule for this date/time (Afric
+ a/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 4 (CORE) — open the FB Schedul
+ er Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 4 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D04-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261022T150000
+DTEND;TZID=Africa/Lagos:20261022T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 4 (CORE)
+DESCRIPTION:Not to get started. The HTML starter has comments on every sect
+ ion. You change the words\, and change the colours in five lines.\n\nTo pu
+ blish you need a host (several offer free plans) and\, if you want your ow
+ n address\, a domain name. Those costs are yours.\n\nOne-Offer Landing Pag
+ e Kit\, ₦5\,000. Message PAGE on WhatsApp: 0905 069 0837.\n\n[MEDIA] Eas
+ ywurld_Posts_By_Day/Day_04/Post_06_1500_Facebook-feed_Honest-answer-object
+ ion-post → Image.png\n[HOW] Open Meta Business Suite → Create post →
+  paste this text\, upload the media above\, schedule for this date/time (A
+ frica/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 4 (CORE) — open the FB 
+ Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 4 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D04-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261022T200000
+DTEND;TZID=Africa/Lagos:20261022T201500
+SUMMARY:FB 20:00 · Second feed post · Day 4 (optional)
+DESCRIPTION:A homepage tries to say everything. A landing page says one thi
+ ng to one person.\n\nOne offer. One audience. One action (WhatsApp\, book\
+ , buy).\n\nNo menu\, no distractions\, no wandering.\n\nThe One-Offer Land
+ ing Page Kit gives you the structure\, a fill-in copy template and an edit
+ able HTML page you can open today. ₦5\,000. Message PAGE on WhatsApp: 09
+ 05 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_04/Post_10_2000_Instagr
+ am-and-Facebook-feed_Second-feed-post → Image.png\n[HOW] Open Meta Busin
+ ess Suite → Create post → paste this text\, upload the media above\, s
+ chedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 4 (optional) — open the F
+ B Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 4 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D05-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261023T080000
+DTEND;TZID=Africa/Lagos:20261023T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 5 (CORE)
+DESCRIPTION:Local search in plain words\n\nHow people find a business near 
+ them.\n\nLagos Local Visibility Starter\, ₦5\,000. Message LOCAL on What
+ sApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_05/Post_01_0800
+ _Instagram-and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_
+ 2.png\, Slide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open 
+ Meta Business Suite → Create post → paste this text\, upload the media
+  above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 5 (CORE) — open the FB Sc
+ heduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 5 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D05-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261023T123000
+DTEND;TZID=Africa/Lagos:20261023T124500
+SUMMARY:FB 12:30 · Short video · Day 5 (CORE)
+DESCRIPTION:Search yourself\n\nCaption:\nMessage LOCAL on WhatsApp: 0905 06
+ 9 0837\nThe Lagos Local Visibility Starter: ₦5\,000. Do-it-yourself\, no
+  guaranteed results.\n\nOn-screen text:\n- Search yourself\n- Do you appea
+ r?\n- What do customers see?\n- 30-day plan · ₦5\,000\n- Message LOCAL 
+ on WhatsApp\n\nVoiceover script (23 seconds\, warm\, calm\, human pace):\n
+ Try this today. Search your own business on your phone. Then search what y
+ ou sell and your area. Do you appear? What do customers see? That is your 
+ starting point. The Lagos Local Visibility Starter gives you a thirty-day 
+ plan from there. It cannot promise rankings\, but it gives you a clear rou
+ tine. Five thousand naira. Message LOCAL on WhatsApp.\n\nSuggested hashtag
+ s: #NigerianBusiness #SmallBusinessNigeria #LagosBusiness #Easywurld\n\n[M
+ EDIA] Easywurld_Posts_By_Day/Day_05/Post_04_1230_Instagram-Reel-and-Facebo
+ ok-video_Short-video → Video.mp4\n[HOW] Open Meta Business Suite → Cre
+ ate post → paste this text\, upload the media above\, schedule for this 
+ date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 5 (CORE) — open the FB Schedul
+ er Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 5 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D05-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261023T150000
+DTEND;TZID=Africa/Lagos:20261023T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 5 (CORE)
+DESCRIPTION:Honest answer: no one can promise ranking\, and be careful of a
+ nyone who does.\n\nThe Lagos Local Visibility Starter helps you set up you
+ r Google Business Profile properly\, write clearer page titles and ask for
+  reviews. Search results depend on competition\, location and many other t
+ hings.\n\n₦5\,000. Message LOCAL on WhatsApp: 0905 069 0837.\n\n[MEDIA] 
+ Easywurld_Posts_By_Day/Day_05/Post_06_1500_Facebook-feed_Honest-answer-obj
+ ection-post → Image.png\n[HOW] Open Meta Business Suite → Create post 
+ → paste this text\, upload the media above\, schedule for this date/time
+  (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 5 (CORE) — open the FB 
+ Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 5 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D05-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261023T200000
+DTEND;TZID=Africa/Lagos:20261023T201500
+SUMMARY:FB 20:00 · Second feed post · Day 5 (optional)
+DESCRIPTION:Open Google on your phone. Search your business name. Then sear
+ ch what you sell plus your area\, like “hair salon Yaba”.\n\nWrite dow
+ n:\n- Do you appear?\n- What do customers see: photos\, hours\, reviews?\n
+ - Who appears above you?\n\nThat is your starting point. No tool needed.\n
+ \nThe Lagos Local Visibility Starter gives you a 30-day plan from there. N
+ o ranking promises. ₦5\,000. Message LOCAL on WhatsApp: 0905 069 0837.\n
+ \n[MEDIA] Easywurld_Posts_By_Day/Day_05/Post_10_2000_Instagram-and-Faceboo
+ k-feed_Second-feed-post → Image.png\n[HOW] Open Meta Business Suite → 
+ Create post → paste this text\, upload the media above\, schedule for th
+ is date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 5 (optional) — open the F
+ B Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 5 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D06-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261024T080000
+DTEND;TZID=Africa/Lagos:20261024T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 6 (CORE)
+DESCRIPTION:The one-sentence message\n\nA simple fill-in for what you do.\n
+ \nClear Message Workbook\, ₦5\,000. Message MESSAGE on WhatsApp: 0905 06
+ 9 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_06/Post_01_0800_Instagram-an
+ d-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slide
+ _3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Business
+  Suite → Create post → paste this text\, upload the media above\, sche
+ dule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 6 (CORE) — open the FB Sc
+ heduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 6 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D06-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261024T123000
+DTEND;TZID=Africa/Lagos:20261024T124500
+SUMMARY:FB 12:30 · Short video · Day 6 (CORE)
+DESCRIPTION:One sentence\n\nCaption:\nMessage MESSAGE on WhatsApp: 0905 069
+  0837\nThe Clear Message Workbook: ₦5\,000. Do-it-yourself\, no guarante
+ ed results.\n\nOn-screen text:\n- Say it in one sentence\n- I help [who] g
+ et [what]\n- by [how] without [pain]\n- Clear Message Workbook · ₦5\,00
+ 0\n- Message MESSAGE on WhatsApp\n\nVoiceover script (22 seconds\, warm\, 
+ calm\, human pace):\nCan you say what you do in one sentence? Try this. I 
+ help who\, get what\, by how\, without what pain. If it takes you three tr
+ ies\, your customers are confused too. The Clear Message Workbook walks yo
+ u through it\, with a worked example. Five thousand naira. Message the wor
+ d MESSAGE on WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusi
+ nessNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Da
+ y_06/Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video → Video.
+ mp4\n[HOW] Open Meta Business Suite → Create post → paste this text\, 
+ upload the media above\, schedule for this date/time (Africa/Lagos). Or po
+ st live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 6 (CORE) — open the FB Schedul
+ er Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 6 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D06-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261024T150000
+DTEND;TZID=Africa/Lagos:20261024T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 6 (CORE)
+DESCRIPTION:Honest answer: no. The Clear Message Workbook is self-guided. I
+ t does not include a consultation or a review of your answers.\n\nIt gives
+  you the questions\, a worked example and templates. You do the thinking a
+ nd the interviews.\n\n₦5\,000. Message MESSAGE on WhatsApp: 0905 069 083
+ 7.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_06/Post_06_1500_Facebook-feed_Hon
+ est-answer-objection-post → Image.png\n[HOW] Open Meta Business Suite 
+ → Create post → paste this text\, upload the media above\, schedule fo
+ r this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 6 (CORE) — open the FB 
+ Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 6 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D06-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261024T200000
+DTEND;TZID=Africa/Lagos:20261024T201500
+SUMMARY:FB 20:00 · Second feed post · Day 6 (optional)
+DESCRIPTION:Try this:\n\n“I help [who] to [get what] by [how]\, without [
+ pain].”\n\nExample (fictional): “I help Lagos home cooks to sell weekl
+ y meal boxes by handling packing and delivery\, without hiring a team.”\
+ n\nIf it takes you three tries\, your customers are confused too.\n\nThe C
+ lear Message Workbook walks you through it step by step\, with a worked ex
+ ample. ₦5\,000. Message MESSAGE on WhatsApp: 0905 069 0837.\n\n[MEDIA] E
+ asywurld_Posts_By_Day/Day_06/Post_10_2000_Instagram-and-Facebook-feed_Seco
+ nd-feed-post → Image.png\n[HOW] Open Meta Business Suite → Create post
+  → paste this text\, upload the media above\, schedule for this date/tim
+ e (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 6 (optional) — open the F
+ B Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 6 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D07-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261025T080000
+DTEND;TZID=Africa/Lagos:20261025T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 7 (CORE)
+DESCRIPTION:The five-part prompt\n\nHow to ask AI for something useful.\n\n
+ Everyday AI Prompt Desk\, ₦5\,000. Message PROMPTS on WhatsApp: 0905 069
+  0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_07/Post_01_0800_Instagram-and
+ -Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slide_
+ 3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Business 
+ Suite → Create post → paste this text\, upload the media above\, sched
+ ule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 7 (CORE) — open the FB Sc
+ heduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 7 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D07-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261025T123000
+DTEND;TZID=Africa/Lagos:20261025T124500
+SUMMARY:FB 12:30 · Short video · Day 7 (CORE)
+DESCRIPTION:Five-part prompt\n\nCaption:\nMessage PROMPTS on WhatsApp: 0905
+  069 0837\nThe Everyday AI Prompt Desk: ₦5\,000. Do-it-yourself\, no gua
+ ranteed results.\n\nOn-screen text:\n- Vague prompt\, vague answer\n- Role
+  · Task · Context\n- Format · Limits\n- 60 prompts · ₦5\,000\n- Mess
+ age PROMPTS on WhatsApp\n\nVoiceover script (28 seconds\, warm\, calm\, hu
+ man pace):\nA vague prompt gets a vague answer. Try five parts. Role\, tas
+ k\, context\, format and limits. For example\, you are an assistant for a 
+ Lagos bakery\, write three captions\, for a new red velvet cake\, under si
+ xty words\, and do not invent claims. The Everyday AI Prompt Desk has the 
+ guide and sixty prompts to paste. Five thousand naira. Message the word PR
+ OMPTS on WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusiness
+ Nigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_07
+ /Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video → Video.mp4\
+ n[HOW] Open Meta Business Suite → Create post → paste this text\, uplo
+ ad the media above\, schedule for this date/time (Africa/Lagos). Or post l
+ ive now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 7 (CORE) — open the FB Schedul
+ er Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 7 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D07-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261025T150000
+DTEND;TZID=Africa/Lagos:20261025T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 7 (CORE)
+DESCRIPTION:No. The Everyday AI Prompt Desk is not a chatbot and does not c
+ onnect to any account.\n\nIt is a guide\, 60 copy-paste prompts\, a knowle
+ dge sheet template and a safety checklist. You use them in the AI tool you
+  already choose.\n\n₦5\,000. Message PROMPTS on WhatsApp: 0905 069 0837.
+ \n\n[MEDIA] Easywurld_Posts_By_Day/Day_07/Post_06_1500_Facebook-feed_Hones
+ t-answer-objection-post → Image.png\n[HOW] Open Meta Business Suite → 
+ Create post → paste this text\, upload the media above\, schedule for th
+ is date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 7 (CORE) — open the FB 
+ Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 7 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D07-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261025T200000
+DTEND;TZID=Africa/Lagos:20261025T201500
+SUMMARY:FB 20:00 · Second feed post · Day 7 (optional)
+DESCRIPTION:Vague prompt: “Write a caption.”\n\nBetter: five parts\n1. 
+ Role: you are a social media assistant for a Lagos bakery\n2. Task: write 
+ 3 Instagram captions\n3. Context: new red velvet cake\, ₦18\,000\n4. For
+ mat: under 60 words each\, friendly\n5. Limits: no made-up claims\, no emo
+ jis\n\nThe Everyday AI Prompt Desk has the full guide and 60 prompts you c
+ an paste. ₦5\,000. Message PROMPTS on WhatsApp: 0905 069 0837.\n\n[MEDIA
+ ] Easywurld_Posts_By_Day/Day_07/Post_10_2000_Instagram-and-Facebook-feed_S
+ econd-feed-post → Image.png\n[HOW] Open Meta Business Suite → Create p
+ ost → paste this text\, upload the media above\, schedule for this date/
+ time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 7 (optional) — open the F
+ B Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 7 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D08-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261026T080000
+DTEND;TZID=Africa/Lagos:20261026T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 8 (CORE)
+DESCRIPTION:Anatomy of a good proposal\n\nSeven parts\, in order.\n\nPropos
+ al & Report Template Pack\, ₦5\,000. Message TEMPLATES on WhatsApp: 0905
+  069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_08/Post_01_0800_Instagram
+ -and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Sl
+ ide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Busin
+ ess Suite → Create post → paste this text\, upload the media above\, s
+ chedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 8 (CORE) — open the FB Sc
+ heduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 8 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D08-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261026T123000
+DTEND;TZID=Africa/Lagos:20261026T124500
+SUMMARY:FB 12:30 · Short video · Day 8 (CORE)
+DESCRIPTION:One-page rule\n\nCaption:\nMessage TEMPLATES on WhatsApp: 0905 
+ 069 0837\nThe Proposal & Report Template Pack: ₦5\,000. Do-it-yourself\,
+  no guaranteed results.\n\nOn-screen text:\n- Page one decides\n- What · 
+ Cost · When · Next step\n- Details come after\n- Template Pack · ₦5\,
+ 000\n- Message TEMPLATES on WhatsApp\n\nVoiceover script (21 seconds\, war
+ m\, calm\, human pace):\nBusy readers decide on page one. Put what you wil
+ l do\, what it costs\, when it will be done and what they need to do next.
+  Everything else is detail. The Proposal and Report Template Pack has a fu
+ ll proposal structure with a worked example. Five thousand naira. Message 
+ the word TEMPLATES on WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #
+ SmallBusinessNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_
+ By_Day/Day_08/Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video 
+ → Video.mp4\n[HOW] Open Meta Business Suite → Create post → paste th
+ is text\, upload the media above\, schedule for this date/time (Africa/Lag
+ os). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 8 (CORE) — open the FB Schedul
+ er Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 8 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D08-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261026T150000
+DTEND;TZID=Africa/Lagos:20261026T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 8 (CORE)
+DESCRIPTION:No. The templates in the Proposal & Report Template Pack are ge
+ neral business documents\, not legal contracts.\n\nHave your terms and con
+ tracts reviewed by a qualified professional.\n\n₦5\,000. Message TEMPLAT
+ ES on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_08/Po
+ st_06_1500_Facebook-feed_Honest-answer-objection-post → Image.png\n[HOW]
+  Open Meta Business Suite → Create post → paste this text\, upload the
+  media above\, schedule for this date/time (Africa/Lagos). Or post live no
+ w.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 8 (CORE) — open the FB 
+ Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 8 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D08-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261026T200000
+DTEND;TZID=Africa/Lagos:20261026T201500
+SUMMARY:FB 20:00 · Second feed post · Day 8 (optional)
+DESCRIPTION:Busy readers decide on page one. Put these there:\n- What you w
+ ill do\n- What it costs\n- When it will be done\n- What they need to do ne
+ xt\n\nThe rest is detail for those who want it.\n\nThe Proposal & Report T
+ emplate Pack has a full proposal structure with a worked example. ₦5\,00
+ 0. Message TEMPLATES on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Post
+ s_By_Day/Day_08/Post_10_2000_Instagram-and-Facebook-feed_Second-feed-post 
+ → Image.png\n[HOW] Open Meta Business Suite → Create post → paste th
+ is text\, upload the media above\, schedule for this date/time (Africa/Lag
+ os). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 8 (optional) — open the F
+ B Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 8 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D09-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261027T080000
+DTEND;TZID=Africa/Lagos:20261027T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 9 (CORE)
+DESCRIPTION:From idea to live website\n\nSeven steps.\n\nWebsite Launch & C
+ are Handbook\, ₦5\,000. Message LAUNCH on WhatsApp: 0905 069 0837.\n\n[M
+ EDIA] Easywurld_Posts_By_Day/Day_09/Post_01_0800_Instagram-and-Facebook-fe
+ ed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slide_3.png\, Slid
+ e_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Business Suite → Cr
+ eate post → paste this text\, upload the media above\, schedule for this
+  date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 9 (CORE) — open the FB Sc
+ heduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 9 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D09-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261027T123000
+DTEND;TZID=Africa/Lagos:20261027T124500
+SUMMARY:FB 12:30 · Short video · Day 9 (CORE)
+DESCRIPTION:Own your domain\n\nCaption:\nMessage LAUNCH on WhatsApp: 0905 0
+ 69 0837\nThe Website Launch & Care Handbook: ₦5\,000. Do-it-yourself\, n
+ o guaranteed results.\n\nOn-screen text:\n- Whose name is it in?\n- Your d
+ omain. Your email.\n- You hold the logins\n- Launch & Care Handbook · ₦
+ 5\,000\n- Message LAUNCH on WhatsApp\n\nVoiceover script (25 seconds\, war
+ m\, calm\, human pace):\nHere is a common problem. A web designer register
+ s your domain in their name. Later\, you cannot move it\, or renew it. Bef
+ ore you pay anyone\, make sure the domain is registered to you\, with your
+  email\, and that you hold the logins. The Website Launch and Care Handboo
+ k explains ownership and more. Five thousand naira. Message the word LAUNC
+ H on WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusinessNige
+ ria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_09/Pos
+ t_04_1230_Instagram-Reel-and-Facebook-video_Short-video → Video.mp4\n[HO
+ W] Open Meta Business Suite → Create post → paste this text\, upload t
+ he media above\, schedule for this date/time (Africa/Lagos). Or post live 
+ now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 9 (CORE) — open the FB Schedul
+ er Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 9 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D09-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261027T150000
+DTEND;TZID=Africa/Lagos:20261027T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 9 (CORE)
+DESCRIPTION:Honest answer: not with this ₦5\,000 Handbook. It is a guide 
+ and set of tools: planning\, a brief\, a launch tracker\, a care routine a
+ nd hiring questions.\n\nIf you want Easywurld to build or maintain your si
+ te\, that is a separate paid project with a written quote.\n\nMessage LAUN
+ CH on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_09/Po
+ st_06_1500_Facebook-feed_Honest-answer-objection-post → Image.png\n[HOW]
+  Open Meta Business Suite → Create post → paste this text\, upload the
+  media above\, schedule for this date/time (Africa/Lagos). Or post live no
+ w.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 9 (CORE) — open the FB 
+ Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 9 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D09-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261027T200000
+DTEND;TZID=Africa/Lagos:20261027T201500
+SUMMARY:FB 20:00 · Second feed post · Day 9 (optional)
+DESCRIPTION:A common horror story: the web designer registered the domain i
+ n their own name. Months later\, you cannot move or renew it.\n\nBefore yo
+ u pay anyone:\n- Domain registered to you\n- Your email as the owner\n- Lo
+ gin details you hold\n\nThe Website Launch & Care Handbook explains owners
+ hip and has an account inventory with renewal dates. ₦5\,000. Message LA
+ UNCH on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_09/
+ Post_10_2000_Instagram-and-Facebook-feed_Second-feed-post → Image.png\n[
+ HOW] Open Meta Business Suite → Create post → paste this text\, upload
+  the media above\, schedule for this date/time (Africa/Lagos). Or post liv
+ e now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 9 (optional) — open the F
+ B Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 9 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D10-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261028T080000
+DTEND;TZID=Africa/Lagos:20261028T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 10 (CORE)
+DESCRIPTION:Follow-up without begging\n\nThree follow-ups\, three tones. No
+  pressure.\n\nChat-to-Customer Playbook\, ₦5\,000. Message PLAYBOOK on W
+ hatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_10/Post_01_0
+ 800_Instagram-and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Sli
+ de_2.png\, Slide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Op
+ en Meta Business Suite → Create post → paste this text\, upload the me
+ dia above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 10 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 10 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D10-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261028T123000
+DTEND;TZID=Africa/Lagos:20261028T124500
+SUMMARY:FB 12:30 · Short video · Day 10 (CORE)
+DESCRIPTION:Follow-up rhythm\n\nCaption:\nMessage PLAYBOOK on WhatsApp: 090
+ 5 069 0837\nThe Chat-to-Customer Playbook: ₦5\,000. Do-it-yourself\, no 
+ guaranteed results.\n\nOn-screen text:\n- Went quiet?\n- Day 1 · Day 3 ·
+  Day 7\n- Short. Kind. Useful.\n- Tracker + scripts · ₦5\,000\n- Messag
+ e PLAYBOOK on WhatsApp\n\nVoiceover script (21 seconds\, warm\, calm\, hum
+ an pace):\nMost people who go quiet are not saying no. They are busy. So f
+ ollow up on day one\, day three and day seven. Keep each message short and
+  kind. The Chat-to-Customer Playbook gives you the words\, and a tracker t
+ hat shows you who to message today. It is five thousand naira. Message PLA
+ YBOOK on WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusiness
+ Nigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_10
+ /Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video → Video.mp4\
+ n[HOW] Open Meta Business Suite → Create post → paste this text\, uplo
+ ad the media above\, schedule for this date/time (Africa/Lagos). Or post l
+ ive now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 10 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 10 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D10-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261028T150000
+DTEND;TZID=Africa/Lagos:20261028T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 10 (CORE)
+DESCRIPTION:Fair. That is why it is built to be used\, not studied.\n\nRead
+  the Playbook in about 25 minutes. Copy the scripts you need. Use the trac
+ ker for each new enquiry.\n\nOne afternoon of setup\, then the system sits
+  inside the chats you already do.\n\nChat-to-Customer Playbook\, ₦5\,000
+ . Message PLAYBOOK on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_
+ By_Day/Day_10/Post_06_1500_Facebook-feed_Honest-answer-objection-post → 
+ Image.png\n[HOW] Open Meta Business Suite → Create post → paste this t
+ ext\, upload the media above\, schedule for this date/time (Africa/Lagos).
+  Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 10 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 10 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D10-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261028T200000
+DTEND;TZID=Africa/Lagos:20261028T201500
+SUMMARY:FB 20:00 · Second feed post · Day 10 (optional)
+DESCRIPTION:Most people who ask for a price are not saying no. They are bus
+ y.\n\nA simple follow-up rhythm:\nDay 1: “Just checking you got the deta
+ ils.”\nDay 3: add one useful detail.\nDay 7: a polite close\, door open.
+ \n\nThree short messages. No pressure\, no begging.\n\nThe Playbook gives 
+ you the exact wording and a tracker that tells you who to message today. 
+ ₦5\,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywur
+ ld_Posts_By_Day/Day_10/Post_10_2000_Instagram-and-Facebook-feed_Second-fee
+ d-post → Image.png\n[HOW] Open Meta Business Suite → Create post → p
+ aste this text\, upload the media above\, schedule for this date/time (Afr
+ ica/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 10 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 10 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D11-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261029T080000
+DTEND;TZID=Africa/Lagos:20261029T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 11 (CORE)
+DESCRIPTION:A homepage section order that works\n\nA simple order for most 
+ small-business homepages.\n\nClear Homepage Blueprint\, ₦5\,000. Message
+  CLEAR on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_1
+ 1/Post_01_0800_Instagram-and-Facebook-feed_Carousel-or-tip-post → Slide_
+ 1.png\, Slide_2.png\, Slide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.pn
+ g\n[HOW] Open Meta Business Suite → Create post → paste this text\, up
+ load the media above\, schedule for this date/time (Africa/Lagos). Or post
+  live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 11 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 11 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D11-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261029T123000
+DTEND;TZID=Africa/Lagos:20261029T124500
+SUMMARY:FB 12:30 · Short video · Day 11 (CORE)
+DESCRIPTION:Headline fix\n\nCaption:\nMessage CLEAR on WhatsApp: 0905 069 0
+ 837\nThe Clear Homepage Blueprint: ₦5\,000. Do-it-yourself\, no guarante
+ ed results.\n\nOn-screen text:\n- “Welcome to our company”\n- What you
+  do\n- Who it is for\n- What to do next\n- Message CLEAR on WhatsApp\n\nVo
+ iceover script (22 seconds\, warm\, calm\, human pace):\nWelcome to our co
+ mpany. That is not a headline. A better one says what you do\, who it is f
+ or and what to do next. Custom cakes for Lagos birthdays. Order on WhatsAp
+ p. That is the idea. The Clear Homepage Blueprint has fill-in headline tem
+ plates and a before and after example. Five thousand naira. Message CLEAR 
+ on WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusinessNigeri
+ a #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_11/Post_
+ 04_1230_Instagram-Reel-and-Facebook-video_Short-video → Video.mp4\n[HOW]
+  Open Meta Business Suite → Create post → paste this text\, upload the
+  media above\, schedule for this date/time (Africa/Lagos). Or post live no
+ w.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 11 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 11 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D11-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261029T150000
+DTEND;TZID=Africa/Lagos:20261029T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 11 (CORE)
+DESCRIPTION:Honest answer: no. The Clear Homepage Blueprint is a do-it-your
+ self kit.\n\nYou get a method\, fill-in templates\, a planner and an audit
+ . You supply your real facts and write the words.\n\nIf you want us to bui
+ ld or rewrite your site\, that is a separate paid project. Message us for 
+ a range.\n\nThe Blueprint is ₦5\,000. Message CLEAR on WhatsApp: 0905 06
+ 9 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_11/Post_06_1500_Facebook-fee
+ d_Honest-answer-objection-post → Image.png\n[HOW] Open Meta Business Sui
+ te → Create post → paste this text\, upload the media above\, schedule
+  for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 11 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 11 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D11-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261029T200000
+DTEND;TZID=Africa/Lagos:20261029T201500
+SUMMARY:FB 20:00 · Second feed post · Day 11 (optional)
+DESCRIPTION:“Welcome to Ade & Sons Ltd” tells a visitor nothing.\n\nTry
+ : “Fresh-baked cakes for Lagos birthdays and weddings. Order by WhatsApp
+ .”\n\nOne line: what you do\, who for\, and the next step.\n\nThe Clear 
+ Homepage Blueprint has fill-in headline templates and a before/after examp
+ le. ₦5\,000. Message CLEAR on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywu
+ rld_Posts_By_Day/Day_11/Post_10_2000_Instagram-and-Facebook-feed_Second-fe
+ ed-post → Image.png\n[HOW] Open Meta Business Suite → Create post → 
+ paste this text\, upload the media above\, schedule for this date/time (Af
+ rica/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 11 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 11 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D12-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261030T080000
+DTEND;TZID=Africa/Lagos:20261030T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 12 (CORE)
+DESCRIPTION:A weekly batching routine\n\nTwo to three hours a week. One sit
+ ting per task.\n\n30-Day Content Engine\, ₦5\,000. Message ENGINE on Wha
+ tsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_12/Post_01_080
+ 0_Instagram-and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide
+ _2.png\, Slide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open
+  Meta Business Suite → Create post → paste this text\, upload the medi
+ a above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 12 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 12 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D12-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261030T123000
+DTEND;TZID=Africa/Lagos:20261030T124500
+SUMMARY:FB 12:30 · Short video · Day 12 (CORE)
+DESCRIPTION:Batching\n\nCaption:\nMessage ENGINE on WhatsApp: 0905 069 0837
+ \nThe 30-Day Content Engine: ₦5\,000. Do-it-yourself\, no guaranteed res
+ ults.\n\nOn-screen text:\n- Daily panic?\n- Pick · Write · Design · Sch
+ edule\n- A calendar that dates itself\n- 30-Day Content Engine · ₦5\,00
+ 0\n- Message ENGINE on WhatsApp\n\nVoiceover script (24 seconds\, warm\, c
+ alm\, human pace):\nPosting from scratch every day is exhausting. Try batc
+ hing. Choose your four ideas\, write all the captions in one sitting\, des
+ ign in another\, then schedule. Two hours a week can beat two hours every 
+ day. The Thirty-Day Content Engine has the whole routine\, plus a calendar
+  that fills in the dates for you. Five thousand naira. Message ENGINE on W
+ hatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusinessNigeria #L
+ agosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_12/Post_04_1
+ 230_Instagram-Reel-and-Facebook-video_Short-video → Video.mp4\n[HOW] Ope
+ n Meta Business Suite → Create post → paste this text\, upload the med
+ ia above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 12 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 12 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D12-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261030T150000
+DTEND;TZID=Africa/Lagos:20261030T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 12 (CORE)
+DESCRIPTION:No\, and we want to be clear about that.\n\nThe 30-Day Content 
+ Engine is a planning system: a guide\, 60 post ideas\, a calendar and a sw
+ ipe file. You write and design the posts with free tools like Canva and Ca
+ pCut.\n\nNo design templates or scheduling software are included.\n\n₦5\
+ ,000. Message ENGINE on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Post
+ s_By_Day/Day_12/Post_06_1500_Facebook-feed_Honest-answer-objection-post 
+ → Image.png\n[HOW] Open Meta Business Suite → Create post → paste th
+ is text\, upload the media above\, schedule for this date/time (Africa/Lag
+ os). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 12 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 12 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D12-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261030T200000
+DTEND;TZID=Africa/Lagos:20261030T201500
+SUMMARY:FB 20:00 · Second feed post · Day 12 (optional)
+DESCRIPTION:Posting daily from scratch is exhausting.\n\nTry batching:\n1. 
+ Pick the week’s 4 ideas.\n2. Write all captions in one sitting.\n3. Make
+  all graphics in one sitting.\n4. Schedule or set reminders.\n\nTwo hours 
+ a week beats two hours every day.\n\nThe 30-Day Content Engine guide has t
+ he full routine. ₦5\,000. Message ENGINE on WhatsApp: 0905 069 0837.\n\n
+ [MEDIA] Easywurld_Posts_By_Day/Day_12/Post_10_2000_Instagram-and-Facebook-
+ feed_Second-feed-post → Image.png\n[HOW] Open Meta Business Suite → Cr
+ eate post → paste this text\, upload the media above\, schedule for this
+  date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 12 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 12 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D13-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261031T080000
+DTEND;TZID=Africa/Lagos:20261031T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 13 (CORE)
+DESCRIPTION:Landing page vs homepage\n\nThey do different jobs.\n\nOne-Offe
+ r Landing Page Kit\, ₦5\,000. Message PAGE on WhatsApp: 0905 069 0837.\n
+ \n[MEDIA] Easywurld_Posts_By_Day/Day_13/Post_01_0800_Instagram-and-Faceboo
+ k-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slide_3.png\, 
+ Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Business Suite 
+ → Create post → paste this text\, upload the media above\, schedule fo
+ r this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 13 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 13 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D13-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261031T123000
+DTEND;TZID=Africa/Lagos:20261031T124500
+SUMMARY:FB 12:30 · Short video · Day 13 (CORE)
+DESCRIPTION:Phone check\n\nCaption:\nMessage PAGE on WhatsApp: 0905 069 083
+ 7\nThe One-Offer Landing Page Kit: ₦5\,000. Do-it-yourself\, no guarante
+ ed results.\n\nOn-screen text:\n- Check it on your phone\n- Readable? Tapp
+ able?\n- Does WhatsApp open?\n- 20-point checklist · ₦5\,000\n- Message
+  PAGE on WhatsApp\n\nVoiceover script (19 seconds\, warm\, calm\, human pa
+ ce):\nBefore you share your page\, check it on your phone. Is the text eas
+ y to read? Are the buttons big enough? Does the WhatsApp button open Whats
+ App? The One-Offer Landing Page Kit has a twenty-point pre-launch checklis
+ t so you do not forget the basics. Five thousand naira. Message PAGE on Wh
+ atsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusinessNigeria #La
+ gosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_13/Post_04_12
+ 30_Instagram-Reel-and-Facebook-video_Short-video → Video.mp4\n[HOW] Open
+  Meta Business Suite → Create post → paste this text\, upload the medi
+ a above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 13 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 13 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D13-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261031T150000
+DTEND;TZID=Africa/Lagos:20261031T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 13 (CORE)
+DESCRIPTION:Honest answer: no. The One-Offer Landing Page Kit is do-it-your
+ self: guide\, copy template\, HTML starter and checklist.\n\nWe do not bui
+ ld or host your page as part of the ₦5\,000. A custom landing page is a 
+ separate paid project\, with a written quote.\n\nIf you want to learn and 
+ do it yourself\, this is for you. ₦5\,000. Message PAGE on WhatsApp: 090
+ 5 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_13/Post_06_1500_Facebook
+ -feed_Honest-answer-objection-post → Image.png\n[HOW] Open Meta Business
+  Suite → Create post → paste this text\, upload the media above\, sche
+ dule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 13 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 13 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D13-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261031T200000
+DTEND;TZID=Africa/Lagos:20261031T201500
+SUMMARY:FB 20:00 · Second feed post · Day 13 (optional)
+DESCRIPTION:1. Headline\n2. Short promise\n3. Who it is for\n4. What you ge
+ t\n5. How it works\n6. Proof (only real proof)\n7. Price\n8. FAQ\n9. One c
+ lear call to action\n\nThe One-Offer Landing Page Kit explains each\, with
+  prompts and a worked example. ₦5\,000. Message PAGE on WhatsApp: 0905 0
+ 69 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_13/Post_10_2000_Instagram-a
+ nd-Facebook-feed_Second-feed-post → Image.png\n[HOW] Open Meta Business 
+ Suite → Create post → paste this text\, upload the media above\, sched
+ ule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 13 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 13 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D14-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261101T080000
+DTEND;TZID=Africa/Lagos:20261101T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 14 (CORE)
+DESCRIPTION:Profile checklist: the basics\n\nSix things to get right first.
+ \n\nLagos Local Visibility Starter\, ₦5\,000. Message LOCAL on WhatsApp:
+  0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_14/Post_01_0800_Inst
+ agram-and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png
+ \, Slide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta 
+ Business Suite → Create post → paste this text\, upload the media abov
+ e\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 14 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 14 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D14-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261101T123000
+DTEND;TZID=Africa/Lagos:20261101T124500
+SUMMARY:FB 12:30 · Short video · Day 14 (CORE)
+DESCRIPTION:Reviews\n\nCaption:\nMessage LOCAL on WhatsApp: 0905 069 0837\n
+ The Lagos Local Visibility Starter: ₦5\,000. Do-it-yourself\, no guarant
+ eed results.\n\nOn-screen text:\n- Reviews need an ask\n- By name · right
+  after · one tap\n- Never pay · never fake\n- 12 scripts · ₦5\,000\n-
+  Message LOCAL on WhatsApp\n\nVoiceover script (19 seconds\, warm\, calm\,
+  human pace):\nHappy customers rarely leave reviews unless you ask. Ask th
+ em by name\, right after a good delivery\, and send the link so it takes o
+ ne tap. Never pay for reviews\, and never write your own. The Lagos Local 
+ Visibility Starter includes twelve review scripts. Five thousand naira. Me
+ ssage LOCAL on WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBu
+ sinessNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/
+ Day_14/Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video → Vide
+ o.mp4\n[HOW] Open Meta Business Suite → Create post → paste this text\
+ , upload the media above\, schedule for this date/time (Africa/Lagos). Or 
+ post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 14 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 14 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D14-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261101T150000
+DTEND;TZID=Africa/Lagos:20261101T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 14 (CORE)
+DESCRIPTION:The examples are Lagos-based\, because that is where the Easywu
+ rld team is. The method works for any Nigerian town: profile\, titles\, re
+ views.\n\nYou swap the area names.\n\nLagos Local Visibility Starter\, ₦
+ 5\,000. Message LOCAL on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Pos
+ ts_By_Day/Day_14/Post_06_1500_Facebook-feed_Honest-answer-objection-post 
+ → Image.png\n[HOW] Open Meta Business Suite → Create post → paste th
+ is text\, upload the media above\, schedule for this date/time (Africa/Lag
+ os). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 14 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 14 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D14-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261101T200000
+DTEND;TZID=Africa/Lagos:20261101T201500
+SUMMARY:FB 20:00 · Second feed post · Day 14 (optional)
+DESCRIPTION:A half-filled profile makes customers guess.\n\nCheck you have:
+ \n- Correct category\n- Hours (including holidays)\n- Phone and WhatsApp n
+ umber\n- Services or products listed\n- Real photos\n- A clear description
+ \n\nThe Lagos Local Visibility Starter includes a complete setup checklist
+ . ₦5\,000. Message LOCAL on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurl
+ d_Posts_By_Day/Day_14/Post_10_2000_Instagram-and-Facebook-feed_Second-feed
+ -post → Image.png\n[HOW] Open Meta Business Suite → Create post → pa
+ ste this text\, upload the media above\, schedule for this date/time (Afri
+ ca/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 14 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 14 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D15-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261102T080000
+DTEND;TZID=Africa/Lagos:20261102T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 15 (CORE)
+DESCRIPTION:Five customer interviews\n\nHow to learn from real customers.\n
+ \nClear Message Workbook\, ₦5\,000. Message MESSAGE on WhatsApp: 0905 06
+ 9 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_15/Post_01_0800_Instagram-an
+ d-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slide
+ _3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Business
+  Suite → Create post → paste this text\, upload the media above\, sche
+ dule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 15 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 15 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D15-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261102T123000
+DTEND;TZID=Africa/Lagos:20261102T124500
+SUMMARY:FB 12:30 · Short video · Day 15 (CORE)
+DESCRIPTION:Ask five customers\n\nCaption:\nMessage MESSAGE on WhatsApp: 09
+ 05 069 0837\nThe Clear Message Workbook: ₦5\,000. Do-it-yourself\, no gu
+ aranteed results.\n\nOn-screen text:\n- Before you rewrite...\n- Ask 5 cus
+ tomers\n- Use their exact words\n- Interview kit inside · ₦5\,000\n- Me
+ ssage MESSAGE on WhatsApp\n\nVoiceover script (21 seconds\, warm\, calm\, 
+ human pace):\nBefore you change your bio\, your website or your pitch\, ta
+ lk to five real customers. Ten minutes each. Ask what made them look\, and
+  what almost stopped them. Write down their exact words\, and use them. Th
+ e Clear Message Workbook includes the interview kit. Five thousand naira. 
+ Message MESSAGE on WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #Sma
+ llBusinessNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_
+ Day/Day_15/Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video → 
+ Video.mp4\n[HOW] Open Meta Business Suite → Create post → paste this t
+ ext\, upload the media above\, schedule for this date/time (Africa/Lagos).
+  Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 15 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 15 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D15-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261102T150000
+DTEND;TZID=Africa/Lagos:20261102T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 15 (CORE)
+DESCRIPTION:Straight answer: no promises.\n\nThe Clear Message Workbook hel
+ ps you say clearly who you serve and why you are different\, so your websi
+ te\, bio and posts are easier to understand. Whether that brings more lead
+ s depends on many things.\n\n₦5\,000. Message MESSAGE on WhatsApp: 0905 
+ 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_15/Post_06_1500_Facebook-f
+ eed_Honest-answer-objection-post → Image.png\n[HOW] Open Meta Business S
+ uite → Create post → paste this text\, upload the media above\, schedu
+ le for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 15 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 15 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D15-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261102T200000
+DTEND;TZID=Africa/Lagos:20261102T201500
+SUMMARY:FB 20:00 · Second feed post · Day 15 (optional)
+DESCRIPTION:Before you change your bio\, your website or your pitch\, talk 
+ to five real customers for ten minutes each.\n\nAsk:\n- What made you look
+  for this?\n- What almost stopped you from buying?\n- How would you descri
+ be us to a friend?\n\nWrite down their exact words and use them.\n\nThe Cl
+ ear Message Workbook includes a 15-question interview kit and a notes tabl
+ e. ₦5\,000. Message MESSAGE on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easyw
+ urld_Posts_By_Day/Day_15/Post_10_2000_Instagram-and-Facebook-feed_Second-f
+ eed-post → Image.png\n[HOW] Open Meta Business Suite → Create post →
+  paste this text\, upload the media above\, schedule for this date/time (A
+ frica/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 15 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 15 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D16-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261103T080000
+DTEND;TZID=Africa/Lagos:20261103T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 16 (CORE)
+DESCRIPTION:Safe use of AI in your business\n\nA few simple rules.\n\nEvery
+ day AI Prompt Desk\, ₦5\,000. Message PROMPTS on WhatsApp: 0905 069 0837
+ .\n\n[MEDIA] Easywurld_Posts_By_Day/Day_16/Post_01_0800_Instagram-and-Face
+ book-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slide_3.png
+ \, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Business Suite
+  → Create post → paste this text\, upload the media above\, schedule f
+ or this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 16 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 16 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D16-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261103T123000
+DTEND;TZID=Africa/Lagos:20261103T124500
+SUMMARY:FB 12:30 · Short video · Day 16 (CORE)
+DESCRIPTION:Never paste\n\nCaption:\nMessage PROMPTS on WhatsApp: 0905 069 
+ 0837\nThe Everyday AI Prompt Desk: ₦5\,000. Do-it-yourself\, no guarante
+ ed results.\n\nOn-screen text:\n- Before you paste...\n- Passwords? Bank d
+ etails?\n- Customers’ private data?\n- 12-check review list · ₦5\,000
+ \n- Message PROMPTS on WhatsApp\n\nVoiceover script (21 seconds\, warm\, c
+ alm\, human pace):\nBefore you paste anything into an AI tool\, ask yourse
+ lf\, would I be happy if someone else saw this? Never paste passwords\, ba
+ nk details\, or customers' private information. The Everyday AI Prompt Des
+ k includes a never-paste list and a twelve-point review checklist. Five th
+ ousand naira. Message PROMPTS on WhatsApp.\n\nSuggested hashtags: #Nigeria
+ nBusiness #SmallBusinessNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easyw
+ urld_Posts_By_Day/Day_16/Post_04_1230_Instagram-Reel-and-Facebook-video_Sh
+ ort-video → Video.mp4\n[HOW] Open Meta Business Suite → Create post 
+ → paste this text\, upload the media above\, schedule for this date/time
+  (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 16 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 16 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D16-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261103T150000
+DTEND;TZID=Africa/Lagos:20261103T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 16 (CORE)
+DESCRIPTION:AI can speed up first drafts of captions\, replies and document
+ s. It cannot know your customers\, your prices or your standards.\n\nThe P
+ rompt Desk helps you use it as an assistant\, with safe-use rules and a re
+ view checklist. You stay in charge.\n\n₦5\,000. Message PROMPTS on Whats
+ App: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_16/Post_06_1500_
+ Facebook-feed_Honest-answer-objection-post → Image.png\n[HOW] Open Meta 
+ Business Suite → Create post → paste this text\, upload the media abov
+ e\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 16 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 16 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D16-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261103T200000
+DTEND;TZID=Africa/Lagos:20261103T201500
+SUMMARY:FB 20:00 · Second feed post · Day 16 (optional)
+DESCRIPTION:Before you paste anything into an AI tool\, stop and ask: would
+  I be happy if this were seen by someone else?\n\nNever paste:\n- Password
+ s or PINs\n- Bank or card details\n- Customers’ private details\n- Confi
+ dential contracts\n\nThe Prompt Desk includes a never-paste list and a 12-
+ check review list. ₦5\,000. Message PROMPTS on WhatsApp: 0905 069 0837.\
+ n\n[MEDIA] Easywurld_Posts_By_Day/Day_16/Post_10_2000_Instagram-and-Facebo
+ ok-feed_Second-feed-post → Image.png\n[HOW] Open Meta Business Suite →
+  Create post → paste this text\, upload the media above\, schedule for t
+ his date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 16 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 16 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D17-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261104T080000
+DTEND;TZID=Africa/Lagos:20261104T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 17 (CORE)
+DESCRIPTION:Quote vs invoice vs proposal\n\nThree documents\, three jobs.\n
+ \nProposal & Report Template Pack\, ₦5\,000. Message TEMPLATES on WhatsA
+ pp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_17/Post_01_0800_I
+ nstagram-and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.
+ png\, Slide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Me
+ ta Business Suite → Create post → paste this text\, upload the media a
+ bove\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 17 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 17 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D17-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261104T123000
+DTEND;TZID=Africa/Lagos:20261104T124500
+SUMMARY:FB 12:30 · Short video · Day 17 (CORE)
+DESCRIPTION:Price options\n\nCaption:\nMessage TEMPLATES on WhatsApp: 0905 
+ 069 0837\nThe Proposal & Report Template Pack: ₦5\,000. Do-it-yourself\,
+  no guaranteed results.\n\nOn-screen text:\n- One number = yes or no\n- Th
+ ree clear options\n- Totals calculate for you\n- Workbook included · ₦5
+ \,000\n- Message TEMPLATES on WhatsApp\n\nVoiceover script (20 seconds\, w
+ arm\, calm\, human pace):\nOne big number invites one answer. Yes or no. T
+ ry three options with clear differences\, so people can choose what suits 
+ them. The Proposal and Report Template Pack includes a quote and invoice w
+ orkbook\, with automatic totals and an editable tax rate. Five thousand na
+ ira. Message TEMPLATES on WhatsApp.\n\nSuggested hashtags: #NigerianBusine
+ ss #SmallBusinessNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Po
+ sts_By_Day/Day_17/Post_04_1230_Instagram-Reel-and-Facebook-video_Short-vid
+ eo → Video.mp4\n[HOW] Open Meta Business Suite → Create post → paste
+  this text\, upload the media above\, schedule for this date/time (Africa/
+ Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 17 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 17 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D17-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261104T150000
+DTEND;TZID=Africa/Lagos:20261104T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 17 (CORE)
+DESCRIPTION:Tax rules vary by business. The Quote and Invoice Workbook has 
+ an editable tax-rate cell\, so you can set 0% or the rate that applies to 
+ you.\n\nPlease confirm what applies to your business with a qualified prof
+ essional.\n\nProposal & Report Template Pack\, ₦5\,000. Message TEMPLATE
+ S on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_17/Pos
+ t_06_1500_Facebook-feed_Honest-answer-objection-post → Image.png\n[HOW] 
+ Open Meta Business Suite → Create post → paste this text\, upload the 
+ media above\, schedule for this date/time (Africa/Lagos). Or post live now
+ .
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 17 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 17 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D17-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261104T200000
+DTEND;TZID=Africa/Lagos:20261104T201500
+SUMMARY:FB 20:00 · Second feed post · Day 17 (optional)
+DESCRIPTION:One big number invites one answer: yes or no.\n\nTry three opti
+ ons (Basic\, Standard\, Premium) with clear differences. People can choose
+  a level that suits them\, and you can see what they value.\n\nThe Pack in
+ cludes a quote and invoice workbook with automatic totals and an editable 
+ tax rate. ₦5\,000. Message TEMPLATES on WhatsApp: 0905 069 0837.\n\n[MED
+ IA] Easywurld_Posts_By_Day/Day_17/Post_10_2000_Instagram-and-Facebook-feed
+ _Second-feed-post → Image.png\n[HOW] Open Meta Business Suite → Create
+  post → paste this text\, upload the media above\, schedule for this dat
+ e/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 17 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 17 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D18-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261105T080000
+DTEND;TZID=Africa/Lagos:20261105T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 18 (CORE)
+DESCRIPTION:Hiring a web designer\n\nQuestions and red flags.\n\nWebsite La
+ unch & Care Handbook\, ₦5\,000. Message LAUNCH on WhatsApp: 0905 069 083
+ 7.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_18/Post_01_0800_Instagram-and-Fac
+ ebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slide_3.pn
+ g\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Business Suit
+ e → Create post → paste this text\, upload the media above\, schedule 
+ for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 18 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 18 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D18-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261105T123000
+DTEND;TZID=Africa/Lagos:20261105T124500
+SUMMARY:FB 12:30 · Short video · Day 18 (CORE)
+DESCRIPTION:Monthly check\n\nCaption:\nMessage LAUNCH on WhatsApp: 0905 069
+  0837\nThe Website Launch & Care Handbook: ₦5\,000. Do-it-yourself\, no 
+ guaranteed results.\n\nOn-screen text:\n- 30 minutes a month\n- Forms · l
+ inks · backups\n- Renewals coming up?\n- Care log inside · ₦5\,000\n- 
+ Message LAUNCH on WhatsApp\n\nVoiceover script (19 seconds\, warm\, calm\,
+  human pace):\nWebsites need small regular care. Once a month\, test your 
+ contact form and WhatsApp button\, check for broken links\, make sure back
+ ups work and look at upcoming renewals. Thirty minutes. The Website Launch
+  and Care Handbook has a monthly care log. Five thousand naira. Message LA
+ UNCH on WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusinessN
+ igeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_18/
+ Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video → Video.mp4\n
+ [HOW] Open Meta Business Suite → Create post → paste this text\, uploa
+ d the media above\, schedule for this date/time (Africa/Lagos). Or post li
+ ve now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 18 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 18 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D18-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261105T150000
+DTEND;TZID=Africa/Lagos:20261105T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 18 (CORE)
+DESCRIPTION:No. The Website Launch & Care Handbook does not include hosting
+ \, a domain or a website builder.\n\nIt helps you understand what to buy\,
+  who should own it and what it should cost to check. Prices and plans chan
+ ge\, so check current terms.\n\n₦5\,000. Message LAUNCH on WhatsApp: 090
+ 5 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_18/Post_06_1500_Facebook
+ -feed_Honest-answer-objection-post → Image.png\n[HOW] Open Meta Business
+  Suite → Create post → paste this text\, upload the media above\, sche
+ dule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 18 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 18 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D18-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261105T200000
+DTEND;TZID=Africa/Lagos:20261105T201500
+SUMMARY:FB 20:00 · Second feed post · Day 18 (optional)
+DESCRIPTION:Websites need small\, regular care.\n\nMonthly:\n- Test the con
+ tact form and WhatsApp button\n- Check for broken links\n- Make sure backu
+ ps are working\n- Look at upcoming renewals\n- Update outdated information
+ \n\nThe Handbook includes a monthly care log. ₦5\,000. Message LAUNCH on
+  WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_18/Post_10
+ _2000_Instagram-and-Facebook-feed_Second-feed-post → Image.png\n[HOW] Op
+ en Meta Business Suite → Create post → paste this text\, upload the me
+ dia above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 18 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 18 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D19-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261106T080000
+DTEND;TZID=Africa/Lagos:20261106T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 19 (CORE)
+DESCRIPTION:What is inside the Playbook\n\nA look inside the four files.\n\
+ nChat-to-Customer Playbook\, ₦5\,000. Message PLAYBOOK on WhatsApp: 0905
+  069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_19/Post_01_0800_Instagram
+ -and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Sl
+ ide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Busin
+ ess Suite → Create post → paste this text\, upload the media above\, s
+ chedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 19 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 19 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D19-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261106T123000
+DTEND;TZID=Africa/Lagos:20261106T124500
+SUMMARY:FB 12:30 · Short video · Day 19 (CORE)
+DESCRIPTION:Your chat is your shop\n\nCaption:\nMessage PLAYBOOK on WhatsAp
+ p: 0905 069 0837\nThe Chat-to-Customer Playbook: ₦5\,000. Do-it-yourself
+ \, no guaranteed results.\n\nOn-screen text:\n- Your chat = your shop coun
+ ter\n- Greet · listen · quote · close\n- Playbook + scripts + tracker\n
+ - ₦5\,000 · no sales promises\n- Message PLAYBOOK on WhatsApp\n\nVoiceo
+ ver script (24 seconds\, warm\, calm\, human pace):\nFor many small busine
+ sses\, the chat is the shop counter. When someone walks in\, you greet the
+ m\, listen\, and make it easy to pay. Chats deserve the same care. The Cha
+ t-to-Customer Playbook is a simple flow\, thirty-six scripts and a tracker
+ . It will not promise sales\, but it helps you keep the ones you already h
+ ave. Five thousand naira. Message PLAYBOOK on WhatsApp.\n\nSuggested hasht
+ ags: #NigerianBusiness #SmallBusinessNigeria #LagosBusiness #Easywurld\n\n
+ [MEDIA] Easywurld_Posts_By_Day/Day_19/Post_04_1230_Instagram-Reel-and-Face
+ book-video_Short-video → Video.mp4\n[HOW] Open Meta Business Suite → C
+ reate post → paste this text\, upload the media above\, schedule for thi
+ s date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 19 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 19 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D19-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261106T150000
+DTEND;TZID=Africa/Lagos:20261106T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 19 (CORE)
+DESCRIPTION:Straight answer: no playbook can promise sales.\n\nWhat the Cha
+ t-to-Customer Playbook does: gives you a clear reply flow\, 36 scripts and
+  a tracker\, so fewer enquiries are lost to slow replies or forgotten foll
+ ow-ups.\n\nIt works on the enquiries you already get. Results depend on yo
+ ur product\, your price and whether you use it.\n\n₦5\,000. Message PLAY
+ BOOK on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_19/
+ Post_06_1500_Facebook-feed_Honest-answer-objection-post → Image.png\n[HO
+ W] Open Meta Business Suite → Create post → paste this text\, upload t
+ he media above\, schedule for this date/time (Africa/Lagos). Or post live 
+ now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 19 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 19 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D19-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261106T200000
+DTEND;TZID=Africa/Lagos:20261106T201500
+SUMMARY:FB 20:00 · Second feed post · Day 19 (optional)
+DESCRIPTION:“Hi” is not a reply. Neither is “Yes available.”\n\nA b
+ etter first reply:\n- Greet and use their name\n- Answer the question they
+  asked\n- Ask one question to learn what they need\n\nIt takes ten seconds
+  longer and makes you sound like a business people can trust.\n\nThe Chat-
+ to-Customer Playbook includes greeting\, price\, delivery and payment scri
+ pts you can edit into your own voice. ₦5\,000. Message PLAYBOOK on Whats
+ App: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_19/Post_10_2000_
+ Instagram-and-Facebook-feed_Second-feed-post → Image.png\n[HOW] Open Met
+ a Business Suite → Create post → paste this text\, upload the media ab
+ ove\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 19 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 19 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D20-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261107T080000
+DTEND;TZID=Africa/Lagos:20261107T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 20 (CORE)
+DESCRIPTION:Before and after: a headline\n\nFictional example of a headline
+  rewrite.\n\nClear Homepage Blueprint\, ₦5\,000. Message CLEAR on WhatsA
+ pp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_20/Post_01_0800_I
+ nstagram-and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.
+ png\, Slide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Me
+ ta Business Suite → Create post → paste this text\, upload the media a
+ bove\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 20 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 20 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D20-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261107T123000
+DTEND;TZID=Africa/Lagos:20261107T124500
+SUMMARY:FB 12:30 · Short video · Day 20 (CORE)
+DESCRIPTION:One button\n\nCaption:\nMessage CLEAR on WhatsApp: 0905 069 083
+ 7\nThe Clear Homepage Blueprint: ₦5\,000. Do-it-yourself\, no guaranteed
+  results.\n\nOn-screen text:\n- 6 buttons?\n- Pick one main action\n- 12 C
+ TA options inside\n- ₦5\,000 · no guarantees\n- Message CLEAR on WhatsA
+ pp\n\nVoiceover script (23 seconds\, warm\, calm\, human pace):\nIf your h
+ omepage has six different buttons\, visitors may not click any. Pick one m
+ ain action\, call\, WhatsApp\, book or buy\, and repeat it. The Clear Home
+ page Blueprint gives you twelve call-to-action options to choose from. It 
+ will not guarantee more enquiries\, but it makes your next step obvious. F
+ ive thousand naira. Message CLEAR on WhatsApp.\n\nSuggested hashtags: #Nig
+ erianBusiness #SmallBusinessNigeria #LagosBusiness #Easywurld\n\n[MEDIA] E
+ asywurld_Posts_By_Day/Day_20/Post_04_1230_Instagram-Reel-and-Facebook-vide
+ o_Short-video → Video.mp4\n[HOW] Open Meta Business Suite → Create pos
+ t → paste this text\, upload the media above\, schedule for this date/ti
+ me (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 20 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 20 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D20-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261107T150000
+DTEND;TZID=Africa/Lagos:20261107T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 20 (CORE)
+DESCRIPTION:Good. Most small business sites do not need rebuilding. They ne
+ ed clearer words.\n\nThe 20-Point Homepage Audit Scorecard lets you score 
+ your own page\, or a competitor’s\, in about 20 minutes and shows you wh
+ at to fix first.\n\nIt will not guarantee more enquiries. It will show you
+  where visitors may be getting lost.\n\nThe Clear Homepage Blueprint\, ₦
+ 5\,000. Message CLEAR on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Pos
+ ts_By_Day/Day_20/Post_06_1500_Facebook-feed_Honest-answer-objection-post 
+ → Image.png\n[HOW] Open Meta Business Suite → Create post → paste th
+ is text\, upload the media above\, schedule for this date/time (Africa/Lag
+ os). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 20 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 20 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D20-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261107T200000
+DTEND;TZID=Africa/Lagos:20261107T201500
+SUMMARY:FB 20:00 · Second feed post · Day 20 (optional)
+DESCRIPTION:Count the buttons on your homepage. If there are six different 
+ calls to action\, a visitor does not know where to go.\n\nPick one main ac
+ tion: Call\, WhatsApp\, Book or Buy. Repeat it. Make the other options qui
+ eter.\n\nThe Blueprint includes 12 call-to-action options to choose from. 
+ ₦5\,000. Message CLEAR on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_
+ Posts_By_Day/Day_20/Post_10_2000_Instagram-and-Facebook-feed_Second-feed-p
+ ost → Image.png\n[HOW] Open Meta Business Suite → Create post → past
+ e this text\, upload the media above\, schedule for this date/time (Africa
+ /Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 20 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 20 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D21-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261108T080000
+DTEND;TZID=Africa/Lagos:20261108T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 21 (CORE)
+DESCRIPTION:What is inside the Content Engine\n\nFour files for a one-perso
+ n content system.\n\n30-Day Content Engine\, ₦5\,000. Message ENGINE on 
+ WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_21/Post_01_
+ 0800_Instagram-and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Sl
+ ide_2.png\, Slide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] O
+ pen Meta Business Suite → Create post → paste this text\, upload the m
+ edia above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 21 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 21 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D21-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261108T123000
+DTEND;TZID=Africa/Lagos:20261108T124500
+SUMMARY:FB 12:30 · Short video · Day 21 (CORE)
+DESCRIPTION:Hooks\n\nCaption:\nMessage ENGINE on WhatsApp: 0905 069 0837\nT
+ he 30-Day Content Engine: ₦5\,000. Do-it-yourself\, no guaranteed result
+ s.\n\nOn-screen text:\n- One line to win attention\n- A number · a mistak
+ e · a question\n- 25 hooks · 8 frameworks · 15 CTAs\n- ₦5\,000\n- Mes
+ sage ENGINE on WhatsApp\n\nVoiceover script (23 seconds\, warm\, calm\, hu
+ man pace):\nOn a feed you get about one line. A good hook can be a number\
+ , a mistake\, or a question. Ever sent a quote and heard nothing? That alr
+ eady makes you curious. The swipe file in the Thirty-Day Content Engine ha
+ s twenty-five hook formulas\, eight caption frameworks and fifteen calls t
+ o action. Five thousand naira. Message ENGINE on WhatsApp.\n\nSuggested ha
+ shtags: #NigerianBusiness #SmallBusinessNigeria #LagosBusiness #Easywurld\
+ n\n[MEDIA] Easywurld_Posts_By_Day/Day_21/Post_04_1230_Instagram-Reel-and-F
+ acebook-video_Short-video → Video.mp4\n[HOW] Open Meta Business Suite 
+ → Create post → paste this text\, upload the media above\, schedule fo
+ r this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 21 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 21 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D21-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261108T150000
+DTEND;TZID=Africa/Lagos:20261108T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 21 (CORE)
+DESCRIPTION:Honest answer: no tool or plan can promise followers\, reach or
+  sales. Platforms change.\n\nWhat the 30-Day Content Engine does: removes 
+ the daily “what do I post?” panic with a system\, 60 ideas and a calen
+ dar.\n\nConsistency is in your hands. Results are not guaranteed.\n\n₦5\
+ ,000. Message ENGINE on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Post
+ s_By_Day/Day_21/Post_06_1500_Facebook-feed_Honest-answer-objection-post 
+ → Image.png\n[HOW] Open Meta Business Suite → Create post → paste th
+ is text\, upload the media above\, schedule for this date/time (Africa/Lag
+ os). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 21 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 21 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D21-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261108T200000
+DTEND;TZID=Africa/Lagos:20261108T201500
+SUMMARY:FB 20:00 · Second feed post · Day 21 (optional)
+DESCRIPTION:On a feed\, you get about one line before someone scrolls.\n\nA
+  few hook shapes:\n- A mistake: “Stop doing this with your price list.
+ ”\n- A number: “3 things I check before every order.”\n- A question:
+  “Ever sent a quote and heard nothing?”\n\nThe Content Engine swipe fi
+ le has 25 hook formulas\, 8 caption frameworks and 15 calls to action. ₦
+ 5\,000. Message ENGINE on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Po
+ sts_By_Day/Day_21/Post_10_2000_Instagram-and-Facebook-feed_Second-feed-pos
+ t → Image.png\n[HOW] Open Meta Business Suite → Create post → paste 
+ this text\, upload the media above\, schedule for this date/time (Africa/L
+ agos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 21 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 21 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D22-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261109T080000
+DTEND;TZID=Africa/Lagos:20261109T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 22 (CORE)
+DESCRIPTION:What is inside the Landing Page Kit\n\nFour files to plan\, wri
+ te and launch.\n\nOne-Offer Landing Page Kit\, ₦5\,000. Message PAGE on 
+ WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_22/Post_01_
+ 0800_Instagram-and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Sl
+ ide_2.png\, Slide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] O
+ pen Meta Business Suite → Create post → paste this text\, upload the m
+ edia above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 22 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 22 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D22-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261109T123000
+DTEND;TZID=Africa/Lagos:20261109T124500
+SUMMARY:FB 12:30 · Short video · Day 22 (CORE)
+DESCRIPTION:Honest scope\n\nCaption:\nMessage PAGE on WhatsApp: 0905 069 08
+ 37\nThe One-Offer Landing Page Kit: ₦5\,000. Do-it-yourself\, no guarant
+ eed results.\n\nOn-screen text:\n- What it is\n- Guide · template · HTML
+  · checklist\n- What it is not\n- No build · no hosting · no guarantees
+ \n- Message PAGE on WhatsApp\n\nVoiceover script (23 seconds\, warm\, calm
+ \, human pace):\nHere is what the One-Offer Landing Page Kit is. A guide\,
+  a copy template with a worked example\, an editable HTML page and a check
+ list. Here is what it is not. We do not build or host the page\, and we ca
+ nnot guarantee sales. If you want to do it yourself\, it is five thousand 
+ naira. Message PAGE on WhatsApp.\n\nSuggested hashtags: #NigerianBusiness 
+ #SmallBusinessNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts
+ _By_Day/Day_22/Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video 
+ → Video.mp4\n[HOW] Open Meta Business Suite → Create post → paste th
+ is text\, upload the media above\, schedule for this date/time (Africa/Lag
+ os). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 22 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 22 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D22-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261109T150000
+DTEND;TZID=Africa/Lagos:20261109T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 22 (CORE)
+DESCRIPTION:Not to get started. The HTML starter has comments on every sect
+ ion. You change the words\, and change the colours in five lines.\n\nTo pu
+ blish you need a host (several offer free plans) and\, if you want your ow
+ n address\, a domain name. Those costs are yours.\n\nOne-Offer Landing Pag
+ e Kit\, ₦5\,000. Message PAGE on WhatsApp: 0905 069 0837.\n\n[MEDIA] Eas
+ ywurld_Posts_By_Day/Day_22/Post_06_1500_Facebook-feed_Honest-answer-object
+ ion-post → Image.png\n[HOW] Open Meta Business Suite → Create post →
+  paste this text\, upload the media above\, schedule for this date/time (A
+ frica/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 22 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 22 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D22-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261109T200000
+DTEND;TZID=Africa/Lagos:20261109T201500
+SUMMARY:FB 20:00 · Second feed post · Day 22 (optional)
+DESCRIPTION:Check these on your phone before you share a page:\n- Text read
+ able without zooming\n- Buttons big enough for a thumb\n- The WhatsApp but
+ ton actually opens WhatsApp\n- Images that do not take forever to load\n\n
+ The kit includes a 20-check pre-launch list and an HTML starter built to b
+ e responsive. ₦5\,000. Message PAGE on WhatsApp: 0905 069 0837.\n\n[MEDI
+ A] Easywurld_Posts_By_Day/Day_22/Post_10_2000_Instagram-and-Facebook-feed_
+ Second-feed-post → Image.png\n[HOW] Open Meta Business Suite → Create 
+ post → paste this text\, upload the media above\, schedule for this date
+ /time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 22 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 22 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D23-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261110T080000
+DTEND;TZID=Africa/Lagos:20261110T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 23 (CORE)
+DESCRIPTION:What is inside the Local Starter\n\nFour files for 30 days.\n\n
+ Lagos Local Visibility Starter\, ₦5\,000. Message LOCAL on WhatsApp: 090
+ 5 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_23/Post_01_0800_Instagra
+ m-and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, S
+ lide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Busi
+ ness Suite → Create post → paste this text\, upload the media above\, 
+ schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 23 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 23 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D23-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261110T123000
+DTEND;TZID=Africa/Lagos:20261110T124500
+SUMMARY:FB 12:30 · Short video · Day 23 (CORE)
+DESCRIPTION:Complete profile\n\nCaption:\nMessage LOCAL on WhatsApp: 0905 0
+ 69 0837\nThe Lagos Local Visibility Starter: ₦5\,000. Do-it-yourself\, n
+ o guaranteed results.\n\nOn-screen text:\n- Half-filled profile?\n- Catego
+ ry · hours · phone · photos\n- Real. Complete. True.\n- Checklist + tra
+ cker · ₦5\,000\n- Message LOCAL on WhatsApp\n\nVoiceover script (19 sec
+ onds\, warm\, calm\, human pace):\nA half-filled business profile makes cu
+ stomers guess. Check your category\, your hours\, your phone number\, your
+  services and your photos. Use real ones. The Lagos Local Visibility Start
+ er has a complete setup checklist and a tracker for thirty days. Five thou
+ sand naira. Message LOCAL on WhatsApp.\n\nSuggested hashtags: #NigerianBus
+ iness #SmallBusinessNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld
+ _Posts_By_Day/Day_23/Post_04_1230_Instagram-Reel-and-Facebook-video_Short-
+ video → Video.mp4\n[HOW] Open Meta Business Suite → Create post → pa
+ ste this text\, upload the media above\, schedule for this date/time (Afri
+ ca/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 23 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 23 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D23-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261110T150000
+DTEND;TZID=Africa/Lagos:20261110T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 23 (CORE)
+DESCRIPTION:Honest answer: no one can promise ranking\, and be careful of a
+ nyone who does.\n\nThe Lagos Local Visibility Starter helps you set up you
+ r Google Business Profile properly\, write clearer page titles and ask for
+  reviews. Search results depend on competition\, location and many other t
+ hings.\n\n₦5\,000. Message LOCAL on WhatsApp: 0905 069 0837.\n\n[MEDIA] 
+ Easywurld_Posts_By_Day/Day_23/Post_06_1500_Facebook-feed_Honest-answer-obj
+ ection-post → Image.png\n[HOW] Open Meta Business Suite → Create post 
+ → paste this text\, upload the media above\, schedule for this date/time
+  (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 23 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 23 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D23-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261110T200000
+DTEND;TZID=Africa/Lagos:20261110T201500
+SUMMARY:FB 20:00 · Second feed post · Day 23 (optional)
+DESCRIPTION:Happy customers rarely leave reviews unless asked.\n\nA good as
+ k is:\n1. Personal (use their name)\n2. Timed right after a good delivery\
+ n3. One tap away (send the link)\n\nDo not offer rewards for reviews\, and
+  never write your own.\n\nThe Starter has 12 review-request and review-rep
+ ly scripts. ₦5\,000. Message LOCAL on WhatsApp: 0905 069 0837.\n\n[MEDIA
+ ] Easywurld_Posts_By_Day/Day_23/Post_10_2000_Instagram-and-Facebook-feed_S
+ econd-feed-post → Image.png\n[HOW] Open Meta Business Suite → Create p
+ ost → paste this text\, upload the media above\, schedule for this date/
+ time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 23 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 23 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D24-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261111T080000
+DTEND;TZID=Africa/Lagos:20261111T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 24 (CORE)
+DESCRIPTION:What is inside the Message Workbook\n\nFour files to get clear.
+ \n\nClear Message Workbook\, ₦5\,000. Message MESSAGE on WhatsApp: 0905 
+ 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_24/Post_01_0800_Instagram-
+ and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Sli
+ de_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Busine
+ ss Suite → Create post → paste this text\, upload the media above\, sc
+ hedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 24 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 24 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D24-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261111T123000
+DTEND;TZID=Africa/Lagos:20261111T124500
+SUMMARY:FB 12:30 · Short video · Day 24 (CORE)
+DESCRIPTION:Not louder\, clearer\n\nCaption:\nMessage MESSAGE on WhatsApp: 
+ 0905 069 0837\nThe Clear Message Workbook: ₦5\,000. Do-it-yourself\, no 
+ guaranteed results.\n\nOn-screen text:\n- “We are the best”\n- Somethi
+ ng a customer can check\n- Find your real difference\n- Self-guided · ₦
+ 5\,000\n- Message MESSAGE on WhatsApp\n\nVoiceover script (23 seconds\, wa
+ rm\, calm\, human pace):\nWe are the best is not a difference. Every busin
+ ess says it. A difference is something a customer could check. Who you ser
+ ve\, how you work\, what you include\, what you promise and keep. The Clea
+ r Message Workbook helps you find yours. It is self-guided\, with no promi
+ ses on leads. Five thousand naira. Message MESSAGE on WhatsApp.\n\nSuggest
+ ed hashtags: #NigerianBusiness #SmallBusinessNigeria #LagosBusiness #Easyw
+ urld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_24/Post_04_1230_Instagram-Reel-
+ and-Facebook-video_Short-video → Video.mp4\n[HOW] Open Meta Business Sui
+ te → Create post → paste this text\, upload the media above\, schedule
+  for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 24 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 24 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D24-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261111T150000
+DTEND;TZID=Africa/Lagos:20261111T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 24 (CORE)
+DESCRIPTION:Honest answer: no. The Clear Message Workbook is self-guided. I
+ t does not include a consultation or a review of your answers.\n\nIt gives
+  you the questions\, a worked example and templates. You do the thinking a
+ nd the interviews.\n\n₦5\,000. Message MESSAGE on WhatsApp: 0905 069 083
+ 7.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_24/Post_06_1500_Facebook-feed_Hon
+ est-answer-objection-post → Image.png\n[HOW] Open Meta Business Suite 
+ → Create post → paste this text\, upload the media above\, schedule fo
+ r this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 24 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 24 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D24-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261111T200000
+DTEND;TZID=Africa/Lagos:20261111T201500
+SUMMARY:FB 20:00 · Second feed post · Day 24 (optional)
+DESCRIPTION:“We are the best” is not a difference. Every business says 
+ it.\n\nA difference is something a customer could check:\n- Who you serve 
+ (and who you do not)\n- How you work\n- What you include\n- What you promi
+ se\, and keep\n\nThe Clear Message Workbook helps you find yours. ₦5\,00
+ 0. Message MESSAGE on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_
+ By_Day/Day_24/Post_10_2000_Instagram-and-Facebook-feed_Second-feed-post 
+ → Image.png\n[HOW] Open Meta Business Suite → Create post → paste th
+ is text\, upload the media above\, schedule for this date/time (Africa/Lag
+ os). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 24 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 24 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D25-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261112T080000
+DTEND;TZID=Africa/Lagos:20261112T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 25 (CORE)
+DESCRIPTION:What is inside the Prompt Desk\n\nFour files.\n\nEveryday AI Pr
+ ompt Desk\, ₦5\,000. Message PROMPTS on WhatsApp: 0905 069 0837.\n\n[MED
+ IA] Easywurld_Posts_By_Day/Day_25/Post_01_0800_Instagram-and-Facebook-feed
+ _Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slide_3.png\, Slide_
+ 4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Business Suite → Crea
+ te post → paste this text\, upload the media above\, schedule for this d
+ ate/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 25 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 25 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D25-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261112T123000
+DTEND;TZID=Africa/Lagos:20261112T124500
+SUMMARY:FB 12:30 · Short video · Day 25 (CORE)
+DESCRIPTION:Check the output\n\nCaption:\nMessage PROMPTS on WhatsApp: 0905
+  069 0837\nThe Everyday AI Prompt Desk: ₦5\,000. Do-it-yourself\, no gua
+ ranteed results.\n\nOn-screen text:\n- AI can be wrong\n- Check every numb
+ er\n- Read it aloud\n- Checklist + 60 prompts · ₦5\,000\n- Message PROM
+ PTS on WhatsApp\n\nVoiceover script (21 seconds\, warm\, calm\, human pace
+ ):\nAI can write fast. It can also invent facts\, and sound very sure. Che
+ ck every number and every name before you send. Read it aloud\, and ask wh
+ ether it sounds like you. The Everyday AI Prompt Desk gives you the checkl
+ ist\, plus sixty prompts for everyday business tasks. Five thousand naira.
+  Message PROMPTS on WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #Sm
+ allBusinessNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By
+ _Day/Day_25/Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video →
+  Video.mp4\n[HOW] Open Meta Business Suite → Create post → paste this 
+ text\, upload the media above\, schedule for this date/time (Africa/Lagos)
+ . Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 25 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 25 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D25-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261112T150000
+DTEND;TZID=Africa/Lagos:20261112T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 25 (CORE)
+DESCRIPTION:No. The Everyday AI Prompt Desk is not a chatbot and does not c
+ onnect to any account.\n\nIt is a guide\, 60 copy-paste prompts\, a knowle
+ dge sheet template and a safety checklist. You use them in the AI tool you
+  already choose.\n\n₦5\,000. Message PROMPTS on WhatsApp: 0905 069 0837.
+ \n\n[MEDIA] Easywurld_Posts_By_Day/Day_25/Post_06_1500_Facebook-feed_Hones
+ t-answer-objection-post → Image.png\n[HOW] Open Meta Business Suite → 
+ Create post → paste this text\, upload the media above\, schedule for th
+ is date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 25 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 25 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D25-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261112T200000
+DTEND;TZID=Africa/Lagos:20261112T201500
+SUMMARY:FB 20:00 · Second feed post · Day 25 (optional)
+DESCRIPTION:AI tools can write quickly. They can also invent facts\, prices
+  and promises\, and sound completely sure.\n\nBefore sending:\n- Check eve
+ ry number and name\n- Remove anything you cannot back up\n- Read it aloud:
+  does it sound like you?\n\nThe Prompt Desk has a 12-check review list. 
+ ₦5\,000. Message PROMPTS on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurl
+ d_Posts_By_Day/Day_25/Post_10_2000_Instagram-and-Facebook-feed_Second-feed
+ -post → Image.png\n[HOW] Open Meta Business Suite → Create post → pa
+ ste this text\, upload the media above\, schedule for this date/time (Afri
+ ca/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 25 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 25 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D26-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261113T080000
+DTEND;TZID=Africa/Lagos:20261113T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 26 (CORE)
+DESCRIPTION:What is inside the Template Pack\n\nFour files.\n\nProposal & R
+ eport Template Pack\, ₦5\,000. Message TEMPLATES on WhatsApp: 0905 069 0
+ 837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_26/Post_01_0800_Instagram-and-F
+ acebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slide_3.
+ png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Business Su
+ ite → Create post → paste this text\, upload the media above\, schedul
+ e for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 26 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 26 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D26-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261113T123000
+DTEND;TZID=Africa/Lagos:20261113T124500
+SUMMARY:FB 12:30 · Short video · Day 26 (CORE)
+DESCRIPTION:Follow up\n\nCaption:\nMessage TEMPLATES on WhatsApp: 0905 069 
+ 0837\nThe Proposal & Report Template Pack: ₦5\,000. Do-it-yourself\, no 
+ guaranteed results.\n\nOn-screen text:\n- Silence is not no\n- Day 2 · Da
+ y 5 · Day 10\n- Short and kind\n- Pre-send checklist inside · ₦5\,000\
+ n- Message TEMPLATES on WhatsApp\n\nVoiceover script (20 seconds\, warm\, 
+ calm\, human pace):\nSilence after a proposal is not a no. Confirm they re
+ ceived it on day two. Offer to answer questions on day five. Close politel
+ y on day ten. Keep it short and kind. The guide in the Proposal and Report
+  Template Pack covers follow-up and a pre-send checklist. Five thousand na
+ ira. Message TEMPLATES on WhatsApp.\n\nSuggested hashtags: #NigerianBusine
+ ss #SmallBusinessNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Po
+ sts_By_Day/Day_26/Post_04_1230_Instagram-Reel-and-Facebook-video_Short-vid
+ eo → Video.mp4\n[HOW] Open Meta Business Suite → Create post → paste
+  this text\, upload the media above\, schedule for this date/time (Africa/
+ Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 26 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 26 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D26-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261113T150000
+DTEND;TZID=Africa/Lagos:20261113T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 26 (CORE)
+DESCRIPTION:No. The templates in the Proposal & Report Template Pack are ge
+ neral business documents\, not legal contracts.\n\nHave your terms and con
+ tracts reviewed by a qualified professional.\n\n₦5\,000. Message TEMPLAT
+ ES on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_26/Po
+ st_06_1500_Facebook-feed_Honest-answer-objection-post → Image.png\n[HOW]
+  Open Meta Business Suite → Create post → paste this text\, upload the
+  media above\, schedule for this date/time (Africa/Lagos). Or post live no
+ w.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 26 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 26 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D26-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261113T200000
+DTEND;TZID=Africa/Lagos:20261113T201500
+SUMMARY:FB 20:00 · Second feed post · Day 26 (optional)
+DESCRIPTION:After you send a proposal:\n- Day 2: confirm they received it\n
+ - Day 5: offer to answer questions\n- Day 10: polite close\n\nBe brief and
+  kind.\n\nThe Proposals and Reports Guide in the Pack covers follow-up and
+  a pre-send checklist. ₦5\,000. Message TEMPLATES on WhatsApp: 0905 069 
+ 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_26/Post_10_2000_Instagram-and-
+ Facebook-feed_Second-feed-post → Image.png\n[HOW] Open Meta Business Sui
+ te → Create post → paste this text\, upload the media above\, schedule
+  for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 26 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 26 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D27-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261114T080000
+DTEND;TZID=Africa/Lagos:20261114T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 27 (CORE)
+DESCRIPTION:What is inside the Handbook\n\nFour files.\n\nWebsite Launch & 
+ Care Handbook\, ₦5\,000. Message LAUNCH on WhatsApp: 0905 069 0837.\n\n[
+ MEDIA] Easywurld_Posts_By_Day/Day_27/Post_01_0800_Instagram-and-Facebook-f
+ eed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slide_3.png\, Sli
+ de_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Business Suite → C
+ reate post → paste this text\, upload the media above\, schedule for thi
+ s date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 27 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 27 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D27-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261114T123000
+DTEND;TZID=Africa/Lagos:20261114T124500
+SUMMARY:FB 12:30 · Short video · Day 27 (CORE)
+DESCRIPTION:Write a brief\n\nCaption:\nMessage LAUNCH on WhatsApp: 0905 069
+  0837\nThe Website Launch & Care Handbook: ₦5\,000. Do-it-yourself\, no 
+ guaranteed results.\n\nOn-screen text:\n- Know what you want\n- Goal · Au
+ dience · Pages\n- Content · Budget\n- Brief template · ₦5\,000\n- Mes
+ sage LAUNCH on WhatsApp\n\nVoiceover script (21 seconds\, warm\, calm\, hu
+ man pace):\nYou get better quotes when you know what you want. Write a sho
+ rt brief. Your goal\, your audience\, the pages you need\, the content you
+  have\, and a budget range. Then every designer quotes the same job. The W
+ ebsite Launch and Care Handbook includes a fill-in planning brief. Five th
+ ousand naira. Message LAUNCH on WhatsApp.\n\nSuggested hashtags: #Nigerian
+ Business #SmallBusinessNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywu
+ rld_Posts_By_Day/Day_27/Post_04_1230_Instagram-Reel-and-Facebook-video_Sho
+ rt-video → Video.mp4\n[HOW] Open Meta Business Suite → Create post →
+  paste this text\, upload the media above\, schedule for this date/time (A
+ frica/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 27 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 27 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D27-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261114T150000
+DTEND;TZID=Africa/Lagos:20261114T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 27 (CORE)
+DESCRIPTION:Honest answer: not with this ₦5\,000 Handbook. It is a guide 
+ and set of tools: planning\, a brief\, a launch tracker\, a care routine a
+ nd hiring questions.\n\nIf you want Easywurld to build or maintain your si
+ te\, that is a separate paid project with a written quote.\n\nMessage LAUN
+ CH on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_27/Po
+ st_06_1500_Facebook-feed_Honest-answer-objection-post → Image.png\n[HOW]
+  Open Meta Business Suite → Create post → paste this text\, upload the
+  media above\, schedule for this date/time (Africa/Lagos). Or post live no
+ w.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 27 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 27 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D27-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261114T200000
+DTEND;TZID=Africa/Lagos:20261114T201500
+SUMMARY:FB 20:00 · Second feed post · Day 27 (optional)
+DESCRIPTION:A clear brief covers:\n- Goal of the site\n- Who it is for\n- P
+ ages needed\n- Content you have\n- Features you need\n- Budget range\n\nDe
+ signers can then quote the same job and you can compare.\n\nThe Website La
+ unch & Care Handbook includes a fill-in planning brief. ₦5\,000. Message
+  LAUNCH on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_
+ 27/Post_10_2000_Instagram-and-Facebook-feed_Second-feed-post → Image.png
+ \n[HOW] Open Meta Business Suite → Create post → paste this text\, upl
+ oad the media above\, schedule for this date/time (Africa/Lagos). Or post 
+ live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 27 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 27 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D28-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261115T080000
+DTEND;TZID=Africa/Lagos:20261115T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 28 (CORE)
+DESCRIPTION:Five stages of a chat sale\n\nSwipe through the five stages eve
+ ry chat goes through. The Playbook turns each into scripts.\n\nChat-to-Cus
+ tomer Playbook\, ₦5\,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.\n
+ \n[MEDIA] Easywurld_Posts_By_Day/Day_28/Post_01_0800_Instagram-and-Faceboo
+ k-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slide_3.png\, 
+ Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Business Suite 
+ → Create post → paste this text\, upload the media above\, schedule fo
+ r this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 28 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 28 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D28-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261115T123000
+DTEND;TZID=Africa/Lagos:20261115T124500
+SUMMARY:FB 12:30 · Short video · Day 28 (CORE)
+DESCRIPTION:Price question\n\nCaption:\nMessage PLAYBOOK on WhatsApp: 0905 
+ 069 0837\nThe Chat-to-Customer Playbook: ₦5\,000. Do-it-yourself\, no gu
+ aranteed results.\n\nOn-screen text:\n- How much?\n- Price + what it inclu
+ des\n- + one next-step question\n- 36 scripts · ₦5\,000\n- Message PLAY
+ BOOK on WhatsApp\n\nVoiceover script (25 seconds\, warm\, calm\, human pac
+ e):\nSomeone asks how much\, you send a number\, and they disappear. It ha
+ ppens to a lot of small businesses. Try this. Give the price\, say what it
+  includes\, and ask one question that moves things forward. That small cha
+ nge turns a price into a conversation. The Chat-to-Customer Playbook has t
+ hirty-six scripts like this\, for five thousand naira. Message the word PL
+ AYBOOK on WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusines
+ sNigeria #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_2
+ 8/Post_04_1230_Instagram-Reel-and-Facebook-video_Short-video → Video.mp4
+ \n[HOW] Open Meta Business Suite → Create post → paste this text\, upl
+ oad the media above\, schedule for this date/time (Africa/Lagos). Or post 
+ live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 28 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 28 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D28-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261115T150000
+DTEND;TZID=Africa/Lagos:20261115T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 28 (CORE)
+DESCRIPTION:Fair. That is why it is built to be used\, not studied.\n\nRead
+  the Playbook in about 25 minutes. Copy the scripts you need. Use the trac
+ ker for each new enquiry.\n\nOne afternoon of setup\, then the system sits
+  inside the chats you already do.\n\nChat-to-Customer Playbook\, ₦5\,000
+ . Message PLAYBOOK on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_
+ By_Day/Day_28/Post_06_1500_Facebook-feed_Honest-answer-objection-post → 
+ Image.png\n[HOW] Open Meta Business Suite → Create post → paste this t
+ ext\, upload the media above\, schedule for this date/time (Africa/Lagos).
+  Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 28 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 28 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D28-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261115T200000
+DTEND;TZID=Africa/Lagos:20261115T201500
+SUMMARY:FB 20:00 · Second feed post · Day 28 (optional)
+DESCRIPTION:Someone asks “how much?” and you reply with a number. Then 
+ silence.\n\nTry three parts instead:\n1. The price\n2. What it includes (o
+ ne line)\n3. A question that moves things forward\n\n“The Ankara set is 
+ ₦18\,000\, tailored to your size\, ready in 5 days. Would you like me to
+  take your measurements today?”\n\nA price on its own is a dead end. A p
+ rice with a next step is a conversation.\n\nThe Chat-to-Customer Playbook 
+ has 36 scripts like this\, plus a tracker. ₦5\,000. Message PLAYBOOK on 
+ WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_28/Post_10_
+ 2000_Instagram-and-Facebook-feed_Second-feed-post → Image.png\n[HOW] Ope
+ n Meta Business Suite → Create post → paste this text\, upload the med
+ ia above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 28 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 28 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D29-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261116T080000
+DTEND;TZID=Africa/Lagos:20261116T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 29 (CORE)
+DESCRIPTION:The ten-second test\n\nFive questions a visitor silently asks.\
+ n\nClear Homepage Blueprint\, ₦5\,000. Message CLEAR on WhatsApp: 0905 0
+ 69 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_29/Post_01_0800_Instagram-a
+ nd-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_2.png\, Slid
+ e_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open Meta Busines
+ s Suite → Create post → paste this text\, upload the media above\, sch
+ edule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 29 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 29 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D29-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261116T123000
+DTEND;TZID=Africa/Lagos:20261116T124500
+SUMMARY:FB 12:30 · Short video · Day 29 (CORE)
+DESCRIPTION:Ten-second test\n\nCaption:\nMessage CLEAR on WhatsApp: 0905 06
+ 9 0837\nThe Clear Homepage Blueprint: ₦5\,000. Do-it-yourself\, no guara
+ nteed results.\n\nOn-screen text:\n- 10 seconds\n- What do you do?\n- Who 
+ is it for?\n- What would they click?\n- Message CLEAR on WhatsApp\n\nVoice
+ over script (22 seconds\, warm\, calm\, human pace):\nShow your homepage t
+ o a friend for ten seconds. Then hide it\, and ask what you do\, who it is
+  for\, and what they would click. If they hesitate\, your first screen nee
+ ds work. The Clear Homepage Blueprint walks you through it\, with template
+ s and a twenty-point audit. Five thousand naira. Message the word CLEAR on
+  WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusinessNigeria 
+ #LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_29/Post_04
+ _1230_Instagram-Reel-and-Facebook-video_Short-video → Video.mp4\n[HOW] O
+ pen Meta Business Suite → Create post → paste this text\, upload the m
+ edia above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 29 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 29 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D29-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261116T150000
+DTEND;TZID=Africa/Lagos:20261116T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 29 (CORE)
+DESCRIPTION:Honest answer: no. The Clear Homepage Blueprint is a do-it-your
+ self kit.\n\nYou get a method\, fill-in templates\, a planner and an audit
+ . You supply your real facts and write the words.\n\nIf you want us to bui
+ ld or rewrite your site\, that is a separate paid project. Message us for 
+ a range.\n\nThe Blueprint is ₦5\,000. Message CLEAR on WhatsApp: 0905 06
+ 9 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_29/Post_06_1500_Facebook-fee
+ d_Honest-answer-objection-post → Image.png\n[HOW] Open Meta Business Sui
+ te → Create post → paste this text\, upload the media above\, schedule
+  for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 29 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 29 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D29-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261116T200000
+DTEND;TZID=Africa/Lagos:20261116T201500
+SUMMARY:FB 20:00 · Second feed post · Day 29 (optional)
+DESCRIPTION:Show your homepage to a friend for ten seconds. Then hide it.\n
+ \nAsk three questions:\n1. What does this business do?\n2. Who is it for?\
+ n3. What would you click?\n\nIf they hesitate on any of them\, your first 
+ screen needs work.\n\nThe Clear Homepage Blueprint walks you through fixin
+ g it\, with templates and a 20-point audit. ₦5\,000. Message CLEAR on Wh
+ atsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_29/Post_10_20
+ 00_Instagram-and-Facebook-feed_Second-feed-post → Image.png\n[HOW] Open 
+ Meta Business Suite → Create post → paste this text\, upload the media
+  above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 29 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 29 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D30-01@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261117T080000
+DTEND;TZID=Africa/Lagos:20261117T081500
+SUMMARY:FB 08:00 · Morning carousel · Day 30 (CORE)
+DESCRIPTION:The four content pillars\n\nA simple structure to stop running 
+ out of ideas.\n\n30-Day Content Engine\, ₦5\,000. Message ENGINE on What
+ sApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_30/Post_01_0800
+ _Instagram-and-Facebook-feed_Carousel-or-tip-post → Slide_1.png\, Slide_
+ 2.png\, Slide_3.png\, Slide_4.png\, Slide_5.png\, Slide_6.png\n[HOW] Open 
+ Meta Business Suite → Create post → paste this text\, upload the media
+  above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 30 (CORE) — open the FB S
+ cheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 08:00 · Morning carousel · Day 30 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D30-04@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261117T123000
+DTEND;TZID=Africa/Lagos:20261117T124500
+SUMMARY:FB 12:30 · Short video · Day 30 (CORE)
+DESCRIPTION:Four pillars\n\nCaption:\nMessage ENGINE on WhatsApp: 0905 069 
+ 0837\nThe 30-Day Content Engine: ₦5\,000. Do-it-yourself\, no guaranteed
+  results.\n\nOn-screen text:\n- Run out of ideas?\n- Teach · Show · Trus
+ t · Sell\n- 60 ideas + calendar\n- ₦5\,000 · no reach promises\n- Mess
+ age ENGINE on WhatsApp\n\nVoiceover script (26 seconds\, warm\, calm\, hum
+ an pace):\nRunning out of things to post? Use four pillars. Teach\, show\,
+  trust and sell. Rotate them so your feed is useful\, not just salesy. The
+  Thirty-Day Content Engine gives you sixty post ideas and an auto-dated ca
+ lendar to plan the whole month. It cannot promise followers\, but it can t
+ ake away the daily panic. Five thousand naira. Message the word ENGINE on 
+ WhatsApp.\n\nSuggested hashtags: #NigerianBusiness #SmallBusinessNigeria #
+ LagosBusiness #Easywurld\n\n[MEDIA] Easywurld_Posts_By_Day/Day_30/Post_04_
+ 1230_Instagram-Reel-and-Facebook-video_Short-video → Video.mp4\n[HOW] Op
+ en Meta Business Suite → Create post → paste this text\, upload the me
+ dia above\, schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 30 (CORE) — open the FB Schedu
+ ler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 12:30 · Short video · Day 30 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D30-06@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261117T150000
+DTEND;TZID=Africa/Lagos:20261117T151500
+SUMMARY:FB 15:00 · Honest-answer post · Day 30 (CORE)
+DESCRIPTION:No\, and we want to be clear about that.\n\nThe 30-Day Content 
+ Engine is a planning system: a guide\, 60 post ideas\, a calendar and a sw
+ ipe file. You write and design the posts with free tools like Canva and Ca
+ pCut.\n\nNo design templates or scheduling software are included.\n\n₦5\
+ ,000. Message ENGINE on WhatsApp: 0905 069 0837.\n\n[MEDIA] Easywurld_Post
+ s_By_Day/Day_30/Post_06_1500_Facebook-feed_Honest-answer-objection-post 
+ → Image.png\n[HOW] Open Meta Business Suite → Create post → paste th
+ is text\, upload the media above\, schedule for this date/time (Africa/Lag
+ os). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 30 (CORE) — open the FB
+  Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 15:00 · Honest-answer post · Day 30 (CORE) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D30-10@easywurld-fb-kit
+DTSTAMP:20261020T005647Z
+DTSTART;TZID=Africa/Lagos:20261117T200000
+DTEND;TZID=Africa/Lagos:20261117T201500
+SUMMARY:FB 20:00 · Second feed post · Day 30 (optional)
+DESCRIPTION:Running out of things to post?\n\nUse four pillars:\n- TEACH: t
+ ips\, how-tos\, myths\n- SHOW: your work\, process\, behind the scenes\n- 
+ TRUST: customer stories (real ones)\, values\, FAQs\n- SELL: offers\, pric
+ es\, how to order\n\nRotate them. About a third teaching\, a quarter showi
+ ng\, the rest trust and selling.\n\nThe 30-Day Content Engine gives you 60
+  ideas and an auto-dated calendar. ₦5\,000. Message ENGINE on WhatsApp: 
+ 0905 069 0837.\n\n[MEDIA] Easywurld_Posts_By_Day/Day_30/Post_10_2000_Insta
+ gram-and-Facebook-feed_Second-feed-post → Image.png\n[HOW] Open Meta Bus
+ iness Suite → Create post → paste this text\, upload the media above\,
+  schedule for this date/time (Africa/Lagos). Or post live now.
+LOCATION:Facebook Page — Meta Business Suite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 30 (optional) — open the 
+ FB Scheduler Console
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FB 20:00 · Second feed post · Day 30 (optional) — due now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
