@@ -17,9 +17,11 @@ The business is now kept in three separate places, and nothing is mixed together
 - `products/` — nine client-ready packs, one PDF each
 - `social/VOICE_Direction_Standard.pdf` — measured rules for making synthetic voice sound human
 - `social/BATCH_01_Posting_Sheet.pdf` — every caption, the posting order, the ten-point check
-- `social/batch01/` — 21 carousel slides, 5 memes, 4 voiced videos
+- `social/batch01/` — the first 12 days' assets (carousel slides, memes, voiced videos)
+- `social/batch02/` — days 13–30 assets: 11 carousels, 12 memes, 7 voiced videos
+- `toolkit/` — the render kit that built all of it (`carousel.py`, `meme.py`, `video.py`, fonts, content, audio)
 - `SELAR_What_You_Actually_Receive.pdf` — what Selar's fee takes off every price on the list
-- `daily-drop/` — **the one to use.** `Day_01.zip` … `Day_12.zip`, one per night
+- `daily-drop/` — **the one to use.** `Day_01.zip` … `Day_30.zip`, one per night
 
 ## The nightly drop
 
@@ -35,7 +37,7 @@ Day_01.zip
     TIKTOK_script.txt               carousels and videos only
 ```
 
-Download the zip, unzip, post. `ALL_12_DAYS.zip` is the same twelve in one file.
+Download the zip, unzip, post. `ALL_30_DAYS.zip` is the same thirty in one file.
 
 ## Two production notes
 

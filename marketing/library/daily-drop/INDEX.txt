@@ -1,30 +1,35 @@
-EASYWURLD — DAILY DROP, DAYS 01–12
+EASYWURLD — 30 DAYS, ONE POST A NIGHT
 ======================================================
 
-One folder per night. Download the zip, unzip, schedule that day's post.
-The copy is inside. Nothing to decide.
+Download the day you are posting. Unzip. Post.
 
-Day 01  Carousel  The price is not the problem
-       19:30 WAT   keyword PLAYBOOK
-Day 02  Meme      The 'okay, thanks' silence
-       12:30 WAT   keyword PLAYBOOK
-Day 03  Carousel  The five-second test
-       19:00 WAT   keyword CLEAR
-Day 04  Meme      'Cheap' is an apology
-       12:00 WAT   keyword —
-Day 05  Video     The price is not the problem (voiced)
-       19:30 WAT   keyword PLAYBOOK
-Day 06  Meme      Posting is not a diary
-       12:30 WAT   keyword ENGINE
-Day 07  Carousel  One page, one offer, one action
-       11:30 WAT   keyword PAGE
-Day 08  Meme      The premium brief
-       12:00 WAT   keyword —
-Day 09  Video     The five-second test (voiced)
-       19:00 WAT   keyword CLEAR
-Day 10  Meme      Nobody is coming to save your marketing
-       20:00 WAT   keyword PLAYBOOK
-Day 11  Video     One page, one offer, one action (voiced)
-       11:30 WAT   keyword PAGE
-Day 12  Video     The 'okay, thanks' silence (voiced)
-       19:30 WAT   keyword PLAYBOOK
+Day 01  Carousel  The price is not the problem                        19:30  PLAYBOOK
+Day 02  Meme      The 'okay, thanks' silence                          12:30  PLAYBOOK
+Day 03  Carousel  The five-second test                                19:00  CLEAR
+Day 04  Meme      'Cheap' is an apology                               12:00  —
+Day 05  Video     The price is not the problem                        19:30  PLAYBOOK
+Day 06  Meme      A diary with better lighting                        12:30  ENGINE
+Day 07  Carousel  One page, one offer, one action                     11:30  PAGE
+Day 08  Meme      The premium brief                                   12:00  —
+Day 09  Video     The five-second test                                20:00  CLEAR
+Day 10  Meme      Nobody is coming to save it                         12:30  PLAYBOOK
+Day 11  Video     One page, one offer, one action                     19:00  PAGE
+Day 12  Video     The “okay, thanks” silence                          19:30  PLAYBOOK
+Day 13  Carousel  You are invisible where it matters                  19:30  LOCAL
+Day 14  Meme      Invisible versus incomplete                         12:00  LOCAL
+Day 15  Carousel  Your site died three months ago                     19:00  LAUNCH
+Day 16  Video     Posting is not a diary                              20:00  ENGINE
+Day 17  Carousel  AI that does not embarrass you                      11:30  PROMPTS
+Day 18  Meme      A broken site still looks fine                      12:30  LAUNCH
+Day 19  Carousel  Your bio says nothing                               19:30  MESSAGE
+Day 20  Video     You are invisible where it matters                  19:00  LOCAL
+Day 21  Carousel  Proposals that take three days                      19:00  TEMPLATES
+Day 22  Meme      The copy-paste test                                 12:00  PROMPTS
+Day 23  Carousel  Posting is not a diary                              11:30  ENGINE
+Day 24  Video     Your site died three months ago                     19:30  LAUNCH
+Day 25  Carousel  Which one should you buy                            19:30  START
+Day 26  Meme      The bio that says nothing                           12:30  MESSAGE
+Day 27  Carousel  The follow-up nobody sends                          19:00  PLAYBOOK
+Day 28  Meme      The 24-hour proposal                                12:00  TEMPLATES
+Day 29  Meme      Nobody is waiting for your post                     12:30  ENGINE
+Day 30  Meme      Not a marketing problem                             12:00  START
