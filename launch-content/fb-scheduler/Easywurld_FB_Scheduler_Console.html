@@ -173,6 +173,11 @@ window.KIT = {"meta":{"brand":"Easywurld","generated":"2026-10-20","startDate":"
   function load(){
     try { return JSON.parse(localStorage.getItem(STORE_KEY)); } catch(e){ return null; }
   }
+  function localDate(){
+    var d = new Date();
+    return d.getFullYear() + '-' + pad2(d.getMonth()+1) + '-' + pad2(d.getDate());
+  }
+  function pad2(n){ return String(n).padStart(2,'0'); }
   function save(){ localStorage.setItem(STORE_KEY, JSON.stringify(state)); }
   function esc(s){
     return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
@@ -217,7 +222,7 @@ window.KIT = {"meta":{"brand":"Easywurld","generated":"2026-10-20","startDate":"
     document.getElementById('bar').style.width = (total ? (n/total*100) : 0) + '%';
     document.getElementById('progTxt').textContent = n + ' of ' + total + ' scheduled';
     document.getElementById('hdRight').textContent = KIT.meta.startDate + ' → ' + KIT.meta.endDate;
-    var today = KIT.posts.filter(function(p){ return p.date === new Date().toISOString().slice(0,10); })[0];
+    var today = KIT.posts.filter(function(p){ return p.date === localDate(); })[0];
     document.getElementById('dayTxt').textContent = today ? ('Today is Day ' + today.day) : ('Day 1 = ' + KIT.meta.startDate);
   }
 
@@ -226,7 +231,7 @@ window.KIT = {"meta":{"brand":"Easywurld","generated":"2026-10-20","startDate":"
     var html = '';
     html += '<div class="dayscroll">' + allDays.map(function(d){
       var p0 = KIT.posts.filter(function(p){return p.day===d;})[0];
-      var cls = 'daybtn' + (p0.date === new Date().toISOString().slice(0,10) ? ' today' : '') + (dayDone(d) ? ' done' : '');
+      var cls = 'daybtn' + (p0.date === localDate() ? ' today' : '') + (dayDone(d) ? ' done' : '');
       return '<button class="' + cls + '" data-jumpday="' + d + '"><b>Day ' + d + '</b>' +
         p0.date.slice(5).split('-').reverse().join('/') + '</button>';
     }).join('') + '</div>';
