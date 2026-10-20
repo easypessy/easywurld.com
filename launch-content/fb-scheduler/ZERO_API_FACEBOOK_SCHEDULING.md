@@ -34,30 +34,39 @@ You do the clicking once, then Facebook publishes for you while your phone is of
 3. Open **Settings → Business settings → Time zone** and set it to
    **Africa/Lagos (WAT, UTC+1)**. Every time printed in this kit is WAT, so this matters.
 
-### The batch session (Sunday evening, 20–30 minutes for a full week)
+### The phone media problem, solved: one ZIP per day
 
-Open **Easywurld_FB_Scheduler_Console.html** (add it to your home screen first — it then
-behaves like an app and works fully offline). Work the cards top to bottom:
+The big 18 MB `Easywurld_Posts_By_Day.zip` floods a phone gallery with hundreds of images,
+so do **not** open it on your phone. Instead open the **Daily zips — download ONE day at a
+time** folder in Drive. It holds `Day_01.zip` to `Day_30.zip`, each about 400 KB and
+containing **only that day's four Facebook posts** in four clearly named folders
+(captions included). Only one day is ever on your phone.
 
-1. Tap **Copy caption** on the first card.
-2. Switch to Meta Business Suite → tap **Create post** → choose the Facebook Page.
-3. Paste the text into the post box.
-4. Tap **Add photo/video** and upload the media printed on the card. The media lives in
-   **Easywurld_Posts_By_Day.zip** (also in your Drive), in the exact folder shown on the
-   card:
-   - carousel card → upload **Slide_1.png to Slide_6.png in order**;
-   - video card → upload **Video.mp4** (the caption file also contains the voiceover and
+Each day follows the same rhythm:
+
+1. In Drive, download today's `Day_XX.zip` (Day 2 is marked START HERE).
+2. Open it with the **Files by Google** app (Android) or the **Files** app (iPhone) and tap
+   extract. It creates one `Day_XX` folder with four post folders — nothing scatters into
+   the gallery as long as you browse by folder, not by the Photos grid.
+3. Open **Easywurld_FB_Scheduler_Console.html** (add it to your home screen first — it then
+   behaves like an app and works fully offline). Every card names the exact zip and folder.
+4. Tap **Copy caption** on the card.
+5. Switch to Meta Business Suite → **Create post** → choose the Facebook Page → paste.
+6. Tap **Add photo/video**. When the picker opens, use the **file/folder browser** (hamburger
+   menu → Downloads → `Day_XX` → the folder printed on the card), not the gallery grid:
+   - carousel card → select **Slide_1.png to Slide_6.png in order**;
+   - video card → select **Video.mp4** (the caption file also holds the voiceover and
      on-screen text used to make the video — paste only the short "Caption:" part into the
      Facebook text box);
-   - feed card → upload **Image.png**.
-5. Instead of **Publish**, tap **Schedule**, set the exact date and time on the card, and
+   - feed card → select **Image.png**.
+7. Instead of **Publish**, tap **Schedule**, set the exact date and time on the card, and
    confirm.
-6. Come back to the console and tap the big tick. The card greys out and your progress is
-   saved on the phone.
+8. Tap the big tick on the card — it greys out and progress is saved on the phone.
+9. After the four posts are scheduled, delete the `Day_XX` folder and the zip from Downloads.
+   Tomorrow, download the next one.
 
-Do the next week every Sunday. If Business Suite ever limits how many posts you can queue,
-just fill the queue and top it up at the next Sunday session — nothing is lost because the
-console remembers what is already ticked.
+Do one day at a time, or queue several days in one sitting. If Business Suite ever limits
+how many posts you can queue, fill it and top up later — the console remembers every tick.
 
 ### The four daily slots
 
@@ -129,6 +138,7 @@ calendar reminders with manual posting.
 | `Easywurld_FB_Google_Calendar_Import.csv` | Same 120 slots in Google Calendar's CSV format, backup if the .ics won't import. |
 | `fb-posts.json` | The structured data behind all three, for any future rebuild. |
 | `ZERO_API_FACEBOOK_SCHEDULING.md` | This guide. |
+| **Daily zips — download ONE day at a time/** (Drive subfolder) | `Day_01.zip`–`Day_30.zip`, ~400 KB each, holding only that day's four Facebook post folders. Download, extract, schedule, delete. |
 
 ## About the bigger content plan
 

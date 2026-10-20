@@ -26,14 +26,21 @@ Each record points at a folder inside `Easywurld_Posts_By_Day.zip`:
 | 15:00 | `Post_06_1500_Facebook-feed_*` | `Image.png` | CORE |
 | 20:00 | `Post_10_2000_Instagram-and-Facebook-feed_*` | `Image.png` | optional |
 
-## Rebuild
+## Phone delivery: one ZIP per day
+
+The full 18 MB pack floods a phone gallery, so `tools/fb-scheduler/build-day-zips.py`
+splits it into 30 daily archives (~400 KB each) containing only the four Facebook post
+folders for that day. These are uploaded to the Drive subfolder
+**Daily zips — download ONE day at a time**:
 
 ```sh
-# from the repository root (the ZIP is already in launch-content/)
+# from the repository root (extract the big pack first)
 mkdir -p tmp/kit
 unzip -o launch-content/Easywurld_Posts_By_Day.zip -d tmp/kit/
-node tools/fb-scheduler/build-fb-kit.mjs
+python3 tools/fb-scheduler/build-day-zips.py   # -> tmp/day-zips/Day_01.zip ... Day_30.zip
+node tools/fb-scheduler/build-fb-kit.mjs        # -> console, ICS, CSV, JSON
 ```
 
 `tmp/` is gitignored. To shift the campaign, change `START_DATE` at the top of
-`tools/fb-scheduler/build-fb-kit.mjs` and rerun. The builder uses Node built-ins only.
+`tools/fb-scheduler/build-fb-kit.mjs` and rerun. The builders use Node/Python standard
+libraries only.

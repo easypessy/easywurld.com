@@ -276,7 +276,7 @@ window.KIT = {"meta":{"brand":"Easywurld","generated":"2026-10-20","startDate":"
         '<button class="tick ' + (done?'on':'') + '" data-toggle="' + p.id + '" aria-label="Mark scheduled">' + (done?'✓':'') + '</button>' +
       '</div>' +
       '<div class="cbody">' +
-        '<div class="blk"><h4>Media (inside the posts ZIP)</h4><div class="media">' + esc(p.folder) + '/<br>→ ' + esc(p.media.join(', ')) + '</div></div>' +
+        '<div class="blk"><h4>Media — download ' + ('Day_' + String(p.day).padStart(2,'0') + '.zip') + ' from Drive, open it, then:</h4><div class="media">' + esc(p.folder.replace('Easywurld_Posts_By_Day/','')) + '/<br>→ ' + esc(p.media.join(', ')) + '</div></div>' +
         '<div class="blk"><h4>Caption to paste</h4><pre>' + esc(p.caption) + '</pre></div>' +
         '<div class="copyrow">' +
           '<button class="btn" data-copy="' + p.id + '">Copy caption</button>' +
@@ -378,11 +378,12 @@ window.KIT = {"meta":{"brand":"Easywurld","generated":"2026-10-20","startDate":"
       '<ol>' +
       '<li>Install <b>Meta Business Suite</b> from the Play Store / App Store, or open <code>business.facebook.com</code> in a browser, and log in with the account that admins your Page.</li>' +
       '<li>First time only: open Settings and set the timezone to <b>Africa/Lagos (WAT, UTC+1)</b>.</li>' +
+      '<li>In Drive open the <b>Daily zips</b> folder and download today’s <code>Day_XX.zip</code> (about 400 KB). Open it with your Files app — it makes ONE <code>Day_XX</code> folder holding four clearly named post folders. No gallery mess, and only one day is ever on your phone.</li>' +
       '<li>In this console, open the first card. Tap <b>Copy caption</b>.</li>' +
-      '<li>In Business Suite tap <b>Create post</b>, pick your Facebook Page, paste the text, then upload the media shown on the card (the slides in order for a carousel, Video.mp4 for video, Image.png for feed posts).</li>' +
+      '<li>In Business Suite tap <b>Create post</b>, pick your Facebook Page, paste the text. Tap add photo/video, then use the file browser (not the gallery grid): Downloads → <code>Day_XX</code> → the exact folder printed on the card → select the media (all six slides in order for a carousel, Video.mp4 for video, Image.png for feed posts).</li>' +
       '<li>Tap <b>Schedule</b>, set the exact date and time printed on the card, and confirm.</li>' +
-      '<li>Come back here, tap the big tick so the card greys out. Repeat down the list.</li>' +
-      '</ol><p class="mini">Do one week in one sitting (about 20–30 minutes for 28 posts), or as many as the app lets you queue. Three CORE posts a day (08:00, 12:30, 15:00) carry the plan; the 20:00 one is optional on busy days.</p></div>' +
+      '<li>Come back here, tap the big tick so the card greys out. Repeat for the four cards, then delete the <code>Day_XX</code> folder and zip from Downloads.</li>' +
+      '</ol><p class="mini">Three CORE posts a day (08:00, 12:30, 15:00) carry the plan; the 20:00 one is optional on busy days. Each daily zip contains only these four Facebook posts — nothing from WhatsApp, Instagram or other platforms.</p></div>' +
 
       '<div class="stepbox"><h3>Option 2 — Phone reminds you, you post live</h3>' +
       '<ol>' +
