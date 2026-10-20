@@ -18,6 +18,24 @@ The business is now kept in three separate places, and nothing is mixed together
 - `social/VOICE_Direction_Standard.pdf` — measured rules for making synthetic voice sound human
 - `social/BATCH_01_Posting_Sheet.pdf` — every caption, the posting order, the ten-point check
 - `social/batch01/` — 21 carousel slides, 5 memes, 4 voiced videos
+- `SELAR_What_You_Actually_Receive.pdf` — what Selar's fee takes off every price on the list
+- `daily-drop/` — **the one to use.** `Day_01.zip` … `Day_12.zip`, one per night
+
+## The nightly drop
+
+Everything in `daily-drop/` is built so posting requires no decisions:
+
+```
+Day_01.zip
+  Day_01/
+    slide_01.png … slide_07.png     the finished asset
+    00_START_HERE.txt               time, order, first comment, what to send when they reply
+    CAPTION_instagram.txt
+    CAPTION_facebook.txt
+    TIKTOK_script.txt               carousels and videos only
+```
+
+Download the zip, unzip, post. `ALL_12_DAYS.zip` is the same twelve in one file.
 
 ## Two production notes
 
