@@ -122,3 +122,7 @@ client/public/__manus__/version.json
 /Easywurld-Offers-Deliverables.zip
 /offers-summary.md
 /tools/packkit/
+
+# Python bytecode
+__pycache__/
+*.pyc
