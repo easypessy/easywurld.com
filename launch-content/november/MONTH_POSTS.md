@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Monday 16 November 2026** |
+| Ends | **Wednesday 18 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **528 posts** (176 core ideas x 3 platforms) |
+| Month total | **594 posts** (198 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -9890,6 +9890,1211 @@ writing on the spot.
 > Then move the money to where the answers are.
 > 
 > Will you do this tomorrow?
+
+
+---
+
+
+# Day 17 · Tuesday · Tuesday 17 Nov 2026 — Fix this Lagos
+
+**Offer in focus:** LOCAL
+
+---
+
+
+## Post 01 · No photos, no hours, wrong number
+
+**Type:** Entertain · **Why it works:** The wrong phone number is the detail that makes people check theirs.
+
+### TikTok · 07:00 · Screen recording, 24s
+
+**Hook (0-3s)**
+> This listing has no photos, no hours, and the wrong phone number.
+
+**On-screen beats**
+- No photos
+- No hours
+- Wrong number
+- This is your shopfront at 2am
+
+**Voiceover script**
+> This listing has no photos, no opening hours, and the phone number belongs to a shop that closed two years ago. It is not a website problem, it is your shopfront at two in the morning, and it is the only version of your business most people will ever see. The wrong number is the worst part, because the customer does not think the number is wrong. They think you did not pick up.
+
+**Caption**
+> The wrong number is worse than no number. They think you ignored them.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. No photos
+2. No hours
+3. Wrong number
+4. They think you ignored them
+
+**Caption**
+> Your listing is your shopfront at 2am. Check the phone number first.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A listing I checked this week had no photos, no opening hours, and a phone number belonging to a shop that closed two years ago.
+> 
+> Your Google listing is your shopfront at 2am, and it is the only version of your business most people will ever see.
+> 
+> The wrong number is the worst part. The customer does not think the number is wrong. They think you ignored them, and they do not try twice.
+> 
+> Check your number today.
+
+
+---
+
+
+## Post 02 · A second shop that never closes
+
+**Type:** Entertain · **Why it works:** A reframe that makes an unglamorous task feel valuable.
+
+### TikTok · 09:15 · Kinetic type, 16s
+
+**Hook (0-3s)**
+> Your Google listing is open when you are closed. It is a second shop.
+
+**On-screen beats**
+- You are asleep
+- It is answering
+- Or it is not
+- That is the choice
+
+**Voiceover script**
+> Your Google listing is open when you are closed, which makes it a second shop, and the only one you own that works at midnight. It is either answering the four questions people have, or it is a closed shutter with your name on it. You decide which, once, in about an hour.
+
+**Caption**
+> A second shop that never closes. You have already built it, badly or well.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. Open at 2am
+2. Answering, or shut
+3. You decide once
+
+**Caption**
+> A second shop that never closes. You have already built it, badly or well.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> Your Google listing is open when you are closed. Which makes it a second shop — the only one you own that works at midnight.
+> 
+> It is either answering the four questions people have, or it is a closed shutter with your name on it.
+> 
+> You decide which, once, in about an hour of work.
+> 
+> When did you last look at yours?
+
+
+---
+
+
+## Post 03 · The four fields that matter
+
+**Type:** Teach · **Why it works:** Reduces an intimidating task to four inputs.
+
+### TikTok · 11:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Four fields on your listing matter more than everything else. Category, area, hours, phone.
+
+**On-screen beats**
+- Category decides what you appear for
+- Area decides where
+- Hours decide whether they come
+- Phone decides whether you answer
+
+**Voiceover script**
+> Four fields on your Google listing do almost all the work. Category, which decides what you appear for. Area, which decides where. Hours, which decide whether they turn up. And phone, which decides whether you ever hear from them. Everything else on that page is decoration. Get these four right and the listing earns its keep.
+
+**Caption**
+> Category · Area · Hours · Phone. Everything else on that page is decoration.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 4-slide carousel
+
+**Slide copy**
+1. Category: what you appear for
+2. Area: where
+3. Hours: whether they come
+4. Phone: whether you hear
+
+**Caption**
+> Category · Area · Hours · Phone. Everything else on that page is decoration.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Four fields on your Google listing do almost all the work:
+> 
+> 1. Category — what you appear for
+> 2. Area — where you appear
+> 3. Hours — whether they turn up
+> 4. Phone — whether you ever hear from them
+> 
+> Everything else on that page is decoration.
+> 
+> Which of your four is wrong right now?
+
+
+---
+
+
+## Post 04 · Reviews are the only free public proof
+
+**Type:** Entertain · **Why it works:** Positions reviews as an asset rather than a vanity metric.
+
+### TikTok · 13:45 · Talking head, 21s
+
+**Hook (0-3s)**
+> Reviews are not vanity. They are the only public proof you get for free.
+
+**On-screen beats**
+- Nobody can buy them honestly
+- Nobody can fake them forever
+- Ten reviews
+- Beat any adjective
+
+**Voiceover script**
+> Reviews are not vanity. They are the only public proof you get for free, from people who have no reason to be kind to you. Ten reviews saying the delivery came when they said it would will outsell any adjective you can write about yourself, because it was written by someone with nothing to gain and it can be checked.
+
+**Caption**
+> Ten real reviews beat any adjective you can write about yourself.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Reviews are not vanity
+2. They are free public proof
+3. Written by people with nothing to gain
+
+**Caption**
+> Ten real reviews beat any adjective you can write about yourself.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Reviews are not vanity. They are the only public proof you get for free, from people who have no reason to be kind to you.
+> 
+> Ten reviews saying 'the delivery came when they said it would' will outsell any adjective you can write about yourself — because it was written by someone with nothing to gain, and anyone can check it.
+> 
+> How many do you have, honestly?
+
+
+---
+
+
+## Post 05 · Asked at the counter, not by email
+
+**Type:** Entertain · **Why it works:** The timing insight is the whole post.
+
+### TikTok · 15:00 · Talking head, 28s
+
+**Hook (0-3s)**
+> A customer left a review because she was asked at pickup. Not by email. At the counter.
+
+**On-screen beats**
+- Email came three days later
+- Gone
+- At the counter, she was holding the thing
+- Gratitude was highest right there
+
+**Voiceover script**
+> A customer left a review because she was asked at pickup, at the counter, holding the thing she had just paid for. The email would have arrived three days later and she would have ignored it, like everyone ignores it. Reviews are not about asking nicely, they are about asking at the exact moment gratitude is highest, which is about forty seconds after delivery.
+
+**Caption**
+> Ask at the moment gratitude peaks. Which is not three days later, by email.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. Asked by email: ignored
+2. Asked at the counter: reviewed
+3. Holding the thing she paid for
+4. Timing beats politeness
+
+**Caption**
+> Ask at the moment gratitude peaks. Which is not three days later, by email.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A customer left a review because she was asked at pickup. At the counter. Holding the thing she had just paid for.
+> 
+> The email would have come three days later and she would have ignored it, like everyone ignores those emails.
+> 
+> Reviews are not about asking nicely. They are about asking at the moment gratitude is highest — about forty seconds after delivery.
+> 
+> When do you ask?
+
+
+---
+
+
+## Post 06 · Ask for the review at the moment of delivery
+
+**Type:** Teach · **Why it works:** A one-line habit change with a visible effect.
+
+### TikTok · 16:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> Ask for the review at the moment of delivery. Not later. Then.
+
+**On-screen beats**
+- While the box is open
+- One sentence
+- A link
+- That is the whole system
+
+**Voiceover script**
+> Ask for the review at the moment of delivery, while the box is still open and the joy has not worn off. One sentence, one link, and then stop asking. The reason most businesses have eleven reviews after six years is not that customers are stingy, it is that they ask on a Tuesday, by email, three days after everyone stopped caring.
+
+**Caption**
+> One sentence at delivery. One link. Then never mention it again.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. The box is still open
+2. One sentence
+3. One link, then never again
+
+**Caption**
+> One sentence at delivery. One link. Then never mention it again.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Ask for the review at the moment of delivery. While the box is still open and the joy has not worn off.
+> 
+> One sentence. One link. Then never mention it again.
+> 
+> The reason most businesses have eleven reviews after six years is not stingy customers. It is that they ask on a Tuesday, by email, three days after everyone stopped caring.
+> 
+> Try asking at the door this week and count.
+
+
+---
+
+
+## Post 07 · One bad review answered well
+
+**Type:** Entertain · **Why it works:** Turns a fear into a strategy.
+
+### TikTok · 18:00 · Kinetic type, 17s
+
+**Hook (0-3s)**
+> One bad review answered well beats ten good ones.
+
+**On-screen beats**
+- Because it is public
+- Because it is calm
+- Because it was hard
+- Everybody is watching how you handle it
+
+**Voiceover script**
+> One bad review answered well beats ten good ones, because the good ones are easy and nobody learns anything from them. The bad one is where everyone is watching to see what kind of person you are when it costs you something. Answer it calmly, say what happened, say what changed, and do not argue. That is the demonstration.
+
+**Caption**
+> The bad review is where everybody watches to see who you are.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Bad review arrives
+2. Everyone watches
+3. Answer calmly, say what changed
+
+**Caption**
+> The bad review is where everybody watches to see who you are.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> One bad review answered well beats ten good ones.
+> 
+> Good reviews are easy, and nobody learns anything from them. The bad one is where everyone is watching to see what kind of person you are when it costs you something.
+> 
+> Answer calmly. Say what happened. Say what changed. Do not argue.
+> 
+> That is the demonstration.
+> 
+> Have you seen a business handle this well?
+
+
+---
+
+
+## Post 08 · Do you check reviews before a new shop?
+
+**Type:** Entertain · **Why it works:** Nine of ten is a number the audience can act on.
+
+### TikTok · 19:00 · Street interview, 25s
+
+**Hook (0-3s)**
+> I asked if people check reviews before trying a new shop. Nine out of ten said yes.
+
+**On-screen beats**
+- Nine of ten
+- They read the bad ones first
+- Then the replies
+- Then they decide
+
+**Voiceover script**
+> I asked whether people check reviews before trying a new shop. Nine out of ten said yes, and most said they read the bad ones first, and then they read how the owner replied. So your worst review is not a wound, it is an audition, and it is happening whether you answer it or not.
+
+**Caption**
+> Nine of ten check. Most read the bad ones first, then the replies.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 4-slide carousel
+
+**Slide copy**
+1. 9 of 10 check reviews
+2. Most read the bad ones first
+3. Then the owner's reply
+4. That is the audition
+
+**Caption**
+> Nine of ten check. Most read the bad ones first, then the replies.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked whether people check reviews before trying a new shop. Nine out of ten said yes.
+> 
+> Most said they read the bad ones first. Then they read how the owner replied.
+> 
+> So your worst review is not a wound. It is an audition — and it happens whether you answer it or not.
+> 
+> Are you watching yours?
+
+
+---
+
+
+## Post 09 · The launch handbook
+
+**Type:** Sell · **Why it works:** Explicitly bounds the product so nobody is surprised.
+
+### TikTok · 20:00 · Overhead shot, 24s
+
+**Hook (0-3s)**
+> The launch handbook covers listings and ownership. It does not build your website.
+
+**On-screen beats**
+- What it covers
+- What it does not
+- Be clear
+- Then it is worth five thousand
+
+**Voiceover script**
+> The launch handbook covers the things after the website: claiming your listing, photos, hours, who owns the domain, who pays for hosting. It does not build the site and it will not design anything. If you have a site and nobody finds it, this is the pack. If you do not have a site, start with the homepage one instead.
+
+**Caption**
+> Covers listings and ownership. Not the build. ₦5,000. LAUNCH on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 4-slide carousel
+
+**Slide copy**
+1. Listing claimed
+2. Photos and hours
+3. Domain and hosting owner
+4. Not the build
+
+**Caption**
+> Covers listings and ownership. Not the build. ₦5,000. LAUNCH on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The Launch Handbook covers the things after the website: claiming your listing, photos, hours, who owns the domain, who pays for hosting.
+> 
+> It does not build the site. It will not design anything.
+> 
+> If you already have a site and nobody finds it, this is the pack. If you do not have a site yet, start with the homepage one instead.
+> 
+> ₦5,000. Message LAUNCH on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · We refused to buy reviews
+
+**Type:** Entertain · **Why it works:** The one irreversible mistake is worth a whole post.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> Someone offered to get us reviews. We said no, and here is why it is the worst thing you can buy.
+
+**On-screen beats**
+- They are cheap
+- They are traceable
+- They never go away
+- You cannot delete a pattern
+
+**Voiceover script**
+> Someone offered to get us reviews for a small fee. We said no, because bought reviews are the only mistake in this business you cannot undo. A fake review can be reported, and the pattern of them can be spotted, and when it is, every real review you have becomes suspect too. You are trading six years of trust for eleven numbers.
+
+**Caption**
+> Bought reviews are the only mistake here you cannot undo.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. Bought reviews: cheap
+2. Fakes get reported
+3. Then every real one is suspect
+
+**Caption**
+> Bought reviews are the only mistake here you cannot undo.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone offered to get us reviews for a small fee. We said no.
+> 
+> Bought reviews are the only mistake in this business you cannot undo. One fake can be reported. The pattern of them can be spotted. And when it is, every real review you have becomes suspect too.
+> 
+> You would be trading six years of trust for eleven numbers.
+> 
+> Have you ever suspected a shop of this?
+
+
+---
+
+
+## Post 11 · Area in the caption, every time
+
+**Type:** Teach · **Why it works:** Repeats the day's simplest mechanic at the end, when it is easiest to act.
+
+### TikTok · 21:30 · Kinetic type, 19s
+
+**Hook (0-3s)**
+> Put your area in the caption every single time. Search reads captions.
+
+**On-screen beats**
+- Not hashtags
+- The words
+- Yaba
+- One word
+
+**Voiceover script**
+> Put your area in the caption every single time, in words. Not a hashtag, the actual word: Yaba, Ikeja, Wuse. Search reads the words you wrote, and it reads them long before it reads your hashtags. One word, every post, and you are findable by the people who are already near you.
+
+**Caption**
+> Yaba is a keyword. Put it in the caption, in words, every post.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 3-slide carousel
+
+**Slide copy**
+1. Not a hashtag
+2. The word itself
+3. Yaba, every post
+
+**Caption**
+> Yaba is a keyword. Put it in the caption, in words, every post.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Put your area in the caption every single time, in words.
+> 
+> Not a hashtag. The actual word: Yaba, Ikeja, Wuse, Surulere.
+> 
+> Search reads the words you wrote, long before it reads your hashtags. One word per post makes you findable by people who are already near you.
+> 
+> Which word should be in yours?
+
+
+---
+
+
+# Day 18 · Wednesday · Wednesday 18 Nov 2026 — Fix this Lagos
+
+**Offer in focus:** MESSAGE
+
+---
+
+
+## Post 01 · "Bespoke" four times
+
+**Type:** Entertain · **Why it works:** A specific, funny, checkable failure.
+
+### TikTok · 07:00 · Screen recording, 23s
+
+**Hook (0-3s)**
+> This page says bespoke four times and never tells you what they actually make.
+
+**On-screen beats**
+- Bespoke
+- Tailored
+- Curated
+- Then no noun at all
+
+**Voiceover script**
+> This page says bespoke four times, tailored twice, and curated once, and it never once tells you what they make. Fancy words are a hiding place, because a specific word can be argued with and a fancy one cannot. The customer is not impressed by bespoke. They are looking for the noun.
+
+**Caption**
+> Bespoke ×4, tailored ×2, curated ×1, and no noun anywhere.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. Bespoke ×4
+2. Tailored ×2
+3. Curated ×1
+4. Noun: none
+
+**Caption**
+> Bespoke ×4, tailored ×2, curated ×1, and no noun anywhere.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A page I read this week says 'bespoke' four times, 'tailored' twice and 'curated' once, and never tells you what they actually make.
+> 
+> Fancy words are a hiding place, because a specific word can be argued with and a fancy one cannot.
+> 
+> The customer is not impressed by 'bespoke'. They are looking for the noun.
+> 
+> What is your noun?
+
+
+---
+
+
+## Post 02 · If it could be on any site
+
+**Type:** Entertain · **Why it works:** A deletion test that takes thirty seconds.
+
+### TikTok · 09:15 · Kinetic type, 15s
+
+**Hook (0-3s)**
+> If a word could appear on any site, it belongs on none.
+
+**On-screen beats**
+- Quality
+- Passion
+- Excellence
+- Delete and see what is left
+
+**Voiceover script**
+> If a word could appear on any site in the world, it belongs on none. Quality, passion, excellence, world class. Delete them all and read what is left. If the page still says something, you had a page. If it says nothing, you had adjectives with a logo on top.
+
+**Caption**
+> Delete every word that could be on any site. Read what is left.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. Quality
+2. Passion
+3. Excellence
+4. Delete all three
+
+**Caption**
+> Delete every word that could be on any site. Read what is left.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> If a word could appear on any site in the world, it belongs on none.
+> 
+> Quality. Passion. Excellence. World class.
+> 
+> Delete them all and read what is left. If the page still says something, you had a page. If it says nothing, you had adjectives with a logo on top.
+> 
+> What survives on your page?
+
+
+---
+
+
+## Post 03 · One adjective into one number
+
+**Type:** Teach · **Why it works:** The most directly useful copy edit in the month.
+
+### TikTok · 11:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Replace one adjective with one number. Fast becomes within twenty minutes.
+
+**On-screen beats**
+- Fast is a claim
+- Twenty minutes is a fact
+- Cheap becomes this price
+- Reliable becomes four years
+
+**Voiceover script**
+> Replace one adjective with one number. Fast becomes within twenty minutes. Affordable becomes from twelve thousand. Reliable becomes four years without a missed delivery. Adjectives are claims and numbers are evidence, and you already know your numbers, you just did not think they were marketing.
+
+**Caption**
+> Fast → within 20 minutes. Affordable → from ₦12,000. Reliable → 4 years.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 4-slide carousel
+
+**Slide copy**
+1. Fast → within 20 minutes
+2. Affordable → from ₦12,000
+3. Reliable → 4 years, no misses
+4. Numbers are evidence
+
+**Caption**
+> Fast → within 20 minutes. Affordable → from ₦12,000. Reliable → 4 years.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Replace one adjective with one number.
+> 
+> 'Fast' becomes 'within 20 minutes'.
+> 'Affordable' becomes 'from ₦12,000'.
+> 'Reliable' becomes 'four years without a missed delivery'.
+> 
+> Adjectives are claims. Numbers are evidence.
+> 
+> You already know your numbers. You just did not think they were marketing.
+> 
+> What would yours be?
+
+
+---
+
+
+## Post 04 · Copywriting is removal
+
+**Type:** Entertain · **Why it works:** Reframes the task from writing to cutting, which is easier.
+
+### TikTok · 13:45 · Talking head, 18s
+
+**Hook (0-3s)**
+> Copywriting is not cleverness. It is removal.
+
+**On-screen beats**
+- First draft: three sentences
+- Best line: one
+- Delete the first two
+- That is the edit
+
+**Voiceover script**
+> Copywriting is not cleverness, it is removal. The first draft is three sentences. The best line is one of them, usually the last. So delete the first two and you are done, and it will be better than the version you were proud of, which is annoying and reliable in equal measure.
+
+**Caption**
+> Your best line was the last sentence. Delete the two before it.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Draft: three sentences
+2. Best line: the last one
+3. Delete the first two
+
+**Caption**
+> Your best line was the last sentence. Delete the two before it.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Copywriting is not cleverness. It is removal.
+> 
+> Your first draft is three sentences. The best line is one of them — usually the last. Delete the first two and you are done.
+> 
+> It will be better than the version you were proud of, which is annoying and reliable in equal measure.
+> 
+> What could you cut from your homepage tonight?
+
+
+---
+
+
+## Post 05 · Halved headline, doubled clicks
+
+**Type:** Entertain · **Why it works:** A before-and-after with one number and no exaggeration.
+
+### TikTok · 15:00 · Talking head, 27s
+
+**Hook (0-3s)**
+> A headline halved in length doubled the clicks. Nobody reads the second clause.
+
+**On-screen beats**
+- Twenty two words
+- Eleven
+- Second clause deleted
+- Clicks doubled
+
+**Voiceover script**
+> A headline was twenty two words long, so we cut it to eleven by deleting the second clause. The meaning did not change, because the second clause was repeating the first in a politer voice. Clicks doubled. Nobody reads the second clause. They read the first four words and decide, which is why every word after those has to earn its place.
+
+**Caption**
+> Twenty-two words to eleven. The meaning did not change. Clicks doubled.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. Before: 22 words
+2. After: 11
+3. Second clause deleted
+4. Clicks doubled
+
+**Caption**
+> Twenty-two words to eleven. The meaning did not change. Clicks doubled.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A headline was twenty-two words. We cut it to eleven by deleting the second clause.
+> 
+> The meaning did not change, because the second clause was repeating the first in a politer voice.
+> 
+> Clicks doubled.
+> 
+> Nobody reads the second clause. They read the first four words and decide. Which is why every word after those has to earn its place.
+> 
+> How long is yours?
+
+
+---
+
+
+## Post 06 · Write like you talk at the counter
+
+**Type:** Teach · **Why it works:** Gives a physical setting, which makes the voice easy to find.
+
+### TikTok · 16:30 · Kinetic type, 23s
+
+**Hook (0-3s)**
+> Write like you talk to a customer at the counter. Then delete the first two sentences.
+
+**On-screen beats**
+- How would you say it out loud
+- Type that
+- Then delete the throat clearing
+- That is the copy
+
+**Voiceover script**
+> Write like you talk to a customer at the counter. Not on the phone, at the counter, where you have about eight seconds and a queue behind them. Type exactly that. Then delete the first two sentences, because they are always throat clearing: welcome, thank you for visiting, we are a company that. What is left is the copy.
+
+**Caption**
+> Type what you would say at the counter. Delete the first two sentences. Done.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. Say it at the counter
+2. Type that
+3. Delete the throat clearing
+
+**Caption**
+> Type what you would say at the counter. Delete the first two sentences. Done.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Write like you talk to a customer at the counter — where you have about eight seconds and a queue behind them.
+> 
+> Type exactly that. Then delete the first two sentences, because they are always throat clearing: 'Welcome', 'Thank you for visiting', 'We are a company that...'
+> 
+> What is left is the copy.
+> 
+> Try it on your homepage tonight.
+
+
+---
+
+
+## Post 07 · "Kindly" has never sold anything
+
+**Type:** Entertain · **Why it works:** A small, funny, absolutely true observation.
+
+### TikTok · 18:00 · Kinetic type, 14s
+
+**Hook (0-3s)**
+> "Kindly" has never sold anything. Neither has "we are pleased to inform you".
+
+**On-screen beats**
+- Nobody talks like that
+- Nobody buys like that
+- It is a costume
+- Take it off
+
+**Voiceover script**
+> Kindly has never sold anything, and neither has we are pleased to inform you. Nobody talks like that, so it reads as a costume, and the customer can feel the costume. Write the way you would tell a friend where to buy something, because that is the voice people trust with money.
+
+**Caption**
+> Nobody talks like that, so it reads as a costume. Take it off.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. "Kindly"
+2. "We are pleased to inform you"
+3. A costume
+
+**Caption**
+> Nobody talks like that, so it reads as a costume. Take it off.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> 'Kindly' has never sold anything. Neither has 'we are pleased to inform you'.
+> 
+> Nobody talks like that, so it reads as a costume — and the customer can feel the costume.
+> 
+> Write the way you would tell a friend where to buy something. That is the voice people trust with money.
+> 
+> Which phrase do you use too often?
+
+
+---
+
+
+## Post 08 · Repeat their words back
+
+**Type:** Entertain · **Why it works:** The gap between what a business wrote and what a stranger heard is the content.
+
+### TikTok · 19:00 · Street interview, 26s
+
+**Hook (0-3s)**
+> I read people a business description and asked them to repeat it back.
+
+**On-screen beats**
+- One sentence
+- They could not
+- They remembered the vibe
+- Not the offer
+
+**Voiceover script**
+> I read people one sentence from a business and asked them to repeat it back. Almost nobody could. They remembered the feeling of the description, which was pleasant and vague, but not a single person could tell me what the business sells. If a stranger cannot repeat your sentence ten seconds after hearing it, it is not a sentence, it is a mood.
+
+**Caption**
+> Nobody could repeat it back. They remembered the mood, not the offer.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 4-slide carousel
+
+**Slide copy**
+1. Read them one sentence
+2. Ask them to repeat it
+3. They remembered the mood
+4. Not the offer
+
+**Caption**
+> Nobody could repeat it back. They remembered the mood, not the offer.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I read people one sentence from a business and asked them to repeat it back.
+> 
+> Almost nobody could. They remembered the feeling of it — pleasant and vague — but not one person could tell me what the business sells.
+> 
+> If a stranger cannot repeat your sentence ten seconds after hearing it, it is not a sentence. It is a mood.
+> 
+> Can someone repeat yours?
+
+
+---
+
+
+## Post 09 · The Message Workbook
+
+**Type:** Sell · **Why it works:** Routes the wrong buyer to the right product, which is good business.
+
+### TikTok · 20:00 · Overhead shot, 23s
+
+**Hook (0-3s)**
+> The Message Workbook is for people who already know what they sell. If you do not, start with the homepage pack.
+
+**On-screen beats**
+- Workbook assumes clarity
+- Then it makes it sound like you
+- If you are still deciding
+- Start smaller
+
+**Voiceover script**
+> The Message Workbook is for people who already know what they sell and need to say it the same way everywhere. It assumes you have a sentence, and it makes that sentence work across your bio, your captions and your chat. If you are still working out what you sell, do not buy this yet. Start with the homepage pack, because the workbook will just make confusion consistent.
+
+**Caption**
+> Know what you sell? MESSAGE, ₦5,000. Still deciding? Start with HOMEPAGE. WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 4-slide carousel
+
+**Slide copy**
+1. Know what you sell?
+2. MESSAGE, ₦5,000
+3. Still deciding?
+4. Start with HOMEPAGE
+
+**Caption**
+> Know what you sell? MESSAGE, ₦5,000. Still deciding? Start with HOMEPAGE.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The Message Workbook is for people who already know what they sell and need to say it the same way everywhere.
+> 
+> It assumes you have a sentence. It makes that sentence work across your bio, your captions and your chat.
+> 
+> If you are still working out what you sell, do not buy this yet. Start with the homepage pack — otherwise the workbook just makes confusion consistent.
+> 
+> ₦5,000. Message MESSAGE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The word "disruptive"
+
+**Type:** Entertain · **Why it works:** A story about testing a word instead of arguing about it.
+
+### TikTok · 20:45 · Talking head, 32s
+
+**Hook (0-3s)**
+> A client insisted on the word disruptive. We kept it. Nothing happened. Then we removed it.
+
+**On-screen beats**
+- He loved it
+- It meant nothing to his customers
+- We tested it
+- The plain version won
+
+**Voiceover script**
+> A client wanted the word disruptive in his headline. We argued, then we stopped arguing and tested it: two versions, same ad, one week. The disruptive version got fewer clicks and two comments asking what it meant. We removed it and put back the plain sentence, which was about delivery times. He still says disruptive in meetings. The page does not.
+
+**Caption**
+> We tested the word instead of arguing about it. The plain version won.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 4-slide carousel
+
+**Slide copy**
+1. Client: "disruptive"
+2. We tested both headlines
+3. Fewer clicks, two questions
+4. The plain version won
+
+**Caption**
+> We tested the word instead of arguing about it. The plain version won.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> A client insisted on the word 'disruptive' in his headline. We argued, then stopped arguing and tested it: two versions, same ad, one week.
+> 
+> The 'disruptive' version got fewer clicks and two comments asking what it meant.
+> 
+> We removed it and put back the plain sentence about delivery times.
+> 
+> He still says 'disruptive' in meetings. The page does not.
+> 
+> What word would you bet on?
+
+
+---
+
+
+## Post 11 · Read it out loud
+
+**Type:** Teach · **Why it works:** The cheapest possible quality check, stated as a habit.
+
+### TikTok · 21:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> Read your homepage out loud. If you stumble, they will too.
+
+**On-screen beats**
+- Out loud
+- Not in your head
+- Every stumble is a comma problem
+- Or a lie
+
+**Voiceover script**
+> Read your homepage out loud, not in your head. Every place you stumble is either a sentence that is too long or a claim you do not believe. Both of those cost you customers, and both are free to fix. Six minutes, one room, your own voice, and you will hear things you have read past forty times.
+
+**Caption**
+> Read it out loud. Every stumble is a long sentence or a lie.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 3-slide carousel
+
+**Slide copy**
+1. Read it out loud
+2. Not in your head
+3. Every stumble is a problem
+
+**Caption**
+> Read it out loud. Every stumble is a long sentence or a lie.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Read your homepage out loud. Not in your head — out loud.
+> 
+> Every place you stumble is either a sentence that is too long or a claim you do not believe.
+> 
+> Both cost you customers. Both are free to fix.
+> 
+> Six minutes, one room, your own voice, and you will hear things you have read past forty times.
+> 
+> Try it now and tell me what you heard.
 
 
 ---

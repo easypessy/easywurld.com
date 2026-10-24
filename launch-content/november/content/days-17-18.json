@@ -1,0 +1,777 @@
+[
+  {
+    "day": 17,
+    "label": "Day 17 · Tuesday",
+    "theme": "Fix this Lagos",
+    "offer": "LOCAL",
+    "posts": [
+      {
+        "id": "D17-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "No photos, no hours, wrong number",
+        "why": "The wrong phone number is the detail that makes people check theirs.",
+        "tiktok": {
+          "fmt": "Screen recording, 24s",
+          "hook": "This listing has no photos, no hours, and the wrong phone number.",
+          "beats": [
+            "No photos",
+            "No hours",
+            "Wrong number",
+            "This is your shopfront at 2am"
+          ],
+          "vo": "This listing has no photos, no opening hours, and the phone number belongs to a shop that closed two years ago. It is not a website problem, it is your shopfront at two in the morning, and it is the only version of your business most people will ever see. The wrong number is the worst part, because the customer does not think the number is wrong. They think you did not pick up.",
+          "cap": "The wrong number is worse than no number. They think you ignored them."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "No photos",
+            "No hours",
+            "Wrong number",
+            "They think you ignored them"
+          ],
+          "cap": "Your listing is your shopfront at 2am. Check the phone number first.",
+          "body": "A listing I checked this week had no photos, no opening hours, and a phone number belonging to a shop that closed two years ago. The customer does not think the number is wrong. They think you did not pick up, and they do not try twice."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A listing I checked this week had no photos, no opening hours, and a phone number belonging to a shop that closed two years ago.\n\nYour Google listing is your shopfront at 2am, and it is the only version of your business most people will ever see.\n\nThe wrong number is the worst part. The customer does not think the number is wrong. They think you ignored them, and they do not try twice.\n\nCheck your number today."
+        }
+      },
+      {
+        "id": "D17-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "A second shop that never closes",
+        "why": "A reframe that makes an unglamorous task feel valuable.",
+        "tiktok": {
+          "fmt": "Kinetic type, 16s",
+          "hook": "Your Google listing is open when you are closed. It is a second shop.",
+          "beats": [
+            "You are asleep",
+            "It is answering",
+            "Or it is not",
+            "That is the choice"
+          ],
+          "vo": "Your Google listing is open when you are closed, which makes it a second shop, and the only one you own that works at midnight. It is either answering the four questions people have, or it is a closed shutter with your name on it. You decide which, once, in about an hour.",
+          "cap": "A second shop that never closes. You have already built it, badly or well.",
+          "body": "Your Google listing is open when you are closed. It is a second shop, and the only one you own that works at midnight. It is either answering the four questions people have, or it is a closed shutter with your name on it. You decide which, once, in about an hour."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Open at 2am",
+            "Answering, or shut",
+            "You decide once"
+          ],
+          "cap": "A second shop that never closes. You have already built it, badly or well.",
+          "body": "Your Google listing is open when you are closed. It is a second shop, and the only one you own that works at midnight. It is either answering the four questions people have, or it is a closed shutter with your name on it."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Your Google listing is open when you are closed. Which makes it a second shop — the only one you own that works at midnight.\n\nIt is either answering the four questions people have, or it is a closed shutter with your name on it.\n\nYou decide which, once, in about an hour of work.\n\nWhen did you last look at yours?"
+        }
+      },
+      {
+        "id": "D17-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The four fields that matter",
+        "why": "Reduces an intimidating task to four inputs.",
+        "tiktok": {
+          "fmt": "Kinetic type, 22s",
+          "hook": "Four fields on your listing matter more than everything else. Category, area, hours, phone.",
+          "beats": [
+            "Category decides what you appear for",
+            "Area decides where",
+            "Hours decide whether they come",
+            "Phone decides whether you answer"
+          ],
+          "vo": "Four fields on your Google listing do almost all the work. Category, which decides what you appear for. Area, which decides where. Hours, which decide whether they turn up. And phone, which decides whether you ever hear from them. Everything else on that page is decoration. Get these four right and the listing earns its keep.",
+          "cap": "Category · Area · Hours · Phone. Everything else on that page is decoration.",
+          "body": "Four fields on your Google listing do almost all of the work: category, area, hours, phone. Category decides what you appear for, area decides where, hours decide whether they turn up, and phone decides whether you ever hear from them. Everything else on that page is decoration."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Category: what you appear for",
+            "Area: where",
+            "Hours: whether they come",
+            "Phone: whether you hear"
+          ],
+          "cap": "Category · Area · Hours · Phone. Everything else on that page is decoration.",
+          "body": "Four fields on your Google listing do almost all of the work. Get these right and the listing earns its keep; everything else on the page is decoration."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Four fields on your Google listing do almost all the work:\n\n1. Category — what you appear for\n2. Area — where you appear\n3. Hours — whether they turn up\n4. Phone — whether you ever hear from them\n\nEverything else on that page is decoration.\n\nWhich of your four is wrong right now?"
+        }
+      },
+      {
+        "id": "D17-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "Reviews are the only free public proof",
+        "why": "Positions reviews as an asset rather than a vanity metric.",
+        "tiktok": {
+          "fmt": "Talking head, 21s",
+          "hook": "Reviews are not vanity. They are the only public proof you get for free.",
+          "beats": [
+            "Nobody can buy them honestly",
+            "Nobody can fake them forever",
+            "Ten reviews",
+            "Beat any adjective"
+          ],
+          "vo": "Reviews are not vanity. They are the only public proof you get for free, from people who have no reason to be kind to you. Ten reviews saying the delivery came when they said it would will outsell any adjective you can write about yourself, because it was written by someone with nothing to gain and it can be checked.",
+          "cap": "Ten real reviews beat any adjective you can write about yourself.",
+          "body": "Reviews are not vanity. They are the only public proof you get for free, from people with no reason to be kind to you. Ten reviews saying the delivery came when they said it would will outsell any adjective you write about yourself, because anyone can check them."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Reviews are not vanity",
+            "They are free public proof",
+            "Written by people with nothing to gain"
+          ],
+          "cap": "Ten real reviews beat any adjective you can write about yourself.",
+          "body": "Reviews are the only public proof you get for free, from people with no reason to be kind to you. Ten of them will outsell any adjective you write about yourself, because anyone can check them."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Reviews are not vanity. They are the only public proof you get for free, from people who have no reason to be kind to you.\n\nTen reviews saying 'the delivery came when they said it would' will outsell any adjective you can write about yourself — because it was written by someone with nothing to gain, and anyone can check it.\n\nHow many do you have, honestly?"
+        }
+      },
+      {
+        "id": "D17-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "Asked at the counter, not by email",
+        "why": "The timing insight is the whole post.",
+        "tiktok": {
+          "fmt": "Talking head, 28s",
+          "hook": "A customer left a review because she was asked at pickup. Not by email. At the counter.",
+          "beats": [
+            "Email came three days later",
+            "Gone",
+            "At the counter, she was holding the thing",
+            "Gratitude was highest right there"
+          ],
+          "vo": "A customer left a review because she was asked at pickup, at the counter, holding the thing she had just paid for. The email would have arrived three days later and she would have ignored it, like everyone ignores it. Reviews are not about asking nicely, they are about asking at the exact moment gratitude is highest, which is about forty seconds after delivery.",
+          "cap": "Ask at the moment gratitude peaks. Which is not three days later, by email.",
+          "body": "A customer left a review because she was asked at pickup, at the counter, holding the thing she had just paid for. The email would have arrived three days later, and she would have ignored it like everyone ignores it. Ask at the moment gratitude peaks."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Asked by email: ignored",
+            "Asked at the counter: reviewed",
+            "Holding the thing she paid for",
+            "Timing beats politeness"
+          ],
+          "cap": "Ask at the moment gratitude peaks. Which is not three days later, by email.",
+          "body": "She left the review because she was asked at pickup, holding the thing she had just paid for. The email three days later would have been ignored, like all of them are."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A customer left a review because she was asked at pickup. At the counter. Holding the thing she had just paid for.\n\nThe email would have come three days later and she would have ignored it, like everyone ignores those emails.\n\nReviews are not about asking nicely. They are about asking at the moment gratitude is highest — about forty seconds after delivery.\n\nWhen do you ask?"
+        }
+      },
+      {
+        "id": "D17-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Ask for the review at the moment of delivery",
+        "why": "A one-line habit change with a visible effect.",
+        "tiktok": {
+          "fmt": "Kinetic type, 20s",
+          "hook": "Ask for the review at the moment of delivery. Not later. Then.",
+          "beats": [
+            "While the box is open",
+            "One sentence",
+            "A link",
+            "That is the whole system"
+          ],
+          "vo": "Ask for the review at the moment of delivery, while the box is still open and the joy has not worn off. One sentence, one link, and then stop asking. The reason most businesses have eleven reviews after six years is not that customers are stingy, it is that they ask on a Tuesday, by email, three days after everyone stopped caring.",
+          "cap": "One sentence at delivery. One link. Then never mention it again.",
+          "body": "Ask for the review at the moment of delivery, while the box is still open and the joy has not worn off. One sentence, one link, then stop asking. Most businesses have eleven reviews after six years because they ask on a Tuesday, by email, three days late."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "The box is still open",
+            "One sentence",
+            "One link, then never again"
+          ],
+          "cap": "One sentence at delivery. One link. Then never mention it again.",
+          "body": "Most businesses have eleven reviews after six years because they ask on a Tuesday, by email, three days late. Ask at the door, while the joy has not worn off."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Ask for the review at the moment of delivery. While the box is still open and the joy has not worn off.\n\nOne sentence. One link. Then never mention it again.\n\nThe reason most businesses have eleven reviews after six years is not stingy customers. It is that they ask on a Tuesday, by email, three days after everyone stopped caring.\n\nTry asking at the door this week and count."
+        }
+      },
+      {
+        "id": "D17-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "One bad review answered well",
+        "why": "Turns a fear into a strategy.",
+        "tiktok": {
+          "fmt": "Kinetic type, 17s",
+          "hook": "One bad review answered well beats ten good ones.",
+          "beats": [
+            "Because it is public",
+            "Because it is calm",
+            "Because it was hard",
+            "Everybody is watching how you handle it"
+          ],
+          "vo": "One bad review answered well beats ten good ones, because the good ones are easy and nobody learns anything from them. The bad one is where everyone is watching to see what kind of person you are when it costs you something. Answer it calmly, say what happened, say what changed, and do not argue. That is the demonstration.",
+          "cap": "The bad review is where everybody watches to see who you are.",
+          "body": "One bad review answered well beats ten good ones, because the good ones are easy and nobody learns anything from them. The bad one is where everyone watches to see what kind of person you are when it costs you something. Answer calmly, say what changed, do not argue."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Bad review arrives",
+            "Everyone watches",
+            "Answer calmly, say what changed"
+          ],
+          "cap": "The bad review is where everybody watches to see who you are.",
+          "body": "Good reviews are easy and nobody learns from them. The bad one is the demonstration: say what happened, say what changed, and do not argue in public."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "One bad review answered well beats ten good ones.\n\nGood reviews are easy, and nobody learns anything from them. The bad one is where everyone is watching to see what kind of person you are when it costs you something.\n\nAnswer calmly. Say what happened. Say what changed. Do not argue.\n\nThat is the demonstration.\n\nHave you seen a business handle this well?"
+        }
+      },
+      {
+        "id": "D17-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "Do you check reviews before a new shop?",
+        "why": "Nine of ten is a number the audience can act on.",
+        "tiktok": {
+          "fmt": "Street interview, 25s",
+          "hook": "I asked if people check reviews before trying a new shop. Nine out of ten said yes.",
+          "beats": [
+            "Nine of ten",
+            "They read the bad ones first",
+            "Then the replies",
+            "Then they decide"
+          ],
+          "vo": "I asked whether people check reviews before trying a new shop. Nine out of ten said yes, and most said they read the bad ones first, and then they read how the owner replied. So your worst review is not a wound, it is an audition, and it is happening whether you answer it or not.",
+          "cap": "Nine of ten check. Most read the bad ones first, then the replies.",
+          "body": "Nine out of ten people said they check reviews before trying a new shop. Most said they read the bad ones first, then they read how the owner replied. Your worst review is not a wound, it is an audition, and it happens whether you answer or not."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "9 of 10 check reviews",
+            "Most read the bad ones first",
+            "Then the owner's reply",
+            "That is the audition"
+          ],
+          "cap": "Nine of ten check. Most read the bad ones first, then the replies.",
+          "body": "Nine out of ten people said they check reviews before trying a new shop, and most read the bad ones first — then how the owner replied. Your worst review is an audition, whether you attend or not."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I asked whether people check reviews before trying a new shop. Nine out of ten said yes.\n\nMost said they read the bad ones first. Then they read how the owner replied.\n\nSo your worst review is not a wound. It is an audition — and it happens whether you answer it or not.\n\nAre you watching yours?"
+        }
+      },
+      {
+        "id": "D17-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "The launch handbook",
+        "why": "Explicitly bounds the product so nobody is surprised.",
+        "tiktok": {
+          "fmt": "Overhead shot, 24s",
+          "hook": "The launch handbook covers listings and ownership. It does not build your website.",
+          "beats": [
+            "What it covers",
+            "What it does not",
+            "Be clear",
+            "Then it is worth five thousand"
+          ],
+          "vo": "The launch handbook covers the things after the website: claiming your listing, photos, hours, who owns the domain, who pays for hosting. It does not build the site and it will not design anything. If you have a site and nobody finds it, this is the pack. If you do not have a site, start with the homepage one instead.",
+          "cap": "Covers listings and ownership. Not the build. ₦5,000. LAUNCH on WhatsApp: 0905 069 0837.",
+          "body": "The launch handbook covers what happens after the website: claiming your listing, photos, hours, who owns the domain, who pays for hosting. It does not build the site and it will not design anything. If you have a site and nobody finds it, this is the pack."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Listing claimed",
+            "Photos and hours",
+            "Domain and hosting owner",
+            "Not the build"
+          ],
+          "cap": "Covers listings and ownership. Not the build. ₦5,000. LAUNCH on WhatsApp: 0905 069 0837.",
+          "body": "The Launch Handbook covers what happens after the website: your listing, photos, hours, who owns the domain, who pays for hosting. It does not build the site and it will not design anything."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The Launch Handbook covers the things after the website: claiming your listing, photos, hours, who owns the domain, who pays for hosting.\n\nIt does not build the site. It will not design anything.\n\nIf you already have a site and nobody finds it, this is the pack. If you do not have a site yet, start with the homepage one instead.\n\n₦5,000. Message LAUNCH on WhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D17-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "We refused to buy reviews",
+        "why": "The one irreversible mistake is worth a whole post.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "Someone offered to get us reviews. We said no, and here is why it is the worst thing you can buy.",
+          "beats": [
+            "They are cheap",
+            "They are traceable",
+            "They never go away",
+            "You cannot delete a pattern"
+          ],
+          "vo": "Someone offered to get us reviews for a small fee. We said no, because bought reviews are the only mistake in this business you cannot undo. A fake review can be reported, and the pattern of them can be spotted, and when it is, every real review you have becomes suspect too. You are trading six years of trust for eleven numbers.",
+          "cap": "Bought reviews are the only mistake here you cannot undo.",
+          "body": "Someone offered to get us reviews for a small fee. We said no. Bought reviews are the only mistake in this business you cannot undo: a fake can be reported, the pattern can be spotted, and when it is, every real review you have becomes suspect too."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Bought reviews: cheap",
+            "Fakes get reported",
+            "Then every real one is suspect"
+          ],
+          "cap": "Bought reviews are the only mistake here you cannot undo.",
+          "body": "A fake review can be reported and the pattern of them can be spotted. When it is, every genuine review you have becomes suspect too. You traded years of trust for eleven numbers."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Someone offered to get us reviews for a small fee. We said no.\n\nBought reviews are the only mistake in this business you cannot undo. One fake can be reported. The pattern of them can be spotted. And when it is, every real review you have becomes suspect too.\n\nYou would be trading six years of trust for eleven numbers.\n\nHave you ever suspected a shop of this?"
+        }
+      },
+      {
+        "id": "D17-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Area in the caption, every time",
+        "why": "Repeats the day's simplest mechanic at the end, when it is easiest to act.",
+        "tiktok": {
+          "fmt": "Kinetic type, 19s",
+          "hook": "Put your area in the caption every single time. Search reads captions.",
+          "beats": [
+            "Not hashtags",
+            "The words",
+            "Yaba",
+            "One word"
+          ],
+          "vo": "Put your area in the caption every single time, in words. Not a hashtag, the actual word: Yaba, Ikeja, Wuse. Search reads the words you wrote, and it reads them long before it reads your hashtags. One word, every post, and you are findable by the people who are already near you.",
+          "cap": "Yaba is a keyword. Put it in the caption, in words, every post.",
+          "body": "Put your area in the caption every single time, in words. Not a hashtag, the actual word: Yaba, Ikeja, Wuse. Search reads the words you wrote before it reads your hashtags, and one word per post makes you findable to people who are already near you."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Not a hashtag",
+            "The word itself",
+            "Yaba, every post"
+          ],
+          "cap": "Yaba is a keyword. Put it in the caption, in words, every post.",
+          "body": "Search reads the words you wrote before it reads your hashtags. One place name per post makes you findable by people who are already near you, which is the cheapest audience there is."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Put your area in the caption every single time, in words.\n\nNot a hashtag. The actual word: Yaba, Ikeja, Wuse, Surulere.\n\nSearch reads the words you wrote, long before it reads your hashtags. One word per post makes you findable by people who are already near you.\n\nWhich word should be in yours?"
+        }
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "label": "Day 18 · Wednesday",
+    "theme": "Fix this Lagos",
+    "offer": "MESSAGE",
+    "posts": [
+      {
+        "id": "D18-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "\"Bespoke\" four times",
+        "why": "A specific, funny, checkable failure.",
+        "tiktok": {
+          "fmt": "Screen recording, 23s",
+          "hook": "This page says bespoke four times and never tells you what they actually make.",
+          "beats": [
+            "Bespoke",
+            "Tailored",
+            "Curated",
+            "Then no noun at all"
+          ],
+          "vo": "This page says bespoke four times, tailored twice, and curated once, and it never once tells you what they make. Fancy words are a hiding place, because a specific word can be argued with and a fancy one cannot. The customer is not impressed by bespoke. They are looking for the noun.",
+          "cap": "Bespoke ×4, tailored ×2, curated ×1, and no noun anywhere.",
+          "body": "This page says bespoke four times, tailored twice, and curated once, and never tells you what they actually make. Fancy words are a hiding place, because a specific word can be argued with and a fancy one cannot. The customer is looking for the noun."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Bespoke ×4",
+            "Tailored ×2",
+            "Curated ×1",
+            "Noun: none"
+          ],
+          "cap": "Bespoke ×4, tailored ×2, curated ×1, and no noun anywhere.",
+          "body": "Fancy words are a hiding place, because a specific word can be argued with and a fancy one cannot. The customer is not impressed by bespoke. They are looking for the noun."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A page I read this week says 'bespoke' four times, 'tailored' twice and 'curated' once, and never tells you what they actually make.\n\nFancy words are a hiding place, because a specific word can be argued with and a fancy one cannot.\n\nThe customer is not impressed by 'bespoke'. They are looking for the noun.\n\nWhat is your noun?"
+        }
+      },
+      {
+        "id": "D18-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "If it could be on any site",
+        "why": "A deletion test that takes thirty seconds.",
+        "tiktok": {
+          "fmt": "Kinetic type, 15s",
+          "hook": "If a word could appear on any site, it belongs on none.",
+          "beats": [
+            "Quality",
+            "Passion",
+            "Excellence",
+            "Delete and see what is left"
+          ],
+          "vo": "If a word could appear on any site in the world, it belongs on none. Quality, passion, excellence, world class. Delete them all and read what is left. If the page still says something, you had a page. If it says nothing, you had adjectives with a logo on top.",
+          "cap": "Delete every word that could be on any site. Read what is left.",
+          "body": "If a word could appear on any site in the world, it belongs on none. Quality, passion, excellence, world class. Delete them all and read what is left. If the page still says something, you had a page. If it says nothing, you had adjectives with a logo on top."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Quality",
+            "Passion",
+            "Excellence",
+            "Delete all three"
+          ],
+          "cap": "Delete every word that could be on any site. Read what is left.",
+          "body": "If the page still says something, you had a page. If it says nothing once the adjectives are gone, you had a logo with decoration on top."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "If a word could appear on any site in the world, it belongs on none.\n\nQuality. Passion. Excellence. World class.\n\nDelete them all and read what is left. If the page still says something, you had a page. If it says nothing, you had adjectives with a logo on top.\n\nWhat survives on your page?"
+        }
+      },
+      {
+        "id": "D18-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "One adjective into one number",
+        "why": "The most directly useful copy edit in the month.",
+        "tiktok": {
+          "fmt": "Kinetic type, 22s",
+          "hook": "Replace one adjective with one number. Fast becomes within twenty minutes.",
+          "beats": [
+            "Fast is a claim",
+            "Twenty minutes is a fact",
+            "Cheap becomes this price",
+            "Reliable becomes four years"
+          ],
+          "vo": "Replace one adjective with one number. Fast becomes within twenty minutes. Affordable becomes from twelve thousand. Reliable becomes four years without a missed delivery. Adjectives are claims and numbers are evidence, and you already know your numbers, you just did not think they were marketing.",
+          "cap": "Fast → within 20 minutes. Affordable → from ₦12,000. Reliable → 4 years.",
+          "body": "Replace one adjective with one number. Fast becomes within twenty minutes. Affordable becomes from ₦12,000. Reliable becomes four years without a missed delivery. Adjectives are claims and numbers are evidence, and you already know your numbers."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Fast → within 20 minutes",
+            "Affordable → from ₦12,000",
+            "Reliable → 4 years, no misses",
+            "Numbers are evidence"
+          ],
+          "cap": "Fast → within 20 minutes. Affordable → from ₦12,000. Reliable → 4 years.",
+          "body": "Adjectives are claims and numbers are evidence. You already know your numbers — you just did not think they were marketing."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Replace one adjective with one number.\n\n'Fast' becomes 'within 20 minutes'.\n'Affordable' becomes 'from ₦12,000'.\n'Reliable' becomes 'four years without a missed delivery'.\n\nAdjectives are claims. Numbers are evidence.\n\nYou already know your numbers. You just did not think they were marketing.\n\nWhat would yours be?"
+        }
+      },
+      {
+        "id": "D18-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "Copywriting is removal",
+        "why": "Reframes the task from writing to cutting, which is easier.",
+        "tiktok": {
+          "fmt": "Talking head, 18s",
+          "hook": "Copywriting is not cleverness. It is removal.",
+          "beats": [
+            "First draft: three sentences",
+            "Best line: one",
+            "Delete the first two",
+            "That is the edit"
+          ],
+          "vo": "Copywriting is not cleverness, it is removal. The first draft is three sentences. The best line is one of them, usually the last. So delete the first two and you are done, and it will be better than the version you were proud of, which is annoying and reliable in equal measure.",
+          "cap": "Your best line was the last sentence. Delete the two before it.",
+          "body": "Copywriting is not cleverness, it is removal. Your first draft is three sentences and the best line is one of them, usually the last. Delete the first two and you are done, and it will be better than the version you were proud of."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Draft: three sentences",
+            "Best line: the last one",
+            "Delete the first two"
+          ],
+          "cap": "Your best line was the last sentence. Delete the two before it.",
+          "body": "Copywriting is removal. The first draft is three sentences, the best line is one of them, and it is almost always the last. Ship that one."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Copywriting is not cleverness. It is removal.\n\nYour first draft is three sentences. The best line is one of them — usually the last. Delete the first two and you are done.\n\nIt will be better than the version you were proud of, which is annoying and reliable in equal measure.\n\nWhat could you cut from your homepage tonight?"
+        }
+      },
+      {
+        "id": "D18-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "Halved headline, doubled clicks",
+        "why": "A before-and-after with one number and no exaggeration.",
+        "tiktok": {
+          "fmt": "Talking head, 27s",
+          "hook": "A headline halved in length doubled the clicks. Nobody reads the second clause.",
+          "beats": [
+            "Twenty two words",
+            "Eleven",
+            "Second clause deleted",
+            "Clicks doubled"
+          ],
+          "vo": "A headline was twenty two words long, so we cut it to eleven by deleting the second clause. The meaning did not change, because the second clause was repeating the first in a politer voice. Clicks doubled. Nobody reads the second clause. They read the first four words and decide, which is why every word after those has to earn its place.",
+          "cap": "Twenty-two words to eleven. The meaning did not change. Clicks doubled.",
+          "body": "A headline was twenty-two words, so we cut it to eleven by deleting the second clause. The meaning did not change, because the second clause was repeating the first in a politer voice. Clicks doubled. Nobody reads the second clause."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Before: 22 words",
+            "After: 11",
+            "Second clause deleted",
+            "Clicks doubled"
+          ],
+          "cap": "Twenty-two words to eleven. The meaning did not change. Clicks doubled.",
+          "body": "Nobody reads the second clause. They read the first four words and decide, which is why every word after those has to earn its place."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A headline was twenty-two words. We cut it to eleven by deleting the second clause.\n\nThe meaning did not change, because the second clause was repeating the first in a politer voice.\n\nClicks doubled.\n\nNobody reads the second clause. They read the first four words and decide. Which is why every word after those has to earn its place.\n\nHow long is yours?"
+        }
+      },
+      {
+        "id": "D18-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Write like you talk at the counter",
+        "why": "Gives a physical setting, which makes the voice easy to find.",
+        "tiktok": {
+          "fmt": "Kinetic type, 23s",
+          "hook": "Write like you talk to a customer at the counter. Then delete the first two sentences.",
+          "beats": [
+            "How would you say it out loud",
+            "Type that",
+            "Then delete the throat clearing",
+            "That is the copy"
+          ],
+          "vo": "Write like you talk to a customer at the counter. Not on the phone, at the counter, where you have about eight seconds and a queue behind them. Type exactly that. Then delete the first two sentences, because they are always throat clearing: welcome, thank you for visiting, we are a company that. What is left is the copy.",
+          "cap": "Type what you would say at the counter. Delete the first two sentences. Done.",
+          "body": "Write like you talk to a customer at the counter, where you have about eight seconds and a queue behind them. Type exactly that. Then delete the first two sentences, because they are always throat clearing. What is left is the copy."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Say it at the counter",
+            "Type that",
+            "Delete the throat clearing"
+          ],
+          "cap": "Type what you would say at the counter. Delete the first two sentences. Done.",
+          "body": "At the counter you have eight seconds and a queue behind them. Write that version, then delete the welcome and the thank you for visiting, because that is all the first two sentences ever are."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Write like you talk to a customer at the counter — where you have about eight seconds and a queue behind them.\n\nType exactly that. Then delete the first two sentences, because they are always throat clearing: 'Welcome', 'Thank you for visiting', 'We are a company that...'\n\nWhat is left is the copy.\n\nTry it on your homepage tonight."
+        }
+      },
+      {
+        "id": "D18-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "\"Kindly\" has never sold anything",
+        "why": "A small, funny, absolutely true observation.",
+        "tiktok": {
+          "fmt": "Kinetic type, 14s",
+          "hook": "\"Kindly\" has never sold anything. Neither has \"we are pleased to inform you\".",
+          "beats": [
+            "Nobody talks like that",
+            "Nobody buys like that",
+            "It is a costume",
+            "Take it off"
+          ],
+          "vo": "Kindly has never sold anything, and neither has we are pleased to inform you. Nobody talks like that, so it reads as a costume, and the customer can feel the costume. Write the way you would tell a friend where to buy something, because that is the voice people trust with money.",
+          "cap": "Nobody talks like that, so it reads as a costume. Take it off.",
+          "body": "Kindly has never sold anything, and neither has 'we are pleased to inform you'. Nobody talks like that, so it reads as a costume, and the customer can feel the costume. Write the way you would tell a friend where to buy something."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "\"Kindly\"",
+            "\"We are pleased to inform you\"",
+            "A costume"
+          ],
+          "cap": "Nobody talks like that, so it reads as a costume. Take it off.",
+          "body": "Write the way you would tell a friend where to buy something. That is the voice people trust with money, and it is the only voice that sounds like a person."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "'Kindly' has never sold anything. Neither has 'we are pleased to inform you'.\n\nNobody talks like that, so it reads as a costume — and the customer can feel the costume.\n\nWrite the way you would tell a friend where to buy something. That is the voice people trust with money.\n\nWhich phrase do you use too often?"
+        }
+      },
+      {
+        "id": "D18-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "Repeat their words back",
+        "why": "The gap between what a business wrote and what a stranger heard is the content.",
+        "tiktok": {
+          "fmt": "Street interview, 26s",
+          "hook": "I read people a business description and asked them to repeat it back.",
+          "beats": [
+            "One sentence",
+            "They could not",
+            "They remembered the vibe",
+            "Not the offer"
+          ],
+          "vo": "I read people one sentence from a business and asked them to repeat it back. Almost nobody could. They remembered the feeling of the description, which was pleasant and vague, but not a single person could tell me what the business sells. If a stranger cannot repeat your sentence ten seconds after hearing it, it is not a sentence, it is a mood.",
+          "cap": "Nobody could repeat it back. They remembered the mood, not the offer.",
+          "body": "I read people one sentence from a business and asked them to repeat it back. Almost nobody could. They remembered the feeling of it, which was pleasant and vague, but not one person could tell me what the business sells. If it cannot be repeated, it is a mood, not a sentence."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Read them one sentence",
+            "Ask them to repeat it",
+            "They remembered the mood",
+            "Not the offer"
+          ],
+          "cap": "Nobody could repeat it back. They remembered the mood, not the offer.",
+          "body": "If a stranger cannot repeat your sentence ten seconds after hearing it, it is not a sentence. It is a mood, and moods do not get written down or passed on."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I read people one sentence from a business and asked them to repeat it back.\n\nAlmost nobody could. They remembered the feeling of it — pleasant and vague — but not one person could tell me what the business sells.\n\nIf a stranger cannot repeat your sentence ten seconds after hearing it, it is not a sentence. It is a mood.\n\nCan someone repeat yours?"
+        }
+      },
+      {
+        "id": "D18-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "The Message Workbook",
+        "why": "Routes the wrong buyer to the right product, which is good business.",
+        "tiktok": {
+          "fmt": "Overhead shot, 23s",
+          "hook": "The Message Workbook is for people who already know what they sell. If you do not, start with the homepage pack.",
+          "beats": [
+            "Workbook assumes clarity",
+            "Then it makes it sound like you",
+            "If you are still deciding",
+            "Start smaller"
+          ],
+          "vo": "The Message Workbook is for people who already know what they sell and need to say it the same way everywhere. It assumes you have a sentence, and it makes that sentence work across your bio, your captions and your chat. If you are still working out what you sell, do not buy this yet. Start with the homepage pack, because the workbook will just make confusion consistent.",
+          "cap": "Know what you sell? MESSAGE, ₦5,000. Still deciding? Start with HOMEPAGE. WhatsApp: 0905 069 0837.",
+          "body": "The Message Workbook is for people who already know what they sell and need to say it the same way everywhere. It assumes you have a sentence. If you are still working out what you sell, do not buy this yet — start with the homepage pack, or the workbook will just make confusion consistent."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Know what you sell?",
+            "MESSAGE, ₦5,000",
+            "Still deciding?",
+            "Start with HOMEPAGE"
+          ],
+          "cap": "Know what you sell? MESSAGE, ₦5,000. Still deciding? Start with HOMEPAGE.",
+          "body": "The workbook assumes you have a sentence and makes it work everywhere. Without a sentence it just makes confusion consistent, which is why I send people to the homepage pack first."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The Message Workbook is for people who already know what they sell and need to say it the same way everywhere.\n\nIt assumes you have a sentence. It makes that sentence work across your bio, your captions and your chat.\n\nIf you are still working out what you sell, do not buy this yet. Start with the homepage pack — otherwise the workbook just makes confusion consistent.\n\n₦5,000. Message MESSAGE on WhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D18-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "The word \"disruptive\"",
+        "why": "A story about testing a word instead of arguing about it.",
+        "tiktok": {
+          "fmt": "Talking head, 32s",
+          "hook": "A client insisted on the word disruptive. We kept it. Nothing happened. Then we removed it.",
+          "beats": [
+            "He loved it",
+            "It meant nothing to his customers",
+            "We tested it",
+            "The plain version won"
+          ],
+          "vo": "A client wanted the word disruptive in his headline. We argued, then we stopped arguing and tested it: two versions, same ad, one week. The disruptive version got fewer clicks and two comments asking what it meant. We removed it and put back the plain sentence, which was about delivery times. He still says disruptive in meetings. The page does not.",
+          "cap": "We tested the word instead of arguing about it. The plain version won.",
+          "body": "A client wanted the word 'disruptive' in his headline. We stopped arguing and tested two versions for a week. The disruptive one got fewer clicks and two comments asking what it meant. We put back the plain sentence about delivery times."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Client: \"disruptive\"",
+            "We tested both headlines",
+            "Fewer clicks, two questions",
+            "The plain version won"
+          ],
+          "cap": "We tested the word instead of arguing about it. The plain version won.",
+          "body": "Two versions, same ad, one week. The clever word lost to a sentence about delivery times. He still says disruptive in meetings; the page does not."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A client insisted on the word 'disruptive' in his headline. We argued, then stopped arguing and tested it: two versions, same ad, one week.\n\nThe 'disruptive' version got fewer clicks and two comments asking what it meant.\n\nWe removed it and put back the plain sentence about delivery times.\n\nHe still says 'disruptive' in meetings. The page does not.\n\nWhat word would you bet on?"
+        }
+      },
+      {
+        "id": "D18-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Read it out loud",
+        "why": "The cheapest possible quality check, stated as a habit.",
+        "tiktok": {
+          "fmt": "Kinetic type, 20s",
+          "hook": "Read your homepage out loud. If you stumble, they will too.",
+          "beats": [
+            "Out loud",
+            "Not in your head",
+            "Every stumble is a comma problem",
+            "Or a lie"
+          ],
+          "vo": "Read your homepage out loud, not in your head. Every place you stumble is either a sentence that is too long or a claim you do not believe. Both of those cost you customers, and both are free to fix. Six minutes, one room, your own voice, and you will hear things you have read past forty times.",
+          "cap": "Read it out loud. Every stumble is a long sentence or a lie.",
+          "body": "Read your homepage out loud, not in your head. Every place you stumble is either a sentence that is too long or a claim you do not believe. Both cost you customers and both are free to fix. Six minutes, one room, your own voice."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Read it out loud",
+            "Not in your head",
+            "Every stumble is a problem"
+          ],
+          "cap": "Read it out loud. Every stumble is a long sentence or a lie.",
+          "body": "Every place you stumble is either a sentence that is too long or a claim you do not believe. Both cost you customers and both are free to fix tonight."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Read your homepage out loud. Not in your head — out loud.\n\nEvery place you stumble is either a sentence that is too long or a claim you do not believe.\n\nBoth cost you customers. Both are free to fix.\n\nSix minutes, one room, your own voice, and you will hear things you have read past forty times.\n\nTry it now and tell me what you heard."
+        }
+      }
+    ]
+  }
+]
