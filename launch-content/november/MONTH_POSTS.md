@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Wednesday 18 November 2026** |
+| Ends | **Thursday 19 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **594 posts** (198 core ideas x 3 platforms) |
+| Month total | **627 posts** (209 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -11095,6 +11095,612 @@ writing on the spot.
 > Six minutes, one room, your own voice, and you will hear things you have read past forty times.
 > 
 > Try it now and tell me what you heard.
+
+
+---
+
+
+# Day 19 · Thursday · Thursday 19 Nov 2026 — Fix this Lagos
+
+**Offer in focus:** OFFER
+
+---
+
+
+## Post 01 · Nine things, no lead
+
+**Type:** Entertain · **Why it works:** The list itself is the joke and the diagnosis.
+
+### TikTok · 07:00 · Screen recording, 24s
+
+**Hook (0-3s)**
+> This business sells nine things and leads with none of them.
+
+**On-screen beats**
+- Catering
+- Laundry
+- Errands
+- Printing
+- Event decor
+- All in one menu, none first
+
+**Voiceover script**
+> This business sells nine things: catering, laundry, errands, printing, event decor, and four more, all listed at the same size on the same screen. A stranger cannot pick one, so they pick nothing. The list is not the problem, the flatness is, because everything at the same volume is silence.
+
+**Caption**
+> Nine services, all the same size. A stranger cannot pick one, so they pick nothing.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 5-slide carousel
+
+**Slide copy**
+1. Catering
+2. Laundry
+3. Errands
+4. Printing
+5. …and five more
+
+**Caption**
+> Everything at the same volume is silence.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A business I looked at sells nine things: catering, laundry, errands, printing, event decor and four more — all at the same size, on the same screen.
+> 
+> A stranger cannot pick one, so they pick nothing.
+> 
+> The list is not the problem. The flatness is. Everything at the same volume is silence.
+> 
+> What is the one thing you would want a stranger to remember?
+
+
+---
+
+
+## Post 02 · "We do everything"
+
+**Type:** Entertain · **Why it works:** A line people repeat after hearing it once.
+
+### TikTok · 09:15 · Kinetic type, 16s
+
+**Hook (0-3s)**
+> "We do everything" means "we are not first at anything".
+
+**On-screen beats**
+- Everything is a category
+- Not an offer
+- Nobody searches for everything
+- They search for one thing
+
+**Voiceover script**
+> We do everything means we are not first at anything, and customers do not search for everything. They search for a thing, on a day, near them, at a price. Being one of nine is being none of the nine, and the person who is first at one of them gets the call.
+
+**Caption**
+> Nobody searches for "everything". They search for one thing on one day.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. "We do everything"
+2. = we are first at nothing
+3. Pick one and be first
+
+**Caption**
+> One of nine is none of the nine.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> 'We do everything' means 'we are not first at anything'.
+> 
+> Nobody searches for everything. They search for a thing, on a day, near them, at a price.
+> 
+> Being one of nine is being none of the nine — and the person who is first at one of them gets the call.
+> 
+> Which one are you actually first at?
+
+
+---
+
+
+## Post 03 · Lead with one offer for thirty days
+
+**Type:** Teach · **Why it works:** A time-boxed experiment, which is easy to agree to.
+
+### TikTok · 11:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Lead with one offer for thirty days, then add the second.
+
+**On-screen beats**
+- One offer
+- Every post
+- Thirty days
+- Then you will know
+
+**Voiceover script**
+> Lead with one offer for thirty days. Same offer, every post, different angle. Not because the others are bad, but because thirty days is the shortest honest test of whether an offer can carry attention. After thirty days you will know whether to add the second one or fix the first, and you will know it from evidence instead of hope.
+
+**Caption**
+> One offer, thirty days, then add the second. That is the whole test.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 4-slide carousel
+
+**Slide copy**
+1. One offer
+2. Thirty days
+3. Same offer, new angle
+4. Then add the second
+
+**Caption**
+> Thirty days is the shortest honest test there is.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Lead with one offer for thirty days. Same offer, every post, different angle.
+> 
+> Not because the others are bad — because thirty days is the shortest honest test of whether an offer can carry attention.
+> 
+> After that you will know whether to add the second one or fix the first.
+> 
+> Which offer would you choose for thirty days?
+
+
+---
+
+
+## Post 04 · A fear of losing the wrong customer
+
+**Type:** Entertain · **Why it works:** Explains the psychology behind a common mistake.
+
+### TikTok · 13:45 · Talking head, 20s
+
+**Hook (0-3s)**
+> Broad offers are a fear of losing the wrong customer. So you lose the right one.
+
+**On-screen beats**
+- Keep everyone
+- Sound like no one
+- The right customer cannot see themselves
+- They leave first
+
+**Voiceover script**
+> Broad offers are a fear of losing the wrong customer, and the result is you lose the right one. When you try to be for everybody, nobody can see themselves in the sentence, and the person with a specific problem and money to solve it is the first to leave, because they need to be understood more than they need a bargain.
+
+**Caption**
+> Trying to keep everyone loses the person who would have paid.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Fear: lose someone
+2. Result: sound like no one
+3. The paying customer leaves first
+
+**Caption**
+> Being understood is worth more than being available.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Broad offers are usually a fear of losing the wrong customer. The result is that you lose the right one.
+> 
+> When nobody can see themselves in your sentence, the person with a specific problem and money to solve it leaves first — because they need to feel understood more than they need a bargain.
+> 
+> Who are you actually for?
+
+
+---
+
+
+## Post 05 · The caterer who stopped doing events
+
+**Type:** Entertain · **Why it works:** Narrowing looking like shrinking is a fear worth naming.
+
+### TikTok · 15:00 · Talking head, 29s
+
+**Hook (0-3s)**
+> A caterer stopped doing events and got more weddings.
+
+**On-screen beats**
+- She did everything
+- Then only weddings
+- Fewer enquiries
+- More bookings
+
+**Voiceover script**
+> A caterer removed everything except weddings from her page. Enquiries went down by about a third, and bookings went up, because the people who arrived were planning a wedding and she was obviously the wedding person. Narrowing looked like shrinking for six weeks, and then it looked like the only decision that mattered.
+
+**Caption**
+> Fewer enquiries, more bookings. Narrowing looked like shrinking first.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. Before: everything
+2. After: weddings only
+3. Enquiries: down a third
+4. Bookings: up
+
+**Caption**
+> The wrong enquiries are not a pipeline. They are a queue of people who will not buy.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A caterer took everything except weddings off her page.
+> 
+> Enquiries went down by about a third. Bookings went up — because everyone who arrived was planning a wedding, and she was obviously the wedding person.
+> 
+> Narrowing looked like shrinking for six weeks, then it looked like the only decision that mattered.
+> 
+> What could you take off your page?
+
+
+---
+
+
+## Post 06 · The 80/20 list
+
+**Type:** Teach · **Why it works:** A written exercise with a physical action attached.
+
+### TikTok · 16:30 · Kinetic type, 23s
+
+**Hook (0-3s)**
+> Write down everything you sell. Circle what actually pays. Then lead with that.
+
+**On-screen beats**
+- Everything you sell
+- Everything that pays
+- Two lists
+- Circle one
+
+**Voiceover script**
+> Write down everything you sell on the left, and everything that actually pays on the right. The right column will be shorter, and it will not match the order on your website. Circle one thing in the right column and lead with it for thirty days. That is the whole exercise, and most people have never done it because the left list is more fun.
+
+**Caption**
+> Two lists: what you sell, and what pays. Circle one from the second.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 4-slide carousel
+
+**Slide copy**
+1. List 1: what you sell
+2. List 2: what pays
+3. They do not match
+4. Circle one
+
+**Caption**
+> The list that pays is shorter and less interesting. Start there.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Write two lists tonight.
+> 
+> Left: everything you sell.
+> Right: everything that actually pays.
+> 
+> The right column will be shorter, and it will not match the order on your website.
+> 
+> Circle one thing in the right column and lead with it for thirty days.
+> 
+> Most people have never done this, because the left list is more fun.
+
+
+---
+
+
+## Post 07 · Your cheapest offer is the loudest
+
+**Type:** Entertain · **Why it works:** A profitability insight disguised as a design note.
+
+### TikTok · 18:00 · Kinetic type, 17s
+
+**Hook (0-3s)**
+> Your cheapest offer is the loudest thing on your page, and it is probably not paying you.
+
+**On-screen beats**
+- It gets the clicks
+- It takes the attention
+- It cannot pay the rent
+- Make it quiet
+
+**Voiceover script**
+> Your cheapest offer is the loudest thing on the page, because cheap things travel and expensive things sit still. That is fine if the cheap thing leads to the expensive one, and it is fatal if it does not, because you have rented your best real estate to the thing that cannot pay the rent.
+
+**Caption**
+> Cheap things travel. Expensive things pay. Choose which one gets the top of the page.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Cheapest: loudest
+2. Most attention
+3. Least money
+4. Fix the order
+
+**Caption**
+> Attention and revenue are not the same axis.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> Your cheapest offer is almost certainly the loudest thing on your page, because cheap things travel and expensive things sit still.
+> 
+> That is fine if the cheap thing leads to the expensive one. It is fatal if it does not, because you rented your best space to the thing that cannot pay the rent.
+> 
+> What is at the top of yours?
+
+
+---
+
+
+## Post 08 · Nine services, repeated back
+
+**Type:** Entertain · **Why it works:** The failure is total, which makes it memorable.
+
+### TikTok · 19:00 · Street interview, 26s
+
+**Hook (0-3s)**
+> I read people nine services. Not one could repeat a single one back.
+
+**On-screen beats**
+- Nine services
+- Thirty seconds
+- One recollection
+- It was catering, because she likes food
+
+**Voiceover script**
+> I read people a list of nine services and asked them to repeat one back. Not one person could, apart from one woman who remembered catering because she likes food. Nine services read aloud is noise. One service read aloud is a business, and you have about four seconds to be the second thing.
+
+**Caption**
+> Nine services read aloud is noise. One is a business.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 3-slide carousel
+
+**Slide copy**
+1. Nine services
+2. Repeat one back
+3. Nobody could
+
+**Caption**
+> If it cannot be repeated, it will not be referred.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I read people a list of nine services and asked them to repeat one back.
+> 
+> Not one person could — apart from one woman who remembered catering because she likes food.
+> 
+> Nine services read aloud is noise. One service read aloud is a business.
+> 
+> And you have about four seconds to be remembered.
+> 
+> What would you want repeated?
+
+
+---
+
+
+## Post 09 · The landing page kit is for one offer
+
+**Type:** Sell · **Why it works:** The product's constraint is also the diagnosis.
+
+### TikTok · 20:00 · Overhead shot, 25s
+
+**Hook (0-3s)**
+> The landing page kit is for one offer only. If you have nine, you need it most.
+
+**On-screen beats**
+- One page
+- One offer
+- One action
+- Choose which
+
+**Voiceover script**
+> The landing page kit builds one page for one offer with one action. It is useless if you refuse to choose, which is why the people who need it most are the ones with nine services. Five thousand naira. Pick the offer that pays, and the kit does the rest of the deciding for you.
+
+**Caption**
+> One offer, one page, one action. ₦5,000. OFFER on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 4-slide carousel
+
+**Slide copy**
+1. One offer
+2. One page
+3. One action
+4. ₦5,000 · OFFER
+
+**Caption**
+> A tool that forces a decision is worth more than one that avoids it.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The Landing Page Kit builds one page, for one offer, with one action.
+> 
+> It is useless if you refuse to choose — which is exactly why the people with nine services need it most.
+> 
+> ₦5,000. Pick the offer that pays. The kit does the rest of the deciding for you.
+> 
+> Message OFFER on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The "do everything" rebrand
+
+**Type:** Entertain · **Why it works:** Refusing the bigger job is the most persuasive sales story there is.
+
+### TikTok · 20:45 · Talking head, 33s
+
+**Hook (0-3s)**
+> We turned down a rebrand because the business did not need one. It needed a sentence.
+
+**On-screen beats**
+- Six weeks of brand work
+- The problem was the offer
+- We sold a one-pager instead
+- Cheaper for them, less for us
+
+**Voiceover script**
+> Someone asked us to rebrand a nine service business: logo, colours, photos, the whole six weeks. We said no, because the brand was fine and the offer was the problem. We sold them a one page offer document instead, which cost a fifth as much and took four days. They were annoyed for a week and then the enquiries changed. That is the only kind of sales story I trust.
+
+**Caption**
+> They asked for six weeks of rebranding. They needed a sentence. We sold the sentence.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 4-slide carousel
+
+**Slide copy**
+1. Asked: full rebrand
+2. Needed: one sentence
+3. Sold: one-page offer
+4. Enquiries changed
+
+**Caption**
+> The most useful sale is sometimes the smallest one.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone asked us to rebrand a nine-service business: logo, colours, photos, the full six weeks.
+> 
+> We said no. The brand was fine. The offer was the problem.
+> 
+> We sold them a one-page offer document instead, which cost a fifth as much and took four days.
+> 
+> They were annoyed for a week. Then the enquiries changed.
+> 
+> When did a smaller job do more?
+
+
+---
+
+
+## Post 11 · Write your one offer in a sentence
+
+**Type:** Teach · **Why it works:** Three fields, one breath. The day's takeaway.
+
+### TikTok · 21:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Write your one offer in a sentence: who, what, by when.
+
+**On-screen beats**
+- Who it is for
+- What they get
+- By when
+- One breath
+
+**Voiceover script**
+> Write your one offer in a sentence with three parts: who it is for, what they get, and by when. Small restaurants in Yaba, a one page site that works on a phone, in seven days. Who, what, by when. If you cannot fill in the by when, you do not have an offer, you have an interest.
+
+**Caption**
+> Who · What · By when. One breath. If you cannot date it, it is not an offer.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. Who it is for
+2. What they get
+3. By when
+4. Say it in one breath
+
+**Caption**
+> No date means no offer, only an interest.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Write your one offer in a sentence with three parts: who it is for, what they get, and by when.
+> 
+> Example: small restaurants in Yaba, a one-page site that works on a phone, in seven days.
+> 
+> Who. What. By when.
+> 
+> If you cannot fill in the 'by when', you do not have an offer. You have an interest.
+> 
+> Write yours in the comments.
 
 
 ---

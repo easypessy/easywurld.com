@@ -1,0 +1,285 @@
+[
+  {
+    "day": 19,
+    "label": "Day 19 · Thursday",
+    "theme": "Fix this Lagos",
+    "offer": "OFFER",
+    "posts": [
+      {
+        "id": "D19-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "Nine things, no lead",
+        "why": "The list itself is the joke and the diagnosis.",
+        "tiktok": {
+          "fmt": "Screen recording, 24s",
+          "hook": "This business sells nine things and leads with none of them.",
+          "beats": ["Catering", "Laundry", "Errands", "Printing", "Event decor", "All in one menu, none first"],
+          "vo": "This business sells nine things: catering, laundry, errands, printing, event decor, and four more, all listed at the same size on the same screen. A stranger cannot pick one, so they pick nothing. The list is not the problem, the flatness is, because everything at the same volume is silence.",
+          "cap": "Nine services, all the same size. A stranger cannot pick one, so they pick nothing.",
+          "body": "Nine services, all listed at the same size on the same screen. A stranger cannot pick one, so they pick nothing. The list is not the problem — the flatness is. Everything at the same volume is silence."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": ["Catering", "Laundry", "Errands", "Printing", "…and five more"],
+          "cap": "Everything at the same volume is silence.",
+          "body": "Nine services at identical size, on one screen, in one voice. Nobody chooses from a list that refuses to choose. One of them has to be louder than the other eight."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A business I looked at sells nine things: catering, laundry, errands, printing, event decor and four more — all at the same size, on the same screen.\n\nA stranger cannot pick one, so they pick nothing.\n\nThe list is not the problem. The flatness is. Everything at the same volume is silence.\n\nWhat is the one thing you would want a stranger to remember?"
+        }
+      },
+      {
+        "id": "D19-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "\"We do everything\"",
+        "why": "A line people repeat after hearing it once.",
+        "tiktok": {
+          "fmt": "Kinetic type, 16s",
+          "hook": "\"We do everything\" means \"we are not first at anything\".",
+          "beats": ["Everything is a category", "Not an offer", "Nobody searches for everything", "They search for one thing"],
+          "vo": "We do everything means we are not first at anything, and customers do not search for everything. They search for a thing, on a day, near them, at a price. Being one of nine is being none of the nine, and the person who is first at one of them gets the call.",
+          "cap": "Nobody searches for \"everything\". They search for one thing on one day.",
+          "body": "We do everything means we are not first at anything. Nobody searches for everything — they search for a thing, on a day, near them, at a price. Being one of nine is being none of the nine."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["\"We do everything\"", "= we are first at nothing", "Pick one and be first"],
+          "cap": "One of nine is none of the nine.",
+          "body": "Every extra service you lead with divides the attention you needed for one. Being first at one thing beats being tenth at nine, and it is cheaper to advertise."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "'We do everything' means 'we are not first at anything'.\n\nNobody searches for everything. They search for a thing, on a day, near them, at a price.\n\nBeing one of nine is being none of the nine — and the person who is first at one of them gets the call.\n\nWhich one are you actually first at?"
+        }
+      },
+      {
+        "id": "D19-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Lead with one offer for thirty days",
+        "why": "A time-boxed experiment, which is easy to agree to.",
+        "tiktok": {
+          "fmt": "Kinetic type, 22s",
+          "hook": "Lead with one offer for thirty days, then add the second.",
+          "beats": ["One offer", "Every post", "Thirty days", "Then you will know"],
+          "vo": "Lead with one offer for thirty days. Same offer, every post, different angle. Not because the others are bad, but because thirty days is the shortest honest test of whether an offer can carry attention. After thirty days you will know whether to add the second one or fix the first, and you will know it from evidence instead of hope.",
+          "cap": "One offer, thirty days, then add the second. That is the whole test.",
+          "body": "One offer, same offer, thirty days, different angle. Not because the others are bad but because thirty days is the shortest honest test of whether an offer can carry attention. Then you will know what to add."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["One offer", "Thirty days", "Same offer, new angle", "Then add the second"],
+          "cap": "Thirty days is the shortest honest test there is.",
+          "body": "You do not need a new strategy, you need thirty days of the same offer so that the results mean something. Change the angle, not the offer."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Lead with one offer for thirty days. Same offer, every post, different angle.\n\nNot because the others are bad — because thirty days is the shortest honest test of whether an offer can carry attention.\n\nAfter that you will know whether to add the second one or fix the first.\n\nWhich offer would you choose for thirty days?"
+        }
+      },
+      {
+        "id": "D19-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "A fear of losing the wrong customer",
+        "why": "Explains the psychology behind a common mistake.",
+        "tiktok": {
+          "fmt": "Talking head, 20s",
+          "hook": "Broad offers are a fear of losing the wrong customer. So you lose the right one.",
+          "beats": ["Keep everyone", "Sound like no one", "The right customer cannot see themselves", "They leave first"],
+          "vo": "Broad offers are a fear of losing the wrong customer, and the result is you lose the right one. When you try to be for everybody, nobody can see themselves in the sentence, and the person with a specific problem and money to solve it is the first to leave, because they need to be understood more than they need a bargain.",
+          "cap": "Trying to keep everyone loses the person who would have paid.",
+          "body": "Broad offers are a fear of losing the wrong customer. When nobody can see themselves in your sentence, the person with a real problem and money to solve it leaves first — because they need to be understood more than they need a bargain."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Fear: lose someone", "Result: sound like no one", "The paying customer leaves first"],
+          "cap": "Being understood is worth more than being available.",
+          "body": "The customer you were afraid to lose was never going to buy. The one who would have bought needed to hear their specific problem named out loud."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Broad offers are usually a fear of losing the wrong customer. The result is that you lose the right one.\n\nWhen nobody can see themselves in your sentence, the person with a specific problem and money to solve it leaves first — because they need to feel understood more than they need a bargain.\n\nWho are you actually for?"
+        }
+      },
+      {
+        "id": "D19-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "The caterer who stopped doing events",
+        "why": "Narrowing looking like shrinking is a fear worth naming.",
+        "tiktok": {
+          "fmt": "Talking head, 29s",
+          "hook": "A caterer stopped doing events and got more weddings.",
+          "beats": ["She did everything", "Then only weddings", "Fewer enquiries", "More bookings"],
+          "vo": "A caterer removed everything except weddings from her page. Enquiries went down by about a third, and bookings went up, because the people who arrived were planning a wedding and she was obviously the wedding person. Narrowing looked like shrinking for six weeks, and then it looked like the only decision that mattered.",
+          "cap": "Fewer enquiries, more bookings. Narrowing looked like shrinking first.",
+          "body": "She took everything except weddings off her page. Enquiries fell by about a third. Bookings went up, because the people who arrived were planning weddings and she was obviously the wedding person. Narrowing looks like shrinking for about six weeks."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Before: everything", "After: weddings only", "Enquiries: down a third", "Bookings: up"],
+          "cap": "The wrong enquiries are not a pipeline. They are a queue of people who will not buy.",
+          "body": "Fewer people asked her about events. More people asked her about weddings. The enquiries she lost were never going to become bookings, which is the part that took six weeks to believe."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A caterer took everything except weddings off her page.\n\nEnquiries went down by about a third. Bookings went up — because everyone who arrived was planning a wedding, and she was obviously the wedding person.\n\nNarrowing looked like shrinking for six weeks, then it looked like the only decision that mattered.\n\nWhat could you take off your page?"
+        }
+      },
+      {
+        "id": "D19-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The 80/20 list",
+        "why": "A written exercise with a physical action attached.",
+        "tiktok": {
+          "fmt": "Kinetic type, 23s",
+          "hook": "Write down everything you sell. Circle what actually pays. Then lead with that.",
+          "beats": ["Everything you sell", "Everything that pays", "Two lists", "Circle one"],
+          "vo": "Write down everything you sell on the left, and everything that actually pays on the right. The right column will be shorter, and it will not match the order on your website. Circle one thing in the right column and lead with it for thirty days. That is the whole exercise, and most people have never done it because the left list is more fun.",
+          "cap": "Two lists: what you sell, and what pays. Circle one from the second.",
+          "body": "Write everything you sell, then everything that pays. The second list will be shorter and will not match your website's order. Circle one and lead with it for a month."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["List 1: what you sell", "List 2: what pays", "They do not match", "Circle one"],
+          "cap": "The list that pays is shorter and less interesting. Start there.",
+          "body": "Most businesses have never written the second list, because the first one is more fun and makes the business feel bigger than it is."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Write two lists tonight.\n\nLeft: everything you sell.\nRight: everything that actually pays.\n\nThe right column will be shorter, and it will not match the order on your website.\n\nCircle one thing in the right column and lead with it for thirty days.\n\nMost people have never done this, because the left list is more fun."
+        }
+      },
+      {
+        "id": "D19-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "Your cheapest offer is the loudest",
+        "why": "A profitability insight disguised as a design note.",
+        "tiktok": {
+          "fmt": "Kinetic type, 17s",
+          "hook": "Your cheapest offer is the loudest thing on your page, and it is probably not paying you.",
+          "beats": ["It gets the clicks", "It takes the attention", "It cannot pay the rent", "Make it quiet"],
+          "vo": "Your cheapest offer is the loudest thing on the page, because cheap things travel and expensive things sit still. That is fine if the cheap thing leads to the expensive one, and it is fatal if it does not, because you have rented your best real estate to the thing that cannot pay the rent.",
+          "cap": "Cheap things travel. Expensive things pay. Choose which one gets the top of the page.",
+          "body": "The cheapest thing you sell will always get the most attention, because cheap things travel. That is fine if it leads somewhere, and fatal if it does not — you have rented your best space to the thing that cannot pay rent."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Cheapest: loudest", "Most attention", "Least money", "Fix the order"],
+          "cap": "Attention and revenue are not the same axis.",
+          "body": "If the loudest thing on your page is also the least profitable, the page is arranged by accident rather than by intention. Reordering costs nothing."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Your cheapest offer is almost certainly the loudest thing on your page, because cheap things travel and expensive things sit still.\n\nThat is fine if the cheap thing leads to the expensive one. It is fatal if it does not, because you rented your best space to the thing that cannot pay the rent.\n\nWhat is at the top of yours?"
+        }
+      },
+      {
+        "id": "D19-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "Nine services, repeated back",
+        "why": "The failure is total, which makes it memorable.",
+        "tiktok": {
+          "fmt": "Street interview, 26s",
+          "hook": "I read people nine services. Not one could repeat a single one back.",
+          "beats": ["Nine services", "Thirty seconds", "One recollection", "It was catering, because she likes food"],
+          "vo": "I read people a list of nine services and asked them to repeat one back. Not one person could, apart from one woman who remembered catering because she likes food. Nine services read aloud is noise. One service read aloud is a business, and you have about four seconds to be the second thing.",
+          "cap": "Nine services read aloud is noise. One is a business.",
+          "body": "Nine services, thirty seconds, one recollection — and that was because she likes food. Everything you add to the list makes the whole thing harder to hold in a head."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Nine services", "Repeat one back", "Nobody could"],
+          "cap": "If it cannot be repeated, it will not be referred.",
+          "body": "Word of mouth requires a sentence short enough to pass on. Nine services is not a sentence, it is a brochure, and nobody repeats a brochure."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I read people a list of nine services and asked them to repeat one back.\n\nNot one person could — apart from one woman who remembered catering because she likes food.\n\nNine services read aloud is noise. One service read aloud is a business.\n\nAnd you have about four seconds to be remembered.\n\nWhat would you want repeated?"
+        }
+      },
+      {
+        "id": "D19-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "The landing page kit is for one offer",
+        "why": "The product's constraint is also the diagnosis.",
+        "tiktok": {
+          "fmt": "Overhead shot, 25s",
+          "hook": "The landing page kit is for one offer only. If you have nine, you need it most.",
+          "beats": ["One page", "One offer", "One action", "Choose which"],
+          "vo": "The landing page kit builds one page for one offer with one action. It is useless if you refuse to choose, which is why the people who need it most are the ones with nine services. Five thousand naira. Pick the offer that pays, and the kit does the rest of the deciding for you.",
+          "cap": "One offer, one page, one action. ₦5,000. OFFER on WhatsApp: 0905 069 0837.",
+          "body": "The kit builds one page for one offer with one action. It is useless if you refuse to choose, which is exactly why the people with nine services need it most."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["One offer", "One page", "One action", "₦5,000 · OFFER"],
+          "cap": "A tool that forces a decision is worth more than one that avoids it.",
+          "body": "Most page builders let you add a tenth service. This one is built around the assumption that you should not."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The Landing Page Kit builds one page, for one offer, with one action.\n\nIt is useless if you refuse to choose — which is exactly why the people with nine services need it most.\n\n₦5,000. Pick the offer that pays. The kit does the rest of the deciding for you.\n\nMessage OFFER on WhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D19-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "The \"do everything\" rebrand",
+        "why": "Refusing the bigger job is the most persuasive sales story there is.",
+        "tiktok": {
+          "fmt": "Talking head, 33s",
+          "hook": "We turned down a rebrand because the business did not need one. It needed a sentence.",
+          "beats": ["Six weeks of brand work", "The problem was the offer", "We sold a one-pager instead", "Cheaper for them, less for us"],
+          "vo": "Someone asked us to rebrand a nine service business: logo, colours, photos, the whole six weeks. We said no, because the brand was fine and the offer was the problem. We sold them a one page offer document instead, which cost a fifth as much and took four days. They were annoyed for a week and then the enquiries changed. That is the only kind of sales story I trust.",
+          "cap": "They asked for six weeks of rebranding. They needed a sentence. We sold the sentence.",
+          "body": "Logo, colours, photos — six weeks of brand work for a business whose brand was fine and whose offer was the problem. We sold a one-page offer document instead. Cheaper for them, less for us, and the enquiries changed."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Asked: full rebrand", "Needed: one sentence", "Sold: one-page offer", "Enquiries changed"],
+          "cap": "The most useful sale is sometimes the smallest one.",
+          "body": "A new logo would have made the same nine services look tidier. It would not have made anyone choose one, which was the entire problem."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Someone asked us to rebrand a nine-service business: logo, colours, photos, the full six weeks.\n\nWe said no. The brand was fine. The offer was the problem.\n\nWe sold them a one-page offer document instead, which cost a fifth as much and took four days.\n\nThey were annoyed for a week. Then the enquiries changed.\n\nWhen did a smaller job do more?"
+        }
+      },
+      {
+        "id": "D19-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Write your one offer in a sentence",
+        "why": "Three fields, one breath. The day's takeaway.",
+        "tiktok": {
+          "fmt": "Kinetic type, 21s",
+          "hook": "Write your one offer in a sentence: who, what, by when.",
+          "beats": ["Who it is for", "What they get", "By when", "One breath"],
+          "vo": "Write your one offer in a sentence with three parts: who it is for, what they get, and by when. Small restaurants in Yaba, a one page site that works on a phone, in seven days. Who, what, by when. If you cannot fill in the by when, you do not have an offer, you have an interest.",
+          "cap": "Who · What · By when. One breath. If you cannot date it, it is not an offer.",
+          "body": "Who it is for, what they get, by when. If you cannot fill in the by-when, you do not have an offer yet — you have an interest, and interests do not sell."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Who it is for", "What they get", "By when", "Say it in one breath"],
+          "cap": "No date means no offer, only an interest.",
+          "body": "A date is the part everyone leaves out, and it is the part that turns a description into something a customer can say yes to."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Write your one offer in a sentence with three parts: who it is for, what they get, and by when.\n\nExample: small restaurants in Yaba, a one-page site that works on a phone, in seven days.\n\nWho. What. By when.\n\nIf you cannot fill in the 'by when', you do not have an offer. You have an interest.\n\nWrite yours in the comments."
+        }
+      }
+    ]
+  }
+]
