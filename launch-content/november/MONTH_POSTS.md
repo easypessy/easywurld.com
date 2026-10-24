@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Sunday 22 November 2026** |
+| Ends | **Monday 23 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **726 posts** (242 core ideas x 3 platforms) |
+| Month total | **759 posts** (253 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -13524,6 +13524,614 @@ writing on the spot.
 > If you cannot answer that, you are buying the feeling of having solved it. The feeling costs the same as the thing and lasts about a day.
 > 
 > What was your last impulse buy?
+
+
+---
+
+
+# Day 23 · Monday · Monday 23 Nov 2026 — The honest ad
+
+**Offer in focus:** BUNDLE
+
+---
+
+
+## Post 01 · Features and no outcomes
+
+**Type:** Entertain · **Why it works:** The features/outcomes distinction is the day's spine.
+
+### TikTok · 07:00 · Screen recording, 24s
+
+**Hook (0-3s)**
+> This sales page lists eighteen features and never says what you will be able to do.
+
+**On-screen beats**
+- Templates
+- Modules
+- Format
+- But what do I do on Monday
+
+**Voiceover script**
+> This sales page lists eighteen features: templates, modules, formats, a private community, lifetime access. Not once does it say what you will be able to do on Monday morning that you cannot do today. Features describe the object. Outcomes describe the person. Customers buy the second one and use the first one to justify it.
+
+**Caption**
+> Eighteen features. Zero sentences about what you can do afterwards.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. 18 features
+2. 0 outcomes
+3. What can I do after?
+4. Write that instead
+
+**Caption**
+> Features justify. Outcomes sell.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A sales page I read lists eighteen features: templates, modules, formats, a community, lifetime access.
+> 
+> Not once does it say what you will be able to do on Monday that you cannot do today.
+> 
+> Features describe the object. Outcomes describe the person. Customers buy the second and use the first to justify it.
+> 
+> What is your outcome sentence?
+
+
+---
+
+
+## Post 02 · A bundle that is one PDF
+
+**Type:** Entertain · **Why it works:** Sets an honesty bar the audience can hold sellers to.
+
+### TikTok · 09:15 · Kinetic type, 18s
+
+**Hook (0-3s)**
+> A bundle that turns out to be one PDF is a lie with good design.
+
+**On-screen beats**
+- Count the files
+- Ask for the list
+- Ours is thirty six
+- Count them
+
+**Voiceover script**
+> A bundle that turns out to be one PDF is a lie with good design, and it happens constantly. So before you buy anything called a bundle, ask for the file list: names, formats, count. Ours is thirty six files across nine packs, and I am happy to be counted, because the count is the only claim you can check before you pay.
+
+**Caption**
+> Ask for the file list before you pay. Names, formats, count. Ours is 36.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. "Bundle"
+2. Ask: how many files?
+3. Ask: what are their names?
+
+**Caption**
+> A count you can verify before paying is worth more than any testimonial.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> A 'bundle' that turns out to be one PDF is a lie with good design, and it happens constantly.
+> 
+> So before you buy anything called a bundle, ask for the file list: names, formats, count.
+> 
+> Ours is 36 files across nine packs. Count them.
+> 
+> The count is the only claim you can check before you pay.
+> 
+> What is the last bundle you bought?
+
+
+---
+
+
+## Post 03 · Show the file list
+
+**Type:** Teach · **Why it works:** Turns transparency into a repeatable sales page structure.
+
+### TikTok · 11:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Show the file list, not the promise. Names, formats, count.
+
+**On-screen beats**
+- Not beautiful
+- Not aspirational
+- A list
+- Which is why it works
+
+**Voiceover script**
+> Show the file list instead of the promise. Names, formats, count, in a plain list, on the page, before anybody pays. It is not beautiful and it is not aspirational, and it is the part of a sales page that closes, because a list is evidence and a promise is atmosphere. Every mystery box is asking you to trust the box.
+
+**Caption**
+> A plain file list closes more than a paragraph of promises.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 4-slide carousel
+
+**Slide copy**
+1. Not the promise
+2. The list
+3. Names · formats · count
+4. Before payment
+
+**Caption**
+> Mystery boxes ask for trust they have not earned.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Show the file list, not the promise.
+> 
+> Names. Formats. Count. In a plain list, on the page, before anybody pays.
+> 
+> It is not beautiful and it is not aspirational, and it is the part of a sales page that actually closes — because a list is evidence and a promise is atmosphere.
+> 
+> What is your inventory?
+
+
+---
+
+
+## Post 04 · Transparency is the sales page
+
+**Type:** Entertain · **Why it works:** Removes the need for persuasive tricks.
+
+### TikTok · 13:45 · Talking head, 19s
+
+**Hook (0-3s)**
+> Transparency about what is inside is the entire sales page. Nobody trusts a mystery box.
+
+**On-screen beats**
+- What is inside
+- What it costs
+- What it will not do
+- Everything else is decoration
+
+**Voiceover script**
+> Transparency about what is inside is the entire sales page. What is inside, what it costs, what it will not do. Those three things, in that order, and you have a page. Everything else is decoration people add because they are nervous about the price, and the nervousness is more visible than the price.
+
+**Caption**
+> Inside, price, limits. That is a sales page. The rest is nerves.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. What is inside
+2. What it costs
+3. What it will not do
+
+**Caption**
+> Nervousness about a price is more visible than the price.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Transparency about what is inside is the entire sales page.
+> 
+> What is inside. What it costs. What it will not do.
+> 
+> Those three, in that order, and you have a page. Everything else is decoration people add because they are nervous about the price — and the nervousness is more visible than the price.
+> 
+> What is missing from yours?
+
+
+---
+
+
+## Post 05 · She asked to see page one
+
+**Type:** Entertain · **Why it works:** A small risk that paid off, told plainly.
+
+### TikTok · 15:00 · Talking head, 27s
+
+**Hook (0-3s)**
+> A buyer asked to see page one before paying. We sent it. She bought.
+
+**On-screen beats**
+- One page
+- Screenshot
+- No watermark
+- Then she paid
+
+**Voiceover script**
+> Someone asked to see page one of the homepage pack before paying five thousand naira. We sent a screenshot of the actual page, no watermark, no tease. She bought about four minutes later and said she had been burned before by something that looked good on the cover. Sending one page cost us nothing and did what no testimonial could, because it was the thing itself.
+
+**Caption**
+> She asked for page one. We sent it. She bought four minutes later.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. "Can I see page one?"
+2. Sent it
+3. No watermark
+4. Bought in 4 minutes
+
+**Caption**
+> Show the actual thing. It is the cheapest proof you own.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> Someone asked to see page one of the homepage pack before paying ₦5,000.
+> 
+> We sent a screenshot of the actual page. No watermark. No tease.
+> 
+> She bought about four minutes later and said she had been burned before by something that looked good on the cover.
+> 
+> Showing one page cost us nothing and did what no testimonial could, because it was the thing itself.
+> 
+> What could you show?
+
+
+---
+
+
+## Post 06 · Publish the contents page
+
+**Type:** Teach · **Why it works:** A single asset that removes most buyer doubt.
+
+### TikTok · 16:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Publish your contents page. It closes more than a testimonial.
+
+**On-screen beats**
+- One page
+- Every chapter title
+- Public
+- No email required
+
+**Voiceover script**
+> Publish the contents page of whatever you sell, publicly, with no email required. Every chapter title, every file name, in order. It closes more than a testimonial because it is the only proof a stranger can evaluate without trusting you, and it costs you one screenshot. The people who steal from a contents page were never going to buy the contents.
+
+**Caption**
+> One screenshot of the contents page. More persuasive than praise.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. Contents page
+2. Published
+3. No email wall
+
+**Caption**
+> People who steal an outline were never buying the outline.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Publish the contents page of whatever you sell. Publicly. No email required.
+> 
+> Every chapter title, every file name, in order.
+> 
+> It closes more than a testimonial, because it is the only proof a stranger can evaluate without trusting you first.
+> 
+> And it costs one screenshot.
+> 
+> What is on your contents page?
+
+
+---
+
+
+## Post 07 · Thirty-six files is not better
+
+**Type:** Entertain · **Why it works:** Undercuts the bundle's own selling point, which is disarming.
+
+### TikTok · 18:00 · Kinetic type, 17s
+
+**Hook (0-3s)**
+> Thirty-six files is not automatically better than six. Only if you use them.
+
+**On-screen beats**
+- More files is a fact
+- Not a benefit
+- The benefit
+- Is one that gets used
+
+**Voiceover script**
+> Thirty six files is not automatically better than six. It is a fact about the product, not a benefit to you, and I say that about my own bundle. The benefit is that one of them is the file you actually needed, and if six would have done it, buy six. Volume is easy to produce and hard to use, which is why it makes such a good-looking number.
+
+**Caption**
+> More files is a fact. Using one is the benefit. Buy the smaller thing if it fits.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. 36 files: a fact
+2. One used: a benefit
+3. Buy fewer if fewer fits
+
+**Caption**
+> A seller who talks you down to the smaller pack is a seller you can trust.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> Thirty-six files is not automatically better than six. Only if you use them.
+> 
+> More files is a fact about the product. Not a benefit to you.
+> 
+> The benefit is that one of them is the file you actually needed — and if six would have done it, buy six.
+> 
+> Volume is easy to produce and hard to use, which is why it makes such a good-looking number.
+> 
+> What did you buy for the volume?
+
+
+---
+
+
+## Post 08 · Would you buy without seeing inside
+
+**Type:** Entertain · **Why it works:** Unanimity makes the rule obvious.
+
+### TikTok · 19:00 · Street interview, 24s
+
+**Hook (0-3s)**
+> I asked if people would buy something without seeing what is inside. Nobody said yes.
+
+**On-screen beats**
+- Not one person
+- Even for small money
+- Especially for small money
+- It is the same five thousand
+
+**Voiceover script**
+> I asked whether people would pay for something without seeing what was inside. Not one person said yes, and a few were offended by the question. Five thousand naira is not a small amount to the person deciding whether to spend it, which is why the contents page is not generosity. It is the minimum, and most sellers skip it.
+
+**Caption**
+> Nobody buys a mystery box. Five thousand is not small to the person paying it.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 3-slide carousel
+
+**Slide copy**
+1. Would you buy blind?
+2. 0 yes
+3. So show the inside
+
+**Caption**
+> Ask your own buyers this question and then do what they say.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked whether people would pay for something without seeing what was inside.
+> 
+> Not one person said yes. A few were offended by the question.
+> 
+> ₦5,000 is not a small amount to the person deciding whether to spend it — which is why a contents page is the minimum, not a favour.
+> 
+> What have you bought blind?
+
+
+---
+
+
+## Post 09 · The bundle, counted
+
+**Type:** Sell · **Why it works:** Prices and contents in one place, no urgency.
+
+### TikTok · 20:00 · Overhead shot, 25s
+
+**Hook (0-3s)**
+> The bundle is thirty-six files, thirty-five thousand naira, and it saves ten.
+
+**On-screen beats**
+- Nine packs
+- Thirty six files
+- Ten thousand less
+- One decision
+
+**Voiceover script**
+> The bundle is thirty six files across nine packs, thirty five thousand naira, which is ten less than buying them separately. Same files, one payment, one decision. No expiry, no bonus for buying today, no seats. If you are going to buy three packs anyway, this is the sensible version. If you need one, buy one.
+
+**Caption**
+> 36 files · ₦35,000 · saves ₦10,000 · no expiry. BUNDLE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 5-slide carousel
+
+**Slide copy**
+1. 9 packs
+2. 36 files
+3. ₦35,000
+4. Saves ₦10,000
+5. No expiry
+
+**Caption**
+> No countdown. It will cost the same tomorrow, which is the point.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The bundle is 36 files across nine packs. ₦35,000. That is ₦10,000 less than buying them separately.
+> 
+> Same files. One payment. One decision.
+> 
+> No expiry. No bonus for buying today. No seats.
+> 
+> If you were going to buy three packs anyway, this is the sensible version. If you need one, buy one.
+> 
+> Message BUNDLE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · Asked to pad the bundle
+
+**Type:** Entertain · **Why it works:** Refusing filler is a product principle stated out loud.
+
+### TikTok · 20:45 · Talking head, 29s
+
+**Hook (0-3s)**
+> Someone told us to pad the bundle to make the number bigger. We said no.
+
+**On-screen beats**
+- Split the files
+- Call them fifty two
+- It would convert
+- And then it would be a lie
+
+**Voiceover script**
+> Someone suggested we split the existing files into more files and call the bundle fifty two instead of thirty six, because a bigger number converts better. It would have worked. It would also have meant that every honest count in this account became something you had to check, and the whole reason anyone believes the limits here is that the numbers are real and small. So: thirty six.
+
+**Caption**
+> We could call it 52 files. We would rather the number stayed true.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. Split the files
+2. Call it 52
+3. We said no
+
+**Caption**
+> An inflated number is a discount on your credibility, paid later.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone suggested we split our existing files into more files and call the bundle 52 instead of 36, because a bigger number converts better.
+> 
+> It would have worked.
+> 
+> It would also have made every honest number in this account something you had to check.
+> 
+> So: thirty-six.
+> 
+> What number would you rather defend?
+
+
+---
+
+
+## Post 11 · Check the contents page first
+
+**Type:** Teach · **Why it works:** Leaves the buyer with a habit rather than an urge.
+
+### TikTok · 21:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> Before buying anything, from anyone, check the contents page. If there is not one, ask.
+
+**On-screen beats**
+- Anybody
+- Any product
+- Not just ours
+- Ask for the list
+
+**Voiceover script**
+> Before buying anything from anyone, check the contents page. If there is not one, ask for it. A seller who can produce it in ten minutes is organised. A seller who says it is a surprise is telling you the product is a surprise too, and surprises are how people end up with a folder they never open. Ask for the list. It is a normal question.
+
+**Caption**
+> Ask for the contents page. It is a normal question, not a rude one.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. Any product
+2. Any seller
+3. Ask for the list
+4. If none, walk
+
+**Caption**
+> The question costs nothing and saves more than any discount code.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Before buying anything, from anyone, check the contents page.
+> 
+> If there is not one, ask for it.
+> 
+> A seller who can produce it in ten minutes is organised. A seller who says it is a surprise is telling you the product is a surprise too — and surprises are how people end up with a folder they never open.
+> 
+> Ask for the list. It is a normal question.
 
 
 ---
