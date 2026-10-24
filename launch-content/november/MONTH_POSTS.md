@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Thursday 26 November 2026** |
+| Ends | **Friday 27 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **858 posts** (286 core ideas x 3 platforms) |
+| Month total | **891 posts** (297 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -15949,6 +15949,609 @@ writing on the spot.
 > That is the whole homework — and the people who do it are the only ones who ever tell me the pack worked.
 > 
 > Will you do it?
+
+
+---
+
+
+# Day 27 · Friday · Friday 27 Nov 2026 — The honest ad
+
+**Offer in focus:** PROJECT
+
+---
+
+
+## Post 01 · Ads before the reply
+
+**Type:** Entertain · **Why it works:** Sequencing errors are the most expensive mistake in small business marketing.
+
+### TikTok · 07:00 · Screen recording, 24s
+
+**Hook (0-3s)**
+> This business bought adverts before it fixed the reply, so the adverts made everything worse.
+
+**On-screen beats**
+- Spending every week
+- Messages arriving
+- Replies taking two days
+- So they paid to be ignored
+
+**Voiceover script**
+> This business bought adverts for four months before it fixed the reply, which means every week they paid to send strangers into a chat where nobody answered for two days. More reach made it worse, because more people arrived to be ignored. The leak was never at the top. It was three days downstream of the money.
+
+**Caption**
+> The leak was not at the top. It was three days downstream of the money.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. Spend: up
+2. Messages: arriving
+3. Replies: 2 days
+4. Result: paid to be ignored
+
+**Caption**
+> Fix the answer before you buy the question.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A business I looked at had been buying adverts for four months before fixing the reply.
+> 
+> Every week they paid to send strangers into a chat where nobody answered for two days.
+> 
+> More reach made it worse — more people arrived to be ignored.
+> 
+> The leak was never at the top. It was three days downstream of the money.
+> 
+> Where is yours?
+
+
+---
+
+
+## Post 02 · A website you do not need
+
+**Type:** Entertain · **Why it works:** The most disarming sales position available.
+
+### TikTok · 09:15 · Kinetic type, 18s
+
+**Hook (0-3s)**
+> We will not sell you a website you do not need. Ask us first, it is free.
+
+**On-screen beats**
+- Sometimes the answer is no
+- Sometimes it is your replies
+- Sometimes it is a sentence
+- Ask and find out
+
+**Voiceover script**
+> We will not sell you a website you do not need. Sometimes the answer is that your replies are the problem. Sometimes it is one sentence on the page you already have. Sometimes it is that nobody can find you and a site would not help. Ask first, it is free, and I would rather tell you no than take four thousand naira and watch you get nothing.
+
+**Caption**
+> Ask before you buy. Sometimes the answer is "not yet", and that is free to hear.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. Ask us first
+2. Sometimes: no
+3. That answer is free
+
+**Caption**
+> The most profitable sentence in sales is sometimes 'not yet'.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> We will not sell you a website you do not need.
+> 
+> Sometimes the answer is that your replies are the problem. Sometimes it is one sentence on the page you already have. Sometimes it is that nobody can find you, and a site would not fix that.
+> 
+> Ask first. It is free. I would rather tell you no than take your money and watch you get nothing.
+> 
+> What would you ask?
+
+
+---
+
+
+## Post 03 · The three things we refuse
+
+**Type:** Teach · **Why it works:** A published policy is a permanent proof point.
+
+### TikTok · 11:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Three things we always refuse: fake proof, fake urgency, fake results.
+
+**On-screen beats**
+- No invented testimonials
+- No countdown that resets
+- No promises
+- Write yours
+
+**Voiceover script**
+> Three things we always refuse. Fake proof, meaning testimonials and logos that were not earned. Fake urgency, meaning countdowns that reset and stock levels that are not real. And fake results, meaning any promise about an outcome we do not control. Write your own three, publish them, and then you have a policy instead of a mood, which is the difference between a standard and a preference.
+
+**Caption**
+> Fake proof. Fake urgency. Fake results. Write your three and publish them.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 4-slide carousel
+
+**Slide copy**
+1. We refuse: fake proof
+2. We refuse: fake urgency
+3. We refuse: fake results
+4. What do you refuse?
+
+**Caption**
+> A published refusal list is a standard. An unpublished one is a mood.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Three things we always refuse:
+> 
+> 1. Fake proof — testimonials and logos that were not earned.
+> 2. Fake urgency — countdowns that reset, stock levels that are not real.
+> 3. Fake results — any promise about an outcome we do not control.
+> 
+> Write your own three and publish them. That is the difference between a standard and a preference.
+> 
+> What would yours be?
+
+
+---
+
+
+## Post 04 · The best decision is "not yet"
+
+**Type:** Entertain · **Why it works:** Reframes restraint as a marketing skill.
+
+### TikTok · 13:45 · Talking head, 20s
+
+**Hook (0-3s)**
+> The best marketing decision is usually not yet. Spend it on the leak instead.
+
+**On-screen beats**
+- Not yet
+- Fix the leak
+- Then buy attention
+- In that order
+
+**Voiceover script**
+> The best marketing decision is usually not yet, because buying attention before you can hold it is the most reliable way to waste money in this business. Fix the leak: the reply time, the first sentence, the price being visible. Then buy attention, because now attention converts. Same budget, different order, wildly different year.
+
+**Caption**
+> Attention before a working funnel is a donation with analytics.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Not yet
+2. Fix the leak
+3. Then buy attention
+
+**Caption**
+> A donation with analytics is still a donation.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> The best marketing decision is usually 'not yet'.
+> 
+> Buying attention before you can hold it is the most reliable way to waste money in this business.
+> 
+> Fix the leak first: reply time, the first sentence, a visible price. Then buy attention — because now attention converts.
+> 
+> Same budget. Different order. Wildly different year.
+> 
+> Which one are you skipping?
+
+
+---
+
+
+## Post 05 · We talked someone out of a project
+
+**Type:** Entertain · **Why it works:** The story earns the right to sell later.
+
+### TikTok · 15:00 · Talking head, 30s
+
+**Hook (0-3s)**
+> We talked someone out of a project this month, and it was the best work we did for them.
+
+**On-screen beats**
+- They wanted a new site
+- Their site was fine
+- The problem was they had no traffic
+- And no way to capture it
+
+**Voiceover script**
+> We talked someone out of a new website this month. Their site was fine. The problem was that nobody was arriving and nothing captured the people who did. So they spent the money on three months of local ads and a proper WhatsApp reply system instead, and they got customers. We lost a project and gained a reference, which in a market this small is the better trade.
+
+**Caption**
+> We lost a project and gained a reference. That is the better trade here.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. They wanted a new site
+2. Their site was fine
+3. Traffic was the problem
+4. We said spend elsewhere
+
+**Caption**
+> Turning down the wrong project is how you get the right ones.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> We talked someone out of a new website this month.
+> 
+> Their site was fine. The problem was that nobody was arriving, and nothing captured the people who did.
+> 
+> So they spent the money on three months of local ads and a proper WhatsApp reply system instead. They got customers.
+> 
+> We lost a project and gained a reference. In a market this small, that is the better trade.
+
+
+---
+
+
+## Post 06 · Ask any agency what they would not do
+
+**Type:** Teach · **Why it works:** Gives the buyer an interview technique.
+
+### TikTok · 16:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Ask any agency what they would refuse to do. Their answer is the whole interview.
+
+**On-screen beats**
+- Not their portfolio
+- Not their awards
+- What they refuse
+- Then you know
+
+**Voiceover script**
+> Ask any agency or freelancer what they would refuse to do, and listen to how quickly the answer comes. If they have a list, they have standards and you can predict how the project will go. If they say nothing, they are for hire in every direction, which means your project is the first thing that will get bent when the money runs short. One question, better than a portfolio.
+
+**Caption**
+> The refusal list is the portfolio. Everything else is decoration.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. Ask: what won't you do?
+2. A list means standards
+3. Silence means a bend
+
+**Caption**
+> Paste this question into your next supplier conversation.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Ask any agency or freelancer what they would refuse to do, and listen to how quickly the answer comes.
+> 
+> If they have a list, they have standards, and you can predict how the project will go.
+> 
+> If they say nothing, they are for hire in every direction — which means your project is the first thing that gets bent when the money runs short.
+> 
+> One question beats a portfolio.
+
+
+---
+
+
+## Post 07 · Nobody regrets asking
+
+**Type:** Entertain · **Why it works:** A small, repeatable habit phrased as a question.
+
+### TikTok · 18:00 · Kinetic type, 15s
+
+**Hook (0-3s)**
+> Nobody has ever regretted asking "do I need this?" Plenty have regretted not asking.
+
+**On-screen beats**
+- One question
+- Before you pay
+- Ten seconds
+- Then decide
+
+**Voiceover script**
+> Nobody has ever regretted asking do I need this before buying something. Plenty have regretted not asking, and you can hear them in the reviews. One question, ten seconds, and it works on software, on adverts, on courses, on packs, including mine, which is why I put it on my own sales page.
+
+**Caption**
+> Ask "do I need this?" before you pay. Ten seconds, no downside.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Before you pay
+2. Do I need this?
+3. Ten seconds
+
+**Caption**
+> The question has no downside and the answer is usually clear.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> Nobody has ever regretted asking 'do I need this?' before buying something.
+> 
+> Plenty have regretted not asking — you can hear them in the reviews.
+> 
+> One question. Ten seconds. It works on software, adverts, courses and packs, including mine, which is why it is on my own sales page.
+> 
+> What did you buy without asking?
+
+
+---
+
+
+## Post 08 · Has anyone told you not to buy
+
+**Type:** Entertain · **Why it works:** Rarity is the point, and the memory is the proof.
+
+### TikTok · 19:00 · Street interview, 26s
+
+**Hook (0-3s)**
+> I asked if a seller had ever told them not to buy something. Almost nobody had been told, and everyone remembered when they were.
+
+**On-screen beats**
+- Rare
+- Remembered
+- Years later
+- That is the whole advertisement
+
+**Voiceover script**
+> I asked people whether a seller had ever told them not to buy something. Almost nobody had, and the few who had remembered the shop, the product, and roughly what year it was. One woman said she has been going back to that shop for nine years because of one sentence. That is what a refusal buys you: a customer who tells the story for a decade.
+
+**Caption**
+> Almost nobody had been told not to buy. Everyone who had remembered it for years.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 3-slide carousel
+
+**Slide copy**
+1. Told not to buy: rare
+2. Remembered: always
+3. For years
+
+**Caption**
+> A refusal is the only marketing that gets retold for free.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people whether a seller had ever told them not to buy something.
+> 
+> Almost nobody had. The few who had remembered the shop, the product, and roughly what year it was.
+> 
+> One woman said she has been going back to that shop for nine years because of one sentence.
+> 
+> That is what a refusal buys: a customer who tells the story for a decade.
+
+
+---
+
+
+## Post 09 · Built is a project, not a pack
+
+**Type:** Sell · **Why it works:** Separates the two products so nobody buys the wrong one.
+
+### TikTok · 20:00 · Overhead shot, 25s
+
+**Hook (0-3s)**
+> If you want it built for you, that is a project, not a pack. Message us and we will say if we can help.
+
+**On-screen beats**
+- Packs: files
+- Projects: people
+- Different price
+- Different promise
+
+**Voiceover script**
+> If you want the work done for you, that is a project, not a pack. A pack is files you open. A project is a person, a date, and a number that is much bigger than five thousand, and I will tell you honestly whether your job is one I can do well. Some are. Some I will pass to somebody else who does that thing better, and I will say which is which.
+
+**Caption**
+> Packs are files. Projects are people. Message PROJECT on WhatsApp 0905 069 0837 and we will say honestly.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 4-slide carousel
+
+**Slide copy**
+1. Packs: files
+2. Projects: people and dates
+3. Different prices
+4. Ask which you need
+
+**Caption**
+> Two products, two promises. Confusing them costs both of us.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> If you want it built for you, that is a project, not a pack.
+> 
+> A pack is files you open. A project is a person, a date, and a number much bigger than ₦5,000.
+> 
+> I will tell you honestly which one your job is — and if it is not something I do well, I will say so and point you at someone who does.
+> 
+> Message PROJECT on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The project we declined this month
+
+**Type:** Entertain · **Why it works:** Same format as the earlier refusals, which is what makes it a series.
+
+### TikTok · 20:45 · Talking head, 32s
+
+**Hook (0-3s)**
+> The project we declined this month was a full ecommerce build for a business with no stock.
+
+**On-screen beats**
+- Beautiful shop
+- Nothing to put in it
+- Six weeks of work
+- And nothing to sell
+
+**Voiceover script**
+> The project we declined this month was a full online shop for a business that did not yet have stock. A beautiful storefront with nothing behind it, six weeks of work, and the first customer would have found an empty catalogue. We suggested they sell through WhatsApp for three months first, prove people want the thing, then build. They did. They are not ready for a shop yet, and now they know.
+
+**Caption**
+> A shop with no stock is a six week way to find out nobody could buy.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. Wanted: online shop
+2. Had: no stock
+3. Suggested: WhatsApp first
+
+**Caption**
+> Prove the demand before you build the storefront.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> The project we declined this month was a full online shop for a business that did not yet have stock.
+> 
+> A beautiful storefront with nothing behind it. Six weeks of work, and the first customer would have found an empty catalogue.
+> 
+> We suggested selling through WhatsApp for three months first, proving people want the thing, then building.
+> 
+> They did. They are not ready for a shop yet — and now they know.
+
+
+---
+
+
+## Post 11 · Three questions before any spend
+
+**Type:** Teach · **Why it works:** A checklist that survives after the month ends.
+
+### TikTok · 21:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Three questions before any marketing spend: what leaks, what changes, who owns it.
+
+**On-screen beats**
+- What leaks
+- What changes if it works
+- Who owns the asset
+- If any answer is unclear, wait
+
+**Voiceover script**
+> Three questions before any marketing spend. What leaks, meaning where are you currently losing people. What changes if this works, meaning do you have the capacity to handle double the messages. And who owns it, meaning the domain, the account, the list. If any of the three is unclear, wait a week, because the money is easier to keep than to earn back.
+
+**Caption**
+> What leaks · what changes · who owns it. Ask all three before you pay.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. 1. What leaks?
+2. 2. What changes if it works?
+3. 3. Who owns it?
+4. If unclear, wait
+
+**Caption**
+> Three questions that cost nothing and save everything.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Three questions before any marketing spend:
+> 
+> 1. What leaks? Where are you currently losing people?
+> 2. What changes if this works? Can you handle double the messages?
+> 3. Who owns it? The domain, the account, the list.
+> 
+> If any of the three is unclear, wait a week. The money is easier to keep than to earn back.
+> 
+> Which one would you fail today?
 
 
 ---
