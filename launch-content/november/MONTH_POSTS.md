@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Saturday 28 November 2026** |
+| Ends | **Sunday 29 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **924 posts** (308 core ideas x 3 platforms) |
+| Month total | **957 posts** (319 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -17158,6 +17158,620 @@ writing on the spot.
 > I am telling you now so that in January you can check whether I did it — which is more accountability than most marketing plans survive.
 > 
 > What is your December?
+
+
+---
+
+
+# Day 29 · Sunday · Sunday 29 Nov 2026 — The month in numbers
+
+**Offer in focus:** BUNDLE
+
+---
+
+
+## Post 01 · The best teardown of the month
+
+**Type:** Entertain · **Why it works:** Re-cutting the month's best asset rewards the audience that watched it.
+
+### TikTok · 07:00 · Screen recording, 26s
+
+**Hook (0-3s)**
+> The best teardown of the month, re-cut sharper. Same business, three fixes, twenty seconds.
+
+**On-screen beats**
+- The page
+- The one problem
+- The three fixes
+- No insults, again
+
+**Voiceover script**
+> The best teardown of the month, re-cut in twenty seconds. The bakery with the four paragraphs and the one real headline: bread out of the oven at six, Agege. The problem was never the site, it was that the best sentence they own was in a caption and not on the page. Fix: the headline, the hours, and the price of a loaf. That is the whole month of teardowns in one example.
+
+**Caption**
+> Their best sentence was in a caption, not on the page. That is most businesses.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. 4 paragraphs: quality
+2. 1 real headline: bread at 6am
+3. Agege
+4. Put that on the page
+
+**Caption**
+> Re-cutting the month's best teardown, because it is still the most common problem.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> The best teardown of the month, re-cut.
+> 
+> A bakery with four paragraphs about quality and tradition. The actual reason anyone goes: bread out of the oven at six in the morning, in Agege.
+> 
+> The best sentence they own was in a caption, not on the page.
+> 
+> That is most businesses. Including, probably, yours.
+> 
+> What is your buried sentence?
+
+
+---
+
+
+## Post 02 · 330 posts and what it cost
+
+**Type:** Entertain · **Why it works:** Naming the cost is the most credible transparency available.
+
+### TikTok · 09:15 · Talking head, 28s
+
+**Hook (0-3s)**
+> Three hundred and thirty posts this month. Here is what it cost in hours and naira.
+
+**On-screen beats**
+- Hours
+- Naira
+- What we did not do
+- Was it worth it
+
+**Voiceover script**
+> Three hundred and thirty ideas, nine hundred and ninety published pieces, and here is what it cost. Roughly six hours a day of writing and filming, about two hundred thousand naira in time if I charged myself my own rate, and three weekends I did not have. Worth it is not a question I can answer in one video, and anybody who answers it in one video is selling something.
+
+**Caption**
+> ~6 hours a day, ~₦200,000 of my own time, 3 weekends. Worth it is a longer conversation.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 4-slide carousel
+
+**Slide copy**
+1. 330 ideas
+2. 990 pieces
+3. ~6 hours a day
+4. ~₦200,000 of my time
+
+**Caption**
+> Anybody who tells you the ROI in one post is selling you something.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> 330 ideas this month. 990 published pieces. Here is what it cost.
+> 
+> Roughly six hours a day of writing and filming. About ₦200,000 in time, if I charged myself my own rate. Three weekends I did not have.
+> 
+> Whether it was worth it is not a question I can answer in one post — and anybody who answers it in one post is selling something.
+> 
+> What is your honest cost?
+
+
+---
+
+
+## Post 03 · The five posts that produced every conversation
+
+**Type:** Teach · **Why it works:** Naming all five is the most useful thing an account can publish.
+
+### TikTok · 11:30 · Kinetic type, 25s
+
+**Hook (0-3s)**
+> Five posts produced every conversation this month. Here they all are.
+
+**On-screen beats**
+- Five lines every quote needs
+- The day-three message
+- The four-answer profile
+- The two fixes
+- The one-hour test
+
+**Voiceover script**
+> Five posts produced every conversation this month. The five lines every quote needs. The day three message, word for word. The four answer profile setup. The two fixes worth an hour in any business. And the one hour test before buying anything. Notice that all five are lists or scripts, and none of them are opinions, which is the entire content strategy and it took me four weeks to believe it.
+
+**Caption**
+> Five posts. All lists or scripts. Zero opinions. That is the finding.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 5-slide carousel
+
+**Slide copy**
+1. 5 lines every quote needs
+2. The day-3 message
+3. The 4-answer profile
+4. The 2 fixes
+5. The 1-hour test
+
+**Caption**
+> Save this one. It is the whole month compressed.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Five posts produced every conversation this month:
+> 
+> 1. The five lines every quote needs
+> 2. The day-three message, word for word
+> 3. The four-answer profile setup
+> 4. The two fixes worth an hour in any business
+> 5. The one-hour test before buying anything
+> 
+> Notice: all lists or scripts. None of them opinions.
+> 
+> That is the entire content strategy, and it took four weeks to believe it.
+
+
+---
+
+
+## Post 04 · Most posts did nothing
+
+**Type:** Entertain · **Why it works:** Normalises the flat line, which is the most useful thing to normalise.
+
+### TikTok · 13:45 · Talking head, 19s
+
+**Hook (0-3s)**
+> Most of our posts did nothing. That is not a failure, it is the job.
+
+**On-screen beats**
+- Twenty percent carries eighty
+- You cannot pick it in advance
+- So you post volume
+- And keep the sheet
+
+**Voiceover script**
+> Most of our posts did nothing, and that is not a failure, it is the job. Twenty percent of anything carries eighty percent of the result, and you cannot pick the twenty percent in advance, which is the only honest argument for volume. What you can do is keep a sheet, notice which twenty percent showed up, and then do that again on purpose.
+
+**Caption**
+> You cannot pick the 20% in advance. You can notice it afterwards and repeat it.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Most posts: nothing
+2. 20% carries 80%
+3. You find it after, not before
+
+**Caption**
+> Volume is a search strategy, not an ambition.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Most of our posts did nothing this month. That is not a failure, it is the job.
+> 
+> Twenty percent of anything carries eighty percent of the result, and you cannot pick the twenty percent in advance — which is the only honest argument for volume.
+> 
+> What you can do is keep a sheet, notice which twenty percent showed up, and do that again on purpose.
+> 
+> Do you keep the sheet?
+
+
+---
+
+
+## Post 05 · The message that made the month
+
+**Type:** Entertain · **Why it works:** One real message, anonymised, is worth more than any summary.
+
+### TikTok · 15:00 · Talking head, 29s
+
+**Hook (0-3s)**
+> The message that made the month, anonymised and quoted exactly.
+
+**On-screen beats**
+- She watched three videos
+- Then fixed her reply time
+- Then two customers came back
+- That is the whole result
+
+**Voiceover script**
+> The message that made the month came from a tailor who watched three videos, changed her reply time from about a day to under an hour, and had two customers who had gone quiet come back and order. She sent me a screenshot of the chat. That is the entire result of the month, from my side, and it is small and it is real, which is the only kind of result I am willing to put on camera.
+
+**Caption**
+> Reply time from a day to an hour. Two quiet customers came back.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. She watched 3 videos
+2. Changed reply time
+3. Day → under an hour
+4. 2 customers returned
+
+**Caption**
+> One behaviour change in one business beats a thousand views.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> The message that made the month came from a tailor.
+> 
+> She watched three videos, changed her reply time from about a day to under an hour, and two customers who had gone quiet came back and ordered.
+> 
+> She sent a screenshot of the chat.
+> 
+> That is the entire result of the month from my side. Small, real, checkable.
+
+
+---
+
+
+## Post 06 · What we would do differently
+
+**Type:** Teach · **Why it works:** One thing, not a list, is the harder and better answer.
+
+### TikTok · 16:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> One thing we would do differently from day one: film a week in advance.
+
+**On-screen beats**
+- Not more ideas
+- Not better hooks
+- Batch film
+- Because filming daily broke the writing
+
+**Voiceover script**
+> If we started again, one thing would change: we would film a week in advance. Not more ideas, not better hooks, just a week of buffer. Filming daily meant the writing got squeezed into whatever time was left, which is backwards, because the writing is the part that decides whether anything works. The buffer is the whole improvement.
+
+**Caption**
+> One change: film a week ahead. The writing was what suffered.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. Change: film a week ahead
+2. Not more ideas
+3. The writing was suffering
+
+**Caption**
+> The thing that gets squeezed is always the thing that matters most.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> One thing we would do differently from day one: film a week in advance.
+> 
+> Not more ideas. Not better hooks. A week of buffer.
+> 
+> Filming daily meant the writing got squeezed into whatever time was left — which is backwards, because the writing decides whether anything works.
+> 
+> Have you ever tried batching?
+
+
+---
+
+
+## Post 07 · The format nobody watched
+
+**Type:** Entertain · **Why it works:** Retiring something on camera is a commitment device.
+
+### TikTok · 18:00 · Talking head, 22s
+
+**Hook (0-3s)**
+> There was a format nobody watched. We are retiring it on camera so we cannot quietly bring it back.
+
+**On-screen beats**
+- The long explainer
+- Four minutes
+- Nobody finished it
+- So it is gone
+
+**Voiceover script**
+> There was one format nobody watched: the four minute explainer. It got views, nobody finished it, and not one conversation came out of it. So we are retiring it on camera, which is the only way to make a decision stick, because a decision nobody saw is a decision you can quietly reverse in week three when you are tired.
+
+**Caption**
+> Retired on camera: the four-minute explainer. Nobody finished it.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Format: 4-min explainer
+2. Views: yes
+3. Finishes: no
+4. Retired
+
+**Caption**
+> Publish your decisions or you will reverse them quietly.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> There was one format nobody watched: the four-minute explainer.
+> 
+> It got views. Nobody finished it. Not one conversation came out of it.
+> 
+> So we are retiring it on camera — which is the only way to make a decision stick, because a decision nobody saw is a decision you can quietly reverse when you are tired.
+> 
+> What should you retire?
+
+
+---
+
+
+## Post 08 · Have you seen any of this
+
+**Type:** Entertain · **Why it works:** Reading out the nos is what makes the yeses mean something.
+
+### TikTok · 19:00 · Street interview, 27s
+
+**Hook (0-3s)**
+> I asked people if they had seen any of this account. Most had not.
+
+**On-screen beats**
+- Most had not
+- Two had seen the bakery one
+- One had fixed his listing
+- That is the honest reach
+
+**Voiceover script**
+> I asked people on the street if they had seen any of this account. Most had not, which is honest and worth saying out loud in a month of posting nine hundred and ninety pieces. Two had seen the bakery teardown, and one man had gone home and fixed his Google listing because of a video. Out of everyone I asked, that is the number. It is small. It is real.
+
+**Caption**
+> Most had not seen it. One had fixed his listing. That is the honest reach.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 4-slide carousel
+
+**Slide copy**
+1. Asked 20 people
+2. Most: never seen it
+3. 2: the bakery one
+4. 1: fixed his listing
+
+**Caption**
+> Reach is smaller than the dashboard makes it feel. Say so.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people on the street whether they had seen any of this account.
+> 
+> Most had not. Which is honest and worth saying out loud after a month of nearly a thousand pieces.
+> 
+> Two had seen the bakery teardown. One man had gone home and fixed his Google listing because of a video.
+> 
+> Out of everyone I asked, that is the number. Small. Real.
+
+
+---
+
+
+## Post 09 · Nothing new to sell
+
+**Type:** Sell · **Why it works:** Refusing to invent a launch is the most on-brand close possible.
+
+### TikTok · 20:00 · Overhead shot, 22s
+
+**Hook (0-3s)**
+> Nothing new to sell today. Here is the list, the prices, and the limit.
+
+**On-screen beats**
+- Nine packs
+- Five thousand each
+- Thirty five for all
+- No calls, no promises
+
+**Voiceover script**
+> There is nothing new to sell today, so here is the whole list again. Nine packs at five thousand naira, thirty five for all of them. No consulting, no calls, no promises, and nothing will not bring you customers. If you have been watching all month and you want one, the code is PACK. If you do not, that is genuinely fine, and the free posts are not going anywhere.
+
+**Caption**
+> Nine packs ₦5,000 · all nine ₦35,000 · no consulting. PACK on WhatsApp 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 4-slide carousel
+
+**Slide copy**
+1. Nothing new today
+2. 9 packs at ₦5,000
+3. All nine: ₦35,000
+4. PACK
+
+**Caption**
+> A closing post with no launch, no countdown, and no bonus.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> Nothing new to sell today, so here is the whole list again.
+> 
+> Nine packs at ₦5,000. All nine for ₦35,000.
+> 
+> No consulting. No calls. No promises. And none of them will bring you customers.
+> 
+> If you have been watching all month and you want one, message PACK on WhatsApp: 0905 069 0837.
+> 
+> If you do not, that is genuinely fine.
+
+
+---
+
+
+## Post 10 · The biggest thing we declined
+
+**Type:** Entertain · **Why it works:** The largest refusal deserves the largest slot.
+
+### TikTok · 20:45 · Talking head, 34s
+
+**Hook (0-3s)**
+> The biggest thing we declined this month was a retainer, and saying no cost us more than anything else.
+
+**On-screen beats**
+- Monthly money
+- For work we did not believe in
+- We said no
+- And slept
+
+**Voiceover script**
+> The biggest thing we declined this month was a monthly retainer, the kind that pays the rent. The work was advertising a product I did not think worked, to people who could not easily afford it. I said no on a Tuesday and regretted it by Thursday, and then a week later somebody from that same industry asked us to do the opposite, which is not a moral reward, it is just what happens when you are known for saying no.
+
+**Caption**
+> A retainer, declined. Regretted it by Thursday. Still the right call.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 4-slide carousel
+
+**Slide copy**
+1. Offer: monthly retainer
+2. Work: product I did not believe
+3. Said: no
+4. Regretted: Thursday
+
+**Caption**
+> You can regret a decision and still be right about it.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> The biggest thing we declined this month was a monthly retainer — the kind that pays the rent.
+> 
+> The work was advertising a product I did not think worked, to people who could not easily afford it.
+> 
+> I said no on a Tuesday and regretted it by Thursday.
+> 
+> A week later, somebody in the same industry asked us to do the opposite.
+> 
+> That is not a moral reward. It is just what happens when you are known for saying no.
+
+
+---
+
+
+## Post 11 · How to run this yourself in December
+
+**Type:** Teach · **Why it works:** Giving the system away is the strongest possible closing move.
+
+### TikTok · 21:30 · Kinetic type, 24s
+
+**Hook (0-3s)**
+> How to run this yourself in December: four shows, one sheet, eleven slots.
+
+**On-screen beats**
+- Four repeating formats
+- One spreadsheet
+- Eleven times a day
+- Sixty thirty ten
+
+**Voiceover script**
+> How to run this yourself in December. Pick four formats you can repeat: a fix, a list, a story, and an honest ad. Put them in one spreadsheet with a date and a time for every slot. Post eleven times a day if you can, five if you cannot. Keep sixty percent entertaining, thirty teaching, ten selling. Then do it for thirty days and read the sheet on the thirty first. That is the whole system, and it is free.
+
+**Caption**
+> Four formats · one sheet · 60/30/10 · thirty days. That is the whole system.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 5-slide carousel
+
+**Slide copy**
+1. 4 repeatable formats
+2. 1 spreadsheet
+3. 11 slots a day
+4. 60 / 30 / 10
+5. 30 days
+
+**Caption**
+> Screenshot this. It is the entire month, in a form you can run.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> How to run this yourself in December:
+> 
+> Pick four formats you can repeat — a fix, a list, a story, an honest ad.
+> Put them in one spreadsheet with a date and time for every slot.
+> Post eleven times a day if you can. Five if you cannot.
+> Keep it 60% entertaining, 30% teaching, 10% selling.
+> Do it for thirty days, then read the sheet.
+> 
+> That is the whole system, and it is free.
 
 
 ---
