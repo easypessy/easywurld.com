@@ -1,0 +1,746 @@
+[
+  {
+    "day": 9,
+    "label": "Day 9 · Monday",
+    "theme": "The follow-up week",
+    "offer": "PLAYBOOK",
+    "posts": [
+      {
+        "id": "D9-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "Six questions, answered nowhere",
+        "why": "Every business has an FAQ they have never written down.",
+        "tiktok": {
+          "fmt": "Screen recording, 26s",
+          "hook": "This site answers six questions nowhere. Price, delivery, hours, location, returns, payment.",
+          "beats": [
+            "Six questions",
+            "Every customer asks them",
+            "None are on the page",
+            "That is six conversations each"
+          ],
+          "vo": "This site answers six questions nowhere. Price. Delivery. Opening hours. Where they are. Returns. How to pay. Every customer asks at least four of those before buying, which means every customer costs you a conversation you did not need to have. Put the six answers on the page and the conversations become orders.",
+          "cap": "Six questions. Every customer asks them. Nowhere on the page."
+        },
+        "instagram": {
+          "fmt": "6-slide carousel",
+          "slides": [
+            "Price?",
+            "Delivery?",
+            "Hours?",
+            "Where are you?",
+            "Returns?",
+            "How do I pay?"
+          ],
+          "cap": "All six are already typed in your inbox. Screenshot them and put them on the site."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Count the questions your customers ask before they buy. For most businesses it is four to six:\n\nPrice. Delivery. Opening hours. Location. Returns. How to pay.\n\nMost of those are answered nowhere on the website, which means every single customer costs you a conversation you did not need to have.\n\nThe answers are already sitting in your inbox. Search one word and you will find them typed out fifty times.\n\nWhich one do you answer most?"
+        }
+      },
+      {
+        "id": "D9-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "You have typed this 400 times",
+        "why": "Turns an annoyance into an obvious, cheap fix.",
+        "tiktok": {
+          "fmt": "Kinetic type, 15s",
+          "hook": "You have typed the same answer four hundred times this year.",
+          "beats": [
+            "Four hundred",
+            "Same words",
+            "Same customer type",
+            "That is not service, that is a missing page"
+          ],
+          "vo": "You have typed the same answer four hundred times this year. Same words, different customers, all day. That is not good service. That is a missing page on your website, and it is costing you the hours you would have spent actually making the thing you sell.",
+          "cap": "If you have typed it more than twenty times, it belongs on the page."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "You typed it 400 times",
+            "Same words",
+            "Same answer",
+            "It belongs on a page"
+          ],
+          "cap": "Your thumbs are doing work your website should do."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "If you have typed the same answer more than twenty times this year, it does not belong in the chat. It belongs on the page.\n\nSame words, different customers, all day. That is not good service. That is a missing page, and it is costing you the hours you would have spent making the thing you actually sell.\n\nWhat is the sentence you type most often?\n\nPut it on your website tonight and count the difference by Friday."
+        }
+      },
+      {
+        "id": "D9-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The away message",
+        "why": "A free fix, doable in one minute, on the platform they already use.",
+        "tiktok": {
+          "fmt": "Kinetic type, 22s",
+          "hook": "Put your four answers in your WhatsApp away message. You just hired a night shift for free.",
+          "beats": [
+            "Price",
+            "Delivery",
+            "Hours",
+            "Payment detail",
+            "It answers at 11pm"
+          ],
+          "vo": "Put your four answers in your WhatsApp away message. One line for the price, one for delivery, one for hours, one for how to pay. Then when someone messages at eleven at night, they get an answer instead of silence, and you wake up to a conversation that has already started properly. That is a night shift for free.",
+          "cap": "Four lines in an away message. It answers when you are asleep."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "Away message",
+            "Price",
+            "Delivery",
+            "Hours + payment",
+            "Answers at 11pm"
+          ],
+          "cap": "You cannot hire a night shift for ₦0. Except here."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Put your four most common answers in your WhatsApp away message.\n\nOne line for price. One for delivery. One for opening hours. One for how to pay.\n\nThen when someone messages at 11pm, they get information instead of silence, and you wake up to a conversation that has already started properly.\n\nFour lines. About ninety seconds of typing. It answers while you sleep.\n\nWhat would your four lines say?"
+        }
+      },
+      {
+        "id": "D9-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "An FAQ is not lazy",
+        "why": "Reverses the standard objection in one line.",
+        "tiktok": {
+          "fmt": "Talking head, 18s",
+          "hook": "An FAQ page is not lazy. Your inbox is lazy.",
+          "beats": [
+            "Answer once",
+            "Publicly",
+            "Forever",
+            "That is the whole point"
+          ],
+          "vo": "An FAQ page is not lazy. Your inbox is lazy. If you answer the same question in a chat, one person learns it once. If you answer it on a page, everyone learns it forever, including the people who would never have messaged you, which is most of them.",
+          "cap": "Answering in a chat helps one person. Answering online helps everyone."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Chat: 1 person learns",
+            "Page: everyone learns",
+            "Including the silent ones"
+          ],
+          "cap": "The people who never messaged are the ones an FAQ wins."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "An FAQ page is not lazy. Answering the same question in ten separate chats is the lazy option, because it only helps ten people.\n\nAnswer it once, on a page, and it helps everyone who reads it forever — including the people who would never have messaged you. Which is most of them.\n\nWhat question are you answering over and over that should be written down?"
+        }
+      },
+      {
+        "id": "D9-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "Three hundred deliveries",
+        "why": "A number that makes the wasted effort physically obvious.",
+        "tiktok": {
+          "fmt": "Talking head, 31s",
+          "hook": "A vendor typed the word \"delivery\" three hundred times in one month.",
+          "beats": [
+            "Three hundred",
+            "Same answer",
+            "Two lines of catalogue",
+            "Would have saved all of it"
+          ],
+          "vo": "A vendor typed the word delivery three hundred times in one month. Same answer every time: yes we deliver, it is this much, it takes this long. Two lines in the catalogue would have saved every one of those replies. That is not a marketing problem, it is a filing problem, and it is free to fix.",
+          "cap": "Three hundred replies to one question. Two lines would have done it."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "300 × \"delivery?\"",
+            "300 identical answers",
+            "2 lines in a catalogue",
+            "0 of them necessary"
+          ],
+          "cap": "Count your most-repeated sentence this month. That number is your wasted hours."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A vendor typed the word 'delivery' three hundred times in one month.\n\nEvery time, the same answer: yes we deliver, it costs this much, it takes this long.\n\nTwo lines in their catalogue would have saved all three hundred replies.\n\nThat is not a marketing problem. It is a filing problem, and it is free to fix this evening.\n\nWhat is your most-repeated sentence?"
+        }
+      },
+      {
+        "id": "D9-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The saved reply you should write tonight",
+        "why": "One action, tonight, that they will actually do.",
+        "tiktok": {
+          "fmt": "Kinetic type, 20s",
+          "hook": "Tonight, write one saved reply: the answer you typed most this week.",
+          "beats": [
+            "Find it in your chat",
+            "Copy it once",
+            "Save it as a shortcut",
+            "Use it forever"
+          ],
+          "vo": "Tonight, write one saved reply. Go into your chat, scroll up, find the answer you typed most this week, copy it exactly as you wrote it, and save it as a shortcut on your phone. Not a template from a book, your own words. Tomorrow it takes two taps instead of twenty.",
+          "cap": "Your own words, saved once, used forever. Tonight, two minutes."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Scroll up",
+            "Find your most-typed answer",
+            "Copy your own words",
+            "Save as a shortcut"
+          ],
+          "cap": "Do not use a template. Use the sentence you already know works."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Tonight's task, and it takes two minutes.\n\nOpen your chat. Scroll up. Find the answer you typed most this week. Copy it exactly as you wrote it — your own words, not a template from a book — and save it as a shortcut on your phone.\n\nTomorrow that reply takes two taps instead of twenty seconds of thought.\n\nWhat is yours? Write it in the comments and I will tell you if it is clear."
+        }
+      },
+      {
+        "id": "D9-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "\"Is it available?\" is the whole conversation",
+        "why": "A blunt, memorable reframe of what a product page is for.",
+        "tiktok": {
+          "fmt": "Kinetic type, 16s",
+          "hook": "\"Is it available?\" is the entire conversation, and it should not exist.",
+          "beats": [
+            "Not the price",
+            "Not the quality",
+            "Availability",
+            "Show stock"
+          ],
+          "vo": "Is it available is the entire conversation, and it should not exist. Nobody asks whether a price is nice or a fabric is soft first. They ask whether it is there. So show what is there: a photo, a count, a colour, a size. Stock is more persuasive than any adjective you can write.",
+          "cap": "Show stock, not adjectives."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "\"Is it available?\"",
+            "First question, always",
+            "So answer it before they ask"
+          ],
+          "cap": "A photo of the actual item in the actual size does more than a paragraph."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The first question almost every customer asks is not about price or quality. It is 'is it available?'\n\nSo show what is there. A photo, a count, a colour, a size, a date it can be collected.\n\nStock is more persuasive than any adjective you can write about the product.\n\nDo your customers have to ask?"
+        }
+      },
+      {
+        "id": "D9-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "What do you ask before buying from a new shop?",
+        "why": "The answer surprises almost everyone selling online.",
+        "tiktok": {
+          "fmt": "Street interview, 28s",
+          "hook": "I asked what people ask before buying from a shop they have never used.",
+          "beats": [
+            "Not the price",
+            "Not quality",
+            "Where are you",
+            "Then whether it is real"
+          ],
+          "vo": "I asked what people ask before buying from a shop they have never used. It was not the price. It was not the quality. It was where are you, and then, is this a real business. Trust comes before money in every single answer, which is why the location line and the photo of your actual shop matter more than your logo.",
+          "cap": "\"Where are you?\" came first. Not price. Trust, then money."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "\"Where are you?\"",
+            "\"Is this real?\"",
+            "\"Who else bought?\"",
+            "Price comes 4th"
+          ],
+          "cap": "Nobody buys from a stranger without checking they exist."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I asked people what they check before buying from a shop they have never used.\n\nThe order was consistent:\n1. Where are you?\n2. Is this a real business?\n3. Has anyone else bought?\n4. How much?\n\nPrice came fourth. Trust comes before money every time, which is why an address, a photo of the actual shop, and one real customer sentence matter more than any logo.\n\nWhat do you check first?"
+        }
+      },
+      {
+        "id": "D9-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "The four-answer profile setup",
+        "why": "Sells a specific deliverable, not a vague improvement.",
+        "tiktok": {
+          "fmt": "Overhead shot, 24s",
+          "hook": "The chat pack includes a four-answer profile setup. It takes one afternoon.",
+          "beats": [
+            "What it is",
+            "Price, delivery, hours, payment",
+            "One afternoon",
+            "Five thousand naira"
+          ],
+          "vo": "The chat pack includes a four answer profile setup, and it is the least exciting page in the whole thing. Price, delivery, hours, payment. Four lines on your profile and in your away message. It takes one afternoon and it answers most of the questions you answer by hand. Five thousand naira for the pack. It will not bring you customers. It stops you losing hours.",
+          "cap": "Four lines, one afternoon, most of your repeated replies gone. ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837."
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": [
+            "Four-answer setup",
+            "Price · Delivery · Hours · Payment",
+            "One afternoon",
+            "₦5,000 · PLAYBOOK",
+            "No consulting included"
+          ],
+          "cap": "The least exciting page is the one that keeps the most hours."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The least exciting part of the Chat-to-Customer Playbook is the four-answer profile setup.\n\nPrice. Delivery. Opening hours. How to pay.\n\nFour lines in your bio and your away message. One afternoon of work. It removes most of the questions you currently answer by hand, one customer at a time.\n\n₦5,000 for the pack. Message PLAYBOOK on WhatsApp: 0905 069 0837. No consulting, no guarantees, no new customers — just fewer wasted hours."
+        }
+      },
+      {
+        "id": "D9-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "Hide the delivery cost",
+        "why": "A principle with an obvious cost attached.",
+        "tiktok": {
+          "fmt": "Talking head, 32s",
+          "hook": "Someone asked us to hide the delivery cost until checkout. We said no.",
+          "beats": [
+            "It is legal",
+            "It is also expensive",
+            "Surprise fees cost more than the fee",
+            "Show it early"
+          ],
+          "vo": "Someone asked us to keep the delivery cost out of sight until checkout. We said no. It is legal and it works, briefly, and then it costs more than the fee itself, because the customer feels caught rather than served. Show delivery early, even when it is ugly. The ones who stay are the ones who can pay, which is the only kind you want.",
+          "cap": "A surprise fee costs more than the fee. Every time."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Hide delivery till checkout",
+            "We said no",
+            "The surprise costs more than the fee"
+          ],
+          "cap": "Filters out the buyers who cannot pay, which is a kindness to both sides."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Someone asked us to keep the delivery cost out of sight until checkout.\n\nWe said no. It is legal, and it works briefly, and then it costs more than the fee itself — because the customer feels caught rather than served. They abandon, and they tell people why.\n\nShow delivery early, even when it is ugly. The ones who stay are the ones who can actually pay, which is the only kind of customer worth chasing.\n\nWould you rather lose them early or late?"
+        }
+      },
+      {
+        "id": "D9-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "One catalogue item beats none",
+        "why": "Removes the excuse of not being ready.",
+        "tiktok": {
+          "fmt": "Kinetic type, 19s",
+          "hook": "One item beats a catalogue you have not built yet.",
+          "beats": [
+            "Start with the one that sells most",
+            "Photo, price, size",
+            "One page",
+            "Add the second next week"
+          ],
+          "vo": "One catalogue item beats a catalogue you have not built. Start with the one that sells most, not your favourite one. A photo, a price, a size, and one sentence about who it is for. Put it on a page. Then add the second item next week. Ten pages built one at a time is a website. A plan for ten pages is still a plan.",
+          "cap": "Start with the item that sells most. Not your favourite."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "One item",
+            "Your best seller",
+            "Photo, price, size, one sentence",
+            "Add the second next week"
+          ],
+          "cap": "Ten pages built one at a time is a website. A plan is still a plan."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "One catalogue item beats a catalogue you have not built yet.\n\nStart with the one that sells most, not your favourite. A photo, a price, a size, and one sentence about who it is for. Put it on a page.\n\nAdd the second item next week.\n\nTen pages built one at a time is a website. Ten pages you are planning is still a plan.\n\nWhat is your single best seller?"
+        }
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "label": "Day 10 · Tuesday",
+    "theme": "The follow-up week",
+    "offer": "PROPOSAL",
+    "posts": [
+      {
+        "id": "D10-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "A quote that is one line",
+        "why": "Recognisable to anyone who has ever sent a quote.",
+        "tiktok": {
+          "fmt": "Screen recording, 24s",
+          "hook": "This quote is one line: one hundred and eighty thousand naira, let me know.",
+          "beats": [
+            "No scope",
+            "No date",
+            "No reason",
+            "Three things missing"
+          ],
+          "vo": "This quote is one line. One hundred and eighty thousand naira, let me know. No scope, so they do not know what they are buying. No date, so they cannot plan. No reason, so it is a number with no story. The price was not the problem. The other three lines were missing.",
+          "cap": "Three words were missing, and none of them was the price."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "\"₦180,000, let me know\"",
+            "No scope",
+            "No date",
+            "No reason"
+          ],
+          "cap": "A number without a story is just a hurdle."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A quote I saw this week was one line: '₦180,000, let me know.'\n\nNo scope, so the customer does not know what they are buying. No date, so they cannot plan. No reason, so the number has nothing holding it up.\n\nThe price was not the problem. Three lines were missing around it.\n\nWhat does your quote usually look like?"
+        }
+      },
+      {
+        "id": "D10-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "A quote with no date is a question",
+        "why": "The sharpest reframe in the day.",
+        "tiktok": {
+          "fmt": "Kinetic type, 14s",
+          "hook": "A quote with no date is not a quote. It is a question.",
+          "beats": [
+            "They cannot say yes",
+            "They cannot plan",
+            "So they ask more questions",
+            "Give them a date"
+          ],
+          "vo": "A quote with no date is not a quote, it is a question, because the customer cannot answer it. They do not know whether yes means next week or December, so they ask more questions, and every question is another chance for the sale to die. Give them a date and they can say yes.",
+          "cap": "A date turns a number into a decision."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "No date",
+            "= a question",
+            "= they cannot say yes"
+          ],
+          "cap": "Every unanswerable sentence in a quote is a delay you cannot afford."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A quote with no date is not a quote. It is a question.\n\nThe customer cannot answer it, because they do not know whether yes means next week or December. So they ask more questions, and every question is another chance for the sale to quietly die.\n\nGive them a date and the sentence becomes answerable.\n\nWhen will you deliver? Write it in your next quote."
+        }
+      },
+      {
+        "id": "D10-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Five lines every quote needs",
+        "why": "The most saveable post of the week.",
+        "tiktok": {
+          "fmt": "Kinetic type, 25s",
+          "hook": "Five lines every quote needs. Copy these labels.",
+          "beats": [
+            "What",
+            "How much",
+            "By when",
+            "What's included",
+            "What's not"
+          ],
+          "vo": "Five lines every quote needs. What it is. How much. By when. What is included. And what is not included. That is the entire format, in that order, on one screen, in the message itself. The last line is the one that wins work, and it is the one almost nobody writes.",
+          "cap": "What · How much · By when · Included · Not included. In that order."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "What it is",
+            "How much",
+            "By when",
+            "What's included",
+            "What's not included"
+          ],
+          "cap": "Save this and use it on your next quote, today."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Five lines every quote needs, in this order:\n\n1. What it is\n2. How much\n3. By when\n4. What is included\n5. What is not included\n\nOne screen, in the message itself, no attachment needed.\n\nThe fifth line is the one that wins work, and it is the one almost nobody writes.\n\nWhich of the five do you usually skip?"
+        }
+      },
+      {
+        "id": "D10-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "The exclusions line",
+        "why": "Counterintuitive and immediately usable.",
+        "tiktok": {
+          "fmt": "Talking head, 20s",
+          "hook": "The \"what's not included\" line wins more jobs than the price does.",
+          "beats": [
+            "It sounds honest",
+            "Because it is",
+            "It prevents the argument",
+            "Nobody else does it"
+          ],
+          "vo": "The what is not included line wins more jobs than the price does. It sounds honest, because it is, and because almost nobody writes it. It also prevents the argument in week three about whether the frame was part of it. One line, written before the problem exists, is worth more than a discount.",
+          "cap": "Write the awkward line early and you never have the awkward conversation."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Everyone lists: included",
+            "Almost nobody lists: excluded",
+            "That is the trust"
+          ],
+          "cap": "The exclusions line is the cheapest trust you can buy."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The line that wins more jobs than the price is the one that says what is not included.\n\nIt sounds honest, because it is. Almost nobody writes it. And it prevents the argument in week three about whether the frame, the delivery, or the revision was part of the deal.\n\nOne line written before the problem exists is worth more than a discount.\n\nHave you ever had that argument?"
+        }
+      },
+      {
+        "id": "D10-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "A date beat a cheaper price",
+        "why": "Directly attacks the assumption that price always wins.",
+        "tiktok": {
+          "fmt": "Talking head, 28s",
+          "hook": "A quote with a date beat a quote that was cheaper.",
+          "beats": [
+            "Fifteen thousand cheaper",
+            "No date on it",
+            "The customer could not plan",
+            "So they paid more for certainty"
+          ],
+          "vo": "A quote with a delivery date beat a quote that was fifteen thousand naira cheaper. The cheaper one had no date on it at all, so the customer could not plan their own week, and went with the one that told them exactly when it would be done. Certainty was worth fifteen thousand, and it cost the other vendor nothing to give it.",
+          "cap": "Certainty sold for ₦15,000 more, and it cost the winner nothing."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "Quote A: ₦15k cheaper",
+            "No date",
+            "Quote B: dated",
+            "B won"
+          ],
+          "cap": "The cheaper quote lost because it could not be planned around."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A quote with a delivery date beat one that was ₦15,000 cheaper.\n\nThe cheaper quote had no date on it. The customer could not plan their own week around it, so they went with the one that told them exactly when the job would be done.\n\nCertainty was worth ₦15,000. It cost the winning vendor nothing to give it.\n\nWhat are you holding back that costs you nothing?"
+        }
+      },
+      {
+        "id": "D10-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Never a PDF first",
+        "why": "A small, specific, instantly obeyed rule.",
+        "tiktok": {
+          "fmt": "Kinetic type, 21s",
+          "hook": "Never send a PDF as your first contact with a customer.",
+          "beats": [
+            "They will not open it",
+            "Or they open it at work",
+            "Put the price in the message",
+            "PDF after interest"
+          ],
+          "vo": "Never send a PDF as your first contact. They will not open it, or they will open it in a queue and close it. Put the number in the message itself, one screen, no scrolling. Send the PDF after they have asked a second question, because then it is information instead of homework.",
+          "cap": "A PDF is homework. A message is a decision."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "First contact",
+            "No PDF",
+            "Price in the message",
+            "PDF after question two"
+          ],
+          "cap": "Your quote is competing with forty notifications. Make it one screen."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Never send a PDF as your first contact with a customer.\n\nThey will not open it. Or they will open it in a queue and close it before page two.\n\nPut the number in the message itself. One screen. No scrolling.\n\nSend the PDF after they have asked a second question — by then it is information rather than homework.\n\nHow do you send quotes?"
+        }
+      },
+      {
+        "id": "D10-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "\"Let me know if you're interested\"",
+        "why": "Names the exact sentence most people end quotes with.",
+        "tiktok": {
+          "fmt": "Kinetic type, 15s",
+          "hook": "\"Let me know if you are interested\" is homework for the customer.",
+          "beats": [
+            "They have to decide alone",
+            "With no deadline",
+            "No next step",
+            "So nothing happens"
+          ],
+          "vo": "Let me know if you are interested is homework. You have handed the customer a decision, no deadline, and no next step, and then you have left the room. Give them one question instead: shall I book the slot for Thursday. It has a date in it, so it can be answered.",
+          "cap": "End with a question that has a date inside it."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "\"Let me know if interested\"",
+            "= decide this alone, forever",
+            "\"Shall I book Thursday?\""
+          ],
+          "cap": "Never end a message with an instruction to feel something."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "'Let me know if you're interested' is homework for the customer.\n\nYou have handed them a decision, no deadline and no next step, and then left the room.\n\nEnd with one question that has a date inside it: 'Shall I book the slot for Thursday?'\n\nThat can be answered with one word. The other one cannot be answered at all.\n\nWhat do you usually end with?"
+        }
+      },
+      {
+        "id": "D10-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "What makes you trust a quote?",
+        "why": "Witnesses validate the whole week's thesis.",
+        "tiktok": {
+          "fmt": "Street interview, 26s",
+          "hook": "I asked what makes people trust a quote. Nobody said the price.",
+          "beats": [
+            "One said detail",
+            "One said date",
+            "One said the exclusions line",
+            "Price was not mentioned once"
+          ],
+          "vo": "I asked what makes people trust a quote. Nobody said the price. One said the detail, one said the date, and one said the line that told her what would not be done, because it was the only part that sounded like a person rather than a template. That is what you are competing on.",
+          "cap": "\"They told me what they would not do.\" Not one person said price."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "\"What makes you trust a quote?\"",
+            "Detail",
+            "A date",
+            "The exclusions line",
+            "Price: not once"
+          ],
+          "cap": "Trust is built in the lines around the number, not in the number."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I asked people what makes them trust a quote. Not one person said the price.\n\nOne said the detail. One said the delivery date. One said the line that told her what would not be done, because it was the only part that sounded like a person rather than a template.\n\nThat is what you are actually competing on.\n\nWhat made you trust the last quote you accepted?"
+        }
+      },
+      {
+        "id": "D10-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "Who the Proposal Pack is for",
+        "why": "Disqualifying buyers builds trust and reduces refunds.",
+        "tiktok": {
+          "fmt": "Overhead shot, 26s",
+          "hook": "The Proposal Pack is for people who send quotes every week. If you send two a month, do not buy it.",
+          "beats": [
+            "Weekly quoters",
+            "Templates pay back in a fortnight",
+            "Two a month",
+            "Use your own template"
+          ],
+          "vo": "The Proposal Pack is for people who send quotes every week. If you send two a month, do not buy it, you already have a template and it works. This is for the ones quoting daily, where one saved hour a week pays for it in a fortnight. Five thousand naira. Twelve templates and the five-line structure.",
+          "cap": "Sending quotes weekly? ₦5,000. Twice a month? Keep your own template. Message PROPOSAL on WhatsApp: 0905 069 0837."
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": [
+            "For: weekly quoters",
+            "Not for: two a month",
+            "12 templates + structure",
+            "₦5,000",
+            "No consulting included"
+          ],
+          "cap": "A pack that tells you not to buy it is a pack you can trust."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Who the Proposal Pack is for: people who send quotes every week.\n\nWho it is not for: people who send two a month. You already have a template and it works. Do not spend ₦5,000 on this.\n\nFor the weekly quoters, one saved hour a week pays it back inside a fortnight.\n\nTwelve templates and the five-line structure. ₦5,000. Message PROPOSAL on WhatsApp: 0905 069 0837. No consulting, no guarantees."
+        }
+      },
+      {
+        "id": "D10-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "A job we could not deliver",
+        "why": "Losing work honestly is the most persuasive proof of standards.",
+        "tiktok": {
+          "fmt": "Talking head, 35s",
+          "hook": "We were asked to quote a job we could not deliver in three weeks. We said six weeks and lost it.",
+          "beats": [
+            "They wanted three",
+            "We could not",
+            "So we told the truth",
+            "And lost the job"
+          ],
+          "vo": "Someone asked us to quote a job for three weeks. We could not do it in three weeks without rushing something that would show. So we quoted six. They went with someone who said three, and I hope that person could actually do it. We lost the job and kept the standard, and I would do it again, which is easy to say and was not easy at the time.",
+          "cap": "We quoted the truth, lost the job, and would do it again."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "Asked for: 3 weeks",
+            "Could do: 6",
+            "Said: 6",
+            "Lost the job"
+          ],
+          "cap": "The fastest quote is not the same as the honest one."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Someone asked us to quote a job for three weeks.\n\nWe could not do it in three weeks without rushing something that would show. So we quoted six.\n\nThey went with the person who said three. We lost the job and kept the standard.\n\nI would do it again, which is easy to say now and was not easy at the time.\n\nHave you ever lost work by being accurate?"
+        }
+      },
+      {
+        "id": "D10-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "End with a yes-shaped question",
+        "why": "One small habit with an outsized effect on replies.",
+        "tiktok": {
+          "fmt": "Kinetic type, 20s",
+          "hook": "End every quote with one question: \"Shall I book the slot?\"",
+          "beats": [
+            "Yes-shaped",
+            "One word to answer",
+            "Has a date in it",
+            "Then stop typing"
+          ],
+          "vo": "End every quote with one question: shall I book the slot. It is yes shaped, it takes one word to answer, and it implies there is a slot with value. Then stop typing. No second paragraph, no let me know, no thank you so much for your time. One question, and then silence, which is where the answer comes from.",
+          "cap": "One question. Then stop typing."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "End with a question",
+            "Yes-shaped",
+            "Then stop typing"
+          ],
+          "cap": "\"Shall I book the slot?\" is the most answerable sentence in a quote."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "End every quote with one question: 'Shall I book the slot?'\n\nIt is yes-shaped. It takes one word to answer. It implies the slot has value and a date.\n\nThen stop typing. No second paragraph. No 'let me know'. No thank you for your time.\n\nOne question, then silence — which is where the answer actually comes from.\n\nTry it on your next quote and tell me what happens."
+        }
+      }
+    ]
+  }
+]

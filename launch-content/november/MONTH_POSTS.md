@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Sunday 8 November 2026** |
+| Ends | **Tuesday 10 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **264 posts** (88 core ideas x 3 platforms) |
+| Month total | **330 posts** (110 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -4981,6 +4981,1234 @@ writing on the spot.
 > The follow-up problem is not a discipline problem. It is a calendar problem, and calendars are easy.
 > 
 > Do you do this already?
+
+
+---
+
+
+# Day 9 · Monday · Monday 9 Nov 2026 — The follow-up week
+
+**Offer in focus:** PLAYBOOK
+
+---
+
+
+## Post 01 · Six questions, answered nowhere
+
+**Type:** Entertain · **Why it works:** Every business has an FAQ they have never written down.
+
+### TikTok · 07:00 · Screen recording, 26s
+
+**Hook (0-3s)**
+> This site answers six questions nowhere. Price, delivery, hours, location, returns, payment.
+
+**On-screen beats**
+- Six questions
+- Every customer asks them
+- None are on the page
+- That is six conversations each
+
+**Voiceover script**
+> This site answers six questions nowhere. Price. Delivery. Opening hours. Where they are. Returns. How to pay. Every customer asks at least four of those before buying, which means every customer costs you a conversation you did not need to have. Put the six answers on the page and the conversations become orders.
+
+**Caption**
+> Six questions. Every customer asks them. Nowhere on the page.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 6-slide carousel
+
+**Slide copy**
+1. Price?
+2. Delivery?
+3. Hours?
+4. Where are you?
+5. Returns?
+6. How do I pay?
+
+**Caption**
+> All six are already typed in your inbox. Screenshot them and put them on the site.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> Count the questions your customers ask before they buy. For most businesses it is four to six:
+> 
+> Price. Delivery. Opening hours. Location. Returns. How to pay.
+> 
+> Most of those are answered nowhere on the website, which means every single customer costs you a conversation you did not need to have.
+> 
+> The answers are already sitting in your inbox. Search one word and you will find them typed out fifty times.
+> 
+> Which one do you answer most?
+
+
+---
+
+
+## Post 02 · You have typed this 400 times
+
+**Type:** Entertain · **Why it works:** Turns an annoyance into an obvious, cheap fix.
+
+### TikTok · 09:15 · Kinetic type, 15s
+
+**Hook (0-3s)**
+> You have typed the same answer four hundred times this year.
+
+**On-screen beats**
+- Four hundred
+- Same words
+- Same customer type
+- That is not service, that is a missing page
+
+**Voiceover script**
+> You have typed the same answer four hundred times this year. Same words, different customers, all day. That is not good service. That is a missing page on your website, and it is costing you the hours you would have spent actually making the thing you sell.
+
+**Caption**
+> If you have typed it more than twenty times, it belongs on the page.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. You typed it 400 times
+2. Same words
+3. Same answer
+4. It belongs on a page
+
+**Caption**
+> Your thumbs are doing work your website should do.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> If you have typed the same answer more than twenty times this year, it does not belong in the chat. It belongs on the page.
+> 
+> Same words, different customers, all day. That is not good service. That is a missing page, and it is costing you the hours you would have spent making the thing you actually sell.
+> 
+> What is the sentence you type most often?
+> 
+> Put it on your website tonight and count the difference by Friday.
+
+
+---
+
+
+## Post 03 · The away message
+
+**Type:** Teach · **Why it works:** A free fix, doable in one minute, on the platform they already use.
+
+### TikTok · 11:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Put your four answers in your WhatsApp away message. You just hired a night shift for free.
+
+**On-screen beats**
+- Price
+- Delivery
+- Hours
+- Payment detail
+- It answers at 11pm
+
+**Voiceover script**
+> Put your four answers in your WhatsApp away message. One line for the price, one for delivery, one for hours, one for how to pay. Then when someone messages at eleven at night, they get an answer instead of silence, and you wake up to a conversation that has already started properly. That is a night shift for free.
+
+**Caption**
+> Four lines in an away message. It answers when you are asleep.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 5-slide carousel
+
+**Slide copy**
+1. Away message
+2. Price
+3. Delivery
+4. Hours + payment
+5. Answers at 11pm
+
+**Caption**
+> You cannot hire a night shift for ₦0. Except here.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Put your four most common answers in your WhatsApp away message.
+> 
+> One line for price. One for delivery. One for opening hours. One for how to pay.
+> 
+> Then when someone messages at 11pm, they get information instead of silence, and you wake up to a conversation that has already started properly.
+> 
+> Four lines. About ninety seconds of typing. It answers while you sleep.
+> 
+> What would your four lines say?
+
+
+---
+
+
+## Post 04 · An FAQ is not lazy
+
+**Type:** Entertain · **Why it works:** Reverses the standard objection in one line.
+
+### TikTok · 13:45 · Talking head, 18s
+
+**Hook (0-3s)**
+> An FAQ page is not lazy. Your inbox is lazy.
+
+**On-screen beats**
+- Answer once
+- Publicly
+- Forever
+- That is the whole point
+
+**Voiceover script**
+> An FAQ page is not lazy. Your inbox is lazy. If you answer the same question in a chat, one person learns it once. If you answer it on a page, everyone learns it forever, including the people who would never have messaged you, which is most of them.
+
+**Caption**
+> Answering in a chat helps one person. Answering online helps everyone.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Chat: 1 person learns
+2. Page: everyone learns
+3. Including the silent ones
+
+**Caption**
+> The people who never messaged are the ones an FAQ wins.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> An FAQ page is not lazy. Answering the same question in ten separate chats is the lazy option, because it only helps ten people.
+> 
+> Answer it once, on a page, and it helps everyone who reads it forever — including the people who would never have messaged you. Which is most of them.
+> 
+> What question are you answering over and over that should be written down?
+
+
+---
+
+
+## Post 05 · Three hundred deliveries
+
+**Type:** Entertain · **Why it works:** A number that makes the wasted effort physically obvious.
+
+### TikTok · 15:00 · Talking head, 31s
+
+**Hook (0-3s)**
+> A vendor typed the word "delivery" three hundred times in one month.
+
+**On-screen beats**
+- Three hundred
+- Same answer
+- Two lines of catalogue
+- Would have saved all of it
+
+**Voiceover script**
+> A vendor typed the word delivery three hundred times in one month. Same answer every time: yes we deliver, it is this much, it takes this long. Two lines in the catalogue would have saved every one of those replies. That is not a marketing problem, it is a filing problem, and it is free to fix.
+
+**Caption**
+> Three hundred replies to one question. Two lines would have done it.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · Reel + caption
+
+**Script slides**
+1. 300 × "delivery?"
+2. 300 identical answers
+3. 2 lines in a catalogue
+4. 0 of them necessary
+
+**Caption**
+> Count your most-repeated sentence this month. That number is your wasted hours.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A vendor typed the word 'delivery' three hundred times in one month.
+> 
+> Every time, the same answer: yes we deliver, it costs this much, it takes this long.
+> 
+> Two lines in their catalogue would have saved all three hundred replies.
+> 
+> That is not a marketing problem. It is a filing problem, and it is free to fix this evening.
+> 
+> What is your most-repeated sentence?
+
+
+---
+
+
+## Post 06 · The saved reply you should write tonight
+
+**Type:** Teach · **Why it works:** One action, tonight, that they will actually do.
+
+### TikTok · 16:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> Tonight, write one saved reply: the answer you typed most this week.
+
+**On-screen beats**
+- Find it in your chat
+- Copy it once
+- Save it as a shortcut
+- Use it forever
+
+**Voiceover script**
+> Tonight, write one saved reply. Go into your chat, scroll up, find the answer you typed most this week, copy it exactly as you wrote it, and save it as a shortcut on your phone. Not a template from a book, your own words. Tomorrow it takes two taps instead of twenty.
+
+**Caption**
+> Your own words, saved once, used forever. Tonight, two minutes.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 4-slide carousel
+
+**Slide copy**
+1. Scroll up
+2. Find your most-typed answer
+3. Copy your own words
+4. Save as a shortcut
+
+**Caption**
+> Do not use a template. Use the sentence you already know works.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Tonight's task, and it takes two minutes.
+> 
+> Open your chat. Scroll up. Find the answer you typed most this week. Copy it exactly as you wrote it — your own words, not a template from a book — and save it as a shortcut on your phone.
+> 
+> Tomorrow that reply takes two taps instead of twenty seconds of thought.
+> 
+> What is yours? Write it in the comments and I will tell you if it is clear.
+
+
+---
+
+
+## Post 07 · "Is it available?" is the whole conversation
+
+**Type:** Entertain · **Why it works:** A blunt, memorable reframe of what a product page is for.
+
+### TikTok · 18:00 · Kinetic type, 16s
+
+**Hook (0-3s)**
+> "Is it available?" is the entire conversation, and it should not exist.
+
+**On-screen beats**
+- Not the price
+- Not the quality
+- Availability
+- Show stock
+
+**Voiceover script**
+> Is it available is the entire conversation, and it should not exist. Nobody asks whether a price is nice or a fabric is soft first. They ask whether it is there. So show what is there: a photo, a count, a colour, a size. Stock is more persuasive than any adjective you can write.
+
+**Caption**
+> Show stock, not adjectives.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. "Is it available?"
+2. First question, always
+3. So answer it before they ask
+
+**Caption**
+> A photo of the actual item in the actual size does more than a paragraph.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> The first question almost every customer asks is not about price or quality. It is 'is it available?'
+> 
+> So show what is there. A photo, a count, a colour, a size, a date it can be collected.
+> 
+> Stock is more persuasive than any adjective you can write about the product.
+> 
+> Do your customers have to ask?
+
+
+---
+
+
+## Post 08 · What do you ask before buying from a new shop?
+
+**Type:** Entertain · **Why it works:** The answer surprises almost everyone selling online.
+
+### TikTok · 19:00 · Street interview, 28s
+
+**Hook (0-3s)**
+> I asked what people ask before buying from a shop they have never used.
+
+**On-screen beats**
+- Not the price
+- Not quality
+- Where are you
+- Then whether it is real
+
+**Voiceover script**
+> I asked what people ask before buying from a shop they have never used. It was not the price. It was not the quality. It was where are you, and then, is this a real business. Trust comes before money in every single answer, which is why the location line and the photo of your actual shop matter more than your logo.
+
+**Caption**
+> "Where are you?" came first. Not price. Trust, then money.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. "Where are you?"
+2. "Is this real?"
+3. "Who else bought?"
+4. Price comes 4th
+
+**Caption**
+> Nobody buys from a stranger without checking they exist.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people what they check before buying from a shop they have never used.
+> 
+> The order was consistent:
+> 1. Where are you?
+> 2. Is this a real business?
+> 3. Has anyone else bought?
+> 4. How much?
+> 
+> Price came fourth. Trust comes before money every time, which is why an address, a photo of the actual shop, and one real customer sentence matter more than any logo.
+> 
+> What do you check first?
+
+
+---
+
+
+## Post 09 · The four-answer profile setup
+
+**Type:** Sell · **Why it works:** Sells a specific deliverable, not a vague improvement.
+
+### TikTok · 20:00 · Overhead shot, 24s
+
+**Hook (0-3s)**
+> The chat pack includes a four-answer profile setup. It takes one afternoon.
+
+**On-screen beats**
+- What it is
+- Price, delivery, hours, payment
+- One afternoon
+- Five thousand naira
+
+**Voiceover script**
+> The chat pack includes a four answer profile setup, and it is the least exciting page in the whole thing. Price, delivery, hours, payment. Four lines on your profile and in your away message. It takes one afternoon and it answers most of the questions you answer by hand. Five thousand naira for the pack. It will not bring you customers. It stops you losing hours.
+
+**Caption**
+> Four lines, one afternoon, most of your repeated replies gone. ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. Four-answer setup
+2. Price · Delivery · Hours · Payment
+3. One afternoon
+4. ₦5,000 · PLAYBOOK
+5. No consulting included
+
+**Caption**
+> The least exciting page is the one that keeps the most hours.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The least exciting part of the Chat-to-Customer Playbook is the four-answer profile setup.
+> 
+> Price. Delivery. Opening hours. How to pay.
+> 
+> Four lines in your bio and your away message. One afternoon of work. It removes most of the questions you currently answer by hand, one customer at a time.
+> 
+> ₦5,000 for the pack. Message PLAYBOOK on WhatsApp: 0905 069 0837. No consulting, no guarantees, no new customers — just fewer wasted hours.
+
+
+---
+
+
+## Post 10 · Hide the delivery cost
+
+**Type:** Entertain · **Why it works:** A principle with an obvious cost attached.
+
+### TikTok · 20:45 · Talking head, 32s
+
+**Hook (0-3s)**
+> Someone asked us to hide the delivery cost until checkout. We said no.
+
+**On-screen beats**
+- It is legal
+- It is also expensive
+- Surprise fees cost more than the fee
+- Show it early
+
+**Voiceover script**
+> Someone asked us to keep the delivery cost out of sight until checkout. We said no. It is legal and it works, briefly, and then it costs more than the fee itself, because the customer feels caught rather than served. Show delivery early, even when it is ugly. The ones who stay are the ones who can pay, which is the only kind you want.
+
+**Caption**
+> A surprise fee costs more than the fee. Every time.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. Hide delivery till checkout
+2. We said no
+3. The surprise costs more than the fee
+
+**Caption**
+> Filters out the buyers who cannot pay, which is a kindness to both sides.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone asked us to keep the delivery cost out of sight until checkout.
+> 
+> We said no. It is legal, and it works briefly, and then it costs more than the fee itself — because the customer feels caught rather than served. They abandon, and they tell people why.
+> 
+> Show delivery early, even when it is ugly. The ones who stay are the ones who can actually pay, which is the only kind of customer worth chasing.
+> 
+> Would you rather lose them early or late?
+
+
+---
+
+
+## Post 11 · One catalogue item beats none
+
+**Type:** Teach · **Why it works:** Removes the excuse of not being ready.
+
+### TikTok · 21:30 · Kinetic type, 19s
+
+**Hook (0-3s)**
+> One item beats a catalogue you have not built yet.
+
+**On-screen beats**
+- Start with the one that sells most
+- Photo, price, size
+- One page
+- Add the second next week
+
+**Voiceover script**
+> One catalogue item beats a catalogue you have not built. Start with the one that sells most, not your favourite one. A photo, a price, a size, and one sentence about who it is for. Put it on a page. Then add the second item next week. Ten pages built one at a time is a website. A plan for ten pages is still a plan.
+
+**Caption**
+> Start with the item that sells most. Not your favourite.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. One item
+2. Your best seller
+3. Photo, price, size, one sentence
+4. Add the second next week
+
+**Caption**
+> Ten pages built one at a time is a website. A plan is still a plan.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> One catalogue item beats a catalogue you have not built yet.
+> 
+> Start with the one that sells most, not your favourite. A photo, a price, a size, and one sentence about who it is for. Put it on a page.
+> 
+> Add the second item next week.
+> 
+> Ten pages built one at a time is a website. Ten pages you are planning is still a plan.
+> 
+> What is your single best seller?
+
+
+---
+
+
+# Day 10 · Tuesday · Tuesday 10 Nov 2026 — The follow-up week
+
+**Offer in focus:** PROPOSAL
+
+---
+
+
+## Post 01 · A quote that is one line
+
+**Type:** Entertain · **Why it works:** Recognisable to anyone who has ever sent a quote.
+
+### TikTok · 07:00 · Screen recording, 24s
+
+**Hook (0-3s)**
+> This quote is one line: one hundred and eighty thousand naira, let me know.
+
+**On-screen beats**
+- No scope
+- No date
+- No reason
+- Three things missing
+
+**Voiceover script**
+> This quote is one line. One hundred and eighty thousand naira, let me know. No scope, so they do not know what they are buying. No date, so they cannot plan. No reason, so it is a number with no story. The price was not the problem. The other three lines were missing.
+
+**Caption**
+> Three words were missing, and none of them was the price.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. "₦180,000, let me know"
+2. No scope
+3. No date
+4. No reason
+
+**Caption**
+> A number without a story is just a hurdle.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A quote I saw this week was one line: '₦180,000, let me know.'
+> 
+> No scope, so the customer does not know what they are buying. No date, so they cannot plan. No reason, so the number has nothing holding it up.
+> 
+> The price was not the problem. Three lines were missing around it.
+> 
+> What does your quote usually look like?
+
+
+---
+
+
+## Post 02 · A quote with no date is a question
+
+**Type:** Entertain · **Why it works:** The sharpest reframe in the day.
+
+### TikTok · 09:15 · Kinetic type, 14s
+
+**Hook (0-3s)**
+> A quote with no date is not a quote. It is a question.
+
+**On-screen beats**
+- They cannot say yes
+- They cannot plan
+- So they ask more questions
+- Give them a date
+
+**Voiceover script**
+> A quote with no date is not a quote, it is a question, because the customer cannot answer it. They do not know whether yes means next week or December, so they ask more questions, and every question is another chance for the sale to die. Give them a date and they can say yes.
+
+**Caption**
+> A date turns a number into a decision.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. No date
+2. = a question
+3. = they cannot say yes
+
+**Caption**
+> Every unanswerable sentence in a quote is a delay you cannot afford.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> A quote with no date is not a quote. It is a question.
+> 
+> The customer cannot answer it, because they do not know whether yes means next week or December. So they ask more questions, and every question is another chance for the sale to quietly die.
+> 
+> Give them a date and the sentence becomes answerable.
+> 
+> When will you deliver? Write it in your next quote.
+
+
+---
+
+
+## Post 03 · Five lines every quote needs
+
+**Type:** Teach · **Why it works:** The most saveable post of the week.
+
+### TikTok · 11:30 · Kinetic type, 25s
+
+**Hook (0-3s)**
+> Five lines every quote needs. Copy these labels.
+
+**On-screen beats**
+- What
+- How much
+- By when
+- What's included
+- What's not
+
+**Voiceover script**
+> Five lines every quote needs. What it is. How much. By when. What is included. And what is not included. That is the entire format, in that order, on one screen, in the message itself. The last line is the one that wins work, and it is the one almost nobody writes.
+
+**Caption**
+> What · How much · By when · Included · Not included. In that order.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 5-slide carousel
+
+**Slide copy**
+1. What it is
+2. How much
+3. By when
+4. What's included
+5. What's not included
+
+**Caption**
+> Save this and use it on your next quote, today.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Five lines every quote needs, in this order:
+> 
+> 1. What it is
+> 2. How much
+> 3. By when
+> 4. What is included
+> 5. What is not included
+> 
+> One screen, in the message itself, no attachment needed.
+> 
+> The fifth line is the one that wins work, and it is the one almost nobody writes.
+> 
+> Which of the five do you usually skip?
+
+
+---
+
+
+## Post 04 · The exclusions line
+
+**Type:** Entertain · **Why it works:** Counterintuitive and immediately usable.
+
+### TikTok · 13:45 · Talking head, 20s
+
+**Hook (0-3s)**
+> The "what's not included" line wins more jobs than the price does.
+
+**On-screen beats**
+- It sounds honest
+- Because it is
+- It prevents the argument
+- Nobody else does it
+
+**Voiceover script**
+> The what is not included line wins more jobs than the price does. It sounds honest, because it is, and because almost nobody writes it. It also prevents the argument in week three about whether the frame was part of it. One line, written before the problem exists, is worth more than a discount.
+
+**Caption**
+> Write the awkward line early and you never have the awkward conversation.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Everyone lists: included
+2. Almost nobody lists: excluded
+3. That is the trust
+
+**Caption**
+> The exclusions line is the cheapest trust you can buy.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> The line that wins more jobs than the price is the one that says what is not included.
+> 
+> It sounds honest, because it is. Almost nobody writes it. And it prevents the argument in week three about whether the frame, the delivery, or the revision was part of the deal.
+> 
+> One line written before the problem exists is worth more than a discount.
+> 
+> Have you ever had that argument?
+
+
+---
+
+
+## Post 05 · A date beat a cheaper price
+
+**Type:** Entertain · **Why it works:** Directly attacks the assumption that price always wins.
+
+### TikTok · 15:00 · Talking head, 28s
+
+**Hook (0-3s)**
+> A quote with a date beat a quote that was cheaper.
+
+**On-screen beats**
+- Fifteen thousand cheaper
+- No date on it
+- The customer could not plan
+- So they paid more for certainty
+
+**Voiceover script**
+> A quote with a delivery date beat a quote that was fifteen thousand naira cheaper. The cheaper one had no date on it at all, so the customer could not plan their own week, and went with the one that told them exactly when it would be done. Certainty was worth fifteen thousand, and it cost the other vendor nothing to give it.
+
+**Caption**
+> Certainty sold for ₦15,000 more, and it cost the winner nothing.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · Reel + caption
+
+**Script slides**
+1. Quote A: ₦15k cheaper
+2. No date
+3. Quote B: dated
+4. B won
+
+**Caption**
+> The cheaper quote lost because it could not be planned around.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A quote with a delivery date beat one that was ₦15,000 cheaper.
+> 
+> The cheaper quote had no date on it. The customer could not plan their own week around it, so they went with the one that told them exactly when the job would be done.
+> 
+> Certainty was worth ₦15,000. It cost the winning vendor nothing to give it.
+> 
+> What are you holding back that costs you nothing?
+
+
+---
+
+
+## Post 06 · Never a PDF first
+
+**Type:** Teach · **Why it works:** A small, specific, instantly obeyed rule.
+
+### TikTok · 16:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Never send a PDF as your first contact with a customer.
+
+**On-screen beats**
+- They will not open it
+- Or they open it at work
+- Put the price in the message
+- PDF after interest
+
+**Voiceover script**
+> Never send a PDF as your first contact. They will not open it, or they will open it in a queue and close it. Put the number in the message itself, one screen, no scrolling. Send the PDF after they have asked a second question, because then it is information instead of homework.
+
+**Caption**
+> A PDF is homework. A message is a decision.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. First contact
+2. No PDF
+3. Price in the message
+4. PDF after question two
+
+**Caption**
+> Your quote is competing with forty notifications. Make it one screen.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Never send a PDF as your first contact with a customer.
+> 
+> They will not open it. Or they will open it in a queue and close it before page two.
+> 
+> Put the number in the message itself. One screen. No scrolling.
+> 
+> Send the PDF after they have asked a second question — by then it is information rather than homework.
+> 
+> How do you send quotes?
+
+
+---
+
+
+## Post 07 · "Let me know if you're interested"
+
+**Type:** Entertain · **Why it works:** Names the exact sentence most people end quotes with.
+
+### TikTok · 18:00 · Kinetic type, 15s
+
+**Hook (0-3s)**
+> "Let me know if you are interested" is homework for the customer.
+
+**On-screen beats**
+- They have to decide alone
+- With no deadline
+- No next step
+- So nothing happens
+
+**Voiceover script**
+> Let me know if you are interested is homework. You have handed the customer a decision, no deadline, and no next step, and then you have left the room. Give them one question instead: shall I book the slot for Thursday. It has a date in it, so it can be answered.
+
+**Caption**
+> End with a question that has a date inside it.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. "Let me know if interested"
+2. = decide this alone, forever
+3. "Shall I book Thursday?"
+
+**Caption**
+> Never end a message with an instruction to feel something.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> 'Let me know if you're interested' is homework for the customer.
+> 
+> You have handed them a decision, no deadline and no next step, and then left the room.
+> 
+> End with one question that has a date inside it: 'Shall I book the slot for Thursday?'
+> 
+> That can be answered with one word. The other one cannot be answered at all.
+> 
+> What do you usually end with?
+
+
+---
+
+
+## Post 08 · What makes you trust a quote?
+
+**Type:** Entertain · **Why it works:** Witnesses validate the whole week's thesis.
+
+### TikTok · 19:00 · Street interview, 26s
+
+**Hook (0-3s)**
+> I asked what makes people trust a quote. Nobody said the price.
+
+**On-screen beats**
+- One said detail
+- One said date
+- One said the exclusions line
+- Price was not mentioned once
+
+**Voiceover script**
+> I asked what makes people trust a quote. Nobody said the price. One said the detail, one said the date, and one said the line that told her what would not be done, because it was the only part that sounded like a person rather than a template. That is what you are competing on.
+
+**Caption**
+> "They told me what they would not do." Not one person said price.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. "What makes you trust a quote?"
+2. Detail
+3. A date
+4. The exclusions line
+5. Price: not once
+
+**Caption**
+> Trust is built in the lines around the number, not in the number.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people what makes them trust a quote. Not one person said the price.
+> 
+> One said the detail. One said the delivery date. One said the line that told her what would not be done, because it was the only part that sounded like a person rather than a template.
+> 
+> That is what you are actually competing on.
+> 
+> What made you trust the last quote you accepted?
+
+
+---
+
+
+## Post 09 · Who the Proposal Pack is for
+
+**Type:** Sell · **Why it works:** Disqualifying buyers builds trust and reduces refunds.
+
+### TikTok · 20:00 · Overhead shot, 26s
+
+**Hook (0-3s)**
+> The Proposal Pack is for people who send quotes every week. If you send two a month, do not buy it.
+
+**On-screen beats**
+- Weekly quoters
+- Templates pay back in a fortnight
+- Two a month
+- Use your own template
+
+**Voiceover script**
+> The Proposal Pack is for people who send quotes every week. If you send two a month, do not buy it, you already have a template and it works. This is for the ones quoting daily, where one saved hour a week pays for it in a fortnight. Five thousand naira. Twelve templates and the five-line structure.
+
+**Caption**
+> Sending quotes weekly? ₦5,000. Twice a month? Keep your own template. Message PROPOSAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. For: weekly quoters
+2. Not for: two a month
+3. 12 templates + structure
+4. ₦5,000
+5. No consulting included
+
+**Caption**
+> A pack that tells you not to buy it is a pack you can trust.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> Who the Proposal Pack is for: people who send quotes every week.
+> 
+> Who it is not for: people who send two a month. You already have a template and it works. Do not spend ₦5,000 on this.
+> 
+> For the weekly quoters, one saved hour a week pays it back inside a fortnight.
+> 
+> Twelve templates and the five-line structure. ₦5,000. Message PROPOSAL on WhatsApp: 0905 069 0837. No consulting, no guarantees.
+
+
+---
+
+
+## Post 10 · A job we could not deliver
+
+**Type:** Entertain · **Why it works:** Losing work honestly is the most persuasive proof of standards.
+
+### TikTok · 20:45 · Talking head, 35s
+
+**Hook (0-3s)**
+> We were asked to quote a job we could not deliver in three weeks. We said six weeks and lost it.
+
+**On-screen beats**
+- They wanted three
+- We could not
+- So we told the truth
+- And lost the job
+
+**Voiceover script**
+> Someone asked us to quote a job for three weeks. We could not do it in three weeks without rushing something that would show. So we quoted six. They went with someone who said three, and I hope that person could actually do it. We lost the job and kept the standard, and I would do it again, which is easy to say and was not easy at the time.
+
+**Caption**
+> We quoted the truth, lost the job, and would do it again.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · Reel + caption
+
+**Script slides**
+1. Asked for: 3 weeks
+2. Could do: 6
+3. Said: 6
+4. Lost the job
+
+**Caption**
+> The fastest quote is not the same as the honest one.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone asked us to quote a job for three weeks.
+> 
+> We could not do it in three weeks without rushing something that would show. So we quoted six.
+> 
+> They went with the person who said three. We lost the job and kept the standard.
+> 
+> I would do it again, which is easy to say now and was not easy at the time.
+> 
+> Have you ever lost work by being accurate?
+
+
+---
+
+
+## Post 11 · End with a yes-shaped question
+
+**Type:** Teach · **Why it works:** One small habit with an outsized effect on replies.
+
+### TikTok · 21:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> End every quote with one question: "Shall I book the slot?"
+
+**On-screen beats**
+- Yes-shaped
+- One word to answer
+- Has a date in it
+- Then stop typing
+
+**Voiceover script**
+> End every quote with one question: shall I book the slot. It is yes shaped, it takes one word to answer, and it implies there is a slot with value. Then stop typing. No second paragraph, no let me know, no thank you so much for your time. One question, and then silence, which is where the answer comes from.
+
+**Caption**
+> One question. Then stop typing.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 3-slide carousel
+
+**Slide copy**
+1. End with a question
+2. Yes-shaped
+3. Then stop typing
+
+**Caption**
+> "Shall I book the slot?" is the most answerable sentence in a quote.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> End every quote with one question: 'Shall I book the slot?'
+> 
+> It is yes-shaped. It takes one word to answer. It implies the slot has value and a date.
+> 
+> Then stop typing. No second paragraph. No 'let me know'. No thank you for your time.
+> 
+> One question, then silence — which is where the answer actually comes from.
+> 
+> Try it on your next quote and tell me what happens.
 
 
 ---
