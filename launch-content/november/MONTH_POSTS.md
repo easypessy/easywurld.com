@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Friday 20 November 2026** |
+| Ends | **Saturday 21 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **660 posts** (220 core ideas x 3 platforms) |
+| Month total | **693 posts** (231 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -12307,6 +12307,613 @@ writing on the spot.
 > Most will say yes — being shown as a real customer is a small compliment. The ones who say no will respect you for asking instead of just doing it.
 > 
 > Who would you ask?
+
+
+---
+
+
+# Day 21 · Saturday · Saturday 21 Nov 2026 — The receipts
+
+**Offer in focus:** REVIEW
+
+---
+
+
+## Post 01 · The worst listing of the week
+
+**Type:** Entertain · **Why it works:** Closes the local week on its most concrete artefact.
+
+### TikTok · 07:00 · Screen recording, 24s
+
+**Hook (0-3s)**
+> The worst listing I found this week is marked permanently closed. It is open.
+
+**On-screen beats**
+- Open every day
+- Marked closed
+- For eleven months
+- Somebody has been losing customers since January
+
+**Voiceover script**
+> The worst listing I found this week is marked permanently closed on Google, and the shop is open every single day. It has been like that for about eleven months, which means every person who searched for it found a business that had died, and there was nobody to tell them otherwise. A closed listing is not a small mistake. It is an eleven month outage nobody noticed.
+
+**Caption**
+> Marked permanently closed. Open every day. For eleven months.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. Status: permanently closed
+2. Reality: open daily
+3. For 11 months
+4. Nobody noticed
+
+**Caption**
+> Check your own status tonight. One wrong field, eleven months of silence.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> The worst listing I found this week is marked 'permanently closed' on Google. The shop is open every single day.
+> 
+> It has been like that for about eleven months.
+> 
+> Every person who searched for it found a business that had died, and there was nobody to tell them otherwise.
+> 
+> That is not a small mistake. It is an eleven-month outage nobody noticed.
+> 
+> Go and check yours right now.
+
+
+---
+
+
+## Post 02 · Three weeks in
+
+**Type:** Entertain · **Why it works:** The third honest ledger, and it is the one that builds the habit.
+
+### TikTok · 09:15 · Talking head, 26s
+
+**Hook (0-3s)**
+> Three weeks in. Here is the number, honestly, including what did not work.
+
+**On-screen beats**
+- What worked
+- What did not
+- What surprised me
+- Nothing is guaranteed
+
+**Voiceover script**
+> Three weeks in, read off the tracker. The teardowns travel furthest, the checklists get saved, and the honest ads convert but do not travel at all, which is exactly what the plan predicted and still feels wrong when it happens. Nothing here is a promise. It is a record of one account for twenty one days, and it is the only kind of number I trust.
+
+**Caption**
+> Teardowns travel. Checklists get saved. Honest ads convert and do not travel.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 4-slide carousel
+
+**Slide copy**
+1. Week 3
+2. Teardowns: reach
+3. Checklists: saves
+4. Honest ads: conversions
+
+**Caption**
+> Three different jobs, three different shapes. Stop judging them all by views.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> Three weeks in, read off the tracker rather than my memory.
+> 
+> Teardowns travel furthest. Checklists get saved. Honest ads convert but barely travel at all.
+> 
+> That last one is what the plan predicted, and it still feels wrong when it happens.
+> 
+> Nothing here is a promise. It is a record of one account for twenty-one days, which is the only kind of number I trust.
+> 
+> What is your own tracker saying?
+
+
+---
+
+
+## Post 03 · Re-run the teardown format
+
+**Type:** Teach · **Why it works:** Shows the format is a system, not a lucky post.
+
+### TikTok · 11:30 · Kinetic type, 23s
+
+**Hook (0-3s)**
+> The most shared thing I posted this week was a teardown. Here is the format, on a new business.
+
+**On-screen beats**
+- Show the page
+- Name one problem
+- Three fixes
+- No insults
+
+**Voiceover script**
+> The most shared post of the week was a teardown, so here is the format on a new business. Show the page. Name one problem in a single sentence. Give three fixes that take under an hour. Leave out the insults entirely, because the moment it becomes a joke at their expense it stops being useful and starts being content.
+
+**Caption**
+> Show it. One problem. Three fixes. No insults. That is the whole format.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 4-slide carousel
+
+**Slide copy**
+1. Show the page
+2. One problem
+3. Three fixes
+4. No insults
+
+**Caption**
+> The format works because it is generous. Keep it that way.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> The format, since it is the most shared thing I post:
+> 
+> 1. Show the page.
+> 2. Name one problem, in one sentence.
+> 3. Give three fixes, each under an hour.
+> 4. No insults.
+> 
+> The moment it becomes a joke at the owner's expense it stops being useful and starts being content.
+> 
+> Send me a link and I will run it on yours.
+
+
+---
+
+
+## Post 04 · Lagos rewards whoever answers
+
+**Type:** Entertain · **Why it works:** Good news for small businesses, which makes it shareable.
+
+### TikTok · 13:45 · Talking head, 20s
+
+**Hook (0-3s)**
+> Lagos rewards whoever answers, not whoever is best.
+
+**On-screen beats**
+- Everyone is busy
+- Nobody replies
+- The one who replies wins
+- That is a small business advantage
+
+**Voiceover script**
+> Lagos rewards whoever answers, not whoever is best, which is genuinely good news if you are small. You cannot outspend the big shop, but you can reply in eleven minutes at nine at night, and in this market that is a bigger competitive advantage than a better logo, because almost nobody does it consistently.
+
+**Caption**
+> You cannot outspend them. You can out-reply them.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Not the best
+2. The one who replies
+3. Small businesses can win this
+
+**Caption**
+> The fastest reply in the market is a marketing strategy.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Lagos rewards whoever answers, not whoever is best.
+> 
+> Which is good news if you are small. You cannot outspend the big shop, but you can reply in eleven minutes at nine at night — and almost nobody does that consistently.
+> 
+> It costs nothing, needs no budget, and cannot be bought by a competitor with more money.
+> 
+> How fast do you reply?
+
+
+---
+
+
+## Post 05 · A stranger fixed their listing
+
+**Type:** Entertain · **Why it works:** Audience action is the only real proof of reach.
+
+### TikTok · 15:00 · Talking head, 28s
+
+**Hook (0-3s)**
+> Someone watched one of these videos and fixed their Google listing that night.
+
+**On-screen beats**
+- She commented
+- Two hours later
+- Photos and hours added
+- Then sent a screenshot
+
+**Voiceover script**
+> Someone watched the listing video, commented that hers was empty, and fixed it that night. Two hours later she sent a screenshot: photos, hours, the right number, a category. I do not know whether it brought her customers, and I am not going to pretend I do. What I know is that a video changed something real in a real business within two hours, which is rarer than a viral post.
+
+**Caption**
+> She fixed her listing two hours after watching. That is the only proof that matters.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. She watched
+2. She commented
+3. She fixed it that night
+4. Screenshot, two hours later
+
+**Caption**
+> One real action beats a thousand views you cannot verify.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> Someone watched the listing video, commented that hers was empty, and fixed it that night.
+> 
+> Two hours later she sent a screenshot: photos, hours, the right number, a category.
+> 
+> I do not know whether it brought her customers, and I will not pretend I do. But a video changed something real in a real business within two hours — which is rarer than a viral post.
+> 
+> What did you fix after watching something?
+
+
+---
+
+
+## Post 06 · What we would fix first
+
+**Type:** Teach · **Why it works:** A ranked answer is more useful than a list.
+
+### TikTok · 16:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> If I had one hour in any Lagos business, I would fix two things: reply time, then the first sentence.
+
+**On-screen beats**
+- Reply time
+- Then the first sentence
+- Not the logo
+- Not the ads
+
+**Voiceover script**
+> If I had one hour in any Lagos business, I would fix two things and ignore everything else. First, reply time, because a good reply at the wrong speed is a lost customer. Second, the first sentence on the homepage, because it is doing more work than the rest of the page combined. The logo can wait forever. It has waited this long already.
+
+**Caption**
+> Reply time first. First sentence second. Everything else can wait.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. 1. Reply time
+2. 2. First sentence
+3. 3. Nothing else yet
+
+**Caption**
+> The logo can wait. It has waited this long already.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> If I had one hour in any Lagos business, I would fix two things and ignore everything else.
+> 
+> 1. Reply time. A good reply at the wrong speed is a lost customer.
+> 2. The first sentence on the homepage. It does more work than the rest of the page combined.
+> 
+> The logo can wait forever. It has waited this long already.
+> 
+> What would your two be?
+
+
+---
+
+
+## Post 07 · The post that flopped hardest
+
+**Type:** Entertain · **Why it works:** Publishing the flop keeps the receipts series honest.
+
+### TikTok · 18:00 · Talking head, 21s
+
+**Hook (0-3s)**
+> The post that flopped hardest this week was the one I liked most.
+
+**On-screen beats**
+- It was about measurement
+- No picture until second three
+- It opened with a definition
+- It deserved to flop
+
+**Voiceover script**
+> The post that flopped hardest this week was the one I liked most. It was about measurement, it opened with a definition, and there was no image until the third second. I liked it because it was clever, and it flopped because clever is not a reason to keep watching. I am showing it to you so I stop doing this.
+
+**Caption**
+> It flopped because it was clever, and clever is not a reason to keep watching.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. My favourite post
+2. Opened with a definition
+3. No image until second 3
+
+**Caption**
+> Favourite is not the same as good, and definitely not the same as watched.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> The post that flopped hardest this week was the one I liked most.
+> 
+> It was about measurement. It opened with a definition. There was no image until the third second.
+> 
+> I liked it because it was clever. It flopped because clever is not a reason to keep watching.
+> 
+> I am showing it to you so I stop doing this.
+> 
+> What is the last thing you liked and nobody else did?
+
+
+---
+
+
+## Post 08 · Have you claimed your listing?
+
+**Type:** Entertain · **Why it works:** A number so low it becomes a call to action by itself.
+
+### TikTok · 19:00 · Street interview, 26s
+
+**Hook (0-3s)**
+> I asked twelve businesses if they had claimed their Google listing. Two had.
+
+**On-screen beats**
+- Two of twelve
+- Both were the ones with staff
+- The other ten did not know it was free
+- It is free
+
+**Voiceover script**
+> I asked twelve businesses on one street whether they had claimed their Google listing. Two had. Both of those had somebody whose job included it, and the other ten did not know it was free, which is the part I keep coming back to. It is free. It takes an hour. And ten of twelve had not done it.
+
+**Caption**
+> Two of twelve. The other ten did not know it was free.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 3-slide carousel
+
+**Slide copy**
+1. 12 businesses asked
+2. 2 had claimed it
+3. It is free
+
+**Caption**
+> An hour of work your ten nearest competitors have not done.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked twelve businesses on one street whether they had claimed their Google listing.
+> 
+> Two had.
+> 
+> The other ten did not know it was free.
+> 
+> It is free. It takes about an hour. And ten of your twelve nearest competitors have not done it.
+> 
+> If you are one of the ten, tonight is a good night.
+
+
+---
+
+
+## Post 09 · This week's most requested pack
+
+**Type:** Sell · **Why it works:** One line, one code, exactly as the format prescribes.
+
+### TikTok · 20:00 · Overhead shot, 18s
+
+**Hook (0-3s)**
+> Most requested this week: the free review. Three points, twenty-four hours, no pitch.
+
+**On-screen beats**
+- Send the link
+- Three points
+- One day
+- Then decide
+
+**Voiceover script**
+> Most requested this week was not a pack, it was the free review. Send a link, get three points in twenty four hours, no call, no pitch, no obligation. If you want the whole method rather than three points, the packs start at five thousand naira, and I will tell you which one is wrong for you if it is wrong for you.
+
+**Caption**
+> Free review: three points in 24 hours, no pitch. WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 4-slide carousel
+
+**Slide copy**
+1. Most requested: the review
+2. 3 points
+3. 24 hours
+4. No pitch, no call
+
+**Caption**
+> Free is the easiest thing to say yes to, and it demonstrates the work.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> Most requested this week was not a pack. It was the free review.
+> 
+> Send your link, get three points in 24 hours. No call. No pitch. No obligation to reply.
+> 
+> If you want the whole method rather than three points, the packs start at ₦5,000 — and I will tell you if the one you are looking at is wrong for you.
+> 
+> WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The brief we declined
+
+**Type:** Entertain · **Why it works:** A refusal that states a principle rather than a mood.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> We declined a brief this week. It was to make a business sound bigger than it is.
+
+**On-screen beats**
+- Pretend to be an agency
+- Fake team page
+- Fake address
+- Then they have to maintain it
+
+**Voiceover script**
+> We declined a brief this week to make a one person business look like a fifteen person agency: a team page with stock portraits, an address in a building they do not work in, and award logos they had not won. Not because it is illegal, but because the first client who asks to visit would end the relationship, and they would have built a website that only works if nobody looks closely.
+
+**Caption**
+> A website that only works if nobody looks closely is not a website.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. Brief: look like 15 people
+2. Reality: one person
+3. We declined
+
+**Caption**
+> Credibility built on a lie expires the first time someone checks.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> We declined a brief this week: make a one-person business look like a fifteen-person agency.
+> 
+> Stock team portraits. An address in a building they do not work in. Award logos they had not won.
+> 
+> Not illegal. But the first client who asks to visit ends the relationship, and they would have a website that only works if nobody looks closely.
+> 
+> Have you ever been sold a team that did not exist?
+
+
+---
+
+
+## Post 11 · Next week: everything we sell
+
+**Type:** Teach · **Why it works:** Sets up the sell week without apologising for it.
+
+### TikTok · 21:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Next week is everything we sell, and who should not buy it.
+
+**On-screen beats**
+- All nine packs
+- Prices
+- Who each is not for
+- Then choose or do not
+
+**Voiceover script**
+> Next week I am going to show you everything we sell, with prices, and who should not buy each one. That is unusual for an account that spends most of its time entertaining people, and it is the point of the month: you spend three weeks being useful and then you tell people what you make, once, plainly, so nobody has to guess.
+
+**Caption**
+> Next week: all nine packs, all prices, and who should not buy each one.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 3-slide carousel
+
+**Slide copy**
+1. Next week
+2. Everything we sell
+3. And who should not buy it
+
+**Caption**
+> One honest selling week beats a month of hints.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Next week I am going to show you everything we sell, with prices, and who should not buy each one.
+> 
+> That is unusual for an account that mostly entertains people, and it is the whole point of the month: spend three weeks being useful, then say plainly what you make, once, so nobody has to guess.
+> 
+> Hints are worse than prices. A price lets someone decide.
+> 
+> What would you want to see first?
 
 
 ---
