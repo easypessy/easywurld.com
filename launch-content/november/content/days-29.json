@@ -14,16 +14,25 @@
         "tiktok": {
           "fmt": "Screen recording, 26s",
           "hook": "The best teardown of the month, re-cut sharper. Same business, three fixes, twenty seconds.",
-          "beats": ["The page", "The one problem", "The three fixes", "No insults, again"],
+          "beats": [
+            "The page",
+            "The one problem",
+            "The three fixes",
+            "No insults, again"
+          ],
           "vo": "The best teardown of the month, re-cut in twenty seconds. The bakery with the four paragraphs and the one real headline: bread out of the oven at six, Agege. The problem was never the site, it was that the best sentence they own was in a caption and not on the page. Fix: the headline, the hours, and the price of a loaf. That is the whole month of teardowns in one example.",
           "cap": "Their best sentence was in a caption, not on the page. That is most businesses.",
           "body": "Four paragraphs about quality, and the real headline was bread at six in the morning in Agege. The best sentence they own was in a caption, not on the page."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["4 paragraphs: quality", "1 real headline: bread at 6am", "Agege", "Put that on the page"],
-          "cap": "Re-cutting the month's best teardown, because it is still the most common problem.",
-          "body": "The re-cut is sharper than the original and the diagnosis is identical: the specific sentence is buried and the generic one is at the top."
+          "slides": [
+            "4 paragraphs: quality",
+            "1 real headline: bread at 6am",
+            "Agege",
+            "Put that on the page"
+          ],
+          "cap": "The re-cut is sharper than the original and the diagnosis is identical: the specific sentence is buried and the generic one is at the top.\n\nRe-cutting the month's best teardown, because it is still the most common problem."
         },
         "facebook": {
           "fmt": "Text post",
@@ -39,16 +48,25 @@
         "tiktok": {
           "fmt": "Talking head, 28s",
           "hook": "Three hundred and thirty posts this month. Here is what it cost in hours and naira.",
-          "beats": ["Hours", "Naira", "What we did not do", "Was it worth it"],
+          "beats": [
+            "Hours",
+            "Naira",
+            "What we did not do",
+            "Was it worth it"
+          ],
           "vo": "Three hundred and thirty ideas, nine hundred and ninety published pieces, and here is what it cost. Roughly six hours a day of writing and filming, about two hundred thousand naira in time if I charged myself my own rate, and three weekends I did not have. Worth it is not a question I can answer in one video, and anybody who answers it in one video is selling something.",
           "cap": "~6 hours a day, ~₦200,000 of my own time, 3 weekends. Worth it is a longer conversation.",
           "body": "Six hours a day of writing and filming, about two hundred thousand naira in time at my own rate, three weekends gone. Whether it was worth it is not a question one video can answer."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["330 ideas", "990 pieces", "~6 hours a day", "~₦200,000 of my time"],
-          "cap": "Anybody who tells you the ROI in one post is selling you something.",
-          "body": "The cost is the part that is always missing from these retrospectives, and it is the part that decides whether you should try it."
+          "slides": [
+            "330 ideas",
+            "990 pieces",
+            "~6 hours a day",
+            "~₦200,000 of my time"
+          ],
+          "cap": "The cost is the part that is always missing from these retrospectives, and it is the part that decides whether you should try it.\n\nAnybody who tells you the ROI in one post is selling you something."
         },
         "facebook": {
           "fmt": "Text post",
@@ -64,16 +82,27 @@
         "tiktok": {
           "fmt": "Kinetic type, 25s",
           "hook": "Five posts produced every conversation this month. Here they all are.",
-          "beats": ["Five lines every quote needs", "The day-three message", "The four-answer profile", "The two fixes", "The one-hour test"],
+          "beats": [
+            "Five lines every quote needs",
+            "The day-three message",
+            "The four-answer profile",
+            "The two fixes",
+            "The one-hour test"
+          ],
           "vo": "Five posts produced every conversation this month. The five lines every quote needs. The day three message, word for word. The four answer profile setup. The two fixes worth an hour in any business. And the one hour test before buying anything. Notice that all five are lists or scripts, and none of them are opinions, which is the entire content strategy and it took me four weeks to believe it.",
           "cap": "Five posts. All lists or scripts. Zero opinions. That is the finding.",
           "body": "Quote lines, the day-three message, the four-answer profile, the two fixes, the one-hour test. All lists or scripts, zero opinions, and it took four weeks to believe it."
         },
         "instagram": {
           "fmt": "5-slide carousel",
-          "slides": ["5 lines every quote needs", "The day-3 message", "The 4-answer profile", "The 2 fixes", "The 1-hour test"],
-          "cap": "Save this one. It is the whole month compressed.",
-          "body": "Four of the five are reusable by anyone in any business, which is exactly why they travelled further than anything else."
+          "slides": [
+            "5 lines every quote needs",
+            "The day-3 message",
+            "The 4-answer profile",
+            "The 2 fixes",
+            "The 1-hour test"
+          ],
+          "cap": "Four of the five are reusable by anyone in any business, which is exactly why they travelled further than anything else.\n\nSave this one. It is the whole month compressed."
         },
         "facebook": {
           "fmt": "Text post",
@@ -89,16 +118,24 @@
         "tiktok": {
           "fmt": "Talking head, 19s",
           "hook": "Most of our posts did nothing. That is not a failure, it is the job.",
-          "beats": ["Twenty percent carries eighty", "You cannot pick it in advance", "So you post volume", "And keep the sheet"],
+          "beats": [
+            "Twenty percent carries eighty",
+            "You cannot pick it in advance",
+            "So you post volume",
+            "And keep the sheet"
+          ],
           "vo": "Most of our posts did nothing, and that is not a failure, it is the job. Twenty percent of anything carries eighty percent of the result, and you cannot pick the twenty percent in advance, which is the only honest argument for volume. What you can do is keep a sheet, notice which twenty percent showed up, and then do that again on purpose.",
           "cap": "You cannot pick the 20% in advance. You can notice it afterwards and repeat it.",
           "body": "Twenty percent carries eighty, and you cannot pick the twenty in advance. Volume is the only honest way to find it, and the sheet is the only way to keep it."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Most posts: nothing", "20% carries 80%", "You find it after, not before"],
-          "cap": "Volume is a search strategy, not an ambition.",
-          "body": "This is why a flat week is not evidence that the strategy failed. It is evidence that you have not yet found the twenty percent."
+          "slides": [
+            "Most posts: nothing",
+            "20% carries 80%",
+            "You find it after, not before"
+          ],
+          "cap": "This is why a flat week is not evidence that the strategy failed. It is evidence that you have not yet found the twenty percent.\n\nVolume is a search strategy, not an ambition."
         },
         "facebook": {
           "fmt": "Text post",
@@ -114,16 +151,25 @@
         "tiktok": {
           "fmt": "Talking head, 29s",
           "hook": "The message that made the month, anonymised and quoted exactly.",
-          "beats": ["She watched three videos", "Then fixed her reply time", "Then two customers came back", "That is the whole result"],
+          "beats": [
+            "She watched three videos",
+            "Then fixed her reply time",
+            "Then two customers came back",
+            "That is the whole result"
+          ],
           "vo": "The message that made the month came from a tailor who watched three videos, changed her reply time from about a day to under an hour, and had two customers who had gone quiet come back and order. She sent me a screenshot of the chat. That is the entire result of the month, from my side, and it is small and it is real, which is the only kind of result I am willing to put on camera.",
           "cap": "Reply time from a day to an hour. Two quiet customers came back.",
           "body": "A tailor changed her reply time from about a day to under an hour. Two customers who had gone quiet came back and ordered. Small, real, and checkable."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["She watched 3 videos", "Changed reply time", "Day → under an hour", "2 customers returned"],
-          "cap": "One behaviour change in one business beats a thousand views.",
-          "body": "This is the whole theory of the month in one example: a change that costs nothing and can be verified by the person who made it."
+          "slides": [
+            "She watched 3 videos",
+            "Changed reply time",
+            "Day → under an hour",
+            "2 customers returned"
+          ],
+          "cap": "This is the whole theory of the month in one example: a change that costs nothing and can be verified by the person who made it.\n\nOne behaviour change in one business beats a thousand views."
         },
         "facebook": {
           "fmt": "Text post",
@@ -139,16 +185,24 @@
         "tiktok": {
           "fmt": "Kinetic type, 21s",
           "hook": "One thing we would do differently from day one: film a week in advance.",
-          "beats": ["Not more ideas", "Not better hooks", "Batch film", "Because filming daily broke the writing"],
+          "beats": [
+            "Not more ideas",
+            "Not better hooks",
+            "Batch film",
+            "Because filming daily broke the writing"
+          ],
           "vo": "If we started again, one thing would change: we would film a week in advance. Not more ideas, not better hooks, just a week of buffer. Filming daily meant the writing got squeezed into whatever time was left, which is backwards, because the writing is the part that decides whether anything works. The buffer is the whole improvement.",
           "cap": "One change: film a week ahead. The writing was what suffered.",
           "body": "Filming daily squeezed the writing into whatever time was left, which is backwards. The buffer is the whole improvement, and it costs one weekend."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Change: film a week ahead", "Not more ideas", "The writing was suffering"],
-          "cap": "The thing that gets squeezed is always the thing that matters most.",
-          "body": "Batching is unglamorous and it is the difference between a month that survives contact with a busy week and one that collapses in week two."
+          "slides": [
+            "Change: film a week ahead",
+            "Not more ideas",
+            "The writing was suffering"
+          ],
+          "cap": "Batching is unglamorous and it is the difference between a month that survives contact with a busy week and one that collapses in week two.\n\nThe thing that gets squeezed is always the thing that matters most."
         },
         "facebook": {
           "fmt": "Text post",
@@ -164,16 +218,25 @@
         "tiktok": {
           "fmt": "Talking head, 22s",
           "hook": "There was a format nobody watched. We are retiring it on camera so we cannot quietly bring it back.",
-          "beats": ["The long explainer", "Four minutes", "Nobody finished it", "So it is gone"],
+          "beats": [
+            "The long explainer",
+            "Four minutes",
+            "Nobody finished it",
+            "So it is gone"
+          ],
           "vo": "There was one format nobody watched: the four minute explainer. It got views, nobody finished it, and not one conversation came out of it. So we are retiring it on camera, which is the only way to make a decision stick, because a decision nobody saw is a decision you can quietly reverse in week three when you are tired.",
           "cap": "Retired on camera: the four-minute explainer. Nobody finished it.",
           "body": "It got views, nobody finished it, and no conversation came from it. Retiring it on camera because a decision nobody saw is one you can quietly reverse in week three."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Format: 4-min explainer", "Views: yes", "Finishes: no", "Retired"],
-          "cap": "Publish your decisions or you will reverse them quietly.",
-          "body": "The public statement is not for the audience. It is for the version of you who will be tired in three weeks."
+          "slides": [
+            "Format: 4-min explainer",
+            "Views: yes",
+            "Finishes: no",
+            "Retired"
+          ],
+          "cap": "The public statement is not for the audience. It is for the version of you who will be tired in three weeks.\n\nPublish your decisions or you will reverse them quietly."
         },
         "facebook": {
           "fmt": "Text post",
@@ -189,16 +252,25 @@
         "tiktok": {
           "fmt": "Street interview, 27s",
           "hook": "I asked people if they had seen any of this account. Most had not.",
-          "beats": ["Most had not", "Two had seen the bakery one", "One had fixed his listing", "That is the honest reach"],
+          "beats": [
+            "Most had not",
+            "Two had seen the bakery one",
+            "One had fixed his listing",
+            "That is the honest reach"
+          ],
           "vo": "I asked people on the street if they had seen any of this account. Most had not, which is honest and worth saying out loud in a month of posting nine hundred and ninety pieces. Two had seen the bakery teardown, and one man had gone home and fixed his Google listing because of a video. Out of everyone I asked, that is the number. It is small. It is real.",
           "cap": "Most had not seen it. One had fixed his listing. That is the honest reach.",
           "body": "Most had not seen any of it. Two had seen the bakery teardown. One had gone home and fixed his Google listing. That is the number, and it is small and real."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Asked 20 people", "Most: never seen it", "2: the bakery one", "1: fixed his listing"],
-          "cap": "Reach is smaller than the dashboard makes it feel. Say so.",
-          "body": "Reporting the nos makes the yeses credible, which is the entire reason to do this on camera rather than in text."
+          "slides": [
+            "Asked 20 people",
+            "Most: never seen it",
+            "2: the bakery one",
+            "1: fixed his listing"
+          ],
+          "cap": "Reporting the nos makes the yeses credible, which is the entire reason to do this on camera rather than in text.\n\nReach is smaller than the dashboard makes it feel. Say so."
         },
         "facebook": {
           "fmt": "Text post",
@@ -214,16 +286,25 @@
         "tiktok": {
           "fmt": "Overhead shot, 22s",
           "hook": "Nothing new to sell today. Here is the list, the prices, and the limit.",
-          "beats": ["Nine packs", "Five thousand each", "Thirty five for all", "No calls, no promises"],
+          "beats": [
+            "Nine packs",
+            "Five thousand each",
+            "Thirty five for all",
+            "No calls, no promises"
+          ],
           "vo": "There is nothing new to sell today, so here is the whole list again. Nine packs at five thousand naira, thirty five for all of them. No consulting, no calls, no promises, and nothing will not bring you customers. If you have been watching all month and you want one, the code is PACK. If you do not, that is genuinely fine, and the free posts are not going anywhere.",
           "cap": "Nine packs ₦5,000 · all nine ₦35,000 · no consulting. PACK on WhatsApp 0905 069 0837.",
           "body": "Nine packs at five thousand, thirty-five for all of them. No consulting, no calls, no promises. If you want one, the code is PACK. If you do not, that is fine."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Nothing new today", "9 packs at ₦5,000", "All nine: ₦35,000", "PACK"],
-          "cap": "A closing post with no launch, no countdown, and no bonus.",
-          "body": "The last selling post of the month is the same offer as the first, which is the point. Nothing was invented to mark the occasion."
+          "slides": [
+            "Nothing new today",
+            "9 packs at ₦5,000",
+            "All nine: ₦35,000",
+            "PACK"
+          ],
+          "cap": "The last selling post of the month is the same offer as the first, which is the point. Nothing was invented to mark the occasion.\n\nA closing post with no launch, no countdown, and no bonus."
         },
         "facebook": {
           "fmt": "Text post",
@@ -239,16 +320,25 @@
         "tiktok": {
           "fmt": "Talking head, 34s",
           "hook": "The biggest thing we declined this month was a retainer, and saying no cost us more than anything else.",
-          "beats": ["Monthly money", "For work we did not believe in", "We said no", "And slept"],
+          "beats": [
+            "Monthly money",
+            "For work we did not believe in",
+            "We said no",
+            "And slept"
+          ],
           "vo": "The biggest thing we declined this month was a monthly retainer, the kind that pays the rent. The work was advertising a product I did not think worked, to people who could not easily afford it. I said no on a Tuesday and regretted it by Thursday, and then a week later somebody from that same industry asked us to do the opposite, which is not a moral reward, it is just what happens when you are known for saying no.",
           "cap": "A retainer, declined. Regretted it by Thursday. Still the right call.",
           "body": "Advertising a product I did not think worked, to people who could not easily afford it. Declined on a Tuesday, regretted by Thursday, and still the right call."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Offer: monthly retainer", "Work: product I did not believe", "Said: no", "Regretted: Thursday"],
-          "cap": "You can regret a decision and still be right about it.",
-          "body": "The discomfort of turning down money is immediate and the benefit is not, which is why so few people do it and why it is worth a post."
+          "slides": [
+            "Offer: monthly retainer",
+            "Work: product I did not believe",
+            "Said: no",
+            "Regretted: Thursday"
+          ],
+          "cap": "The discomfort of turning down money is immediate and the benefit is not, which is why so few people do it and why it is worth a post.\n\nYou can regret a decision and still be right about it."
         },
         "facebook": {
           "fmt": "Text post",
@@ -264,16 +354,26 @@
         "tiktok": {
           "fmt": "Kinetic type, 24s",
           "hook": "How to run this yourself in December: four shows, one sheet, eleven slots.",
-          "beats": ["Four repeating formats", "One spreadsheet", "Eleven times a day", "Sixty thirty ten"],
+          "beats": [
+            "Four repeating formats",
+            "One spreadsheet",
+            "Eleven times a day",
+            "Sixty thirty ten"
+          ],
           "vo": "How to run this yourself in December. Pick four formats you can repeat: a fix, a list, a story, and an honest ad. Put them in one spreadsheet with a date and a time for every slot. Post eleven times a day if you can, five if you cannot. Keep sixty percent entertaining, thirty teaching, ten selling. Then do it for thirty days and read the sheet on the thirty first. That is the whole system, and it is free.",
           "cap": "Four formats · one sheet · 60/30/10 · thirty days. That is the whole system.",
           "body": "A fix, a list, a story, an honest ad. One spreadsheet with dates and times. Sixty percent entertaining, thirty teaching, ten selling. Thirty days, then read the sheet."
         },
         "instagram": {
           "fmt": "5-slide carousel",
-          "slides": ["4 repeatable formats", "1 spreadsheet", "11 slots a day", "60 / 30 / 10", "30 days"],
-          "cap": "Screenshot this. It is the entire month, in a form you can run.",
-          "body": "None of it requires software, a team, or a budget. It requires a sheet, a decision about formats, and thirty days of not changing the plan."
+          "slides": [
+            "4 repeatable formats",
+            "1 spreadsheet",
+            "11 slots a day",
+            "60 / 30 / 10",
+            "30 days"
+          ],
+          "cap": "None of it requires software, a team, or a budget. It requires a sheet, a decision about formats, and thirty days of not changing the plan.\n\nScreenshot this. It is the entire month, in a form you can run."
         },
         "facebook": {
           "fmt": "Text post",

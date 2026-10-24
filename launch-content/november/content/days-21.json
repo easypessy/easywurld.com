@@ -14,16 +14,25 @@
         "tiktok": {
           "fmt": "Screen recording, 24s",
           "hook": "The worst listing I found this week is marked permanently closed. It is open.",
-          "beats": ["Open every day", "Marked closed", "For eleven months", "Somebody has been losing customers since January"],
+          "beats": [
+            "Open every day",
+            "Marked closed",
+            "For eleven months",
+            "Somebody has been losing customers since January"
+          ],
           "vo": "The worst listing I found this week is marked permanently closed on Google, and the shop is open every single day. It has been like that for about eleven months, which means every person who searched for it found a business that had died, and there was nobody to tell them otherwise. A closed listing is not a small mistake. It is an eleven month outage nobody noticed.",
           "cap": "Marked permanently closed. Open every day. For eleven months.",
           "body": "The shop is open daily. Google has said permanently closed for about eleven months. Every search found a dead business, and nobody was told otherwise. A closed listing is not a small mistake, it is an outage."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Status: permanently closed", "Reality: open daily", "For 11 months", "Nobody noticed"],
-          "cap": "Check your own status tonight. One wrong field, eleven months of silence.",
-          "body": "Wrong hours, wrong number, wrong status — these fields are set once and never looked at again, which is exactly why they fail quietly for a year."
+          "slides": [
+            "Status: permanently closed",
+            "Reality: open daily",
+            "For 11 months",
+            "Nobody noticed"
+          ],
+          "cap": "Wrong hours, wrong number, wrong status — these fields are set once and never looked at again, which is exactly why they fail quietly for a year.\n\nCheck your own status tonight. One wrong field, eleven months of silence."
         },
         "facebook": {
           "fmt": "Text post",
@@ -39,16 +48,25 @@
         "tiktok": {
           "fmt": "Talking head, 26s",
           "hook": "Three weeks in. Here is the number, honestly, including what did not work.",
-          "beats": ["What worked", "What did not", "What surprised me", "Nothing is guaranteed"],
+          "beats": [
+            "What worked",
+            "What did not",
+            "What surprised me",
+            "Nothing is guaranteed"
+          ],
           "vo": "Three weeks in, read off the tracker. The teardowns travel furthest, the checklists get saved, and the honest ads convert but do not travel at all, which is exactly what the plan predicted and still feels wrong when it happens. Nothing here is a promise. It is a record of one account for twenty one days, and it is the only kind of number I trust.",
           "cap": "Teardowns travel. Checklists get saved. Honest ads convert and do not travel.",
           "body": "Three weeks, read off the tracker: teardowns travel furthest, checklists get saved, honest ads convert but do not travel at all. That matches the plan and still feels wrong when it happens."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Week 3", "Teardowns: reach", "Checklists: saves", "Honest ads: conversions"],
-          "cap": "Three different jobs, three different shapes. Stop judging them all by views.",
-          "body": "Posting eleven things a day only makes sense if you expect them to do different jobs. Judging a sell post by its views is a category error, and it will make you stop selling."
+          "slides": [
+            "Week 3",
+            "Teardowns: reach",
+            "Checklists: saves",
+            "Honest ads: conversions"
+          ],
+          "cap": "Posting eleven things a day only makes sense if you expect them to do different jobs. Judging a sell post by its views is a category error, and it will make you stop selling.\n\nThree different jobs, three different shapes. Stop judging them all by views."
         },
         "facebook": {
           "fmt": "Text post",
@@ -64,16 +82,25 @@
         "tiktok": {
           "fmt": "Kinetic type, 23s",
           "hook": "The most shared thing I posted this week was a teardown. Here is the format, on a new business.",
-          "beats": ["Show the page", "Name one problem", "Three fixes", "No insults"],
+          "beats": [
+            "Show the page",
+            "Name one problem",
+            "Three fixes",
+            "No insults"
+          ],
           "vo": "The most shared post of the week was a teardown, so here is the format on a new business. Show the page. Name one problem in a single sentence. Give three fixes that take under an hour. Leave out the insults entirely, because the moment it becomes a joke at their expense it stops being useful and starts being content.",
           "cap": "Show it. One problem. Three fixes. No insults. That is the whole format.",
           "body": "Show the page, name one problem in one sentence, give three fixes under an hour each, and leave out the mockery. Shared because it was useful, not because it was cruel."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Show the page", "One problem", "Three fixes", "No insults"],
-          "cap": "The format works because it is generous. Keep it that way.",
-          "body": "A teardown that makes the owner laugh with you gets shared by them. One that makes them the joke gets shared by strangers and lost forever."
+          "slides": [
+            "Show the page",
+            "One problem",
+            "Three fixes",
+            "No insults"
+          ],
+          "cap": "A teardown that makes the owner laugh with you gets shared by them. One that makes them the joke gets shared by strangers and lost forever.\n\nThe format works because it is generous. Keep it that way."
         },
         "facebook": {
           "fmt": "Text post",
@@ -89,16 +116,24 @@
         "tiktok": {
           "fmt": "Talking head, 20s",
           "hook": "Lagos rewards whoever answers, not whoever is best.",
-          "beats": ["Everyone is busy", "Nobody replies", "The one who replies wins", "That is a small business advantage"],
+          "beats": [
+            "Everyone is busy",
+            "Nobody replies",
+            "The one who replies wins",
+            "That is a small business advantage"
+          ],
           "vo": "Lagos rewards whoever answers, not whoever is best, which is genuinely good news if you are small. You cannot outspend the big shop, but you can reply in eleven minutes at nine at night, and in this market that is a bigger competitive advantage than a better logo, because almost nobody does it consistently.",
           "cap": "You cannot outspend them. You can out-reply them.",
           "body": "Lagos rewards whoever answers, not whoever is best. You cannot outspend the big shop, but you can reply in eleven minutes at nine at night, and almost nobody does it consistently."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Not the best", "The one who replies", "Small businesses can win this"],
-          "cap": "The fastest reply in the market is a marketing strategy.",
-          "body": "Reply speed is the one advantage that costs nothing, needs no budget, and cannot be bought by a competitor with more money than you."
+          "slides": [
+            "Not the best",
+            "The one who replies",
+            "Small businesses can win this"
+          ],
+          "cap": "Reply speed is the one advantage that costs nothing, needs no budget, and cannot be bought by a competitor with more money than you.\n\nThe fastest reply in the market is a marketing strategy."
         },
         "facebook": {
           "fmt": "Text post",
@@ -114,16 +149,25 @@
         "tiktok": {
           "fmt": "Talking head, 28s",
           "hook": "Someone watched one of these videos and fixed their Google listing that night.",
-          "beats": ["She commented", "Two hours later", "Photos and hours added", "Then sent a screenshot"],
+          "beats": [
+            "She commented",
+            "Two hours later",
+            "Photos and hours added",
+            "Then sent a screenshot"
+          ],
           "vo": "Someone watched the listing video, commented that hers was empty, and fixed it that night. Two hours later she sent a screenshot: photos, hours, the right number, a category. I do not know whether it brought her customers, and I am not going to pretend I do. What I know is that a video changed something real in a real business within two hours, which is rarer than a viral post.",
           "cap": "She fixed her listing two hours after watching. That is the only proof that matters.",
           "body": "Someone watched the listing video, fixed hers that night, and sent a screenshot: photos, hours, right number, category. I do not know if it brought customers. I know it changed something real within two hours."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["She watched", "She commented", "She fixed it that night", "Screenshot, two hours later"],
-          "cap": "One real action beats a thousand views you cannot verify.",
-          "body": "Reach is a number. One person changing something in their business two hours later is a result, and it is worth more than a screenshot of views."
+          "slides": [
+            "She watched",
+            "She commented",
+            "She fixed it that night",
+            "Screenshot, two hours later"
+          ],
+          "cap": "Reach is a number. One person changing something in their business two hours later is a result, and it is worth more than a screenshot of views.\n\nOne real action beats a thousand views you cannot verify."
         },
         "facebook": {
           "fmt": "Text post",
@@ -139,16 +183,24 @@
         "tiktok": {
           "fmt": "Kinetic type, 22s",
           "hook": "If I had one hour in any Lagos business, I would fix two things: reply time, then the first sentence.",
-          "beats": ["Reply time", "Then the first sentence", "Not the logo", "Not the ads"],
+          "beats": [
+            "Reply time",
+            "Then the first sentence",
+            "Not the logo",
+            "Not the ads"
+          ],
           "vo": "If I had one hour in any Lagos business, I would fix two things and ignore everything else. First, reply time, because a good reply at the wrong speed is a lost customer. Second, the first sentence on the homepage, because it is doing more work than the rest of the page combined. The logo can wait forever. It has waited this long already.",
           "cap": "Reply time first. First sentence second. Everything else can wait.",
           "body": "One hour, two fixes: reply time, then the first sentence on the homepage. A good reply at the wrong speed is a lost customer, and the first sentence is doing more work than the rest of the page combined."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["1. Reply time", "2. First sentence", "3. Nothing else yet"],
-          "cap": "The logo can wait. It has waited this long already.",
-          "body": "Order matters because attention is finite. Fixing the reply changes every conversation this week; fixing the logo changes how you feel about the page."
+          "slides": [
+            "1. Reply time",
+            "2. First sentence",
+            "3. Nothing else yet"
+          ],
+          "cap": "Order matters because attention is finite. Fixing the reply changes every conversation this week; fixing the logo changes how you feel about the page.\n\nThe logo can wait. It has waited this long already."
         },
         "facebook": {
           "fmt": "Text post",
@@ -164,16 +216,24 @@
         "tiktok": {
           "fmt": "Talking head, 21s",
           "hook": "The post that flopped hardest this week was the one I liked most.",
-          "beats": ["It was about measurement", "No picture until second three", "It opened with a definition", "It deserved to flop"],
+          "beats": [
+            "It was about measurement",
+            "No picture until second three",
+            "It opened with a definition",
+            "It deserved to flop"
+          ],
           "vo": "The post that flopped hardest this week was the one I liked most. It was about measurement, it opened with a definition, and there was no image until the third second. I liked it because it was clever, and it flopped because clever is not a reason to keep watching. I am showing it to you so I stop doing this.",
           "cap": "It flopped because it was clever, and clever is not a reason to keep watching.",
           "body": "The one I liked most flopped hardest. It opened with a definition and had no image until second three. Clever is not a reason to keep watching, which is a lesson I apparently need monthly."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["My favourite post", "Opened with a definition", "No image until second 3"],
-          "cap": "Favourite is not the same as good, and definitely not the same as watched.",
-          "body": "Your favourite post is usually the one where you pleased yourself. The audience can tell, and it is not unkind about it, it just scrolls."
+          "slides": [
+            "My favourite post",
+            "Opened with a definition",
+            "No image until second 3"
+          ],
+          "cap": "Your favourite post is usually the one where you pleased yourself. The audience can tell, and it is not unkind about it, it just scrolls.\n\nFavourite is not the same as good, and definitely not the same as watched."
         },
         "facebook": {
           "fmt": "Text post",
@@ -189,16 +249,24 @@
         "tiktok": {
           "fmt": "Street interview, 26s",
           "hook": "I asked twelve businesses if they had claimed their Google listing. Two had.",
-          "beats": ["Two of twelve", "Both were the ones with staff", "The other ten did not know it was free", "It is free"],
+          "beats": [
+            "Two of twelve",
+            "Both were the ones with staff",
+            "The other ten did not know it was free",
+            "It is free"
+          ],
           "vo": "I asked twelve businesses on one street whether they had claimed their Google listing. Two had. Both of those had somebody whose job included it, and the other ten did not know it was free, which is the part I keep coming back to. It is free. It takes an hour. And ten of twelve had not done it.",
           "cap": "Two of twelve. The other ten did not know it was free.",
           "body": "Twelve businesses on one street. Two had claimed their listing. The other ten did not know it was free, which is the part I keep coming back to."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["12 businesses asked", "2 had claimed it", "It is free"],
-          "cap": "An hour of work your ten nearest competitors have not done.",
-          "body": "The reason to do it tonight is not that it is clever. It is that almost nobody around you has, and the gap closes when a video like this reaches them."
+          "slides": [
+            "12 businesses asked",
+            "2 had claimed it",
+            "It is free"
+          ],
+          "cap": "The reason to do it tonight is not that it is clever. It is that almost nobody around you has, and the gap closes when a video like this reaches them.\n\nAn hour of work your ten nearest competitors have not done."
         },
         "facebook": {
           "fmt": "Text post",
@@ -214,16 +282,25 @@
         "tiktok": {
           "fmt": "Overhead shot, 18s",
           "hook": "Most requested this week: the free review. Three points, twenty-four hours, no pitch.",
-          "beats": ["Send the link", "Three points", "One day", "Then decide"],
+          "beats": [
+            "Send the link",
+            "Three points",
+            "One day",
+            "Then decide"
+          ],
           "vo": "Most requested this week was not a pack, it was the free review. Send a link, get three points in twenty four hours, no call, no pitch, no obligation. If you want the whole method rather than three points, the packs start at five thousand naira, and I will tell you which one is wrong for you if it is wrong for you.",
           "cap": "Free review: three points in 24 hours, no pitch. WhatsApp: 0905 069 0837.",
           "body": "Most requested this week was the free review, not a pack. Send a link, get three points in twenty-four hours, no call and no pitch. The packs start at five thousand if you want the whole method."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Most requested: the review", "3 points", "24 hours", "No pitch, no call"],
-          "cap": "Free is the easiest thing to say yes to, and it demonstrates the work.",
-          "body": "Three specific points in writing beat a sales call and a brochure. It also tells both of us whether the paid work would be useful."
+          "slides": [
+            "Most requested: the review",
+            "3 points",
+            "24 hours",
+            "No pitch, no call"
+          ],
+          "cap": "Three specific points in writing beat a sales call and a brochure. It also tells both of us whether the paid work would be useful.\n\nFree is the easiest thing to say yes to, and it demonstrates the work."
         },
         "facebook": {
           "fmt": "Text post",
@@ -239,16 +316,24 @@
         "tiktok": {
           "fmt": "Talking head, 30s",
           "hook": "We declined a brief this week. It was to make a business sound bigger than it is.",
-          "beats": ["Pretend to be an agency", "Fake team page", "Fake address", "Then they have to maintain it"],
+          "beats": [
+            "Pretend to be an agency",
+            "Fake team page",
+            "Fake address",
+            "Then they have to maintain it"
+          ],
           "vo": "We declined a brief this week to make a one person business look like a fifteen person agency: a team page with stock portraits, an address in a building they do not work in, and award logos they had not won. Not because it is illegal, but because the first client who asks to visit would end the relationship, and they would have built a website that only works if nobody looks closely.",
           "cap": "A website that only works if nobody looks closely is not a website.",
           "body": "Stock team portraits, an address they do not work at, awards they have not won. Legal, briefly effective, and it collapses the first time a client asks to visit. We declined."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Brief: look like 15 people", "Reality: one person", "We declined"],
-          "cap": "Credibility built on a lie expires the first time someone checks.",
-          "body": "Being one person is a selling point if you say it plainly, because it means the person answering is the person doing the work."
+          "slides": [
+            "Brief: look like 15 people",
+            "Reality: one person",
+            "We declined"
+          ],
+          "cap": "Being one person is a selling point if you say it plainly, because it means the person answering is the person doing the work.\n\nCredibility built on a lie expires the first time someone checks."
         },
         "facebook": {
           "fmt": "Text post",
@@ -264,16 +349,24 @@
         "tiktok": {
           "fmt": "Kinetic type, 21s",
           "hook": "Next week is everything we sell, and who should not buy it.",
-          "beats": ["All nine packs", "Prices", "Who each is not for", "Then choose or do not"],
+          "beats": [
+            "All nine packs",
+            "Prices",
+            "Who each is not for",
+            "Then choose or do not"
+          ],
           "vo": "Next week I am going to show you everything we sell, with prices, and who should not buy each one. That is unusual for an account that spends most of its time entertaining people, and it is the point of the month: you spend three weeks being useful and then you tell people what you make, once, plainly, so nobody has to guess.",
           "cap": "Next week: all nine packs, all prices, and who should not buy each one.",
           "body": "Three weeks of being useful, then one week of saying plainly what we sell and who should not buy it. Nobody has to guess, and nobody has to be sold to."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Next week", "Everything we sell", "And who should not buy it"],
-          "cap": "One honest selling week beats a month of hints.",
-          "body": "Hints are worse than prices. A price lets someone decide, and a decision is better for both of us than a vague hope."
+          "slides": [
+            "Next week",
+            "Everything we sell",
+            "And who should not buy it"
+          ],
+          "cap": "Hints are worse than prices. A price lets someone decide, and a decision is better for both of us than a vague hope.\n\nOne honest selling week beats a month of hints."
         },
         "facebook": {
           "fmt": "Text post",

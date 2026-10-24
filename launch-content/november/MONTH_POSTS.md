@@ -4962,6 +4962,8 @@ writing on the spot.
 5. Put all three in your phone
 
 **Caption**
+> Before you press send on a quote, put three dates in your phone. Day 1: quote out. Day 3: something useful and a question. Day 7: keep it or release it.
+> 
 > Systems beat memories. Every time.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -9210,7 +9212,7 @@ writing on the spot.
 4. We said stop
 
 **Caption**
-> Fix the leak before you buy more water.
+> Advertising into a two-day reply time is paying to be ignored at scale. Fix the leak before you buy more water.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
 
@@ -9936,6 +9938,8 @@ writing on the spot.
 4. They think you ignored them
 
 **Caption**
+> A listing I checked this week had no photos, no opening hours, and a phone number belonging to a shop that closed two years ago. The customer does not think the number is wrong. They think you did not pick up, and they do not try twice.
+> 
 > Your listing is your shopfront at 2am. Check the phone number first.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -9989,6 +9993,8 @@ writing on the spot.
 3. You decide once
 
 **Caption**
+> Your Google listing is open when you are closed. It is a second shop, and the only one you own that works at midnight. It is either answering the four questions people have, or it is a closed shutter with your name on it.
+> 
 > A second shop that never closes. You have already built it, badly or well.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -10043,6 +10049,8 @@ writing on the spot.
 4. Phone: whether you hear
 
 **Caption**
+> Four fields on your Google listing do almost all of the work. Get these right and the listing earns its keep; everything else on the page is decoration.
+> 
 > Category · Area · Hours · Phone. Everything else on that page is decoration.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -10099,6 +10107,8 @@ writing on the spot.
 3. Written by people with nothing to gain
 
 **Caption**
+> Reviews are the only public proof you get for free, from people with no reason to be kind to you. Ten of them will outsell any adjective you write about yourself, because anyone can check them.
+> 
 > Ten real reviews beat any adjective you can write about yourself.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -10151,6 +10161,8 @@ writing on the spot.
 4. Timing beats politeness
 
 **Caption**
+> She left the review because she was asked at pickup, holding the thing she had just paid for. The email three days later would have been ignored, like all of them are.
+> 
 > Ask at the moment gratitude peaks. Which is not three days later, by email.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -10204,6 +10216,8 @@ writing on the spot.
 3. One link, then never again
 
 **Caption**
+> Most businesses have eleven reviews after six years because they ask on a Tuesday, by email, three days late. Ask at the door, while the joy has not worn off.
+> 
 > One sentence at delivery. One link. Then never mention it again.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -10257,6 +10271,8 @@ writing on the spot.
 3. Answer calmly, say what changed
 
 **Caption**
+> Good reviews are easy and nobody learns from them. The bad one is the demonstration: say what happened, say what changed, and do not argue in public.
+> 
 > The bad review is where everybody watches to see who you are.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -10313,6 +10329,8 @@ writing on the spot.
 4. That is the audition
 
 **Caption**
+> Nine out of ten people said they check reviews before trying a new shop, and most read the bad ones first — then how the owner replied. Your worst review is an audition, whether you attend or not.
+> 
 > Nine of ten check. Most read the bad ones first, then the replies.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -10367,6 +10385,8 @@ writing on the spot.
 4. Not the build
 
 **Caption**
+> The Launch Handbook covers what happens after the website: your listing, photos, hours, who owns the domain, who pays for hosting. It does not build the site and it will not design anything.
+> 
 > Covers listings and ownership. Not the build. ₦5,000. LAUNCH on WhatsApp: 0905 069 0837.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -10420,6 +10440,8 @@ writing on the spot.
 3. Then every real one is suspect
 
 **Caption**
+> A fake review can be reported and the pattern of them can be spotted. When it is, every genuine review you have becomes suspect too. You traded years of trust for eleven numbers.
+> 
 > Bought reviews are the only mistake here you cannot undo.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -10473,6 +10495,8 @@ writing on the spot.
 3. Yaba, every post
 
 **Caption**
+> Search reads the words you wrote before it reads your hashtags. One place name per post makes you findable by people who are already near you, which is the cheapest audience there is.
+> 
 > Yaba is a keyword. Put it in the caption, in words, every post.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -10534,6 +10558,8 @@ writing on the spot.
 4. Noun: none
 
 **Caption**
+> Fancy words are a hiding place, because a specific word can be argued with and a fancy one cannot. The customer is not impressed by bespoke. They are looking for the noun.
+> 
 > Bespoke ×4, tailored ×2, curated ×1, and no noun anywhere.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -10588,6 +10614,8 @@ writing on the spot.
 4. Delete all three
 
 **Caption**
+> If the page still says something, you had a page. If it says nothing once the adjectives are gone, you had a logo with decoration on top.
+> 
 > Delete every word that could be on any site. Read what is left.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -10642,6 +10670,8 @@ writing on the spot.
 4. Numbers are evidence
 
 **Caption**
+> Adjectives are claims and numbers are evidence. You already know your numbers — you just did not think they were marketing.
+> 
 > Fast → within 20 minutes. Affordable → from ₦12,000. Reliable → 4 years.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -10699,6 +10729,8 @@ writing on the spot.
 3. Delete the first two
 
 **Caption**
+> Copywriting is removal. The first draft is three sentences, the best line is one of them, and it is almost always the last. Ship that one.
+> 
 > Your best line was the last sentence. Delete the two before it.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -10753,6 +10785,8 @@ writing on the spot.
 4. Clicks doubled
 
 **Caption**
+> Nobody reads the second clause. They read the first four words and decide, which is why every word after those has to earn its place.
+> 
 > Twenty-two words to eleven. The meaning did not change. Clicks doubled.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -10808,6 +10842,8 @@ writing on the spot.
 3. Delete the throat clearing
 
 **Caption**
+> At the counter you have eight seconds and a queue behind them. Write that version, then delete the welcome and the thank you for visiting, because that is all the first two sentences ever are.
+> 
 > Type what you would say at the counter. Delete the first two sentences. Done.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -10861,6 +10897,8 @@ writing on the spot.
 3. A costume
 
 **Caption**
+> Write the way you would tell a friend where to buy something. That is the voice people trust with money, and it is the only voice that sounds like a person.
+> 
 > Nobody talks like that, so it reads as a costume. Take it off.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -10915,6 +10953,8 @@ writing on the spot.
 4. Not the offer
 
 **Caption**
+> If a stranger cannot repeat your sentence ten seconds after hearing it, it is not a sentence. It is a mood, and moods do not get written down or passed on.
+> 
 > Nobody could repeat it back. They remembered the mood, not the offer.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -10969,6 +11009,8 @@ writing on the spot.
 4. Start with HOMEPAGE
 
 **Caption**
+> The workbook assumes you have a sentence and makes it work everywhere. Without a sentence it just makes confusion consistent, which is why I send people to the homepage pack first.
+> 
 > Know what you sell? MESSAGE, ₦5,000. Still deciding? Start with HOMEPAGE.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -11023,6 +11065,8 @@ writing on the spot.
 4. The plain version won
 
 **Caption**
+> Two versions, same ad, one week. The clever word lost to a sentence about delivery times. He still says disruptive in meetings; the page does not.
+> 
 > We tested the word instead of arguing about it. The plain version won.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -11078,6 +11122,8 @@ writing on the spot.
 3. Every stumble is a problem
 
 **Caption**
+> Every place you stumble is either a sentence that is too long or a claim you do not believe. Both cost you customers and both are free to fix tonight.
+> 
 > Read it out loud. Every stumble is a long sentence or a lie.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -11144,6 +11190,8 @@ writing on the spot.
 5. …and five more
 
 **Caption**
+> Nine services at identical size, on one screen, in one voice. Nobody chooses from a list that refuses to choose. One of them has to be louder than the other eight.
+> 
 > Everything at the same volume is silence.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -11197,6 +11245,8 @@ writing on the spot.
 3. Pick one and be first
 
 **Caption**
+> Every extra service you lead with divides the attention you needed for one. Being first at one thing beats being tenth at nine, and it is cheaper to advertise.
+> 
 > One of nine is none of the nine.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -11251,6 +11301,8 @@ writing on the spot.
 4. Then add the second
 
 **Caption**
+> You do not need a new strategy, you need thirty days of the same offer so that the results mean something. Change the angle, not the offer.
+> 
 > Thirty days is the shortest honest test there is.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -11304,6 +11356,8 @@ writing on the spot.
 3. The paying customer leaves first
 
 **Caption**
+> The customer you were afraid to lose was never going to buy. The one who would have bought needed to hear their specific problem named out loud.
+> 
 > Being understood is worth more than being available.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -11356,6 +11410,8 @@ writing on the spot.
 4. Bookings: up
 
 **Caption**
+> Fewer people asked her about events. More people asked her about weddings. The enquiries she lost were never going to become bookings, which is the part that took six weeks to believe.
+> 
 > The wrong enquiries are not a pipeline. They are a queue of people who will not buy.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -11410,6 +11466,8 @@ writing on the spot.
 4. Circle one
 
 **Caption**
+> Most businesses have never written the second list, because the first one is more fun and makes the business feel bigger than it is.
+> 
 > The list that pays is shorter and less interesting. Start there.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -11467,6 +11525,8 @@ writing on the spot.
 4. Fix the order
 
 **Caption**
+> If the loudest thing on your page is also the least profitable, the page is arranged by accident rather than by intention. Reordering costs nothing.
+> 
 > Attention and revenue are not the same axis.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -11518,6 +11578,8 @@ writing on the spot.
 3. Nobody could
 
 **Caption**
+> Word of mouth requires a sentence short enough to pass on. Nine services is not a sentence, it is a brochure, and nobody repeats a brochure.
+> 
 > If it cannot be repeated, it will not be referred.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -11574,6 +11636,8 @@ writing on the spot.
 4. ₦5,000 · OFFER
 
 **Caption**
+> Most page builders let you add a tenth service. This one is built around the assumption that you should not.
+> 
 > A tool that forces a decision is worth more than one that avoids it.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -11628,6 +11692,8 @@ writing on the spot.
 4. Enquiries changed
 
 **Caption**
+> A new logo would have made the same nine services look tidier. It would not have made anyone choose one, which was the entire problem.
+> 
 > The most useful sale is sometimes the smallest one.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -11684,6 +11750,8 @@ writing on the spot.
 4. Say it in one breath
 
 **Caption**
+> A date is the part everyone leaves out, and it is the part that turns a description into something a customer can say yes to.
+> 
 > No date means no offer, only an interest.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -11746,6 +11814,8 @@ writing on the spot.
 3. Show one
 
 **Caption**
+> The test is simple: could a business with zero customers write this sentence? If yes, it is decoration, and the reader knows it before you do.
+> 
 > If it would also be true of a business with no customers, delete it.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -11799,6 +11869,8 @@ writing on the spot.
 3. Show your hands
 
 **Caption**
+> A photo of the actual process answers the question a testimonial is trying to answer: is this a real person who can do the thing?
+> 
 > Show the work being done. That is a testimonial with no words.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -11853,6 +11925,8 @@ writing on the spot.
 4. No adjectives
 
 **Caption**
+> The before photo is the one everybody forgets, and it is the one that makes the after mean anything.
+> 
 > Start photographing the before. Most people only photograph the after.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -11907,6 +11981,8 @@ writing on the spot.
 4. Say who should not buy
 
 **Caption**
+> Every limit you state is a small demonstration that you are not hiding anything, and customers read limits as competence even when they do not buy.
+> 
 > Checkable beats impressive. Every time.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -11961,6 +12037,8 @@ writing on the spot.
 4. Blur the name
 
 **Caption**
+> Ask before you post, blur anything identifying, and use the message that shows a real price and a real answer. That is the honest version of a testimonial.
+> 
 > The proof you need is already in your chat history.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -12017,6 +12095,8 @@ writing on the spot.
 4. This week
 
 **Caption**
+> A finished product looks like every other finished product. The middle looks like you, and that is the part people remember.
+> 
 > The middle is where trust is built and where nobody is looking.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -12072,6 +12152,8 @@ writing on the spot.
 3. What changed
 
 **Caption**
+> You can write this tonight about any finished job, even a small one, even the first one. Three sentences and a photo.
+> 
 > A percentage is nice. A story is possible today.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -12127,6 +12209,8 @@ writing on the spot.
 3. Show the work: first
 
 **Caption**
+> Most new businesses wait to be trusted. The fastest route is to show the work being done, this week, with no numbers attached.
+> 
 > Trust is cheaper to build with a camera than with a testimonial.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -12183,6 +12267,8 @@ writing on the spot.
 4. The limits, attached
 
 **Caption**
+> Anyone can borrow a logo. The method is either useful by Friday or it is not, and you can test that without taking our word for anything.
+> 
 > Judge the method. It is more checkable than a logo.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -12236,6 +12322,8 @@ writing on the spot.
 3. You would have to defend it forever
 
 **Caption**
+> The problem is not getting caught. The problem is that you would have to remember the lie and be consistent about it for the life of the business.
+> 
 > A lie in the mouth of a customer is a debt you never finish paying.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -12292,6 +12380,8 @@ writing on the spot.
 4. Post one
 
 **Caption**
+> A real message with the name blurred is proof. The same message posted without asking is a risk you did not need to take.
+> 
 > Permission is the whole difference between proof and a problem.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -12353,6 +12443,8 @@ writing on the spot.
 4. Nobody noticed
 
 **Caption**
+> Wrong hours, wrong number, wrong status — these fields are set once and never looked at again, which is exactly why they fail quietly for a year.
+> 
 > Check your own status tonight. One wrong field, eleven months of silence.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -12409,6 +12501,8 @@ writing on the spot.
 4. Honest ads: conversions
 
 **Caption**
+> Posting eleven things a day only makes sense if you expect them to do different jobs. Judging a sell post by its views is a category error, and it will make you stop selling.
+> 
 > Three different jobs, three different shapes. Stop judging them all by views.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -12465,6 +12559,8 @@ writing on the spot.
 4. No insults
 
 **Caption**
+> A teardown that makes the owner laugh with you gets shared by them. One that makes them the joke gets shared by strangers and lost forever.
+> 
 > The format works because it is generous. Keep it that way.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -12521,6 +12617,8 @@ writing on the spot.
 3. Small businesses can win this
 
 **Caption**
+> Reply speed is the one advantage that costs nothing, needs no budget, and cannot be bought by a competitor with more money than you.
+> 
 > The fastest reply in the market is a marketing strategy.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -12575,6 +12673,8 @@ writing on the spot.
 4. Screenshot, two hours later
 
 **Caption**
+> Reach is a number. One person changing something in their business two hours later is a result, and it is worth more than a screenshot of views.
+> 
 > One real action beats a thousand views you cannot verify.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -12628,6 +12728,8 @@ writing on the spot.
 3. 3. Nothing else yet
 
 **Caption**
+> Order matters because attention is finite. Fixing the reply changes every conversation this week; fixing the logo changes how you feel about the page.
+> 
 > The logo can wait. It has waited this long already.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -12682,6 +12784,8 @@ writing on the spot.
 3. No image until second 3
 
 **Caption**
+> Your favourite post is usually the one where you pleased yourself. The audience can tell, and it is not unkind about it, it just scrolls.
+> 
 > Favourite is not the same as good, and definitely not the same as watched.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -12737,6 +12841,8 @@ writing on the spot.
 3. It is free
 
 **Caption**
+> The reason to do it tonight is not that it is clever. It is that almost nobody around you has, and the gap closes when a video like this reaches them.
+> 
 > An hour of work your ten nearest competitors have not done.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -12793,6 +12899,8 @@ writing on the spot.
 4. No pitch, no call
 
 **Caption**
+> Three specific points in writing beat a sales call and a brochure. It also tells both of us whether the paid work would be useful.
+> 
 > Free is the easiest thing to say yes to, and it demonstrates the work.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -12846,6 +12954,8 @@ writing on the spot.
 3. We declined
 
 **Caption**
+> Being one person is a selling point if you say it plainly, because it means the person answering is the person doing the work.
+> 
 > Credibility built on a lie expires the first time someone checks.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -12899,6 +13009,8 @@ writing on the spot.
 3. And who should not buy it
 
 **Caption**
+> Hints are worse than prices. A price lets someone decide, and a decision is better for both of us than a vague hope.
+> 
 > One honest selling week beats a month of hints.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -12959,6 +13071,8 @@ writing on the spot.
 3. 3. Learn what we do
 
 **Caption**
+> A deposit asks for trust before the site has earned any. Put the offer first and the deposit becomes a decision rather than a gamble.
+> 
 > If step three is the explanation, steps one and two will not happen.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -13013,6 +13127,8 @@ writing on the spot.
 4. Then one of these
 
 **Caption**
+> A product that cannot describe its wrong customer is probably not describing its right one either. Here is the plain version, before anyone spends anything.
+> 
 > Nine packs, and nine reasons not to buy one of them.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -13068,6 +13184,8 @@ writing on the spot.
 3. "Will I open it Monday?"
 
 **Caption**
+> Apply the same question to courses, templates, planners and PDFs. It will save you more money than any discount code.
+> 
 > One question filters every template you will ever be sold.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -13123,6 +13241,8 @@ writing on the spot.
 3. Templates only execute
 
 **Caption**
+> This is why so many downloads sit unopened while the business stays exactly the same shape. Nothing was decided, so nothing changed.
+> 
 > A template executes a decision. It cannot make one.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -13177,6 +13297,8 @@ writing on the spot.
 4. That counts
 
 **Caption**
+> The measure of a pack is not completion. It is whether one line changed one conversation, and whether you used it again the following week.
+> 
 > You do not have to use all of it. You have to use one thing.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -13233,6 +13355,8 @@ writing on the spot.
 4. Close it
 
 **Caption**
+> This applies to any download anyone has ever sold you. The activation cost is the whole difference between a purchase and a result.
+> 
 > Reading a pack is not using it. Three items is using it.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -13286,6 +13410,8 @@ writing on the spot.
 3. Open it within the hour
 
 **Caption**
+> The gap between buying and opening is where most purchases go to die. Close it deliberately: download it, open it, use one line.
+> 
 > Momentum has an expiry date of about one hour.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -13339,6 +13465,8 @@ writing on the spot.
 3. Hours given back
 
 **Caption**
+> The same logic works when you price your own service. Customers compare the cost to the time or the loss, not to your effort.
+> 
 > Price against the day it saves, not the pages it fills.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -13396,6 +13524,8 @@ writing on the spot.
 5. No guarantees
 
 **Caption**
+> This is the entire offer. There is no bonus, no masterclass, no community, and no countdown timer. If it is not for you, the free content will still be here tomorrow.
+> 
 > The deal, in full, once. No urgency, no countdown, no invented scarcity.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -13451,6 +13581,8 @@ writing on the spot.
 3. Policy was on the page
 
 **Caption**
+> The difference between a firm policy and a bad experience is entirely about when the buyer learned it.
+> 
 > State the rule before the money. Every time.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -13507,6 +13639,8 @@ writing on the spot.
 4. Or keep the money
 
 **Caption**
+> This test applies to courses, software, templates, and anything sold with a countdown timer on top of it.
+> 
 > A purchase you cannot act on is a mood, not a tool.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -13570,6 +13704,8 @@ writing on the spot.
 4. Write that instead
 
 **Caption**
+> The fix is not to remove the features, it is to put one sentence above them: after this, you will be able to ____. Everything below becomes supporting evidence.
+> 
 > Features justify. Outcomes sell.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -13623,6 +13759,8 @@ writing on the spot.
 3. Ask: what are their names?
 
 **Caption**
+> Any seller who will not list the files is telling you something. It is usually that the list is short.
+> 
 > A count you can verify before paying is worth more than any testimonial.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -13679,6 +13817,8 @@ writing on the spot.
 4. Before payment
 
 **Caption**
+> You can apply this to your own offer immediately: write the inventory, not the adjectives. Six bullets will do more than a hero image.
+> 
 > Mystery boxes ask for trust they have not earned.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -13732,6 +13872,8 @@ writing on the spot.
 3. What it will not do
 
 **Caption**
+> If you find yourself writing a fourth paragraph about the transformation, that is usually a sign you are unsure the inventory is strong enough.
+> 
 > Nervousness about a price is more visible than the price.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -13786,6 +13928,8 @@ writing on the spot.
 4. Bought in 4 minutes
 
 **Caption**
+> If you are not willing to show one page before payment, ask yourself whether that is because it is precious or because it is thin.
+> 
 > Show the actual thing. It is the cheapest proof you own.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -13841,6 +13985,8 @@ writing on the spot.
 3. No email wall
 
 **Caption**
+> An outline shows how much thinking went into the thing. A cover shows how much budget went into the design.
+> 
 > People who steal an outline were never buying the outline.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -13896,6 +14042,8 @@ writing on the spot.
 3. Buy fewer if fewer fits
 
 **Caption**
+> This is a general warning about the whole information economy, ours included. Counts are seductive and mostly irrelevant.
+> 
 > A seller who talks you down to the smaller pack is a seller you can trust.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -13951,6 +14099,8 @@ writing on the spot.
 3. So show the inside
 
 **Caption**
+> The answer was unanimous and slightly annoyed. That reaction is worth remembering the next time you are tempted to hide the contents behind an email form.
+> 
 > Ask your own buyers this question and then do what they say.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -14006,6 +14156,8 @@ writing on the spot.
 5. No expiry
 
 **Caption**
+> A price that does not move is a price you can think about, and thinking is better for both of us than a timer.
+> 
 > No countdown. It will cost the same tomorrow, which is the point.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -14061,6 +14213,8 @@ writing on the spot.
 3. We said no
 
 **Caption**
+> Every padded count makes the reader recalculate everything else you have said. It is a strange trade: a small lift now for a permanent tax on trust.
+> 
 > An inflated number is a discount on your credibility, paid later.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -14117,6 +14271,8 @@ writing on the spot.
 4. If none, walk
 
 **Caption**
+> This is the buyer's version of the same advice we give sellers: show the inventory. Both sides get faster, fairer decisions.
+> 
 > The question costs nothing and saves more than any discount code.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -14177,6 +14333,8 @@ writing on the spot.
 3. It was ₦9,000 last month
 
 **Caption**
+> The invented original price only works until one person checks. And the people most likely to check are the ones who were going to buy.
+> 
 > Somebody screenshots these. Somebody always screenshots these.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -14230,6 +14388,8 @@ writing on the spot.
 3. Saving: ₦10,000
 
 **Caption**
+> If you cannot state your offer as a single sum, it is probably two offers wearing one price tag.
+> 
 > One sum and one sentence. That is a complete offer.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -14286,6 +14446,8 @@ writing on the spot.
 4. Check it yourself
 
 **Caption**
+> Percentages invite suspicion because they hide the sum. Plain arithmetic invites a calculator, and a calculator will confirm you.
+> 
 > A price that survives arithmetic is a price you can defend.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -14343,6 +14505,8 @@ writing on the spot.
 3. To real people?
 
 **Caption**
+> This is the test to apply to every bundle you are offered, including ours. Our packs sell individually at five thousand, and the arithmetic is public.
+> 
 > A discount from a price nobody paid is not a discount.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -14397,6 +14561,8 @@ writing on the spot.
 4. Then she paid
 
 **Caption**
+> You cannot argue someone into trusting a price, but you can hand them the sum and let them decide. Most people decide faster when they can check.
+> 
 > The best sale is the one the customer closes with a calculator.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -14453,6 +14619,8 @@ writing on the spot.
 4. = decide
 
 **Caption**
+> This works in every market and every price bracket. Percentages flatter the seller; amounts help the buyer.
+> 
 > Say the number in the currency they actually hold.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -14506,6 +14674,8 @@ writing on the spot.
 3. Lead with the fact
 
 **Caption**
+> The same rule applies to salaries, invoices, and your own pricing page. Amounts travel better than proportions.
+> 
 > Percentages are for invoices. Amounts are for people.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -14559,6 +14729,8 @@ writing on the spot.
 3. So show the inside
 
 **Caption**
+> When someone says it is too expensive, they usually mean they cannot see what they are buying. Fix that first and the price conversation changes.
+> 
 > Price objections are usually contents objections wearing a price costume.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -14615,6 +14787,8 @@ writing on the spot.
 4. Only if you will use them
 
 **Caption**
+> This is the honest framing of every bundle ever sold: you pay less per item and you buy more items. Both halves of that sentence matter.
+> 
 > A discount on volume is only a discount if the volume gets used.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -14668,6 +14842,8 @@ writing on the spot.
 3. A ladder with no top
 
 **Caption**
+> Every invented discount raises the number the customer expects to pay later. It is borrowing attention now and repaying it every month after.
+> 
 > Fake urgency is a loan against your next price.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -14722,6 +14898,8 @@ writing on the spot.
 4. Then compare
 
 **Caption**
+> This works for data bundles, subscriptions, courses and gym memberships. The maths is always the same and it is always unflattering to the bigger package.
+> 
 > The real unit is the thing you open, not the thing you bought.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -14785,6 +14963,8 @@ writing on the spot.
 4. One legal problem
 
 **Caption**
+> The list is always the same shape. The more impossible the promise, the higher the price, and the more likely the refund page is a form that nobody answers.
+> 
 > If the promise is impossible, the price is not the expensive part.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -14837,6 +15017,8 @@ writing on the spot.
 4. Say the limit instead
 
 **Caption**
+> A limit costs you the buyers who wanted a guarantee and wins the ones who wanted a professional. On balance, that is a good trade.
+> 
 > Trust is spent in one direction and rebuilt slowly.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -14891,6 +15073,8 @@ writing on the spot.
 4. Pick one
 
 **Caption**
+> A limit functions as a filter and a proof at the same time, which is why it is the cheapest trust-building sentence available to a small business.
+> 
 > The buyers you lose to a limit were going to be difficult anyway.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -14947,6 +15131,8 @@ writing on the spot.
 3. You: one honest line
 
 **Caption**
+> It is rare because it feels like weakness. It reads as confidence, which is why the businesses that do it are remembered.
+> 
 > A limit is the cheapest competitive advantage in the market.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -15003,6 +15189,8 @@ writing on the spot.
 4. Bought
 
 **Caption**
+> People who have been burned are not looking for bigger promises. They are looking for evidence that this seller knows where their product stops.
+> 
 > The sentence you are most nervous about is usually the one that closes.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -15056,6 +15244,8 @@ writing on the spot.
 3. Same paragraph
 
 **Caption**
+> Placement changes meaning. This is true of prices, guarantees, and anything you were tempted to bury.
+> 
 > A disclaimer at the bottom is a warning. A limit at the price is a promise.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -15109,6 +15299,8 @@ writing on the spot.
 3. Every day after
 
 **Caption**
+> Most overpromising happens on a good day, which is exactly why it fails on a bad one. Write the promise on a bad day.
+> 
 > Promise what you can do on your worst day, not your best.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -15162,6 +15354,8 @@ writing on the spot.
 3. So: say the limit
 
 **Caption**
+> This is why we write limits instead. It is not modesty, it is a response to how people actually read advertising.
+> 
 > The word meant to reassure is the word that raises suspicion.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -15218,6 +15412,8 @@ writing on the spot.
 4. Words for the quiet ones
 
 **Caption**
+> If your inbox is empty, this is the wrong purchase. If your inbox has people who went quiet, it is exactly the right one.
+> 
 > The honest version of a marketing product: it does not market for you.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -15274,6 +15470,8 @@ writing on the spot.
 4. No angry refunds
 
 **Caption**
+> Specificity is what actually reassures people. How long it takes, what exactly happens, what it costs — those three beat any guarantee.
+> 
 > The cost that does not show on a dashboard is the angry customer.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -15328,6 +15526,8 @@ writing on the spot.
 4. That is the offer
 
 **Caption**
+> This is uncomfortable the first time and clarifying every time after. Most adverts lose about half their words and all of their noise.
+> 
 > An advert with the promises removed is a useful mirror.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -15391,6 +15591,8 @@ writing on the spot.
 4. Unanswered: where
 
 **Caption**
+> Price, place, timing, payment. They are unglamorous, they are the whole decision, and they are almost always the last thing a business writes about itself.
+> 
 > The missing four are always the boring four.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -15444,6 +15646,8 @@ writing on the spot.
 3. "First time in two years"
 
 **Caption**
+> The most useful thing you can publish is a customer's own sentence, unedited, with permission. It does not need a design.
+> 
 > One sentence, forwarded, is worth a page of adjectives.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -15498,6 +15702,8 @@ writing on the spot.
 4. Name it clearly
 
 **Caption**
+> This applies to onboarding, welcome emails, and any document with more than three pages. People complete short things and bookmark long ones.
+> 
 > Design for what gets finished, not what gets admired.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -15551,6 +15757,8 @@ writing on the spot.
 3. Otherwise: a poster
 
 **Caption**
+> This is the first question to ask about any template, and almost nobody asks it until they discover the file will not open.
+> 
 > Ask what software it opens in before you buy it.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -15605,6 +15813,8 @@ writing on the spot.
 4. Better for his customer
 
 **Caption**
+> This is why we send editable files. The value is the shape of the sentence, not the vocabulary inside it.
+> 
 > The words should sound like you. The structure can be borrowed.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -15661,6 +15871,8 @@ writing on the spot.
 4. Send it
 
 **Caption**
+> This is a five minute edit, and it is the difference between sounding like a professional and sounding like a leaflet.
+> 
 > The costume is always audible in a negotiation.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -15714,6 +15926,8 @@ writing on the spot.
 3. 3: yours
 
 **Caption**
+> This is a useful thing to know before you decide you are bad at writing. You are not bad at it, you are on draft one.
+> 
 > Boredom is where your voice lives.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -15767,6 +15981,8 @@ writing on the spot.
 3. I can change it
 
 **Caption**
+> This is the answer that shaped what we ship: Word and Excel, never locked, never behind a subscription.
+> 
 > Editable is the feature. Everything else is packaging.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -15821,6 +16037,8 @@ writing on the spot.
 4. No subscription
 
 **Caption**
+> The file format is part of the product. A document you cannot open on your phone at 9pm is a document you will not use at 9pm.
+> 
 > Editable is not a feature list. It is the difference between use and storage.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -15876,6 +16094,8 @@ writing on the spot.
 3. You own the words
 
 **Caption**
+> Ownership is the difference between a purchase and a rental, and buyers can feel which one they are getting.
+> 
 > A locked template is a museum piece. You need a tool.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -15932,6 +16152,8 @@ writing on the spot.
 4. Send tomorrow
 
 **Caption**
+> Twenty-four hours is the difference between a purchase and a folder. Put the deadline on yourself before the enthusiasm fades.
+> 
 > A pack becomes useful the moment one line leaves your phone.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -15995,6 +16217,8 @@ writing on the spot.
 4. Result: paid to be ignored
 
 **Caption**
+> The cheapest audit in any small business is not the advert account. It is the last twenty conversations, read in order, with the timestamps.
+> 
 > Fix the answer before you buy the question.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -16050,6 +16274,8 @@ writing on the spot.
 3. That answer is free
 
 **Caption**
+> Saying no to the wrong project protects the referral, and referrals are the only marketing a small studio actually has.
+> 
 > The most profitable sentence in sales is sometimes 'not yet'.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -16104,6 +16330,8 @@ writing on the spot.
 4. What do you refuse?
 
 **Caption**
+> This works for any business. Three sentences, on the about page, and suddenly the rest of the page has something to be consistent with.
+> 
 > A published refusal list is a standard. An unpublished one is a mood.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -16159,6 +16387,8 @@ writing on the spot.
 3. Then buy attention
 
 **Caption**
+> This is hard advice to follow when you are impatient, which is why it is worth writing down before the impatience arrives.
+> 
 > A donation with analytics is still a donation.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -16215,6 +16445,8 @@ writing on the spot.
 4. We said spend elsewhere
 
 **Caption**
+> In a small market, the person you talked out of a bad purchase tells three people. The person you sold a bad purchase also tells three people, but differently.
+> 
 > Turning down the wrong project is how you get the right ones.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -16268,6 +16500,8 @@ writing on the spot.
 3. Silence means a bend
 
 **Caption**
+> It works for builders, tailors, caterers and agencies. The speed of the answer tells you more than the content.
+> 
 > Paste this question into your next supplier conversation.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -16321,6 +16555,8 @@ writing on the spot.
 3. Ten seconds
 
 **Caption**
+> If the answer is 'maybe', wait a day. Most purchases survive one night of thinking and the ones that do not were never going to be used.
+> 
 > The question has no downside and the answer is usually clear.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -16374,6 +16610,8 @@ writing on the spot.
 3. For years
 
 **Caption**
+> This is the strongest argument for honesty in sales that I have found, and it came from strangers on a street rather than a book.
+> 
 > A refusal is the only marketing that gets retold for free.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -16428,6 +16666,8 @@ writing on the spot.
 4. Ask which you need
 
 **Caption**
+> Most bad agency experiences start with a client buying a project expecting a pack, or a pack expecting a project.
+> 
 > Two products, two promises. Confusing them costs both of us.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -16481,6 +16721,8 @@ writing on the spot.
 3. Suggested: WhatsApp first
 
 **Caption**
+> The cheapest ecommerce platform in Lagos is a WhatsApp catalogue and a spreadsheet. It also tells you whether anyone wants the product at all.
+> 
 > Prove the demand before you build the storefront.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -16535,6 +16777,8 @@ writing on the spot.
 4. If unclear, wait
 
 **Caption**
+> The second question is the one nobody asks, and it is the one that turns a good campaign into a bad month.
+> 
 > Three questions that cost nothing and save everything.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -16598,6 +16842,8 @@ writing on the spot.
 4. 3 gaps, filled badly
 
 **Caption**
+> Hiding the price does not make the product feel cheaper. It makes it feel expensive and vague, which is the worst combination for a small business.
+> 
 > A gap is never empty. It is filled with the worst number available.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -16655,6 +16901,8 @@ writing on the spot.
 5. Clever things did not
 
 **Caption**
+> Most of the value came from a handful of formats repeated. That is an unglamorous finding and it is the only one that holds up against the tracker.
+> 
 > The absence of a viral moment is the most useful data point in the month.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -16709,6 +16957,8 @@ writing on the spot.
 4. Usable by Monday
 
 **Caption**
+> This is the shortest possible content strategy: make things that can be acted on before the next working week begins.
+> 
 > Ask what someone can do before Monday. Write that.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -16763,6 +17013,8 @@ writing on the spot.
 4. 60 / 30 / 10
 
 **Caption**
+> This is the single most useful idea from the month, and it is the one that stops people quitting during a flat week.
+> 
 > A sell post with low views is not a failure. It is a sell post.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -16817,6 +17069,8 @@ writing on the spot.
 4. In order, with times
 
 **Caption**
+> This is a fifteen minute exercise and it is uncomfortable in a way that is genuinely useful. Most people find one repeated mistake.
+> 
 > The unflattering file is the one with the answers in it.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -16871,6 +17125,8 @@ writing on the spot.
 4. Cutting it
 
 **Caption**
+> Cutting something publicly is a commitment device. Announcing it makes it much harder to quietly bring back next month.
+> 
 > The format you are afraid to cut is usually the one that should go.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -16926,6 +17182,8 @@ writing on the spot.
 3. Then repetition wins
 
 **Caption**
+> This is uncomfortable to publish and it is the post people trust most, because most accounts only publish the parts that worked.
+> 
 > Say what you got wrong before somebody else does it for you.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -16980,6 +17238,8 @@ writing on the spot.
 4. Stop shouting (fair)
 
 **Caption**
+> Asking in public also tells the audience their opinion changes the account, which is the cheapest loyalty mechanic there is.
+> 
 > The best content plan is a survey you did not call a survey.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -17034,6 +17294,8 @@ writing on the spot.
 4. ₦5,000 · PROPOSAL
 
 **Caption**
+> Usage is the only honest metric for a document product. A refund rate of zero is a small thing and it is the thing I watch.
+> 
 > The best seller is the one people report using, not the one that looks impressive.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -17087,6 +17349,8 @@ writing on the spot.
 3. We said no
 
 **Caption**
+> This is the fourth refusal in four weeks, and the pattern is consistent: the thing we refuse is usually the thing that would have looked good quickly.
+> 
 > Reach is easy. Keeping the promise is the business.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -17141,6 +17405,8 @@ writing on the spot.
 4. Repetition, not novelty
 
 **Caption**
+> The month worked best when the formats repeated, so December is designed around repetition rather than around finding something new.
+> 
 > A plan you cannot be checked against is a wish.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -17204,6 +17470,8 @@ writing on the spot.
 4. Put that on the page
 
 **Caption**
+> The re-cut is sharper than the original and the diagnosis is identical: the specific sentence is buried and the generic one is at the top.
+> 
 > Re-cutting the month's best teardown, because it is still the most common problem.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -17260,6 +17528,8 @@ writing on the spot.
 4. ~₦200,000 of my time
 
 **Caption**
+> The cost is the part that is always missing from these retrospectives, and it is the part that decides whether you should try it.
+> 
 > Anybody who tells you the ROI in one post is selling you something.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -17316,6 +17586,8 @@ writing on the spot.
 5. The 1-hour test
 
 **Caption**
+> Four of the five are reusable by anyone in any business, which is exactly why they travelled further than anything else.
+> 
 > Save this one. It is the whole month compressed.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -17373,6 +17645,8 @@ writing on the spot.
 3. You find it after, not before
 
 **Caption**
+> This is why a flat week is not evidence that the strategy failed. It is evidence that you have not yet found the twenty percent.
+> 
 > Volume is a search strategy, not an ambition.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -17427,6 +17701,8 @@ writing on the spot.
 4. 2 customers returned
 
 **Caption**
+> This is the whole theory of the month in one example: a change that costs nothing and can be verified by the person who made it.
+> 
 > One behaviour change in one business beats a thousand views.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -17480,6 +17756,8 @@ writing on the spot.
 3. The writing was suffering
 
 **Caption**
+> Batching is unglamorous and it is the difference between a month that survives contact with a busy week and one that collapses in week two.
+> 
 > The thing that gets squeezed is always the thing that matters most.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -17534,6 +17812,8 @@ writing on the spot.
 4. Retired
 
 **Caption**
+> The public statement is not for the audience. It is for the version of you who will be tired in three weeks.
+> 
 > Publish your decisions or you will reverse them quietly.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -17588,6 +17868,8 @@ writing on the spot.
 4. 1: fixed his listing
 
 **Caption**
+> Reporting the nos makes the yeses credible, which is the entire reason to do this on camera rather than in text.
+> 
 > Reach is smaller than the dashboard makes it feel. Say so.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -17642,6 +17924,8 @@ writing on the spot.
 4. PACK
 
 **Caption**
+> The last selling post of the month is the same offer as the first, which is the point. Nothing was invented to mark the occasion.
+> 
 > A closing post with no launch, no countdown, and no bonus.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -17698,6 +17982,8 @@ writing on the spot.
 4. Regretted: Thursday
 
 **Caption**
+> The discomfort of turning down money is immediate and the benefit is not, which is why so few people do it and why it is worth a post.
+> 
 > You can regret a decision and still be right about it.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -17755,6 +18041,8 @@ writing on the spot.
 5. 30 days
 
 **Caption**
+> None of it requires software, a team, or a budget. It requires a sheet, a decision about formats, and thirty days of not changing the plan.
+> 
 > Screenshot this. It is the entire month, in a form you can run.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -17818,6 +18106,8 @@ writing on the spot.
 4. 3× the enquiries
 
 **Caption**
+> It is embarrassing how long we took to take our own advice, and that embarrassment is the most useful thing in the post.
+> 
 > The advice we spent a month giving, applied to ourselves, in public.
 
 **Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
@@ -17875,6 +18165,8 @@ writing on the spot.
 4. 10% sell
 
 **Caption**
+> This is the one idea worth carrying into December, and it does not require posting more. It requires posting in this order.
+> 
 > The sell posts worked because of the twenty-seven days before them.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -17930,6 +18222,8 @@ writing on the spot.
 5. 1 sheet, 30 days
 
 **Caption**
+> Most content plans fail because they are too elaborate to repeat on a bad week. This one is deliberately small.
+> 
 > A system you can describe in one caption is a system you will actually run.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -17983,6 +18277,8 @@ writing on the spot.
 3. Same six weeks
 
 **Caption**
+> The honest version of the volume argument is not that more is better. It is that more is faster to learn from, and only if you read the sheet.
+> 
 > You can post less and learn less at the same speed.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
@@ -18037,6 +18333,8 @@ writing on the spot.
 4. 3 formats to cut
 
 **Caption**
+> Anyone can report a feeling. Reporting the numbers that are smaller than expected is what makes the numbers that are larger than expected believable.
+> 
 > A result you can defend with the sheet open is the only result worth reporting.
 
 **Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
@@ -18091,6 +18389,8 @@ writing on the spot.
 5. Sales
 
 **Caption**
+> A spreadsheet you fill in by hand forces you to look at every post, which is the actual benefit. The data is almost secondary.
+> 
 > Nine columns beat any dashboard with forty.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
@@ -18146,6 +18446,8 @@ writing on the spot.
 3. The day-3 message
 
 **Caption**
+> This is the test I would apply to any account, including mine: did anything you published get used by somebody within a day?
+> 
 > Judge posts by what someone can use before lunch.
 
 **Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
@@ -18200,6 +18502,8 @@ writing on the spot.
 4. So: 1 a day in December
 
 **Caption**
+> Committing to one thing publicly is worth more than a roadmap of nine, because one can be checked.
+> 
 > Ask, then commit to one thing. Not three.
 
 **Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
@@ -18255,6 +18559,8 @@ writing on the spot.
 5. No guarantees
 
 **Caption**
+> A price that has not moved in thirty days is a claim in itself, and it is the only one on this page that you can check for free.
+> 
 > The same price as day one, which is the point of the whole month.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
@@ -18310,6 +18616,8 @@ writing on the spot.
 3. We refused it
 
 **Caption**
+> This is the last refusal of the month and it is the one that explains all the others. Everything we turned down was some version of that same trade.
+> 
 > A lie needs maintenance. A limit does not.
 
 **Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
@@ -18364,6 +18672,8 @@ writing on the spot.
 4. Same 11 slots
 
 **Caption**
+> A clear ending is also a beginning, and the audience needs to know which one this is. Tomorrow is the same account with fewer things in it.
+> 
 > Tell people what is coming. It is the cheapest reason to come back.
 
 **Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips

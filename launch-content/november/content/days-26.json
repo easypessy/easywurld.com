@@ -14,16 +14,25 @@
         "tiktok": {
           "fmt": "Screen recording, 23s",
           "hook": "This business answers four questions nobody asked and none of the four that matter.",
-          "beats": ["Our journey", "Our values", "Our vision", "Price? Where? When? How?"],
+          "beats": [
+            "Our journey",
+            "Our values",
+            "Our vision",
+            "Price? Where? When? How?"
+          ],
           "vo": "This page answers four questions nobody asked: our journey, our values, our vision, and our commitment to excellence. It does not answer the four that matter: how much, where are you, when can I get it, and how do I pay. The questions nobody asked are the ones the owner wanted to answer. The ones that matter are the ones the customer walked in with.",
           "cap": "Answers: journey, values, vision. Questions: price, location, timing, payment.",
           "body": "The page answers journey, values, vision and commitment. It does not answer how much, where, when, or how to pay. The owner answered what they wanted to talk about, not what the customer walked in with."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Answered: our journey", "Answered: our values", "Unanswered: how much", "Unanswered: where"],
-          "cap": "The missing four are always the boring four.",
-          "body": "Price, place, timing, payment. They are unglamorous, they are the whole decision, and they are almost always the last thing a business writes about itself."
+          "slides": [
+            "Answered: our journey",
+            "Answered: our values",
+            "Unanswered: how much",
+            "Unanswered: where"
+          ],
+          "cap": "Price, place, timing, payment. They are unglamorous, they are the whole decision, and they are almost always the last thing a business writes about itself.\n\nThe missing four are always the boring four."
         },
         "facebook": {
           "fmt": "Text post",
@@ -39,16 +48,24 @@
         "tiktok": {
           "fmt": "Kinetic type, 16s",
           "hook": "Someone bought the chat pack and sent us one line. Here it is.",
-          "beats": ["One sentence", "Unedited", "From a real buyer", "That is the whole post"],
+          "beats": [
+            "One sentence",
+            "Unedited",
+            "From a real buyer",
+            "That is the whole post"
+          ],
           "vo": "Someone bought the chat pack and sent one line afterwards. It said: I used the price one and the man paid without arguing, first time in two years. I am not going to add anything to that, because anything I add would be me talking over the only useful review I have.",
           "cap": "\"I used the price one and the man paid without arguing, first time in two years.\"",
           "body": "One line from a real buyer, unedited: the price script, and the customer paid without arguing for the first time in two years. Anything added to that would be talking over the only review that matters."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["A buyer sent one line", "The price script", "\"First time in two years\""],
-          "cap": "One sentence, forwarded, is worth a page of adjectives.",
-          "body": "The most useful thing you can publish is a customer's own sentence, unedited, with permission. It does not need a design."
+          "slides": [
+            "A buyer sent one line",
+            "The price script",
+            "\"First time in two years\""
+          ],
+          "cap": "The most useful thing you can publish is a customer's own sentence, unedited, with permission. It does not need a design.\n\nOne sentence, forwarded, is worth a page of adjectives."
         },
         "facebook": {
           "fmt": "Text post",
@@ -64,16 +81,25 @@
         "tiktok": {
           "fmt": "Kinetic type, 20s",
           "hook": "Almost every buyer opens the checklist first. Not the guide. The checklist.",
-          "beats": ["Not the 20 page guide", "The one page list", "Because lists get done", "So put the list first"],
+          "beats": [
+            "Not the 20 page guide",
+            "The one page list",
+            "Because lists get done",
+            "So put the list first"
+          ],
           "vo": "Almost every buyer opens the checklist first, not the twenty page guide, because a list can be finished and a guide can only be started. Which means if you sell anything with a guide and a checklist, the checklist is the product and the guide is the reference. Put the list first in the folder, name it clearly, and watch how differently people use it.",
           "cap": "The checklist is the product. The guide is the reference. Order the folder that way.",
           "body": "A list can be finished; a guide can only be started. So the checklist is the product and the guide is the reference, which means the checklist goes first in the folder."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Guide: started", "Checklist: finished", "So checklist first", "Name it clearly"],
-          "cap": "Design for what gets finished, not what gets admired.",
-          "body": "This applies to onboarding, welcome emails, and any document with more than three pages. People complete short things and bookmark long ones."
+          "slides": [
+            "Guide: started",
+            "Checklist: finished",
+            "So checklist first",
+            "Name it clearly"
+          ],
+          "cap": "This applies to onboarding, welcome emails, and any document with more than three pages. People complete short things and bookmark long ones.\n\nDesign for what gets finished, not what gets admired."
         },
         "facebook": {
           "fmt": "Text post",
@@ -89,16 +115,24 @@
         "tiktok": {
           "fmt": "Talking head, 18s",
           "hook": "A template is only useful if it is editable. Otherwise it is a poster.",
-          "beats": ["Editable", "In the software you own", "Not a locked PDF", "A poster is decoration"],
+          "beats": [
+            "Editable",
+            "In the software you own",
+            "Not a locked PDF",
+            "A poster is decoration"
+          ],
           "vo": "A template is only useful if it is editable, in software you already have, without a subscription. A locked PDF is a poster, and posters decorate a room without changing anything in it. Which is why everything we sell opens in Word, Excel or a plain text file, and why I will keep saying that until the rest of the market stops shipping locked files.",
           "cap": "Editable, in software you already own. A locked PDF is a poster.",
           "body": "It has to be editable in software you already have, without a subscription. A locked PDF is a poster: it decorates a room without changing anything in it."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Template", "Must be editable", "Otherwise: a poster"],
-          "cap": "Ask what software it opens in before you buy it.",
-          "body": "This is the first question to ask about any template, and almost nobody asks it until they discover the file will not open."
+          "slides": [
+            "Template",
+            "Must be editable",
+            "Otherwise: a poster"
+          ],
+          "cap": "This is the first question to ask about any template, and almost nobody asks it until they discover the file will not open.\n\nAsk what software it opens in before you buy it."
         },
         "facebook": {
           "fmt": "Text post",
@@ -114,16 +148,25 @@
         "tiktok": {
           "fmt": "Talking head, 28s",
           "hook": "A buyer rewrote one of our scripts in Pidgin and sent it back to us.",
-          "beats": ["Same structure", "His words", "It was better", "That is the product working"],
+          "beats": [
+            "Same structure",
+            "His words",
+            "It was better",
+            "That is the product working"
+          ],
           "vo": "A buyer rewrote one of our scripts entirely in Pidgin and sent it to me as a thank you. Same structure, same three sentences, entirely his voice, and it was better than mine for his customer. That is not a problem with the script, that is the script working. A template you cannot personalise is a script you will never send.",
           "cap": "He rewrote it in Pidgin. That is the template working, not failing.",
           "body": "Same structure, three sentences, entirely his voice — and better than mine for his customer. A template you cannot personalise into your own words is a script you will never send."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Our script", "His Pidgin", "Same structure", "Better for his customer"],
-          "cap": "The words should sound like you. The structure can be borrowed.",
-          "body": "This is why we send editable files. The value is the shape of the sentence, not the vocabulary inside it."
+          "slides": [
+            "Our script",
+            "His Pidgin",
+            "Same structure",
+            "Better for his customer"
+          ],
+          "cap": "This is why we send editable files. The value is the shape of the sentence, not the vocabulary inside it.\n\nThe words should sound like you. The structure can be borrowed."
         },
         "facebook": {
           "fmt": "Text post",
@@ -139,16 +182,25 @@
         "tiktok": {
           "fmt": "Kinetic type, 22s",
           "hook": "Edit every script into your own voice. A script in the wrong voice is worse than none.",
-          "beats": ["Read it out loud", "Change the words you would not say", "Cut a sentence", "Then it is yours"],
+          "beats": [
+            "Read it out loud",
+            "Change the words you would not say",
+            "Cut a sentence",
+            "Then it is yours"
+          ],
           "vo": "Edit every script into your own voice before you send it. Read it out loud, change every word you would not say at the counter, and cut one sentence entirely. A script in somebody else's voice is worse than no script, because the customer can hear the costume, and a costume in a negotiation reads as a business that does not know what it is doing.",
           "cap": "Read it out loud. Change what you would not say. Cut one line. Now it is yours.",
           "body": "Read it out loud, change every word you would not say at the counter, cut one sentence. A script in someone else's voice is worse than none, because the customer can hear the costume."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Read it out loud", "Swap the words", "Cut one sentence", "Send it"],
-          "cap": "The costume is always audible in a negotiation.",
-          "body": "This is a five minute edit, and it is the difference between sounding like a professional and sounding like a leaflet."
+          "slides": [
+            "Read it out loud",
+            "Swap the words",
+            "Cut one sentence",
+            "Send it"
+          ],
+          "cap": "This is a five minute edit, and it is the difference between sounding like a professional and sounding like a leaflet.\n\nThe costume is always audible in a negotiation."
         },
         "facebook": {
           "fmt": "Text post",
@@ -164,16 +216,24 @@
         "tiktok": {
           "fmt": "Kinetic type, 17s",
           "hook": "Nobody's first attempt sounds like them. Rewrite it twice.",
-          "beats": ["First draft: stiff", "Second: clearer", "Third: yours", "So do three"],
+          "beats": [
+            "First draft: stiff",
+            "Second: clearer",
+            "Third: yours",
+            "So do three"
+          ],
           "vo": "Nobody's first attempt sounds like them, and that includes professional writers. The first draft is stiff because you are trying to be correct. The second is clearer because you stopped performing. The third sounds like you, because by then you are bored of yourself and boredom is where the voice lives. So do three, and send the third.",
           "cap": "First draft: correct. Second: clear. Third: yours. Send the third.",
           "body": "The first draft is stiff because you are trying to be correct. The second is clearer because you stopped performing. By the third you are bored of yourself, and boredom is where the voice lives."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["1: correct", "2: clear", "3: yours"],
-          "cap": "Boredom is where your voice lives.",
-          "body": "This is a useful thing to know before you decide you are bad at writing. You are not bad at it, you are on draft one."
+          "slides": [
+            "1: correct",
+            "2: clear",
+            "3: yours"
+          ],
+          "cap": "This is a useful thing to know before you decide you are bad at writing. You are not bad at it, you are on draft one.\n\nBoredom is where your voice lives."
         },
         "facebook": {
           "fmt": "Text post",
@@ -189,16 +249,24 @@
         "tiktok": {
           "fmt": "Street interview, 25s",
           "hook": "I asked if people would use words someone else wrote for them.",
-          "beats": ["Most said yes", "With one condition", "Only if I can change them", "Which is why ours are editable"],
+          "beats": [
+            "Most said yes",
+            "With one condition",
+            "Only if I can change them",
+            "Which is why ours are editable"
+          ],
           "vo": "I asked people whether they would use words somebody else wrote for them. Most said yes, with one condition: only if I can change them. Which is the entire product specification, arrived at by strangers in four seconds. Not better words. Editable words. Words you can bend into the way you actually talk, because the customer has met you and will notice if the message sounds like a company.",
           "cap": "\"Only if I can change them.\" That is the whole product spec.",
           "body": "Most said yes, with one condition: only if I can change them. Not better words — editable words, bent into the way you actually talk, because your customer has met you."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Would you use a script?", "Yes, if...", "I can change it"],
-          "cap": "Editable is the feature. Everything else is packaging.",
-          "body": "This is the answer that shaped what we ship: Word and Excel, never locked, never behind a subscription."
+          "slides": [
+            "Would you use a script?",
+            "Yes, if...",
+            "I can change it"
+          ],
+          "cap": "This is the answer that shaped what we ship: Word and Excel, never locked, never behind a subscription.\n\nEditable is the feature. Everything else is packaging."
         },
         "facebook": {
           "fmt": "Text post",
@@ -214,16 +282,25 @@
         "tiktok": {
           "fmt": "Overhead shot, 22s",
           "hook": "Everything we sell is editable. Word, Excel, plain text. That is deliberate.",
-          "beats": ["No locked PDFs", "No subscriptions", "Open it and change it", "Then it is yours"],
+          "beats": [
+            "No locked PDFs",
+            "No subscriptions",
+            "Open it and change it",
+            "Then it is yours"
+          ],
           "vo": "Everything we sell opens in Word, Excel or a plain text file, and it is all editable, and that is deliberate. No locked PDFs, no subscriptions, no software to buy. Open the file, cross out my words, put yours in, and send it to a real customer. A pack you cannot edit is a pack you will not use, which makes it decoration with a price.",
           "cap": "Word, Excel, plain text. Editable, no subscription. ₦5,000 each. WhatsApp 0905 069 0837.",
           "body": "Word, Excel, plain text. No locked PDFs, no subscriptions, no software to buy. Open the file, cross out my words, put yours in, send it to a real customer."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Word", "Excel", "Plain text", "No subscription"],
-          "cap": "Editable is not a feature list. It is the difference between use and storage.",
-          "body": "The file format is part of the product. A document you cannot open on your phone at 9pm is a document you will not use at 9pm."
+          "slides": [
+            "Word",
+            "Excel",
+            "Plain text",
+            "No subscription"
+          ],
+          "cap": "The file format is part of the product. A document you cannot open on your phone at 9pm is a document you will not use at 9pm.\n\nEditable is not a feature list. It is the difference between use and storage."
         },
         "facebook": {
           "fmt": "Text post",
@@ -239,16 +316,24 @@
         "tiktok": {
           "fmt": "Talking head, 29s",
           "hook": "Someone asked us to lock the files so they could not be edited. We said no.",
-          "beats": ["Locking looks like protection", "It is a wall", "The words are yours", "You bought them"],
+          "beats": [
+            "Locking looks like protection",
+            "It is a wall",
+            "The words are yours",
+            "You bought them"
+          ],
           "vo": "Someone suggested we lock the files so buyers could not change them, to protect the brand voice. We said no, twice. Locking a file protects the writer's ego, not the buyer's business, and the words stop being useful the moment they cannot be bent into the way a real person talks. You buy the words. They are yours. Cross them out.",
           "cap": "You bought the words. They are yours. Cross them out.",
           "body": "Locking protects the writer's ego, not the buyer's business. The words stop being useful the moment they cannot be bent into the way a real person talks."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Asked: lock the files", "Said: no", "You own the words"],
-          "cap": "A locked template is a museum piece. You need a tool.",
-          "body": "Ownership is the difference between a purchase and a rental, and buyers can feel which one they are getting."
+          "slides": [
+            "Asked: lock the files",
+            "Said: no",
+            "You own the words"
+          ],
+          "cap": "Ownership is the difference between a purchase and a rental, and buyers can feel which one they are getting.\n\nA locked template is a museum piece. You need a tool."
         },
         "facebook": {
           "fmt": "Text post",
@@ -264,16 +349,25 @@
         "tiktok": {
           "fmt": "Kinetic type, 20s",
           "hook": "Tonight, rewrite one script in your own words. Then use it tomorrow.",
-          "beats": ["Pick the price one", "Rewrite it", "Say it out loud", "Send it tomorrow"],
+          "beats": [
+            "Pick the price one",
+            "Rewrite it",
+            "Say it out loud",
+            "Send it tomorrow"
+          ],
           "vo": "Tonight, pick one script, rewrite it in your own words, read it out loud once, and send it to a real customer tomorrow. Not all thirty six. One. Rewritten, said out loud, sent within twenty four hours. That is the whole homework, and the people who do it are the only ones who ever tell me the pack worked.",
           "cap": "One script. Rewritten tonight. Sent tomorrow. That is the whole homework.",
           "body": "Not all thirty-six. One, rewritten, said out loud once, sent within twenty-four hours. The people who do that are the only ones who ever report back."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Pick one", "Rewrite it", "Say it out loud", "Send tomorrow"],
-          "cap": "A pack becomes useful the moment one line leaves your phone.",
-          "body": "Twenty-four hours is the difference between a purchase and a folder. Put the deadline on yourself before the enthusiasm fades."
+          "slides": [
+            "Pick one",
+            "Rewrite it",
+            "Say it out loud",
+            "Send tomorrow"
+          ],
+          "cap": "Twenty-four hours is the difference between a purchase and a folder. Put the deadline on yourself before the enthusiasm fades.\n\nA pack becomes useful the moment one line leaves your phone."
         },
         "facebook": {
           "fmt": "Text post",

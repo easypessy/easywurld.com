@@ -27,13 +27,31 @@ Writes into this folder:
 
 ## Content status
 
-| Days | State |
-|---|---|
-| 1–2 | **Written to the final word** — `content/days-01-02.json` (22 core posts, 66 published) |
-| 3–30 | **Planned line by line** in `marketing/november/CALENDAR.md` — hooks and turns fixed, scripts to write |
+**All 30 days are written to the final word.** 330 core posts, 990 scheduled pieces,
+TikTok + Instagram + Facebook on every single one. No LinkedIn. No placeholders.
 
-To add days, create `content/days-NN-NN.json` in the same schema and rebuild. The app, the month
-doc and the CSV all regenerate from the JSON, so nothing can drift.
+| Days | File | Core posts |
+|---|---|---|
+| 1–2 | `content/days-01-02.json` | 22 |
+| 3–4 | `content/days-03-04.json` | 22 |
+| 5–6 | `content/days-05-06.json` | 22 |
+| 7–8 | `content/days-07-08.json` | 22 |
+| 9–10 | `content/days-09-10.json` | 22 |
+| 11–12 | `content/days-11-12.json` | 22 |
+| 13–14 | `content/days-13-14.json` | 22 |
+| 15–16 | `content/days-15-16.json` | 22 |
+| 17–18 | `content/days-17-18.json` | 22 |
+| 19–30 | `content/days-19.json` … `days-30.json` | 11 each |
+
+`node launch-content/november/build/validate.mjs` (no flags) passes on the full month:
+**30 days, 330 core posts, 990 scheduled pieces, Entertain 210 / Teach 90 / Sell 30** — 64 / 27 / 9,
+against a 60 / 30 / 10 target.
+
+To add or change days, edit the JSON in the same schema and rebuild. The app, the month doc,
+the CSV and the meme bank all regenerate from the JSON, so nothing can drift.
+
+`MEME_BANK.md` is generated and intentionally empty: the meme show was cut after the
+October scoring round (3.0, no conversations). The file explains how to bring it back.
 
 ## The schema
 

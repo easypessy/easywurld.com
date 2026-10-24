@@ -14,16 +14,25 @@
         "tiktok": {
           "fmt": "Screen recording, 24s",
           "hook": "This business bought adverts before it fixed the reply, so the adverts made everything worse.",
-          "beats": ["Spending every week", "Messages arriving", "Replies taking two days", "So they paid to be ignored"],
+          "beats": [
+            "Spending every week",
+            "Messages arriving",
+            "Replies taking two days",
+            "So they paid to be ignored"
+          ],
           "vo": "This business bought adverts for four months before it fixed the reply, which means every week they paid to send strangers into a chat where nobody answered for two days. More reach made it worse, because more people arrived to be ignored. The leak was never at the top. It was three days downstream of the money.",
           "cap": "The leak was not at the top. It was three days downstream of the money.",
           "body": "Four months of adverts sending strangers into a chat nobody answered for two days. More reach made it worse — more people arrived to be ignored. The leak was downstream, not at the top."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Spend: up", "Messages: arriving", "Replies: 2 days", "Result: paid to be ignored"],
-          "cap": "Fix the answer before you buy the question.",
-          "body": "The cheapest audit in any small business is not the advert account. It is the last twenty conversations, read in order, with the timestamps."
+          "slides": [
+            "Spend: up",
+            "Messages: arriving",
+            "Replies: 2 days",
+            "Result: paid to be ignored"
+          ],
+          "cap": "The cheapest audit in any small business is not the advert account. It is the last twenty conversations, read in order, with the timestamps.\n\nFix the answer before you buy the question."
         },
         "facebook": {
           "fmt": "Text post",
@@ -39,16 +48,24 @@
         "tiktok": {
           "fmt": "Kinetic type, 18s",
           "hook": "We will not sell you a website you do not need. Ask us first, it is free.",
-          "beats": ["Sometimes the answer is no", "Sometimes it is your replies", "Sometimes it is a sentence", "Ask and find out"],
+          "beats": [
+            "Sometimes the answer is no",
+            "Sometimes it is your replies",
+            "Sometimes it is a sentence",
+            "Ask and find out"
+          ],
           "vo": "We will not sell you a website you do not need. Sometimes the answer is that your replies are the problem. Sometimes it is one sentence on the page you already have. Sometimes it is that nobody can find you and a site would not help. Ask first, it is free, and I would rather tell you no than take four thousand naira and watch you get nothing.",
           "cap": "Ask before you buy. Sometimes the answer is \"not yet\", and that is free to hear.",
           "body": "Sometimes the answer is your replies. Sometimes it is one sentence on the page you already have. Sometimes it is that nobody can find you. Ask first, it is free."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Ask us first", "Sometimes: no", "That answer is free"],
-          "cap": "The most profitable sentence in sales is sometimes 'not yet'.",
-          "body": "Saying no to the wrong project protects the referral, and referrals are the only marketing a small studio actually has."
+          "slides": [
+            "Ask us first",
+            "Sometimes: no",
+            "That answer is free"
+          ],
+          "cap": "Saying no to the wrong project protects the referral, and referrals are the only marketing a small studio actually has.\n\nThe most profitable sentence in sales is sometimes 'not yet'."
         },
         "facebook": {
           "fmt": "Text post",
@@ -64,16 +81,25 @@
         "tiktok": {
           "fmt": "Kinetic type, 22s",
           "hook": "Three things we always refuse: fake proof, fake urgency, fake results.",
-          "beats": ["No invented testimonials", "No countdown that resets", "No promises", "Write yours"],
+          "beats": [
+            "No invented testimonials",
+            "No countdown that resets",
+            "No promises",
+            "Write yours"
+          ],
           "vo": "Three things we always refuse. Fake proof, meaning testimonials and logos that were not earned. Fake urgency, meaning countdowns that reset and stock levels that are not real. And fake results, meaning any promise about an outcome we do not control. Write your own three, publish them, and then you have a policy instead of a mood, which is the difference between a standard and a preference.",
           "cap": "Fake proof. Fake urgency. Fake results. Write your three and publish them.",
           "body": "Fake proof, fake urgency, fake results. Write your own three and publish them — that is the difference between a standard and a preference."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["We refuse: fake proof", "We refuse: fake urgency", "We refuse: fake results", "What do you refuse?"],
-          "cap": "A published refusal list is a standard. An unpublished one is a mood.",
-          "body": "This works for any business. Three sentences, on the about page, and suddenly the rest of the page has something to be consistent with."
+          "slides": [
+            "We refuse: fake proof",
+            "We refuse: fake urgency",
+            "We refuse: fake results",
+            "What do you refuse?"
+          ],
+          "cap": "This works for any business. Three sentences, on the about page, and suddenly the rest of the page has something to be consistent with.\n\nA published refusal list is a standard. An unpublished one is a mood."
         },
         "facebook": {
           "fmt": "Text post",
@@ -89,16 +115,24 @@
         "tiktok": {
           "fmt": "Talking head, 20s",
           "hook": "The best marketing decision is usually not yet. Spend it on the leak instead.",
-          "beats": ["Not yet", "Fix the leak", "Then buy attention", "In that order"],
+          "beats": [
+            "Not yet",
+            "Fix the leak",
+            "Then buy attention",
+            "In that order"
+          ],
           "vo": "The best marketing decision is usually not yet, because buying attention before you can hold it is the most reliable way to waste money in this business. Fix the leak: the reply time, the first sentence, the price being visible. Then buy attention, because now attention converts. Same budget, different order, wildly different year.",
           "cap": "Attention before a working funnel is a donation with analytics.",
           "body": "Same budget, different order. Fix reply time, first sentence, visible price — then buy attention, because now attention converts."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Not yet", "Fix the leak", "Then buy attention"],
-          "cap": "A donation with analytics is still a donation.",
-          "body": "This is hard advice to follow when you are impatient, which is why it is worth writing down before the impatience arrives."
+          "slides": [
+            "Not yet",
+            "Fix the leak",
+            "Then buy attention"
+          ],
+          "cap": "This is hard advice to follow when you are impatient, which is why it is worth writing down before the impatience arrives.\n\nA donation with analytics is still a donation."
         },
         "facebook": {
           "fmt": "Text post",
@@ -114,16 +148,25 @@
         "tiktok": {
           "fmt": "Talking head, 30s",
           "hook": "We talked someone out of a project this month, and it was the best work we did for them.",
-          "beats": ["They wanted a new site", "Their site was fine", "The problem was they had no traffic", "And no way to capture it"],
+          "beats": [
+            "They wanted a new site",
+            "Their site was fine",
+            "The problem was they had no traffic",
+            "And no way to capture it"
+          ],
           "vo": "We talked someone out of a new website this month. Their site was fine. The problem was that nobody was arriving and nothing captured the people who did. So they spent the money on three months of local ads and a proper WhatsApp reply system instead, and they got customers. We lost a project and gained a reference, which in a market this small is the better trade.",
           "cap": "We lost a project and gained a reference. That is the better trade here.",
           "body": "Their site was fine. Nobody was arriving and nothing captured the people who did. They spent the money on local ads and a reply system instead. We lost the project and gained a reference."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["They wanted a new site", "Their site was fine", "Traffic was the problem", "We said spend elsewhere"],
-          "cap": "Turning down the wrong project is how you get the right ones.",
-          "body": "In a small market, the person you talked out of a bad purchase tells three people. The person you sold a bad purchase also tells three people, but differently."
+          "slides": [
+            "They wanted a new site",
+            "Their site was fine",
+            "Traffic was the problem",
+            "We said spend elsewhere"
+          ],
+          "cap": "In a small market, the person you talked out of a bad purchase tells three people. The person you sold a bad purchase also tells three people, but differently.\n\nTurning down the wrong project is how you get the right ones."
         },
         "facebook": {
           "fmt": "Text post",
@@ -139,16 +182,24 @@
         "tiktok": {
           "fmt": "Kinetic type, 21s",
           "hook": "Ask any agency what they would refuse to do. Their answer is the whole interview.",
-          "beats": ["Not their portfolio", "Not their awards", "What they refuse", "Then you know"],
+          "beats": [
+            "Not their portfolio",
+            "Not their awards",
+            "What they refuse",
+            "Then you know"
+          ],
           "vo": "Ask any agency or freelancer what they would refuse to do, and listen to how quickly the answer comes. If they have a list, they have standards and you can predict how the project will go. If they say nothing, they are for hire in every direction, which means your project is the first thing that will get bent when the money runs short. One question, better than a portfolio.",
           "cap": "The refusal list is the portfolio. Everything else is decoration.",
           "body": "A list of refusals means standards, and standards mean you can predict how a project will go. Silence means the project bends the moment money runs short."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Ask: what won't you do?", "A list means standards", "Silence means a bend"],
-          "cap": "Paste this question into your next supplier conversation.",
-          "body": "It works for builders, tailors, caterers and agencies. The speed of the answer tells you more than the content."
+          "slides": [
+            "Ask: what won't you do?",
+            "A list means standards",
+            "Silence means a bend"
+          ],
+          "cap": "It works for builders, tailors, caterers and agencies. The speed of the answer tells you more than the content.\n\nPaste this question into your next supplier conversation."
         },
         "facebook": {
           "fmt": "Text post",
@@ -164,16 +215,24 @@
         "tiktok": {
           "fmt": "Kinetic type, 15s",
           "hook": "Nobody has ever regretted asking \"do I need this?\" Plenty have regretted not asking.",
-          "beats": ["One question", "Before you pay", "Ten seconds", "Then decide"],
+          "beats": [
+            "One question",
+            "Before you pay",
+            "Ten seconds",
+            "Then decide"
+          ],
           "vo": "Nobody has ever regretted asking do I need this before buying something. Plenty have regretted not asking, and you can hear them in the reviews. One question, ten seconds, and it works on software, on adverts, on courses, on packs, including mine, which is why I put it on my own sales page.",
           "cap": "Ask \"do I need this?\" before you pay. Ten seconds, no downside.",
           "body": "One question, ten seconds, and it works on software, adverts, courses and packs — including ours, which is why we put it on the sales page."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Before you pay", "Do I need this?", "Ten seconds"],
-          "cap": "The question has no downside and the answer is usually clear.",
-          "body": "If the answer is 'maybe', wait a day. Most purchases survive one night of thinking and the ones that do not were never going to be used."
+          "slides": [
+            "Before you pay",
+            "Do I need this?",
+            "Ten seconds"
+          ],
+          "cap": "If the answer is 'maybe', wait a day. Most purchases survive one night of thinking and the ones that do not were never going to be used.\n\nThe question has no downside and the answer is usually clear."
         },
         "facebook": {
           "fmt": "Text post",
@@ -189,16 +248,24 @@
         "tiktok": {
           "fmt": "Street interview, 26s",
           "hook": "I asked if a seller had ever told them not to buy something. Almost nobody had been told, and everyone remembered when they were.",
-          "beats": ["Rare", "Remembered", "Years later", "That is the whole advertisement"],
+          "beats": [
+            "Rare",
+            "Remembered",
+            "Years later",
+            "That is the whole advertisement"
+          ],
           "vo": "I asked people whether a seller had ever told them not to buy something. Almost nobody had, and the few who had remembered the shop, the product, and roughly what year it was. One woman said she has been going back to that shop for nine years because of one sentence. That is what a refusal buys you: a customer who tells the story for a decade.",
           "cap": "Almost nobody had been told not to buy. Everyone who had remembered it for years.",
           "body": "Almost nobody had been told not to buy something, and the few who had remembered the shop, the product and roughly what year it was. One woman had been going back for nine years."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Told not to buy: rare", "Remembered: always", "For years"],
-          "cap": "A refusal is the only marketing that gets retold for free.",
-          "body": "This is the strongest argument for honesty in sales that I have found, and it came from strangers on a street rather than a book."
+          "slides": [
+            "Told not to buy: rare",
+            "Remembered: always",
+            "For years"
+          ],
+          "cap": "This is the strongest argument for honesty in sales that I have found, and it came from strangers on a street rather than a book.\n\nA refusal is the only marketing that gets retold for free."
         },
         "facebook": {
           "fmt": "Text post",
@@ -214,16 +281,25 @@
         "tiktok": {
           "fmt": "Overhead shot, 25s",
           "hook": "If you want it built for you, that is a project, not a pack. Message us and we will say if we can help.",
-          "beats": ["Packs: files", "Projects: people", "Different price", "Different promise"],
+          "beats": [
+            "Packs: files",
+            "Projects: people",
+            "Different price",
+            "Different promise"
+          ],
           "vo": "If you want the work done for you, that is a project, not a pack. A pack is files you open. A project is a person, a date, and a number that is much bigger than five thousand, and I will tell you honestly whether your job is one I can do well. Some are. Some I will pass to somebody else who does that thing better, and I will say which is which.",
           "cap": "Packs are files. Projects are people. Message PROJECT on WhatsApp 0905 069 0837 and we will say honestly.",
           "body": "A pack is files you open. A project is a person, a date and a number much bigger than five thousand. I will tell you honestly which one your job is, and pass it on if it is not mine."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Packs: files", "Projects: people and dates", "Different prices", "Ask which you need"],
-          "cap": "Two products, two promises. Confusing them costs both of us.",
-          "body": "Most bad agency experiences start with a client buying a project expecting a pack, or a pack expecting a project."
+          "slides": [
+            "Packs: files",
+            "Projects: people and dates",
+            "Different prices",
+            "Ask which you need"
+          ],
+          "cap": "Most bad agency experiences start with a client buying a project expecting a pack, or a pack expecting a project.\n\nTwo products, two promises. Confusing them costs both of us."
         },
         "facebook": {
           "fmt": "Text post",
@@ -239,16 +315,24 @@
         "tiktok": {
           "fmt": "Talking head, 32s",
           "hook": "The project we declined this month was a full ecommerce build for a business with no stock.",
-          "beats": ["Beautiful shop", "Nothing to put in it", "Six weeks of work", "And nothing to sell"],
+          "beats": [
+            "Beautiful shop",
+            "Nothing to put in it",
+            "Six weeks of work",
+            "And nothing to sell"
+          ],
           "vo": "The project we declined this month was a full online shop for a business that did not yet have stock. A beautiful storefront with nothing behind it, six weeks of work, and the first customer would have found an empty catalogue. We suggested they sell through WhatsApp for three months first, prove people want the thing, then build. They did. They are not ready for a shop yet, and now they know.",
           "cap": "A shop with no stock is a six week way to find out nobody could buy.",
           "body": "A full storefront with nothing behind it, six weeks of work, and the first customer finds an empty catalogue. Sell through WhatsApp for three months first, prove demand, then build."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Wanted: online shop", "Had: no stock", "Suggested: WhatsApp first"],
-          "cap": "Prove the demand before you build the storefront.",
-          "body": "The cheapest ecommerce platform in Lagos is a WhatsApp catalogue and a spreadsheet. It also tells you whether anyone wants the product at all."
+          "slides": [
+            "Wanted: online shop",
+            "Had: no stock",
+            "Suggested: WhatsApp first"
+          ],
+          "cap": "The cheapest ecommerce platform in Lagos is a WhatsApp catalogue and a spreadsheet. It also tells you whether anyone wants the product at all.\n\nProve the demand before you build the storefront."
         },
         "facebook": {
           "fmt": "Text post",
@@ -264,16 +348,25 @@
         "tiktok": {
           "fmt": "Kinetic type, 22s",
           "hook": "Three questions before any marketing spend: what leaks, what changes, who owns it.",
-          "beats": ["What leaks", "What changes if it works", "Who owns the asset", "If any answer is unclear, wait"],
+          "beats": [
+            "What leaks",
+            "What changes if it works",
+            "Who owns the asset",
+            "If any answer is unclear, wait"
+          ],
           "vo": "Three questions before any marketing spend. What leaks, meaning where are you currently losing people. What changes if this works, meaning do you have the capacity to handle double the messages. And who owns it, meaning the domain, the account, the list. If any of the three is unclear, wait a week, because the money is easier to keep than to earn back.",
           "cap": "What leaks · what changes · who owns it. Ask all three before you pay.",
           "body": "Where are you losing people, can you handle double the messages, and who owns the domain, account and list. If any answer is unclear, wait a week."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["1. What leaks?", "2. What changes if it works?", "3. Who owns it?", "If unclear, wait"],
-          "cap": "Three questions that cost nothing and save everything.",
-          "body": "The second question is the one nobody asks, and it is the one that turns a good campaign into a bad month."
+          "slides": [
+            "1. What leaks?",
+            "2. What changes if it works?",
+            "3. Who owns it?",
+            "If unclear, wait"
+          ],
+          "cap": "The second question is the one nobody asks, and it is the one that turns a good campaign into a bad month.\n\nThree questions that cost nothing and save everything."
         },
         "facebook": {
           "fmt": "Text post",

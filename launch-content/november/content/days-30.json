@@ -14,16 +14,25 @@
         "tiktok": {
           "fmt": "Screen recording, 27s",
           "hook": "We fixed our own page this month. Here is the before and after, no editing tricks.",
-          "beats": ["Before: helping brands tell their story", "After: we write the words on your homepage", "Same business", "32 more enquiries"],
+          "beats": [
+            "Before: helping brands tell their story",
+            "After: we write the words on your homepage",
+            "Same business",
+            "32 more enquiries"
+          ],
           "vo": "We fixed our own page this month, which is the only fair way to end a month of telling other people to fix theirs. Before, it said helping brands tell their story, which is what everybody says. After, it says we write the words on your homepage, in eight words, and asks for a link. Same business, same prices, three times the enquiries, and the only thing that changed was one sentence.",
           "cap": "\"Helping brands tell their story\" → \"We write the words on your homepage.\" 3× the enquiries.",
           "body": "Before: helping brands tell their story. After: we write the words on your homepage. Same business, same prices, three times the enquiries, one sentence changed."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Before: helping brands tell their story", "After: we write your homepage", "Same business", "3× the enquiries"],
-          "cap": "The advice we spent a month giving, applied to ourselves, in public.",
-          "body": "It is embarrassing how long we took to take our own advice, and that embarrassment is the most useful thing in the post."
+          "slides": [
+            "Before: helping brands tell their story",
+            "After: we write your homepage",
+            "Same business",
+            "3× the enquiries"
+          ],
+          "cap": "It is embarrassing how long we took to take our own advice, and that embarrassment is the most useful thing in the post.\n\nThe advice we spent a month giving, applied to ourselves, in public."
         },
         "facebook": {
           "fmt": "Text post",
@@ -39,16 +48,25 @@
         "tiktok": {
           "fmt": "Kinetic type, 22s",
           "hook": "Nobody is on social to be sold to. So we entertained first. Here is what happened.",
-          "beats": ["Sixty percent entertaining", "Thirty teaching", "Ten selling", "And the ten worked"],
+          "beats": [
+            "Sixty percent entertaining",
+            "Thirty teaching",
+            "Ten selling",
+            "And the ten worked"
+          ],
           "vo": "Nobody is on social to be sold to, so we entertained first, taught the ones who were interested, and made it as easy as possible for the ones who had already decided. Sixty, thirty, ten. What happened was not a viral month. What happened was that the sell posts did not feel like a betrayal, because they arrived after three weeks of being useful and nobody had to be tricked into watching them.",
           "cap": "Entertain everyone, teach the interested, make it easy for the decided. 60/30/10.",
           "body": "Entertained first, taught the interested, made it easy for the decided. Sixty, thirty, ten. No viral month; the sell posts simply did not feel like a betrayal."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Nobody wants to be sold to", "60% entertain", "30% teach", "10% sell"],
-          "cap": "The sell posts worked because of the twenty-seven days before them.",
-          "body": "This is the one idea worth carrying into December, and it does not require posting more. It requires posting in this order."
+          "slides": [
+            "Nobody wants to be sold to",
+            "60% entertain",
+            "30% teach",
+            "10% sell"
+          ],
+          "cap": "This is the one idea worth carrying into December, and it does not require posting more. It requires posting in this order.\n\nThe sell posts worked because of the twenty-seven days before them."
         },
         "facebook": {
           "fmt": "Text post",
@@ -64,16 +82,26 @@
         "tiktok": {
           "fmt": "Kinetic type, 25s",
           "hook": "The whole system in one post: entertain, teach, sell. Sixty, thirty, ten.",
-          "beats": ["Seven entertain", "Three teach", "One sell", "Every day, same eleven"],
+          "beats": [
+            "Seven entertain",
+            "Three teach",
+            "One sell",
+            "Every day, same eleven"
+          ],
           "vo": "The whole system, in one post. Eleven slots a day. Seven entertain, three teach, one sell. Four repeating formats so you are not inventing from nothing every morning. One spreadsheet with a date and a time for each slot. Read it on the last day of the month, keep what worked, throw out the rest, and do it again. That is the entire system and it fits in a caption.",
           "cap": "11 slots · 7 entertain · 3 teach · 1 sell · 4 formats · 1 sheet · 30 days.",
           "body": "Eleven slots, seven entertain, three teach, one sell. Four repeating formats. One sheet with dates and times. Read it on the last day, keep what worked, repeat."
         },
         "instagram": {
           "fmt": "5-slide carousel",
-          "slides": ["11 slots a day", "7 entertain", "3 teach", "1 sell", "1 sheet, 30 days"],
-          "cap": "A system you can describe in one caption is a system you will actually run.",
-          "body": "Most content plans fail because they are too elaborate to repeat on a bad week. This one is deliberately small."
+          "slides": [
+            "11 slots a day",
+            "7 entertain",
+            "3 teach",
+            "1 sell",
+            "1 sheet, 30 days"
+          ],
+          "cap": "Most content plans fail because they are too elaborate to repeat on a bad week. This one is deliberately small.\n\nA system you can describe in one caption is a system you will actually run."
         },
         "facebook": {
           "fmt": "Text post",
@@ -89,16 +117,24 @@
         "tiktok": {
           "fmt": "Talking head, 21s",
           "hook": "Posting less would have been the bigger risk. Volume is how you find the twenty percent.",
-          "beats": ["Fewer posts", "Fewer attempts", "Fewer discoveries", "Same six weeks"],
+          "beats": [
+            "Fewer posts",
+            "Fewer attempts",
+            "Fewer discoveries",
+            "Same six weeks"
+          ],
           "vo": "Posting less would have been the bigger risk, and I know that is the opposite of what most advice says. Fewer posts means fewer attempts, which means fewer discoveries, and you would still spend the same six weeks finding out. Volume is not a virtue. It is a search method, and searching is the only way to find the twenty percent that carries everything.",
           "cap": "Volume is not a virtue. It is a search method.",
           "body": "Fewer posts means fewer attempts and fewer discoveries, and you would still spend the same six weeks finding out. Volume is a search method, not a virtue."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Fewer posts", "Fewer attempts", "Same six weeks"],
-          "cap": "You can post less and learn less at the same speed.",
-          "body": "The honest version of the volume argument is not that more is better. It is that more is faster to learn from, and only if you read the sheet."
+          "slides": [
+            "Fewer posts",
+            "Fewer attempts",
+            "Same six weeks"
+          ],
+          "cap": "The honest version of the volume argument is not that more is better. It is that more is faster to learn from, and only if you read the sheet.\n\nYou can post less and learn less at the same speed."
         },
         "facebook": {
           "fmt": "Text post",
@@ -114,16 +150,25 @@
         "tiktok": {
           "fmt": "Talking head, 30s",
           "hook": "What this month actually changed, and only what is true.",
-          "beats": ["No viral moment", "Some conversations", "One habit changed", "And we know what to cut"],
+          "beats": [
+            "No viral moment",
+            "Some conversations",
+            "One habit changed",
+            "And we know what to cut"
+          ],
           "vo": "What this month actually changed, and only what is true. No viral moment. A handful of conversations. One habit changed, which is answering faster. And we now know, from four weeks of evidence rather than a hunch, which three formats to cut and which one to double. That is a smaller result than a launch video would promise and it is the one I can defend in a room with the sheet in front of me.",
           "cap": "No viral moment. Some conversations. One habit changed. Three formats to cut.",
           "body": "One habit changed, which is answering faster. And four weeks of evidence on which three formats to cut. Smaller than a launch video would promise, and defensible with the sheet open."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["No viral moment", "A handful of conversations", "1 habit changed", "3 formats to cut"],
-          "cap": "A result you can defend with the sheet open is the only result worth reporting.",
-          "body": "Anyone can report a feeling. Reporting the numbers that are smaller than expected is what makes the numbers that are larger than expected believable."
+          "slides": [
+            "No viral moment",
+            "A handful of conversations",
+            "1 habit changed",
+            "3 formats to cut"
+          ],
+          "cap": "Anyone can report a feeling. Reporting the numbers that are smaller than expected is what makes the numbers that are larger than expected believable.\n\nA result you can defend with the sheet open is the only result worth reporting."
         },
         "facebook": {
           "fmt": "Text post",
@@ -139,16 +184,27 @@
         "tiktok": {
           "fmt": "Screen recording, 26s",
           "hook": "Here is the tracker, on camera, with the real columns and the real numbers.",
-          "beats": ["Date", "Format", "Views", "Saves", "Conversations"],
+          "beats": [
+            "Date",
+            "Format",
+            "Views",
+            "Saves",
+            "Conversations"
+          ],
           "vo": "Here is the tracker, on camera, with the real columns: date, day, format, type, views, saves, comments, conversations, and packs sold. Nine columns, one row per post, filled in every morning by hand. The only column that ever made me change what I post is conversations, and the only one that ever surprised me is saves, because saves and views have almost nothing to do with each other.",
           "cap": "Nine columns, one row a post, filled by hand. Conversations changed the plan. Saves surprised me.",
           "body": "Date, format, type, views, saves, comments, conversations, sales. Nine columns, filled by hand every morning. Conversations changed the plan; saves surprised me."
         },
         "instagram": {
           "fmt": "5-slide carousel",
-          "slides": ["Date + format", "Views + saves", "Comments", "Conversations", "Sales"],
-          "cap": "Nine columns beat any dashboard with forty.",
-          "body": "A spreadsheet you fill in by hand forces you to look at every post, which is the actual benefit. The data is almost secondary."
+          "slides": [
+            "Date + format",
+            "Views + saves",
+            "Comments",
+            "Conversations",
+            "Sales"
+          ],
+          "cap": "A spreadsheet you fill in by hand forces you to look at every post, which is the actual benefit. The data is almost secondary.\n\nNine columns beat any dashboard with forty."
         },
         "facebook": {
           "fmt": "Text post",
@@ -164,16 +220,24 @@
         "tiktok": {
           "fmt": "Talking head, 21s",
           "hook": "If we could keep one post from this month, it would be the day three message.",
-          "beats": ["Not the best performing", "Not the funniest", "The one that changes behaviour", "In eleven words"],
+          "beats": [
+            "Not the best performing",
+            "Not the funniest",
+            "The one that changes behaviour",
+            "In eleven words"
+          ],
           "vo": "If we could keep one post from the whole month, it would be the day three message, word for word. Not the best performing one, not the funniest one. That one, because it is the only thing we published that somebody can copy in ten seconds and use before lunch, and the whole account exists to produce things like that. Everything else was practice.",
           "cap": "One message, copyable in ten seconds, used before lunch. That is the whole point.",
           "body": "Not the best performer, not the funniest. The one somebody can copy in ten seconds and use before lunch. Everything else was practice."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Not the best performer", "The most copyable", "The day-3 message"],
-          "cap": "Judge posts by what someone can use before lunch.",
-          "body": "This is the test I would apply to any account, including mine: did anything you published get used by somebody within a day?"
+          "slides": [
+            "Not the best performer",
+            "The most copyable",
+            "The day-3 message"
+          ],
+          "cap": "This is the test I would apply to any account, including mine: did anything you published get used by somebody within a day?\n\nJudge posts by what someone can use before lunch."
         },
         "facebook": {
           "fmt": "Text post",
@@ -189,16 +253,25 @@
         "tiktok": {
           "fmt": "Street interview, 27s",
           "hook": "I asked what they want next month, then committed to one thing on camera.",
-          "beats": ["More teardowns", "More prices", "More of the chat stuff", "So: one teardown a day"],
+          "beats": [
+            "More teardowns",
+            "More prices",
+            "More of the chat stuff",
+            "So: one teardown a day"
+          ],
           "vo": "I asked people what they wanted next month. More teardowns came first, more real prices second, and one person asked for more of the chat scripts, which surprised me because they are the least visual thing we make. So here is the commitment, on camera: one teardown a day in December, every day, real businesses, three fixes each. If I do not do it, come back on the thirty first and say so.",
           "cap": "Committed on camera: one teardown a day in December. Hold me to it.",
           "body": "More teardowns, more real prices, more chat scripts. So the commitment, on camera: one teardown a day in December, real businesses, three fixes each."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Asked what they want", "More teardowns", "More real prices", "So: 1 a day in December"],
-          "cap": "Ask, then commit to one thing. Not three.",
-          "body": "Committing to one thing publicly is worth more than a roadmap of nine, because one can be checked."
+          "slides": [
+            "Asked what they want",
+            "More teardowns",
+            "More real prices",
+            "So: 1 a day in December"
+          ],
+          "cap": "Committing to one thing publicly is worth more than a roadmap of nine, because one can be checked.\n\nAsk, then commit to one thing. Not three."
         },
         "facebook": {
           "fmt": "Text post",
@@ -214,16 +287,26 @@
         "tiktok": {
           "fmt": "Overhead shot, 23s",
           "hook": "Last one of the month, so: everything, at the honest price, with the honest limits.",
-          "beats": ["Nine packs, five each", "All nine, thirty five", "No consulting", "Not a customer in sight"],
+          "beats": [
+            "Nine packs, five each",
+            "All nine, thirty five",
+            "No consulting",
+            "Not a customer in sight"
+          ],
           "vo": "Last selling post of the month, so here is everything at the price it will still be tomorrow. Nine packs at five thousand each, all nine for thirty five. No consulting, no calls, no guarantees, and none of it will bring you a customer. What it will do is give you better words for the customers you already have, which is the smaller and more reliable half of the problem.",
           "cap": "9 × ₦5,000 · all nine ₦35,000 · no consulting · no guarantees. PACK on WhatsApp 0905 069 0837.",
           "body": "Nine packs at five thousand, all nine for thirty-five. No consulting, no calls, no guarantees, and none of it will bring you a customer. Better words for the customers you already have."
         },
         "instagram": {
           "fmt": "5-slide carousel",
-          "slides": ["9 packs", "₦5,000 each", "All nine: ₦35,000", "No consulting", "No guarantees"],
-          "cap": "The same price as day one, which is the point of the whole month.",
-          "body": "A price that has not moved in thirty days is a claim in itself, and it is the only one on this page that you can check for free."
+          "slides": [
+            "9 packs",
+            "₦5,000 each",
+            "All nine: ₦35,000",
+            "No consulting",
+            "No guarantees"
+          ],
+          "cap": "A price that has not moved in thirty days is a claim in itself, and it is the only one on this page that you can check for free.\n\nThe same price as day one, which is the point of the whole month."
         },
         "facebook": {
           "fmt": "Text post",
@@ -239,16 +322,24 @@
         "tiktok": {
           "fmt": "Talking head, 33s",
           "hook": "The thing we refused this month was the easier version of this account.",
-          "beats": ["Bigger claims", "Invented results", "Fake countdowns", "It would have grown faster"],
+          "beats": [
+            "Bigger claims",
+            "Invented results",
+            "Fake countdowns",
+            "It would have grown faster"
+          ],
           "vo": "The thing we refused this month was the easier version of this account: bigger claims, a wall of invented results, countdowns that reset every Friday, and a course at the end of it. That version would probably have grown faster. It would also have been a thing I had to maintain, and I would rather spend the next year writing about quotes than defending a number I made up in November.",
           "cap": "The easier version would have grown faster. It would also have to be maintained.",
           "body": "Bigger claims, invented results, countdowns that reset, a course at the end. It would probably have grown faster, and it would have to be maintained forever."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Easier version: bigger claims", "Easier version: fake results", "We refused it"],
-          "cap": "A lie needs maintenance. A limit does not.",
-          "body": "This is the last refusal of the month and it is the one that explains all the others. Everything we turned down was some version of that same trade."
+          "slides": [
+            "Easier version: bigger claims",
+            "Easier version: fake results",
+            "We refused it"
+          ],
+          "cap": "This is the last refusal of the month and it is the one that explains all the others. Everything we turned down was some version of that same trade.\n\nA lie needs maintenance. A limit does not."
         },
         "facebook": {
           "fmt": "Text post",
@@ -264,16 +355,25 @@
         "tiktok": {
           "fmt": "Kinetic type, 21s",
           "hook": "December starts tomorrow. Here is exactly what is coming, and what is going.",
-          "beats": ["Staying: teardowns", "Staying: chat scripts", "Going: eight formats", "Same eleven slots"],
+          "beats": [
+            "Staying: teardowns",
+            "Staying: chat scripts",
+            "Going: eight formats",
+            "Same eleven slots"
+          ],
           "vo": "December starts tomorrow, so here is exactly what is coming. Teardowns stay, one a day. Chat scripts stay, because you asked. The quote lines stay. Everything else goes, which is eight formats, and it frees up the time to do the three that worked properly. Same eleven slots, same times, same sheet. See you tomorrow.",
           "cap": "Teardowns daily. Chat scripts stay. Eight formats go. Same eleven slots. See you tomorrow.",
           "body": "Teardowns daily, chat scripts stay, quote lines stay. Eight formats go, which frees the time to do three things properly. Same eleven slots."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Staying: teardowns", "Staying: chat scripts", "Going: eight formats", "Same 11 slots"],
-          "cap": "Tell people what is coming. It is the cheapest reason to come back.",
-          "body": "A clear ending is also a beginning, and the audience needs to know which one this is. Tomorrow is the same account with fewer things in it."
+          "slides": [
+            "Staying: teardowns",
+            "Staying: chat scripts",
+            "Going: eight formats",
+            "Same 11 slots"
+          ],
+          "cap": "A clear ending is also a beginning, and the audience needs to know which one this is. Tomorrow is the same account with fewer things in it.\n\nTell people what is coming. It is the cheapest reason to come back."
         },
         "facebook": {
           "fmt": "Text post",

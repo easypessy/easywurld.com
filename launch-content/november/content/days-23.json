@@ -14,16 +14,25 @@
         "tiktok": {
           "fmt": "Screen recording, 24s",
           "hook": "This sales page lists eighteen features and never says what you will be able to do.",
-          "beats": ["Templates", "Modules", "Format", "But what do I do on Monday"],
+          "beats": [
+            "Templates",
+            "Modules",
+            "Format",
+            "But what do I do on Monday"
+          ],
           "vo": "This sales page lists eighteen features: templates, modules, formats, a private community, lifetime access. Not once does it say what you will be able to do on Monday morning that you cannot do today. Features describe the object. Outcomes describe the person. Customers buy the second one and use the first one to justify it.",
           "cap": "Eighteen features. Zero sentences about what you can do afterwards.",
           "body": "Eighteen features and not one sentence about what the buyer can do on Monday that they cannot do today. Features describe the object; outcomes describe the person, and people buy the second."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["18 features", "0 outcomes", "What can I do after?", "Write that instead"],
-          "cap": "Features justify. Outcomes sell.",
-          "body": "The fix is not to remove the features, it is to put one sentence above them: after this, you will be able to ____. Everything below becomes supporting evidence."
+          "slides": [
+            "18 features",
+            "0 outcomes",
+            "What can I do after?",
+            "Write that instead"
+          ],
+          "cap": "The fix is not to remove the features, it is to put one sentence above them: after this, you will be able to ____. Everything below becomes supporting evidence.\n\nFeatures justify. Outcomes sell."
         },
         "facebook": {
           "fmt": "Text post",
@@ -39,16 +48,24 @@
         "tiktok": {
           "fmt": "Kinetic type, 18s",
           "hook": "A bundle that turns out to be one PDF is a lie with good design.",
-          "beats": ["Count the files", "Ask for the list", "Ours is thirty six", "Count them"],
+          "beats": [
+            "Count the files",
+            "Ask for the list",
+            "Ours is thirty six",
+            "Count them"
+          ],
           "vo": "A bundle that turns out to be one PDF is a lie with good design, and it happens constantly. So before you buy anything called a bundle, ask for the file list: names, formats, count. Ours is thirty six files across nine packs, and I am happy to be counted, because the count is the only claim you can check before you pay.",
           "cap": "Ask for the file list before you pay. Names, formats, count. Ours is 36.",
           "body": "Before buying anything called a bundle, ask for the file list: names, formats, count. Ours is thirty-six files across nine packs, and the count is the only claim you can check before paying."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["\"Bundle\"", "Ask: how many files?", "Ask: what are their names?"],
-          "cap": "A count you can verify before paying is worth more than any testimonial.",
-          "body": "Any seller who will not list the files is telling you something. It is usually that the list is short."
+          "slides": [
+            "\"Bundle\"",
+            "Ask: how many files?",
+            "Ask: what are their names?"
+          ],
+          "cap": "Any seller who will not list the files is telling you something. It is usually that the list is short.\n\nA count you can verify before paying is worth more than any testimonial."
         },
         "facebook": {
           "fmt": "Text post",
@@ -64,16 +81,25 @@
         "tiktok": {
           "fmt": "Kinetic type, 22s",
           "hook": "Show the file list, not the promise. Names, formats, count.",
-          "beats": ["Not beautiful", "Not aspirational", "A list", "Which is why it works"],
+          "beats": [
+            "Not beautiful",
+            "Not aspirational",
+            "A list",
+            "Which is why it works"
+          ],
           "vo": "Show the file list instead of the promise. Names, formats, count, in a plain list, on the page, before anybody pays. It is not beautiful and it is not aspirational, and it is the part of a sales page that closes, because a list is evidence and a promise is atmosphere. Every mystery box is asking you to trust the box.",
           "cap": "A plain file list closes more than a paragraph of promises.",
           "body": "Names, formats, count, in a plain list, before anybody pays. Not beautiful, not aspirational, and it is the part of the page that closes — a list is evidence, a promise is atmosphere."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Not the promise", "The list", "Names · formats · count", "Before payment"],
-          "cap": "Mystery boxes ask for trust they have not earned.",
-          "body": "You can apply this to your own offer immediately: write the inventory, not the adjectives. Six bullets will do more than a hero image."
+          "slides": [
+            "Not the promise",
+            "The list",
+            "Names · formats · count",
+            "Before payment"
+          ],
+          "cap": "You can apply this to your own offer immediately: write the inventory, not the adjectives. Six bullets will do more than a hero image.\n\nMystery boxes ask for trust they have not earned."
         },
         "facebook": {
           "fmt": "Text post",
@@ -89,16 +115,24 @@
         "tiktok": {
           "fmt": "Talking head, 19s",
           "hook": "Transparency about what is inside is the entire sales page. Nobody trusts a mystery box.",
-          "beats": ["What is inside", "What it costs", "What it will not do", "Everything else is decoration"],
+          "beats": [
+            "What is inside",
+            "What it costs",
+            "What it will not do",
+            "Everything else is decoration"
+          ],
           "vo": "Transparency about what is inside is the entire sales page. What is inside, what it costs, what it will not do. Those three things, in that order, and you have a page. Everything else is decoration people add because they are nervous about the price, and the nervousness is more visible than the price.",
           "cap": "Inside, price, limits. That is a sales page. The rest is nerves.",
           "body": "What is inside, what it costs, what it will not do. Three things, in that order, and you have a page. The rest is decoration people add because they are nervous about the price."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["What is inside", "What it costs", "What it will not do"],
-          "cap": "Nervousness about a price is more visible than the price.",
-          "body": "If you find yourself writing a fourth paragraph about the transformation, that is usually a sign you are unsure the inventory is strong enough."
+          "slides": [
+            "What is inside",
+            "What it costs",
+            "What it will not do"
+          ],
+          "cap": "If you find yourself writing a fourth paragraph about the transformation, that is usually a sign you are unsure the inventory is strong enough.\n\nNervousness about a price is more visible than the price."
         },
         "facebook": {
           "fmt": "Text post",
@@ -114,16 +148,25 @@
         "tiktok": {
           "fmt": "Talking head, 27s",
           "hook": "A buyer asked to see page one before paying. We sent it. She bought.",
-          "beats": ["One page", "Screenshot", "No watermark", "Then she paid"],
+          "beats": [
+            "One page",
+            "Screenshot",
+            "No watermark",
+            "Then she paid"
+          ],
           "vo": "Someone asked to see page one of the homepage pack before paying five thousand naira. We sent a screenshot of the actual page, no watermark, no tease. She bought about four minutes later and said she had been burned before by something that looked good on the cover. Sending one page cost us nothing and did what no testimonial could, because it was the thing itself.",
           "cap": "She asked for page one. We sent it. She bought four minutes later.",
           "body": "One screenshot of the actual page, no watermark, no tease. She bought four minutes later saying she had been burned by covers before. The thing itself beats any description of it."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["\"Can I see page one?\"", "Sent it", "No watermark", "Bought in 4 minutes"],
-          "cap": "Show the actual thing. It is the cheapest proof you own.",
-          "body": "If you are not willing to show one page before payment, ask yourself whether that is because it is precious or because it is thin."
+          "slides": [
+            "\"Can I see page one?\"",
+            "Sent it",
+            "No watermark",
+            "Bought in 4 minutes"
+          ],
+          "cap": "If you are not willing to show one page before payment, ask yourself whether that is because it is precious or because it is thin.\n\nShow the actual thing. It is the cheapest proof you own."
         },
         "facebook": {
           "fmt": "Text post",
@@ -139,16 +182,24 @@
         "tiktok": {
           "fmt": "Kinetic type, 21s",
           "hook": "Publish your contents page. It closes more than a testimonial.",
-          "beats": ["One page", "Every chapter title", "Public", "No email required"],
+          "beats": [
+            "One page",
+            "Every chapter title",
+            "Public",
+            "No email required"
+          ],
           "vo": "Publish the contents page of whatever you sell, publicly, with no email required. Every chapter title, every file name, in order. It closes more than a testimonial because it is the only proof a stranger can evaluate without trusting you, and it costs you one screenshot. The people who steal from a contents page were never going to buy the contents.",
           "cap": "One screenshot of the contents page. More persuasive than praise.",
           "body": "Every chapter title, every file name, in order, public, no email required. It is the only proof a stranger can evaluate without trusting you, and it costs one screenshot."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Contents page", "Published", "No email wall"],
-          "cap": "People who steal an outline were never buying the outline.",
-          "body": "An outline shows how much thinking went into the thing. A cover shows how much budget went into the design."
+          "slides": [
+            "Contents page",
+            "Published",
+            "No email wall"
+          ],
+          "cap": "An outline shows how much thinking went into the thing. A cover shows how much budget went into the design.\n\nPeople who steal an outline were never buying the outline."
         },
         "facebook": {
           "fmt": "Text post",
@@ -164,16 +215,24 @@
         "tiktok": {
           "fmt": "Kinetic type, 17s",
           "hook": "Thirty-six files is not automatically better than six. Only if you use them.",
-          "beats": ["More files is a fact", "Not a benefit", "The benefit", "Is one that gets used"],
+          "beats": [
+            "More files is a fact",
+            "Not a benefit",
+            "The benefit",
+            "Is one that gets used"
+          ],
           "vo": "Thirty six files is not automatically better than six. It is a fact about the product, not a benefit to you, and I say that about my own bundle. The benefit is that one of them is the file you actually needed, and if six would have done it, buy six. Volume is easy to produce and hard to use, which is why it makes such a good-looking number.",
           "cap": "More files is a fact. Using one is the benefit. Buy the smaller thing if it fits.",
           "body": "Volume is easy to produce and hard to use, which is exactly why it makes such a good-looking number on a sales page. One file that gets used beats thirty-six that do not."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["36 files: a fact", "One used: a benefit", "Buy fewer if fewer fits"],
-          "cap": "A seller who talks you down to the smaller pack is a seller you can trust.",
-          "body": "This is a general warning about the whole information economy, ours included. Counts are seductive and mostly irrelevant."
+          "slides": [
+            "36 files: a fact",
+            "One used: a benefit",
+            "Buy fewer if fewer fits"
+          ],
+          "cap": "This is a general warning about the whole information economy, ours included. Counts are seductive and mostly irrelevant.\n\nA seller who talks you down to the smaller pack is a seller you can trust."
         },
         "facebook": {
           "fmt": "Text post",
@@ -189,16 +248,24 @@
         "tiktok": {
           "fmt": "Street interview, 24s",
           "hook": "I asked if people would buy something without seeing what is inside. Nobody said yes.",
-          "beats": ["Not one person", "Even for small money", "Especially for small money", "It is the same five thousand"],
+          "beats": [
+            "Not one person",
+            "Even for small money",
+            "Especially for small money",
+            "It is the same five thousand"
+          ],
           "vo": "I asked whether people would pay for something without seeing what was inside. Not one person said yes, and a few were offended by the question. Five thousand naira is not a small amount to the person deciding whether to spend it, which is why the contents page is not generosity. It is the minimum, and most sellers skip it.",
           "cap": "Nobody buys a mystery box. Five thousand is not small to the person paying it.",
           "body": "Not one person said yes, and a few were offended by the question. Five thousand naira is not small to the person deciding whether to spend it, which is why a contents page is the minimum, not a favour."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Would you buy blind?", "0 yes", "So show the inside"],
-          "cap": "Ask your own buyers this question and then do what they say.",
-          "body": "The answer was unanimous and slightly annoyed. That reaction is worth remembering the next time you are tempted to hide the contents behind an email form."
+          "slides": [
+            "Would you buy blind?",
+            "0 yes",
+            "So show the inside"
+          ],
+          "cap": "The answer was unanimous and slightly annoyed. That reaction is worth remembering the next time you are tempted to hide the contents behind an email form.\n\nAsk your own buyers this question and then do what they say."
         },
         "facebook": {
           "fmt": "Text post",
@@ -214,16 +281,26 @@
         "tiktok": {
           "fmt": "Overhead shot, 25s",
           "hook": "The bundle is thirty-six files, thirty-five thousand naira, and it saves ten.",
-          "beats": ["Nine packs", "Thirty six files", "Ten thousand less", "One decision"],
+          "beats": [
+            "Nine packs",
+            "Thirty six files",
+            "Ten thousand less",
+            "One decision"
+          ],
           "vo": "The bundle is thirty six files across nine packs, thirty five thousand naira, which is ten less than buying them separately. Same files, one payment, one decision. No expiry, no bonus for buying today, no seats. If you are going to buy three packs anyway, this is the sensible version. If you need one, buy one.",
           "cap": "36 files · ₦35,000 · saves ₦10,000 · no expiry. BUNDLE on WhatsApp: 0905 069 0837.",
           "body": "Thirty-six files across nine packs, thirty-five thousand, ten less than separately. Same files, one payment, one decision. No expiry, no bonus, no seats."
         },
         "instagram": {
           "fmt": "5-slide carousel",
-          "slides": ["9 packs", "36 files", "₦35,000", "Saves ₦10,000", "No expiry"],
-          "cap": "No countdown. It will cost the same tomorrow, which is the point.",
-          "body": "A price that does not move is a price you can think about, and thinking is better for both of us than a timer."
+          "slides": [
+            "9 packs",
+            "36 files",
+            "₦35,000",
+            "Saves ₦10,000",
+            "No expiry"
+          ],
+          "cap": "A price that does not move is a price you can think about, and thinking is better for both of us than a timer.\n\nNo countdown. It will cost the same tomorrow, which is the point."
         },
         "facebook": {
           "fmt": "Text post",
@@ -239,16 +316,24 @@
         "tiktok": {
           "fmt": "Talking head, 29s",
           "hook": "Someone told us to pad the bundle to make the number bigger. We said no.",
-          "beats": ["Split the files", "Call them fifty two", "It would convert", "And then it would be a lie"],
+          "beats": [
+            "Split the files",
+            "Call them fifty two",
+            "It would convert",
+            "And then it would be a lie"
+          ],
           "vo": "Someone suggested we split the existing files into more files and call the bundle fifty two instead of thirty six, because a bigger number converts better. It would have worked. It would also have meant that every honest count in this account became something you had to check, and the whole reason anyone believes the limits here is that the numbers are real and small. So: thirty six.",
           "cap": "We could call it 52 files. We would rather the number stayed true.",
           "body": "Splitting files to inflate the count would have converted better. It would also have made every honest number in this account something a customer had to verify."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Split the files", "Call it 52", "We said no"],
-          "cap": "An inflated number is a discount on your credibility, paid later.",
-          "body": "Every padded count makes the reader recalculate everything else you have said. It is a strange trade: a small lift now for a permanent tax on trust."
+          "slides": [
+            "Split the files",
+            "Call it 52",
+            "We said no"
+          ],
+          "cap": "Every padded count makes the reader recalculate everything else you have said. It is a strange trade: a small lift now for a permanent tax on trust.\n\nAn inflated number is a discount on your credibility, paid later."
         },
         "facebook": {
           "fmt": "Text post",
@@ -264,16 +349,25 @@
         "tiktok": {
           "fmt": "Kinetic type, 20s",
           "hook": "Before buying anything, from anyone, check the contents page. If there is not one, ask.",
-          "beats": ["Anybody", "Any product", "Not just ours", "Ask for the list"],
+          "beats": [
+            "Anybody",
+            "Any product",
+            "Not just ours",
+            "Ask for the list"
+          ],
           "vo": "Before buying anything from anyone, check the contents page. If there is not one, ask for it. A seller who can produce it in ten minutes is organised. A seller who says it is a surprise is telling you the product is a surprise too, and surprises are how people end up with a folder they never open. Ask for the list. It is a normal question.",
           "cap": "Ask for the contents page. It is a normal question, not a rude one.",
           "body": "A seller who can produce a contents page in ten minutes is organised. One who says it is a surprise is telling you something about the product too. Ask for the list."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Any product", "Any seller", "Ask for the list", "If none, walk"],
-          "cap": "The question costs nothing and saves more than any discount code.",
-          "body": "This is the buyer's version of the same advice we give sellers: show the inventory. Both sides get faster, fairer decisions."
+          "slides": [
+            "Any product",
+            "Any seller",
+            "Ask for the list",
+            "If none, walk"
+          ],
+          "cap": "This is the buyer's version of the same advice we give sellers: show the inventory. Both sides get faster, fairer decisions.\n\nThe question costs nothing and saves more than any discount code."
         },
         "facebook": {
           "fmt": "Text post",
