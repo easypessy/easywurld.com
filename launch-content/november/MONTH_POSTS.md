@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Saturday 21 November 2026** |
+| Ends | **Sunday 22 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **693 posts** (231 core ideas x 3 platforms) |
+| Month total | **726 posts** (242 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -12914,6 +12914,616 @@ writing on the spot.
 > Hints are worse than prices. A price lets someone decide.
 > 
 > What would you want to see first?
+
+
+---
+
+
+# Day 22 · Sunday · Sunday 22 Nov 2026 — The honest ad
+
+**Offer in focus:** BUNDLE
+
+---
+
+
+## Post 01 · A deposit before a sentence
+
+**Type:** Entertain · **Why it works:** The order of information is the whole lesson of the sell week.
+
+### TikTok · 07:00 · Screen recording, 23s
+
+**Hook (0-3s)**
+> This site wants a deposit before it tells you what it does.
+
+**On-screen beats**
+- Book a call
+- Pay a deposit
+- Then learn the price
+- Clarity should come first
+
+**Voiceover script**
+> This site opens with book a call, then pay a deposit, and somewhere after that it explains what they sell. The order is backwards. Price comes after clarity, always, because a customer who understands the offer will ask about the money themselves. A customer who does not understand it will not pay a deposit to find out.
+
+**Caption**
+> Deposit first, explanation later. That is a filter, not a funnel.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 3-slide carousel
+
+**Slide copy**
+1. 1. Book a call
+2. 2. Pay a deposit
+3. 3. Learn what we do
+
+**Caption**
+> If step three is the explanation, steps one and two will not happen.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A site I looked at opens with 'book a call', then 'pay a deposit', and only after that explains what they sell.
+> 
+> The order is backwards. Price comes after clarity, always.
+> 
+> A customer who understands your offer will ask about the money themselves. A customer who does not understand it will not pay a deposit to find out.
+> 
+> Which order is yours in?
+
+
+---
+
+
+## Post 02 · Who should not buy any of them
+
+**Type:** Entertain · **Why it works:** The most trust-building post a seller can publish.
+
+### TikTok · 09:15 · Kinetic type, 19s
+
+**Hook (0-3s)**
+> Nine packs. Here is who should not buy any of them.
+
+**On-screen beats**
+- If you want it done
+- Hire someone
+- If you want a call
+- This is not that
+
+**Voiceover script**
+> We sell nine packs and here is who should not buy any of them. If you want the work done for you, hire someone, because these are files you have to open and use. If you want a call to talk it through, this is not that either. If you want something to read on Sunday and act on Monday, one of these is right.
+
+**Caption**
+> If you want it done for you, do not buy a pack. Hire someone. That is the honest version.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 4-slide carousel
+
+**Slide copy**
+1. Want it done? Hire someone
+2. Want a call? Not this
+3. Want to read and act?
+4. Then one of these
+
+**Caption**
+> Nine packs, and nine reasons not to buy one of them.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> We sell nine packs. Here is who should not buy any of them.
+> 
+> If you want the work done for you — hire someone. These are files you have to open and use.
+> 
+> If you want a call to talk it through — this is not that.
+> 
+> If you want something to read on Sunday and act on Monday — one of these is right.
+> 
+> That is the whole honest version.
+
+
+---
+
+
+## Post 03 · The question before buying a template
+
+**Type:** Teach · **Why it works:** Gives the buyer a test they can apply to anyone, including competitors.
+
+### TikTok · 11:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Before you buy any template, ask one question: will I actually open this on Monday?
+
+**On-screen beats**
+- Not will it help
+- Will I open it
+- On Monday
+- If no, do not buy
+
+**Voiceover script**
+> Before you buy any template, ask one question: will I actually open this on Monday. Not could this help me, which is always yes. Will I open it, on Monday, before the week gets loud. If the answer is no, the eleven thousand naira is a donation and I would rather you kept it, because the person who does not open it never comes back.
+
+**Caption**
+> Not "could this help". "Will I open it on Monday." If no, keep the money.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 3-slide carousel
+
+**Slide copy**
+1. "Could this help?"
+2. Always yes
+3. "Will I open it Monday?"
+
+**Caption**
+> One question filters every template you will ever be sold.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Before you buy any template, ask one question: will I actually open this on Monday?
+> 
+> Not 'could this help me' — that is always yes.
+> 
+> Will I open it, on Monday, before the week gets loud?
+> 
+> If the answer is no, the money is a donation, and I would rather you kept it.
+> 
+> What did you buy last and never open?
+
+
+---
+
+
+## Post 04 · Buying a template to avoid a decision
+
+**Type:** Entertain · **Why it works:** Names the real reason people buy and never use.
+
+### TikTok · 13:45 · Talking head, 20s
+
+**Hook (0-3s)**
+> Buying a template to avoid a decision is expensive therapy.
+
+**On-screen beats**
+- The purchase feels like progress
+- It is not
+- The decision is the product
+- Templates only help if you already chose
+
+**Voiceover script**
+> Buying a template to avoid a decision is expensive therapy. The purchase feels like progress, so you get the relief of having done something without doing the thing, which is choosing. The decision is the product. A template only helps you execute a decision you have already made, and it cannot make it for you.
+
+**Caption**
+> The purchase feels like progress. The decision is the progress.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Buying feels like progress
+2. Choosing is progress
+3. Templates only execute
+
+**Caption**
+> A template executes a decision. It cannot make one.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Buying a template to avoid a decision is expensive therapy.
+> 
+> The purchase feels like progress, so you get the relief of having done something without doing the thing — which is choosing.
+> 
+> The decision is the product. A template only helps you execute a decision you have already made.
+> 
+> What are you avoiding deciding?
+
+
+---
+
+
+## Post 05 · One script, thirty-five ignored
+
+**Type:** Entertain · **Why it works:** Redefines a modest result as a success, which is unusual and credible.
+
+### TikTok · 15:00 · Talking head, 28s
+
+**Hook (0-3s)**
+> Someone bought the chat pack, used one script, and ignored the other thirty-five. That is a success.
+
+**On-screen beats**
+- One script
+- The 'can you do it cheaper' reply
+- Used every week
+- The rest unused
+
+**Voiceover script**
+> Someone bought the chat pack and used exactly one script, the reply to can you do it cheaper. She used it every week and said it saved her from a discount every time. The other thirty five files are sitting there unopened, and I consider that a success, because a pack is not a course you have to finish. It is a drawer of tools, and one good tool is worth the five thousand.
+
+**Caption**
+> One script used every week beats thirty-six read once. That is a success.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. Bought 36 files
+2. Used 1
+3. Every week
+4. That counts
+
+**Caption**
+> You do not have to use all of it. You have to use one thing.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> Someone bought the chat pack and used exactly one script — the reply to 'can you do it cheaper'.
+> 
+> She used it every week and said it saved her from a discount every time.
+> 
+> The other thirty-five files are unopened. I consider that a success.
+> 
+> A pack is a drawer of tools, not a course you have to finish. One good tool is worth the ₦5,000.
+> 
+> Which one tool would change your week?
+
+
+---
+
+
+## Post 06 · Start with one file
+
+**Type:** Teach · **Why it works:** Lowers the activation cost, which is where most products die.
+
+### TikTok · 16:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> Start with one file, not the whole pack. The checklist is usually enough.
+
+**On-screen beats**
+- Open the folder
+- Pick the checklist
+- Do three items
+- Then close it
+
+**Voiceover script**
+> Start with one file, not the whole pack. Open the folder, find the checklist, do the first three items, then close it and go back to work. That is how a pack becomes useful instead of becoming homework. Thirty six files read in one night is a nice feeling and almost no change; three items done is a small change you can see by Friday.
+
+**Caption**
+> One file. Three items. Close it. That is how a pack gets used.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 4-slide carousel
+
+**Slide copy**
+1. Open the folder
+2. Pick the checklist
+3. Do 3 items
+4. Close it
+
+**Caption**
+> Reading a pack is not using it. Three items is using it.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Start with one file, not the whole pack.
+> 
+> Open the folder. Find the checklist. Do the first three items. Close it and go back to work.
+> 
+> Thirty-six files read in one night is a nice feeling and almost no change. Three items done is a small change you can see by Friday.
+> 
+> Which file would you open first?
+
+
+---
+
+
+## Post 07 · A pack you do not open is a donation
+
+**Type:** Entertain · **Why it works:** A plain, slightly uncomfortable statement that earns the rest.
+
+### TikTok · 18:00 · Kinetic type, 16s
+
+**Hook (0-3s)**
+> A pack you do not open is a donation to me. Pick the one you will use this week.
+
+**On-screen beats**
+- Not the best one
+- The one for this week
+- Open it once
+- Then judge
+
+**Voiceover script**
+> A pack you do not open is a donation, and I would rather you bought nothing than bought something out of optimism. So pick the one for this week's actual problem, not the biggest one, not the cheapest one. Open it once within an hour of paying, and use one thing before you go to sleep, because that is the only moment the purchase is still exciting.
+
+**Caption**
+> Buy for this week's problem. Open it within the hour. Use one thing tonight.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Unopened = a donation
+2. Buy for this week
+3. Open it within the hour
+
+**Caption**
+> Momentum has an expiry date of about one hour.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> A pack you do not open is a donation.
+> 
+> So pick the one for this week's actual problem. Not the biggest. Not the cheapest. The one you will use before Sunday.
+> 
+> And open it within an hour of paying, because that is the only moment the purchase is still exciting.
+> 
+> What problem are you actually having this week?
+
+
+---
+
+
+## Post 08 · What would make you pay for a document
+
+**Type:** Entertain · **Why it works:** Validates the price point with the audience's own logic.
+
+### TikTok · 19:00 · Street interview, 25s
+
+**Hook (0-3s)**
+> I asked what would make someone pay five thousand naira for a document.
+
+**On-screen beats**
+- Not the page count
+- Not the design
+- If it saves me a whole day
+- Then it is cheap
+
+**Voiceover script**
+> I asked what would make people pay five thousand naira for a document. Nobody mentioned the page count or the design. One man said if it saves me a whole day, five thousand is cheap, because a day is worth more than that. Which is the entire pricing logic for anything you sell as information: how many hours does it give back.
+
+**Caption**
+> "If it saves me a whole day." That is what people are buying.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 3-slide carousel
+
+**Slide copy**
+1. Not page count
+2. Not design
+3. Hours given back
+
+**Caption**
+> Price against the day it saves, not the pages it fills.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked what would make people pay ₦5,000 for a document.
+> 
+> Nobody mentioned page count or design.
+> 
+> One man said: 'If it saves me a whole day, ₦5,000 is cheap.'
+> 
+> That is the entire pricing logic for anything sold as information. You are selling hours back, not pages.
+> 
+> What would make it worth ₦5,000 to you?
+
+
+---
+
+
+## Post 09 · All nine, stated plainly
+
+**Type:** Sell · **Why it works:** The whole offer in one breath, with the limits attached.
+
+### TikTok · 20:00 · Overhead shot, 26s
+
+**Hook (0-3s)**
+> All nine packs, five thousand naira each, no consulting included. That is the deal.
+
+**On-screen beats**
+- Nine packs
+- Five thousand each
+- Bundle is thirty five
+- No calls, no guarantees
+
+**Voiceover script**
+> Here is the whole deal in one breath. Nine packs, five thousand naira each, or all nine for thirty five thousand which saves ten. No consulting, no calls, no guarantees, no done for you. Files you open yourself, written by one person, tested on real businesses in Lagos. If that is what you need, the code is in the caption. If it is not, keep your money and keep watching, because there is more free here than paid.
+
+**Caption**
+> ₦5,000 each · ₦35,000 for all nine · no consulting · no guarantees. PACK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 5-slide carousel
+
+**Slide copy**
+1. 9 packs
+2. ₦5,000 each
+3. ₦35,000 for all nine
+4. No consulting
+5. No guarantees
+
+**Caption**
+> The deal, in full, once. No urgency, no countdown, no invented scarcity.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The whole deal in one breath.
+> 
+> Nine packs. ₦5,000 each. All nine for ₦35,000, which saves ₦10,000.
+> 
+> No consulting. No calls. No guarantees. No done-for-you.
+> 
+> Files you open yourself, written by one person, tested on real Lagos businesses.
+> 
+> If that is what you need, message PACK on WhatsApp: 0905 069 0837. If it is not, keep your money and keep watching — there is more free here than paid.
+
+
+---
+
+
+## Post 10 · A refund on an opened download
+
+**Type:** Entertain · **Why it works:** Explains the policy before anyone asks, which prevents resentment.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> Someone asked for a refund on a download they had already opened. We said no, kindly, and explained why.
+
+**On-screen beats**
+- Files can be copied
+- Once open, it is gone
+- So the rule is stated up front
+- And it is on the page
+
+**Voiceover script**
+> Someone asked for a refund two days after downloading a pack and using three of the files. We said no, kindly, and explained: a digital file cannot be returned, so the refund window closes when the download starts, and that is written on the page before you pay. We offered to answer questions about the files instead, which we did, and it ended fine. The policy is not the unfriendly part. Surprising someone with it is.
+
+**Caption**
+> The policy is not the unfriendly part. Springing it on someone is.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. Downloaded and used
+2. Asked for a refund
+3. Policy was on the page
+
+**Caption**
+> State the rule before the money. Every time.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone asked for a refund two days after downloading a pack and using three of the files.
+> 
+> We said no, kindly, and explained: a digital file cannot be returned, so the window closes when the download starts — and that is written on the page before you pay.
+> 
+> We offered to answer questions about the files instead. We did. It ended fine.
+> 
+> The policy is not the unfriendly part. Springing it on someone is.
+> 
+> Where do you state your terms?
+
+
+---
+
+
+## Post 11 · The one-page test
+
+**Type:** Teach · **Why it works:** The buyer's equivalent of a return policy, given away free.
+
+### TikTok · 21:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> One-page test for anything you are about to buy: what will you do in the first hour?
+
+**On-screen beats**
+- Not what could it do
+- What will you do
+- In the first hour
+- If you cannot answer, do not buy
+
+**Voiceover script**
+> The one page test before you buy anything: what will you do in the first hour after it arrives. Not could it help, what will you actually do, with your hands, at eight pm on a Tuesday. If you cannot answer that, you are buying the feeling of having solved it, and the feeling costs the same as the thing but lasts about a day.
+
+**Caption**
+> What will you do in the first hour? If you cannot answer, do not buy it.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. Before you pay
+2. Ask: first hour
+3. Name the action
+4. Or keep the money
+
+**Caption**
+> A purchase you cannot act on is a mood, not a tool.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> The one-page test before you buy anything:
+> 
+> What will you do in the first hour after it arrives?
+> 
+> Not 'could it help'. What will you actually do, with your hands, at 8pm on a Tuesday.
+> 
+> If you cannot answer that, you are buying the feeling of having solved it. The feeling costs the same as the thing and lasts about a day.
+> 
+> What was your last impulse buy?
 
 
 ---

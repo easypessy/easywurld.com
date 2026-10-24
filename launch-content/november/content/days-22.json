@@ -1,0 +1,285 @@
+[
+  {
+    "day": 22,
+    "label": "Day 22 · Sunday",
+    "theme": "The honest ad",
+    "offer": "BUNDLE",
+    "posts": [
+      {
+        "id": "D22-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "A deposit before a sentence",
+        "why": "The order of information is the whole lesson of the sell week.",
+        "tiktok": {
+          "fmt": "Screen recording, 23s",
+          "hook": "This site wants a deposit before it tells you what it does.",
+          "beats": ["Book a call", "Pay a deposit", "Then learn the price", "Clarity should come first"],
+          "vo": "This site opens with book a call, then pay a deposit, and somewhere after that it explains what they sell. The order is backwards. Price comes after clarity, always, because a customer who understands the offer will ask about the money themselves. A customer who does not understand it will not pay a deposit to find out.",
+          "cap": "Deposit first, explanation later. That is a filter, not a funnel.",
+          "body": "Book a call, pay a deposit, then find out what the business does. The order is backwards: price comes after clarity, always. Someone who understands the offer asks about money themselves."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["1. Book a call", "2. Pay a deposit", "3. Learn what we do"],
+          "cap": "If step three is the explanation, steps one and two will not happen.",
+          "body": "A deposit asks for trust before the site has earned any. Put the offer first and the deposit becomes a decision rather than a gamble."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A site I looked at opens with 'book a call', then 'pay a deposit', and only after that explains what they sell.\n\nThe order is backwards. Price comes after clarity, always.\n\nA customer who understands your offer will ask about the money themselves. A customer who does not understand it will not pay a deposit to find out.\n\nWhich order is yours in?"
+        }
+      },
+      {
+        "id": "D22-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "Who should not buy any of them",
+        "why": "The most trust-building post a seller can publish.",
+        "tiktok": {
+          "fmt": "Kinetic type, 19s",
+          "hook": "Nine packs. Here is who should not buy any of them.",
+          "beats": ["If you want it done", "Hire someone", "If you want a call", "This is not that"],
+          "vo": "We sell nine packs and here is who should not buy any of them. If you want the work done for you, hire someone, because these are files you have to open and use. If you want a call to talk it through, this is not that either. If you want something to read on Sunday and act on Monday, one of these is right.",
+          "cap": "If you want it done for you, do not buy a pack. Hire someone. That is the honest version.",
+          "body": "If you want the work done for you, hire someone. If you want a call to talk it through, this is not that. If you want something to read on Sunday and use on Monday, one of these is right."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Want it done? Hire someone", "Want a call? Not this", "Want to read and act?", "Then one of these"],
+          "cap": "Nine packs, and nine reasons not to buy one of them.",
+          "body": "A product that cannot describe its wrong customer is probably not describing its right one either. Here is the plain version, before anyone spends anything."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "We sell nine packs. Here is who should not buy any of them.\n\nIf you want the work done for you — hire someone. These are files you have to open and use.\n\nIf you want a call to talk it through — this is not that.\n\nIf you want something to read on Sunday and act on Monday — one of these is right.\n\nThat is the whole honest version."
+        }
+      },
+      {
+        "id": "D22-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The question before buying a template",
+        "why": "Gives the buyer a test they can apply to anyone, including competitors.",
+        "tiktok": {
+          "fmt": "Kinetic type, 21s",
+          "hook": "Before you buy any template, ask one question: will I actually open this on Monday?",
+          "beats": ["Not will it help", "Will I open it", "On Monday", "If no, do not buy"],
+          "vo": "Before you buy any template, ask one question: will I actually open this on Monday. Not could this help me, which is always yes. Will I open it, on Monday, before the week gets loud. If the answer is no, the eleven thousand naira is a donation and I would rather you kept it, because the person who does not open it never comes back.",
+          "cap": "Not \"could this help\". \"Will I open it on Monday.\" If no, keep the money.",
+          "body": "Not could this help me — that is always yes. Will I open it on Monday, before the week gets loud. If the answer is no, the money is a donation."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["\"Could this help?\"", "Always yes", "\"Will I open it Monday?\""],
+          "cap": "One question filters every template you will ever be sold.",
+          "body": "Apply the same question to courses, templates, planners and PDFs. It will save you more money than any discount code."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Before you buy any template, ask one question: will I actually open this on Monday?\n\nNot 'could this help me' — that is always yes.\n\nWill I open it, on Monday, before the week gets loud?\n\nIf the answer is no, the money is a donation, and I would rather you kept it.\n\nWhat did you buy last and never open?"
+        }
+      },
+      {
+        "id": "D22-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "Buying a template to avoid a decision",
+        "why": "Names the real reason people buy and never use.",
+        "tiktok": {
+          "fmt": "Talking head, 20s",
+          "hook": "Buying a template to avoid a decision is expensive therapy.",
+          "beats": ["The purchase feels like progress", "It is not", "The decision is the product", "Templates only help if you already chose"],
+          "vo": "Buying a template to avoid a decision is expensive therapy. The purchase feels like progress, so you get the relief of having done something without doing the thing, which is choosing. The decision is the product. A template only helps you execute a decision you have already made, and it cannot make it for you.",
+          "cap": "The purchase feels like progress. The decision is the progress.",
+          "body": "Buying a template to avoid a decision is expensive therapy. The purchase feels like progress without the discomfort of choosing, and the choosing is the whole job."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Buying feels like progress", "Choosing is progress", "Templates only execute"],
+          "cap": "A template executes a decision. It cannot make one.",
+          "body": "This is why so many downloads sit unopened while the business stays exactly the same shape. Nothing was decided, so nothing changed."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Buying a template to avoid a decision is expensive therapy.\n\nThe purchase feels like progress, so you get the relief of having done something without doing the thing — which is choosing.\n\nThe decision is the product. A template only helps you execute a decision you have already made.\n\nWhat are you avoiding deciding?"
+        }
+      },
+      {
+        "id": "D22-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "One script, thirty-five ignored",
+        "why": "Redefines a modest result as a success, which is unusual and credible.",
+        "tiktok": {
+          "fmt": "Talking head, 28s",
+          "hook": "Someone bought the chat pack, used one script, and ignored the other thirty-five. That is a success.",
+          "beats": ["One script", "The 'can you do it cheaper' reply", "Used every week", "The rest unused"],
+          "vo": "Someone bought the chat pack and used exactly one script, the reply to can you do it cheaper. She used it every week and said it saved her from a discount every time. The other thirty five files are sitting there unopened, and I consider that a success, because a pack is not a course you have to finish. It is a drawer of tools, and one good tool is worth the five thousand.",
+          "cap": "One script used every week beats thirty-six read once. That is a success.",
+          "body": "She used exactly one script, every week, and it saved her from discounting every time. The other thirty-five files were never opened. That is a success — a pack is a drawer of tools, not a course."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Bought 36 files", "Used 1", "Every week", "That counts"],
+          "cap": "You do not have to use all of it. You have to use one thing.",
+          "body": "The measure of a pack is not completion. It is whether one line changed one conversation, and whether you used it again the following week."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Someone bought the chat pack and used exactly one script — the reply to 'can you do it cheaper'.\n\nShe used it every week and said it saved her from a discount every time.\n\nThe other thirty-five files are unopened. I consider that a success.\n\nA pack is a drawer of tools, not a course you have to finish. One good tool is worth the ₦5,000.\n\nWhich one tool would change your week?"
+        }
+      },
+      {
+        "id": "D22-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Start with one file",
+        "why": "Lowers the activation cost, which is where most products die.",
+        "tiktok": {
+          "fmt": "Kinetic type, 20s",
+          "hook": "Start with one file, not the whole pack. The checklist is usually enough.",
+          "beats": ["Open the folder", "Pick the checklist", "Do three items", "Then close it"],
+          "vo": "Start with one file, not the whole pack. Open the folder, find the checklist, do the first three items, then close it and go back to work. That is how a pack becomes useful instead of becoming homework. Thirty six files read in one night is a nice feeling and almost no change; three items done is a small change you can see by Friday.",
+          "cap": "One file. Three items. Close it. That is how a pack gets used.",
+          "body": "One file, three items, then close it. Thirty-six files read in a night is a pleasant evening with no change; three items done is visible by Friday."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Open the folder", "Pick the checklist", "Do 3 items", "Close it"],
+          "cap": "Reading a pack is not using it. Three items is using it.",
+          "body": "This applies to any download anyone has ever sold you. The activation cost is the whole difference between a purchase and a result."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Start with one file, not the whole pack.\n\nOpen the folder. Find the checklist. Do the first three items. Close it and go back to work.\n\nThirty-six files read in one night is a nice feeling and almost no change. Three items done is a small change you can see by Friday.\n\nWhich file would you open first?"
+        }
+      },
+      {
+        "id": "D22-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "A pack you do not open is a donation",
+        "why": "A plain, slightly uncomfortable statement that earns the rest.",
+        "tiktok": {
+          "fmt": "Kinetic type, 16s",
+          "hook": "A pack you do not open is a donation to me. Pick the one you will use this week.",
+          "beats": ["Not the best one", "The one for this week", "Open it once", "Then judge"],
+          "vo": "A pack you do not open is a donation, and I would rather you bought nothing than bought something out of optimism. So pick the one for this week's actual problem, not the biggest one, not the cheapest one. Open it once within an hour of paying, and use one thing before you go to sleep, because that is the only moment the purchase is still exciting.",
+          "cap": "Buy for this week's problem. Open it within the hour. Use one thing tonight.",
+          "body": "Buy for this week's problem, not the biggest bundle. Open it within an hour of paying, because that is when the purchase is still exciting and actually gets used."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Unopened = a donation", "Buy for this week", "Open it within the hour"],
+          "cap": "Momentum has an expiry date of about one hour.",
+          "body": "The gap between buying and opening is where most purchases go to die. Close it deliberately: download it, open it, use one line."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A pack you do not open is a donation.\n\nSo pick the one for this week's actual problem. Not the biggest. Not the cheapest. The one you will use before Sunday.\n\nAnd open it within an hour of paying, because that is the only moment the purchase is still exciting.\n\nWhat problem are you actually having this week?"
+        }
+      },
+      {
+        "id": "D22-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "What would make you pay for a document",
+        "why": "Validates the price point with the audience's own logic.",
+        "tiktok": {
+          "fmt": "Street interview, 25s",
+          "hook": "I asked what would make someone pay five thousand naira for a document.",
+          "beats": ["Not the page count", "Not the design", "If it saves me a whole day", "Then it is cheap"],
+          "vo": "I asked what would make people pay five thousand naira for a document. Nobody mentioned the page count or the design. One man said if it saves me a whole day, five thousand is cheap, because a day is worth more than that. Which is the entire pricing logic for anything you sell as information: how many hours does it give back.",
+          "cap": "\"If it saves me a whole day.\" That is what people are buying.",
+          "body": "Nobody mentioned page count or design. The answer was: if it saves me a whole day, five thousand is cheap. You are selling hours back, not pages."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Not page count", "Not design", "Hours given back"],
+          "cap": "Price against the day it saves, not the pages it fills.",
+          "body": "The same logic works when you price your own service. Customers compare the cost to the time or the loss, not to your effort."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I asked what would make people pay ₦5,000 for a document.\n\nNobody mentioned page count or design.\n\nOne man said: 'If it saves me a whole day, ₦5,000 is cheap.'\n\nThat is the entire pricing logic for anything sold as information. You are selling hours back, not pages.\n\nWhat would make it worth ₦5,000 to you?"
+        }
+      },
+      {
+        "id": "D22-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "All nine, stated plainly",
+        "why": "The whole offer in one breath, with the limits attached.",
+        "tiktok": {
+          "fmt": "Overhead shot, 26s",
+          "hook": "All nine packs, five thousand naira each, no consulting included. That is the deal.",
+          "beats": ["Nine packs", "Five thousand each", "Bundle is thirty five", "No calls, no guarantees"],
+          "vo": "Here is the whole deal in one breath. Nine packs, five thousand naira each, or all nine for thirty five thousand which saves ten. No consulting, no calls, no guarantees, no done for you. Files you open yourself, written by one person, tested on real businesses in Lagos. If that is what you need, the code is in the caption. If it is not, keep your money and keep watching, because there is more free here than paid.",
+          "cap": "₦5,000 each · ₦35,000 for all nine · no consulting · no guarantees. PACK on WhatsApp: 0905 069 0837.",
+          "body": "Nine packs at five thousand each, or all nine for thirty-five. No consulting, no calls, no guarantees, no done-for-you. Files written by one person and tested on real Lagos businesses."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": ["9 packs", "₦5,000 each", "₦35,000 for all nine", "No consulting", "No guarantees"],
+          "cap": "The deal, in full, once. No urgency, no countdown, no invented scarcity.",
+          "body": "This is the entire offer. There is no bonus, no masterclass, no community, and no countdown timer. If it is not for you, the free content will still be here tomorrow."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The whole deal in one breath.\n\nNine packs. ₦5,000 each. All nine for ₦35,000, which saves ₦10,000.\n\nNo consulting. No calls. No guarantees. No done-for-you.\n\nFiles you open yourself, written by one person, tested on real Lagos businesses.\n\nIf that is what you need, message PACK on WhatsApp: 0905 069 0837. If it is not, keep your money and keep watching — there is more free here than paid."
+        }
+      },
+      {
+        "id": "D22-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "A refund on an opened download",
+        "why": "Explains the policy before anyone asks, which prevents resentment.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "Someone asked for a refund on a download they had already opened. We said no, kindly, and explained why.",
+          "beats": ["Files can be copied", "Once open, it is gone", "So the rule is stated up front", "And it is on the page"],
+          "vo": "Someone asked for a refund two days after downloading a pack and using three of the files. We said no, kindly, and explained: a digital file cannot be returned, so the refund window closes when the download starts, and that is written on the page before you pay. We offered to answer questions about the files instead, which we did, and it ended fine. The policy is not the unfriendly part. Surprising someone with it is.",
+          "cap": "The policy is not the unfriendly part. Springing it on someone is.",
+          "body": "Digital files cannot be returned, so the window closes when the download starts, and that is written on the page before anyone pays. Withholding it until after is what makes a policy feel like a trap."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Downloaded and used", "Asked for a refund", "Policy was on the page"],
+          "cap": "State the rule before the money. Every time.",
+          "body": "The difference between a firm policy and a bad experience is entirely about when the buyer learned it."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Someone asked for a refund two days after downloading a pack and using three of the files.\n\nWe said no, kindly, and explained: a digital file cannot be returned, so the window closes when the download starts — and that is written on the page before you pay.\n\nWe offered to answer questions about the files instead. We did. It ended fine.\n\nThe policy is not the unfriendly part. Springing it on someone is.\n\nWhere do you state your terms?"
+        }
+      },
+      {
+        "id": "D22-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The one-page test",
+        "why": "The buyer's equivalent of a return policy, given away free.",
+        "tiktok": {
+          "fmt": "Kinetic type, 20s",
+          "hook": "One-page test for anything you are about to buy: what will you do in the first hour?",
+          "beats": ["Not what could it do", "What will you do", "In the first hour", "If you cannot answer, do not buy"],
+          "vo": "The one page test before you buy anything: what will you do in the first hour after it arrives. Not could it help, what will you actually do, with your hands, at eight pm on a Tuesday. If you cannot answer that, you are buying the feeling of having solved it, and the feeling costs the same as the thing but lasts about a day.",
+          "cap": "What will you do in the first hour? If you cannot answer, do not buy it.",
+          "body": "Not could it help. What will you do, with your hands, at eight pm on a Tuesday. If you cannot answer, you are buying the feeling of having solved it."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Before you pay", "Ask: first hour", "Name the action", "Or keep the money"],
+          "cap": "A purchase you cannot act on is a mood, not a tool.",
+          "body": "This test applies to courses, software, templates, and anything sold with a countdown timer on top of it."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The one-page test before you buy anything:\n\nWhat will you do in the first hour after it arrives?\n\nNot 'could it help'. What will you actually do, with your hands, at 8pm on a Tuesday.\n\nIf you cannot answer that, you are buying the feeling of having solved it. The feeling costs the same as the thing and lasts about a day.\n\nWhat was your last impulse buy?"
+        }
+      }
+    ]
+  }
+]
