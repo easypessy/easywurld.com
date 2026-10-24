@@ -4,6 +4,11 @@ A ready-to-produce schedule of **120 social posts**: 30 days × 4 posts per day,
 
 **Private working documents only:** this folder is outside `client/public`, is not linked from the website, and is not included in the production site build.
 
+- **The plan:** [`EASYWURLD-PLAN.md`](./EASYWURLD-PLAN.md) — what exists, what is missing, the 90 days.
+- **The storytelling system:** [`storytelling/THE-ITCH.md`](./storytelling/THE-ITCH.md) — entertain, teach, sell; the four shows; the hook bank.
+- **November 2026:** [`NOVEMBER-2026.md`](./NOVEMBER-2026.md) — the 30-day entertain-first calendar.
+- **Measurement:** [`measurement/README.md`](./measurement/README.md) — conversations per 10 posts, `npm run score`.
+- **The accounts behind the approach:** [`research/three-accounts.md`](./research/three-accounts.md).
 - **Full calendar:** [`calendar/30-day-calendar.md`](./calendar/30-day-calendar.md)
 - **Master carousel + video prompts and exact brand rules:** [`brand-prompt.md`](./brand-prompt.md)
 

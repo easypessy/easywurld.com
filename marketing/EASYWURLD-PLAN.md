@@ -157,6 +157,11 @@ Two rules that make the ladder work:
 - **Keep posting at volume — that is the point.** Volume is how you generate enough of a
   sample to tell what works. What changes is that you stop guessing which posts matter and
   let the scorecard cut the dead cells weekly (see Section 8).
+- **Entertain first, then teach, then sell.** 60% entertainment, 30% teaching, 10% selling,
+  and one job per post. The full system, with the hook bank and worked scripts, is in
+  [`storytelling/THE-ITCH.md`](storytelling/THE-ITCH.md); the 30-day calendar built on it is
+  [`NOVEMBER-2026.md`](NOVEMBER-2026.md); the three accounts the structure came from are
+  written up in [`research/three-accounts.md`](research/three-accounts.md).
 - **20 free reviews.** This is your entire marketing for the month. Every review becomes:
   - one post (“we looked at 5 Lagos restaurant sites — here is what we found”), and
   - one before/after you can show, with permission.
@@ -201,7 +206,12 @@ tenth of it works. The instrument is in `marketing/measurement/`: one number, on
 
 ## 8. The number that decides what you double down on
 
-**Conversations per 10 posts.** One number, per channel × post type.
+**Conversations per 10 posts.** One number, per channel × show.
+
+> **Updated for November.** The content is now organised into four repeating shows and three
+> tiers — entertain, teach, sell. See [`storytelling/THE-ITCH.md`](storytelling/THE-ITCH.md)
+> for the structure and [`NOVEMBER-2026.md`](NOVEMBER-2026.md) for the month. The scorecard
+> below ranks *shows*, because that is the thing you can actually add or cut.
 
 You asked for the number, so here it is, and here is why it is not views:
 
