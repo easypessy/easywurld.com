@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Tuesday 10 November 2026** |
+| Ends | **Thursday 12 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **330 posts** (110 core ideas x 3 platforms) |
+| Month total | **396 posts** (132 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -6209,6 +6209,1231 @@ writing on the spot.
 > One question, then silence — which is where the answer actually comes from.
 > 
 > Try it on your next quote and tell me what happens.
+
+
+---
+
+
+# Day 11 · Wednesday · Wednesday 11 Nov 2026 — The follow-up week
+
+**Offer in focus:** PLAYBOOK
+
+---
+
+
+## Post 01 · Forty pages, no enquiries
+
+**Type:** Entertain · **Why it works:** The number contrast is the whole argument.
+
+### TikTok · 07:00 · Screen recording, 25s
+
+**Hook (0-3s)**
+> This site cost twenty-five thousand naira, has forty pages, and has never had one enquiry.
+
+**On-screen beats**
+- Forty pages
+- Zero enquiries
+- Because pages are not a funnel
+- One page would beat it
+
+**Voiceover script**
+> This site cost twenty five thousand naira, has forty pages, and in eight months has had no enquiries. Forty pages is not forty chances. It is forty places for the customer to get lost. One page that answers six questions and asks for one action would outperform the entire thing, and it would take an afternoon.
+
+**Caption**
+> Forty pages, zero enquiries. Pages are not a funnel.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. 40 pages
+2. ₦25,000
+3. 0 enquiries
+4. 1 page beats it
+
+**Caption**
+> Volume of pages is not the same as a path to buying.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A site I looked at this week: ₦25,000, forty pages, zero enquiries in eight months.
+> 
+> Forty pages is not forty chances. It is forty places for a customer to get lost.
+> 
+> One page that answers six questions and asks for one clear action would beat the whole thing, and it takes an afternoon to write.
+> 
+> How many pages does your site have, and how many enquiries?
+
+
+---
+
+
+## Post 02 · The cheapest quote is a payment plan
+
+**Type:** Entertain · **Why it works:** A reframe that sticks because it is financially literal.
+
+### TikTok · 09:15 · Kinetic type, 16s
+
+**Hook (0-3s)**
+> The cheapest quote is a payment plan for a second project.
+
+**On-screen beats**
+- You pay once now
+- Then again in six months
+- The second one costs more
+- So it was never cheaper
+
+**Voiceover script**
+> The cheapest quote is a payment plan for a second project. You pay the small number now, then you pay a bigger number later to fix what the small number could not do, and you lose six months in between. Which means the cheap option is not cheap, it is just earlier.
+
+**Caption**
+> You will pay twice. The first payment is just quieter.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. Cheap now
+2. Rebuild later
+3. Two payments, six months apart
+
+**Caption**
+> Cheap work is a deposit on the work you actually needed.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> The cheapest quote is usually a payment plan for a second project.
+> 
+> You pay the small number now. Then you pay a bigger number later to fix what the small number could not do. And you lose six months in between, which is the part nobody puts in the invoice.
+> 
+> So it was never cheaper. It was just earlier.
+> 
+> Have you paid twice for anything?
+
+
+---
+
+
+## Post 03 · Ask what happens after launch
+
+**Type:** Teach · **Why it works:** One question that exposes most cheap quotes instantly.
+
+### TikTok · 11:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Before you accept any web quote, ask what happens after launch.
+
+**On-screen beats**
+- Most stop at delivery
+- Who updates it
+- Who fixes the form
+- Who answers in March
+
+**Voiceover script**
+> Before you accept any web quote, ask one question: what happens after launch. Ask who updates the price list, who fixes the contact form when it breaks, and who answers the message in March. Most cheap quotes stop at delivery, which is why they are cheap, and then you discover the cost in the third month when you need one line changed.
+
+**Caption**
+> The quote ends at launch. The business does not.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 4-slide carousel
+
+**Slide copy**
+1. "What happens after launch?"
+2. Who updates it?
+3. Who fixes the form?
+4. Who answers in March?
+
+**Caption**
+> Ask this before you pay anyone for a website. Save it.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Before you accept any website quote, ask one question: what happens after launch?
+> 
+> Who updates the price list? Who fixes the contact form when it breaks? Who answers you in March?
+> 
+> Most cheap quotes stop at delivery. That is why they are cheap, and you find out the real cost in the third month when you need one line changed.
+> 
+> The quote ends at launch. Your business does not.
+> 
+> What would you ask?
+
+
+---
+
+
+## Post 04 · I'll do it myself with AI
+
+**Type:** Entertain · **Why it works:** Speaks directly to a real 2026 objection.
+
+### TikTok · 13:45 · Talking head, 23s
+
+**Hook (0-3s)**
+> "I'll do it myself with AI" costs two months and one relaunch.
+
+**On-screen beats**
+- The tool is free
+- The decisions are not
+- Which photo, in what order
+- Two months later you pay someone
+
+**Voiceover script**
+> I will do it myself with AI costs two months and one relaunch. The tool is free. The decisions are not. Which photo goes first, what the price says, which of six headlines is true, what to delete. Two months in you still have not chosen, so you pay someone to choose, and the free tool turns out to be the most expensive part.
+
+**Caption**
+> The tool is free. Deciding what to say is the work.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. The tool: free
+2. The decisions: not
+3. Two months, one relaunch
+
+**Caption**
+> AI will write you six options. It will not pick one for your customer.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> 'I'll just do it myself with AI' costs about two months and one relaunch.
+> 
+> The tool is free. The decisions are not. Which photo goes first. What the price says. Which of six headlines is actually true. What to delete.
+> 
+> Two months in, you still have not chosen, so you pay someone to choose — and the free tool turns out to be the expensive part.
+> 
+> What is the decision you keep avoiding?
+
+
+---
+
+
+## Post 05 · Paid twice for the same website
+
+**Type:** Entertain · **Why it works:** A concrete case with a real number, labelled as our client's story.
+
+### TikTok · 15:00 · Talking head, 30s
+
+**Hook (0-3s)**
+> A business paid twice for the same website. The first one was thirty thousand naira.
+
+**On-screen beats**
+- Thirty thousand
+- Unusable on a phone
+- Eighteen months gone
+- Then paid properly
+
+**Voiceover script**
+> A business paid twice for the same website. The first one was thirty thousand naira and it did not work on a phone, which is where all their customers were. Eighteen months of nobody buying later, they paid properly, and the second site cost three times the first. The first quote was not cheap. It was a deposit.
+
+**Caption**
+> ₦30,000, then ₦90,000 for the same site. The first quote was a deposit.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · Reel + caption
+
+**Script slides**
+1. ₦30,000 site
+2. Broken on mobile
+3. 18 months, no sales
+4. Then paid properly
+
+**Caption**
+> The cheapest version of a thing is often the most expensive way to get it.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A business we worked with paid twice for the same website.
+> 
+> The first one was ₦30,000 and did not work on a phone, which is where all of their customers were. Eighteen months of nobody buying later, they paid properly for the second one.
+> 
+> ₦30,000 plus ₦90,000 plus eighteen months equals the most expensive website in this story.
+> 
+> The first quote was not cheap. It was a deposit.
+> 
+> What have you paid twice for?
+
+
+---
+
+
+## Post 06 · Three questions for any web quote
+
+**Type:** Teach · **Why it works:** A takeaway they can use on someone else's pitch today.
+
+### TikTok · 16:30 · Kinetic type, 23s
+
+**Hook (0-3s)**
+> Three questions to ask any web quote. Who owns the domain, who fixes it, who pays for hosting.
+
+**On-screen beats**
+- The domain is your name
+- Not theirs
+- Who fixes it in six months
+- Get it in writing
+
+**Voiceover script**
+> Three questions to ask any web quote. Who owns the domain, in whose name, in writing. Who fixes it when it breaks in six months, and how much do they charge. And who pays for hosting every year. If any of those answers is vague, walk away now, because all three become emergencies at the worst possible time.
+
+**Caption**
+> Domain, fixes, hosting. Ask all three before you pay anyone.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 4-slide carousel
+
+**Slide copy**
+1. Who owns the domain?
+2. In whose name?
+3. Who fixes it in 6 months?
+4. Who pays for hosting?
+
+**Caption**
+> If you cannot answer all three, you do not own your website.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Three questions to ask any website quote:
+> 
+> 1. Who owns the domain, in whose name, in writing?
+> 2. Who fixes it when it breaks in six months, and at what cost?
+> 3. Who pays for hosting, and how much is it each year?
+> 
+> If any answer is vague, walk away now. All three become emergencies at the worst possible time.
+> 
+> Can you answer all three about your own site today?
+
+
+---
+
+
+## Post 07 · A cheap logo is fine. A cheap domain is not.
+
+**Type:** Entertain · **Why it works:** Separates the thing you can skimp on from the thing you cannot.
+
+### TikTok · 18:00 · Kinetic type, 15s
+
+**Hook (0-3s)**
+> A cheap logo is fine. A cheap domain is not.
+
+**On-screen beats**
+- Logo can change
+- Domain is your address
+- If it is not in your name
+- You can lose your business
+
+**Voiceover script**
+> A cheap logo is fine, because you can change a logo in a week. A cheap domain is not, because it is your address. If it is registered in someone else's name, they can take your whole business off the internet with one email, and you have no recourse. Never let anyone else own your name.
+
+**Caption**
+> Your logo can change. Your address cannot be taken.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Logo: changeable
+2. Domain: your address
+3. Register it in your name
+
+**Caption**
+> Do not let a vendor hold the keys to your business.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> A cheap logo is fine. You can change a logo in a week.
+> 
+> A cheap domain is not fine. It is your address, and if it is registered in someone else's name, they can take your entire business off the internet with one email and you have no recourse.
+> 
+> Check today: whose name is on your domain?
+> 
+> If it is not yours, fix it this week. It takes about twenty minutes.
+
+
+---
+
+
+## Post 08 · Cheapest or the one who asked questions
+
+**Type:** Entertain · **Why it works:** Unanimity is the strongest possible evidence.
+
+### TikTok · 19:00 · Street interview, 24s
+
+**Hook (0-3s)**
+> I asked: cheapest quote, or the person who asked you the most questions?
+
+**On-screen beats**
+- Everyone chose questions
+- Because questions mean attention
+- Cheap means template
+- Same answer every time
+
+**Voiceover script**
+> I asked people whether they would take the cheapest quote or the one from the person who asked them the most questions. Everyone chose the questions. Every single person. Because being asked questions feels like being understood, and a cheap quote feels like a template. That is what you are competing with, not the number.
+
+**Caption**
+> Everyone chose the one who asked questions. Every single person.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. Cheapest? 
+2. Or asked questions?
+3. Everyone: questions
+4. Unanimous
+
+**Caption**
+> Questions signal attention. Price signals nothing.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people: would you take the cheapest quote, or the one from the person who asked you the most questions?
+> 
+> Everyone chose the questions. Every single person.
+> 
+> Being asked questions feels like being understood. A cheap quote feels like a template, because it usually is one.
+> 
+> That is what you are competing with. Not the number.
+> 
+> What questions do you ask before quoting?
+
+
+---
+
+
+## Post 09 · Cheap on purpose
+
+**Type:** Sell · **Why it works:** Owning the low price honestly is more credible than justifying it.
+
+### TikTok · 20:00 · Overhead shot, 27s
+
+**Hook (0-3s)**
+> Five thousand naira is cheap on purpose, and here is the honest limit of it.
+
+**On-screen beats**
+- It is a template
+- Not a service
+- No one will build it for you
+- That is why it is five
+
+**Voiceover script**
+> Five thousand naira is cheap on purpose, and here is the limit. It is a template, not a service. Nobody will build anything for you, nobody will answer questions about your specific business, and if you get stuck there is no call. That is exactly why it costs five thousand and not fifty. If you want the service, that is a different conversation and a different number.
+
+**Caption**
+> ₦5,000 buys a template. Not a service, not a call. Message PACK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. What ₦5,000 is
+2. A template
+3. What it is not
+4. A service
+5. No call, no build
+
+**Caption**
+> The price is honest about the product. Read the limit before buying.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> ₦5,000 is cheap on purpose. Here is the honest limit.
+> 
+> It is a template, not a service. Nobody builds anything for you. Nobody answers questions about your specific business. If you get stuck at 11pm, there is no call.
+> 
+> That is exactly why it costs ₦5,000 and not ₦50,000.
+> 
+> If you want the service, that is a different conversation with a different number, and I will tell you honestly which one you need.
+> 
+> Message PACK on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · A five-page site for forty thousand
+
+**Type:** Entertain · **Why it works:** Naming what a price can buy is more useful than refusing.
+
+### TikTok · 20:45 · Talking head, 33s
+
+**Hook (0-3s)**
+> Someone asked for a five-page site for forty thousand naira. We said no and named what it buys.
+
+**On-screen beats**
+- Forty thousand does not buy five pages
+- It buys one
+- Done properly
+- They took the one page
+
+**Voiceover script**
+> Someone asked for a five page site for forty thousand naira. We said no, and then we said what forty thousand does buy: one page, done properly, with copy, on a phone, with a working contact button. Five pages at that price is five templates nobody reads. They took the one page, and it is the only site they have ever had enquiries from.
+
+**Caption**
+> We refused five pages and sold one. It was the honest answer.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · Reel + caption
+
+**Script slides**
+1. Asked: 5 pages, ₦40k
+2. Said: no
+3. Offered: 1 page, done properly
+4. They took it
+
+**Caption**
+> A smaller promise you can keep beats a bigger one you cannot.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone asked for a five-page website for ₦40,000.
+> 
+> We said no. And then we said what ₦40,000 actually buys: one page, done properly. Real copy. Works on a phone. A contact button that works.
+> 
+> Five pages at that price is five templates nobody reads.
+> 
+> They took the one page. It is the first site they have ever had enquiries from.
+> 
+> Would you rather have five pages or one that works?
+
+
+---
+
+
+## Post 11 · Write down who owns what
+
+**Type:** Teach · **Why it works:** A five-minute task with permanent consequences.
+
+### TikTok · 21:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Write down who owns your domain and hosting. If it is not your name, fix it this week.
+
+**On-screen beats**
+- One note
+- Domain, host, logins
+- Who to call
+- Then you cannot be held hostage
+
+**Voiceover script**
+> Write down who owns your domain and your hosting, in one note on your phone, including the login email. If either is in someone else's name, fix it this week while it is calm, not in six months when you have fallen out. This is the least interesting task in your business and the only one that can end it.
+
+**Caption**
+> One note: domain, hosting, logins, who to call. Do it tonight.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. Domain owner
+2. Hosting owner
+3. Login email
+4. Who to call
+
+**Caption**
+> The least interesting task in your business is the one that can end it.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Write down who owns your domain and your hosting. One note on your phone:
+> 
+> Domain — registered in whose name?
+> Hosting — paid by whom?
+> Login email — which one?
+> Who do I call if it breaks?
+> 
+> If any of those is in someone else's name, fix it this week while everything is calm, not in six months when you have fallen out with them.
+> 
+> Do you know your answers right now?
+
+
+---
+
+
+# Day 12 · Thursday · Thursday 12 Nov 2026 — The follow-up week
+
+**Offer in focus:** HOMEPAGE
+
+---
+
+
+## Post 01 · A spinning logo
+
+**Type:** Entertain · **Why it works:** Every viewer has waited through this exact site.
+
+### TikTok · 07:00 · Screen recording, 22s
+
+**Hook (0-3s)**
+> This site opens with a video of a spinning logo. Six seconds of nothing, on mobile data.
+
+**On-screen beats**
+- Six seconds
+- No words
+- On data
+- The customer has left
+
+**Voiceover script**
+> This site opens with a video of a spinning logo. Six seconds, no words, no product, loading on mobile data at the customer's expense. In the time it takes that logo to finish spinning, the customer has decided you are slow. The animation is not the brand, it is the delay.
+
+**Caption**
+> Six seconds of spinning logo. Nobody has ever bought because of it.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. A spinning logo
+2. 6 seconds
+3. On their data
+4. For nothing
+
+**Caption**
+> The first thing on the page should be the offer, not the animation.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> This site opens with a video of a spinning logo.
+> 
+> Six seconds. No words. No product. Loading on the customer's mobile data at the customer's expense.
+> 
+> By the time that logo finishes spinning, they have already decided you are slow.
+> 
+> Put the offer first and let the logo be small and still.
+> 
+> What does your page do in the first three seconds?
+
+
+---
+
+
+## Post 02 · Nobody buys because of a loading animation
+
+**Type:** Entertain · **Why it works:** A line that is impossible to argue with.
+
+### TikTok · 09:15 · Kinetic type, 12s
+
+**Hook (0-3s)**
+> Nobody has ever bought anything because of a loading animation.
+
+**On-screen beats**
+- Not once
+- People leave because of them
+- Speed is the feature
+- Delete it
+
+**Voiceover script**
+> Nobody has ever bought anything because of a loading animation. Not once, in the history of commerce. People leave because of them all the time. Speed is invisible when you have it and fatal when you do not, and the fix is usually deletion, not optimisation.
+
+**Caption**
+> Nobody bought because of it. People leave because of it.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. Bought because of animation: 0
+2. Left because of it: lots
+3. Delete it
+
+**Caption**
+> Speed is invisible when you have it and fatal when you don't.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> Nobody has ever bought anything because of a loading animation.
+> 
+> People leave because of them constantly.
+> 
+> Speed is invisible when you have it and fatal when you do not. Which means the fix is often deletion, not optimisation — and deletion is free.
+> 
+> What could you delete from your homepage tonight?
+
+
+---
+
+
+## Post 03 · The first line has three jobs
+
+**Type:** Teach · **Why it works:** One rule with three options, easy to apply today.
+
+### TikTok · 11:30 · Kinetic type, 24s
+
+**Hook (0-3s)**
+> Your first line has three jobs and can only do one of them.
+
+**On-screen beats**
+- What you sell
+- Who it is for
+- What to do next
+- Pick the strongest
+
+**Voiceover script**
+> Your first line has three jobs and it can only do one. Say what you sell, say who it is for, or say what to do next. Most homepages try all three at once and end up saying nothing. Pick the strongest one for your customer and write it in ten words or fewer, then leave it alone for a week.
+
+**Caption**
+> Say what you sell, who for, or what to do. Not all three.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 3-slide carousel
+
+**Slide copy**
+1. What you sell
+2. Who it is for
+3. What to do next
+4. Pick one
+
+**Caption**
+> Ten words or fewer. Then leave it alone for a week.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Your first line has three possible jobs and can only do one of them well:
+> 
+> 1. Say what you sell.
+> 2. Say who it is for.
+> 3. Say what to do next.
+> 
+> Most homepages attempt all three and say nothing.
+> 
+> Pick the strongest one for your customer, write it in ten words or fewer, and leave it alone for a week.
+> 
+> What is your current first line?
+
+
+---
+
+
+## Post 04 · Design is reading order
+
+**Type:** Entertain · **Why it works:** Reframes design from taste to function, which suits a non-designer owner.
+
+### TikTok · 13:45 · Talking head, 20s
+
+**Hook (0-3s)**
+> Design is not decoration. Design is reading order.
+
+**On-screen beats**
+- What do they see first
+- Second
+- Where does the eye go
+- Then the button
+
+**Voiceover script**
+> Design is not decoration. Design is reading order. What do they see first, what do they see second, and where does the eye go when they get bored. If the answer is anywhere but the button, the design is decorative and it is costing you. You do not need taste for this, you need to squint at your own page.
+
+**Caption**
+> Squint at your homepage. Whatever you see first is what you are selling.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 4-slide carousel
+
+**Slide copy**
+1. First
+2. Second
+3. Third
+4. Button: last?
+
+**Caption**
+> Squint at your own page. What survives the blur is the message.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Design is not decoration. Design is reading order.
+> 
+> What does the customer see first? Second? Where does their eye go when they get bored?
+> 
+> If the answer is anywhere other than the thing you want them to do, the design is decorative and it is costing you money.
+> 
+> You do not need taste to check this. Squint at your own page. Whatever survives the blur is what you are actually selling.
+> 
+> What do you see first?
+
+
+---
+
+
+## Post 05 · Better by deleting
+
+**Type:** Entertain · **Why it works:** Removal is the cheapest improvement available, so the story is actionable.
+
+### TikTok · 15:00 · Talking head, 29s
+
+**Hook (0-3s)**
+> A page got four times better by deleting the top half.
+
+**On-screen beats**
+- Two hundred words about the founder
+- Gone
+- One line left
+- Enquiries went up
+
+**Voiceover script**
+> A page got four times better by deleting the top half of it. Two hundred words about the founder and the vision, replaced with one line about what they sell and to whom. Nothing was added. Nothing was designed. The line that had been hiding at the bottom was suddenly the headline, and it turned out to be the best sentence on the site.
+
+**Caption**
+> Nothing added. Half the page deleted. Four times the enquiries.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · Reel + caption
+
+**Script slides**
+1. Top half: 200 words about us
+2. Deleted
+3. Best line was at the bottom
+4. 4× the enquiries
+
+**Caption**
+> The best sentence on your site is probably already there, buried.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A homepage got four times better by deleting the top half of it.
+> 
+> Two hundred words about the founder and the vision, replaced with one line about what they sell and who they sell it to.
+> 
+> Nothing was added. Nothing was redesigned. The sentence that had been buried at the bottom became the headline, and it turned out to be the best writing on the site.
+> 
+> What is buried at the bottom of yours?
+
+
+---
+
+
+## Post 06 · Put the proof next to the claim
+
+**Type:** Teach · **Why it works:** A structural fix, not a copywriting opinion.
+
+### TikTok · 16:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Put the proof next to the claim, not four screens below it.
+
+**On-screen beats**
+- Claim: fast delivery
+- Proof: the date on the last job
+- Together
+- Otherwise it is a slogan
+
+**Voiceover script**
+> Put the proof next to the claim. If you say fast delivery, put the delivery date of your last job on the same line. If you say quality, put the photo of the actual product beside it. A claim on its own is a slogan. A claim with evidence attached is a fact, and facts are the only things that move money.
+
+**Caption**
+> A claim alone is a slogan. A claim with evidence is a fact.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. Claim: "fast delivery"
+2. Proof: Tuesday
+3. Same line
+
+**Caption**
+> Every adjective needs a receipt beside it.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Put the proof next to the claim.
+> 
+> 'Fast delivery' — with the date of your last job on the same line.
+> 'Quality you can trust' — with a photo of the actual product beside it.
+> 
+> A claim on its own is a slogan. A claim with evidence attached is a fact, and facts are the only thing that moves money.
+> 
+> Which of your claims has no receipt?
+
+
+---
+
+
+## Post 07 · Your best photo is at the bottom
+
+**Type:** Entertain · **Why it works:** Nearly universal, and instantly checkable.
+
+### TikTok · 18:00 · Screen recording, 16s
+
+**Hook (0-3s)**
+> Your best photo is at the bottom of the page, where nobody decides anything.
+
+**On-screen beats**
+- Top: a stock photo
+- Bottom: the real thing
+- Swap them
+- Free improvement
+
+**Voiceover script**
+> Your best photo is at the bottom of the page. The top is a stock image of people shaking hands, and the bottom is a real photo of the real thing you actually sell. Swap them. That is a free improvement that takes ninety seconds and does more than a redesign.
+
+**Caption**
+> Swap your stock photo for your real one. Ninety seconds.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Top: stock handshake
+2. Bottom: your real product
+3. Swap
+
+**Caption**
+> The real thing beats the beautiful thing every time.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> Your best photo is almost certainly at the bottom of the page, where nobody makes a decision.
+> 
+> The top has a stock image of people shaking hands. The bottom has a real photo of the real thing you sell.
+> 
+> Swap them. It takes ninety seconds and it does more than a redesign.
+> 
+> What is at the top of your homepage right now?
+
+
+---
+
+
+## Post 08 · The last shop you actually bought from
+
+**Type:** Entertain · **Why it works:** Witnesses describing their own behaviour is the proof.
+
+### TikTok · 19:00 · Street interview, 25s
+
+**Hook (0-3s)**
+> I asked people why they bought from the last shop they used.
+
+**On-screen beats**
+- Not design
+- Not the logo
+- I saw the price straight away
+- That was it
+
+**Voiceover script**
+> I asked people why they bought from the last shop they used. Almost nobody mentioned design. One person said I saw the price straight away and I knew it was for me, and that was the whole reason. Which means the price and the first line are doing almost all the work, and everything else is decoration.
+
+**Caption**
+> "I saw the price straight away." That was the entire conversion.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. Why did you buy there?
+2. Not the design
+3. Not the logo
+4. "The price was there"
+
+**Caption**
+> The price and the first line are doing almost all the work.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people why they bought from the last shop they used.
+> 
+> Almost nobody mentioned design. One person said: 'I saw the price straight away and I knew it was for me.' That was the whole reason.
+> 
+> Which means the price and the first line do almost all of the work. Everything else is decoration.
+> 
+> Why did you buy from the last shop you used?
+
+
+---
+
+
+## Post 09 · The blueprint writes the first ten seconds
+
+**Type:** Sell · **Why it works:** Frames the product as a decision document, not a design file.
+
+### TikTok · 20:00 · Overhead shot, 26s
+
+**Hook (0-3s)**
+> The homepage blueprint is for the first ten seconds of your site, and it is words, not pixels.
+
+**On-screen beats**
+- First line
+- Second line
+- The button
+- Five thousand naira, no design skills
+
+**Voiceover script**
+> The homepage blueprint is about the first ten seconds of your site, and it is words, not pixels. The first line, the second line, and what the button says. It will not make your page beautiful. It will make it understandable, which is the part that was costing you money. Five thousand naira, and no design skill needed to use it.
+
+**Caption**
+> Words, not pixels. ₦5,000. Message HOMEPAGE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. First 10 seconds
+2. Line 1
+3. Line 2
+4. The button
+5. ₦5,000 · HOMEPAGE
+
+**Caption**
+> It will not make your page pretty. It will make it understood.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The Homepage Blueprint is about the first ten seconds of your site, and it is words, not pixels.
+> 
+> Your first line. Your second line. What your button says.
+> 
+> It will not make your page beautiful. It will make it understandable, which is the part that was actually costing you money.
+> 
+> ₦5,000. No design skill needed to use it. Message HOMEPAGE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · Auto-playing sound
+
+**Type:** Entertain · **Why it works:** A refusal everyone has suffered from as a visitor.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> A client wanted sound to play automatically. We said no.
+
+**On-screen beats**
+- It is not a mute button
+- It is a close button
+- Especially on a bus
+- They agreed
+
+**Voiceover script**
+> A client wanted music to play the moment the site loaded. We said no. On a phone, in public, with the volume up, that is not a feature, it is an exit. They argued for a day, we built it without sound, and the enquiries went up. The fastest way to lose someone on mobile is to make a noise they did not ask for.
+
+**Caption**
+> On a phone with the volume up, sound is not a feature. It is an exit.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. Wanted: auto-play sound
+2. On a phone, in public
+3. That is a close button
+
+**Caption**
+> Never make a noise the visitor did not ask for.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> A client wanted music to play automatically when their site loaded.
+> 
+> We said no. On a phone, in public, with the volume up, that is not a feature. It is an exit.
+> 
+> They argued about it for a day. We built it without sound. Enquiries went up.
+> 
+> The fastest way to lose someone on mobile is to make a noise they did not ask for.
+> 
+> What would make you close a site immediately?
+
+
+---
+
+
+## Post 11 · Print your homepage
+
+**Type:** Teach · **Why it works:** A physical test that bypasses design opinion entirely.
+
+### TikTok · 21:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Print your homepage. Circle the first thing you read. If it is your logo, start again.
+
+**On-screen beats**
+- Print it
+- Squint
+- Circle the first thing
+- Logo means start again
+
+**Voiceover script**
+> Print your homepage and put it on the table. Squint. Circle the first thing you read. If it is your logo, start again, because your logo is your name and your name is not your offer. If it is your offer, good. If it is a stock photo, delete it. This takes four minutes and you already have a printer or a phone screen.
+
+**Caption**
+> Print it, squint, circle the first thing. That is your real homepage.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. Print it
+2. Squint
+3. Circle the first thing
+4. Logo? Start again
+
+**Caption**
+> Four minutes. No printer? Squint at your phone instead.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Print your homepage and put it on the table. Squint. Circle the first thing you read.
+> 
+> If it is your logo, start again. Your logo is your name, and your name is not your offer.
+> 
+> If it is your offer, good. If it is a stock photo, delete it.
+> 
+> Four minutes. No printer? Screenshot it and squint at your phone.
+> 
+> What did you circle?
 
 
 ---
