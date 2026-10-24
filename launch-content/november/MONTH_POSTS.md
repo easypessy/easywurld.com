@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Wednesday 25 November 2026** |
+| Ends | **Thursday 26 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **825 posts** (275 core ideas x 3 platforms) |
+| Month total | **858 posts** (286 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -15345,6 +15345,610 @@ writing on the spot.
 > If it says nothing, the promises were the entire advert — which is worth knowing before a customer finds out for you.
 > 
 > Try it tonight.
+
+
+---
+
+
+# Day 26 · Thursday · Thursday 26 Nov 2026 — The honest ad
+
+**Offer in focus:** PLAYBOOK
+
+---
+
+
+## Post 01 · Answers to questions nobody asked
+
+**Type:** Entertain · **Why it works:** The mismatch is visible in one screenshot.
+
+### TikTok · 07:00 · Screen recording, 23s
+
+**Hook (0-3s)**
+> This business answers four questions nobody asked and none of the four that matter.
+
+**On-screen beats**
+- Our journey
+- Our values
+- Our vision
+- Price? Where? When? How?
+
+**Voiceover script**
+> This page answers four questions nobody asked: our journey, our values, our vision, and our commitment to excellence. It does not answer the four that matter: how much, where are you, when can I get it, and how do I pay. The questions nobody asked are the ones the owner wanted to answer. The ones that matter are the ones the customer walked in with.
+
+**Caption**
+> Answers: journey, values, vision. Questions: price, location, timing, payment.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. Answered: our journey
+2. Answered: our values
+3. Unanswered: how much
+4. Unanswered: where
+
+**Caption**
+> The missing four are always the boring four.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A page I read answers four questions nobody asked: our journey, our values, our vision, our commitment to excellence.
+> 
+> It does not answer the four that matter: how much, where are you, when can I get it, how do I pay.
+> 
+> The questions nobody asked are the ones the owner wanted to answer. The ones that matter are the ones the customer arrived with.
+> 
+> Which four are missing from yours?
+
+
+---
+
+
+## Post 02 · One line, quoted
+
+**Type:** Entertain · **Why it works:** Letting a buyer's sentence carry the post is the most credible format.
+
+### TikTok · 09:15 · Kinetic type, 16s
+
+**Hook (0-3s)**
+> Someone bought the chat pack and sent us one line. Here it is.
+
+**On-screen beats**
+- One sentence
+- Unedited
+- From a real buyer
+- That is the whole post
+
+**Voiceover script**
+> Someone bought the chat pack and sent one line afterwards. It said: I used the price one and the man paid without arguing, first time in two years. I am not going to add anything to that, because anything I add would be me talking over the only useful review I have.
+
+**Caption**
+> "I used the price one and the man paid without arguing, first time in two years."
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. A buyer sent one line
+2. The price script
+3. "First time in two years"
+
+**Caption**
+> One sentence, forwarded, is worth a page of adjectives.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> Someone bought the chat pack and sent one line afterwards:
+> 
+> 'I used the price one and the man paid without arguing, first time in two years.'
+> 
+> I am not adding anything to that, because anything I add would be me talking over the only useful review I have.
+> 
+> If you have one of these, post it. Unedited.
+
+
+---
+
+
+## Post 03 · What buyers do first
+
+**Type:** Teach · **Why it works:** Knowing the entry point changes how you write the pack.
+
+### TikTok · 11:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> Almost every buyer opens the checklist first. Not the guide. The checklist.
+
+**On-screen beats**
+- Not the 20 page guide
+- The one page list
+- Because lists get done
+- So put the list first
+
+**Voiceover script**
+> Almost every buyer opens the checklist first, not the twenty page guide, because a list can be finished and a guide can only be started. Which means if you sell anything with a guide and a checklist, the checklist is the product and the guide is the reference. Put the list first in the folder, name it clearly, and watch how differently people use it.
+
+**Caption**
+> The checklist is the product. The guide is the reference. Order the folder that way.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 4-slide carousel
+
+**Slide copy**
+1. Guide: started
+2. Checklist: finished
+3. So checklist first
+4. Name it clearly
+
+**Caption**
+> Design for what gets finished, not what gets admired.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Almost every buyer opens the checklist first. Not the twenty-page guide. The checklist.
+> 
+> Because a list can be finished and a guide can only be started.
+> 
+> So if you sell anything with both, the checklist is the product and the guide is the reference. Put the list first in the folder and name it plainly.
+> 
+> What is first in yours?
+
+
+---
+
+
+## Post 04 · A template must be editable
+
+**Type:** Entertain · **Why it works:** A product principle stated as a rule.
+
+### TikTok · 13:45 · Talking head, 18s
+
+**Hook (0-3s)**
+> A template is only useful if it is editable. Otherwise it is a poster.
+
+**On-screen beats**
+- Editable
+- In the software you own
+- Not a locked PDF
+- A poster is decoration
+
+**Voiceover script**
+> A template is only useful if it is editable, in software you already have, without a subscription. A locked PDF is a poster, and posters decorate a room without changing anything in it. Which is why everything we sell opens in Word, Excel or a plain text file, and why I will keep saying that until the rest of the market stops shipping locked files.
+
+**Caption**
+> Editable, in software you already own. A locked PDF is a poster.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Template
+2. Must be editable
+3. Otherwise: a poster
+
+**Caption**
+> Ask what software it opens in before you buy it.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> A template is only useful if it is editable — in software you already have, without a subscription.
+> 
+> A locked PDF is a poster. It decorates a room without changing anything in it.
+> 
+> Everything we sell opens in Word, Excel or a plain text file, and I will keep saying that until the market stops shipping locked files.
+> 
+> What was the last locked file you bought?
+
+
+---
+
+
+## Post 05 · The buyer who rewrote it in Pidgin
+
+**Type:** Entertain · **Why it works:** Celebrating an edit is what makes the product real.
+
+### TikTok · 15:00 · Talking head, 28s
+
+**Hook (0-3s)**
+> A buyer rewrote one of our scripts in Pidgin and sent it back to us.
+
+**On-screen beats**
+- Same structure
+- His words
+- It was better
+- That is the product working
+
+**Voiceover script**
+> A buyer rewrote one of our scripts entirely in Pidgin and sent it to me as a thank you. Same structure, same three sentences, entirely his voice, and it was better than mine for his customer. That is not a problem with the script, that is the script working. A template you cannot personalise is a script you will never send.
+
+**Caption**
+> He rewrote it in Pidgin. That is the template working, not failing.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. Our script
+2. His Pidgin
+3. Same structure
+4. Better for his customer
+
+**Caption**
+> The words should sound like you. The structure can be borrowed.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A buyer rewrote one of our scripts entirely in Pidgin and sent it to me as a thank you.
+> 
+> Same structure. Same three sentences. Entirely his voice — and better than mine for his customer.
+> 
+> That is not a problem with the script. That is the script working.
+> 
+> A template you cannot personalise is a script you will never send.
+> 
+> Have you ever rewritten someone's template?
+
+
+---
+
+
+## Post 06 · Edit every script into your voice
+
+**Type:** Teach · **Why it works:** The instruction that turns a purchase into a result.
+
+### TikTok · 16:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Edit every script into your own voice. A script in the wrong voice is worse than none.
+
+**On-screen beats**
+- Read it out loud
+- Change the words you would not say
+- Cut a sentence
+- Then it is yours
+
+**Voiceover script**
+> Edit every script into your own voice before you send it. Read it out loud, change every word you would not say at the counter, and cut one sentence entirely. A script in somebody else's voice is worse than no script, because the customer can hear the costume, and a costume in a negotiation reads as a business that does not know what it is doing.
+
+**Caption**
+> Read it out loud. Change what you would not say. Cut one line. Now it is yours.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 4-slide carousel
+
+**Slide copy**
+1. Read it out loud
+2. Swap the words
+3. Cut one sentence
+4. Send it
+
+**Caption**
+> The costume is always audible in a negotiation.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Edit every script into your own voice before you send it.
+> 
+> Read it out loud. Change every word you would not say at the counter. Cut one sentence entirely.
+> 
+> A script in somebody else's voice is worse than no script, because the customer can hear the costume — and a costume in a negotiation reads as a business that does not know what it is doing.
+> 
+> Which word would you change first?
+
+
+---
+
+
+## Post 07 · Nobody's first attempt sounds like them
+
+**Type:** Entertain · **Why it works:** Normalises the rewrite, which is where most people quit.
+
+### TikTok · 18:00 · Kinetic type, 17s
+
+**Hook (0-3s)**
+> Nobody's first attempt sounds like them. Rewrite it twice.
+
+**On-screen beats**
+- First draft: stiff
+- Second: clearer
+- Third: yours
+- So do three
+
+**Voiceover script**
+> Nobody's first attempt sounds like them, and that includes professional writers. The first draft is stiff because you are trying to be correct. The second is clearer because you stopped performing. The third sounds like you, because by then you are bored of yourself and boredom is where the voice lives. So do three, and send the third.
+
+**Caption**
+> First draft: correct. Second: clear. Third: yours. Send the third.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. 1: correct
+2. 2: clear
+3. 3: yours
+
+**Caption**
+> Boredom is where your voice lives.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> Nobody's first attempt sounds like them — including professional writers.
+> 
+> Draft one is stiff, because you are trying to be correct. Draft two is clearer, because you stopped performing. Draft three sounds like you, because by then you are bored of yourself — and boredom is where the voice lives.
+> 
+> Do three. Send the third.
+> 
+> Which draft are you sending?
+
+
+---
+
+
+## Post 08 · Would you use someone else's words
+
+**Type:** Entertain · **Why it works:** The condition is the product spec.
+
+### TikTok · 19:00 · Street interview, 25s
+
+**Hook (0-3s)**
+> I asked if people would use words someone else wrote for them.
+
+**On-screen beats**
+- Most said yes
+- With one condition
+- Only if I can change them
+- Which is why ours are editable
+
+**Voiceover script**
+> I asked people whether they would use words somebody else wrote for them. Most said yes, with one condition: only if I can change them. Which is the entire product specification, arrived at by strangers in four seconds. Not better words. Editable words. Words you can bend into the way you actually talk, because the customer has met you and will notice if the message sounds like a company.
+
+**Caption**
+> "Only if I can change them." That is the whole product spec.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 3-slide carousel
+
+**Slide copy**
+1. Would you use a script?
+2. Yes, if...
+3. I can change it
+
+**Caption**
+> Editable is the feature. Everything else is packaging.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people whether they would use words somebody else wrote for them.
+> 
+> Most said yes, with one condition: 'Only if I can change them.'
+> 
+> That is the entire product specification, arrived at by strangers in four seconds. Not better words. Editable words — bent into the way you actually talk, because the customer has met you.
+> 
+> Would you use a script you could not edit?
+
+
+---
+
+
+## Post 09 · Everything is editable
+
+**Type:** Sell · **Why it works:** A product fact that doubles as a promise.
+
+### TikTok · 20:00 · Overhead shot, 22s
+
+**Hook (0-3s)**
+> Everything we sell is editable. Word, Excel, plain text. That is deliberate.
+
+**On-screen beats**
+- No locked PDFs
+- No subscriptions
+- Open it and change it
+- Then it is yours
+
+**Voiceover script**
+> Everything we sell opens in Word, Excel or a plain text file, and it is all editable, and that is deliberate. No locked PDFs, no subscriptions, no software to buy. Open the file, cross out my words, put yours in, and send it to a real customer. A pack you cannot edit is a pack you will not use, which makes it decoration with a price.
+
+**Caption**
+> Word, Excel, plain text. Editable, no subscription. ₦5,000 each. WhatsApp 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 4-slide carousel
+
+**Slide copy**
+1. Word
+2. Excel
+3. Plain text
+4. No subscription
+
+**Caption**
+> Editable is not a feature list. It is the difference between use and storage.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> Everything we sell is editable. Word, Excel, or plain text.
+> 
+> No locked PDFs. No subscriptions. No software to buy.
+> 
+> Open the file, cross out my words, put yours in, and send it to a real customer.
+> 
+> That is deliberate, because a pack you cannot edit is a pack you will not use — which makes it decoration with a price tag.
+> 
+> ₦5,000 each. WhatsApp 0905 069 0837.
+
+
+---
+
+
+## Post 10 · Asked for locked files
+
+**Type:** Entertain · **Why it works:** The refusal defines ownership in one line.
+
+### TikTok · 20:45 · Talking head, 29s
+
+**Hook (0-3s)**
+> Someone asked us to lock the files so they could not be edited. We said no.
+
+**On-screen beats**
+- Locking looks like protection
+- It is a wall
+- The words are yours
+- You bought them
+
+**Voiceover script**
+> Someone suggested we lock the files so buyers could not change them, to protect the brand voice. We said no, twice. Locking a file protects the writer's ego, not the buyer's business, and the words stop being useful the moment they cannot be bent into the way a real person talks. You buy the words. They are yours. Cross them out.
+
+**Caption**
+> You bought the words. They are yours. Cross them out.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. Asked: lock the files
+2. Said: no
+3. You own the words
+
+**Caption**
+> A locked template is a museum piece. You need a tool.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone suggested we lock the files so buyers could not change them, to protect the brand voice.
+> 
+> We said no, twice.
+> 
+> Locking a file protects the writer's ego, not the buyer's business. The words stop being useful the moment they cannot be bent into the way a real person talks.
+> 
+> You buy the words. They are yours. Cross them out.
+> 
+> What have you been sold that you could not edit?
+
+
+---
+
+
+## Post 11 · Rewrite one script tonight
+
+**Type:** Teach · **Why it works:** One action, with a deadline and a use date.
+
+### TikTok · 21:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> Tonight, rewrite one script in your own words. Then use it tomorrow.
+
+**On-screen beats**
+- Pick the price one
+- Rewrite it
+- Say it out loud
+- Send it tomorrow
+
+**Voiceover script**
+> Tonight, pick one script, rewrite it in your own words, read it out loud once, and send it to a real customer tomorrow. Not all thirty six. One. Rewritten, said out loud, sent within twenty four hours. That is the whole homework, and the people who do it are the only ones who ever tell me the pack worked.
+
+**Caption**
+> One script. Rewritten tonight. Sent tomorrow. That is the whole homework.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. Pick one
+2. Rewrite it
+3. Say it out loud
+4. Send tomorrow
+
+**Caption**
+> A pack becomes useful the moment one line leaves your phone.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Tonight: pick one script, rewrite it in your own words, read it out loud once, and send it to a real customer tomorrow.
+> 
+> Not all thirty-six. One.
+> 
+> Rewritten, said out loud, sent within 24 hours.
+> 
+> That is the whole homework — and the people who do it are the only ones who ever tell me the pack worked.
+> 
+> Will you do it?
 
 
 ---
