@@ -1,7 +1,7 @@
 import { useEffect, useRef, type PointerEvent } from "react";
 import { Link } from "wouter";
 import { ArrowUpRight } from "lucide-react";
-import { WA } from "@/components/site/Layout";
+import { waOpen } from "@/lib/wa";
 
 /** Homepage-only hero. CSS owns the motion; the artwork is purely decorative. */
 export default function HomeHero() {
@@ -86,7 +86,7 @@ export default function HomeHero() {
           </p>
 
           <div className="home-hero-actions">
-            <a href={WA} target="_blank" rel="noopener noreferrer" className="btn btn-solid">
+            <a href={waOpen()} target="_blank" rel="noopener noreferrer" className="btn btn-solid">
               Start a project <ArrowUpRight size={17} />
             </a>
             <Link href="/projects" className="btn btn-ghost">

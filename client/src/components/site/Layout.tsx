@@ -1,8 +1,9 @@
 import { useEffect, useRef, useState } from "react";
 import { Link, useLocation } from "wouter";
 import { Menu, X } from "lucide-react";
+import { WA, captureSource, waOpen } from "@/lib/wa";
 
-export const WA = "https://wa.me/2349050690837";
+export { WA };
 
 /* ---------- SEO: per-route head management ---------- */
 export function Seo({
@@ -105,7 +106,7 @@ function Header() {
               {label}
             </Link>
           ))}
-          <a className="btn btn-solid" href={WA} target="_blank" rel="noopener noreferrer">
+          <a className="btn btn-solid" href={waOpen()} target="_blank" rel="noopener noreferrer">
             Start a project
           </a>
         </nav>
@@ -151,6 +152,7 @@ function Footer() {
               <Link href="/services">Copywriting</Link>
               <Link href="/services">Reports & presentations</Link>
               <Link href="/offers">₦5,000 offers</Link>
+              <Link href="/bundle">All nine · ₦35,000</Link>
             </div>
           </div>
           <div>
@@ -165,7 +167,7 @@ function Footer() {
           <div>
             <h4>Contact</h4>
             <div className="ftr-links">
-              <a href={WA} target="_blank" rel="noopener noreferrer">WhatsApp · 0905 069 0837</a>
+              <a href={waOpen()} target="_blank" rel="noopener noreferrer">WhatsApp · 0905 069 0837</a>
               <Link href="/free-review">Free website review</Link>
               <Link href="/contact">Start a project</Link>
               <Link href="/about">About Easywurld</Link>
@@ -184,6 +186,9 @@ function Footer() {
 export default function Layout({ children }: { children: React.ReactNode }) {
   const [loc] = useLocation();
   useEffect(() => { window.scrollTo(0, 0); }, [loc]);
+  /* Records ?src=CODE from the landing URL so WhatsApp messages can say where the
+     visitor came from. See client/src/lib/wa.ts and marketing/measurement/. */
+  useEffect(() => { captureSource(); }, [loc]);
   return (
     <>
       <Header />

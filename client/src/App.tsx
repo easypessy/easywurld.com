@@ -12,6 +12,7 @@ const Work = lazy(() => import("./pages/Work"));
 const CaseStudy = lazy(() => import("./pages/CaseStudy"));
 const Services = lazy(() => import("./pages/Services"));
 const Offers = lazy(() => import("./pages/Offers"));
+const Bundle = lazy(() => import("./pages/Bundle"));
 const OfferDetail = lazy(() => import("./pages/OfferDetail"));
 const About = lazy(() => import("./pages/About"));
 const Contact = lazy(() => import("./pages/Contact"));
@@ -30,6 +31,7 @@ function Router() {
         <Route path="/work/:slug">{(p) => <Redirect to={`/projects/${p.slug}`} />}</Route>
         <Route path="/services" component={Services} />
         <Route path="/offers" component={Offers} />
+        <Route path="/bundle" component={Bundle} />
         <Route path="/offers/:slug" component={OfferDetail} />
         <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} />

@@ -1,6 +1,7 @@
 import { Link } from "wouter";
 import { projects } from "@/data";
-import { Seo, Reveal, WA } from "@/components/site/Layout";
+import { Seo, Reveal } from "@/components/site/Layout";
+import { waOpen } from "@/lib/wa";
 
 export default function About() {
   return (
@@ -103,7 +104,7 @@ export default function About() {
         <div className="wrap" style={{ textAlign: "center" }}>
           <h2 style={{ maxWidth: "20ch", marginInline: "auto" }}>Tell us what you're trying to solve.</h2>
           <div style={{ display: "flex", gap: 14, justifyContent: "center", flexWrap: "wrap", marginTop: 26 }}>
-            <a href={WA} target="_blank" rel="noopener noreferrer" className="btn btn-wa">
+            <a href={waOpen()} target="_blank" rel="noopener noreferrer" className="btn btn-wa">
               Message us on WhatsApp
             </a>
             <Link href="/contact" className="btn btn-ghost">Send a brief</Link>

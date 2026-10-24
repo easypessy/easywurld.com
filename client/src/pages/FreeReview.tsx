@@ -1,6 +1,7 @@
 import { ArrowUpRight, MessageCircle } from "lucide-react";
 import { Link } from "wouter";
-import { Seo, Reveal, WA } from "@/components/site/Layout";
+import { Seo, Reveal } from "@/components/site/Layout";
+import { waMessage } from "@/lib/wa";
 
 /* The offer we lead every pitch with. It has to stay true: we run this check
    ourselves, within a day, and we tell people when they don't need us. */
@@ -28,10 +29,12 @@ const STEPS = [
   ["You get it within a day", "The voice note and the three points land in the same WhatsApp thread. No form, no account, no call."],
 ];
 
-const SEND_TEXT = encodeURIComponent(
-  "Hello Easywurld, I'd like the free 3-point website review.\n\nMy site: \nMy business: \nWhat we sell: ",
-);
-const REVIEW_LINK = `${WA}?text=${SEND_TEXT}`;
+/* A function, not a constant: the source code is added at click time from the
+   visitor's session, so the review request also tells us which post brought them. */
+const reviewLink = () =>
+  waMessage(
+    "Hello Easywurld, I'd like the free 3-point website review.\n\nMy site: \nMy business: \nWhat we sell: ",
+  );
 
 export default function FreeReview() {
   return (
@@ -55,7 +58,7 @@ export default function FreeReview() {
             </p>
             <p style={{ marginTop: 26, display: "flex", gap: 14, flexWrap: "wrap", alignItems: "center" }}>
               <a
-                href={REVIEW_LINK}
+                href={reviewLink()}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-wa"
@@ -162,7 +165,7 @@ export default function FreeReview() {
               while we're building our own record.
             </p>
             <div style={{ display: "flex", gap: 14, justifyContent: "center", flexWrap: "wrap", marginTop: 30 }}>
-              <a href={REVIEW_LINK} target="_blank" rel="noopener noreferrer" className="btn btn-wa">
+              <a href={reviewLink()} target="_blank" rel="noopener noreferrer" className="btn btn-wa">
                 <MessageCircle size={18} /> Send my link on WhatsApp
               </a>
               <Link href="/contact" className="btn btn-ghost">

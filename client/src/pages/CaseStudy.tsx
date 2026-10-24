@@ -4,7 +4,8 @@ import { bySlug, related } from "@/data";
 import Artwork from "@/components/site/Artwork";
 import ProjectCard from "@/components/site/ProjectCard";
 import NotFound from "@/pages/NotFound";
-import { Seo, Reveal, WA } from "@/components/site/Layout";
+import { Seo, Reveal } from "@/components/site/Layout";
+import { waOpen } from "@/lib/wa";
 
 export default function CaseStudy() {
   const [, params] = useRoute("/projects/:slug");
@@ -165,7 +166,7 @@ export default function CaseStudy() {
             Working on something similar?
           </h2>
           <div style={{ display: "flex", gap: 14, justifyContent: "center", flexWrap: "wrap", marginTop: 24 }}>
-            <a href={WA} target="_blank" rel="noopener noreferrer" className="btn btn-wa">
+            <a href={waOpen()} target="_blank" rel="noopener noreferrer" className="btn btn-wa">
               Discuss it on WhatsApp
             </a>
             <Link href="/contact" className="btn btn-ghost">Send a brief</Link>

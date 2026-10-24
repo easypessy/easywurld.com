@@ -3,6 +3,8 @@ import { useEffect } from "react";
 import NotFound from "@/pages/NotFound";
 import { Seo, Reveal } from "@/components/site/Layout";
 import { OFFERS, OFFER_PRICE, RATE, naira, offerBySlug } from "@/data/offers";
+import { BUNDLE_PRICE, saving } from "@/data/bundle";
+import { payLinkFor } from "@/data/payment";
 import { FaqList, HowItWorks, waLink } from "@/pages/Offers";
 
 export default function OfferDetail() {
@@ -21,6 +23,7 @@ export default function OfferDetail() {
     return () => { el.remove(); };
   }, [o]);
   if (!o) return <NotFound />;
+  const pay = payLinkFor(o.slug);
   const i = OFFERS.findIndex((x) => x.slug === o.slug);
   const prev = OFFERS[(i + OFFERS.length - 1) % OFFERS.length];
   const next = OFFERS[(i + 1) % OFFERS.length];
@@ -44,11 +47,20 @@ export default function OfferDetail() {
             <p className="lead" style={{ maxWidth: "58ch", marginTop: 18 }}>{o.tagline}</p>
             <div className="of-buy">
               <span className="of-price of-price--lg">{naira(OFFER_PRICE)}</span>
-              <a href={waLink(o)} target="_blank" rel="noopener noreferrer" className="btn btn-wa">
+              {pay && (
+                <a href={pay} target="_blank" rel="noopener noreferrer" className="btn btn-solid">
+                  Pay {naira(OFFER_PRICE)} now
+                </a>
+              )}
+              <a href={waLink(o)} target="_blank" rel="noopener noreferrer" className={`btn ${pay ? "btn-ghost" : "btn-wa"}`}>
                 Message {o.keyword} on WhatsApp
               </a>
-              <span className="of-small" style={{ margin: 0 }}>Digital download · paid and delivered on WhatsApp</span>
+              <span className="of-small" style={{ margin: 0 }}>Digital download · delivered on WhatsApp</span>
             </div>
+            <p className="of-small" style={{ marginTop: 14 }}>
+              Want all {OFFERS.length} packs? The <Link href="/bundle" className="textlink">Complete Bundle is {naira(BUNDLE_PRICE)}</Link>{" "}
+              — {naira(saving)} less than buying them one at a time.
+            </p>
           </Reveal>
         </div>
       </section>

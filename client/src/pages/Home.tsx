@@ -3,7 +3,10 @@ import { ArrowUpRight } from "lucide-react";
 import { projects, CATEGORIES, countFor } from "@/data";
 import ProjectCard from "@/components/site/ProjectCard";
 import HomeHero from "@/components/site/HomeHero";
-import { Seo, Reveal, WA } from "@/components/site/Layout";
+import { Seo, Reveal } from "@/components/site/Layout";
+import { OFFERS, OFFER_PRICE, naira } from "@/data/offers";
+import { BUNDLE_PRICE, fileCount, saving } from "@/data/bundle";
+import { waOpen } from "@/lib/wa";
 
 const PROBLEMS = [
   ["People can't tell what you do", "Your business grew and changed. The website still says what you said three years ago."],
@@ -21,6 +24,12 @@ const SERVICES = [
   ["06", "Copywriting & business content", "Plain words for your website, offers, emails and service pages."],
   ["07", "Reports & presentations", "Reports and decks people read to the end."],
 ];
+
+/* Three offers that cover the most common problems, plus the bundle. The full
+   list lives on /offers; the homepage only has to open the door. */
+const FEATURED_OFFERS = [1, 2, 9]
+  .map((n) => OFFERS.find((o) => o.n === n))
+  .filter((o): o is (typeof OFFERS)[number] => Boolean(o));
 
 const PROCESS = [
   ["Understand", "We learn about your business, your customers and the real problem. It is often not the one you first described."],
@@ -235,6 +244,65 @@ export default function Home() {
         </div>
       </section>
 
+      {/* OFFERS — the products were invisible from the homepage until now */}
+      <section style={{ background: "var(--beige)" }} aria-labelledby="home-offers">
+        <div className="wrap">
+          <Reveal>
+            <p className="eyebrow">06 / If you would rather do it yourself</p>
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "end", gap: 30, flexWrap: "wrap" }}>
+              <h2 id="home-offers" style={{ maxWidth: "20ch", margin: 0 }}>
+                Nine working packs. Not articles.
+              </h2>
+              <Link href="/offers" className="textlink">All {OFFERS.length} offers →</Link>
+            </div>
+            <p className="lead" style={{ maxWidth: "56ch", marginTop: 16 }}>
+              The same documents we use on paid work: scripts, templates, checklists and
+              spreadsheets you can edit and use today. {naira(OFFER_PRICE)} each.
+            </p>
+          </Reveal>
+
+          <div className="grid-2" style={{ marginTop: 30, alignItems: "start" }}>
+            <Reveal>
+              <div className="home-bundle">
+                <p className="of-cat" style={{ color: "#C9D8CD" }}>The bundle · save {naira(saving)}</p>
+                <h3 style={{ color: "var(--paper)", margin: "0 0 10px", maxWidth: "16ch" }}>
+                  All nine packs. One download.
+                </h3>
+                <p style={{ color: "#C3D2C8", margin: "0 0 20px", fontSize: "var(--t-sm)" }}>
+                  {fileCount} editable files — PDF, Word, Excel and HTML. One payment instead of nine.
+                </p>
+                <div style={{ display: "flex", alignItems: "baseline", gap: 12, flexWrap: "wrap", marginBottom: 20 }}>
+                  <span className="of-price" style={{ color: "var(--paper)" }}>{naira(BUNDLE_PRICE)}</span>
+                  <span style={{ color: "#9FB3A6", fontSize: "var(--t-sm)", textDecoration: "line-through" }}>
+                    {naira(OFFER_PRICE * OFFERS.length)}
+                  </span>
+                </div>
+                <Link href="/bundle" className="btn btn-solid">See what is inside</Link>
+              </div>
+            </Reveal>
+
+            <Reveal delay={80}>
+              <div>
+                {FEATURED_OFFERS.map((o) => (
+                  <Link key={o.slug} href={`/offers/${o.slug}`} className="home-offer-row">
+                    <div>
+                      <h3>{o.name}</h3>
+                      <p>{o.tagline}</p>
+                    </div>
+                    <span className="home-offer-price">{naira(OFFER_PRICE)}</span>
+                  </Link>
+                ))}
+                <p style={{ margin: "18px 0 0" }}>
+                  <Link href="/free-review" className="textlink">
+                    Not ready to buy? Get a free 3-point review of your site →
+                  </Link>
+                </p>
+              </div>
+            </Reveal>
+          </div>
+        </div>
+      </section>
+
       {/* CTA */}
       <section style={{ background: "var(--beige-2)" }}>
         <div className="wrap" style={{ textAlign: "center" }}>
@@ -247,7 +315,7 @@ export default function Home() {
               way to reach us.
             </p>
             <div style={{ display: "flex", gap: 14, justifyContent: "center", flexWrap: "wrap", marginTop: 30 }}>
-              <a href={WA} target="_blank" rel="noopener noreferrer" className="btn btn-wa">
+              <a href={waOpen()} target="_blank" rel="noopener noreferrer" className="btn btn-wa">
                 Message us on WhatsApp
               </a>
               <Link href="/free-review" className="btn btn-solid">

@@ -1,12 +1,14 @@
 import { Link } from "wouter";
 import { useEffect } from "react";
-import { Seo, Reveal, WA } from "@/components/site/Layout";
+import { Seo, Reveal } from "@/components/site/Layout";
+import { waMessage } from "@/lib/wa";
 import { OFFERS, OFFER_PRICE, RATE, TOTAL_VALUE, naira, type Offer } from "@/data/offers";
+import { BUNDLE_PRICE, singleTotal, saving, fileCount } from "@/data/bundle";
 
 export const waLink = (o?: Offer) =>
   o
-    ? `${WA}?text=${encodeURIComponent(`Hello Easywurld, I would like the ${o.name} (${naira(OFFER_PRICE)}). Keyword: ${o.keyword}.`)}`
-    : `${WA}?text=${encodeURIComponent("Hello Easywurld, I have a question about your \u20a65,000 offers.")}`;
+    ? waMessage(`Hello Easywurld, I would like the ${o.name} (${naira(OFFER_PRICE)}). Keyword: ${o.keyword}.`)
+    : waMessage("Hello Easywurld, I have a question about your \u20a65,000 offers.");
 
 const formatsOf = (o: Offer) => {
   const all = o.deliverables.map((d) => d.fmt.toUpperCase()).join(" ");
@@ -124,6 +126,31 @@ export default function Offers() {
               <span>Word, Excel, PDF and HTML</span>
               <span>Paid and delivered on WhatsApp</span>
               <span>No guaranteed results</span>
+            </div>
+          </Reveal>
+        </div>
+      </section>
+
+      {/* The bundle is the best-value sale on the site, so it sits above the grid
+          rather than at the bottom where nobody scrolls. */}
+      <section style={{ paddingTop: 6, paddingBottom: 12 }} aria-labelledby="of-bundle-h">
+        <div className="wrap">
+          <Reveal>
+            <div className="of-bundle">
+              <div>
+                <p className="of-cat">The bundle · save {naira(saving)}</p>
+                <h2 id="of-bundle-h" style={{ margin: "0 0 8px", maxWidth: "22ch" }}>
+                  All {OFFERS.length} packs for {naira(BUNDLE_PRICE)}.
+                </h2>
+                <p style={{ margin: 0, maxWidth: "58ch", fontSize: "var(--t-sm)", color: "var(--ink-2)" }}>
+                  {fileCount} editable files. One payment. Buying them one at a time costs{" "}
+                  {naira(singleTotal)}, so you keep {naira(saving)}.
+                </p>
+              </div>
+              <div className="of-bundle-cta">
+                <span className="of-price">{naira(BUNDLE_PRICE)}</span>
+                <Link href="/bundle" className="btn btn-solid">See the bundle</Link>
+              </div>
             </div>
           </Reveal>
         </div>

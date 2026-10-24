@@ -1,6 +1,7 @@
 import { Link } from "wouter";
 import { CATEGORIES, countFor } from "@/data";
-import { Seo, Reveal, WA } from "@/components/site/Layout";
+import { Seo, Reveal } from "@/components/site/Layout";
+import { waOpen } from "@/lib/wa";
 
 const DETAIL: Record<string, { blurb: string; items: string[]; deliver: string }> = {
   "Digital Marketing": {
@@ -135,7 +136,7 @@ export default function Services() {
               Send us a short description of the problem on WhatsApp. You will get a price
               range the same day, or an honest answer that this is not a job we should take.
             </p>
-            <a href={WA} target="_blank" rel="noopener noreferrer" className="btn btn-wa" style={{ marginTop: 10 }}>
+            <a href={waOpen()} target="_blank" rel="noopener noreferrer" className="btn btn-wa" style={{ marginTop: 10 }}>
               Ask for a range
             </a>
           </div>

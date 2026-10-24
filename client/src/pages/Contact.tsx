@@ -1,7 +1,8 @@
 import { useState } from "react";
 import { ArrowUpRight, MessageCircle } from "lucide-react";
 import { CATEGORIES } from "@/data";
-import { Seo, Reveal, WA } from "@/components/site/Layout";
+import { Seo, Reveal } from "@/components/site/Layout";
+import { waMessage, waOpen } from "@/lib/wa";
 
 export default function Contact() {
   const [sent, setSent] = useState(false);
@@ -21,7 +22,7 @@ export default function Contact() {
       "",
       `What I'm trying to solve: ${get("problem") || "—"}`,
     ];
-    window.open(`${WA}?text=${encodeURIComponent(lines.join("\n"))}`, "_blank", "noopener");
+    window.open(waMessage(lines.join("\n")), "_blank", "noopener");
     setSent(true);
   }
 
@@ -54,7 +55,7 @@ export default function Contact() {
                 If you would rather just talk, skip the form. Tell us the problem in one
                 sentence and we will take it from there.
               </p>
-              <a href={WA} target="_blank" rel="noopener noreferrer" className="btn btn-wa">
+              <a href={waOpen()} target="_blank" rel="noopener noreferrer" className="btn btn-wa">
                 <MessageCircle size={18} /> 0905 069 0837
               </a>
 

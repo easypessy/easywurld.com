@@ -9,6 +9,8 @@
     "start": "NODE_ENV=production node dist/index.js",
     "preview": "vite preview --host",
     "check": "tsc --noEmit",
+    "score": "node tools/score-content.mjs",
+    "score:example": "node tools/score-content.mjs marketing/measurement/example-tracker.csv",
     "format": "prettier --write ."
   },
   "dependencies": {
