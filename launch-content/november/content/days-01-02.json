@@ -1,0 +1,989 @@
+[
+  {
+    "day": 1,
+    "label": "Day 1 · Sunday",
+    "theme": "Everything you were told",
+    "offer": "The Clear Homepage Blueprint · CLEAR",
+    "posts": [
+      {
+        "id": "D1-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "This bakery's homepage says 'welcome'",
+        "why": "Recognition plus relief. They have seen this page a hundred times without being able to say what was wrong with it.",
+        "tiktok": {
+          "fmt": "Screen recording + talking head, 26s",
+          "hook": "This bakery's whole first screen says 'Welcome to our website'.",
+          "beats": [
+            "Not ugly. Unclear",
+            "A stranger learns nothing in 4 seconds",
+            "Say what you sell, when it is ready",
+            "Then one button"
+          ],
+          "vo": "This bakery's whole first screen says welcome to our website. Not ugly, unclear. A stranger lands, learns nothing in four seconds, and leaves. Say the thing only you can say. Bread out of the oven at 6am, Agege. Then one button: order for pickup. That is the whole page.",
+          "cap": "Not ugly. Unclear. The first screen has one job: tell a stranger what you sell and what to do next.",
+          "tags": [
+            "#LagosBusiness",
+            "#WebsiteDesign",
+            "#SmallBusinessNigeria",
+            "#Easywurld"
+          ],
+          "asset": "Screen recording of a cream-toned fake bakery page, terracotta arrow on the headline."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": [
+            "'Welcome to our website'",
+            "Is not a headline",
+            "It is a doormat",
+            "Say what you sell + when it is ready",
+            "Then one button"
+          ],
+          "cap": "Most Lagos homepages open with a welcome. A stranger does not want to be welcomed. They want to know if you sell the thing they came for.\n\nWrite what you sell. Say when it is ready. Add one button.",
+          "tags": [
+            "#LagosSME",
+            "#WebDesignNigeria",
+            "#Easywurld",
+            "#SmallBusinessTips"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 90 words",
+          "body": "Open your homepage as if you have never seen it. Can you tell what they sell in four seconds?\n\nMost pages open with 'welcome to our website'. That is a doormat, not a headline. A stranger is standing in the doorway deciding whether to come in.\n\nTry this: name what you sell, say when it is ready, and give one button. 'Bread out of the oven at 6am, Agege. Order for pickup.'\n\nThat is the whole first screen.\n\nWhat does your first screen say right now?"
+        }
+      },
+      {
+        "id": "D1-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "'Committed to excellence'",
+        "why": "A shared embarrassment everyone recognises in their own copy.",
+        "tiktok": {
+          "fmt": "Kinetic type, 14s",
+          "hook": "Every Nigerian business is 'committed to excellence'. Nobody has ever felt excellence.",
+          "beats": [
+            "Excellence is not a promise",
+            "It is a Tuesday",
+            "Say the thing you do before 9am",
+            "That is the proof"
+          ],
+          "vo": "Every Nigerian business is committed to excellence. Nobody has ever felt excellence. You cannot feel a commitment. You can feel that the order came in twenty minutes. Say the thing you actually do before nine a.m. and let that be the promise.",
+          "cap": "Excellence is a word. 'We confirm every order within 20 minutes' is a promise you can keep.",
+          "tags": [
+            "#LagosBusiness",
+            "#Relatable",
+            "#Easywurld",
+            "#SmallBusinessTips"
+          ]
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Committed to excellence",
+            "Said nobody's customer, ever",
+            "Say what happens, and when"
+          ],
+          "cap": "If your About page could belong to any business in Nigeria, it is not describing your business.\n\nReplace one adjective with one promise.",
+          "tags": [
+            "#Copywriting",
+            "#LagosSME",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 80 words",
+          "body": "'Committed to excellence since 2014.'\n\nNobody has ever felt excellence. They feel that their order was confirmed in twenty minutes, or that somebody picked up on the second ring.\n\nA promise you can check beats an adjective you cannot. Replace one line on your About page this week with something that happens on a normal Tuesday.\n\nWhat is one thing your business actually does, every single time?"
+        }
+      },
+      {
+        "id": "D1-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The three-part price reply",
+        "why": "Relief. It gives them the exact fix for a moment they lived through this morning.",
+        "tiktok": {
+          "fmt": "Kinetic type, 22s",
+          "hook": "Your price reply ends with a question mark. That is where the sale dies.",
+          "beats": [
+            "Price",
+            "What it includes, one line",
+            "One question that moves forward",
+            "No question mark on the price"
+          ],
+          "vo": "Someone asked how much. You said fifteen thousand, do you want it? That question hands the decision back to a person who was already deciding. Say the price, say what it includes in one line, then ask something that moves forward. Send your address and I will reserve one. One sentence. No question mark on the price.",
+          "cap": "Price. What it includes. One question that moves it forward. That is the whole reply.",
+          "tags": [
+            "#WhatsAppBusiness",
+            "#SmallBusinessNigeria",
+            "#Easywurld",
+            "#SalesTips"
+          ]
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "'How much?'",
+            "'₦15,000. Do you want it?'",
+            "That question is the problem",
+            "Say the price, then what happens next",
+            "₦15,000. Delivered Wednesday. Send your address."
+          ],
+          "cap": "The question mark at the end of a price is where the chat goes quiet.\n\nSay the price. Say what happens next. Say nothing else.",
+          "tags": [
+            "#WhatsAppBusiness",
+            "#LagosSME",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 100 words",
+          "body": "A customer asks how much. You reply '₦15,000, do you want it?' and the chat goes quiet.\n\nYou think they lost interest. They did not. You asked them a question they were not ready to answer, and gave them nothing to do next.\n\nTry this instead: '₦15,000. Delivered Wednesday. Send your address and I will reserve one.'\n\nPrice. What happens next. No question mark. That one change is worth more than most ad budgets.\n\nWhat is your standard price reply? Paste it and I will tell you what it is missing."
+        }
+      },
+      {
+        "id": "D1-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "Your logo is not the problem",
+        "why": "Relief from a worry they have been carrying.",
+        "tiktok": {
+          "fmt": "Talking head, 18s",
+          "hook": "Your logo is not why nobody is buying.",
+          "beats": [
+            "It is line four on your page",
+            "Where you still say 'solutions'",
+            "Nobody can find the button",
+            "Fix that first"
+          ],
+          "vo": "Your logo is not why nobody is buying. It is line four on your page, where you still say solutions. It is that nobody can find the button on a phone. Nobody has ever left a business because the logo was ordinary. They leave because they could not work out what to do next.",
+          "cap": "Nobody ever left a business because the logo was ordinary. They left because they could not tell what to do next.",
+          "tags": [
+            "#LagosBusiness",
+            "#HotTake",
+            "#Easywurld",
+            "#Branding"
+          ]
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Your logo is fine",
+            "Line four is not",
+            "'Solutions' is not a thing you sell"
+          ],
+          "cap": "Spend the money on the words before the mark. Words are what a stranger reads at 11pm.",
+          "tags": [
+            "#Branding",
+            "#LagosSME",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 85 words",
+          "body": "A new logo feels like progress because it is visible and it finishes in a week.\n\nMeanwhile line four of the homepage still says 'solutions', the button is invisible on a phone, and the prices are in a PDF.\n\nNobody has ever left a business because the logo was ordinary. They leave because they could not work out what to do next. Fix the reading order first. The mark can wait.\n\nIf a stranger read only your homepage, what would they think you sell?"
+        }
+      },
+      {
+        "id": "D1-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "Forty packs a day, cracked screen",
+        "why": "Proof that speed beats polish, told as a story rather than a claim.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "She sells forty packs of jollof a day from a phone with a cracked screen.",
+          "beats": [
+            "No website",
+            "No logo",
+            "Four-minute replies",
+            "That is the whole system"
+          ],
+          "vo": "She sells forty packs of jollof a day from a phone with a cracked screen. No website. No logo. She answers every message in about four minutes, and she knows your name by the second order. That is the whole system. We spend months on branding and she is beating us with a cracked screen and a fast reply.",
+          "cap": "The most sophisticated sales system in Lagos is a cracked screen and a four-minute reply.",
+          "tags": [
+            "#Lagos",
+            "#StoryTime",
+            "#Easywurld",
+            "#SmallBusinessNigeria"
+          ]
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "No website",
+            "No logo",
+            "Four-minute replies",
+            "Forty packs a day"
+          ],
+          "cap": "Speed is a brand. Consistency is a brand. A cracked screen with a four-minute reply beats a beautiful site that answers tomorrow.",
+          "tags": [
+            "#LagosBusiness",
+            "#StoryTime",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 95 words",
+          "body": "I know a woman who sells forty packs of jollof a day from a phone with a cracked screen.\n\nNo website. No logo. No 'committed to excellence'. She answers every message in about four minutes and remembers your name by the second order.\n\nWe spend months on the things you can photograph and skip the thing you cannot: how fast somebody hears back.\n\nIf you only fix one thing this month, fix the reply.\n\nHow long does a new customer wait before they hear from you?"
+        }
+      },
+      {
+        "id": "D1-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The four-second test",
+        "why": "An action they can take in the next two minutes, on their own phone.",
+        "tiktok": {
+          "fmt": "Screen recording, 20s",
+          "hook": "Open your website. Look away. Look back. Can you say what they sell?",
+          "beats": [
+            "Four seconds",
+            "No scrolling allowed",
+            "If you hesitate, they left",
+            "Rewrite the first line"
+          ],
+          "vo": "Open your website. Look away for four seconds. Look back. Can you say what they sell without scrolling? If you hesitated, a stranger left. Not because the site is bad, but because the first screen is decoration. Rewrite one line today: what you sell, who for, what to do next.",
+          "cap": "Do it on your own site right now. Four seconds. No scrolling.",
+          "tags": [
+            "#WebsiteTips",
+            "#LagosSME",
+            "#Easywurld",
+            "#SmallBusinessTips"
+          ]
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "Look away for 4 seconds",
+            "Look back",
+            "Can you say what they sell?",
+            "No scrolling allowed",
+            "If you hesitated, so did they"
+          ],
+          "cap": "The four-second test. Run it on your own homepage tonight. It is free and it is brutal.",
+          "tags": [
+            "#WebDesign",
+            "#LagosBusiness",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 90 words",
+          "body": "Try this on your own site tonight.\n\nOpen the homepage. Look away for four seconds. Look back. Can you say what the business sells, who it is for, and what to do next, without scrolling?\n\nIf you hesitated, so did every stranger this month.\n\nIt is not a design problem. It is a first-sentence problem, and it costs one evening to fix.\n\nTell me what you sell in one sentence and I will tell you if a stranger could guess it."
+        }
+      },
+      {
+        "id": "D1-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "Make it pop",
+        "why": "A shared joke that lands with anyone who has ever been briefed badly.",
+        "tiktok": {
+          "fmt": "Kinetic type, 12s",
+          "hook": "Client: make it pop. Designer: pop where?",
+          "beats": [
+            "Pop is not a direction",
+            "What should the visitor do?",
+            "Say that instead",
+            "Then it takes a day, not a month"
+          ],
+          "vo": "Client says make it pop. Designer says pop where. Pop is not a direction. What should the visitor do when they land? Say that instead, and the job takes a day instead of a month of revisions nobody enjoys.",
+          "cap": "'Make it pop' has cost more money in this country than any other three words.",
+          "tags": [
+            "#Lagos",
+            "#Relatable",
+            "#Easywurld",
+            "#Design"
+          ]
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "'Make it pop'",
+            "Is not a brief",
+            "'Order for pickup by 6pm' is"
+          ],
+          "cap": "The fastest way to end revisions: say what the visitor should do.",
+          "tags": [
+            "#DesignHumor",
+            "#LagosSME",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 75 words",
+          "body": "'Just make it pop.'\n\nThree words that have cost Nigerian businesses more money than any other feedback. Pop is not a direction, so every designer guesses, and you pay for the guesses.\n\nTry: 'I want a stranger to press the order button.' Now it is a brief, and the job takes a day.\n\nWhat is the vaguest feedback you have ever received on your business?"
+        }
+      },
+      {
+        "id": "D1-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "What does a website cost?",
+        "why": "Reach. It is funny, local, and every business owner has an opinion.",
+        "tiktok": {
+          "fmt": "Street interview, 30s",
+          "hook": "I asked twelve Lagos traders what a website costs.",
+          "beats": [
+            "Nine did not know",
+            "Two said a number",
+            "One had one and hated it",
+            "Nobody knew what it should do"
+          ],
+          "vo": "I asked twelve Lagos traders what a website costs. Nine said they did not know. Two gave me a number. One already had a website and told me it was useless, which turned out to mean nobody visited it. Not one of them told me what a website should do for them. That is the part nobody is selling.",
+          "cap": "Nobody in the market is confused about the price. They are confused about the point.",
+          "tags": [
+            "#Lagos",
+            "#StreetInterview",
+            "#SmallBusinessNigeria",
+            "#Easywurld"
+          ]
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "12 traders",
+            "9 did not know",
+            "1 had one, hated it",
+            "0 knew what it was for"
+          ],
+          "cap": "The price question is easy. The question underneath it is 'what will change?' Answer that and the price stops being a problem.",
+          "tags": [
+            "#LagosBusiness",
+            "#StreetInterview",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 100 words",
+          "body": "I asked twelve Lagos traders what a website costs.\n\nNine did not know. Two gave me a number. One already had a site and said it was useless, which turned out to mean nobody visited it.\n\nNot one of them told me what a website should do for them. That is the gap. The industry sells pages. Business owners are trying to buy customers, and nobody is connecting the two.\n\nIf you are thinking about a site, start with the change you want, not the page count.\n\nWhat would have to change for a website to be worth ₦150,000 to you?"
+        }
+      },
+      {
+        "id": "D1-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "Why you should not buy most of these",
+        "why": "The honesty is the ad. It earns the right to name a price.",
+        "tiktok": {
+          "fmt": "Overhead shot of printed packs, 32s",
+          "hook": "Nine packs. ₦5,000 each. I am going to tell you not to buy most of them.",
+          "beats": [
+            "Start with the problem you had this week",
+            "Not the biggest pack",
+            "One pack, one problem",
+            "The bundle is for later"
+          ],
+          "vo": "Nine packs, five thousand naira each, and I am telling you not to buy most of them. Pick the one that matches the problem you had this week. If that was a customer who never replied, take the chat one. If it was a website nobody understood, take the homepage one. One pack, one problem. The bundle is for people who want all nine, not for people starting.",
+          "cap": "Buy the one that matches this week's problem. Not the biggest. Not all nine.\n\n₦5,000 each. Message the keyword on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#SmallBusinessNigeria",
+            "#LagosBusiness",
+            "#Easywurld",
+            "#WhatsAppBusiness"
+          ]
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": [
+            "Don't buy all nine",
+            "Buy the one for your problem",
+            "Replying too slowly? The chat pack",
+            "Site nobody understands? The homepage pack",
+            "One pack. One problem. ₦5,000"
+          ],
+          "cap": "Every pack is ₦5,000 and every one of them is do-it-yourself. No consulting, no guarantees. If you want it done for you, that is a project, not a download.",
+          "tags": [
+            "#SmallBusinessNigeria",
+            "#LagosSME",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 120 words",
+          "body": "I make nine resource packs. ₦5,000 each. Today I am going to talk you out of most of them.\n\nBuy the one that matches the problem you had this week. If a customer asked for a price and then vanished, that is the chat pack. If a stranger looked at your website and left, that is the homepage pack. If you are about to build a site and do not know what to decide first, that is the launch pack.\n\nOne pack. One problem. And to be honest about the limit: none of them will bring you customers. They give you the scripts and templates for the customers you already get.\n\nWhat was the actual problem this week? I will tell you which pack, or tell you you don't need one."
+        }
+      },
+      {
+        "id": "D1-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "The ₦180,000 we turned down",
+        "why": "Proof of character that cannot be faked, and the most shareable format we have.",
+        "tiktok": {
+          "fmt": "Talking head, 55s",
+          "hook": "We turned down ₦180,000 last month.",
+          "beats": [
+            "A restaurant wanted a rebuild",
+            "Their site was fine",
+            "They answered DMs at 11pm",
+            "We spent the money on replies instead"
+          ],
+          "vo": "We turned down a hundred and eighty thousand naira last month. A restaurant in Lekki wanted a full rebuild. We opened their site and it was fine. Slow, ugly, but it loaded, prices were there, the WhatsApp button worked. So we asked how many people who message you actually order. One in five, they said. Their site was not the problem. Their replies were. We told them to keep the site and spend the money on answering messages before nine a.m. Their site is still ugly. Orders went up.",
+          "cap": "We would rather tell you not to spend. It is better business, and it is the only marketing that cannot be faked.",
+          "tags": [
+            "#LagosBusiness",
+            "#Easywurld",
+            "#HonestBusiness",
+            "#SmallBusinessNigeria"
+          ]
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "They wanted a ₦180,000 rebuild",
+            "Their site was fine",
+            "Their replies were the problem",
+            "We said keep the site"
+          ],
+          "cap": "A slow, ugly site that works beats a beautiful one that answers tomorrow. Tell us your problem and we will tell you honestly if you need us.",
+          "tags": [
+            "#LagosBusiness",
+            "#HonestBusiness",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 130 words",
+          "body": "We turned down ₦180,000 last month.\n\nA restaurant in Lekki wanted a full rebuild. We opened their site. Slow, ugly, but it loaded, the prices were there, and the WhatsApp button worked. So we asked the only question that mattered: how many people who message you actually order?\n\nOne in five, they said.\n\nThe site was not the problem. The reply was. We told them to keep the site and spend the money on answering messages before 9am.\n\nTheir site is still ugly. Their orders went up.\n\nWe would rather tell you not to spend. It is better business, and it is the only marketing that cannot be faked.\n\nHave you ever paid for the wrong fix? Tell me what you bought and what the real problem turned out to be."
+        }
+      },
+      {
+        "id": "D1-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Follow up three times",
+        "why": "The single highest-value habit in the pack, given away free.",
+        "tiktok": {
+          "fmt": "Kinetic type, 24s",
+          "hook": "Most sales in Nigeria happen after the third follow-up. Most businesses stop at one.",
+          "beats": [
+            "Day 1: the quote",
+            "Day 3: one useful line",
+            "Day 7: the close",
+            "Set the dates before you send"
+          ],
+          "vo": "Most sales happen after the third follow-up. Most businesses stop at one because the second feels like begging. It is not begging if you add something. Day one, the quote. Day three, one useful line, a delivery date or a photo. Day seven, a close: should I keep this for you or release it? Set those three dates before you send the quote.",
+          "cap": "Day 1 the quote. Day 3 something useful. Day 7 the close. Three dates, set before you send.",
+          "tags": [
+            "#SalesTips",
+            "#SmallBusinessNigeria",
+            "#Easywurld",
+            "#WhatsAppBusiness"
+          ]
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "You sent the quote",
+            "And waited",
+            "Day 3: add something useful",
+            "Day 7: 'keep it or release it?'",
+            "Three follow-ups, not one"
+          ],
+          "cap": "The second message is not begging if it carries something new. A date, a photo, a slot that is filling.",
+          "tags": [
+            "#SalesTips",
+            "#LagosSME",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 105 words",
+          "body": "Most businesses send a quote and then wait. If nothing comes back, they assume the customer lost interest.\n\nUsually the customer just got busy, and the quote is now 40 messages up their chat list.\n\nThree follow-ups: day 1 the quote, day 3 something useful (a date, a photo, a slot that is filling), day 7 the close. 'Should I keep this for you or release it?'\n\nSet the three dates before you press send. It takes ten seconds and it is the cheapest thing in this post.\n\nHow many times do you follow up? Be honest."
+        }
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "label": "Day 2 · Monday",
+    "theme": "The chat is the shop counter",
+    "offer": "The Chat-to-Customer Playbook · PLAYBOOK",
+    "posts": [
+      {
+        "id": "D2-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "The WhatsApp profile that answers nothing",
+        "why": "Almost every viewer can check their own profile in ten seconds.",
+        "tiktok": {
+          "fmt": "Screen recording, 25s",
+          "hook": "This business answers nothing before you even say hello.",
+          "beats": [
+            "No catalogue",
+            "No hours",
+            "No delivery info",
+            "Three taps to nowhere"
+          ],
+          "vo": "This WhatsApp Business profile answers nothing before you say hello. No catalogue, no opening hours, no delivery information. So every customer has to ask the same four questions, and the owner answers them forty times a day. Set the greeting, the away message and one catalogue item. That is an afternoon, and it buys back an hour a day.",
+          "cap": "An unanswered profile is a shop with no sign. Set the greeting, the away message, one catalogue item.",
+          "tags": [
+            "#WhatsAppBusiness",
+            "#LagosBusiness",
+            "#Easywurld",
+            "#SmallBusinessTips"
+          ]
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "No catalogue",
+            "No hours",
+            "No delivery info",
+            "So they ask, every time",
+            "One afternoon fixes it"
+          ],
+          "cap": "Every question you answer forty times a day is a question your profile should have answered already.",
+          "tags": [
+            "#WhatsAppBusiness",
+            "#LagosSME",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 95 words",
+          "body": "Check your WhatsApp Business profile as a stranger.\n\nIs there a catalogue? Opening hours? Delivery cost? Payment details?\n\nIf not, every single customer has to ask you the same four questions, and you answer them forty times a day. That is an hour of your life, every day, spent typing the same thing.\n\nSet the greeting message, the away message, and one catalogue item tonight. It is free and it is an afternoon's work.\n\nHow many times a day do you type the same answer?"
+        }
+      },
+      {
+        "id": "D2-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "The 11pm message",
+        "why": "A nightly shared experience, framed as a business insight.",
+        "tiktok": {
+          "fmt": "Kinetic type, 15s",
+          "hook": "The message that arrives at 11pm is the best customer you will get all week.",
+          "beats": [
+            "They are deciding right now",
+            "Nobody else is awake",
+            "An away message is a salesperson",
+            "That still answers"
+          ],
+          "vo": "The message that arrives at eleven p.m. is your best customer of the week. They are deciding right now, and nobody else is awake. An away message that answers the four obvious questions is a salesperson who never sleeps. Set one tonight.",
+          "cap": "An away message is a salesperson who works at 11pm and never asks for a raise.",
+          "tags": [
+            "#WhatsAppBusiness",
+            "#LagosBusiness",
+            "#Easywurld",
+            "#SmallBusinessTips"
+          ]
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "11pm message",
+            "They are deciding now",
+            "Your away message is awake"
+          ],
+          "cap": "Answer the four obvious questions in the away message. Price range, delivery, hours, how to order.",
+          "tags": [
+            "#WhatsAppBusiness",
+            "#LagosSME",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 85 words",
+          "body": "The message that arrives at 11pm is often the best customer you will get all week.\n\nThey are awake, they are deciding, and nobody else in your line of business is answering.\n\nAn away message that says your price range, delivery time, opening hours and how to order is a salesperson who works all night and never asks for a raise.\n\nTen minutes to write. Free forever.\n\nDoes your away message answer anything, or just apologise?"
+        }
+      },
+      {
+        "id": "D2-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "'Let me think about it'",
+        "why": "The exact words for the hardest moment in a sales chat.",
+        "tiktok": {
+          "fmt": "Kinetic type, 23s",
+          "hook": "'Let me think about it' is not an objection. It is a request for time you never gave.",
+          "beats": [
+            "Ask what they are weighing",
+            "Offer a smaller next step",
+            "Name the date",
+            "Then leave them alone"
+          ],
+          "vo": "Let me think about it is not an objection. It is a request for time you never offered. So offer it. Ask what they are weighing, price or timing. Then give a smaller next step: I will hold one until Friday. Name the date, then leave them alone. The silence after a clear next step is not rejection.",
+          "cap": "'Let me think about it' usually means 'you did not give me a small enough next step'.",
+          "tags": [
+            "#SalesTips",
+            "#WhatsAppBusiness",
+            "#Easywurld",
+            "#SmallBusinessNigeria"
+          ]
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "'Let me think about it'",
+            "Is not a no",
+            "It is a request for time",
+            "Give a smaller next step",
+            "'I'll hold one until Friday'"
+          ],
+          "cap": "Name a date. Then stop talking. The silence after a clear next step is not rejection.",
+          "tags": [
+            "#SalesTips",
+            "#LagosSME",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 105 words",
+          "body": "'Let me think about it.'\n\nEvery seller hears this and treats it as a no. It is usually a request for time you never offered.\n\nOffer it. 'Of course. Are you weighing the price or the timing?' Then give a smaller next step: 'I can hold one until Friday, then I release it.'\n\nName the date. Then leave them alone. If they come back, they come back to a person who was not desperate at them.\n\nWhat do you normally reply when a customer says 'let me think about it'?"
+        }
+      },
+      {
+        "id": "D2-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "Your website is not your shop",
+        "why": "A reframe that changes where they spend money.",
+        "tiktok": {
+          "fmt": "Talking head, 20s",
+          "hook": "For most Lagos businesses the website is a business card. The shop is WhatsApp.",
+          "beats": [
+            "Site = proof you exist",
+            "Chat = where money happens",
+            "Most budgets go to the card",
+            "Reverse it"
+          ],
+          "vo": "For most Lagos businesses the website is a business card and the shop is WhatsApp. The site proves you exist. The chat is where the money happens. Yet almost every naira goes to the card and almost no thought goes to the counter. Reverse that for one month and see what happens.",
+          "cap": "The site proves you exist. The chat is where the money is. Most budgets do the opposite.",
+          "tags": [
+            "#LagosBusiness",
+            "#HotTake",
+            "#WhatsAppBusiness",
+            "#Easywurld"
+          ]
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Website = business card",
+            "WhatsApp = shop counter",
+            "Where did your money go?"
+          ],
+          "cap": "Spend the next month's budget on the counter instead of the card. Then tell me what happened.",
+          "tags": [
+            "#LagosSME",
+            "#WhatsAppBusiness",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 90 words",
+          "body": "A hot take that will annoy some people: for most Lagos businesses, the website is a business card and WhatsApp is the shop.\n\nThe site proves you exist. The chat is where the money changes hands.\n\nYet almost every naira goes to the card and almost no thought goes to the counter.\n\nReverse it for one month. Fix your replies, your follow-up and your profile before you touch the website design.\n\nWhere do your actual sales happen: the site or the chat?"
+        }
+      },
+      {
+        "id": "D2-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "The quote that was never followed up",
+        "why": "A story everyone has lived, told from the buyer's side.",
+        "tiktok": {
+          "fmt": "Talking head, 32s",
+          "hook": "I asked a vendor for a price. He sent it and never spoke to me again.",
+          "beats": [
+            "I was going to buy",
+            "I got busy",
+            "He never followed up",
+            "Someone else did"
+          ],
+          "vo": "I asked a vendor for a price. He sent it. Then he never spoke to me again. I was going to buy. I got busy, the message sank, and two days later I bought from someone who asked me one question on the third day. He did not lose a sale because of price. He lost it because he assumed silence meant no.",
+          "cap": "He did not lose the sale on price. He lost it on day three.",
+          "tags": [
+            "#Lagos",
+            "#StoryTime",
+            "#SalesTips",
+            "#Easywurld"
+          ]
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "I asked for a price",
+            "He sent it",
+            "Then never again",
+            "Someone else asked on day 3"
+          ],
+          "cap": "Silence is not a no. It is usually a busy buyer with 40 newer messages. Follow up.",
+          "tags": [
+            "#SalesTips",
+            "#LagosBusiness",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 110 words",
+          "body": "I asked a vendor for a price. He sent it and never spoke to me again.\n\nI was going to buy. Then work happened, the message sank down my chat list, and two days later I bought from someone else who asked me one question on the third day: 'Still need this for the weekend?'\n\nHe did not lose that sale to price. He lost it on day three.\n\nIf you send quotes, put the follow-up date in your phone the moment you send it. Not because you are desperate. Because they are busy.\n\nDo you follow up, or do you wait to be chased?"
+        }
+      },
+      {
+        "id": "D2-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The 20-minute reply rule",
+        "why": "A single rule that is easy to adopt and changes revenue immediately.",
+        "tiktok": {
+          "fmt": "Kinetic type, 21s",
+          "hook": "The first business to reply usually wins. Not the cheapest. The first.",
+          "beats": [
+            "Not the best price",
+            "Not the nicest logo",
+            "The first reply",
+            "Twenty minutes or less"
+          ],
+          "vo": "The first business to reply usually wins the sale. Not the cheapest, not the one with the nicest logo. The first reply. Twenty minutes or less during work hours is the whole advantage. You do not need better copy. You need to be the one who was awake.",
+          "cap": "Not the cheapest. The first to reply. That is the advantage you already own.",
+          "tags": [
+            "#WhatsAppBusiness",
+            "#SalesTips",
+            "#LagosSME",
+            "#Easywurld"
+          ]
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Cheapest? no",
+            "Nicest logo? no",
+            "First to reply? yes"
+          ],
+          "cap": "Twenty minutes during work hours. That is the whole competitive advantage and it costs nothing.",
+          "tags": [
+            "#SalesTips",
+            "#LagosBusiness",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 85 words",
+          "body": "Customers do not compare ten vendors. They message three, and usually buy from whoever replies first while they are still interested.\n\nNot the cheapest. Not the one with the nicest logo. The first reply.\n\nTwenty minutes during work hours is the whole advantage, and you already own it.\n\nIf you cannot answer that fast, set an away message that at least tells them what happens next.\n\nWhat is your average reply time right now, honestly?"
+        }
+      },
+      {
+        "id": "D2-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "'Check DM'",
+        "why": "The most relatable irritation in Nigerian social selling.",
+        "tiktok": {
+          "fmt": "Kinetic type, 12s",
+          "hook": "'Check DM' is the Nigerian version of a locked shop door.",
+          "beats": [
+            "You came to buy",
+            "Now you must ask permission",
+            "Put the price in the caption",
+            "Watch what happens"
+          ],
+          "vo": "Check DM is the Nigerian version of a locked shop door. Someone walked up ready to buy and you told them to knock. Put the price in the caption. The serious buyers will still message, and the rest stop wasting your time.",
+          "cap": "A locked door is a choice. Put the price where people can see it.",
+          "tags": [
+            "#Lagos",
+            "#Relatable",
+            "#SmallBusinessNigeria",
+            "#Easywurld"
+          ]
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "'Check DM'",
+            "= locked door",
+            "Put the price in the caption"
+          ],
+          "cap": "You are not hiding the price from competitors. You are hiding it from customers.",
+          "tags": [
+            "#LagosBusiness",
+            "#Easywurld",
+            "#SocialMediaTips"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 80 words",
+          "body": "'Check DM.'\n\nIt is the Nigerian version of a locked shop door. Someone walked up ready to buy and you told them to knock.\n\nPut the price in the caption. The serious buyers will still message. The ones who were never going to buy stop wasting your evening.\n\nAnd you stop spending three hours a day typing the same number.\n\nDo you put your prices in captions? Why or why not?"
+        }
+      },
+      {
+        "id": "D2-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "How long do you wait for a reply?",
+        "why": "The answers are the content. Viewers will argue in the comments.",
+        "tiktok": {
+          "fmt": "Street interview, 28s",
+          "hook": "How long will you wait for a business to reply before you buy elsewhere?",
+          "beats": [
+            "Thirty minutes",
+            "One hour",
+            "Next day, I am gone",
+            "Nobody said a week"
+          ],
+          "vo": "How long will you wait for a business to reply before you buy somewhere else? Thirty minutes, said one. An hour, said another. If it is tomorrow, I have already bought it, said the third. Nobody said a week. Nobody said two days. Your reply time is your shop being open.",
+          "cap": "Nobody in this street said they would wait a week. Your reply time is your shop being open.",
+          "tags": [
+            "#Lagos",
+            "#StreetInterview",
+            "#SmallBusinessNigeria",
+            "#Easywurld"
+          ]
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "30 minutes",
+            "1 hour",
+            "Tomorrow? Gone",
+            "Nobody said a week"
+          ],
+          "cap": "Ask your own customers this question. Then look at your reply time.",
+          "tags": [
+            "#LagosBusiness",
+            "#StreetInterview",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 95 words",
+          "body": "I asked people on the street: how long will you wait for a business to reply before you buy somewhere else?\n\nThirty minutes. An hour. 'If it is tomorrow, I have already bought it.'\n\nNobody said a week. Nobody even said two days.\n\nYour reply time is whether your shop is open or not. It matters more than your logo, your bio, and probably your price.\n\nHow long would you wait? Be honest."
+        }
+      },
+      {
+        "id": "D2-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "The chat pack, and who should not buy it",
+        "why": "Selling by disqualifying. The limit does the persuading.",
+        "tiktok": {
+          "fmt": "Overhead shot, 30s",
+          "hook": "Do not buy this if you already reply fast.",
+          "beats": [
+            "36 scripts for the awkward moments",
+            "A tracker so nothing is forgotten",
+            "It will not get you customers",
+            "It fixes the ones you already get"
+          ],
+          "vo": "Do not buy the chat pack if you already reply fast. Buy it if you recognise this: someone asks a price, you answer, and they vanish. Thirty-six scripts for the awkward moments, a tracker so no follow-up is forgotten. Five thousand naira. It will not bring you customers. It fixes the customers you already have.",
+          "cap": "36 scripts. One tracker. ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.",
+          "tags": [
+            "#WhatsAppBusiness",
+            "#SmallBusinessNigeria",
+            "#Easywurld",
+            "#SalesTips"
+          ]
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": [
+            "Don't buy this if you reply fast",
+            "Buy it if they vanish after the price",
+            "36 scripts",
+            "1 tracker",
+            "₦5,000 · PLAYBOOK"
+          ],
+          "cap": "It will not bring you customers. It fixes the ones already messaging you and getting no reply.",
+          "tags": [
+            "#WhatsAppBusiness",
+            "#LagosSME",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 115 words",
+          "body": "Do not buy this if you already reply to customers quickly.\n\nBuy it if this happens: someone asks a price, you answer, and they go quiet. Or you send a quote and never follow up because the second message feels like begging.\n\nThe Chat-to-Customer Playbook is 36 scripts for those exact moments, plus a tracker so no follow-up gets forgotten. ₦5,000, you use it yourself.\n\nThe honest limit: it will not bring you a single new customer. It helps you convert the ones already messaging you. If your enquiries are fine and your replies are not, this is for you.\n\nWhich moment goes wrong most often: the price reply, the quote, or the follow-up?"
+        }
+      },
+      {
+        "id": "D2-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "We told a client to cancel",
+        "why": "A story that proves the studio will say the costly thing.",
+        "tiktok": {
+          "fmt": "Talking head, 50s",
+          "hook": "We told a client to cancel their own project.",
+          "beats": [
+            "They had paid a deposit",
+            "The business had changed",
+            "The site was for a plan they dropped",
+            "We refunded and started over"
+          ],
+          "vo": "We told a client to cancel their own project. They had paid a deposit. Halfway through, their business changed. The site we were building was for a plan they had quietly dropped. We could have finished it and taken the money. We refunded the deposit and started again in a different direction. It cost us a month. It is the reason they are still a client two years later.",
+          "cap": "We could have finished it and taken the money. We refunded instead.",
+          "tags": [
+            "#LagosBusiness",
+            "#HonestBusiness",
+            "#Easywurld",
+            "#SmallBusinessNigeria"
+          ]
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "They paid a deposit",
+            "Their business changed",
+            "We refunded",
+            "And started over"
+          ],
+          "cap": "The most expensive thing we do is say the thing that costs us the job. It is also the only reason people come back.",
+          "tags": [
+            "#HonestBusiness",
+            "#LagosBusiness",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 125 words",
+          "body": "We told a client to cancel their own project.\n\nThey had paid a deposit. Halfway through, their business changed direction and the site we were building was for a plan they had quietly dropped.\n\nWe could have finished it, delivered it, and taken the money. Nobody would have known for months.\n\nWe refunded the deposit and started again.\n\nIt cost us about a month of work. It is also the reason they still work with us.\n\nThe expensive thing is not honesty. The expensive thing is being found out later.\n\nHas a supplier ever told you not to spend? What did that do to your trust?"
+        }
+      },
+      {
+        "id": "D2-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Three questions in the first reply",
+        "why": "Turns a script into a qualifying tool.",
+        "tiktok": {
+          "fmt": "Kinetic type, 22s",
+          "hook": "Your first reply should ask three things that make the next reply easy.",
+          "beats": [
+            "What do they need it for",
+            "When do they need it",
+            "Where is it going",
+            "Then quote once"
+          ],
+          "vo": "Your first reply should ask three things that make the second reply easy. What do they need it for, when, and where. Not an interview, one line. Most people ask nothing, quote blind, and then spend a week discovering the job was different. Three questions now saves all of that.",
+          "cap": "One line, three questions: what for, when, where. Then quote once.",
+          "tags": [
+            "#SalesTips",
+            "#LagosSME",
+            "#Easywurld",
+            "#WhatsAppBusiness"
+          ]
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "What is it for?",
+            "When do you need it?",
+            "Where is it going?",
+            "Then quote once"
+          ],
+          "cap": "Most people quote blind and spend the week discovering the job was something else.",
+          "tags": [
+            "#SalesTips",
+            "#LagosBusiness",
+            "#Easywurld"
+          ]
+        },
+        "facebook": {
+          "fmt": "Text post, 95 words",
+          "body": "Most businesses quote blind, then spend a week finding out the job was something else.\n\nPut three questions in your first reply: what is it for, when do you need it, and where is it going?\n\nOne line. Not an interview. Then quote once, with the answer already built in.\n\nIt feels slower for the first ten seconds and it is faster for the next ten days.\n\nWhat do you wish you had asked before your last awkward job?"
+        }
+      }
+    ]
+  }
+]

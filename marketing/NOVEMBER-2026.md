@@ -1,5 +1,14 @@
 # November 2026 — the entertain-first month
 
+> **Superseded — kept for the reasoning, not the schedule.**
+> This file sketches 30 *anchor* ideas, one a day. The live plan is now the full 330-post
+> calendar at [`november/CALENDAR.md`](november/CALENDAR.md) — 11 core posts a day, no LinkedIn,
+> built by `launch-content/november/build/build-kit.mjs`.
+>
+> Read this one for **why** the month is shaped the way it is (the four shows, the buy path, the
+> ratio). Read the calendar for **what to post**.
+
+
 **30 days · Sunday 1 November → Monday 30 November 2026 · Lagos time**
 
 This is not a replacement for the calendars in `launch-content/`. It is the **one that replaces
