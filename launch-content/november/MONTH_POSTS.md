@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Friday 6 November 2026** |
+| Ends | **Sunday 8 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **198 posts** (66 core ideas x 3 platforms) |
+| Month total | **264 posts** (88 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -3747,6 +3747,1240 @@ writing on the spot.
 > Politeness will fool you if you ask them what they think. Faces do not lie.
 > 
 > Who could you read yours to this week?
+
+
+---
+
+
+# Day 7 · Saturday · Saturday 7 Nov 2026 — The receipts
+
+**Offer in focus:** PLAYBOOK
+
+---
+
+
+## Post 01 · The worst page I saw this week
+
+**Type:** Entertain · **Why it works:** A running series gives people a reason to come back tomorrow.
+
+### TikTok · 07:00 · Screen recording, 24s
+
+**Hook (0-3s)**
+> The worst page I saw this week has one button, below the fold, in grey.
+
+**On-screen beats**
+- Grey on grey
+- Below the fold
+- No instruction
+- Three fixes in twenty seconds
+
+**Voiceover script**
+> The worst page I saw this week has one button, and it is grey, and it is below the fold, and it says submit. Three fixes. Put it above the fold. Make it the darkest thing on the page. Say what happens when they press it. That is a morning's work and it is probably worth more than the rest of the page combined.
+
+**Caption**
+> One button, grey, below the fold, called 'submit'. It was doing nothing and costing everything.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 5-slide carousel
+
+**Slide copy**
+1. Grey button
+2. Below the fold
+3. Called 'submit'
+4. Three fixes
+5. Morning's work
+
+**Caption**
+> The smallest element on the page is usually doing the most important job.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> The worst page I saw this week had one button. Grey text on a pale grey shape. Below the fold. The label was 'submit'.
+> 
+> Three fixes: move it above the fold, make it the darkest thing on the page, and say what happens when you press it.
+> 
+> 'Submit' is not a promise. 'Send my order' is.
+> 
+> The smallest element on the page is usually doing the most important job.
+> 
+> What does your main button say?
+
+
+---
+
+
+## Post 02 · Week one, the real number
+
+**Type:** Entertain · **Why it works:** Public honesty about a weak week is the most credible thing an account can do.
+
+### TikTok · 09:15 · Talking head, 26s
+
+**Hook (0-3s)**
+> Week one is done. Here is the real number, including the embarrassing part.
+
+**On-screen beats**
+- Read it off the sheet
+- Say the awkward bit first
+- Most posts did nothing
+- That is normal
+
+**Voiceover script**
+> Week one is done. I am going to read the number off the sheet, not off my memory, and I am going to say the awkward part first. Most posts did nothing. A few did almost everything. If you have been posting and feeling like a failure, that is not failure, that is the shape of every account in week one.
+
+**Caption**
+> Say the awkward number first. It is the only part anyone believes.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · Carousel, 4:5
+
+**Slide copy**
+1. Week one
+2. Most posts: nothing
+3. A few: everything
+4. That is the shape
+5. Read your own sheet
+
+**Caption**
+> The sheet is not a report card. It is a map of where to spend next week.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> Week one is done, so here is the honest version.
+> 
+> Most of what I posted did nothing. A small number of posts did almost all of the work. The same is true of almost every account in its first week, and it is the reason I keep a sheet instead of relying on how it felt.
+> 
+> If you are a week into posting and it feels like a failure, it is not. It is early, and the data is thin.
+> 
+> What did your first week actually do?
+
+
+---
+
+
+## Post 03 · The three posts people saved
+
+**Type:** Teach · **Why it works:** Saves are the closest thing to a public vote of usefulness.
+
+### TikTok · 11:30 · Kinetic type, 23s
+
+**Hook (0-3s)**
+> Three posts got saved this week and the other sixty did not. Here is the difference.
+
+**On-screen beats**
+- Saves are not likes
+- A save is a plan
+- All three were checklists
+- Make more checklists
+
+**Voiceover script**
+> Three posts got saved this week and the other sixty did not. The difference was not quality, it was use. A like means that was nice. A save means I will need this on Monday. All three saved posts were checklists you could act on in under a minute. So the plan for next week writes itself.
+
+**Caption**
+> Likes measure taste. Saves measure usefulness. Only one of them pays.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 3-slide carousel
+
+**Slide copy**
+1. Saves, not likes
+2. A save is a plan
+3. Make more checklists
+
+**Caption**
+> If a post cannot be used on Monday, it will not be saved.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Three posts got saved this week and about sixty did not.
+> 
+> The difference was not how good they were. It was whether you could use them.
+> 
+> A like means 'that was nice'. A save means 'I will need this on Monday'. All three saved posts were short checklists you could act on immediately.
+> 
+> So next week has more checklists and fewer opinions.
+> 
+> What have you saved recently? That tells you what you actually want.
+
+
+---
+
+
+## Post 04 · Most posting advice is about reach
+
+**Type:** Entertain · **Why it works:** A useful distinction that reframes the whole month's work.
+
+### TikTok · 13:45 · Talking head, 20s
+
+**Hook (0-3s)**
+> Almost every post you read about posting is about reach.
+
+**On-screen beats**
+- Reach is not revenue
+- Conversations are revenue
+- Nobody gives you a number for that
+- So count your own
+
+**Voiceover script**
+> Almost every post you read about posting is about reach, because reach is easy to screenshot. Reach is not revenue. Conversations are. Nobody is going to give you that number, because it lives in your WhatsApp, not in the analytics. So count it yourself, in one column, every Friday.
+
+**Caption**
+> Reach is a screenshot. Conversations are money.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Reach: screenshot
+2. Conversations: money
+3. Count your own
+
+**Caption**
+> The number that pays you is the one no platform will show you.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Almost every post about posting is about reach, because reach is easy to screenshot.
+> 
+> Reach is not revenue. Conversations are.
+> 
+> Nobody will hand you that number, because it lives in your WhatsApp, not in the analytics. So count it yourself. One column, every Friday. How many strangers messaged you this week?
+> 
+> That single number will change what you post faster than any view count.
+> 
+> What was yours this week?
+
+
+---
+
+
+## Post 05 · Ask for one sentence
+
+**Type:** Entertain · **Why it works:** Turns a customer's message into the only proof a new studio can legally show.
+
+### TikTok · 15:00 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> You do not have a testimonial yet. Ask for one sentence instead.
+
+**On-screen beats**
+- Not a review
+- One sentence
+- Why did you buy
+- Post only that
+
+**Voiceover script**
+> You do not have testimonials yet. You have customers, so ask them one question: why did you buy. Not a long review, one sentence. Then post the sentence and nothing else. No caption explaining it, no design around it. A real sentence from one person is worth more than a page of adjectives.
+
+**Caption**
+> Ask three customers why they bought. Post the answer, unedited.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 15:45 · 3-slide carousel
+
+**Slide copy**
+1. Ask: why did you buy?
+2. One sentence
+3. Post only that
+
+**Caption**
+> No caption needed. The sentence is the post.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 15:00 · Text post
+
+> If you do not have testimonials yet, you do not need to invent any. You need one sentence.
+> 
+> Ask three customers: 'Why did you buy?'
+> 
+> You will get a real, slightly awkward, very specific answer. Post that sentence and nothing else. No caption explaining it. No design around it.
+> 
+> One real sentence from one person beats a whole page of adjectives you wrote about yourself.
+> 
+> What do you think they would say?
+
+
+---
+
+
+## Post 06 · What I would do starting again
+
+**Type:** Teach · **Why it works:** The cheapest authority content that exists. No client, no permission.
+
+### TikTok · 16:30 · Talking head, 27s
+
+**Hook (0-3s)**
+> If I started this again, I would post one format for thirty days.
+
+**On-screen beats**
+- Not four
+- Not chasing trends
+- One format
+- Until it works or I know it cannot
+
+**Voiceover script**
+> If I started this again I would pick one format and post it for thirty days. Not four platforms with four styles, not whatever is trending. One format, thirty repeats, with the subject changing. Because the first ten will be bad, and you need to get to the tenth before you are allowed to judge whether the format works.
+
+**Caption**
+> You are not allowed to judge a format until you have posted it ten times.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 5-slide carousel
+
+**Slide copy**
+1. One format
+2. Thirty days
+3. Changing only the subject
+4. Ten before any judgement
+5. Then decide
+
+**Caption**
+> Novelty is expensive. Repetition is the only thing that compounds.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> If I were starting this account again, I would pick one format and post it for thirty days.
+> 
+> Not four platforms with four styles. Not whatever is trending this week. One format, repeating, with only the subject changing.
+> 
+> Because the first ten attempts will be bad and you need to reach the tenth before you are allowed to judge whether the format works.
+> 
+> What is the one format you would pick?
+
+
+---
+
+
+## Post 07 · The post that died
+
+**Type:** Entertain · **Why it works:** Publishing a failure buys more trust than publishing a win.
+
+### TikTok · 18:00 · Talking head, 18s
+
+**Hook (0-3s)**
+> This post died completely. Here it is, and here is why.
+
+**On-screen beats**
+- Show it
+- No hook in the first line
+- Explained before it interested
+- That is the whole post-mortem
+
+**Voiceover script**
+> This post died. Here it is. It opens with a sentence that explains instead of interests, it has no picture until the fourth second, and it asks for nothing. Nobody watched it because nothing in the first line gave them a reason to. I am keeping it up so I remember the lesson.
+
+**Caption**
+> Most dead posts die in the first line. Mine did too.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. This post died
+2. Here it is
+3. First line explained, not interested
+
+**Caption**
+> Watch your own flops. They are more instructive than your winners.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> This post died completely, and I am keeping it up.
+> 
+> It opens with a sentence that explains rather than interests. No picture until the fourth second. Nothing to stay for and nothing asked of anyone.
+> 
+> Most dead posts die in the first line, not the middle.
+> 
+> Look at your own worst post this week and read only the first sentence. You will see it immediately.
+> 
+> What is the worst thing you have posted?
+
+
+---
+
+
+## Post 08 · What do you think we do?
+
+**Type:** Entertain · **Why it works:** Testing your own bio in public is the most on-brand thing this account can do.
+
+### TikTok · 19:00 · Street interview, 29s
+
+**Hook (0-3s)**
+> I read strangers our own bio and asked what we do.
+
+**On-screen beats**
+- Two said websites
+- One said social media
+- Four did not know
+- We are fixing ours today
+
+**Voiceover script**
+> I read strangers our own bio and asked what we do. Two said websites. One said social media management. Four said they did not know. We are the people who write other people's homepages, and our own bio failed the test. So we are fixing it today, in public, and I will show you the new one tomorrow.
+
+**Caption**
+> Our own bio failed the same test we run on everyone else. Fixed today.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. 2 said websites
+2. 1 said social media
+3. 4 did not know
+4. Our own bio failed
+
+**Caption**
+> Run your own test before you charge anyone for the advice.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I read strangers our own Instagram bio and asked what they thought we do.
+> 
+> Two said websites. One said social media management. Four said they did not know.
+> 
+> We write other people's homepages for a living and our own bio failed the test.
+> 
+> So we are rewriting it today and I will show you the new one tomorrow, whether it works or not.
+> 
+> When did you last read your own bio as a stranger?
+
+
+---
+
+
+## Post 09 · The pack people actually asked about
+
+**Type:** Sell · **Why it works:** Letting the audience choose the product removes the feeling of being sold to.
+
+### TikTok · 20:00 · Overhead shot, 25s
+
+**Hook (0-3s)**
+> The pack people asked about most this week was not the one I expected.
+
+**On-screen beats**
+- Not the biggest one
+- The chat scripts
+- Because that is this week's pain
+- Follow the questions
+
+**Voiceover script**
+> The pack people asked about most this week was not the one I expected. It was the chat pack, thirty-six scripts for the awkward moments. Not because it is the best, because it matches the problem people had this week. Five thousand naira, and it will not bring you customers, only help with the ones you have.
+
+**Caption**
+> Buy the pack that matches this week. ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. Most asked about: the chat pack
+2. Not the biggest one
+3. The one matching this week's problem
+4. ₦5,000
+5. No consulting included
+
+**Caption**
+> Your questions tell me what to make. Keep asking.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The pack people asked about most this week was not the one I expected.
+> 
+> It was the chat pack: 36 scripts for the awkward moments in a WhatsApp sale. Not because it is the best of the nine, but because it matched the problem people were having this week.
+> 
+> That is the whole buying rule. Buy the pack for this week's problem, not the biggest one.
+> 
+> ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837. No consulting, no guarantees.
+
+
+---
+
+
+## Post 10 · Nothing to refuse this week
+
+**Type:** Entertain · **Why it works:** Refusing to fake a refusal is the strongest possible proof of the format.
+
+### TikTok · 20:45 · Talking head, 22s
+
+**Hook (0-3s)**
+> This is the 'we said no' slot, and nothing happened this week.
+
+**On-screen beats**
+- I could make one up
+- Then the series is worthless
+- So: nothing
+- Back next week
+
+**Voiceover script**
+> This is the slot where I tell you something we refused. Nothing happened this week. I could make one up and you would never know, and then every real one in this series would be worth nothing. So, nothing to report. Back next week, and I hope it is boring again.
+
+**Caption**
+> A made-up refusal would make every true one worthless. Nothing this week.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. Nothing to refuse
+2. I could invent one
+3. Then none of these are real
+
+**Caption**
+> The series only works because it can be empty.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> This is the slot where I normally tell you something we refused to do. Nothing happened this week.
+> 
+> I could invent one. You would never know. And then every other story in this series would be worth nothing, including the true ones.
+> 
+> So: nothing to report. Back next week, and I hope it stays boring.
+> 
+> Have you ever caught a business making up a story?
+
+
+---
+
+
+## Post 11 · Next week is follow-up week
+
+**Type:** Teach · **Why it works:** Announcing the arc gives people a reason to return.
+
+### TikTok · 21:30 · Kinetic type, 19s
+
+**Hook (0-3s)**
+> Next week is follow-up week. Every post, one lesson, all on the same problem.
+
+**On-screen beats**
+- Same subject for seven days
+- Learn it properly
+- Then do it
+- Follow to get the week
+
+**Voiceover script**
+> Next week is follow-up week. Seven days, one subject: the message you send after the one that got ignored. By Friday you will have the whole system, and you can run it on Monday. Follow if you want the week, because the posts will be in order and the first one matters most.
+
+**Caption**
+> Seven days, one subject. That is how a lesson sticks.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 3-slide carousel
+
+**Slide copy**
+1. Next week
+2. Follow-up
+3. Seven days, one subject
+
+**Caption**
+> A themed week beats seven unrelated tips. Come back tomorrow.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Next week is follow-up week.
+> 
+> Seven days, one subject: the message you send after the first one gets ignored. By Friday you will have the whole system and can run it from Monday.
+> 
+> Seven related posts teach something. Seven unrelated tips are just noise, and you forget all of them.
+> 
+> What is the one thing you keep meaning to fix in your business?
+
+
+---
+
+
+# Day 8 · Sunday · Sunday 8 Nov 2026 — The follow-up week
+
+**Offer in focus:** PLAYBOOK
+
+---
+
+
+## Post 01 · Eleven unanswered 'hello?'
+
+**Type:** Entertain · **Why it works:** The visual of a screen of one-word messages is painful and true.
+
+### TikTok · 07:00 · Screen recording, 25s
+
+**Hook (0-3s)**
+> This chat is eleven messages long and nine of them say hello.
+
+**On-screen beats**
+- Same customer
+- Getting more polite
+- Then gone
+- A reply on day one fixes all of it
+
+**Voiceover script**
+> This chat is eleven messages long and nine of them say hello. Same customer, getting more polite each time, then gone. Nobody was rude. Nobody was ignored on purpose. But from the customer's side, this is a business that does not answer, and they told ten friends.
+
+**Caption**
+> Nine hellos is one customer being patient, publicly, until they stop.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 5-slide carousel
+
+**Slide copy**
+1. hello?
+2. Hello??
+3. Hello
+4. ...
+5. Gone
+
+**Caption**
+> Every unanswered hello is a story they will tell about you.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A chat I saw this week: eleven messages long, nine of them variations of 'hello?'
+> 
+> Same customer, being polite each time, then gone.
+> 
+> Nobody was rude. Nobody ignored them on purpose. But from the customer's side, that is a business that does not answer, and they will tell ten people.
+> 
+> One reply on day one would have fixed all eleven messages.
+> 
+> How long do messages sit in your inbox?
+
+
+---
+
+
+## Post 02 · Twice is not harassment
+
+**Type:** Entertain · **Why it works:** Names the fear that stops people following up at all.
+
+### TikTok · 09:15 · Kinetic type, 14s
+
+**Hook (0-3s)**
+> Following up twice is not harassment. It is a reminder.
+
+**On-screen beats**
+- They are not annoyed
+- They forgot
+- Start from their side
+- Then send it
+
+**Voiceover script**
+> Following up twice is not harassment. Harassment is the fifth message with nothing in it. A reminder, sent once, three days later, with something useful attached, is what a good supplier does. The customer is not annoyed. The customer is at work.
+
+**Caption**
+> You are not bothering them. You are reminding them.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. Twice
+2. Is a reminder
+3. Five times with nothing in it
+4. Is harassment
+
+**Caption**
+> The difference is whether the message carries something.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> A lot of people do not follow up because they are afraid of being a nuisance.
+> 
+> Following up twice is not harassment. Harassment is the fifth message with nothing in it.
+> 
+> A reminder, sent three days later, with one useful thing attached, is exactly what a good supplier does. The customer is not annoyed. The customer is at work and forgot.
+> 
+> When did you last send a second message?
+
+
+---
+
+
+## Post 03 · The day-three message, word for word
+
+**Type:** Teach · **Why it works:** Giving the exact words removes the last excuse.
+
+### TikTok · 11:30 · Kinetic type, 24s
+
+**Hook (0-3s)**
+> Here is the exact message to send on day three. Steal it.
+
+**On-screen beats**
+- Name the thing
+- Assume nothing
+- Ask a yes/no
+- No apology
+
+**Voiceover script**
+> Here is the day three message, word for word. Hi Ada, the ankara set you asked about is still available. We have two slots left for Friday delivery. Should I keep one for you? That is it. No apology, no just checking in, no question mark on the price. One line of information and one question they can answer with one word.
+
+**Caption**
+> Information first, question second, apology never.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 5-slide carousel
+
+**Slide copy**
+1. Name the thing
+2. Add real information
+3. Ask a yes/no question
+4. No apology
+5. Send on day 3
+
+**Caption**
+> Copy it, put your own product in it, send it on Thursday.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> The day-three message, word for word:
+> 
+> 'Hi Ada, the ankara set you asked about is still available. We have two slots left for Friday delivery. Should I keep one for you?'
+> 
+> That is it. Information first, one question second, no apology, and nothing that sounds like begging.
+> 
+> Copy it, put your own product in it, and send it on Thursday to anyone who went quiet this week.
+> 
+> Tell me what happens.
+
+
+---
+
+
+## Post 04 · 'If they wanted it, they would reply'
+
+**Type:** Entertain · **Why it works:** Attacks a belief that quietly costs people their income.
+
+### TikTok · 13:45 · Talking head, 21s
+
+**Hook (0-3s)**
+> "If they wanted it, they would have replied" is the most expensive sentence in small business.
+
+**On-screen beats**
+- They were at work
+- Then it sank
+- Then they felt awkward
+- So they did not reply
+
+**Voiceover script**
+> If they wanted it they would have replied is the most expensive sentence in small business. They did want it. Then they were at work. Then your message sank under forty others. Then it was three days later and they felt awkward about replying, so they did not. Nobody changed their mind. The chat just went stale.
+
+**Caption**
+> They did not change their mind. The message just sank.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. "They would have replied"
+2. They were at work
+3. Then it sank
+4. Then it was awkward
+
+**Caption**
+> Silence has more causes than disinterest. Usually it is just Tuesday.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> 'If they wanted it, they would have replied.'
+> 
+> I think this is the most expensive sentence in small business.
+> 
+> They did want it. Then they were at work. Then your message sank under forty newer ones. Then it was three days later and it felt awkward to reply, so they did not.
+> 
+> Nobody changed their mind. The chat just went stale.
+> 
+> Which of your quotes has gone quiet this week?
+
+
+---
+
+
+## Post 05 · The job closed on the fourth message
+
+**Type:** Entertain · **Why it works:** One number makes the whole case for persistence.
+
+### TikTok · 15:00 · Talking head, 33s
+
+**Hook (0-3s)**
+> A two hundred and fifty thousand naira job closed on the fourth message.
+
+**On-screen beats**
+- The first three were ignored
+- None were pushy
+- Each carried something new
+- The fourth got the yes
+
+**Voiceover script**
+> A two hundred and fifty thousand naira job closed on the fourth message. The first three were ignored, and none of them were pushy. One gave a delivery date. One gave a photo of the previous job. One said the slot was going to be released. The fourth got a yes in eleven minutes. Persistence without information is nagging. With it, it is service.
+
+**Caption**
+> Three messages, three pieces of information, one yes.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · Reel + caption
+
+**Script slides**
+1. Message 1: ignored
+2. Message 2: a date
+3. Message 3: a photo
+4. Message 4: the yes
+
+**Caption**
+> If each message teaches them something, it is not nagging.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A ₦250,000 job closed on the fourth message.
+> 
+> The first three were ignored. None of them were pushy. One carried a delivery date. One carried a photo of a previous job. One said the slot would be released at the end of the week.
+> 
+> The fourth got a yes in eleven minutes.
+> 
+> Persistence with no information is nagging. Persistence with information is service.
+> 
+> How many messages do you send before you give up?
+
+
+---
+
+
+## Post 06 · Release the stock, out loud
+
+**Type:** Teach · **Why it works:** A real deadline is more persuasive than any adjective.
+
+### TikTok · 16:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> You do not need fake scarcity. You need a real deadline.
+
+**On-screen beats**
+- "I'll release it Friday"
+- True if you would
+- Then release it
+- The truth is the pressure
+
+**Voiceover script**
+> You do not need to invent scarcity. You need a real deadline. I will release this slot on Friday and give it to the next person. That is true, because the slot is worth money and you cannot hold it forever. The moment you say it, and mean it, the customer has a reason to decide this week without you pretending there is a queue.
+
+**Caption**
+> A real deadline does the work that fake scarcity pretends to do.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. Fake: "only 2 left"
+2. Real: "I'll release it Friday"
+3. Then actually release it
+
+**Caption**
+> Invent a deadline once and every future deadline stops working.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> You do not need to invent scarcity. You need a real deadline.
+> 
+> 'I will release this slot on Friday and offer it to the next person.'
+> 
+> That is true, because the slot is worth money and you cannot hold it indefinitely. Say it once, then actually do it on Friday.
+> 
+> The difference between that and 'only 2 left' is that one of them survives being checked.
+> 
+> Do you have a real deadline you could name today?
+
+
+---
+
+
+## Post 07 · Your quote is forty messages up
+
+**Type:** Entertain · **Why it works:** A physical image that makes the abstract problem concrete.
+
+### TikTok · 18:00 · Kinetic type, 13s
+
+**Hook (0-3s)**
+> Your quote is forty messages up their chat list, behind a group chat.
+
+**On-screen beats**
+- Invisible to them
+- Visible to you
+- That asymmetry is the problem
+- Remind them
+
+**Voiceover script**
+> Your quote is forty messages up their chat list, behind a family group and two deliveries. To you it is the most important message you sent this week. To them it is invisible. That gap is the whole reason follow-up exists, and it has nothing to do with whether they like you.
+
+**Caption**
+> You are not being ignored. You are being buried.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. To you: the big message
+2. To them: 40 messages down
+3. Remind, do not resent
+
+**Caption**
+> Assume every message you send is invisible a week later.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> Your quote is forty messages up their chat list, behind a family group and two delivery notifications.
+> 
+> To you, it is the most important thing you sent this week. To them, it is invisible.
+> 
+> That gap is the entire reason follow-up exists, and it has nothing to do with whether they like you.
+> 
+> You are not being ignored. You are being buried.
+> 
+> When did you last assume your message was invisible?
+
+
+---
+
+
+## Post 08 · Do you read the second message?
+
+**Type:** Entertain · **Why it works:** The answer contradicts most people's fear of following up.
+
+### TikTok · 19:00 · Street interview, 27s
+
+**Hook (0-3s)**
+> I asked: do you reply to a vendor's second message?
+
+**On-screen beats**
+- Most said yes
+- Because it reminded them
+- The first was the problem
+- Second messages work
+
+**Voiceover script**
+> I asked people whether they reply to a vendor's second message. Most said yes, and almost all said the same reason: the first one arrived when I was busy. So the second message is not annoying, it is the one that actually lands. Most businesses never send it, which is remarkable when you think about it.
+
+**Caption**
+> The second message works because the first one arrived at the wrong moment.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. "Do you reply to the 2nd message?"
+2. Most: yes
+3. Because the 1st came at work
+4. Most businesses never send it
+
+**Caption**
+> The follow-up is not the annoying one. It is the effective one.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people: do you reply to a vendor's second message?
+> 
+> Most said yes, and nearly all gave the same reason. The first one arrived when they were busy.
+> 
+> So the second message is not annoying. It is the one that actually lands, and most businesses never send it.
+> 
+> If you are worried about being a nuisance, the data says you are worrying about the wrong thing.
+> 
+> What stops you sending it?
+
+
+---
+
+
+## Post 09 · The tracker is the unglamorous half
+
+**Type:** Sell · **Why it works:** Selling the boring part builds credibility for everything else.
+
+### TikTok · 20:00 · Overhead shot, 28s
+
+**Hook (0-3s)**
+> The most useful thing in this pack is a spreadsheet, and nobody buys it for the spreadsheet.
+
+**On-screen beats**
+- 36 scripts get all the attention
+- The tracker is what gets used
+- Dates, not feelings
+- Five thousand naira
+
+**Voiceover script**
+> The most useful thing in this pack is a spreadsheet, and nobody buys it for the spreadsheet. The scripts get all the attention, but the tracker is what makes the follow-ups happen, because it shows you who is due today. Five thousand naira for the whole thing. It will not bring you customers. It stops you losing the ones you already have.
+
+**Caption**
+> Scripts get the credit. The tracker does the work. ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. 36 scripts
+2. Get all the attention
+3. A spreadsheet
+4. Does the actual work
+5. ₦5,000 · PLAYBOOK
+
+**Caption**
+> The boring half of any system is the half that runs.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The most useful thing in the Chat-to-Customer Playbook is a spreadsheet, and almost nobody buys it for the spreadsheet.
+> 
+> The 36 scripts get all the attention. The tracker is what actually makes follow-ups happen, because it tells you who is due today instead of leaving it to memory.
+> 
+> ₦5,000 for the whole thing. No consulting, no guarantees, no new customers. It just stops you losing the ones already in your inbox.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · Automating the first message
+
+**Type:** Entertain · **Why it works:** A principle stated as a line you can actually hold.
+
+### TikTok · 20:45 · Talking head, 40s
+
+**Hook (0-3s)**
+> Someone asked us to set up auto-replies on every channel. We said no.
+
+**On-screen beats**
+- Auto-reply is a promise
+- A bot cannot keep a specific promise
+- So it reads as a wall
+- One typed line, then automate
+
+**Voiceover script**
+> Someone asked us to put auto-replies on every channel. We said no, for one reason. An automatic reply is a promise, and a promise you cannot make specific reads as a wall. The first message in a sale has to be typed by a person who can say something only true for that customer. Automate the tenth message, not the first.
+
+**Caption**
+> The first reply is the one place a human is worth more than software.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · Reel + caption
+
+**Script slides**
+1. Auto-reply everything?
+2. No
+3. The first message is a promise
+4. A bot can't make it specific
+
+**Caption**
+> Automate the tenth message. The first one is the one that counts.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone asked us to put automatic replies on every channel.
+> 
+> We said no, for one reason. An automatic reply is a promise, and a promise you cannot make specific reads as a wall.
+> 
+> The first message of a sale has to be typed by a person who can say something true about that one customer.
+> 
+> Automate the tenth message. Not the first.
+> 
+> Where is the line for you?
+
+
+---
+
+
+## Post 11 · Three dates before you press send
+
+**Type:** Teach · **Why it works:** A habit that converts good intentions into a working system.
+
+### TikTok · 21:30 · Kinetic type, 23s
+
+**Hook (0-3s)**
+> Before you send a quote, put three dates in your phone.
+
+**On-screen beats**
+- Day 1
+- Day 3
+- Day 7
+- Then the system runs itself
+
+**Voiceover script**
+> Before you press send on a quote, put three dates in your phone. Day one, the quote goes out. Day three, one useful thing and a question. Day seven, the close: should I keep this or release it. Three reminders, ten seconds, and the whole follow-up problem disappears because it stopped depending on you remembering.
+
+**Caption**
+> Three calendar reminders. Ten seconds. That is the entire follow-up system.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 5-slide carousel
+
+**Slide copy**
+1. Before you send
+2. Day 1: the quote
+3. Day 3: something useful
+4. Day 7: the close
+5. Put all three in your phone
+
+**Caption**
+> Systems beat memories. Every time.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Before you press send on a quote, put three dates in your phone.
+> 
+> Day 1: the quote goes out.
+> Day 3: one useful thing and a question.
+> Day 7: the close — keep it or release it.
+> 
+> Three reminders. Ten seconds of work.
+> 
+> The follow-up problem is not a discipline problem. It is a calendar problem, and calendars are easy.
+> 
+> Do you do this already?
 
 
 ---

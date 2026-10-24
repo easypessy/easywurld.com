@@ -1,0 +1,745 @@
+[
+  {
+    "day": 7,
+    "label": "Day 7 · Saturday",
+    "theme": "The receipts",
+    "offer": "PLAYBOOK",
+    "posts": [
+      {
+        "id": "D7-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "The worst page I saw this week",
+        "why": "A running series gives people a reason to come back tomorrow.",
+        "tiktok": {
+          "fmt": "Screen recording, 24s",
+          "hook": "The worst page I saw this week has one button, below the fold, in grey.",
+          "beats": [
+            "Grey on grey",
+            "Below the fold",
+            "No instruction",
+            "Three fixes in twenty seconds"
+          ],
+          "vo": "The worst page I saw this week has one button, and it is grey, and it is below the fold, and it says submit. Three fixes. Put it above the fold. Make it the darkest thing on the page. Say what happens when they press it. That is a morning's work and it is probably worth more than the rest of the page combined.",
+          "cap": "One button, grey, below the fold, called 'submit'. It was doing nothing and costing everything."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "Grey button",
+            "Below the fold",
+            "Called 'submit'",
+            "Three fixes",
+            "Morning's work"
+          ],
+          "cap": "The smallest element on the page is usually doing the most important job."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The worst page I saw this week had one button. Grey text on a pale grey shape. Below the fold. The label was 'submit'.\n\nThree fixes: move it above the fold, make it the darkest thing on the page, and say what happens when you press it.\n\n'Submit' is not a promise. 'Send my order' is.\n\nThe smallest element on the page is usually doing the most important job.\n\nWhat does your main button say?"
+        }
+      },
+      {
+        "id": "D7-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "Week one, the real number",
+        "why": "Public honesty about a weak week is the most credible thing an account can do.",
+        "tiktok": {
+          "fmt": "Talking head, 26s",
+          "hook": "Week one is done. Here is the real number, including the embarrassing part.",
+          "beats": [
+            "Read it off the sheet",
+            "Say the awkward bit first",
+            "Most posts did nothing",
+            "That is normal"
+          ],
+          "vo": "Week one is done. I am going to read the number off the sheet, not off my memory, and I am going to say the awkward part first. Most posts did nothing. A few did almost everything. If you have been posting and feeling like a failure, that is not failure, that is the shape of every account in week one.",
+          "cap": "Say the awkward number first. It is the only part anyone believes."
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": [
+            "Week one",
+            "Most posts: nothing",
+            "A few: everything",
+            "That is the shape",
+            "Read your own sheet"
+          ],
+          "cap": "The sheet is not a report card. It is a map of where to spend next week."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Week one is done, so here is the honest version.\n\nMost of what I posted did nothing. A small number of posts did almost all of the work. The same is true of almost every account in its first week, and it is the reason I keep a sheet instead of relying on how it felt.\n\nIf you are a week into posting and it feels like a failure, it is not. It is early, and the data is thin.\n\nWhat did your first week actually do?"
+        }
+      },
+      {
+        "id": "D7-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The three posts people saved",
+        "why": "Saves are the closest thing to a public vote of usefulness.",
+        "tiktok": {
+          "fmt": "Kinetic type, 23s",
+          "hook": "Three posts got saved this week and the other sixty did not. Here is the difference.",
+          "beats": [
+            "Saves are not likes",
+            "A save is a plan",
+            "All three were checklists",
+            "Make more checklists"
+          ],
+          "vo": "Three posts got saved this week and the other sixty did not. The difference was not quality, it was use. A like means that was nice. A save means I will need this on Monday. All three saved posts were checklists you could act on in under a minute. So the plan for next week writes itself.",
+          "cap": "Likes measure taste. Saves measure usefulness. Only one of them pays."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Saves, not likes",
+            "A save is a plan",
+            "Make more checklists"
+          ],
+          "cap": "If a post cannot be used on Monday, it will not be saved."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Three posts got saved this week and about sixty did not.\n\nThe difference was not how good they were. It was whether you could use them.\n\nA like means 'that was nice'. A save means 'I will need this on Monday'. All three saved posts were short checklists you could act on immediately.\n\nSo next week has more checklists and fewer opinions.\n\nWhat have you saved recently? That tells you what you actually want."
+        }
+      },
+      {
+        "id": "D7-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "Most posting advice is about reach",
+        "why": "A useful distinction that reframes the whole month's work.",
+        "tiktok": {
+          "fmt": "Talking head, 20s",
+          "hook": "Almost every post you read about posting is about reach.",
+          "beats": [
+            "Reach is not revenue",
+            "Conversations are revenue",
+            "Nobody gives you a number for that",
+            "So count your own"
+          ],
+          "vo": "Almost every post you read about posting is about reach, because reach is easy to screenshot. Reach is not revenue. Conversations are. Nobody is going to give you that number, because it lives in your WhatsApp, not in the analytics. So count it yourself, in one column, every Friday.",
+          "cap": "Reach is a screenshot. Conversations are money."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Reach: screenshot",
+            "Conversations: money",
+            "Count your own"
+          ],
+          "cap": "The number that pays you is the one no platform will show you."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Almost every post about posting is about reach, because reach is easy to screenshot.\n\nReach is not revenue. Conversations are.\n\nNobody will hand you that number, because it lives in your WhatsApp, not in the analytics. So count it yourself. One column, every Friday. How many strangers messaged you this week?\n\nThat single number will change what you post faster than any view count.\n\nWhat was yours this week?"
+        }
+      },
+      {
+        "id": "D7-05",
+        "show": "steal",
+        "type": "Entertain",
+        "topic": "Ask for one sentence",
+        "why": "Turns a customer's message into the only proof a new studio can legally show.",
+        "tiktok": {
+          "fmt": "Kinetic type, 20s",
+          "hook": "You do not have a testimonial yet. Ask for one sentence instead.",
+          "beats": [
+            "Not a review",
+            "One sentence",
+            "Why did you buy",
+            "Post only that"
+          ],
+          "vo": "You do not have testimonials yet. You have customers, so ask them one question: why did you buy. Not a long review, one sentence. Then post the sentence and nothing else. No caption explaining it, no design around it. A real sentence from one person is worth more than a page of adjectives.",
+          "cap": "Ask three customers why they bought. Post the answer, unedited."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Ask: why did you buy?",
+            "One sentence",
+            "Post only that"
+          ],
+          "cap": "No caption needed. The sentence is the post."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "If you do not have testimonials yet, you do not need to invent any. You need one sentence.\n\nAsk three customers: 'Why did you buy?'\n\nYou will get a real, slightly awkward, very specific answer. Post that sentence and nothing else. No caption explaining it. No design around it.\n\nOne real sentence from one person beats a whole page of adjectives you wrote about yourself.\n\nWhat do you think they would say?"
+        }
+      },
+      {
+        "id": "D7-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "What I would do starting again",
+        "why": "The cheapest authority content that exists. No client, no permission.",
+        "tiktok": {
+          "fmt": "Talking head, 27s",
+          "hook": "If I started this again, I would post one format for thirty days.",
+          "beats": [
+            "Not four",
+            "Not chasing trends",
+            "One format",
+            "Until it works or I know it cannot"
+          ],
+          "vo": "If I started this again I would pick one format and post it for thirty days. Not four platforms with four styles, not whatever is trending. One format, thirty repeats, with the subject changing. Because the first ten will be bad, and you need to get to the tenth before you are allowed to judge whether the format works.",
+          "cap": "You are not allowed to judge a format until you have posted it ten times."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "One format",
+            "Thirty days",
+            "Changing only the subject",
+            "Ten before any judgement",
+            "Then decide"
+          ],
+          "cap": "Novelty is expensive. Repetition is the only thing that compounds."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "If I were starting this account again, I would pick one format and post it for thirty days.\n\nNot four platforms with four styles. Not whatever is trending this week. One format, repeating, with only the subject changing.\n\nBecause the first ten attempts will be bad and you need to reach the tenth before you are allowed to judge whether the format works.\n\nWhat is the one format you would pick?"
+        }
+      },
+      {
+        "id": "D7-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "The post that died",
+        "why": "Publishing a failure buys more trust than publishing a win.",
+        "tiktok": {
+          "fmt": "Talking head, 18s",
+          "hook": "This post died completely. Here it is, and here is why.",
+          "beats": [
+            "Show it",
+            "No hook in the first line",
+            "Explained before it interested",
+            "That is the whole post-mortem"
+          ],
+          "vo": "This post died. Here it is. It opens with a sentence that explains instead of interests, it has no picture until the fourth second, and it asks for nothing. Nobody watched it because nothing in the first line gave them a reason to. I am keeping it up so I remember the lesson.",
+          "cap": "Most dead posts die in the first line. Mine did too."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "This post died",
+            "Here it is",
+            "First line explained, not interested"
+          ],
+          "cap": "Watch your own flops. They are more instructive than your winners."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "This post died completely, and I am keeping it up.\n\nIt opens with a sentence that explains rather than interests. No picture until the fourth second. Nothing to stay for and nothing asked of anyone.\n\nMost dead posts die in the first line, not the middle.\n\nLook at your own worst post this week and read only the first sentence. You will see it immediately.\n\nWhat is the worst thing you have posted?"
+        }
+      },
+      {
+        "id": "D7-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "What do you think we do?",
+        "why": "Testing your own bio in public is the most on-brand thing this account can do.",
+        "tiktok": {
+          "fmt": "Street interview, 29s",
+          "hook": "I read strangers our own bio and asked what we do.",
+          "beats": [
+            "Two said websites",
+            "One said social media",
+            "Four did not know",
+            "We are fixing ours today"
+          ],
+          "vo": "I read strangers our own bio and asked what we do. Two said websites. One said social media management. Four said they did not know. We are the people who write other people's homepages, and our own bio failed the test. So we are fixing it today, in public, and I will show you the new one tomorrow.",
+          "cap": "Our own bio failed the same test we run on everyone else. Fixed today."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "2 said websites",
+            "1 said social media",
+            "4 did not know",
+            "Our own bio failed"
+          ],
+          "cap": "Run your own test before you charge anyone for the advice."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I read strangers our own Instagram bio and asked what they thought we do.\n\nTwo said websites. One said social media management. Four said they did not know.\n\nWe write other people's homepages for a living and our own bio failed the test.\n\nSo we are rewriting it today and I will show you the new one tomorrow, whether it works or not.\n\nWhen did you last read your own bio as a stranger?"
+        }
+      },
+      {
+        "id": "D7-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "The pack people actually asked about",
+        "why": "Letting the audience choose the product removes the feeling of being sold to.",
+        "tiktok": {
+          "fmt": "Overhead shot, 25s",
+          "hook": "The pack people asked about most this week was not the one I expected.",
+          "beats": [
+            "Not the biggest one",
+            "The chat scripts",
+            "Because that is this week's pain",
+            "Follow the questions"
+          ],
+          "vo": "The pack people asked about most this week was not the one I expected. It was the chat pack, thirty-six scripts for the awkward moments. Not because it is the best, because it matches the problem people had this week. Five thousand naira, and it will not bring you customers, only help with the ones you have.",
+          "cap": "Buy the pack that matches this week. ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837."
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": [
+            "Most asked about: the chat pack",
+            "Not the biggest one",
+            "The one matching this week's problem",
+            "₦5,000",
+            "No consulting included"
+          ],
+          "cap": "Your questions tell me what to make. Keep asking."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The pack people asked about most this week was not the one I expected.\n\nIt was the chat pack: 36 scripts for the awkward moments in a WhatsApp sale. Not because it is the best of the nine, but because it matched the problem people were having this week.\n\nThat is the whole buying rule. Buy the pack for this week's problem, not the biggest one.\n\n₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837. No consulting, no guarantees."
+        }
+      },
+      {
+        "id": "D7-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "Nothing to refuse this week",
+        "why": "Refusing to fake a refusal is the strongest possible proof of the format.",
+        "tiktok": {
+          "fmt": "Talking head, 22s",
+          "hook": "This is the 'we said no' slot, and nothing happened this week.",
+          "beats": [
+            "I could make one up",
+            "Then the series is worthless",
+            "So: nothing",
+            "Back next week"
+          ],
+          "vo": "This is the slot where I tell you something we refused. Nothing happened this week. I could make one up and you would never know, and then every real one in this series would be worth nothing. So, nothing to report. Back next week, and I hope it is boring again.",
+          "cap": "A made-up refusal would make every true one worthless. Nothing this week."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Nothing to refuse",
+            "I could invent one",
+            "Then none of these are real"
+          ],
+          "cap": "The series only works because it can be empty."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "This is the slot where I normally tell you something we refused to do. Nothing happened this week.\n\nI could invent one. You would never know. And then every other story in this series would be worth nothing, including the true ones.\n\nSo: nothing to report. Back next week, and I hope it stays boring.\n\nHave you ever caught a business making up a story?"
+        }
+      },
+      {
+        "id": "D7-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Next week is follow-up week",
+        "why": "Announcing the arc gives people a reason to return.",
+        "tiktok": {
+          "fmt": "Kinetic type, 19s",
+          "hook": "Next week is follow-up week. Every post, one lesson, all on the same problem.",
+          "beats": [
+            "Same subject for seven days",
+            "Learn it properly",
+            "Then do it",
+            "Follow to get the week"
+          ],
+          "vo": "Next week is follow-up week. Seven days, one subject: the message you send after the one that got ignored. By Friday you will have the whole system, and you can run it on Monday. Follow if you want the week, because the posts will be in order and the first one matters most.",
+          "cap": "Seven days, one subject. That is how a lesson sticks."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Next week",
+            "Follow-up",
+            "Seven days, one subject"
+          ],
+          "cap": "A themed week beats seven unrelated tips. Come back tomorrow."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Next week is follow-up week.\n\nSeven days, one subject: the message you send after the first one gets ignored. By Friday you will have the whole system and can run it from Monday.\n\nSeven related posts teach something. Seven unrelated tips are just noise, and you forget all of them.\n\nWhat is the one thing you keep meaning to fix in your business?"
+        }
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "label": "Day 8 · Sunday",
+    "theme": "The follow-up week",
+    "offer": "PLAYBOOK",
+    "posts": [
+      {
+        "id": "D8-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "Eleven unanswered 'hello?'",
+        "why": "The visual of a screen of one-word messages is painful and true.",
+        "tiktok": {
+          "fmt": "Screen recording, 25s",
+          "hook": "This chat is eleven messages long and nine of them say hello.",
+          "beats": [
+            "Same customer",
+            "Getting more polite",
+            "Then gone",
+            "A reply on day one fixes all of it"
+          ],
+          "vo": "This chat is eleven messages long and nine of them say hello. Same customer, getting more polite each time, then gone. Nobody was rude. Nobody was ignored on purpose. But from the customer's side, this is a business that does not answer, and they told ten friends.",
+          "cap": "Nine hellos is one customer being patient, publicly, until they stop."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "hello?",
+            "Hello??",
+            "Hello",
+            "...",
+            "Gone"
+          ],
+          "cap": "Every unanswered hello is a story they will tell about you."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A chat I saw this week: eleven messages long, nine of them variations of 'hello?'\n\nSame customer, being polite each time, then gone.\n\nNobody was rude. Nobody ignored them on purpose. But from the customer's side, that is a business that does not answer, and they will tell ten people.\n\nOne reply on day one would have fixed all eleven messages.\n\nHow long do messages sit in your inbox?"
+        }
+      },
+      {
+        "id": "D8-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "Twice is not harassment",
+        "why": "Names the fear that stops people following up at all.",
+        "tiktok": {
+          "fmt": "Kinetic type, 14s",
+          "hook": "Following up twice is not harassment. It is a reminder.",
+          "beats": [
+            "They are not annoyed",
+            "They forgot",
+            "Start from their side",
+            "Then send it"
+          ],
+          "vo": "Following up twice is not harassment. Harassment is the fifth message with nothing in it. A reminder, sent once, three days later, with something useful attached, is what a good supplier does. The customer is not annoyed. The customer is at work.",
+          "cap": "You are not bothering them. You are reminding them."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Twice",
+            "Is a reminder",
+            "Five times with nothing in it",
+            "Is harassment"
+          ],
+          "cap": "The difference is whether the message carries something."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A lot of people do not follow up because they are afraid of being a nuisance.\n\nFollowing up twice is not harassment. Harassment is the fifth message with nothing in it.\n\nA reminder, sent three days later, with one useful thing attached, is exactly what a good supplier does. The customer is not annoyed. The customer is at work and forgot.\n\nWhen did you last send a second message?"
+        }
+      },
+      {
+        "id": "D8-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The day-three message, word for word",
+        "why": "Giving the exact words removes the last excuse.",
+        "tiktok": {
+          "fmt": "Kinetic type, 24s",
+          "hook": "Here is the exact message to send on day three. Steal it.",
+          "beats": [
+            "Name the thing",
+            "Assume nothing",
+            "Ask a yes/no",
+            "No apology"
+          ],
+          "vo": "Here is the day three message, word for word. Hi Ada, the ankara set you asked about is still available. We have two slots left for Friday delivery. Should I keep one for you? That is it. No apology, no just checking in, no question mark on the price. One line of information and one question they can answer with one word.",
+          "cap": "Information first, question second, apology never."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "Name the thing",
+            "Add real information",
+            "Ask a yes/no question",
+            "No apology",
+            "Send on day 3"
+          ],
+          "cap": "Copy it, put your own product in it, send it on Thursday."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The day-three message, word for word:\n\n'Hi Ada, the ankara set you asked about is still available. We have two slots left for Friday delivery. Should I keep one for you?'\n\nThat is it. Information first, one question second, no apology, and nothing that sounds like begging.\n\nCopy it, put your own product in it, and send it on Thursday to anyone who went quiet this week.\n\nTell me what happens."
+        }
+      },
+      {
+        "id": "D8-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "'If they wanted it, they would reply'",
+        "why": "Attacks a belief that quietly costs people their income.",
+        "tiktok": {
+          "fmt": "Talking head, 21s",
+          "hook": "\"If they wanted it, they would have replied\" is the most expensive sentence in small business.",
+          "beats": [
+            "They were at work",
+            "Then it sank",
+            "Then they felt awkward",
+            "So they did not reply"
+          ],
+          "vo": "If they wanted it they would have replied is the most expensive sentence in small business. They did want it. Then they were at work. Then your message sank under forty others. Then it was three days later and they felt awkward about replying, so they did not. Nobody changed their mind. The chat just went stale.",
+          "cap": "They did not change their mind. The message just sank."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "\"They would have replied\"",
+            "They were at work",
+            "Then it sank",
+            "Then it was awkward"
+          ],
+          "cap": "Silence has more causes than disinterest. Usually it is just Tuesday."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "'If they wanted it, they would have replied.'\n\nI think this is the most expensive sentence in small business.\n\nThey did want it. Then they were at work. Then your message sank under forty newer ones. Then it was three days later and it felt awkward to reply, so they did not.\n\nNobody changed their mind. The chat just went stale.\n\nWhich of your quotes has gone quiet this week?"
+        }
+      },
+      {
+        "id": "D8-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "The job closed on the fourth message",
+        "why": "One number makes the whole case for persistence.",
+        "tiktok": {
+          "fmt": "Talking head, 33s",
+          "hook": "A two hundred and fifty thousand naira job closed on the fourth message.",
+          "beats": [
+            "The first three were ignored",
+            "None were pushy",
+            "Each carried something new",
+            "The fourth got the yes"
+          ],
+          "vo": "A two hundred and fifty thousand naira job closed on the fourth message. The first three were ignored, and none of them were pushy. One gave a delivery date. One gave a photo of the previous job. One said the slot was going to be released. The fourth got a yes in eleven minutes. Persistence without information is nagging. With it, it is service.",
+          "cap": "Three messages, three pieces of information, one yes."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "Message 1: ignored",
+            "Message 2: a date",
+            "Message 3: a photo",
+            "Message 4: the yes"
+          ],
+          "cap": "If each message teaches them something, it is not nagging."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A ₦250,000 job closed on the fourth message.\n\nThe first three were ignored. None of them were pushy. One carried a delivery date. One carried a photo of a previous job. One said the slot would be released at the end of the week.\n\nThe fourth got a yes in eleven minutes.\n\nPersistence with no information is nagging. Persistence with information is service.\n\nHow many messages do you send before you give up?"
+        }
+      },
+      {
+        "id": "D8-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Release the stock, out loud",
+        "why": "A real deadline is more persuasive than any adjective.",
+        "tiktok": {
+          "fmt": "Kinetic type, 21s",
+          "hook": "You do not need fake scarcity. You need a real deadline.",
+          "beats": [
+            "\"I'll release it Friday\"",
+            "True if you would",
+            "Then release it",
+            "The truth is the pressure"
+          ],
+          "vo": "You do not need to invent scarcity. You need a real deadline. I will release this slot on Friday and give it to the next person. That is true, because the slot is worth money and you cannot hold it forever. The moment you say it, and mean it, the customer has a reason to decide this week without you pretending there is a queue.",
+          "cap": "A real deadline does the work that fake scarcity pretends to do."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Fake: \"only 2 left\"",
+            "Real: \"I'll release it Friday\"",
+            "Then actually release it"
+          ],
+          "cap": "Invent a deadline once and every future deadline stops working."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "You do not need to invent scarcity. You need a real deadline.\n\n'I will release this slot on Friday and offer it to the next person.'\n\nThat is true, because the slot is worth money and you cannot hold it indefinitely. Say it once, then actually do it on Friday.\n\nThe difference between that and 'only 2 left' is that one of them survives being checked.\n\nDo you have a real deadline you could name today?"
+        }
+      },
+      {
+        "id": "D8-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "Your quote is forty messages up",
+        "why": "A physical image that makes the abstract problem concrete.",
+        "tiktok": {
+          "fmt": "Kinetic type, 13s",
+          "hook": "Your quote is forty messages up their chat list, behind a group chat.",
+          "beats": [
+            "Invisible to them",
+            "Visible to you",
+            "That asymmetry is the problem",
+            "Remind them"
+          ],
+          "vo": "Your quote is forty messages up their chat list, behind a family group and two deliveries. To you it is the most important message you sent this week. To them it is invisible. That gap is the whole reason follow-up exists, and it has nothing to do with whether they like you.",
+          "cap": "You are not being ignored. You are being buried."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "To you: the big message",
+            "To them: 40 messages down",
+            "Remind, do not resent"
+          ],
+          "cap": "Assume every message you send is invisible a week later."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Your quote is forty messages up their chat list, behind a family group and two delivery notifications.\n\nTo you, it is the most important thing you sent this week. To them, it is invisible.\n\nThat gap is the entire reason follow-up exists, and it has nothing to do with whether they like you.\n\nYou are not being ignored. You are being buried.\n\nWhen did you last assume your message was invisible?"
+        }
+      },
+      {
+        "id": "D8-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "Do you read the second message?",
+        "why": "The answer contradicts most people's fear of following up.",
+        "tiktok": {
+          "fmt": "Street interview, 27s",
+          "hook": "I asked: do you reply to a vendor's second message?",
+          "beats": [
+            "Most said yes",
+            "Because it reminded them",
+            "The first was the problem",
+            "Second messages work"
+          ],
+          "vo": "I asked people whether they reply to a vendor's second message. Most said yes, and almost all said the same reason: the first one arrived when I was busy. So the second message is not annoying, it is the one that actually lands. Most businesses never send it, which is remarkable when you think about it.",
+          "cap": "The second message works because the first one arrived at the wrong moment."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "\"Do you reply to the 2nd message?\"",
+            "Most: yes",
+            "Because the 1st came at work",
+            "Most businesses never send it"
+          ],
+          "cap": "The follow-up is not the annoying one. It is the effective one."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I asked people: do you reply to a vendor's second message?\n\nMost said yes, and nearly all gave the same reason. The first one arrived when they were busy.\n\nSo the second message is not annoying. It is the one that actually lands, and most businesses never send it.\n\nIf you are worried about being a nuisance, the data says you are worrying about the wrong thing.\n\nWhat stops you sending it?"
+        }
+      },
+      {
+        "id": "D8-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "The tracker is the unglamorous half",
+        "why": "Selling the boring part builds credibility for everything else.",
+        "tiktok": {
+          "fmt": "Overhead shot, 28s",
+          "hook": "The most useful thing in this pack is a spreadsheet, and nobody buys it for the spreadsheet.",
+          "beats": [
+            "36 scripts get all the attention",
+            "The tracker is what gets used",
+            "Dates, not feelings",
+            "Five thousand naira"
+          ],
+          "vo": "The most useful thing in this pack is a spreadsheet, and nobody buys it for the spreadsheet. The scripts get all the attention, but the tracker is what makes the follow-ups happen, because it shows you who is due today. Five thousand naira for the whole thing. It will not bring you customers. It stops you losing the ones you already have.",
+          "cap": "Scripts get the credit. The tracker does the work. ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837."
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": [
+            "36 scripts",
+            "Get all the attention",
+            "A spreadsheet",
+            "Does the actual work",
+            "₦5,000 · PLAYBOOK"
+          ],
+          "cap": "The boring half of any system is the half that runs."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The most useful thing in the Chat-to-Customer Playbook is a spreadsheet, and almost nobody buys it for the spreadsheet.\n\nThe 36 scripts get all the attention. The tracker is what actually makes follow-ups happen, because it tells you who is due today instead of leaving it to memory.\n\n₦5,000 for the whole thing. No consulting, no guarantees, no new customers. It just stops you losing the ones already in your inbox.\n\nMessage PLAYBOOK on WhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D8-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "Automating the first message",
+        "why": "A principle stated as a line you can actually hold.",
+        "tiktok": {
+          "fmt": "Talking head, 40s",
+          "hook": "Someone asked us to set up auto-replies on every channel. We said no.",
+          "beats": [
+            "Auto-reply is a promise",
+            "A bot cannot keep a specific promise",
+            "So it reads as a wall",
+            "One typed line, then automate"
+          ],
+          "vo": "Someone asked us to put auto-replies on every channel. We said no, for one reason. An automatic reply is a promise, and a promise you cannot make specific reads as a wall. The first message in a sale has to be typed by a person who can say something only true for that customer. Automate the tenth message, not the first.",
+          "cap": "The first reply is the one place a human is worth more than software."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "Auto-reply everything?",
+            "No",
+            "The first message is a promise",
+            "A bot can't make it specific"
+          ],
+          "cap": "Automate the tenth message. The first one is the one that counts."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Someone asked us to put automatic replies on every channel.\n\nWe said no, for one reason. An automatic reply is a promise, and a promise you cannot make specific reads as a wall.\n\nThe first message of a sale has to be typed by a person who can say something true about that one customer.\n\nAutomate the tenth message. Not the first.\n\nWhere is the line for you?"
+        }
+      },
+      {
+        "id": "D8-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Three dates before you press send",
+        "why": "A habit that converts good intentions into a working system.",
+        "tiktok": {
+          "fmt": "Kinetic type, 23s",
+          "hook": "Before you send a quote, put three dates in your phone.",
+          "beats": [
+            "Day 1",
+            "Day 3",
+            "Day 7",
+            "Then the system runs itself"
+          ],
+          "vo": "Before you press send on a quote, put three dates in your phone. Day one, the quote goes out. Day three, one useful thing and a question. Day seven, the close: should I keep this or release it. Three reminders, ten seconds, and the whole follow-up problem disappears because it stopped depending on you remembering.",
+          "cap": "Three calendar reminders. Ten seconds. That is the entire follow-up system."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "Before you send",
+            "Day 1: the quote",
+            "Day 3: something useful",
+            "Day 7: the close",
+            "Put all three in your phone"
+          ],
+          "cap": "Systems beat memories. Every time.",
+          "body": "Before you press send on a quote, put three dates in your phone. Day 1: quote out. Day 3: something useful and a question. Day 7: keep it or release it."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Before you press send on a quote, put three dates in your phone.\n\nDay 1: the quote goes out.\nDay 3: one useful thing and a question.\nDay 7: the close — keep it or release it.\n\nThree reminders. Ten seconds of work.\n\nThe follow-up problem is not a discipline problem. It is a calendar problem, and calendars are easy.\n\nDo you do this already?"
+        }
+      }
+    ]
+  }
+]
