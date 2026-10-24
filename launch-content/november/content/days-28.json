@@ -1,0 +1,285 @@
+[
+  {
+    "day": 28,
+    "label": "Day 28 · Saturday",
+    "theme": "The receipts",
+    "offer": "BUNDLE",
+    "posts": [
+      {
+        "id": "D28-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "The worst sales page of the week",
+        "why": "Closes the honest-ad week on its own thesis.",
+        "tiktok": {
+          "fmt": "Screen recording, 24s",
+          "hook": "The worst sales page I read this week has six promises, no price, and no limit.",
+          "beats": ["Six promises", "No price", "No limit", "Three things missing"],
+          "vo": "The worst sales page I read this week has six promises, no price, and no limit. Which means a buyer has no idea what it costs, no idea what it will not do, and six claims to be hopeful about. Every one of those three gaps makes the price feel larger, because a buyer fills a gap with their worst guess, and their worst guess is always more than the truth.",
+          "cap": "Six promises, no price, no limit. The buyer fills the gaps with their worst guess.",
+          "body": "Six promises, no price, no limit. Buyers fill a gap with their worst guess, and their worst guess is always more than the truth — which is why hiding the price never makes a product feel cheaper."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["6 promises", "0 prices", "0 limits", "3 gaps, filled badly"],
+          "cap": "A gap is never empty. It is filled with the worst number available.",
+          "body": "Hiding the price does not make the product feel cheaper. It makes it feel expensive and vague, which is the worst combination for a small business."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The worst sales page I read this week has six promises, no price, and no limit.\n\nSo the buyer has no idea what it costs, no idea what it will not do, and six claims to be hopeful about.\n\nAnd every one of those gaps makes the price feel larger, because a buyer fills a gap with their worst guess.\n\nTheir worst guess is always more than the truth.\n\nWhich gap is on your page?"
+        }
+      },
+      {
+        "id": "D28-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "Four weeks, the real number",
+        "why": "The last ledger before the close, and the most honest one.",
+        "tiktok": {
+          "fmt": "Talking head, 27s",
+          "hook": "Four weeks. Here is the real number, from the tracker, not from my memory.",
+          "beats": ["Posts published", "Conversations", "Packs sold", "And what did not happen"],
+          "vo": "Four weeks, read from the tracker. Nearly four hundred published pieces, a small number of conversations, a smaller number of sales, and no viral moment. What worked was boring: teardowns, checklists, and saying the price out loud. What did not work was cleverness. If you were hoping this video would tell you there is a shortcut, it will not, and I would rather lose the view than be the reason you buy a course about shortcuts.",
+          "cap": "No viral moment. Teardowns, checklists, visible prices. That is the whole finding.",
+          "body": "Nearly four hundred pieces, a small number of conversations, fewer sales, no viral moment. What worked was boring: teardowns, checklists, visible prices. What did not work was cleverness."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": ["4 weeks", "~400 pieces", "No viral moment", "Boring things worked", "Clever things did not"],
+          "cap": "The absence of a viral moment is the most useful data point in the month.",
+          "body": "Most of the value came from a handful of formats repeated. That is an unglamorous finding and it is the only one that holds up against the tracker."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Four weeks, read from the tracker rather than my memory.\n\nNearly four hundred published pieces. A small number of conversations. Fewer sales than that. No viral moment.\n\nWhat worked was boring: teardowns, checklists, and saying the price out loud. What did not work was cleverness.\n\nIf you were hoping for a shortcut, I would rather lose the view than be the reason you buy one."
+        }
+      },
+      {
+        "id": "D28-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The post that produced the most conversations",
+        "why": "Naming the winner and the reason makes it teachable.",
+        "tiktok": {
+          "fmt": "Kinetic type, 23s",
+          "hook": "One post produced most of the conversations this month. It was a checklist.",
+          "beats": ["Not a story", "Not a hot take", "A list of five lines", "Because it was usable by Monday"],
+          "vo": "One post produced most of the conversations this month, and it was a checklist: the five lines every quote needs. Not a story, not a hot take, a list of five lines somebody could use on Monday. Which tells me the audience here is not looking to be impressed, it is looking for something to do differently before the week starts. That is useful and it is also a little humbling.",
+          "cap": "The post that worked was five lines of checklist. Usable beats impressive.",
+          "body": "The five lines every quote needs. Not a story, not a hot take — a list someone could use on Monday. Usable beats impressive, every time, in a feed full of both."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Not a story", "Not a hot take", "A 5-line checklist", "Usable by Monday"],
+          "cap": "Ask what someone can do before Monday. Write that.",
+          "body": "This is the shortest possible content strategy: make things that can be acted on before the next working week begins."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "One post produced most of the conversations this month. It was a checklist: the five lines every quote needs.\n\nNot a story. Not a hot take. Five lines somebody could use on Monday.\n\nWhich tells me people here are not looking to be impressed. They are looking for something to do differently before the week starts.\n\nUseful and humbling at the same time."
+        }
+      },
+      {
+        "id": "D28-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "Entertainment bought reach",
+        "why": "The month's central finding, stated as three lines.",
+        "tiktok": {
+          "fmt": "Talking head, 20s",
+          "hook": "Entertainment bought the reach. Teaching bought the messages. Selling bought the money.",
+          "beats": ["Three jobs", "Three currencies", "Stop judging them the same", "Sixty thirty ten"],
+          "vo": "Entertainment bought the reach. Teaching bought the messages. Selling bought the money. Three jobs, three currencies, and the mistake almost everyone makes is judging all three by the same number. Look at views for a sell post and you will conclude selling does not work, stop selling, and then wonder why a month of good content produced no income.",
+          "cap": "Three jobs, three currencies. Views are only the currency of the first one.",
+          "body": "Reach, messages, money. Three jobs with three different currencies, and judging all three by views is how people conclude selling does not work and quietly stop."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Entertain → reach", "Teach → messages", "Sell → money", "60 / 30 / 10"],
+          "cap": "A sell post with low views is not a failure. It is a sell post.",
+          "body": "This is the single most useful idea from the month, and it is the one that stops people quitting during a flat week."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Entertainment bought the reach. Teaching bought the messages. Selling bought the money.\n\nThree jobs. Three currencies.\n\nThe mistake almost everyone makes is judging all three by the same number. Look at views for a sell post, conclude selling does not work, stop selling — then wonder why a month of good content produced no income.\n\nWhich currency are you measuring?"
+        }
+      },
+      {
+        "id": "D28-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "The best question anyone asked us",
+        "why": "A question from the audience is the strongest possible validation.",
+        "tiktok": {
+          "fmt": "Talking head, 28s",
+          "hook": "The best question anyone asked us this month was: how do I know if I am the problem?",
+          "beats": ["Not the market", "Not the ads", "Them", "And the answer is usually yes, partly"],
+          "vo": "The best question anyone asked this month was how do I know if I am the problem. Not the market, not the adverts, me. And the honest answer is usually yes, partly, and you find out by reading your last twenty conversations in order with the timestamps. Almost every business problem in Lagos is visible in that file and nobody opens it because it is not flattering.",
+          "cap": "\"How do I know if I am the problem?\" Read your last twenty conversations in order.",
+          "body": "Not the market, not the adverts, me. The honest answer is usually yes, partly, and you find out by reading your last twenty conversations in order with the timestamps."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["\"Am I the problem?\"", "Usually: partly", "Read 20 conversations", "In order, with times"],
+          "cap": "The unflattering file is the one with the answers in it.",
+          "body": "This is a fifteen minute exercise and it is uncomfortable in a way that is genuinely useful. Most people find one repeated mistake."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The best question anyone asked us this month: 'How do I know if I am the problem?'\n\nNot the market. Not the adverts. Me.\n\nThe honest answer is usually yes, partly — and you find out by reading your last twenty conversations in order, with the timestamps.\n\nAlmost every business problem I have seen is visible in that file, and nobody opens it because it is not flattering."
+        }
+      },
+      {
+        "id": "D28-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "What we are cutting next month",
+        "why": "Self-correction in public is the rarest content there is.",
+        "tiktok": {
+          "fmt": "Kinetic type, 22s",
+          "hook": "Next month we are cutting one format entirely. Here is the reasoning.",
+          "beats": ["It was the most fun", "It got the fewest saves", "And no conversations", "So it goes"],
+          "vo": "Next month we are cutting one format entirely, and it is the one I enjoy most: the observational rant. It got decent views and almost no saves, and not one conversation came from it. Which means it was entertaining me rather than the audience. Cutting it frees three hours a week for teardowns, which did everything. I am telling you because a format you are afraid to cut is usually the one that should go.",
+          "cap": "Cutting the format I enjoy most. Good views, no saves, no conversations.",
+          "body": "The observational rant: decent views, almost no saves, not one conversation. It was entertaining me. Cutting it frees three hours for the teardowns that did everything."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Format: the rant", "Views: fine", "Saves: none", "Cutting it"],
+          "cap": "The format you are afraid to cut is usually the one that should go.",
+          "body": "Cutting something publicly is a commitment device. Announcing it makes it much harder to quietly bring back next month."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Next month we are cutting one format entirely, and it is the one I enjoy most: the observational rant.\n\nDecent views. Almost no saves. Not one conversation.\n\nWhich means it was entertaining me rather than the audience. Cutting it frees three hours a week for teardowns, which did everything.\n\nA format you are afraid to cut is usually the one that should go.\n\nWhat would you cut?"
+        }
+      },
+      {
+        "id": "D28-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "The thing we were wrong about",
+        "why": "Saying it first removes anyone else's chance to say it.",
+        "tiktok": {
+          "fmt": "Talking head, 25s",
+          "hook": "Here is the thing we were wrong about in November, before anyone else says it.",
+          "beats": ["We thought volume would find the winners", "It found them slowly", "Consistency beat volume", "Same shows, fewer rewrites"],
+          "vo": "The thing we were wrong about in November: we thought volume alone would find the winning formats. It did find them, but it found them by week three, and everything after that was mostly repeating what already worked. Which means the plan for December is not more posts, it is the same shows with less variation, because variation was what made the first three weeks expensive and slow.",
+          "cap": "We were wrong that volume alone would find the winners. It found them by week three.",
+          "body": "Volume found the winning formats by week three, and everything after that was repeating what worked. December is fewer new ideas and more repetition."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["We assumed: volume wins", "Reality: it wins by week 3", "Then repetition wins"],
+          "cap": "Say what you got wrong before somebody else does it for you.",
+          "body": "This is uncomfortable to publish and it is the post people trust most, because most accounts only publish the parts that worked."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "What we were wrong about in November, before anyone else says it.\n\nWe thought volume alone would find the winning formats. It did — but it found them by week three, and everything after that was mostly repeating what already worked.\n\nSo December is not more posts. It is the same shows with less variation.\n\nVariation is what made the first three weeks expensive and slow."
+        }
+      },
+      {
+        "id": "D28-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "I asked what we should make next",
+        "why": "Handing the roadmap to the audience is both content and research.",
+        "tiktok": {
+          "fmt": "Street interview, 27s",
+          "hook": "I asked strangers what we should make next. Here is every answer, including the rude one.",
+          "beats": ["More teardowns", "More prices", "One said stop shouting", "All of it written down"],
+          "vo": "I asked strangers what we should make next. Most said more teardowns. Several said more actual prices. One told me to stop shouting at the camera, which is fair and which I have written down. The point is that I did not guess, I asked, and now December has a plan that came from people who owe me nothing, which is the only reliable source of a plan.",
+          "cap": "More teardowns. More prices. Stop shouting. All written down.",
+          "body": "Most said more teardowns, several said more real prices, one said stop shouting at the camera. Now December has a plan that came from people who owe me nothing."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Asked strangers", "More teardowns", "More real prices", "Stop shouting (fair)"],
+          "cap": "The best content plan is a survey you did not call a survey.",
+          "body": "Asking in public also tells the audience their opinion changes the account, which is the cheapest loyalty mechanic there is."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I asked strangers what we should make next.\n\nMost said more teardowns. Several said more actual prices. One told me to stop shouting at the camera, which is fair and which I have written down.\n\nThe point is that I did not guess. I asked, and now December has a plan built from people who owe me nothing.\n\nWhat should we make?"
+        }
+      },
+      {
+        "id": "D28-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "The pack that earned its price",
+        "why": "One line, one code, and a reason that is not invented.",
+        "tiktok": {
+          "fmt": "Overhead shot, 21s",
+          "hook": "The pack that earned its price this month was the quote templates. One line: five thousand.",
+          "beats": ["Most used", "Most asked about", "Most refunded? no", "Five thousand"],
+          "vo": "The pack that earned its price this month was the Proposal Pack, because more people told me they used it than any other and nobody asked for a refund on it. Five thousand naira. Twelve quote templates and the five line structure. If you send quotes weekly it pays for itself in a fortnight, and if you send two a month, do not buy it.",
+          "cap": "₦5,000. Twelve templates, five lines. PROPOSAL on WhatsApp 0905 069 0837. Weekly quoters only.",
+          "body": "The one people actually reported using, and the one nobody asked to refund. Twelve quote templates and the five-line structure. Weekly quoters only."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Most used pack", "12 templates", "5-line structure", "₦5,000 · PROPOSAL"],
+          "cap": "The best seller is the one people report using, not the one that looks impressive.",
+          "body": "Usage is the only honest metric for a document product. A refund rate of zero is a small thing and it is the thing I watch."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The pack that earned its price this month was the Proposal Pack — because more people told me they used it than any other, and nobody asked for a refund.\n\n₦5,000. Twelve quote templates and the five-line structure.\n\nIf you send quotes weekly, it pays for itself in a fortnight. If you send two a month, do not buy it.\n\nPROPOSAL on WhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D28-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "The fourth refusal of the month",
+        "why": "Four weeks of the same format is what makes it a series rather than a post.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "Fourth week of this slot. The thing we refused this week: advertising for a business that could not deliver.",
+          "beats": ["They wanted reach", "They could not handle one week of it", "So we said no", "And wrote the delivery plan first"],
+          "vo": "Fourth week of this slot, and the thing we refused this week was advertising for a business that could not deliver what it already sold. They wanted reach, and one week of real reach would have buried them in orders they could not fulfil, which is how a business gets a reputation for taking money and disappearing. So we said no, and wrote a delivery plan first. Reach is easy. Keeping the promise is the business.",
+          "cap": "They wanted reach. They could not deliver one week of it. We said no.",
+          "body": "One week of real reach would have buried them in orders they could not fulfil, which is how a business earns a reputation for taking money and disappearing. So we wrote a delivery plan first."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["They wanted reach", "They could not deliver", "We said no"],
+          "cap": "Reach is easy. Keeping the promise is the business.",
+          "body": "This is the fourth refusal in four weeks, and the pattern is consistent: the thing we refuse is usually the thing that would have looked good quickly."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Fourth week of this slot. The thing we refused this week: advertising for a business that could not deliver what it already sells.\n\nThey wanted reach. One week of real reach would have buried them in orders they could not fulfil — which is how a business earns a reputation for taking money and disappearing.\n\nSo we said no, and wrote a delivery plan first.\n\nReach is easy. Keeping the promise is the business."
+        }
+      },
+      {
+        "id": "D28-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Next month: the plan, in one post",
+        "why": "Committing publicly is the strongest form of accountability.",
+        "tiktok": {
+          "fmt": "Kinetic type, 22s",
+          "hook": "December, in one post: four shows, one tracker, fewer formats, more repetition.",
+          "beats": ["Four shows", "One sheet", "Same eleven slots", "Same times"],
+          "vo": "December, in one post. Four shows instead of eight, one tracker, the same eleven slots a day, and repetition instead of novelty. The teardowns stay, the checklists stay, the honest ads stay, and the rest goes. That is the whole plan and I am telling you now so that in January you can check whether I did it, which is more accountability than most marketing plans survive.",
+          "cap": "Four shows. One tracker. Eleven slots. Repetition over novelty. See you in December.",
+          "body": "Four shows instead of eight, one tracker, the same eleven slots a day, repetition instead of novelty. Told publicly so it can be checked in January."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["4 shows", "1 tracker", "11 slots a day", "Repetition, not novelty"],
+          "cap": "A plan you cannot be checked against is a wish.",
+          "body": "The month worked best when the formats repeated, so December is designed around repetition rather than around finding something new."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "December, in one post.\n\nFour shows instead of eight. One tracker. The same eleven slots a day. Repetition instead of novelty.\n\nTeardowns stay. Checklists stay. Honest ads stay. The rest goes.\n\nI am telling you now so that in January you can check whether I did it — which is more accountability than most marketing plans survive.\n\nWhat is your December?"
+        }
+      }
+    ]
+  }
+]

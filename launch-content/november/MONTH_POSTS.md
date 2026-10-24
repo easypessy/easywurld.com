@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Friday 27 November 2026** |
+| Ends | **Saturday 28 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **891 posts** (297 core ideas x 3 platforms) |
+| Month total | **924 posts** (308 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -16552,6 +16552,612 @@ writing on the spot.
 > If any of the three is unclear, wait a week. The money is easier to keep than to earn back.
 > 
 > Which one would you fail today?
+
+
+---
+
+
+# Day 28 · Saturday · Saturday 28 Nov 2026 — The receipts
+
+**Offer in focus:** BUNDLE
+
+---
+
+
+## Post 01 · The worst sales page of the week
+
+**Type:** Entertain · **Why it works:** Closes the honest-ad week on its own thesis.
+
+### TikTok · 07:00 · Screen recording, 24s
+
+**Hook (0-3s)**
+> The worst sales page I read this week has six promises, no price, and no limit.
+
+**On-screen beats**
+- Six promises
+- No price
+- No limit
+- Three things missing
+
+**Voiceover script**
+> The worst sales page I read this week has six promises, no price, and no limit. Which means a buyer has no idea what it costs, no idea what it will not do, and six claims to be hopeful about. Every one of those three gaps makes the price feel larger, because a buyer fills a gap with their worst guess, and their worst guess is always more than the truth.
+
+**Caption**
+> Six promises, no price, no limit. The buyer fills the gaps with their worst guess.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. 6 promises
+2. 0 prices
+3. 0 limits
+4. 3 gaps, filled badly
+
+**Caption**
+> A gap is never empty. It is filled with the worst number available.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> The worst sales page I read this week has six promises, no price, and no limit.
+> 
+> So the buyer has no idea what it costs, no idea what it will not do, and six claims to be hopeful about.
+> 
+> And every one of those gaps makes the price feel larger, because a buyer fills a gap with their worst guess.
+> 
+> Their worst guess is always more than the truth.
+> 
+> Which gap is on your page?
+
+
+---
+
+
+## Post 02 · Four weeks, the real number
+
+**Type:** Entertain · **Why it works:** The last ledger before the close, and the most honest one.
+
+### TikTok · 09:15 · Talking head, 27s
+
+**Hook (0-3s)**
+> Four weeks. Here is the real number, from the tracker, not from my memory.
+
+**On-screen beats**
+- Posts published
+- Conversations
+- Packs sold
+- And what did not happen
+
+**Voiceover script**
+> Four weeks, read from the tracker. Nearly four hundred published pieces, a small number of conversations, a smaller number of sales, and no viral moment. What worked was boring: teardowns, checklists, and saying the price out loud. What did not work was cleverness. If you were hoping this video would tell you there is a shortcut, it will not, and I would rather lose the view than be the reason you buy a course about shortcuts.
+
+**Caption**
+> No viral moment. Teardowns, checklists, visible prices. That is the whole finding.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 5-slide carousel
+
+**Slide copy**
+1. 4 weeks
+2. ~400 pieces
+3. No viral moment
+4. Boring things worked
+5. Clever things did not
+
+**Caption**
+> The absence of a viral moment is the most useful data point in the month.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> Four weeks, read from the tracker rather than my memory.
+> 
+> Nearly four hundred published pieces. A small number of conversations. Fewer sales than that. No viral moment.
+> 
+> What worked was boring: teardowns, checklists, and saying the price out loud. What did not work was cleverness.
+> 
+> If you were hoping for a shortcut, I would rather lose the view than be the reason you buy one.
+
+
+---
+
+
+## Post 03 · The post that produced the most conversations
+
+**Type:** Teach · **Why it works:** Naming the winner and the reason makes it teachable.
+
+### TikTok · 11:30 · Kinetic type, 23s
+
+**Hook (0-3s)**
+> One post produced most of the conversations this month. It was a checklist.
+
+**On-screen beats**
+- Not a story
+- Not a hot take
+- A list of five lines
+- Because it was usable by Monday
+
+**Voiceover script**
+> One post produced most of the conversations this month, and it was a checklist: the five lines every quote needs. Not a story, not a hot take, a list of five lines somebody could use on Monday. Which tells me the audience here is not looking to be impressed, it is looking for something to do differently before the week starts. That is useful and it is also a little humbling.
+
+**Caption**
+> The post that worked was five lines of checklist. Usable beats impressive.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 4-slide carousel
+
+**Slide copy**
+1. Not a story
+2. Not a hot take
+3. A 5-line checklist
+4. Usable by Monday
+
+**Caption**
+> Ask what someone can do before Monday. Write that.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> One post produced most of the conversations this month. It was a checklist: the five lines every quote needs.
+> 
+> Not a story. Not a hot take. Five lines somebody could use on Monday.
+> 
+> Which tells me people here are not looking to be impressed. They are looking for something to do differently before the week starts.
+> 
+> Useful and humbling at the same time.
+
+
+---
+
+
+## Post 04 · Entertainment bought reach
+
+**Type:** Entertain · **Why it works:** The month's central finding, stated as three lines.
+
+### TikTok · 13:45 · Talking head, 20s
+
+**Hook (0-3s)**
+> Entertainment bought the reach. Teaching bought the messages. Selling bought the money.
+
+**On-screen beats**
+- Three jobs
+- Three currencies
+- Stop judging them the same
+- Sixty thirty ten
+
+**Voiceover script**
+> Entertainment bought the reach. Teaching bought the messages. Selling bought the money. Three jobs, three currencies, and the mistake almost everyone makes is judging all three by the same number. Look at views for a sell post and you will conclude selling does not work, stop selling, and then wonder why a month of good content produced no income.
+
+**Caption**
+> Three jobs, three currencies. Views are only the currency of the first one.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 4-slide carousel
+
+**Slide copy**
+1. Entertain → reach
+2. Teach → messages
+3. Sell → money
+4. 60 / 30 / 10
+
+**Caption**
+> A sell post with low views is not a failure. It is a sell post.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Entertainment bought the reach. Teaching bought the messages. Selling bought the money.
+> 
+> Three jobs. Three currencies.
+> 
+> The mistake almost everyone makes is judging all three by the same number. Look at views for a sell post, conclude selling does not work, stop selling — then wonder why a month of good content produced no income.
+> 
+> Which currency are you measuring?
+
+
+---
+
+
+## Post 05 · The best question anyone asked us
+
+**Type:** Entertain · **Why it works:** A question from the audience is the strongest possible validation.
+
+### TikTok · 15:00 · Talking head, 28s
+
+**Hook (0-3s)**
+> The best question anyone asked us this month was: how do I know if I am the problem?
+
+**On-screen beats**
+- Not the market
+- Not the ads
+- Them
+- And the answer is usually yes, partly
+
+**Voiceover script**
+> The best question anyone asked this month was how do I know if I am the problem. Not the market, not the adverts, me. And the honest answer is usually yes, partly, and you find out by reading your last twenty conversations in order with the timestamps. Almost every business problem in Lagos is visible in that file and nobody opens it because it is not flattering.
+
+**Caption**
+> "How do I know if I am the problem?" Read your last twenty conversations in order.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. "Am I the problem?"
+2. Usually: partly
+3. Read 20 conversations
+4. In order, with times
+
+**Caption**
+> The unflattering file is the one with the answers in it.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> The best question anyone asked us this month: 'How do I know if I am the problem?'
+> 
+> Not the market. Not the adverts. Me.
+> 
+> The honest answer is usually yes, partly — and you find out by reading your last twenty conversations in order, with the timestamps.
+> 
+> Almost every business problem I have seen is visible in that file, and nobody opens it because it is not flattering.
+
+
+---
+
+
+## Post 06 · What we are cutting next month
+
+**Type:** Teach · **Why it works:** Self-correction in public is the rarest content there is.
+
+### TikTok · 16:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Next month we are cutting one format entirely. Here is the reasoning.
+
+**On-screen beats**
+- It was the most fun
+- It got the fewest saves
+- And no conversations
+- So it goes
+
+**Voiceover script**
+> Next month we are cutting one format entirely, and it is the one I enjoy most: the observational rant. It got decent views and almost no saves, and not one conversation came from it. Which means it was entertaining me rather than the audience. Cutting it frees three hours a week for teardowns, which did everything. I am telling you because a format you are afraid to cut is usually the one that should go.
+
+**Caption**
+> Cutting the format I enjoy most. Good views, no saves, no conversations.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 4-slide carousel
+
+**Slide copy**
+1. Format: the rant
+2. Views: fine
+3. Saves: none
+4. Cutting it
+
+**Caption**
+> The format you are afraid to cut is usually the one that should go.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Next month we are cutting one format entirely, and it is the one I enjoy most: the observational rant.
+> 
+> Decent views. Almost no saves. Not one conversation.
+> 
+> Which means it was entertaining me rather than the audience. Cutting it frees three hours a week for teardowns, which did everything.
+> 
+> A format you are afraid to cut is usually the one that should go.
+> 
+> What would you cut?
+
+
+---
+
+
+## Post 07 · The thing we were wrong about
+
+**Type:** Entertain · **Why it works:** Saying it first removes anyone else's chance to say it.
+
+### TikTok · 18:00 · Talking head, 25s
+
+**Hook (0-3s)**
+> Here is the thing we were wrong about in November, before anyone else says it.
+
+**On-screen beats**
+- We thought volume would find the winners
+- It found them slowly
+- Consistency beat volume
+- Same shows, fewer rewrites
+
+**Voiceover script**
+> The thing we were wrong about in November: we thought volume alone would find the winning formats. It did find them, but it found them by week three, and everything after that was mostly repeating what already worked. Which means the plan for December is not more posts, it is the same shows with less variation, because variation was what made the first three weeks expensive and slow.
+
+**Caption**
+> We were wrong that volume alone would find the winners. It found them by week three.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. We assumed: volume wins
+2. Reality: it wins by week 3
+3. Then repetition wins
+
+**Caption**
+> Say what you got wrong before somebody else does it for you.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> What we were wrong about in November, before anyone else says it.
+> 
+> We thought volume alone would find the winning formats. It did — but it found them by week three, and everything after that was mostly repeating what already worked.
+> 
+> So December is not more posts. It is the same shows with less variation.
+> 
+> Variation is what made the first three weeks expensive and slow.
+
+
+---
+
+
+## Post 08 · I asked what we should make next
+
+**Type:** Entertain · **Why it works:** Handing the roadmap to the audience is both content and research.
+
+### TikTok · 19:00 · Street interview, 27s
+
+**Hook (0-3s)**
+> I asked strangers what we should make next. Here is every answer, including the rude one.
+
+**On-screen beats**
+- More teardowns
+- More prices
+- One said stop shouting
+- All of it written down
+
+**Voiceover script**
+> I asked strangers what we should make next. Most said more teardowns. Several said more actual prices. One told me to stop shouting at the camera, which is fair and which I have written down. The point is that I did not guess, I asked, and now December has a plan that came from people who owe me nothing, which is the only reliable source of a plan.
+
+**Caption**
+> More teardowns. More prices. Stop shouting. All written down.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 4-slide carousel
+
+**Slide copy**
+1. Asked strangers
+2. More teardowns
+3. More real prices
+4. Stop shouting (fair)
+
+**Caption**
+> The best content plan is a survey you did not call a survey.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked strangers what we should make next.
+> 
+> Most said more teardowns. Several said more actual prices. One told me to stop shouting at the camera, which is fair and which I have written down.
+> 
+> The point is that I did not guess. I asked, and now December has a plan built from people who owe me nothing.
+> 
+> What should we make?
+
+
+---
+
+
+## Post 09 · The pack that earned its price
+
+**Type:** Sell · **Why it works:** One line, one code, and a reason that is not invented.
+
+### TikTok · 20:00 · Overhead shot, 21s
+
+**Hook (0-3s)**
+> The pack that earned its price this month was the quote templates. One line: five thousand.
+
+**On-screen beats**
+- Most used
+- Most asked about
+- Most refunded? no
+- Five thousand
+
+**Voiceover script**
+> The pack that earned its price this month was the Proposal Pack, because more people told me they used it than any other and nobody asked for a refund on it. Five thousand naira. Twelve quote templates and the five line structure. If you send quotes weekly it pays for itself in a fortnight, and if you send two a month, do not buy it.
+
+**Caption**
+> ₦5,000. Twelve templates, five lines. PROPOSAL on WhatsApp 0905 069 0837. Weekly quoters only.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 4-slide carousel
+
+**Slide copy**
+1. Most used pack
+2. 12 templates
+3. 5-line structure
+4. ₦5,000 · PROPOSAL
+
+**Caption**
+> The best seller is the one people report using, not the one that looks impressive.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The pack that earned its price this month was the Proposal Pack — because more people told me they used it than any other, and nobody asked for a refund.
+> 
+> ₦5,000. Twelve quote templates and the five-line structure.
+> 
+> If you send quotes weekly, it pays for itself in a fortnight. If you send two a month, do not buy it.
+> 
+> PROPOSAL on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The fourth refusal of the month
+
+**Type:** Entertain · **Why it works:** Four weeks of the same format is what makes it a series rather than a post.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> Fourth week of this slot. The thing we refused this week: advertising for a business that could not deliver.
+
+**On-screen beats**
+- They wanted reach
+- They could not handle one week of it
+- So we said no
+- And wrote the delivery plan first
+
+**Voiceover script**
+> Fourth week of this slot, and the thing we refused this week was advertising for a business that could not deliver what it already sold. They wanted reach, and one week of real reach would have buried them in orders they could not fulfil, which is how a business gets a reputation for taking money and disappearing. So we said no, and wrote a delivery plan first. Reach is easy. Keeping the promise is the business.
+
+**Caption**
+> They wanted reach. They could not deliver one week of it. We said no.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. They wanted reach
+2. They could not deliver
+3. We said no
+
+**Caption**
+> Reach is easy. Keeping the promise is the business.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Fourth week of this slot. The thing we refused this week: advertising for a business that could not deliver what it already sells.
+> 
+> They wanted reach. One week of real reach would have buried them in orders they could not fulfil — which is how a business earns a reputation for taking money and disappearing.
+> 
+> So we said no, and wrote a delivery plan first.
+> 
+> Reach is easy. Keeping the promise is the business.
+
+
+---
+
+
+## Post 11 · Next month: the plan, in one post
+
+**Type:** Teach · **Why it works:** Committing publicly is the strongest form of accountability.
+
+### TikTok · 21:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> December, in one post: four shows, one tracker, fewer formats, more repetition.
+
+**On-screen beats**
+- Four shows
+- One sheet
+- Same eleven slots
+- Same times
+
+**Voiceover script**
+> December, in one post. Four shows instead of eight, one tracker, the same eleven slots a day, and repetition instead of novelty. The teardowns stay, the checklists stay, the honest ads stay, and the rest goes. That is the whole plan and I am telling you now so that in January you can check whether I did it, which is more accountability than most marketing plans survive.
+
+**Caption**
+> Four shows. One tracker. Eleven slots. Repetition over novelty. See you in December.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. 4 shows
+2. 1 tracker
+3. 11 slots a day
+4. Repetition, not novelty
+
+**Caption**
+> A plan you cannot be checked against is a wish.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> December, in one post.
+> 
+> Four shows instead of eight. One tracker. The same eleven slots a day. Repetition instead of novelty.
+> 
+> Teardowns stay. Checklists stay. Honest ads stay. The rest goes.
+> 
+> I am telling you now so that in January you can check whether I did it — which is more accountability than most marketing plans survive.
+> 
+> What is your December?
 
 
 ---
