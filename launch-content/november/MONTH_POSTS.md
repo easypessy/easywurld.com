@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Sunday 29 November 2026** |
+| Ends | **Monday 30 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **957 posts** (319 core ideas x 3 platforms) |
+| Month total | **990 posts** (330 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -17772,6 +17772,615 @@ writing on the spot.
 > Do it for thirty days, then read the sheet.
 > 
 > That is the whole system, and it is free.
+
+
+---
+
+
+# Day 30 · Monday · Monday 30 Nov 2026 — What we learned
+
+**Offer in focus:** BUNDLE
+
+---
+
+
+## Post 01 · We fixed our own page
+
+**Type:** Entertain · **Why it works:** Closing the month by being the client is the cleanest ending.
+
+### TikTok · 07:00 · Screen recording, 27s
+
+**Hook (0-3s)**
+> We fixed our own page this month. Here is the before and after, no editing tricks.
+
+**On-screen beats**
+- Before: helping brands tell their story
+- After: we write the words on your homepage
+- Same business
+- 32 more enquiries
+
+**Voiceover script**
+> We fixed our own page this month, which is the only fair way to end a month of telling other people to fix theirs. Before, it said helping brands tell their story, which is what everybody says. After, it says we write the words on your homepage, in eight words, and asks for a link. Same business, same prices, three times the enquiries, and the only thing that changed was one sentence.
+
+**Caption**
+> "Helping brands tell their story" → "We write the words on your homepage." 3× the enquiries.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. Before: helping brands tell their story
+2. After: we write your homepage
+3. Same business
+4. 3× the enquiries
+
+**Caption**
+> The advice we spent a month giving, applied to ourselves, in public.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> We fixed our own page this month — the only fair way to end a month of telling other people to fix theirs.
+> 
+> Before: 'helping brands tell their story.' Which is what everybody says.
+> After: 'we write the words on your homepage.'
+> 
+> Same business. Same prices. Three times the enquiries.
+> 
+> The only thing that changed was one sentence.
+> 
+> What is your one sentence?
+
+
+---
+
+
+## Post 02 · Nobody is on social to be sold to
+
+**Type:** Entertain · **Why it works:** The governing sentence of the whole month, and its evidence.
+
+### TikTok · 09:15 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Nobody is on social to be sold to. So we entertained first. Here is what happened.
+
+**On-screen beats**
+- Sixty percent entertaining
+- Thirty teaching
+- Ten selling
+- And the ten worked
+
+**Voiceover script**
+> Nobody is on social to be sold to, so we entertained first, taught the ones who were interested, and made it as easy as possible for the ones who had already decided. Sixty, thirty, ten. What happened was not a viral month. What happened was that the sell posts did not feel like a betrayal, because they arrived after three weeks of being useful and nobody had to be tricked into watching them.
+
+**Caption**
+> Entertain everyone, teach the interested, make it easy for the decided. 60/30/10.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 4-slide carousel
+
+**Slide copy**
+1. Nobody wants to be sold to
+2. 60% entertain
+3. 30% teach
+4. 10% sell
+
+**Caption**
+> The sell posts worked because of the twenty-seven days before them.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> Nobody is on social to be sold to.
+> 
+> So we entertained first, taught the ones who were interested, and made it as easy as possible for the ones who had already decided. Sixty percent, thirty, ten.
+> 
+> What happened was not a viral month. What happened was that the sell posts did not feel like a betrayal, because they arrived after three weeks of being useful.
+> 
+> Nobody had to be tricked into watching them.
+
+
+---
+
+
+## Post 03 · The whole system in one post
+
+**Type:** Teach · **Why it works:** The month's deliverable, compressed to something copyable.
+
+### TikTok · 11:30 · Kinetic type, 25s
+
+**Hook (0-3s)**
+> The whole system in one post: entertain, teach, sell. Sixty, thirty, ten.
+
+**On-screen beats**
+- Seven entertain
+- Three teach
+- One sell
+- Every day, same eleven
+
+**Voiceover script**
+> The whole system, in one post. Eleven slots a day. Seven entertain, three teach, one sell. Four repeating formats so you are not inventing from nothing every morning. One spreadsheet with a date and a time for each slot. Read it on the last day of the month, keep what worked, throw out the rest, and do it again. That is the entire system and it fits in a caption.
+
+**Caption**
+> 11 slots · 7 entertain · 3 teach · 1 sell · 4 formats · 1 sheet · 30 days.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 5-slide carousel
+
+**Slide copy**
+1. 11 slots a day
+2. 7 entertain
+3. 3 teach
+4. 1 sell
+5. 1 sheet, 30 days
+
+**Caption**
+> A system you can describe in one caption is a system you will actually run.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> The whole system, in one post.
+> 
+> 11 slots a day. Seven entertain, three teach, one sell. Four repeating formats, so you are not inventing from nothing every morning. One spreadsheet with a date and a time for each slot.
+> 
+> Read it on the last day of the month. Keep what worked. Throw out the rest. Do it again.
+> 
+> That is the entire system, and it fits in a caption.
+
+
+---
+
+
+## Post 04 · Posting less would have been the bigger risk
+
+**Type:** Entertain · **Why it works:** Answers the obvious objection to the whole month's method.
+
+### TikTok · 13:45 · Talking head, 21s
+
+**Hook (0-3s)**
+> Posting less would have been the bigger risk. Volume is how you find the twenty percent.
+
+**On-screen beats**
+- Fewer posts
+- Fewer attempts
+- Fewer discoveries
+- Same six weeks
+
+**Voiceover script**
+> Posting less would have been the bigger risk, and I know that is the opposite of what most advice says. Fewer posts means fewer attempts, which means fewer discoveries, and you would still spend the same six weeks finding out. Volume is not a virtue. It is a search method, and searching is the only way to find the twenty percent that carries everything.
+
+**Caption**
+> Volume is not a virtue. It is a search method.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Fewer posts
+2. Fewer attempts
+3. Same six weeks
+
+**Caption**
+> You can post less and learn less at the same speed.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Posting less would have been the bigger risk — the opposite of what most advice says.
+> 
+> Fewer posts means fewer attempts, which means fewer discoveries. You would still spend the same six weeks finding out.
+> 
+> Volume is not a virtue. It is a search method, and searching is the only way to find the twenty percent that carries everything.
+> 
+> What have you found by volume?
+
+
+---
+
+
+## Post 05 · What this month actually changed
+
+**Type:** Entertain · **Why it works:** Refusing the big claim at the end is the strongest possible credibility move.
+
+### TikTok · 15:00 · Talking head, 30s
+
+**Hook (0-3s)**
+> What this month actually changed, and only what is true.
+
+**On-screen beats**
+- No viral moment
+- Some conversations
+- One habit changed
+- And we know what to cut
+
+**Voiceover script**
+> What this month actually changed, and only what is true. No viral moment. A handful of conversations. One habit changed, which is answering faster. And we now know, from four weeks of evidence rather than a hunch, which three formats to cut and which one to double. That is a smaller result than a launch video would promise and it is the one I can defend in a room with the sheet in front of me.
+
+**Caption**
+> No viral moment. Some conversations. One habit changed. Three formats to cut.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. No viral moment
+2. A handful of conversations
+3. 1 habit changed
+4. 3 formats to cut
+
+**Caption**
+> A result you can defend with the sheet open is the only result worth reporting.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> What this month actually changed, and only what is true.
+> 
+> No viral moment. A handful of conversations. One habit changed, which is answering faster. And we now know, from four weeks of evidence rather than a hunch, which three formats to cut and which one to double.
+> 
+> A smaller result than a launch video would promise — and the only one I can defend with the sheet open.
+
+
+---
+
+
+## Post 06 · The tracker, on camera
+
+**Type:** Teach · **Why it works:** Showing the actual instrument is what separates this from advice.
+
+### TikTok · 16:30 · Screen recording, 26s
+
+**Hook (0-3s)**
+> Here is the tracker, on camera, with the real columns and the real numbers.
+
+**On-screen beats**
+- Date
+- Format
+- Views
+- Saves
+- Conversations
+
+**Voiceover script**
+> Here is the tracker, on camera, with the real columns: date, day, format, type, views, saves, comments, conversations, and packs sold. Nine columns, one row per post, filled in every morning by hand. The only column that ever made me change what I post is conversations, and the only one that ever surprised me is saves, because saves and views have almost nothing to do with each other.
+
+**Caption**
+> Nine columns, one row a post, filled by hand. Conversations changed the plan. Saves surprised me.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 5-slide carousel
+
+**Slide copy**
+1. Date + format
+2. Views + saves
+3. Comments
+4. Conversations
+5. Sales
+
+**Caption**
+> Nine columns beat any dashboard with forty.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> The tracker, on camera, with the real columns:
+> 
+> date · format · type · views · saves · comments · conversations · packs sold
+> 
+> Nine columns. One row per post. Filled in by hand every morning.
+> 
+> The only column that ever changed what I post is conversations. The only one that surprised me is saves — saves and views have almost nothing to do with each other.
+> 
+> Would you fill this in?
+
+
+---
+
+
+## Post 07 · The one post I would keep
+
+**Type:** Entertain · **Why it works:** A single answer is more memorable than a list of favourites.
+
+### TikTok · 18:00 · Talking head, 21s
+
+**Hook (0-3s)**
+> If we could keep one post from this month, it would be the day three message.
+
+**On-screen beats**
+- Not the best performing
+- Not the funniest
+- The one that changes behaviour
+- In eleven words
+
+**Voiceover script**
+> If we could keep one post from the whole month, it would be the day three message, word for word. Not the best performing one, not the funniest one. That one, because it is the only thing we published that somebody can copy in ten seconds and use before lunch, and the whole account exists to produce things like that. Everything else was practice.
+
+**Caption**
+> One message, copyable in ten seconds, used before lunch. That is the whole point.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Not the best performer
+2. The most copyable
+3. The day-3 message
+
+**Caption**
+> Judge posts by what someone can use before lunch.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> If we could keep one post from the whole month, it would be the day-three message, word for word.
+> 
+> Not the best performing. Not the funniest.
+> 
+> That one, because it is the only thing we published that somebody can copy in ten seconds and use before lunch.
+> 
+> The whole account exists to produce things like that. Everything else was practice.
+
+
+---
+
+
+## Post 08 · What do you want next month
+
+**Type:** Entertain · **Why it works:** Ending by asking is the cleanest possible handover.
+
+### TikTok · 19:00 · Street interview, 27s
+
+**Hook (0-3s)**
+> I asked what they want next month, then committed to one thing on camera.
+
+**On-screen beats**
+- More teardowns
+- More prices
+- More of the chat stuff
+- So: one teardown a day
+
+**Voiceover script**
+> I asked people what they wanted next month. More teardowns came first, more real prices second, and one person asked for more of the chat scripts, which surprised me because they are the least visual thing we make. So here is the commitment, on camera: one teardown a day in December, every day, real businesses, three fixes each. If I do not do it, come back on the thirty first and say so.
+
+**Caption**
+> Committed on camera: one teardown a day in December. Hold me to it.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 4-slide carousel
+
+**Slide copy**
+1. Asked what they want
+2. More teardowns
+3. More real prices
+4. So: 1 a day in December
+
+**Caption**
+> Ask, then commit to one thing. Not three.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people what they wanted next month.
+> 
+> More teardowns came first. More real prices second. One person asked for more chat scripts, which surprised me because they are the least visual thing we make.
+> 
+> So here is the commitment, on camera: one teardown a day in December. Real businesses. Three fixes each.
+> 
+> If I do not do it, come back on the 31st and say so.
+
+
+---
+
+
+## Post 09 · Everything, at the honest price
+
+**Type:** Sell · **Why it works:** The final selling post is identical to the first, which is the proof.
+
+### TikTok · 20:00 · Overhead shot, 23s
+
+**Hook (0-3s)**
+> Last one of the month, so: everything, at the honest price, with the honest limits.
+
+**On-screen beats**
+- Nine packs, five each
+- All nine, thirty five
+- No consulting
+- Not a customer in sight
+
+**Voiceover script**
+> Last selling post of the month, so here is everything at the price it will still be tomorrow. Nine packs at five thousand each, all nine for thirty five. No consulting, no calls, no guarantees, and none of it will bring you a customer. What it will do is give you better words for the customers you already have, which is the smaller and more reliable half of the problem.
+
+**Caption**
+> 9 × ₦5,000 · all nine ₦35,000 · no consulting · no guarantees. PACK on WhatsApp 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 5-slide carousel
+
+**Slide copy**
+1. 9 packs
+2. ₦5,000 each
+3. All nine: ₦35,000
+4. No consulting
+5. No guarantees
+
+**Caption**
+> The same price as day one, which is the point of the whole month.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> Last selling post of the month, so here is everything at the price it will still be tomorrow.
+> 
+> Nine packs at ₦5,000 each. All nine for ₦35,000.
+> 
+> No consulting. No calls. No guarantees. And none of it will bring you a customer.
+> 
+> What it will do is give you better words for the customers you already have — the smaller, more reliable half of the problem.
+> 
+> PACK on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The version of this that was easier
+
+**Type:** Entertain · **Why it works:** Naming the temptation is the most honest possible ending.
+
+### TikTok · 20:45 · Talking head, 33s
+
+**Hook (0-3s)**
+> The thing we refused this month was the easier version of this account.
+
+**On-screen beats**
+- Bigger claims
+- Invented results
+- Fake countdowns
+- It would have grown faster
+
+**Voiceover script**
+> The thing we refused this month was the easier version of this account: bigger claims, a wall of invented results, countdowns that reset every Friday, and a course at the end of it. That version would probably have grown faster. It would also have been a thing I had to maintain, and I would rather spend the next year writing about quotes than defending a number I made up in November.
+
+**Caption**
+> The easier version would have grown faster. It would also have to be maintained.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. Easier version: bigger claims
+2. Easier version: fake results
+3. We refused it
+
+**Caption**
+> A lie needs maintenance. A limit does not.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> The thing we refused this month was the easier version of this account.
+> 
+> Bigger claims. A wall of invented results. Countdowns that reset every Friday. A course at the end of it.
+> 
+> That version would probably have grown faster.
+> 
+> It would also have been something I had to maintain — and I would rather spend next year writing about quotes than defending a number I made up in November.
+
+
+---
+
+
+## Post 11 · December starts tomorrow
+
+**Type:** Teach · **Why it works:** Tells the audience exactly what is coming, which is how you keep them.
+
+### TikTok · 21:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> December starts tomorrow. Here is exactly what is coming, and what is going.
+
+**On-screen beats**
+- Staying: teardowns
+- Staying: chat scripts
+- Going: eight formats
+- Same eleven slots
+
+**Voiceover script**
+> December starts tomorrow, so here is exactly what is coming. Teardowns stay, one a day. Chat scripts stay, because you asked. The quote lines stay. Everything else goes, which is eight formats, and it frees up the time to do the three that worked properly. Same eleven slots, same times, same sheet. See you tomorrow.
+
+**Caption**
+> Teardowns daily. Chat scripts stay. Eight formats go. Same eleven slots. See you tomorrow.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. Staying: teardowns
+2. Staying: chat scripts
+3. Going: eight formats
+4. Same 11 slots
+
+**Caption**
+> Tell people what is coming. It is the cheapest reason to come back.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> December starts tomorrow, so here is exactly what is coming.
+> 
+> Teardowns stay — one a day. Chat scripts stay, because you asked. The quote lines stay.
+> 
+> Everything else goes. That is eight formats, and it frees up the time to do the three that worked properly.
+> 
+> Same eleven slots. Same times. Same sheet.
+> 
+> See you tomorrow.
 
 
 ---
