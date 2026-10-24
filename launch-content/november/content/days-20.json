@@ -1,0 +1,285 @@
+[
+  {
+    "day": 20,
+    "label": "Day 20 · Friday",
+    "theme": "Fix this Lagos",
+    "offer": "PROOF",
+    "posts": [
+      {
+        "id": "D20-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "\"Trusted by many\"",
+        "why": "A sentence everyone has written and nobody believes.",
+        "tiktok": {
+          "fmt": "Screen recording, 23s",
+          "hook": "This site says trusted by many and shows nothing at all.",
+          "beats": ["Trusted by many", "Who", "How many", "Show one"],
+          "vo": "This site says trusted by many, which is a sentence that has never persuaded anybody, because it is the same sentence a business with no customers would write. Vague trust is not weak trust, it is no trust, and it is doing damage, because it tells the reader you have nothing to show and decided to describe it instead.",
+          "cap": "\"Trusted by many\" is what a business with nothing to show writes.",
+          "body": "Trusted by many, loved by clients, quality guaranteed — sentences a business with no customers would also write. Vague trust is not weak trust. It is no trust, and it quietly tells the reader you had nothing to show."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["\"Trusted by many\"", "By who?", "Show one"],
+          "cap": "If it would also be true of a business with no customers, delete it.",
+          "body": "The test is simple: could a business with zero customers write this sentence? If yes, it is decoration, and the reader knows it before you do."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A site I read this week says 'trusted by many' and shows nothing at all.\n\nThat is the sentence a business with no customers would write.\n\nVague trust is not weak trust. It is no trust — and it tells the reader you had nothing to show, so you described it instead.\n\nWhat could you show this week?"
+        }
+      },
+      {
+        "id": "D20-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "No testimonials, not stuck",
+        "why": "Removes the excuse that blocks most new businesses.",
+        "tiktok": {
+          "fmt": "Kinetic type, 17s",
+          "hook": "You have no testimonials and you are not stuck. You have process and photographs.",
+          "beats": ["No clients yet", "But you have hands", "And a phone", "Show the work"],
+          "vo": "You have no testimonials and you are not stuck, because you have process and photographs. Show the fabric being cut, the dough being proved, the paint being mixed, the code being written. Process is proof when results are new, and it is more interesting than a quote from somebody nobody has heard of.",
+          "cap": "Process is proof when results are new. Photograph your hands.",
+          "body": "No clients yet does not mean no proof. Photograph the cutting, the proving, the mixing, the wiring. Process is proof when results are new, and it is more watchable than a quote."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["No testimonials yet", "You have process", "Show your hands"],
+          "cap": "Show the work being done. That is a testimonial with no words.",
+          "body": "A photo of the actual process answers the question a testimonial is trying to answer: is this a real person who can do the thing?"
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "You have no testimonials and you are not stuck.\n\nYou have process and photographs. The fabric being cut. The dough being proved. The paint being mixed. The wiring being finished.\n\nProcess is proof when results are new, and it is more convincing than a quote from someone nobody has heard of.\n\nWhat could you photograph tomorrow?"
+        }
+      },
+      {
+        "id": "D20-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Show the work, not the praise",
+        "why": "A structural alternative to the testimonial section.",
+        "tiktok": {
+          "fmt": "Kinetic type, 22s",
+          "hook": "A before and after beats a quote. Show the work, not the praise.",
+          "beats": ["Before", "After", "Same angle", "No adjectives"],
+          "vo": "A before and after beats a quote, because a quote is a claim about you and a before and after is evidence. Same angle, same light, same corner of the room, and no adjectives anywhere. If you have not got a before photo, take one on the next job, before you touch anything, and you will have a year of proof by December.",
+          "cap": "Same angle, same light, no adjectives. That is a case study.",
+          "body": "A before and after is evidence. A quote is a claim. Take the before photo on your next job, before you touch anything, and you will have a year of proof by December."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Before", "After", "Same angle", "No adjectives"],
+          "cap": "Start photographing the before. Most people only photograph the after.",
+          "body": "The before photo is the one everybody forgets, and it is the one that makes the after mean anything."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A before and after beats a quote.\n\nA quote is a claim about you. A before and after is evidence, and it needs no adjectives at all — same angle, same light, same corner of the room.\n\nIf you have never taken a before photo, take one on the next job, before you touch anything.\n\nBy December you will have a year of proof."
+        }
+      },
+      {
+        "id": "D20-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "Honesty is your only proof",
+        "why": "Turns a limitation into a positioning strategy.",
+        "tiktok": {
+          "fmt": "Talking head, 21s",
+          "hook": "Your honesty is currently your only proof. Use it instead of inventing one.",
+          "beats": ["No results yet", "But you can say what you will not do", "Say what it costs", "That is proof"],
+          "vo": "Your honesty is currently your only proof, and it is a better one than you think. You can say what the pack will not do, what the price does not include, how long it will actually take, and who should not buy it. All four are checkable, and all four are rarer than a testimonial.",
+          "cap": "Saying what it will not do is proof. It is also rare, which makes it valuable.",
+          "body": "When you have no results, sell the things that are checkable: what it costs, what is not included, how long it takes, who should not buy it. Rarer than a testimonial, and harder to fake."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["No results yet", "Say the price", "Say the limit", "Say who should not buy"],
+          "cap": "Checkable beats impressive. Every time.",
+          "body": "Every limit you state is a small demonstration that you are not hiding anything, and customers read limits as competence even when they do not buy."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "When you have no results yet, your honesty is your only proof — and it is better than you think.\n\nYou can say what it will not do. What the price does not include. How long it will actually take. Who should not buy it.\n\nAll four are checkable. All four are rarer than a testimonial.\n\nWhich one are you hiding?"
+        }
+      },
+      {
+        "id": "D20-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "A real chat beat a page of claims",
+        "why": "Permission and anonymising are part of the lesson.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "A screenshot of one real chat outsold a whole page of claims.",
+          "beats": ["The page said quality", "The chat said it is ₦8,000 and I can deliver Thursday", "With permission", "Names blocked"],
+          "vo": "A screenshot of one real chat, with permission and the name blurred, did more than a whole page of claims about quality and service. Because the chat showed the actual thing: a price, a date, and a person answering. That is the proof a new business has sitting in its phone already, and almost nobody uses it because it does not feel like marketing.",
+          "cap": "One real chat, permission asked, name blurred. Better than a page of claims.",
+          "body": "The page said quality and service. The chat said eight thousand naira and Thursday. One of those is evidence and the other is decoration, and the evidence was already in the phone."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Page: \"quality service\"", "Chat: price + date", "Ask permission", "Blur the name"],
+          "cap": "The proof you need is already in your chat history.",
+          "body": "Ask before you post, blur anything identifying, and use the message that shows a real price and a real answer. That is the honest version of a testimonial."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A screenshot of one real chat did more than a whole page of claims about quality and service.\n\nBecause the chat showed the actual thing: a price, a date, and a person answering.\n\nTwo rules: ask permission, and blur the name.\n\nThat proof is already sitting in your phone. Almost nobody uses it, because it does not feel like marketing.\n\nWould you show one?"
+        }
+      },
+      {
+        "id": "D20-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Three photos of your process",
+        "why": "A tiny assignment with a deadline.",
+        "tiktok": {
+          "fmt": "Kinetic type, 21s",
+          "hook": "Take three photos of your process this week. Not the finished thing. The middle.",
+          "beats": ["The cutting", "The waiting", "The fixing", "Nobody photographs the middle"],
+          "vo": "Take three photos of your process this week, and not the finished thing. The middle: the cutting, the waiting, the fixing, the thing going wrong and being put right. Nobody photographs the middle, which is why the middle is the most interesting thing you own, and it is free to make.",
+          "cap": "Three photos of the middle. Everyone photographs the finish.",
+          "body": "The cutting, the waiting, the fixing, the bit that went wrong. Nobody photographs the middle, which is exactly why the middle is the most interesting asset you have."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Not the finish", "The middle", "Three photos", "This week"],
+          "cap": "The middle is where trust is built and where nobody is looking.",
+          "body": "A finished product looks like every other finished product. The middle looks like you, and that is the part people remember."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Take three photos of your process this week. Not the finished thing — the middle.\n\nThe cutting. The waiting. The fixing. The bit that went wrong and was put right.\n\nNobody photographs the middle, which is exactly why it is the most interesting thing your business owns.\n\nIt is also free.\n\nWhat would your three be?"
+        }
+      },
+      {
+        "id": "D20-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "A case study with no numbers",
+        "why": "Frees people from waiting for impressive data.",
+        "tiktok": {
+          "fmt": "Kinetic type, 18s",
+          "hook": "A case study with no numbers is still a case study.",
+          "beats": ["What was the problem", "What did you do", "What changed", "In words"],
+          "vo": "A case study with no numbers is still a case study, because the reader is not looking for a percentage, they are looking for a shape: what was the problem, what did you do, and what is different now. Three sentences, in words, about a real job. Percentages are nice and almost nobody has them in month one.",
+          "cap": "Problem, action, what changed. No percentages needed.",
+          "body": "Three sentences about a real job: what was wrong, what you did, what is different now. The reader is looking for a shape, not a statistic."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Problem", "What you did", "What changed"],
+          "cap": "A percentage is nice. A story is possible today.",
+          "body": "You can write this tonight about any finished job, even a small one, even the first one. Three sentences and a photo."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A case study with no numbers is still a case study.\n\nWhat was the problem? What did you do? What is different now?\n\nThree sentences, in words, about a real job. That is it.\n\nReaders are looking for a shape, not a percentage. Percentages are nice and almost nobody has them in month one.\n\nWhich job would you write up?"
+        }
+      },
+      {
+        "id": "D20-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "Seeing the work beat reviews",
+        "why": "Witnesses rank our own thesis above the obvious answer.",
+        "tiktok": {
+          "fmt": "Street interview, 25s",
+          "hook": "I asked what would make people trust a new business. Seeing the work beat reviews.",
+          "beats": ["Not the star rating", "Not the follower count", "Show me it being made", "Then I believe you"],
+          "vo": "I asked what would make people trust a business they had never used. Seeing the work came first, ahead of reviews, ahead of follower counts. Not the finished photo, the making of it, because a finished photo can be borrowed and a process cannot. That is the cheapest trust in Lagos and nobody is selling it.",
+          "cap": "\"Show me the work\" beat reviews. Not the star rating. The work.",
+          "body": "Seeing the work came ahead of reviews and follower counts. A finished photo can be borrowed from anywhere; a process is harder to fake and much more persuasive."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Reviews: second", "Follower count: last", "Show the work: first"],
+          "cap": "Trust is cheaper to build with a camera than with a testimonial.",
+          "body": "Most new businesses wait to be trusted. The fastest route is to show the work being done, this week, with no numbers attached."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I asked what would make people trust a business they had never used.\n\n'Seeing the work' came first — ahead of reviews, well ahead of follower counts.\n\nNot the finished photo. The making of it. A finished photo can be borrowed. A process is harder to fake.\n\nIt is the cheapest trust in Lagos and almost nobody is selling it.\n\nWhat could you show?"
+        }
+      },
+      {
+        "id": "D20-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "We have no client results to show yet",
+        "why": "The most disarming possible advertisement for ourselves.",
+        "tiktok": {
+          "fmt": "Overhead shot, 24s",
+          "hook": "We do not have a wall of client results to show you yet. Here is what we do instead.",
+          "beats": ["No wall of logos", "No numbers", "So we publish the method", "And the limits"],
+          "vo": "We do not have a wall of client results to show yet, so I am not going to pretend otherwise. What we do instead is publish the method, in public, every day, with the limits attached. If the method is any good you can judge it without our numbers, and if it is not you will know by Friday, which is fairer than a logo.",
+          "cap": "No results wall. The method, published daily, with limits. Packs from ₦5,000. WhatsApp: 0905 069 0837.",
+          "body": "We do not have a wall of client results yet, so we are not going to fake one. What we publish instead is the method, daily, with the limits attached. Judge the method, not our logos."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["No results wall", "No invented numbers", "The method, published", "The limits, attached"],
+          "cap": "Judge the method. It is more checkable than a logo.",
+          "body": "Anyone can borrow a logo. The method is either useful by Friday or it is not, and you can test that without taking our word for anything."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "We do not have a wall of client results to show you yet, so I will not pretend otherwise.\n\nWhat we publish instead is the method, daily, in public, with the limits attached.\n\nIf the method is any good you can judge it without our numbers. If it is not, you will know by Friday — which is fairer than a logo.\n\nPacks from ₦5,000. Message PACK on WhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D20-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "Asked to invent a testimonial",
+        "why": "Naming the request makes the refusal credible.",
+        "tiktok": {
+          "fmt": "Talking head, 31s",
+          "hook": "Someone asked us to write a testimonial for them to publish. We said no.",
+          "beats": ["It would take ten minutes", "It would never be true", "And they would have to defend it", "Forever"],
+          "vo": "Someone asked us to write a customer testimonial that they could publish as if a customer had said it. We said no. Not for moral reasons only, though those are enough, but because they would have to defend that sentence for as long as the business exists, to anyone who asked a follow-up question. Ten minutes of writing, years of maintenance.",
+          "cap": "A fake testimonial is ten minutes of writing and years of defending it.",
+          "body": "They wanted a testimonial written by us and published as a customer's words. Ten minutes of writing, then years of defending a sentence to anyone who asks a follow-up question."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["\"Write us a testimonial\"", "We said no", "You would have to defend it forever"],
+          "cap": "A lie in the mouth of a customer is a debt you never finish paying.",
+          "body": "The problem is not getting caught. The problem is that you would have to remember the lie and be consistent about it for the life of the business."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Someone asked us to write a customer testimonial that they could publish as if a customer had said it.\n\nWe said no.\n\nNot only for moral reasons, though those are enough — but because they would have to defend that sentence for as long as the business exists, to anyone who asks a follow-up question.\n\nTen minutes of writing. Years of maintenance.\n\nHave you ever spotted a fake one?"
+        }
+      },
+      {
+        "id": "D20-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Ask permission to show one chat",
+        "why": "Turns the audience into suppliers of tomorrow's proof.",
+        "tiktok": {
+          "fmt": "Kinetic type, 20s",
+          "hook": "Ask three customers if you can screenshot one chat. Then blur the name.",
+          "beats": ["Ask plainly", "Say what it is for", "Blur everything", "Thank them by doing it well"],
+          "vo": "Ask three customers whether you can screenshot one message and post it, and say exactly what it is for. Then blur the name and anything else that identifies them. Most will say yes, because being shown as a real customer is a small compliment, and the ones who say no will respect you for asking instead of doing it.",
+          "cap": "Ask plainly. Blur everything. Most people say yes.",
+          "body": "Ask three customers if you can screenshot one message, say exactly what it is for, and blur anything that identifies them. Most say yes, and the ones who say no respect you for asking."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Ask", "Say what it is for", "Blur the name", "Post one"],
+          "cap": "Permission is the whole difference between proof and a problem.",
+          "body": "A real message with the name blurred is proof. The same message posted without asking is a risk you did not need to take."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Ask three customers whether you can screenshot one message and post it.\n\nAsk plainly. Say exactly what it is for. Then blur the name and anything else that identifies them.\n\nMost will say yes — being shown as a real customer is a small compliment. The ones who say no will respect you for asking instead of just doing it.\n\nWho would you ask?"
+        }
+      }
+    ]
+  }
+]

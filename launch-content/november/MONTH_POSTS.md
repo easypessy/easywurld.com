@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Thursday 19 November 2026** |
+| Ends | **Friday 20 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **627 posts** (209 core ideas x 3 platforms) |
+| Month total | **660 posts** (220 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -11701,6 +11701,612 @@ writing on the spot.
 > If you cannot fill in the 'by when', you do not have an offer. You have an interest.
 > 
 > Write yours in the comments.
+
+
+---
+
+
+# Day 20 · Friday · Friday 20 Nov 2026 — Fix this Lagos
+
+**Offer in focus:** PROOF
+
+---
+
+
+## Post 01 · "Trusted by many"
+
+**Type:** Entertain · **Why it works:** A sentence everyone has written and nobody believes.
+
+### TikTok · 07:00 · Screen recording, 23s
+
+**Hook (0-3s)**
+> This site says trusted by many and shows nothing at all.
+
+**On-screen beats**
+- Trusted by many
+- Who
+- How many
+- Show one
+
+**Voiceover script**
+> This site says trusted by many, which is a sentence that has never persuaded anybody, because it is the same sentence a business with no customers would write. Vague trust is not weak trust, it is no trust, and it is doing damage, because it tells the reader you have nothing to show and decided to describe it instead.
+
+**Caption**
+> "Trusted by many" is what a business with nothing to show writes.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 3-slide carousel
+
+**Slide copy**
+1. "Trusted by many"
+2. By who?
+3. Show one
+
+**Caption**
+> If it would also be true of a business with no customers, delete it.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A site I read this week says 'trusted by many' and shows nothing at all.
+> 
+> That is the sentence a business with no customers would write.
+> 
+> Vague trust is not weak trust. It is no trust — and it tells the reader you had nothing to show, so you described it instead.
+> 
+> What could you show this week?
+
+
+---
+
+
+## Post 02 · No testimonials, not stuck
+
+**Type:** Entertain · **Why it works:** Removes the excuse that blocks most new businesses.
+
+### TikTok · 09:15 · Kinetic type, 17s
+
+**Hook (0-3s)**
+> You have no testimonials and you are not stuck. You have process and photographs.
+
+**On-screen beats**
+- No clients yet
+- But you have hands
+- And a phone
+- Show the work
+
+**Voiceover script**
+> You have no testimonials and you are not stuck, because you have process and photographs. Show the fabric being cut, the dough being proved, the paint being mixed, the code being written. Process is proof when results are new, and it is more interesting than a quote from somebody nobody has heard of.
+
+**Caption**
+> Process is proof when results are new. Photograph your hands.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. No testimonials yet
+2. You have process
+3. Show your hands
+
+**Caption**
+> Show the work being done. That is a testimonial with no words.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> You have no testimonials and you are not stuck.
+> 
+> You have process and photographs. The fabric being cut. The dough being proved. The paint being mixed. The wiring being finished.
+> 
+> Process is proof when results are new, and it is more convincing than a quote from someone nobody has heard of.
+> 
+> What could you photograph tomorrow?
+
+
+---
+
+
+## Post 03 · Show the work, not the praise
+
+**Type:** Teach · **Why it works:** A structural alternative to the testimonial section.
+
+### TikTok · 11:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> A before and after beats a quote. Show the work, not the praise.
+
+**On-screen beats**
+- Before
+- After
+- Same angle
+- No adjectives
+
+**Voiceover script**
+> A before and after beats a quote, because a quote is a claim about you and a before and after is evidence. Same angle, same light, same corner of the room, and no adjectives anywhere. If you have not got a before photo, take one on the next job, before you touch anything, and you will have a year of proof by December.
+
+**Caption**
+> Same angle, same light, no adjectives. That is a case study.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 4-slide carousel
+
+**Slide copy**
+1. Before
+2. After
+3. Same angle
+4. No adjectives
+
+**Caption**
+> Start photographing the before. Most people only photograph the after.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> A before and after beats a quote.
+> 
+> A quote is a claim about you. A before and after is evidence, and it needs no adjectives at all — same angle, same light, same corner of the room.
+> 
+> If you have never taken a before photo, take one on the next job, before you touch anything.
+> 
+> By December you will have a year of proof.
+
+
+---
+
+
+## Post 04 · Honesty is your only proof
+
+**Type:** Entertain · **Why it works:** Turns a limitation into a positioning strategy.
+
+### TikTok · 13:45 · Talking head, 21s
+
+**Hook (0-3s)**
+> Your honesty is currently your only proof. Use it instead of inventing one.
+
+**On-screen beats**
+- No results yet
+- But you can say what you will not do
+- Say what it costs
+- That is proof
+
+**Voiceover script**
+> Your honesty is currently your only proof, and it is a better one than you think. You can say what the pack will not do, what the price does not include, how long it will actually take, and who should not buy it. All four are checkable, and all four are rarer than a testimonial.
+
+**Caption**
+> Saying what it will not do is proof. It is also rare, which makes it valuable.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 4-slide carousel
+
+**Slide copy**
+1. No results yet
+2. Say the price
+3. Say the limit
+4. Say who should not buy
+
+**Caption**
+> Checkable beats impressive. Every time.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> When you have no results yet, your honesty is your only proof — and it is better than you think.
+> 
+> You can say what it will not do. What the price does not include. How long it will actually take. Who should not buy it.
+> 
+> All four are checkable. All four are rarer than a testimonial.
+> 
+> Which one are you hiding?
+
+
+---
+
+
+## Post 05 · A real chat beat a page of claims
+
+**Type:** Entertain · **Why it works:** Permission and anonymising are part of the lesson.
+
+### TikTok · 15:00 · Talking head, 30s
+
+**Hook (0-3s)**
+> A screenshot of one real chat outsold a whole page of claims.
+
+**On-screen beats**
+- The page said quality
+- The chat said it is ₦8,000 and I can deliver Thursday
+- With permission
+- Names blocked
+
+**Voiceover script**
+> A screenshot of one real chat, with permission and the name blurred, did more than a whole page of claims about quality and service. Because the chat showed the actual thing: a price, a date, and a person answering. That is the proof a new business has sitting in its phone already, and almost nobody uses it because it does not feel like marketing.
+
+**Caption**
+> One real chat, permission asked, name blurred. Better than a page of claims.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. Page: "quality service"
+2. Chat: price + date
+3. Ask permission
+4. Blur the name
+
+**Caption**
+> The proof you need is already in your chat history.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A screenshot of one real chat did more than a whole page of claims about quality and service.
+> 
+> Because the chat showed the actual thing: a price, a date, and a person answering.
+> 
+> Two rules: ask permission, and blur the name.
+> 
+> That proof is already sitting in your phone. Almost nobody uses it, because it does not feel like marketing.
+> 
+> Would you show one?
+
+
+---
+
+
+## Post 06 · Three photos of your process
+
+**Type:** Teach · **Why it works:** A tiny assignment with a deadline.
+
+### TikTok · 16:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Take three photos of your process this week. Not the finished thing. The middle.
+
+**On-screen beats**
+- The cutting
+- The waiting
+- The fixing
+- Nobody photographs the middle
+
+**Voiceover script**
+> Take three photos of your process this week, and not the finished thing. The middle: the cutting, the waiting, the fixing, the thing going wrong and being put right. Nobody photographs the middle, which is why the middle is the most interesting thing you own, and it is free to make.
+
+**Caption**
+> Three photos of the middle. Everyone photographs the finish.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 4-slide carousel
+
+**Slide copy**
+1. Not the finish
+2. The middle
+3. Three photos
+4. This week
+
+**Caption**
+> The middle is where trust is built and where nobody is looking.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Take three photos of your process this week. Not the finished thing — the middle.
+> 
+> The cutting. The waiting. The fixing. The bit that went wrong and was put right.
+> 
+> Nobody photographs the middle, which is exactly why it is the most interesting thing your business owns.
+> 
+> It is also free.
+> 
+> What would your three be?
+
+
+---
+
+
+## Post 07 · A case study with no numbers
+
+**Type:** Entertain · **Why it works:** Frees people from waiting for impressive data.
+
+### TikTok · 18:00 · Kinetic type, 18s
+
+**Hook (0-3s)**
+> A case study with no numbers is still a case study.
+
+**On-screen beats**
+- What was the problem
+- What did you do
+- What changed
+- In words
+
+**Voiceover script**
+> A case study with no numbers is still a case study, because the reader is not looking for a percentage, they are looking for a shape: what was the problem, what did you do, and what is different now. Three sentences, in words, about a real job. Percentages are nice and almost nobody has them in month one.
+
+**Caption**
+> Problem, action, what changed. No percentages needed.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Problem
+2. What you did
+3. What changed
+
+**Caption**
+> A percentage is nice. A story is possible today.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> A case study with no numbers is still a case study.
+> 
+> What was the problem? What did you do? What is different now?
+> 
+> Three sentences, in words, about a real job. That is it.
+> 
+> Readers are looking for a shape, not a percentage. Percentages are nice and almost nobody has them in month one.
+> 
+> Which job would you write up?
+
+
+---
+
+
+## Post 08 · Seeing the work beat reviews
+
+**Type:** Entertain · **Why it works:** Witnesses rank our own thesis above the obvious answer.
+
+### TikTok · 19:00 · Street interview, 25s
+
+**Hook (0-3s)**
+> I asked what would make people trust a new business. Seeing the work beat reviews.
+
+**On-screen beats**
+- Not the star rating
+- Not the follower count
+- Show me it being made
+- Then I believe you
+
+**Voiceover script**
+> I asked what would make people trust a business they had never used. Seeing the work came first, ahead of reviews, ahead of follower counts. Not the finished photo, the making of it, because a finished photo can be borrowed and a process cannot. That is the cheapest trust in Lagos and nobody is selling it.
+
+**Caption**
+> "Show me the work" beat reviews. Not the star rating. The work.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 3-slide carousel
+
+**Slide copy**
+1. Reviews: second
+2. Follower count: last
+3. Show the work: first
+
+**Caption**
+> Trust is cheaper to build with a camera than with a testimonial.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked what would make people trust a business they had never used.
+> 
+> 'Seeing the work' came first — ahead of reviews, well ahead of follower counts.
+> 
+> Not the finished photo. The making of it. A finished photo can be borrowed. A process is harder to fake.
+> 
+> It is the cheapest trust in Lagos and almost nobody is selling it.
+> 
+> What could you show?
+
+
+---
+
+
+## Post 09 · We have no client results to show yet
+
+**Type:** Sell · **Why it works:** The most disarming possible advertisement for ourselves.
+
+### TikTok · 20:00 · Overhead shot, 24s
+
+**Hook (0-3s)**
+> We do not have a wall of client results to show you yet. Here is what we do instead.
+
+**On-screen beats**
+- No wall of logos
+- No numbers
+- So we publish the method
+- And the limits
+
+**Voiceover script**
+> We do not have a wall of client results to show yet, so I am not going to pretend otherwise. What we do instead is publish the method, in public, every day, with the limits attached. If the method is any good you can judge it without our numbers, and if it is not you will know by Friday, which is fairer than a logo.
+
+**Caption**
+> No results wall. The method, published daily, with limits. Packs from ₦5,000. WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 4-slide carousel
+
+**Slide copy**
+1. No results wall
+2. No invented numbers
+3. The method, published
+4. The limits, attached
+
+**Caption**
+> Judge the method. It is more checkable than a logo.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> We do not have a wall of client results to show you yet, so I will not pretend otherwise.
+> 
+> What we publish instead is the method, daily, in public, with the limits attached.
+> 
+> If the method is any good you can judge it without our numbers. If it is not, you will know by Friday — which is fairer than a logo.
+> 
+> Packs from ₦5,000. Message PACK on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · Asked to invent a testimonial
+
+**Type:** Entertain · **Why it works:** Naming the request makes the refusal credible.
+
+### TikTok · 20:45 · Talking head, 31s
+
+**Hook (0-3s)**
+> Someone asked us to write a testimonial for them to publish. We said no.
+
+**On-screen beats**
+- It would take ten minutes
+- It would never be true
+- And they would have to defend it
+- Forever
+
+**Voiceover script**
+> Someone asked us to write a customer testimonial that they could publish as if a customer had said it. We said no. Not for moral reasons only, though those are enough, but because they would have to defend that sentence for as long as the business exists, to anyone who asked a follow-up question. Ten minutes of writing, years of maintenance.
+
+**Caption**
+> A fake testimonial is ten minutes of writing and years of defending it.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. "Write us a testimonial"
+2. We said no
+3. You would have to defend it forever
+
+**Caption**
+> A lie in the mouth of a customer is a debt you never finish paying.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone asked us to write a customer testimonial that they could publish as if a customer had said it.
+> 
+> We said no.
+> 
+> Not only for moral reasons, though those are enough — but because they would have to defend that sentence for as long as the business exists, to anyone who asks a follow-up question.
+> 
+> Ten minutes of writing. Years of maintenance.
+> 
+> Have you ever spotted a fake one?
+
+
+---
+
+
+## Post 11 · Ask permission to show one chat
+
+**Type:** Teach · **Why it works:** Turns the audience into suppliers of tomorrow's proof.
+
+### TikTok · 21:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> Ask three customers if you can screenshot one chat. Then blur the name.
+
+**On-screen beats**
+- Ask plainly
+- Say what it is for
+- Blur everything
+- Thank them by doing it well
+
+**Voiceover script**
+> Ask three customers whether you can screenshot one message and post it, and say exactly what it is for. Then blur the name and anything else that identifies them. Most will say yes, because being shown as a real customer is a small compliment, and the ones who say no will respect you for asking instead of doing it.
+
+**Caption**
+> Ask plainly. Blur everything. Most people say yes.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. Ask
+2. Say what it is for
+3. Blur the name
+4. Post one
+
+**Caption**
+> Permission is the whole difference between proof and a problem.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Ask three customers whether you can screenshot one message and post it.
+> 
+> Ask plainly. Say exactly what it is for. Then blur the name and anything else that identifies them.
+> 
+> Most will say yes — being shown as a real customer is a small compliment. The ones who say no will respect you for asking instead of just doing it.
+> 
+> Who would you ask?
 
 
 ---
