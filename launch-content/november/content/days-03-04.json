@@ -1,0 +1,524 @@
+[
+  {
+    "day": 3,
+    "label": "Day 3 · Tuesday",
+    "theme": "Price is not the problem",
+    "offer": "PLAYBOOK",
+    "posts": [
+      {
+        "id": "D3-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "A price for everything, a reason for nothing",
+        "why": "Every food vendor recognises their own menu board in three seconds.",
+        "tiktok": {
+          "fmt": "Screen recording, 25s",
+          "hook": "This menu has a price for everything and a reason for nothing.",
+          "beats": ["Jollof ₦2,500. Why?", "Add one line under each item", "What is in it, who it feeds", "Now the price has a job"],
+          "vo": "This menu has a price for everything and a reason for nothing. Jollof, two thousand five hundred. Chicken, three thousand. Now add one line under each item: what is in it, and who it actually feeds. Rice, two pieces, one person, very hungry. Now the price has a job, and nobody has to ask you a question before they decide.",
+          "cap": "A price without a reason is a question. One line under each item answers it before it is asked."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel, 4:5",
+          "slides": ["Jollof · ₦2,500", "Chicken · ₦3,000", "Why?", "Say what is in it and who it feeds", "Now the price has a job"],
+          "cap": "Your menu is a sales page. Give every price a reason and the questions stop."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Look at your menu, price list or catalogue. Every item has a number and no reason.\n\nJollof, ₦2,500. Chicken, ₦3,000. A customer has to ask what is in it, how big it is, and whether it feeds one person or four. You answer that question forty times a day.\n\nAdd one line under each item: what is in it and who it feeds. Rice, two pieces, one hungry person.\n\nThe price does not change. The number of questions does.\n\nWhat is the item you answer the most questions about?"
+        }
+      },
+      {
+        "id": "D3-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "'How much?' is not a price question",
+        "why": "A reframe that turns a defensive moment into a useful one.",
+        "tiktok": {
+          "fmt": "Kinetic type, 14s",
+          "hook": "\"How much?\" is not a price question.",
+          "beats": ["It is: is this for me?", "They cannot see the value yet", "Give the context before the number", "Then the number lands"],
+          "vo": "How much is not a price question. It is, is this for me. They cannot see what they are paying for yet, so any number looks like a lot. Give one line of context before the price and watch the same number land differently.",
+          "cap": "Nobody can judge a price without knowing what it is for."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["\"How much?\"", "= \"Is this for me?\"", "Context first, number second"],
+          "cap": "One line of context before your price changes how it is heard."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "When a customer asks 'how much?', we hear a price question. It is not.\n\nIt is 'is this for me?' They cannot see what they would be paying for, so every number looks big.\n\nGive one line of context before the price: what it is, who it is for, what happens after. The same number lands completely differently.\n\nWhat is your one line of context?"
+        }
+      },
+      {
+        "id": "D3-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Say the price once, early",
+        "why": "A habit change that removes the most common customer question.",
+        "tiktok": {
+          "fmt": "Kinetic type, 21s",
+          "hook": "Hidden prices do not read as premium. They read as expensive and negotiable.",
+          "beats": ["No price = assume the worst", "They must message to find out", "Most will not", "Say it early, say it once"],
+          "vo": "Hiding your price does not make you look premium. It makes you look expensive and negotiable at the same time. A stranger assumes the worst number and does not bother asking. Say the price early, in the first three lines. The people who cannot afford it stop wasting your evening, and the ones who can finally get to the point.",
+          "cap": "Hidden price = expensive and negotiable. Both at once."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": ["No price", "= assume the worst", "= message to find out", "= most won't", "Say it in the first three lines"],
+          "cap": "You are not hiding the price from competitors. You are hiding it from buyers."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A lot of businesses hide their prices to look premium. It does not work that way.\n\nNo price reads as two things at once: too expensive for me, and negotiable. A stranger assumes the worst and does not ask.\n\nSay the price early and say it once. The people who cannot afford it stop wasting your evening. The ones who can get straight to the point.\n\nDo you show prices? Why or why not?"
+        }
+      },
+      {
+        "id": "D3-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "Discounting is the most expensive way to feel busy",
+        "why": "A position that will get disagreement in the comments, which is the point.",
+        "tiktok": {
+          "fmt": "Talking head, 19s",
+          "hook": "Discounting is the most expensive way to feel busy.",
+          "beats": ["More orders, same profit", "Then harder work", "Then a cheaper customer", "Then a price you cannot raise"],
+          "vo": "Discounting is the most expensive way to feel busy. You get more orders and the same money, then more work for less, then a customer who only buys on sale. Then one day you try to raise the price back and the same people tell you it is too expensive. You trained them.",
+          "cap": "You can train a customer to wait for a discount. You cannot easily untrain them."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["More orders", "Same money", "A customer who only buys on sale"],
+          "cap": "Discount when you have dead stock. Not to feel wanted."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A small business I know discounts every December. More orders, same profit, twice the work.\n\nWorse, they trained their customers. Now nobody buys at the normal price, because they know January is coming.\n\nDiscount dead stock. Discount a slot that would otherwise be empty. Do not discount to feel wanted.\n\nWhen was the last time a discount actually made you money?"
+        }
+      },
+      {
+        "id": "D3-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "The tailor who raised his prices",
+        "why": "A counter-intuitive story that gives permission to stop competing on cheap.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "A tailor raised his prices and got more orders.",
+          "beats": ["He was the cheapest on the street", "Cheapest meant not serious", "He doubled the price, then delivered on time", "Same customers, better ones"],
+          "vo": "A tailor I know was the cheapest on his street and could not fill his week. We asked what he would charge if he had to deliver in five days, every time. He doubled it. Same customers, different ones. The low price had been telling people he was not serious, and seriousness is what you are actually buying when you order a suit.",
+          "cap": "The low price was not attracting customers. It was filtering out the good ones."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": ["Cheapest on the street", "No orders", "Doubled the price", "Delivered in 5 days"],
+          "cap": "Cheap is a message. Make sure it is the one you meant to send."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A tailor I know was the cheapest on his street and still had an empty week.\n\nWe asked what he would charge if he could promise five-day delivery, every time. He doubled it. He got fewer enquiries and more orders, from people who did not haggle.\n\nThe low price was not attracting customers. It was telling them he was not serious.\n\nWhen did cheap stop working for you?"
+        }
+      },
+      {
+        "id": "D3-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The quote is price, scope, date",
+        "why": "The most copied line of the month, applied to the harder document.",
+        "tiktok": {
+          "fmt": "Kinetic type, 23s",
+          "hook": "A quote with no date is a question, and they cannot answer a question.",
+          "beats": ["Price", "What is included, in lines", "What is not included", "A date, then a yes/no"],
+          "vo": "A quote with no date is a question, and nobody can say yes to a question. Five lines: the price, what is included, what is not included, the date it will be finished, and one sentence they can reply yes to. The what is not included line is the one that wins the job, because it is the only line that sounds honest.",
+          "cap": "Price, scope, exclusions, date, one yes-shaped question."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": ["The price", "What is included", "What is not included", "The date it lands", "\"Shall I book the slot?\""],
+          "cap": "The exclusions line wins more jobs than the price does."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Most quotes are one line: a number and 'let me know'.\n\nThat is a question, and a customer cannot say yes to a question.\n\nFive lines: the price, what is included, what is not included, when it will be finished, and one sentence they can reply to. 'Shall I book the slot?'\n\nThe line about what is not included wins more jobs than the price, because it is the only one that sounds honest.\n\nWhat does your quote look like right now?"
+        }
+      },
+      {
+        "id": "D3-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "Budget? Any budget.",
+        "why": "The exact meeting everyone has sat through.",
+        "tiktok": {
+          "fmt": "Two-line skit, 12s",
+          "hook": "Me: what is your budget? Client: any budget.",
+          "beats": ["That is not a budget", "It is a hope", "Give three tiers instead", "One recommendation"],
+          "vo": "What is your budget. Any budget. That is not a budget, that is a hope. So do not ask. Give three options at three prices and one recommendation. People who do not know what things cost can still choose between three things.",
+          "cap": "Never ask for a budget. Offer three prices and one opinion."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["\"What's your budget?\"", "\"Any budget.\"", "Offer three prices instead"],
+          "cap": "Choosing between three things is easy. Naming a number from nothing is not."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "'What is your budget?'\n\n'Any budget.'\n\nThis conversation happens every day in Lagos, and it wastes a week.\n\nPeople who do not know what things cost cannot name a number. They can, however, choose between three things. Give three options, three prices, and one recommendation.\n\nYou will get an answer in five minutes.\n\nWhat do you do when a customer says 'any budget'?"
+        }
+      },
+      {
+        "id": "D3-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "Would you pay more for the fast one?",
+        "why": "The street answers do the arguing for you.",
+        "tiktok": {
+          "fmt": "Street interview, 28s",
+          "hook": "Would you pay more for the business that answers fast?",
+          "beats": ["Yes, said almost everyone", "Then: how much more?", "Nobody had a number", "They had never been asked"],
+          "vo": "Would you pay more for the business that answers fast? Yes, said almost everyone. Then I asked how much more. Nobody had a number. Not one person had ever been asked, by any business, to pay for a reply. Which means if you are fast, you are giving it away.",
+          "cap": "Everyone will pay for speed. Nobody has ever been asked to."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": ["Pay more for speed?", "Almost everyone: yes", "How much more?", "Nobody had a number"],
+          "cap": "Speed is the only thing you can charge for that costs you nothing but attention."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I asked people on the street: would you pay more for the business that answers fast?\n\nAlmost everyone said yes. Then I asked how much more. Nobody had a number.\n\nNot one person had ever been asked. Which means the fast businesses are giving that advantage away for free, and losing the sale anyway to whoever replied first.\n\nReply fast. And maybe say so.\n\nWhat is your reply time right now?"
+        }
+      },
+      {
+        "id": "D3-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "₦5,000 is not cheap, it is small",
+        "why": "Reframing price as time, which is the only currency they are short of.",
+        "tiktok": {
+          "fmt": "Overhead shot, 30s",
+          "hook": "₦5,000 is less than a plate of food for two. That does not make it cheap.",
+          "beats": ["It is one afternoon of writing", "Priced like a download", "Or spend three evenings learning it", "You are buying the afternoon"],
+          "vo": "Five thousand naira is less than a plate of food for two people. That does not make it cheap. It is one afternoon of writing and designing, priced like a download. Or you can spend three evenings working it out yourself, badly, and redo it in January. You are not buying paper. You are buying the afternoon.",
+          "cap": "Nine packs, ₦5,000 each. For your own business. Message the keyword on WhatsApp: 0905 069 0837."
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": ["₦5,000", "Less than lunch for two", "Not cheap. Small", "You are buying the afternoon", "Do-it-yourself, no consulting"],
+          "cap": "It is one afternoon of work you do not have to repeat. ₦5,000. Message PLAYBOOK, CLEAR or PROMPTS on WhatsApp: 0905 069 0837."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "₦5,000 is less than a plate of food for two. That does not make my packs cheap. It makes them small.\n\nWhat you are actually buying is an afternoon of writing and designing that you would otherwise spend three evenings doing badly, then redo in January.\n\nThe honest limit: these are do-it-yourself files. No consulting, no custom work, no guarantee of results. If you want it done for you, that is a project, not a download.\n\nNine packs at ₦5,000. Message PLAYBOOK, CLEAR or PROMPTS on WhatsApp: 0905 069 0837.\n\nWhich afternoon would you rather have back?"
+        }
+      },
+      {
+        "id": "D3-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "Match this ₦20,000 quote",
+        "why": "A story about what cheap really buys, from the inside.",
+        "tiktok": {
+          "fmt": "Talking head, 48s",
+          "hook": "Someone asked us to match a ₦20,000 website quote.",
+          "beats": ["We said we cannot", "Not because we are too proud", "Because ₦20,000 is half a day", "So we showed them half a day"],
+          "vo": "Someone asked us to match a twenty thousand naira website quote. We said we cannot, and it was not pride. Twenty thousand is half a day of work, so we told them what half a day buys: one page, one offer, one button, no CMS. They took it. The other quote had been selling them something nobody could deliver.",
+          "cap": "We did not say no. We said what ₦20,000 is, honestly."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": ["\"Can you match ₦20,000?\"", "No", "Here is what ₦20,000 buys", "One page. One button."],
+          "cap": "A quote you cannot deliver is not a bargain. It is a refund with extra steps."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Someone asked us to match a ₦20,000 website quote.\n\nWe said we cannot, and it was not pride. ₦20,000 is half a day of work. So we told them exactly what half a day buys: one page, one offer, one button, no CMS.\n\nThey took it.\n\nThe other quote had been selling them a site nobody could build in half a day. Which means somewhere in the next two months, they would have found that out.\n\nHave you ever been quoted something that sounded too good?"
+        }
+      },
+      {
+        "id": "D3-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Never quote a range",
+        "why": "One line that removes an entire negotiation.",
+        "tiktok": {
+          "fmt": "Kinetic type, 20s",
+          "hook": "Never quote a range in a first reply.",
+          "beats": ["₦50,000 to ₦80,000", "They heard ₦50,000", "Everything above is a discussion", "Quote once, at the top"],
+          "vo": "Never quote a range in a first reply. Fifty to eighty thousand is heard as fifty thousand, and everything above it becomes a negotiation. If the price depends on the job, quote the smallest version and describe it. Otherwise quote one number and stand behind it.",
+          "cap": "A range is a discount you have already given."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["\"₦50,000 to ₦80,000\"", "They heard ₦50,000", "Everything above is a fight"],
+          "cap": "Quote the smallest version, or quote one number. Not a range."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Never quote a range in a first reply.\n\n'₦50,000 to ₦80,000' is heard as ₦50,000. Everything above that becomes a negotiation you did not agree to have, and you usually lose it because you already said the number.\n\nIf the price really depends on the job, quote the smallest version and describe what that gets them. Otherwise quote one number and stand behind it.\n\nHave you ever quoted a range and regretted it?"
+        }
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "label": "Day 4 · Wednesday",
+    "theme": "Your page on a phone",
+    "offer": "CLEAR",
+    "posts": [
+      {
+        "id": "D4-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "Nine seconds to load",
+        "why": "Almost everyone can check this on their own site tonight.",
+        "tiktok": {
+          "fmt": "Screen recording with a timer, 24s",
+          "hook": "This page takes nine seconds to load on mobile data.",
+          "beats": ["Nine seconds is a bus ride", "Two 4MB photos do that", "Compress before upload", "Back under three"],
+          "vo": "This page takes nine seconds to load on mobile data. Nine seconds is long enough to open another tab, get distracted, and buy from someone else. The cause is almost always two images that were never compressed. Run them through a compressor before uploading and this page is under three seconds.",
+          "cap": "Nine seconds is not slow. Nine seconds is a customer leaving."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": ["Nine seconds on mobile data", "Two uncompressed photos", "That is the whole cause", "Compress before upload", "Under three seconds"],
+          "cap": "Most slow sites are one enormous photo wearing a nice dress."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Open your site on mobile data, not wifi, and count the seconds.\n\nNine seconds is long enough for a customer to open another tab and buy from someone else.\n\nThe cause is almost always one or two photos straight from a phone camera, four megabytes each, uploaded at full size. Compress them before uploading and most pages drop under three seconds.\n\nIt is a ten minute fix that has been costing you for a year.\n\nHow fast is yours?"
+        }
+      },
+      {
+        "id": "D4-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "Built on a laptop, seen on a phone",
+        "why": "The single most common design failure in Lagos.",
+        "tiktok": {
+          "fmt": "Kinetic type, 13s",
+          "hook": "Your site was built on a laptop. Your customer is holding a phone.",
+          "beats": ["Two very different devices", "Sit on your hands", "One thumb, one hand", "Can you reach the button?"],
+          "vo": "Your site was designed on a laptop and your customer is holding a phone in one hand, in traffic. Different screen, different distance, different attention. Look at your own page on the cheapest Android you can find, and be honest about whether you would stay.",
+          "cap": "Design for the hand they are holding, not the desk you are sitting at."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Built on a laptop", "Seen in one hand", "In traffic", "Check it on a cheap Android"],
+          "cap": "The device in your pocket is not the device they have."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Your website was designed on a laptop, probably while sitting down.\n\nYour customer is holding a phone in one hand, in traffic, with 40% battery, deciding whether to bother.\n\nOpen your own site on the cheapest Android in your house. Not your phone. The old one. If you would not stay, they do not either.\n\nWhen did you last look at your own site on a phone?"
+        }
+      },
+      {
+        "id": "D4-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The thumb test",
+        "why": "A two-minute test they will actually run.",
+        "tiktok": {
+          "fmt": "Kinetic type, 22s",
+          "hook": "Hold your phone in one hand and try to buy from your own site.",
+          "beats": ["One hand only", "Can you reach the button?", "Can you read without zooming?", "Fix what you cannot reach"],
+          "vo": "The thumb test. Hold your phone in one hand and try to buy from your own website. Can you reach the main button without moving your hand? Can you read the first line without zooming? Everything you cannot reach with a thumb is a customer who left. Move the button up and make the text bigger. That is the whole fix.",
+          "cap": "One hand. One thumb. Everything else is decoration."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": ["One hand", "One thumb", "Reach the button?", "Read without zooming?", "Fix what you cannot reach"],
+          "cap": "Run the thumb test on your own site tonight. It takes two minutes and it will annoy you."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Try the thumb test tonight.\n\nHold your phone in one hand. Open your own website. Now try to buy something without moving your hand or using a second finger.\n\nCan you reach the main button? Can you read the first line without zooming in?\n\nEverything you cannot reach with a thumb is a customer who left quietly. Move the button up. Make the text bigger.\n\nHow did you do?"
+        }
+      },
+      {
+        "id": "D4-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "An entrance animation is a tax",
+        "why": "A position that will annoy designers and delight business owners.",
+        "tiktok": {
+          "fmt": "Talking head, 18s",
+          "hook": "An animation that delays your price is a tax on your customer.",
+          "beats": ["Two seconds of nothing", "On data", "To reveal a number", "Motion should reveal, not delay"],
+          "vo": "An animation that delays your price is a tax on your customer. Two seconds of nothing, on mobile data, so that a heading can slide in. Motion is fine when it reveals something. When it delays the one thing they came for, it is decoration you are charging them for.",
+          "cap": "If the animation is between the customer and the price, it is a cost, not a design."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Slide in", "Fade up", "Two seconds", "For nothing"],
+          "cap": "Motion should reveal. If it delays, delete it."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Hot take: entrance animations on a small business website are a tax on the customer.\n\nTwo seconds of nothing, on mobile data, so a heading can slide into place. Then the price appears.\n\nMotion is good when it reveals something. When it stands between a customer and the one thing they came for, you are charging them for decoration.\n\nWhat is the most annoying website animation you have seen?"
+        }
+      },
+      {
+        "id": "D4-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "She tapped the wrong thing twice",
+        "why": "A small failure with a big cost, which is the shape of most lost sales.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "She gave up on a shop because the page jumped.",
+          "beats": ["The image loaded late", "The button moved", "She tapped the delivery fee", "She left"],
+          "vo": "A woman gave up on a shop because the page kept jumping. An image loaded late, pushed everything down, and she tapped the delivery fee twice. Then a pop-up opened. She closed the lot and bought from someone with an uglier site that stayed still. You do not lose customers to design. You lose them to movement.",
+          "cap": "You do not lose customers to ugly design. You lose them to movement."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": ["An image loaded late", "The button moved", "She tapped twice", "She left"],
+          "cap": "Reserve space for every image. A page that jumps is a page that loses sales."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A woman gave up on a shop because the page kept jumping.\n\nAn image loaded late and pushed everything down. She tapped the delivery fee twice by accident. A pop-up opened. She closed the whole thing and bought from a shop with an uglier website that stayed still.\n\nYou do not lose customers to ugly. You lose them to movement.\n\nHas a jumpy page ever made you give up?"
+        }
+      },
+      {
+        "id": "D4-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Compress before you upload",
+        "why": "The single highest-return technical fix in the whole month.",
+        "tiktok": {
+          "fmt": "Screen recording, 21s",
+          "hook": "You do not need a developer to make your site faster. You need to stop uploading 4MB photos.",
+          "beats": ["One photo = one second", "Resize to 1600px", "Compress to under 200kb", "Do it before upload"],
+          "vo": "You do not need a developer to make your site faster. You need to stop uploading four megabyte photos. Resize to sixteen hundred pixels wide, compress to under two hundred kilobytes, and do it before you upload. Ten photos will take you twenty minutes and your page will load twice as fast.",
+          "cap": "Resize, compress, then upload. In that order, every time."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["4MB photo", "= one extra second", "Resize · compress · upload"],
+          "cap": "Ten photos, twenty minutes, twice the speed. No developer needed."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "You do not need a developer to make your site load faster. You need to stop uploading 4MB photos straight from your camera.\n\nResize to about 1600 pixels wide. Compress to under 200KB. Then upload.\n\nTen photos is twenty minutes of work and it will roughly halve your load time.\n\nMost 'slow website' problems in Nigeria are three photos nobody resized.\n\nWhat is the biggest image on your site right now?"
+        }
+      },
+      {
+        "id": "D4-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "The caption bar is eating your button",
+        "why": "A five-second fix that most sites have never done.",
+        "tiktok": {
+          "fmt": "Screen recording, 12s",
+          "hook": "The caption bar is sitting on top of your only button.",
+          "beats": ["Bottom 60 pixels are dead", "Your button lives there", "Move it up", "Done"],
+          "vo": "The caption bar is sitting on top of your only button. On most phones, the bottom sixty pixels are covered by a bar or a set of buttons. If your order button lives there, nobody can press it. Move it up and test again.",
+          "cap": "The bottom 60 pixels of a phone belong to the platform, not to you."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Bottom 60px", "Covered", "Put your button higher"],
+          "cap": "Check where your button lands on an actual phone, not in the preview."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Small thing that costs businesses real money: the bottom 60-80 pixels of a phone screen.\n\nThat strip belongs to the browser or the platform. If your main button sits there, a stranger physically cannot press it, and you will never know because it looks fine in the preview.\n\nOpen your site on a real phone. Look at where the button lands. Move it up.\n\nFive seconds of work."
+        }
+      },
+      {
+        "id": "D4-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "The last three shops you left",
+        "why": "The answers are the argument, and nobody can argue with them.",
+        "tiktok": {
+          "fmt": "Street interview, 26s",
+          "hook": "What were the last three shops you gave up on online?",
+          "beats": ["All three: too slow", "Not one said too ugly", "Not one said too expensive", "Just: it would not load"],
+          "vo": "What were the last three shops you gave up on online? Too slow. Would not load. Kept freezing. Three people, three answers, all the same answer. Not one of them said the site was ugly or expensive. They left because it made them wait.",
+          "cap": "Nobody on this street left because a shop was ugly. They left because it made them wait."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": ["Too slow", "Wouldn't load", "Kept freezing", "Nobody said ugly"],
+          "cap": "Speed is the only design decision every customer notices."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I asked people on the street: what were the last three shops you gave up on online?\n\nToo slow. Would not load. Kept freezing.\n\nNot one of them said the site was ugly. Not one said it was too expensive. They left because it made them wait.\n\nAll the design choices in the world do not matter if the page takes nine seconds.\n\nWhat made you abandon a site?"
+        }
+      },
+      {
+        "id": "D4-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "The blueprint is words, not pixels",
+        "why": "Disqualifying honestly is the fastest way to be trusted.",
+        "tiktok": {
+          "fmt": "Overhead shot, 28s",
+          "hook": "If your website is slow, do not buy the homepage blueprint.",
+          "beats": ["It is a writing pack", "Structure and copy", "Nothing about speed", "Speed is a different fix"],
+          "vo": "If your website is slow, do not buy the homepage blueprint. It is a writing pack. It fixes the first screen: what you say, in what order, and what the button does. It does not touch loading time, hosting, or images. Buy it if strangers read your page and still cannot tell what you sell.",
+          "cap": "Writing pack, not a design pack. ₦5,000. If speed is your problem, this is not it."
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": ["Slow site?", "Wrong pack", "This one is words", "First screen, in order", "₦5,000 · CLEAR"],
+          "cap": "Buy it for confusion, not for speed. ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "If your website is slow, do not buy my homepage blueprint.\n\nIt is a writing pack. It fixes the first screen — what you say, in what order, and what the button does. It does not touch loading speed, hosting or image sizes.\n\nBuy it if strangers read your page and still cannot tell what you sell. That is a words problem, and words are cheap to fix.\n\n₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.\n\nWhat does your first screen say right now?"
+        }
+      },
+      {
+        "id": "D4-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "Fast on 2G, in three weeks",
+        "why": "A story about scope, told with the number that ends the conversation.",
+        "tiktok": {
+          "fmt": "Talking head, 45s",
+          "hook": "Someone asked us to make a site load in two seconds on 2G, in three weeks.",
+          "beats": ["We said no to the 2G part", "We said yes to two seconds on 3G", "That is honest scope", "They took it"],
+          "vo": "Someone asked us to make their site load in two seconds on 2G, in three weeks. We said no to the 2G part. Two seconds on a good 3G connection is achievable and we can measure it. On 2G, nobody loads anything in two seconds, and we are not going to promise a number we cannot test. They took the version we could prove.",
+          "cap": "Say the number you can measure. Refuse the one you cannot."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": ["2 seconds, on 2G", "No", "2 seconds, on 3G", "Yes, and we can prove it"],
+          "cap": "A promise you cannot measure is not a standard. It is a delay before the argument."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Someone asked us to make their site load in two seconds on 2G, in three weeks.\n\nWe said no to the 2G part. Two seconds on a decent 3G connection is achievable and measurable. On 2G, nobody loads anything in two seconds, and promising it just delays the argument to delivery day.\n\nThey took the version we could prove.\n\nThe next time someone promises you a number, ask them how they will measure it.\n\nHave you ever been promised a result nobody could measure?"
+        }
+      },
+      {
+        "id": "D4-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Test on a real phone, on data",
+        "why": "One line that invalidates every comfortable test they have done.",
+        "tiktok": {
+          "fmt": "Kinetic type, 19s",
+          "hook": "Wifi lies to you every single time.",
+          "beats": ["Your office wifi is fast", "Your preview is cached", "Their phone is on data", "Test like they do"],
+          "vo": "Wifi lies to you. Your office connection is faster than any customer's, and your browser has already saved the images. So the page you test is not the page they get. Turn off wifi, use mobile data, open in a private window, and count again. That is the real number.",
+          "cap": "Turn off wifi. Private window. Mobile data. Then look."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Wifi: fast", "Preview: cached", "Their phone: neither"],
+          "cap": "Private window, mobile data, real phone. Any other test is fiction."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Two things lie to you when you test your own website: your wifi and your browser cache.\n\nYour office connection is faster than any customer's. Your browser has already saved the images, so the page you see is not the page they get.\n\nTurn off wifi. Use mobile data. Open a private window. Now count the seconds.\n\nThat is the real number, and it is usually about twice what you thought.\n\nWhat did yours turn out to be?"
+        }
+      }
+    ]
+  }
+]

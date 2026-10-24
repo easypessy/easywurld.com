@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Monday 2 November 2026** |
+| Ends | **Friday 6 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **66 posts** (22 core ideas x 3 platforms) |
+| Month total | **198 posts** (66 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -1278,6 +1278,2475 @@ writing on the spot.
 > It feels slower for the first ten seconds and it is faster for the next ten days.
 > 
 > What do you wish you had asked before your last awkward job?
+
+
+---
+
+
+# Day 3 · Tuesday · Tuesday 3 Nov 2026 — Price is not the problem
+
+**Offer in focus:** PLAYBOOK
+
+---
+
+
+## Post 01 · A price for everything, a reason for nothing
+
+**Type:** Entertain · **Why it works:** Every food vendor recognises their own menu board in three seconds.
+
+### TikTok · 07:00 · Screen recording, 25s
+
+**Hook (0-3s)**
+> This menu has a price for everything and a reason for nothing.
+
+**On-screen beats**
+- Jollof ₦2,500. Why?
+- Add one line under each item
+- What is in it, who it feeds
+- Now the price has a job
+
+**Voiceover script**
+> This menu has a price for everything and a reason for nothing. Jollof, two thousand five hundred. Chicken, three thousand. Now add one line under each item: what is in it, and who it actually feeds. Rice, two pieces, one person, very hungry. Now the price has a job, and nobody has to ask you a question before they decide.
+
+**Caption**
+> A price without a reason is a question. One line under each item answers it before it is asked.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 5-slide carousel, 4:5
+
+**Slide copy**
+1. Jollof · ₦2,500
+2. Chicken · ₦3,000
+3. Why?
+4. Say what is in it and who it feeds
+5. Now the price has a job
+
+**Caption**
+> Your menu is a sales page. Give every price a reason and the questions stop.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> Look at your menu, price list or catalogue. Every item has a number and no reason.
+> 
+> Jollof, ₦2,500. Chicken, ₦3,000. A customer has to ask what is in it, how big it is, and whether it feeds one person or four. You answer that question forty times a day.
+> 
+> Add one line under each item: what is in it and who it feeds. Rice, two pieces, one hungry person.
+> 
+> The price does not change. The number of questions does.
+> 
+> What is the item you answer the most questions about?
+
+
+---
+
+
+## Post 02 · 'How much?' is not a price question
+
+**Type:** Entertain · **Why it works:** A reframe that turns a defensive moment into a useful one.
+
+### TikTok · 09:15 · Kinetic type, 14s
+
+**Hook (0-3s)**
+> "How much?" is not a price question.
+
+**On-screen beats**
+- It is: is this for me?
+- They cannot see the value yet
+- Give the context before the number
+- Then the number lands
+
+**Voiceover script**
+> How much is not a price question. It is, is this for me. They cannot see what they are paying for yet, so any number looks like a lot. Give one line of context before the price and watch the same number land differently.
+
+**Caption**
+> Nobody can judge a price without knowing what it is for.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. "How much?"
+2. = "Is this for me?"
+3. Context first, number second
+
+**Caption**
+> One line of context before your price changes how it is heard.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> When a customer asks 'how much?', we hear a price question. It is not.
+> 
+> It is 'is this for me?' They cannot see what they would be paying for, so every number looks big.
+> 
+> Give one line of context before the price: what it is, who it is for, what happens after. The same number lands completely differently.
+> 
+> What is your one line of context?
+
+
+---
+
+
+## Post 03 · Say the price once, early
+
+**Type:** Teach · **Why it works:** A habit change that removes the most common customer question.
+
+### TikTok · 11:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Hidden prices do not read as premium. They read as expensive and negotiable.
+
+**On-screen beats**
+- No price = assume the worst
+- They must message to find out
+- Most will not
+- Say it early, say it once
+
+**Voiceover script**
+> Hiding your price does not make you look premium. It makes you look expensive and negotiable at the same time. A stranger assumes the worst number and does not bother asking. Say the price early, in the first three lines. The people who cannot afford it stop wasting your evening, and the ones who can finally get to the point.
+
+**Caption**
+> Hidden price = expensive and negotiable. Both at once.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 5-slide carousel
+
+**Slide copy**
+1. No price
+2. = assume the worst
+3. = message to find out
+4. = most won't
+5. Say it in the first three lines
+
+**Caption**
+> You are not hiding the price from competitors. You are hiding it from buyers.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> A lot of businesses hide their prices to look premium. It does not work that way.
+> 
+> No price reads as two things at once: too expensive for me, and negotiable. A stranger assumes the worst and does not ask.
+> 
+> Say the price early and say it once. The people who cannot afford it stop wasting your evening. The ones who can get straight to the point.
+> 
+> Do you show prices? Why or why not?
+
+
+---
+
+
+## Post 04 · Discounting is the most expensive way to feel busy
+
+**Type:** Entertain · **Why it works:** A position that will get disagreement in the comments, which is the point.
+
+### TikTok · 13:45 · Talking head, 19s
+
+**Hook (0-3s)**
+> Discounting is the most expensive way to feel busy.
+
+**On-screen beats**
+- More orders, same profit
+- Then harder work
+- Then a cheaper customer
+- Then a price you cannot raise
+
+**Voiceover script**
+> Discounting is the most expensive way to feel busy. You get more orders and the same money, then more work for less, then a customer who only buys on sale. Then one day you try to raise the price back and the same people tell you it is too expensive. You trained them.
+
+**Caption**
+> You can train a customer to wait for a discount. You cannot easily untrain them.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. More orders
+2. Same money
+3. A customer who only buys on sale
+
+**Caption**
+> Discount when you have dead stock. Not to feel wanted.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> A small business I know discounts every December. More orders, same profit, twice the work.
+> 
+> Worse, they trained their customers. Now nobody buys at the normal price, because they know January is coming.
+> 
+> Discount dead stock. Discount a slot that would otherwise be empty. Do not discount to feel wanted.
+> 
+> When was the last time a discount actually made you money?
+
+
+---
+
+
+## Post 05 · The tailor who raised his prices
+
+**Type:** Entertain · **Why it works:** A counter-intuitive story that gives permission to stop competing on cheap.
+
+### TikTok · 15:00 · Talking head, 30s
+
+**Hook (0-3s)**
+> A tailor raised his prices and got more orders.
+
+**On-screen beats**
+- He was the cheapest on the street
+- Cheapest meant not serious
+- He doubled the price, then delivered on time
+- Same customers, better ones
+
+**Voiceover script**
+> A tailor I know was the cheapest on his street and could not fill his week. We asked what he would charge if he had to deliver in five days, every time. He doubled it. Same customers, different ones. The low price had been telling people he was not serious, and seriousness is what you are actually buying when you order a suit.
+
+**Caption**
+> The low price was not attracting customers. It was filtering out the good ones.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · Reel + caption
+
+**Script slides**
+1. Cheapest on the street
+2. No orders
+3. Doubled the price
+4. Delivered in 5 days
+
+**Caption**
+> Cheap is a message. Make sure it is the one you meant to send.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A tailor I know was the cheapest on his street and still had an empty week.
+> 
+> We asked what he would charge if he could promise five-day delivery, every time. He doubled it. He got fewer enquiries and more orders, from people who did not haggle.
+> 
+> The low price was not attracting customers. It was telling them he was not serious.
+> 
+> When did cheap stop working for you?
+
+
+---
+
+
+## Post 06 · The quote is price, scope, date
+
+**Type:** Teach · **Why it works:** The most copied line of the month, applied to the harder document.
+
+### TikTok · 16:30 · Kinetic type, 23s
+
+**Hook (0-3s)**
+> A quote with no date is a question, and they cannot answer a question.
+
+**On-screen beats**
+- Price
+- What is included, in lines
+- What is not included
+- A date, then a yes/no
+
+**Voiceover script**
+> A quote with no date is a question, and nobody can say yes to a question. Five lines: the price, what is included, what is not included, the date it will be finished, and one sentence they can reply yes to. The what is not included line is the one that wins the job, because it is the only line that sounds honest.
+
+**Caption**
+> Price, scope, exclusions, date, one yes-shaped question.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 5-slide carousel
+
+**Slide copy**
+1. The price
+2. What is included
+3. What is not included
+4. The date it lands
+5. "Shall I book the slot?"
+
+**Caption**
+> The exclusions line wins more jobs than the price does.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Most quotes are one line: a number and 'let me know'.
+> 
+> That is a question, and a customer cannot say yes to a question.
+> 
+> Five lines: the price, what is included, what is not included, when it will be finished, and one sentence they can reply to. 'Shall I book the slot?'
+> 
+> The line about what is not included wins more jobs than the price, because it is the only one that sounds honest.
+> 
+> What does your quote look like right now?
+
+
+---
+
+
+## Post 07 · Budget? Any budget.
+
+**Type:** Entertain · **Why it works:** The exact meeting everyone has sat through.
+
+### TikTok · 18:00 · Two-line skit, 12s
+
+**Hook (0-3s)**
+> Me: what is your budget? Client: any budget.
+
+**On-screen beats**
+- That is not a budget
+- It is a hope
+- Give three tiers instead
+- One recommendation
+
+**Voiceover script**
+> What is your budget. Any budget. That is not a budget, that is a hope. So do not ask. Give three options at three prices and one recommendation. People who do not know what things cost can still choose between three things.
+
+**Caption**
+> Never ask for a budget. Offer three prices and one opinion.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. "What's your budget?"
+2. "Any budget."
+3. Offer three prices instead
+
+**Caption**
+> Choosing between three things is easy. Naming a number from nothing is not.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> 'What is your budget?'
+> 
+> 'Any budget.'
+> 
+> This conversation happens every day in Lagos, and it wastes a week.
+> 
+> People who do not know what things cost cannot name a number. They can, however, choose between three things. Give three options, three prices, and one recommendation.
+> 
+> You will get an answer in five minutes.
+> 
+> What do you do when a customer says 'any budget'?
+
+
+---
+
+
+## Post 08 · Would you pay more for the fast one?
+
+**Type:** Entertain · **Why it works:** The street answers do the arguing for you.
+
+### TikTok · 19:00 · Street interview, 28s
+
+**Hook (0-3s)**
+> Would you pay more for the business that answers fast?
+
+**On-screen beats**
+- Yes, said almost everyone
+- Then: how much more?
+- Nobody had a number
+- They had never been asked
+
+**Voiceover script**
+> Would you pay more for the business that answers fast? Yes, said almost everyone. Then I asked how much more. Nobody had a number. Not one person had ever been asked, by any business, to pay for a reply. Which means if you are fast, you are giving it away.
+
+**Caption**
+> Everyone will pay for speed. Nobody has ever been asked to.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. Pay more for speed?
+2. Almost everyone: yes
+3. How much more?
+4. Nobody had a number
+
+**Caption**
+> Speed is the only thing you can charge for that costs you nothing but attention.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people on the street: would you pay more for the business that answers fast?
+> 
+> Almost everyone said yes. Then I asked how much more. Nobody had a number.
+> 
+> Not one person had ever been asked. Which means the fast businesses are giving that advantage away for free, and losing the sale anyway to whoever replied first.
+> 
+> Reply fast. And maybe say so.
+> 
+> What is your reply time right now?
+
+
+---
+
+
+## Post 09 · ₦5,000 is not cheap, it is small
+
+**Type:** Sell · **Why it works:** Reframing price as time, which is the only currency they are short of.
+
+### TikTok · 20:00 · Overhead shot, 30s
+
+**Hook (0-3s)**
+> ₦5,000 is less than a plate of food for two. That does not make it cheap.
+
+**On-screen beats**
+- It is one afternoon of writing
+- Priced like a download
+- Or spend three evenings learning it
+- You are buying the afternoon
+
+**Voiceover script**
+> Five thousand naira is less than a plate of food for two people. That does not make it cheap. It is one afternoon of writing and designing, priced like a download. Or you can spend three evenings working it out yourself, badly, and redo it in January. You are not buying paper. You are buying the afternoon.
+
+**Caption**
+> Nine packs, ₦5,000 each. For your own business. Message the keyword on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. ₦5,000
+2. Less than lunch for two
+3. Not cheap. Small
+4. You are buying the afternoon
+5. Do-it-yourself, no consulting
+
+**Caption**
+> It is one afternoon of work you do not have to repeat. ₦5,000. Message PLAYBOOK, CLEAR or PROMPTS on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> ₦5,000 is less than a plate of food for two. That does not make my packs cheap. It makes them small.
+> 
+> What you are actually buying is an afternoon of writing and designing that you would otherwise spend three evenings doing badly, then redo in January.
+> 
+> The honest limit: these are do-it-yourself files. No consulting, no custom work, no guarantee of results. If you want it done for you, that is a project, not a download.
+> 
+> Nine packs at ₦5,000. Message PLAYBOOK, CLEAR or PROMPTS on WhatsApp: 0905 069 0837.
+> 
+> Which afternoon would you rather have back?
+
+
+---
+
+
+## Post 10 · Match this ₦20,000 quote
+
+**Type:** Entertain · **Why it works:** A story about what cheap really buys, from the inside.
+
+### TikTok · 20:45 · Talking head, 48s
+
+**Hook (0-3s)**
+> Someone asked us to match a ₦20,000 website quote.
+
+**On-screen beats**
+- We said we cannot
+- Not because we are too proud
+- Because ₦20,000 is half a day
+- So we showed them half a day
+
+**Voiceover script**
+> Someone asked us to match a twenty thousand naira website quote. We said we cannot, and it was not pride. Twenty thousand is half a day of work, so we told them what half a day buys: one page, one offer, one button, no CMS. They took it. The other quote had been selling them something nobody could deliver.
+
+**Caption**
+> We did not say no. We said what ₦20,000 is, honestly.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · Reel + caption
+
+**Script slides**
+1. "Can you match ₦20,000?"
+2. No
+3. Here is what ₦20,000 buys
+4. One page. One button.
+
+**Caption**
+> A quote you cannot deliver is not a bargain. It is a refund with extra steps.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone asked us to match a ₦20,000 website quote.
+> 
+> We said we cannot, and it was not pride. ₦20,000 is half a day of work. So we told them exactly what half a day buys: one page, one offer, one button, no CMS.
+> 
+> They took it.
+> 
+> The other quote had been selling them a site nobody could build in half a day. Which means somewhere in the next two months, they would have found that out.
+> 
+> Have you ever been quoted something that sounded too good?
+
+
+---
+
+
+## Post 11 · Never quote a range
+
+**Type:** Teach · **Why it works:** One line that removes an entire negotiation.
+
+### TikTok · 21:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> Never quote a range in a first reply.
+
+**On-screen beats**
+- ₦50,000 to ₦80,000
+- They heard ₦50,000
+- Everything above is a discussion
+- Quote once, at the top
+
+**Voiceover script**
+> Never quote a range in a first reply. Fifty to eighty thousand is heard as fifty thousand, and everything above it becomes a negotiation. If the price depends on the job, quote the smallest version and describe it. Otherwise quote one number and stand behind it.
+
+**Caption**
+> A range is a discount you have already given.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 3-slide carousel
+
+**Slide copy**
+1. "₦50,000 to ₦80,000"
+2. They heard ₦50,000
+3. Everything above is a fight
+
+**Caption**
+> Quote the smallest version, or quote one number. Not a range.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Never quote a range in a first reply.
+> 
+> '₦50,000 to ₦80,000' is heard as ₦50,000. Everything above that becomes a negotiation you did not agree to have, and you usually lose it because you already said the number.
+> 
+> If the price really depends on the job, quote the smallest version and describe what that gets them. Otherwise quote one number and stand behind it.
+> 
+> Have you ever quoted a range and regretted it?
+
+
+---
+
+
+# Day 4 · Wednesday · Wednesday 4 Nov 2026 — Your page on a phone
+
+**Offer in focus:** CLEAR
+
+---
+
+
+## Post 01 · Nine seconds to load
+
+**Type:** Entertain · **Why it works:** Almost everyone can check this on their own site tonight.
+
+### TikTok · 07:00 · Screen recording with a timer, 24s
+
+**Hook (0-3s)**
+> This page takes nine seconds to load on mobile data.
+
+**On-screen beats**
+- Nine seconds is a bus ride
+- Two 4MB photos do that
+- Compress before upload
+- Back under three
+
+**Voiceover script**
+> This page takes nine seconds to load on mobile data. Nine seconds is long enough to open another tab, get distracted, and buy from someone else. The cause is almost always two images that were never compressed. Run them through a compressor before uploading and this page is under three seconds.
+
+**Caption**
+> Nine seconds is not slow. Nine seconds is a customer leaving.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 5-slide carousel
+
+**Slide copy**
+1. Nine seconds on mobile data
+2. Two uncompressed photos
+3. That is the whole cause
+4. Compress before upload
+5. Under three seconds
+
+**Caption**
+> Most slow sites are one enormous photo wearing a nice dress.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> Open your site on mobile data, not wifi, and count the seconds.
+> 
+> Nine seconds is long enough for a customer to open another tab and buy from someone else.
+> 
+> The cause is almost always one or two photos straight from a phone camera, four megabytes each, uploaded at full size. Compress them before uploading and most pages drop under three seconds.
+> 
+> It is a ten minute fix that has been costing you for a year.
+> 
+> How fast is yours?
+
+
+---
+
+
+## Post 02 · Built on a laptop, seen on a phone
+
+**Type:** Entertain · **Why it works:** The single most common design failure in Lagos.
+
+### TikTok · 09:15 · Kinetic type, 13s
+
+**Hook (0-3s)**
+> Your site was built on a laptop. Your customer is holding a phone.
+
+**On-screen beats**
+- Two very different devices
+- Sit on your hands
+- One thumb, one hand
+- Can you reach the button?
+
+**Voiceover script**
+> Your site was designed on a laptop and your customer is holding a phone in one hand, in traffic. Different screen, different distance, different attention. Look at your own page on the cheapest Android you can find, and be honest about whether you would stay.
+
+**Caption**
+> Design for the hand they are holding, not the desk you are sitting at.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. Built on a laptop
+2. Seen in one hand
+3. In traffic
+4. Check it on a cheap Android
+
+**Caption**
+> The device in your pocket is not the device they have.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> Your website was designed on a laptop, probably while sitting down.
+> 
+> Your customer is holding a phone in one hand, in traffic, with 40% battery, deciding whether to bother.
+> 
+> Open your own site on the cheapest Android in your house. Not your phone. The old one. If you would not stay, they do not either.
+> 
+> When did you last look at your own site on a phone?
+
+
+---
+
+
+## Post 03 · The thumb test
+
+**Type:** Teach · **Why it works:** A two-minute test they will actually run.
+
+### TikTok · 11:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Hold your phone in one hand and try to buy from your own site.
+
+**On-screen beats**
+- One hand only
+- Can you reach the button?
+- Can you read without zooming?
+- Fix what you cannot reach
+
+**Voiceover script**
+> The thumb test. Hold your phone in one hand and try to buy from your own website. Can you reach the main button without moving your hand? Can you read the first line without zooming? Everything you cannot reach with a thumb is a customer who left. Move the button up and make the text bigger. That is the whole fix.
+
+**Caption**
+> One hand. One thumb. Everything else is decoration.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 5-slide carousel
+
+**Slide copy**
+1. One hand
+2. One thumb
+3. Reach the button?
+4. Read without zooming?
+5. Fix what you cannot reach
+
+**Caption**
+> Run the thumb test on your own site tonight. It takes two minutes and it will annoy you.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Try the thumb test tonight.
+> 
+> Hold your phone in one hand. Open your own website. Now try to buy something without moving your hand or using a second finger.
+> 
+> Can you reach the main button? Can you read the first line without zooming in?
+> 
+> Everything you cannot reach with a thumb is a customer who left quietly. Move the button up. Make the text bigger.
+> 
+> How did you do?
+
+
+---
+
+
+## Post 04 · An entrance animation is a tax
+
+**Type:** Entertain · **Why it works:** A position that will annoy designers and delight business owners.
+
+### TikTok · 13:45 · Talking head, 18s
+
+**Hook (0-3s)**
+> An animation that delays your price is a tax on your customer.
+
+**On-screen beats**
+- Two seconds of nothing
+- On data
+- To reveal a number
+- Motion should reveal, not delay
+
+**Voiceover script**
+> An animation that delays your price is a tax on your customer. Two seconds of nothing, on mobile data, so that a heading can slide in. Motion is fine when it reveals something. When it delays the one thing they came for, it is decoration you are charging them for.
+
+**Caption**
+> If the animation is between the customer and the price, it is a cost, not a design.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Slide in
+2. Fade up
+3. Two seconds
+4. For nothing
+
+**Caption**
+> Motion should reveal. If it delays, delete it.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Hot take: entrance animations on a small business website are a tax on the customer.
+> 
+> Two seconds of nothing, on mobile data, so a heading can slide into place. Then the price appears.
+> 
+> Motion is good when it reveals something. When it stands between a customer and the one thing they came for, you are charging them for decoration.
+> 
+> What is the most annoying website animation you have seen?
+
+
+---
+
+
+## Post 05 · She tapped the wrong thing twice
+
+**Type:** Entertain · **Why it works:** A small failure with a big cost, which is the shape of most lost sales.
+
+### TikTok · 15:00 · Talking head, 30s
+
+**Hook (0-3s)**
+> She gave up on a shop because the page jumped.
+
+**On-screen beats**
+- The image loaded late
+- The button moved
+- She tapped the delivery fee
+- She left
+
+**Voiceover script**
+> A woman gave up on a shop because the page kept jumping. An image loaded late, pushed everything down, and she tapped the delivery fee twice. Then a pop-up opened. She closed the lot and bought from someone with an uglier site that stayed still. You do not lose customers to design. You lose them to movement.
+
+**Caption**
+> You do not lose customers to ugly design. You lose them to movement.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · Reel + caption
+
+**Script slides**
+1. An image loaded late
+2. The button moved
+3. She tapped twice
+4. She left
+
+**Caption**
+> Reserve space for every image. A page that jumps is a page that loses sales.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A woman gave up on a shop because the page kept jumping.
+> 
+> An image loaded late and pushed everything down. She tapped the delivery fee twice by accident. A pop-up opened. She closed the whole thing and bought from a shop with an uglier website that stayed still.
+> 
+> You do not lose customers to ugly. You lose them to movement.
+> 
+> Has a jumpy page ever made you give up?
+
+
+---
+
+
+## Post 06 · Compress before you upload
+
+**Type:** Teach · **Why it works:** The single highest-return technical fix in the whole month.
+
+### TikTok · 16:30 · Screen recording, 21s
+
+**Hook (0-3s)**
+> You do not need a developer to make your site faster. You need to stop uploading 4MB photos.
+
+**On-screen beats**
+- One photo = one second
+- Resize to 1600px
+- Compress to under 200kb
+- Do it before upload
+
+**Voiceover script**
+> You do not need a developer to make your site faster. You need to stop uploading four megabyte photos. Resize to sixteen hundred pixels wide, compress to under two hundred kilobytes, and do it before you upload. Ten photos will take you twenty minutes and your page will load twice as fast.
+
+**Caption**
+> Resize, compress, then upload. In that order, every time.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. 4MB photo
+2. = one extra second
+3. Resize · compress · upload
+
+**Caption**
+> Ten photos, twenty minutes, twice the speed. No developer needed.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> You do not need a developer to make your site load faster. You need to stop uploading 4MB photos straight from your camera.
+> 
+> Resize to about 1600 pixels wide. Compress to under 200KB. Then upload.
+> 
+> Ten photos is twenty minutes of work and it will roughly halve your load time.
+> 
+> Most 'slow website' problems in Nigeria are three photos nobody resized.
+> 
+> What is the biggest image on your site right now?
+
+
+---
+
+
+## Post 07 · The caption bar is eating your button
+
+**Type:** Entertain · **Why it works:** A five-second fix that most sites have never done.
+
+### TikTok · 18:00 · Screen recording, 12s
+
+**Hook (0-3s)**
+> The caption bar is sitting on top of your only button.
+
+**On-screen beats**
+- Bottom 60 pixels are dead
+- Your button lives there
+- Move it up
+- Done
+
+**Voiceover script**
+> The caption bar is sitting on top of your only button. On most phones, the bottom sixty pixels are covered by a bar or a set of buttons. If your order button lives there, nobody can press it. Move it up and test again.
+
+**Caption**
+> The bottom 60 pixels of a phone belong to the platform, not to you.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Bottom 60px
+2. Covered
+3. Put your button higher
+
+**Caption**
+> Check where your button lands on an actual phone, not in the preview.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> Small thing that costs businesses real money: the bottom 60-80 pixels of a phone screen.
+> 
+> That strip belongs to the browser or the platform. If your main button sits there, a stranger physically cannot press it, and you will never know because it looks fine in the preview.
+> 
+> Open your site on a real phone. Look at where the button lands. Move it up.
+> 
+> Five seconds of work.
+
+
+---
+
+
+## Post 08 · The last three shops you left
+
+**Type:** Entertain · **Why it works:** The answers are the argument, and nobody can argue with them.
+
+### TikTok · 19:00 · Street interview, 26s
+
+**Hook (0-3s)**
+> What were the last three shops you gave up on online?
+
+**On-screen beats**
+- All three: too slow
+- Not one said too ugly
+- Not one said too expensive
+- Just: it would not load
+
+**Voiceover script**
+> What were the last three shops you gave up on online? Too slow. Would not load. Kept freezing. Three people, three answers, all the same answer. Not one of them said the site was ugly or expensive. They left because it made them wait.
+
+**Caption**
+> Nobody on this street left because a shop was ugly. They left because it made them wait.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. Too slow
+2. Wouldn't load
+3. Kept freezing
+4. Nobody said ugly
+
+**Caption**
+> Speed is the only design decision every customer notices.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people on the street: what were the last three shops you gave up on online?
+> 
+> Too slow. Would not load. Kept freezing.
+> 
+> Not one of them said the site was ugly. Not one said it was too expensive. They left because it made them wait.
+> 
+> All the design choices in the world do not matter if the page takes nine seconds.
+> 
+> What made you abandon a site?
+
+
+---
+
+
+## Post 09 · The blueprint is words, not pixels
+
+**Type:** Sell · **Why it works:** Disqualifying honestly is the fastest way to be trusted.
+
+### TikTok · 20:00 · Overhead shot, 28s
+
+**Hook (0-3s)**
+> If your website is slow, do not buy the homepage blueprint.
+
+**On-screen beats**
+- It is a writing pack
+- Structure and copy
+- Nothing about speed
+- Speed is a different fix
+
+**Voiceover script**
+> If your website is slow, do not buy the homepage blueprint. It is a writing pack. It fixes the first screen: what you say, in what order, and what the button does. It does not touch loading time, hosting, or images. Buy it if strangers read your page and still cannot tell what you sell.
+
+**Caption**
+> Writing pack, not a design pack. ₦5,000. If speed is your problem, this is not it.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. Slow site?
+2. Wrong pack
+3. This one is words
+4. First screen, in order
+5. ₦5,000 · CLEAR
+
+**Caption**
+> Buy it for confusion, not for speed. ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> If your website is slow, do not buy my homepage blueprint.
+> 
+> It is a writing pack. It fixes the first screen — what you say, in what order, and what the button does. It does not touch loading speed, hosting or image sizes.
+> 
+> Buy it if strangers read your page and still cannot tell what you sell. That is a words problem, and words are cheap to fix.
+> 
+> ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.
+> 
+> What does your first screen say right now?
+
+
+---
+
+
+## Post 10 · Fast on 2G, in three weeks
+
+**Type:** Entertain · **Why it works:** A story about scope, told with the number that ends the conversation.
+
+### TikTok · 20:45 · Talking head, 45s
+
+**Hook (0-3s)**
+> Someone asked us to make a site load in two seconds on 2G, in three weeks.
+
+**On-screen beats**
+- We said no to the 2G part
+- We said yes to two seconds on 3G
+- That is honest scope
+- They took it
+
+**Voiceover script**
+> Someone asked us to make their site load in two seconds on 2G, in three weeks. We said no to the 2G part. Two seconds on a good 3G connection is achievable and we can measure it. On 2G, nobody loads anything in two seconds, and we are not going to promise a number we cannot test. They took the version we could prove.
+
+**Caption**
+> Say the number you can measure. Refuse the one you cannot.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · Reel + caption
+
+**Script slides**
+1. 2 seconds, on 2G
+2. No
+3. 2 seconds, on 3G
+4. Yes, and we can prove it
+
+**Caption**
+> A promise you cannot measure is not a standard. It is a delay before the argument.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone asked us to make their site load in two seconds on 2G, in three weeks.
+> 
+> We said no to the 2G part. Two seconds on a decent 3G connection is achievable and measurable. On 2G, nobody loads anything in two seconds, and promising it just delays the argument to delivery day.
+> 
+> They took the version we could prove.
+> 
+> The next time someone promises you a number, ask them how they will measure it.
+> 
+> Have you ever been promised a result nobody could measure?
+
+
+---
+
+
+## Post 11 · Test on a real phone, on data
+
+**Type:** Teach · **Why it works:** One line that invalidates every comfortable test they have done.
+
+### TikTok · 21:30 · Kinetic type, 19s
+
+**Hook (0-3s)**
+> Wifi lies to you every single time.
+
+**On-screen beats**
+- Your office wifi is fast
+- Your preview is cached
+- Their phone is on data
+- Test like they do
+
+**Voiceover script**
+> Wifi lies to you. Your office connection is faster than any customer's, and your browser has already saved the images. So the page you test is not the page they get. Turn off wifi, use mobile data, open in a private window, and count again. That is the real number.
+
+**Caption**
+> Turn off wifi. Private window. Mobile data. Then look.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 3-slide carousel
+
+**Slide copy**
+1. Wifi: fast
+2. Preview: cached
+3. Their phone: neither
+
+**Caption**
+> Private window, mobile data, real phone. Any other test is fiction.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Two things lie to you when you test your own website: your wifi and your browser cache.
+> 
+> Your office connection is faster than any customer's. Your browser has already saved the images, so the page you see is not the page they get.
+> 
+> Turn off wifi. Use mobile data. Open a private window. Now count the seconds.
+> 
+> That is the real number, and it is usually about twice what you thought.
+> 
+> What did yours turn out to be?
+
+
+---
+
+
+# Day 5 · Thursday · Thursday 5 Nov 2026 — The customer who vanished
+
+**Offer in focus:** PLAYBOOK
+
+---
+
+
+## Post 01 · 340 unread messages
+
+**Type:** Entertain · **Why it works:** A number every busy seller recognises with a wince.
+
+### TikTok · 07:00 · Screen recording, 25s
+
+**Hook (0-3s)**
+> This business has 340 unread messages.
+
+**On-screen beats**
+- That is a queue
+- Not a conversation
+- Most are one question
+- Answer the question once, publicly
+
+**Voiceover script**
+> This business has three hundred and forty unread messages. That is not a conversation, it is a queue to its own shop. Reading them, most are the same four questions. Put those four answers on the profile and the queue shrinks by half without you typing anything new.
+
+**Caption**
+> 340 unread messages is not popularity. It is a queue blocking your own door.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 5-slide carousel
+
+**Slide copy**
+1. 340 unread
+2. Most ask the same 4 things
+3. Price · delivery · hours · how to order
+4. Answer once, publicly
+5. The queue halves
+
+**Caption**
+> Your inbox is telling you what your profile should say.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> If you have hundreds of unread messages, that is not popularity. It is a queue blocking your own door.
+> 
+> Open the last fifty and count how many ask the same four things: price, delivery, opening hours, how to order.
+> 
+> Almost all of them do.
+> 
+> Put those four answers on your profile and in your away message. The queue shrinks by half and nobody had to type anything new.
+> 
+> How many unread do you have right now? Be honest.
+
+
+---
+
+
+## Post 02 · Seen is the most expensive word
+
+**Type:** Entertain · **Why it works:** One word does the emotional work of the whole lesson.
+
+### TikTok · 09:15 · Kinetic type, 14s
+
+**Hook (0-3s)**
+> "Seen" is the most expensive word in Nigerian business.
+
+**On-screen beats**
+- It is not a read receipt
+- It is a decision
+- They think you don't want them
+- Reply, even to say later
+
+**Voiceover script**
+> Seen is the most expensive word in Nigerian business. To you it means I will get to it. To them it means this business does not want my money. Even a broken reply beats a read receipt, because a read receipt is a decision you did not mean to make.
+
+**Caption**
+> A blue tick with no reply is a no, whether you meant it or not.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. Seen
+2. Is not a read receipt
+3. It is a decision
+
+**Caption**
+> If you cannot answer now, answer with when you will.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> 'Seen' is the most expensive word in Nigerian business.
+> 
+> To you it means 'I will get to it tonight'. To the customer it means 'this person does not want my money'.
+> 
+> A short reply that says when you will answer beats a blue tick every time. 'I can confirm by 6pm' costs four seconds and keeps the customer.
+> 
+> Do you reply even when you have no answer yet?
+
+
+---
+
+
+## Post 03 · The follow-up that is not begging
+
+**Type:** Teach · **Why it works:** Removes the shame that stops people from following up at all.
+
+### TikTok · 11:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> The second message feels like begging because it asks for something. So add something instead.
+
+**On-screen beats**
+- A date
+- A photo
+- A slot that is filling
+- Then ask
+
+**Voiceover script**
+> The second message feels like begging because most second messages only ask. So add something instead. A delivery date. A photo of the thing. A note that you only have two slots left this week, if that is true. Once the message carries information, it is no longer begging, it is a service.
+
+**Caption**
+> Begging asks. Following up gives. Add one useful thing.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 5-slide carousel
+
+**Slide copy**
+1. "Just checking in"
+2. = begging
+3. Add a date
+4. Add a photo
+5. = a service
+
+**Caption**
+> If the message carries no new information, do not send it.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Most people do not follow up because the second message feels like begging.
+> 
+> It feels that way because it usually only asks: 'just checking in'.
+> 
+> Add something. A delivery date. A photo of the finished thing. A note that you have two slots left this week, if that is actually true.
+> 
+> Once the message carries information, it stops being begging and starts being a service.
+> 
+> What do you normally say in a second message?
+
+
+---
+
+
+## Post 04 · Ghosting is a system failure
+
+**Type:** Entertain · **Why it works:** Takes the blame off the customer and puts it where they can fix it.
+
+### TikTok · 13:45 · Talking head, 20s
+
+**Hook (0-3s)**
+> Your customer did not ghost you. Your system did.
+
+**On-screen beats**
+- Nobody was assigned
+- After 6pm nobody answers
+- No date was set
+- So it died quietly
+
+**Voiceover script**
+> Your customer did not ghost you, your system did. Nobody was assigned to answer after six p.m. Nobody set a date when the quote went out. Nobody noticed the chat had gone quiet for three days. Ghosting feels like a rude person. It is usually an unowned gap.
+
+**Caption**
+> Nobody owns the gap. That is the whole story.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Nobody answered after 6pm
+2. No date was set
+3. Nobody noticed the quiet
+
+**Caption**
+> Assign the gap before you blame the customer.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> We call it ghosting, as though the customer did something to us.
+> 
+> Usually it is a system failure. Nobody was assigned to answer after 6pm. Nobody put a date on the quote. Nobody noticed the chat had gone quiet for three days.
+> 
+> Fix the gap, not the customer.
+> 
+> Who in your business owns the messages after hours?
+
+
+---
+
+
+## Post 05 · The ₦90,000 order lost to four hours
+
+**Type:** Entertain · **Why it works:** A single specific number makes the abstract lesson real.
+
+### TikTok · 15:00 · Talking head, 32s
+
+**Hook (0-3s)**
+> She lost a ninety thousand naira order in four hours.
+
+**On-screen beats**
+- The customer messaged at 9am
+- She replied at 1pm
+- The order was placed elsewhere
+- Four hours, ninety thousand
+
+**Voiceover script**
+> She lost a ninety thousand naira order in four hours. The customer messaged at nine in the morning. She was in the market, saw it, thought I will answer when I sit down, and replied at one. The customer had already ordered from the next chat. It was not a price problem. It was a four hour problem.
+
+**Caption**
+> Four hours. Ninety thousand naira. Not one word about price.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · Reel + caption
+
+**Script slides**
+1. 9am: message
+2. 1pm: reply
+3. 1:05pm: already ordered
+4. ₦90,000
+
+**Caption**
+> The most expensive thing in your business is not your price. It is your delay.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> She lost a ₦90,000 order in four hours.
+> 
+> A customer messaged at 9am. She was in the market, saw it, and thought she would answer when she sat down. She replied at 1pm. The customer had already ordered from the next chat in the list.
+> 
+> Not a price problem. Not a product problem. A four-hour problem.
+> 
+> What is the longest a customer waits for you on a normal day?
+
+
+---
+
+
+## Post 06 · The three-day callback is one sentence
+
+**Type:** Teach · **Why it works:** So small that there is no excuse not to do it.
+
+### TikTok · 16:30 · Kinetic type, 18s
+
+**Hook (0-3s)**
+> The three-day callback is one sentence long.
+
+**On-screen beats**
+- Not a paragraph
+- Not an apology
+- One useful question
+- "Still need this for the weekend?"
+
+**Voiceover script**
+> The three-day callback is one sentence long. Not a paragraph, not an apology, not just checking in. One line that assumes nothing: still need this for the weekend? If yes, they answer. If no, they tell you. Either way you stop guessing and you stop waiting.
+
+**Caption**
+> One line. No apology. A question with a real answer.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. "Still need this
+2. for the weekend?"
+3. That is the whole message
+
+**Caption**
+> Send it on day three. Then leave them alone.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> The three-day callback is one sentence long.
+> 
+> 'Still need this for the weekend?'
+> 
+> Not a paragraph. Not an apology for disturbing them. Not 'just checking in', which invites a polite nothing.
+> 
+> One line with a real question. They answer yes or no, and either way you stop waiting and guessing.
+> 
+> When did you last follow up on a quote?
+
+
+---
+
+
+## Post 07 · 'Ok' is not a yes
+
+**Type:** Entertain · **Why it works:** A tiny exchange that quietly kills hundreds of sales a week.
+
+### TikTok · 18:00 · Two-line skit, 13s
+
+**Hook (0-3s)**
+> You sent the price. They said "ok".
+
+**On-screen beats**
+- That is not a yes
+- It is not a no
+- It is nothing yet
+- Ask what happens next
+
+**Voiceover script**
+> You sent the price. They said ok. That is not a yes, and it is not a no. It is nothing yet, and most businesses leave it there. Reply with the next step in one line: should I send the payment details. Now you find out.
+
+**Caption**
+> "Ok" is a pause, not a decision. Someone has to move.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. "Ok"
+2. Not a yes
+3. Not a no
+4. Ask for the next step
+
+**Caption**
+> The next message is yours. Send one line with a next step in it.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> You send a price. The customer replies 'ok'.
+> 
+> That is not a yes. It is not a no. It is nothing yet, and most businesses leave it exactly there and count it as a sale that fell through.
+> 
+> Send one line with a next step in it: 'Should I send the payment details?' Now you find out in four seconds instead of four days.
+> 
+> What do you do when a customer says 'ok'?
+
+
+---
+
+
+## Post 08 · Why did you stop replying?
+
+**Type:** Entertain · **Why it works:** The answers remove the excuse that it was about money.
+
+### TikTok · 19:00 · Street interview, 26s
+
+**Hook (0-3s)**
+> Why did you stop replying to a vendor?
+
+**On-screen beats**
+- I forgot
+- I saw it and got busy
+- Not one said expensive
+- They forgot, not rejected
+
+**Voiceover script**
+> Why did you stop replying to a vendor? I forgot, said one. I saw it at work and never came back, said another. I did not even realise I had not replied. Three answers and not one of them was about price. They did not reject you. They forgot you, which is worse, and easier to fix.
+
+**Caption**
+> Nobody here rejected anybody. They forgot. Which is worse, and easier to fix.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. "I forgot"
+2. "I saw it at work"
+3. "I didn't realise"
+4. Nobody said expensive
+
+**Caption**
+> Silence is almost never a no. It is a busy person with 40 newer messages.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people on the street why they stopped replying to a vendor.
+> 
+> 'I forgot.' 'I saw it at work and never came back.' 'I didn't even realise I hadn't replied.'
+> 
+> Not one of them said it was too expensive.
+> 
+> They did not reject you. They forgot you. Which is worse, and also much easier to fix, because a reminder costs nothing.
+> 
+> Do you send the reminder, or wait to be remembered?
+
+
+---
+
+
+## Post 09 · If they vanish after the price
+
+**Type:** Sell · **Why it works:** Names the exact moment the buyer recognises.
+
+### TikTok · 20:00 · Overhead shot, 29s
+
+**Hook (0-3s)**
+> If customers vanish right after the price, this is for you.
+
+**On-screen beats**
+- 36 scripts for the awkward moments
+- And a tracker
+- No consulting included
+- It fixes chats you already have
+
+**Voiceover script**
+> If customers vanish right after the price, this is for you. Thirty-six scripts for the moments that cost you sales: price questions, let me think about it, delivery, payment, and silence. Plus a tracker so no follow-up is forgotten. Five thousand naira, do it yourself. No consulting, no guarantees, and it will not bring you new customers.
+
+**Caption**
+> It fixes the customers already messaging you. ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. They asked the price
+2. Then went quiet
+3. 36 scripts for that moment
+4. Plus a tracker
+5. ₦5,000 · PLAYBOOK
+
+**Caption**
+> No consulting. No guarantees. Just the words for the moments you keep getting wrong.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> If customers vanish right after you send the price, this is the one pack I would point you to.
+> 
+> Thirty-six scripts for the awkward moments: the price question, 'let me think about it', delivery, payment, and plain silence. Plus a tracker so no follow-up gets forgotten.
+> 
+> ₦5,000. Do it yourself.
+> 
+> The honest limit: no consulting, no guarantees, and it will not bring you a single new customer. It only helps with the ones already messaging you.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · No to the blast, yes to eleven messages
+
+**Type:** Entertain · **Why it works:** Shows the alternative to automation without moralising.
+
+### TikTok · 20:45 · Talking head, 46s
+
+**Hook (0-3s)**
+> A client asked us to automate his follow-ups. We said no.
+
+**On-screen beats**
+- A blast would save time
+- And look like a blast
+- So we wrote eleven personal messages
+- It took forty minutes
+
+**Voiceover script**
+> A client asked us to automate his follow-ups. We said no, and it was not a principle, it was arithmetic. A broadcast to two thousand people would save him an hour and look exactly like what it was. So we wrote eleven personal messages to the eleven real enquiries and he sent them by hand. Forty minutes. Four replies the same day.
+
+**Caption**
+> We are not against automation. We are against it being the first thing.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · Reel + caption
+
+**Script slides**
+1. "Can we automate follow-ups?"
+2. No
+3. 11 real enquiries
+4. 11 typed messages
+
+**Caption**
+> Automate the tenth time, not the first. By then you know what works.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> A client asked us to automate his follow-ups.
+> 
+> We said no, and it was not a principle, it was arithmetic. A broadcast to 2,000 contacts would save him an hour and look exactly like what it was. Most of them would ignore it.
+> 
+> So we wrote eleven personal messages to the eleven real enquiries and he sent them by hand. Forty minutes. Four replies the same day.
+> 
+> Automate the tenth time. Not the first.
+> 
+> Would a broadcast even work on your customers?
+
+
+---
+
+
+## Post 11 · Log every enquiry with a date
+
+**Type:** Teach · **Why it works:** The unglamorous habit behind every good sales story in this month.
+
+### TikTok · 21:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> The most profitable thing in your business is a column of dates.
+
+**On-screen beats**
+- Name
+- What they asked
+- Next follow-up date
+- Open it every morning
+
+**Voiceover script**
+> The most profitable thing in your business is a column of dates. Every enquiry, the name, what they asked, and the date you will next speak to them. Open that sheet every morning and work the rows that are due. You will find sales you had already written off, sitting in a chat nobody reopened.
+
+**Caption**
+> Name, what they asked, next date. Four columns and a habit.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 5-slide carousel
+
+**Slide copy**
+1. Name
+2. What they asked
+3. Date to speak again
+4. Open it every morning
+5. That is the system
+
+**Caption**
+> Every sales story in this account comes back to one spreadsheet.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> The most profitable thing in a small business is a column of dates.
+> 
+> Name. What they asked for. The date you will speak to them next.
+> 
+> Open that sheet every morning and work the rows that are due today. That is the whole system.
+> 
+> You will find sales you had written off sitting in chats nobody reopened.
+> 
+> Do you have this sheet, or is it all in your head?
+
+
+---
+
+
+# Day 6 · Friday · Friday 6 Nov 2026 — Nobody knows what you sell
+
+**Offer in focus:** CLEAR
+
+---
+
+
+## Post 01 · A homepage about the founder
+
+**Type:** Entertain · **Why it works:** Painfully common, and everyone can see their own version.
+
+### TikTok · 07:00 · Screen recording, 24s
+
+**Hook (0-3s)**
+> This homepage describes the founder and never says what they sell.
+
+**On-screen beats**
+- Three paragraphs about passion
+- Zero products
+- Zero prices
+- Nobody came for your passion
+
+**Voiceover script**
+> This homepage describes the founder and never says what they sell. Three paragraphs about passion, starting from a small idea, and one line about excellence. Zero products, zero prices, zero next step. Nobody came for your passion. They came to find out whether you sell the thing they need.
+
+**Caption**
+> Nobody ever bought a business because the founder was passionate. They bought a thing.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 5-slide carousel
+
+**Slide copy**
+1. Para 1: passion
+2. Para 2: the journey
+3. Para 3: excellence
+4. Product count: zero
+5. Fix the order
+
+**Caption**
+> Product first. Story second. That way people who are not here for the story still buy.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A lot of Lagos homepages spend three paragraphs on the founder and never say what the business sells.
+> 
+> Passion. The journey. A small beginning. Commitment to excellence.
+> 
+> Zero products. Zero prices. Zero next step.
+> 
+> Nobody arrives at your site for your passion. They arrive to find out whether you sell the thing they need. Tell them that first. The story can come second, and more people will read it.
+> 
+> What is the first thing on your homepage?
+
+
+---
+
+
+## Post 02 · The About page is doing the homepage's job
+
+**Type:** Entertain · **Why it works:** A structural insight that reframes where the work goes.
+
+### TikTok · 09:15 · Kinetic type, 15s
+
+**Hook (0-3s)**
+> Your About page is doing the homepage's job, and neither is working.
+
+**On-screen beats**
+- Homepage: what you sell
+- About: who you are
+- They have swapped
+- Swap them back
+
+**Voiceover script**
+> Your About page is doing the homepage's job. The homepage should say what you sell and what to do next. The About page should say who you are. Instead the homepage tells your story and the About page is the only place with a product on it. Swap them back and watch enquiries move.
+
+**Caption**
+> Homepage sells. About page explains. Most sites have them the wrong way round.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. Homepage = what you sell
+2. About = who you are
+3. You have them backwards
+
+**Caption**
+> Check yours tonight. It takes one minute.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> A structural thing most small business sites get wrong: the homepage and the About page have swapped jobs.
+> 
+> The homepage is busy telling your story. The About page is the only place with a product on it.
+> 
+> It should be the other way round. Homepage: what you sell, who for, what to do next. About page: who you are, why you started.
+> 
+> Swap them. Same words. Different order. Different results.
+> 
+> Have a look at yours and tell me which one has the product on it.
+
+
+---
+
+
+## Post 03 · The sentence a customer would say
+
+**Type:** Teach · **Why it works:** The fastest route to a headline that sounds human.
+
+### TikTok · 11:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Your headline is hiding in something a customer already said to you.
+
+**On-screen beats**
+- Not your words
+- Theirs
+- The sentence they use to describe you
+- That is the headline
+
+**Voiceover script**
+> Your headline is already written. It is the sentence a customer uses to describe you to a friend. Not the words you chose, the words they used. Ask three customers: how would you describe what we do. Take the clearest answer and put it on the page. It will sound more like your business than anything you write about yourself.
+
+**Caption**
+> Ask three customers how they describe you. Put the clearest answer on the page.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 5-slide carousel
+
+**Slide copy**
+1. Don't write it yourself
+2. Ask a customer
+3. "How would you describe us?"
+4. Use their words
+5. That is the headline
+
+**Caption**
+> Your customers already wrote your headline. You just have not asked.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Your headline is probably already written. It is sitting in someone's chat history.
+> 
+> Ask three customers: 'How would you describe what we do, to a friend?'
+> 
+> Take the clearest answer and put it on your homepage, word for word. It will sound more like your business than anything you write about yourself, because you are too close to it.
+> 
+> Try it this week. Three messages.
+> 
+> What do you think they would say?
+
+
+---
+
+
+## Post 04 · 'A wide range of services'
+
+**Type:** Entertain · **Why it works:** Nails a phrase every Nigerian business uses and no customer believes.
+
+### TikTok · 13:45 · Talking head, 19s
+
+**Hook (0-3s)**
+> "We offer a wide range of services" means you are not sure.
+
+**On-screen beats**
+- A stranger reads it as not for me
+- It is a list, not a promise
+- Pick one
+- Then add the second
+
+**Voiceover script**
+> We offer a wide range of services means you are not sure what you are. A stranger reads that and hears not for me. It is a list, not a promise. Pick the one service that pays your rent, lead with it for a month, then add the second one.
+
+**Caption**
+> "Wide range" is a shrug with extra words.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. "Wide range of services"
+2. = not sure what you are
+3. = not for me
+
+**Caption**
+> Lead with the one that pays rent. Add the rest later.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> 'We offer a wide range of services tailored to your needs.'
+> 
+> That sentence means the business is not sure what it is, and a stranger reads it as 'not for me'.
+> 
+> It is a list, not a promise.
+> 
+> Pick the one service that pays your rent. Lead with it for a month. Then add the second one once people know you for the first.
+> 
+> What would you lead with if you had to choose one?
+
+
+---
+
+
+## Post 05 · One sentence doubled the enquiries
+
+**Type:** Entertain · **Why it works:** The before and after makes the lesson impossible to dismiss.
+
+### TikTok · 15:00 · Talking head, 31s
+
+**Hook (0-3s)**
+> A man described his business in one sentence and his enquiries doubled.
+
+**On-screen beats**
+- He had been hiding it in paragraph four
+- We moved it to the top
+- Nothing else changed
+- Same site, same photos
+
+**Voiceover script**
+> A man described his business in one sentence and his enquiries doubled. The sentence already existed on his site, in paragraph four, under a photo. We moved it to the top, made it bigger, and changed nothing else. Same site, same photos, same price. It had been there the whole time, in the wrong place.
+
+**Caption**
+> The sentence already existed. It was just in paragraph four.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · Reel + caption
+
+**Script slides**
+1. The sentence existed
+2. It was in paragraph four
+3. We moved it to the top
+4. Nothing else changed
+
+**Caption**
+> Most businesses do not need new words. They need the right words moved up.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A man described his business in one sentence and his enquiries doubled.
+> 
+> The sentence already existed. It was on his site, in paragraph four, under a photo of the team.
+> 
+> We moved it to the top, made it bigger, and changed nothing else. Same site, same photos, same prices.
+> 
+> It had been there the whole time, in the wrong place.
+> 
+> Go and read your own paragraph four. Is that your headline?
+
+
+---
+
+
+## Post 06 · One product, one price, one next step
+
+**Type:** Teach · **Why it works:** A starting point for businesses with nine products and no focus.
+
+### TikTok · 16:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> If your page has nine products, pick one and hide the other eight.
+
+**On-screen beats**
+- For thirty days
+- One product, one price
+- One button
+- Then introduce the second
+
+**Voiceover script**
+> If your page has nine products, pick one and put the other eight below it. For thirty days, one product, one price, one button at the top. You are not deleting anything, you are choosing an order. The other eight are still there for people who scroll, and most of your new customers will not scroll.
+
+**Caption**
+> You are not deleting the other eight. You are choosing what a stranger sees first.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 5-slide carousel
+
+**Slide copy**
+1. Nine products
+2. Pick one
+3. One price, one button
+4. The rest below
+5. Thirty days
+
+**Caption**
+> Order is a decision. Most pages never make one.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> If your page has nine products, a stranger cannot pick one, so they pick none.
+> 
+> For thirty days, put one product at the top. One price. One button. Everything else sits below it.
+> 
+> You are not deleting anything. You are choosing an order, and order is the decision most pages never make.
+> 
+> Which one would you put at the top?
+
+
+---
+
+
+## Post 07 · Your name says nothing
+
+**Type:** Entertain · **Why it works:** Reassurance plus a rule, which is the most saveable combination.
+
+### TikTok · 18:00 · Kinetic type, 13s
+
+**Hook (0-3s)**
+> Your business name does not say what you do. That is fine.
+
+**On-screen beats**
+- Most do not
+- The first line has to
+- Six words
+- Then it works
+
+**Voiceover script**
+> Your business name does not say what you do, and that is fine, because most do not. What has to say it is the first line under the name. Six words. Then the name works, because it is being explained by the only thing a stranger reads first.
+
+**Caption**
+> Names are for memory. The first line is for understanding.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. The name doesn't explain
+2. The first line must
+3. Six words is enough
+
+**Caption**
+> Nobody needs a new name. They need one line under it.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> Your business name does not say what you do, and that is fine — most do not.
+> 
+> What has to say it is the first line underneath. Six words.
+> 
+> 'Bread, baked at 6am, Agege.' 'Ankara tailoring, ready in five days.'
+> 
+> Then the name works, because it is being explained by the only thing a stranger actually reads.
+> 
+> What is your six words?
+
+
+---
+
+
+## Post 08 · I read them the homepage only
+
+**Type:** Entertain · **Why it works:** The failure is measured in public, which makes it undeniable.
+
+### TikTok · 19:00 · Street interview, 30s
+
+**Hook (0-3s)**
+> I read people a homepage and asked what the business sells.
+
+**On-screen beats**
+- Two out of ten got it right
+- Three guessed a different business
+- Five said they did not know
+- That is the whole audit
+
+**Voiceover script**
+> I read ten people a homepage and asked what the business sells. Two got it right. Three guessed a completely different kind of business. Five said they did not know, and one asked whether it was a school. The owner had spent money on that page and this is the result. It is not a design problem. The page never says the thing.
+
+**Caption**
+> Ten strangers. Two correct answers. That is your conversion rate, before anyone clicks.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. 10 people
+2. 2 correct
+3. 3 guessed wrong
+4. 5 did not know
+
+**Caption**
+> Read your homepage to ten strangers. You will learn more than any analytics tool will tell you.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I read ten people a homepage and asked what the business sells.
+> 
+> Two got it right. Three guessed a completely different type of business. Five said they did not know, and one asked if it was a school.
+> 
+> The owner had paid money for that page.
+> 
+> It is not a design problem. The page never says the thing. Read yours to ten people this week — not friends, strangers — and count the correct answers.
+> 
+> What do you think yours would score?
+
+
+---
+
+
+## Post 09 · For the first screen only
+
+**Type:** Sell · **Why it works:** Scoping the pack down makes it easier to say yes to.
+
+### TikTok · 20:00 · Overhead shot, 27s
+
+**Hook (0-3s)**
+> This pack fixes one thing: the first screen.
+
+**On-screen beats**
+- Not your whole site
+- Not your logo
+- First screen: what, who, next
+- One evening
+
+**Voiceover script**
+> This pack fixes one thing, and it is the first screen. Not your whole website, not your logo, not your traffic. What you say, who it is for, and what the button does. One evening of writing, no design skills needed. If your problem is somewhere else, do not buy it.
+
+**Caption**
+> First screen only. ₦5,000, one evening. Message CLEAR on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. One screen
+2. What you sell
+3. Who it is for
+4. What to do next
+5. ₦5,000 · CLEAR
+
+**Caption**
+> Not your whole site. The first screen, which is where most sales are lost.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> This pack fixes exactly one thing: the first screen of your homepage.
+> 
+> Not your whole site. Not your logo. Not your traffic.
+> 
+> What you say, who it is for, and what the button does. One evening of writing. No design skills needed.
+> 
+> ₦5,000. Message CLEAR on WhatsApp: 0905 069 0837.
+> 
+> If your problem is traffic, hosting or speed, this is not the pack for you, and I would rather tell you now.
+> 
+> Which one is actually your problem?
+
+
+---
+
+
+## Post 10 · The site with no prices at all
+
+**Type:** Entertain · **Why it works:** A testable claim, which is rarer and more persuasive than an opinion.
+
+### TikTok · 20:45 · Talking head, 47s
+
+**Hook (0-3s)**
+> A client wanted a website with no prices anywhere.
+
+**On-screen beats**
+- He was sure it looked expensive
+- We built one page with prices first
+- Then the rest as he wanted
+- The priced page won
+
+**Voiceover script**
+> A client wanted a website with no prices anywhere, because he was sure prices made him look cheap. So we built one extra page, with prices on it, and kept all the others clean. Three weeks in, the page with prices had four times the enquiries. He did not change his mind about how it looked. The customers did.
+
+**Caption**
+> He did not want prices on his site. So we tested it on one page instead of arguing.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · Reel + caption
+
+**Script slides**
+1. "No prices anywhere"
+2. We built one page with them
+3. Three weeks later
+4. That page had 4x the enquiries
+
+**Caption**
+> Argue with a client and you get one unhappy client. Test it and you get an answer.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> A client wanted his new website to have no prices anywhere, because he was sure that prices made a business look cheap.
+> 
+> Instead of arguing, we built one extra page with prices on it and left the rest of the site exactly as he wanted.
+> 
+> Three weeks later, the priced page had roughly four times the enquiries of the rest combined.
+> 
+> He did not change his mind about how it looked. His customers did.
+> 
+> When you disagree with a client, do you argue or do you test?
+
+
+---
+
+
+## Post 11 · Read it out loud
+
+**Type:** Teach · **Why it works:** A free test that surfaces every problem in ninety seconds.
+
+### TikTok · 21:30 · Kinetic type, 18s
+
+**Hook (0-3s)**
+> Read your homepage out loud to someone who does not know you.
+
+**On-screen beats**
+- Do not explain
+- Just read it
+- Watch their face
+- That is the audit
+
+**Voiceover script**
+> Read your homepage out loud to someone who does not know your business. Do not explain, do not add anything, just read it. Watch their face at the point where they stop following. That is the sentence to fix, and it is almost never the one you were worried about.
+
+**Caption**
+> Watch their face, not their words. The polite ones will lie.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 3-slide carousel
+
+**Slide copy**
+1. Read it out loud
+2. Do not explain
+3. Watch the face
+
+**Caption**
+> Ten people, one page. You are looking for the sentence where the face changes.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Read your homepage out loud to someone who does not know your business.
+> 
+> Do not explain anything. Do not add context. Just read it and watch their face.
+> 
+> There will be a point where they stop following. That is the sentence to fix, and it is almost never the one you were worried about.
+> 
+> Politeness will fool you if you ask them what they think. Faces do not lie.
+> 
+> Who could you read yours to this week?
 
 
 ---
