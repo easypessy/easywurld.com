@@ -1,0 +1,738 @@
+[
+  {
+    "day": 15,
+    "label": "Day 15 · Sunday",
+    "theme": "Fix this Lagos",
+    "offer": "REVIEW",
+    "posts": [
+      {
+        "id": "D15-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "Bread out at 6am, Agege",
+        "why": "A local detail so specific it proves the account is real.",
+        "tiktok": {
+          "fmt": "Screen recording, 24s",
+          "hook": "This bakery's whole website could be one sentence: bread out of the oven at six, Agege.",
+          "beats": [
+            "Instead it says quality and excellence",
+            "Four paragraphs",
+            "The real headline was free",
+            "One line wins"
+          ],
+          "vo": "This bakery has four paragraphs about quality and tradition, and the actual reason anyone goes there is bread out of the oven at six in the morning, in Agege. That is a headline. It tells you what it is, where it is, and why it is different, in eleven words. The paragraph cost them money. The line would have made them some.",
+          "cap": "Bread out of the oven at 6am, Agege. That is the whole headline."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "What the site says: quality",
+            "What it should say: bread at 6am",
+            "Where: Agege",
+            "Eleven words"
+          ],
+          "cap": "Your best sentence is the one you think is too obvious to write down."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A bakery I looked at this week had four paragraphs about quality and tradition.\n\nThe actual reason anyone goes there: bread out of the oven at six in the morning, in Agege.\n\nThat is a headline. What it is, where it is, why it is different — in eleven words.\n\nThe paragraphs cost them money. The line would have made them some.\n\nWhat is the too-obvious sentence about your business?"
+        }
+      },
+      {
+        "id": "D15-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "One sentence away",
+        "why": "The thesis of the whole week in one line.",
+        "tiktok": {
+          "fmt": "Kinetic type, 15s",
+          "hook": "Every Lagos business is one sentence away from being understood.",
+          "beats": [
+            "Never the sentence they chose",
+            "Always the plain one",
+            "Twelve words",
+            "Then everything else works"
+          ],
+          "vo": "Every Lagos business is one sentence away from being understood, and it is never the sentence they chose. It is never the one about excellence or the vision. It is the plain one: we fix generators in Surulere, same day. Twelve words, and then the phone rings, because the customer finally knows what you are.",
+          "cap": "\"We fix generators in Surulere, same day.\" Twelve words. Then the phone rings."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Not the vision",
+            "Not the excellence",
+            "The plain sentence"
+          ],
+          "cap": "One sentence away. Always the plain one."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Every Lagos business is one sentence away from being understood.\n\nAnd it is never the sentence they chose. It is never the one about excellence or the vision. It is the plain one: 'We fix generators in Surulere, same day.'\n\nTwelve words. Then the phone rings, because the customer finally knows what you are.\n\nWhat is your twelve words?"
+        }
+      },
+      {
+        "id": "D15-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Rewrite a competitor in three lines",
+        "why": "Doing it on someone else's page removes the ego from the exercise.",
+        "tiktok": {
+          "fmt": "Kinetic type, 23s",
+          "hook": "Rewrite a competitor's homepage in three lines, then do yours in ten minutes.",
+          "beats": [
+            "What they sell",
+            "Who for",
+            "What to do",
+            "That is the whole exercise"
+          ],
+          "vo": "Find a competitor's homepage and rewrite it in three lines. What they sell, who it is for, what to do next. It takes four minutes because you do not care about being clever. Then do yours, and notice how much harder it is, because now your ego is involved. The exercise is easier on someone else for exactly that reason.",
+          "cap": "Three lines: what, who, next. Do a competitor first. Yours is harder."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Pick a competitor",
+            "Line 1: what they sell",
+            "Line 2: who for",
+            "Line 3: what to do"
+          ],
+          "cap": "Yours will be harder. That is the point of practising on theirs."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Exercise for tonight, and it takes ten minutes.\n\nFind a competitor's homepage. Rewrite it in three lines: what they sell, who it is for, what to do next.\n\nIt is easy, because you do not care about being clever about their business.\n\nThen do yours. Notice how much harder it is, because now your ego is involved.\n\nThat difficulty is the whole reason your homepage reads the way it does."
+        }
+      },
+      {
+        "id": "D15-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "A clarity problem and a marketing budget",
+        "why": "Reframes spending as a symptom.",
+        "tiktok": {
+          "fmt": "Talking head, 20s",
+          "hook": "Lagos businesses do not have a marketing problem. They have a clarity problem and a marketing budget.",
+          "beats": [
+            "The budget is the symptom",
+            "Not the cure",
+            "Spending on an unclear page",
+            "Buys more people who leave"
+          ],
+          "vo": "Lagos businesses do not have a marketing problem, they have a clarity problem and a marketing budget. The budget is the symptom, not the cure. Spending money to send more people to a page that does not explain what you do does not double your business, it doubles the number of people who leave confused, and it does it faster.",
+          "cap": "More traffic to an unclear page is a more expensive version of the same problem."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Not a marketing problem",
+            "A clarity problem",
+            "With a marketing budget"
+          ],
+          "cap": "The budget is the symptom. Not the cure."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Lagos businesses do not have a marketing problem. They have a clarity problem and a marketing budget.\n\nThe budget is the symptom, not the cure.\n\nSpending money to send more people to a page that does not explain what you do does not double your business. It doubles the number of people who leave confused, faster.\n\nFix the sentence first. Then spend.\n\nWhich one have you been doing?"
+        }
+      },
+      {
+        "id": "D15-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "A trader outsold a shop with a sign",
+        "why": "Local, humble, and makes the point without a website at all.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "A market trader outsold a shop with a sign, and she had no sign at all.",
+          "beats": [
+            "The shop had a sign",
+            "The trader had a price",
+            "She said it before anyone asked",
+            "That was the whole advantage"
+          ],
+          "vo": "A market trader outsold a shop that had a sign, a glass front and a generator. She had a table and a voice, and she said the price before anybody asked. That is it. The shop made people come in to find out, and most people will not come in to find out. She removed the question and got the sale.",
+          "cap": "She said the price before anyone asked. The shop with the sign did not."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "Shop: sign, glass, generator",
+            "Trader: table and a voice",
+            "She said the price first",
+            "She sold more"
+          ],
+          "cap": "Removing the question beats decorating the answer."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A market trader outsold a shop with a sign, a glass front and a generator.\n\nShe had a table and a voice, and she said the price before anybody asked.\n\nThat is it. The shop made people come in to find out. Most people will not come in to find out.\n\nShe removed the question. That was the whole advantage.\n\nWhere are you making people ask?"
+        }
+      },
+      {
+        "id": "D15-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The one-sentence description",
+        "why": "A fill-in-the-blank tool is the most shareable format there is.",
+        "tiktok": {
+          "fmt": "Kinetic type, 24s",
+          "hook": "One sentence: we do this, for who, so they can do that.",
+          "beats": [
+            "Fill it in",
+            "Say it out loud",
+            "If it is long",
+            "It is two sentences"
+          ],
+          "vo": "The sentence is: we do this, for these people, so they can do that. We build one page websites for Lagos small businesses so they can stop explaining themselves in every chat. Fill it in for your business, say it out loud, and if it takes more than one breath, you have written two sentences and you need to pick the better one.",
+          "cap": "We [do this] for [who] so they can [result]. One breath or it is two sentences."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "We [do this]",
+            "for [who]",
+            "so they can [result]",
+            "One breath"
+          ],
+          "cap": "Screenshot this and fill it in with a pen. Not a keyboard."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The one-sentence description:\n\n'We [do this] for [who] so they can [result].'\n\nExample: 'We build one-page websites for Lagos small businesses so they can stop explaining themselves in every chat.'\n\nFill it in. Say it out loud. If it takes more than one breath, you have written two sentences and you need to pick the better one.\n\nWhat is yours? Put it in the comments."
+        }
+      },
+      {
+        "id": "D15-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "A beautiful shop, an empty listing",
+        "why": "Points at free money most owners have never claimed.",
+        "tiktok": {
+          "fmt": "Screen recording, 17s",
+          "hook": "Your shop is beautiful. Your Google listing is empty. That is where the search happens.",
+          "beats": [
+            "No photos",
+            "No hours",
+            "No category",
+            "And it is free to fix"
+          ],
+          "vo": "Your shop is beautiful and your Google listing is empty: no photos, no hours, no category, sometimes the wrong phone number. When someone searches for what you sell near them, that empty listing is what they see. It is free, it takes an hour, and most Lagos businesses have not done it, which is your opportunity.",
+          "cap": "Your shop looks better than your listing. Most people only ever see the listing."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "The shop: beautiful",
+            "The listing: empty",
+            "Most people see the listing"
+          ],
+          "cap": "Free to fix. One hour. Most businesses have not."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Your shop is beautiful. Your Google listing is empty.\n\nNo photos. No hours. No category. Sometimes the wrong phone number.\n\nWhen someone searches for what you sell near them, that empty listing is what they see. Which is most of your customers, most of the time.\n\nIt is free to fix and it takes about an hour.\n\nHave you looked at yours lately?"
+        }
+      },
+      {
+        "id": "D15-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "Describe this business from its sign",
+        "why": "The failure rate is the content.",
+        "tiktok": {
+          "fmt": "Street interview, 27s",
+          "hook": "I showed people a shop sign and asked them what the business sells.",
+          "beats": [
+            "Most got the product",
+            "Almost none knew the price",
+            "Nobody knew who it was for",
+            "The sign is not the message"
+          ],
+          "vo": "I showed people a shop sign and asked what the business sells. Most could name a product. Almost nobody could tell me the price or who it was for. Which means the sign did half its job, and half is exactly what you would expect, because the sign says what the shop is called, not what it does for you.",
+          "cap": "Most named a product. None knew the price. The sign did half its job."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "Shown: a shop sign",
+            "Named a product: most",
+            "Knew the price: almost none",
+            "Knew who it was for: nobody"
+          ],
+          "cap": "A sign says who you are. It rarely says what you do for anyone."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I showed people a shop sign and asked what the business sells.\n\nMost could name a product. Almost nobody could tell me the price. Nobody could tell me who it was for.\n\nThe sign did half its job — and half is exactly what you would expect, because a sign says what the shop is called, not what it does for you.\n\nWhat does your sign actually say?"
+        }
+      },
+      {
+        "id": "D15-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "Free review, three points, 24 hours",
+        "why": "The week's reach engine and the softest possible ask.",
+        "tiktok": {
+          "fmt": "Overhead shot, 22s",
+          "hook": "Send your link and I will send three points in twenty-four hours. No charge, no call, no pitch.",
+          "beats": [
+            "Three points",
+            "On your homepage",
+            "In one day",
+            "Then you decide"
+          ],
+          "vo": "Send your link and within twenty four hours I will send you three points about your homepage. No charge, no call, no pitch at the end, and no obligation to reply. Three specific things, in writing, that you can act on yourself. I am doing this all week because it is the fastest way to show what I do without describing it.",
+          "cap": "Free, three points, 24 hours, no pitch. Send the link on WhatsApp: 0905 069 0837."
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": [
+            "Send your link",
+            "3 points",
+            "Within 24 hours",
+            "No charge",
+            "No pitch"
+          ],
+          "cap": "The fastest way to show what you do is to do it once for free, in public."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Send me your link and within 24 hours I will send you three points about your homepage.\n\nNo charge. No call. No pitch at the end. No obligation to reply.\n\nThree specific things, in writing, that you can fix yourself.\n\nI am doing this all week, because it is the fastest way to show what I do without describing it.\n\nSend the link on WhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D15-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "Told a business to stop advertising",
+        "why": "Advice against our own interest is the strongest trust signal available.",
+        "tiktok": {
+          "fmt": "Talking head, 32s",
+          "hook": "We told a business to stop advertising. Their replies were the leak, not their reach.",
+          "beats": [
+            "They were spending",
+            "Getting messages",
+            "Losing them at hello",
+            "So the spend was making the leak worse"
+          ],
+          "vo": "We told a business to stop advertising for a month. They were spending every week, getting messages, and losing almost all of them in the first reply, because the first reply took two days. More reach made it worse, because more people arrived to be ignored. We fixed the reply, then they started advertising again, and it worked, which is why I am telling you to stop.",
+          "cap": "Advertising into a slow reply is paying to be ignored at scale."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "They were spending",
+            "Messages were arriving",
+            "Replies took 2 days",
+            "We said stop"
+          ],
+          "cap": "Fix the leak before you buy more water.",
+          "body": "Advertising into a two-day reply time is paying to be ignored at scale. Fix the leak before you buy more water."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "We told a business to stop advertising for a month.\n\nThey were spending every week and getting messages — and losing almost all of them on the first reply, which took two days.\n\nMore reach made it worse. More people arrived to be ignored.\n\nWe fixed the reply. Then they advertised again and it worked. That is why I am telling you to stop.\n\nWhere is your leak?"
+        }
+      },
+      {
+        "id": "D15-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Claim your Google Business Profile tonight",
+        "why": "A single free action with compounding returns.",
+        "tiktok": {
+          "fmt": "Kinetic type, 23s",
+          "hook": "Claim your Google Business Profile tonight. It is free and most Lagos businesses have not.",
+          "beats": [
+            "Search your business name",
+            "Claim it",
+            "Add photos and hours",
+            "Then ask five customers"
+          ],
+          "vo": "Claim your Google Business Profile tonight. Search your business name, find the listing, and claim it. Then add photos, hours, your area, and your phone number. It is free, it takes about an hour, and most Lagos businesses have not done it, which means the person who does it this week is the one who shows up when somebody searches.",
+          "cap": "Free, one hour, and most of your competitors have not done it. Tonight."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "Search your name",
+            "Claim the listing",
+            "Add photos",
+            "Add hours + phone",
+            "Then a review"
+          ],
+          "cap": "One hour tonight. Free. Do it before your competitor reads this."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Claim your Google Business Profile tonight.\n\n1. Search your business name.\n2. Find the listing.\n3. Claim it.\n4. Add photos, hours, your area, your phone number.\n\nFree. About an hour. Most Lagos businesses have not done it, which means whoever does it this week is the one who shows up when somebody searches.\n\nReply here when yours is done."
+        }
+      }
+    ]
+  },
+  {
+    "day": 16,
+    "label": "Day 16 · Monday",
+    "theme": "Fix this Lagos",
+    "offer": "LOCAL",
+    "posts": [
+      {
+        "id": "D16-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "Invisible on the map",
+        "why": "Distance makes the loss concrete and ridiculous.",
+        "tiktok": {
+          "fmt": "Screen recording, 25s",
+          "hook": "This restaurant is four hundred metres from a busy junction and invisible on Google Maps.",
+          "beats": [
+            "No pin",
+            "Or the wrong pin",
+            "Four hundred metres",
+            "Nobody can find a business they cannot see"
+          ],
+          "vo": "This restaurant is four hundred metres from one of the busiest junctions in Lagos and it is invisible on Google Maps. No pin, or worse, a pin in the wrong place, which sends people to a street with nothing on it. Four hundred metres is nothing in a car and everything in a search result, because nobody walks a neighbourhood looking for something the map does not admit exists.",
+          "cap": "400 metres from a busy junction. Not on the map. Effectively not open."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "400m from a junction",
+            "No pin on the map",
+            "Or the wrong pin",
+            "Invisible to everyone searching"
+          ],
+          "cap": "Check your pin. Some are in the wrong street entirely."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A restaurant I looked at is 400 metres from one of the busiest junctions in Lagos and is invisible on Google Maps.\n\nNo pin, or worse, a pin in the wrong place sending people to a street with nothing on it.\n\nFour hundred metres is nothing in a car and everything in a search result, because nobody walks a neighbourhood looking for something the map does not admit exists.\n\nIs your pin in the right place?"
+        }
+      },
+      {
+        "id": "D16-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "\"Near me\"",
+        "why": "Names the exact words customers type.",
+        "tiktok": {
+          "fmt": "Kinetic type, 15s",
+          "hook": "\"Near me\" is how your customer searches. You are not in that answer.",
+          "beats": [
+            "Two words",
+            "The default search",
+            "If you are not there",
+            "You do not exist"
+          ],
+          "vo": "Near me is how your customer searches, and it is two words they do not think about. If your business is not in that answer, you are not competing badly, you are absent. Being absent is cheaper to fix than being bad, which is the only good news in this video.",
+          "cap": "Two words: near me. If you are not in the answer, you are not in the market."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "\"near me\"",
+            "= the default search",
+            "Not there = not in the market"
+          ],
+          "cap": "Absence is cheaper to fix than being bad at it."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "'Near me' is how your customer searches. Two words, and they do not think about them.\n\nIf your business is not in that answer, you are not competing badly. You are absent.\n\nBeing absent is cheaper to fix than being bad, which is the only good news in this post.\n\nSearch your own category with 'near me' right now. Are you there?"
+        }
+      },
+      {
+        "id": "D16-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Put your area in your bio",
+        "why": "A one-word edit anyone can do in a minute.",
+        "tiktok": {
+          "fmt": "Kinetic type, 20s",
+          "hook": "Put your area in your bio and every caption. \"Lekki\" is a keyword, not a detail.",
+          "beats": [
+            "Not decoration",
+            "It is how search works",
+            "One word",
+            "In every post"
+          ],
+          "vo": "Put your area in your bio and in your captions. Lekki is not a detail, it is a keyword, and it is the word somebody types when they want what you sell without crossing the bridge. One word in every post costs you nothing and puts you in a search you are currently not in.",
+          "cap": "Lekki is a keyword, not a detail. Put it in the bio and the caption."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Bio: add your area",
+            "Caption: add your area",
+            "It is a keyword"
+          ],
+          "cap": "One word, every post. Costs nothing, appears in search."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Put your area in your bio and in your captions.\n\n'Lekki' is not a detail. It is a keyword — the exact word somebody types when they want what you sell without crossing the bridge.\n\nOne word in every post costs you nothing, and puts you in a search you are currently absent from.\n\nWhich area should you be claiming?"
+        }
+      },
+      {
+        "id": "D16-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "Foreign SEO advice",
+        "why": "Saves the audience money, which is the most persuasive thing content can do.",
+        "tiktok": {
+          "fmt": "Talking head, 22s",
+          "hook": "Most foreign SEO advice will waste your first hundred thousand naira.",
+          "beats": [
+            "Written for different maps",
+            "Different search behaviour",
+            "You need a pin and a sentence",
+            "Not a strategy deck"
+          ],
+          "vo": "Most foreign SEO advice will waste your first hundred thousand naira. It is written for places with reliable addresses, dense review cultures, and people who search in English with a postcode. Here you need a pin in the right place, a category, hours, and your area in the caption. That is not less sophisticated, it is more accurate.",
+          "cap": "You do not need a strategy deck. You need a pin, a category, and your area in the caption."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Foreign playbook",
+            "Different maps",
+            "You need: pin, category, area"
+          ],
+          "cap": "Local intent is a different game with simpler rules."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Most foreign SEO advice will waste your first ₦100,000.\n\nIt is written for places with reliable addresses, dense review cultures and people who search with a postcode.\n\nHere you need: a pin in the right place, the right category, your hours, and your area in the caption.\n\nThat is not less sophisticated. It is more accurate.\n\nWhat have you paid for that did not fit?"
+        }
+      },
+      {
+        "id": "D16-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "Six walk-ins from one pin",
+        "why": "A small, believable number beats a large, invented one.",
+        "tiktok": {
+          "fmt": "Talking head, 28s",
+          "hook": "A laundry got six walk-ins from one map pin. It took eleven minutes.",
+          "beats": [
+            "Six people",
+            "In one week",
+            "All said they found it on the map",
+            "Eleven minutes of work"
+          ],
+          "vo": "A laundry got six walk-ins in one week from a map pin. Six people walked in and said they found it on the map. Setting that up took eleven minutes: pin in the right place, hours, a photo of the shopfront, and a phone number. Eleven minutes produced six customers who did not previously exist, and nobody had to be persuaded of anything.",
+          "cap": "Eleven minutes of setup. Six walk-ins in a week. No advertising."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "One map pin",
+            "11 minutes of setup",
+            "6 walk-ins in a week",
+            "₦0 spent"
+          ],
+          "cap": "The cheapest customer acquisition in Lagos is a correct pin."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A laundry got six walk-ins in one week from a map pin.\n\nSix people walked in and said they found it on the map.\n\nSetting it up took eleven minutes: pin in the right place, opening hours, a photo of the shopfront, a phone number.\n\nEleven minutes produced six customers who did not previously exist, and nobody had to be persuaded of anything.\n\nIs your pin right?"
+        }
+      },
+      {
+        "id": "D16-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Ten photos, one a week",
+        "why": "A cadence, not a project, so it survives a busy month.",
+        "tiktok": {
+          "fmt": "Kinetic type, 21s",
+          "hook": "Take ten photos of your business and post one a week to your listing.",
+          "beats": [
+            "Ten photos",
+            "One a week",
+            "Photos beat descriptions",
+            "You already have them on your phone"
+          ],
+          "vo": "Take ten photos of your business today and post one a week to your Google listing. Not stock photos, your actual shop, your actual product, your actual staff at work. Photos outperform descriptions on every local search, because a photo is proof and a description is a claim. You already have the photos. You just have not put them where the searching happens.",
+          "cap": "Ten photos, one a week, on the listing. You already have them."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "10 photos today",
+            "1 per week",
+            "Photos are proof"
+          ],
+          "cap": "A photo is proof. A description is a claim."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Take ten photos of your business today. Post one a week to your Google listing.\n\nNot stock photos — your shop, your product, your staff at work.\n\nPhotos outperform descriptions in local search, because a photo is proof and a description is a claim.\n\nYou already have the photos on your phone. You just have not put them where the searching happens.\n\nWhich photo would you post first?"
+        }
+      },
+      {
+        "id": "D16-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "A closed business still ranks",
+        "why": "The fear of an out-of-date listing is a strong motivator.",
+        "tiktok": {
+          "fmt": "Kinetic type, 17s",
+          "hook": "A closed business still ranks on Google. Update your hours.",
+          "beats": [
+            "It says open",
+            "They drive there",
+            "It is shut",
+            "Now you are the shop that wasted their trip"
+          ],
+          "vo": "A closed business still ranks on Google, which is the cruel part. Your listing says you open at eight, so someone drives across the city, arrives, and finds a shutter. That is not a bad review, it is a story about you, told to everyone they know, and it came from a field you have not looked at since you filled it in.",
+          "cap": "One wrong hour turns a customer into a story about you."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Listing says: open 8am",
+            "Shutter is down",
+            "They drove there"
+          ],
+          "cap": "Update your hours. Especially before a public holiday."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A closed business still ranks on Google. That is the cruel part.\n\nYour listing says you open at eight. Someone drives across the city. The shutter is down.\n\nThat is not a bad review. It is a story they will tell everyone — and it came from a field you have not looked at since you filled it in.\n\nWhen did you last check your hours?"
+        }
+      },
+      {
+        "id": "D16-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "How did you find the last place you ate?",
+        "why": "The answer contradicts most owners' belief about Instagram.",
+        "tiktok": {
+          "fmt": "Street interview, 26s",
+          "hook": "I asked how people found the last place they ate. Google beat Instagram.",
+          "beats": [
+            "Not a food page",
+            "Google",
+            "Because they were already hungry",
+            "Then Instagram for the photos"
+          ],
+          "vo": "I asked people how they found the last place they ate. Most said Google, not Instagram, because they were already hungry and already out, and they needed somewhere close. Instagram came second, and it came after, to check the food looked good. Which means the map gets you the decision and the feed gets you the confidence.",
+          "cap": "\"Google\" beat \"Instagram\" on this street, and it was not close."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "How did you find it?",
+            "Google: most",
+            "Instagram: second",
+            "Feed builds confidence, map takes the order"
+          ],
+          "cap": "Search captures demand. Social creates it. You need both, in that order."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I asked people how they found the last place they ate.\n\nMost said Google, not Instagram — because they were already hungry and already out and needed somewhere close. Instagram came second, and it came after, to check the food looked good.\n\nThe map takes the decision. The feed builds the confidence.\n\nWhich one are you ignoring?"
+        }
+      },
+      {
+        "id": "D16-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "The Local Visibility Starter",
+        "why": "Naming who it is not for makes the sell credible.",
+        "tiktok": {
+          "fmt": "Overhead shot, 25s",
+          "hook": "The Local Visibility Starter is for one neighbourhood. If you ship nationwide, this is not it.",
+          "beats": [
+            "One area",
+            "Pin, listing, photos, captions",
+            "Nationwide? Different problem",
+            "Say so early"
+          ],
+          "vo": "The Local Visibility Starter is for businesses that want to be found in one neighbourhood. Your pin, your listing, your photos, your captions, all pointing at the same few streets. If you ship nationwide, this is the wrong product, because your problem is not proximity, it is trust at distance, and those need different work.",
+          "cap": "One neighbourhood. ₦5,000. If you ship nationwide, message me instead. LOCAL on WhatsApp: 0905 069 0837."
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": [
+            "For: one neighbourhood",
+            "Pin · listing · photos · captions",
+            "Not for: nationwide shipping",
+            "₦5,000 · LOCAL"
+          ],
+          "cap": "A product that names its own wrong customer is a product you can trust."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The Local Visibility Starter is for businesses that want to be found in one neighbourhood.\n\nYour pin. Your listing. Your photos. Your captions. All pointing at the same few streets.\n\nIf you ship nationwide, this is the wrong product. Your problem is not proximity, it is trust at distance, and those need different work.\n\n₦5,000. Message LOCAL on WhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D16-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "Ranking for \"Lagos food\"",
+        "why": "A strategy argument the audience can use immediately.",
+        "tiktok": {
+          "fmt": "Talking head, 29s",
+          "hook": "A client wanted to rank for \"Lagos food\". We said pick one area and own it first.",
+          "beats": [
+            "Lagos is a country",
+            "Competing with everybody",
+            "One area is winnable",
+            "Then the next"
+          ],
+          "vo": "A client wanted to rank for the words Lagos food. We said no, pick one area first. Lagos is not a market, it is a country, and competing for all of it means spending against everybody with a bigger budget. One area, one set of streets, one neighbourhood you can actually be the best in, and then the next one. That is slower and it is the only version that works.",
+          "cap": "Lagos is not a market. It is a country. Own one street first."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "\"Rank for Lagos food\"",
+            "Lagos = a country",
+            "Own one area first"
+          ],
+          "cap": "Win a street, then a neighbourhood, then a city. In that order."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A client wanted to rank for 'Lagos food'.\n\nWe said pick one area and own it first.\n\nLagos is not a market. It is a country. Competing for all of it means spending against everyone with a bigger budget than you.\n\nOne area, one set of streets, one neighbourhood you can genuinely be the best in. Then the next one.\n\nSlower. Also the only version that works."
+        }
+      },
+      {
+        "id": "D16-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Ask five customers how they found you",
+        "why": "Turns guesswork into a measured channel in one afternoon.",
+        "tiktok": {
+          "fmt": "Kinetic type, 22s",
+          "hook": "Ask five customers how they found you. Write the answers down. That is your channel.",
+          "beats": [
+            "Five people",
+            "One question",
+            "Write it down",
+            "Then stop guessing"
+          ],
+          "vo": "Ask five customers how they found you, and write the answers down. Not what you hope, what they say. Five answers will tell you more than any dashboard, because most small businesses are getting customers from one place they do not know about and spending money in another. Then put the money where the answers are.",
+          "cap": "Five questions. One page. Then move the money."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Ask 5 customers",
+            "\"How did you find us?\"",
+            "Write it down",
+            "Move the money"
+          ],
+          "cap": "Five answers beat any dashboard you have ever looked at."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Ask five customers how they found you. Write the answers down.\n\nNot what you hope. What they actually say.\n\nFive answers will tell you more than any dashboard, because most small businesses get customers from one place they do not know about and spend money in another.\n\nThen move the money to where the answers are.\n\nWill you do this tomorrow?"
+        }
+      }
+    ]
+  }
+]

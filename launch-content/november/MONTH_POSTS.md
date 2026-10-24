@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Saturday 14 November 2026** |
+| Ends | **Monday 16 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **462 posts** (154 core ideas x 3 platforms) |
+| Month total | **528 posts** (176 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -8666,6 +8666,1230 @@ writing on the spot.
 > The only catch is that I will say what is actually wrong with it — kindly, but plainly, in public.
 > 
 > Who should I start with?
+
+
+---
+
+
+# Day 15 · Sunday · Sunday 15 Nov 2026 — Fix this Lagos
+
+**Offer in focus:** REVIEW
+
+---
+
+
+## Post 01 · Bread out at 6am, Agege
+
+**Type:** Entertain · **Why it works:** A local detail so specific it proves the account is real.
+
+### TikTok · 07:00 · Screen recording, 24s
+
+**Hook (0-3s)**
+> This bakery's whole website could be one sentence: bread out of the oven at six, Agege.
+
+**On-screen beats**
+- Instead it says quality and excellence
+- Four paragraphs
+- The real headline was free
+- One line wins
+
+**Voiceover script**
+> This bakery has four paragraphs about quality and tradition, and the actual reason anyone goes there is bread out of the oven at six in the morning, in Agege. That is a headline. It tells you what it is, where it is, and why it is different, in eleven words. The paragraph cost them money. The line would have made them some.
+
+**Caption**
+> Bread out of the oven at 6am, Agege. That is the whole headline.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. What the site says: quality
+2. What it should say: bread at 6am
+3. Where: Agege
+4. Eleven words
+
+**Caption**
+> Your best sentence is the one you think is too obvious to write down.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A bakery I looked at this week had four paragraphs about quality and tradition.
+> 
+> The actual reason anyone goes there: bread out of the oven at six in the morning, in Agege.
+> 
+> That is a headline. What it is, where it is, why it is different — in eleven words.
+> 
+> The paragraphs cost them money. The line would have made them some.
+> 
+> What is the too-obvious sentence about your business?
+
+
+---
+
+
+## Post 02 · One sentence away
+
+**Type:** Entertain · **Why it works:** The thesis of the whole week in one line.
+
+### TikTok · 09:15 · Kinetic type, 15s
+
+**Hook (0-3s)**
+> Every Lagos business is one sentence away from being understood.
+
+**On-screen beats**
+- Never the sentence they chose
+- Always the plain one
+- Twelve words
+- Then everything else works
+
+**Voiceover script**
+> Every Lagos business is one sentence away from being understood, and it is never the sentence they chose. It is never the one about excellence or the vision. It is the plain one: we fix generators in Surulere, same day. Twelve words, and then the phone rings, because the customer finally knows what you are.
+
+**Caption**
+> "We fix generators in Surulere, same day." Twelve words. Then the phone rings.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. Not the vision
+2. Not the excellence
+3. The plain sentence
+
+**Caption**
+> One sentence away. Always the plain one.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> Every Lagos business is one sentence away from being understood.
+> 
+> And it is never the sentence they chose. It is never the one about excellence or the vision. It is the plain one: 'We fix generators in Surulere, same day.'
+> 
+> Twelve words. Then the phone rings, because the customer finally knows what you are.
+> 
+> What is your twelve words?
+
+
+---
+
+
+## Post 03 · Rewrite a competitor in three lines
+
+**Type:** Teach · **Why it works:** Doing it on someone else's page removes the ego from the exercise.
+
+### TikTok · 11:30 · Kinetic type, 23s
+
+**Hook (0-3s)**
+> Rewrite a competitor's homepage in three lines, then do yours in ten minutes.
+
+**On-screen beats**
+- What they sell
+- Who for
+- What to do
+- That is the whole exercise
+
+**Voiceover script**
+> Find a competitor's homepage and rewrite it in three lines. What they sell, who it is for, what to do next. It takes four minutes because you do not care about being clever. Then do yours, and notice how much harder it is, because now your ego is involved. The exercise is easier on someone else for exactly that reason.
+
+**Caption**
+> Three lines: what, who, next. Do a competitor first. Yours is harder.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 4-slide carousel
+
+**Slide copy**
+1. Pick a competitor
+2. Line 1: what they sell
+3. Line 2: who for
+4. Line 3: what to do
+
+**Caption**
+> Yours will be harder. That is the point of practising on theirs.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Exercise for tonight, and it takes ten minutes.
+> 
+> Find a competitor's homepage. Rewrite it in three lines: what they sell, who it is for, what to do next.
+> 
+> It is easy, because you do not care about being clever about their business.
+> 
+> Then do yours. Notice how much harder it is, because now your ego is involved.
+> 
+> That difficulty is the whole reason your homepage reads the way it does.
+
+
+---
+
+
+## Post 04 · A clarity problem and a marketing budget
+
+**Type:** Entertain · **Why it works:** Reframes spending as a symptom.
+
+### TikTok · 13:45 · Talking head, 20s
+
+**Hook (0-3s)**
+> Lagos businesses do not have a marketing problem. They have a clarity problem and a marketing budget.
+
+**On-screen beats**
+- The budget is the symptom
+- Not the cure
+- Spending on an unclear page
+- Buys more people who leave
+
+**Voiceover script**
+> Lagos businesses do not have a marketing problem, they have a clarity problem and a marketing budget. The budget is the symptom, not the cure. Spending money to send more people to a page that does not explain what you do does not double your business, it doubles the number of people who leave confused, and it does it faster.
+
+**Caption**
+> More traffic to an unclear page is a more expensive version of the same problem.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Not a marketing problem
+2. A clarity problem
+3. With a marketing budget
+
+**Caption**
+> The budget is the symptom. Not the cure.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Lagos businesses do not have a marketing problem. They have a clarity problem and a marketing budget.
+> 
+> The budget is the symptom, not the cure.
+> 
+> Spending money to send more people to a page that does not explain what you do does not double your business. It doubles the number of people who leave confused, faster.
+> 
+> Fix the sentence first. Then spend.
+> 
+> Which one have you been doing?
+
+
+---
+
+
+## Post 05 · A trader outsold a shop with a sign
+
+**Type:** Entertain · **Why it works:** Local, humble, and makes the point without a website at all.
+
+### TikTok · 15:00 · Talking head, 30s
+
+**Hook (0-3s)**
+> A market trader outsold a shop with a sign, and she had no sign at all.
+
+**On-screen beats**
+- The shop had a sign
+- The trader had a price
+- She said it before anyone asked
+- That was the whole advantage
+
+**Voiceover script**
+> A market trader outsold a shop that had a sign, a glass front and a generator. She had a table and a voice, and she said the price before anybody asked. That is it. The shop made people come in to find out, and most people will not come in to find out. She removed the question and got the sale.
+
+**Caption**
+> She said the price before anyone asked. The shop with the sign did not.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · Reel + caption
+
+**Script slides**
+1. Shop: sign, glass, generator
+2. Trader: table and a voice
+3. She said the price first
+4. She sold more
+
+**Caption**
+> Removing the question beats decorating the answer.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A market trader outsold a shop with a sign, a glass front and a generator.
+> 
+> She had a table and a voice, and she said the price before anybody asked.
+> 
+> That is it. The shop made people come in to find out. Most people will not come in to find out.
+> 
+> She removed the question. That was the whole advantage.
+> 
+> Where are you making people ask?
+
+
+---
+
+
+## Post 06 · The one-sentence description
+
+**Type:** Teach · **Why it works:** A fill-in-the-blank tool is the most shareable format there is.
+
+### TikTok · 16:30 · Kinetic type, 24s
+
+**Hook (0-3s)**
+> One sentence: we do this, for who, so they can do that.
+
+**On-screen beats**
+- Fill it in
+- Say it out loud
+- If it is long
+- It is two sentences
+
+**Voiceover script**
+> The sentence is: we do this, for these people, so they can do that. We build one page websites for Lagos small businesses so they can stop explaining themselves in every chat. Fill it in for your business, say it out loud, and if it takes more than one breath, you have written two sentences and you need to pick the better one.
+
+**Caption**
+> We [do this] for [who] so they can [result]. One breath or it is two sentences.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 4-slide carousel
+
+**Slide copy**
+1. We [do this]
+2. for [who]
+3. so they can [result]
+4. One breath
+
+**Caption**
+> Screenshot this and fill it in with a pen. Not a keyboard.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> The one-sentence description:
+> 
+> 'We [do this] for [who] so they can [result].'
+> 
+> Example: 'We build one-page websites for Lagos small businesses so they can stop explaining themselves in every chat.'
+> 
+> Fill it in. Say it out loud. If it takes more than one breath, you have written two sentences and you need to pick the better one.
+> 
+> What is yours? Put it in the comments.
+
+
+---
+
+
+## Post 07 · A beautiful shop, an empty listing
+
+**Type:** Entertain · **Why it works:** Points at free money most owners have never claimed.
+
+### TikTok · 18:00 · Screen recording, 17s
+
+**Hook (0-3s)**
+> Your shop is beautiful. Your Google listing is empty. That is where the search happens.
+
+**On-screen beats**
+- No photos
+- No hours
+- No category
+- And it is free to fix
+
+**Voiceover script**
+> Your shop is beautiful and your Google listing is empty: no photos, no hours, no category, sometimes the wrong phone number. When someone searches for what you sell near them, that empty listing is what they see. It is free, it takes an hour, and most Lagos businesses have not done it, which is your opportunity.
+
+**Caption**
+> Your shop looks better than your listing. Most people only ever see the listing.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. The shop: beautiful
+2. The listing: empty
+3. Most people see the listing
+
+**Caption**
+> Free to fix. One hour. Most businesses have not.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> Your shop is beautiful. Your Google listing is empty.
+> 
+> No photos. No hours. No category. Sometimes the wrong phone number.
+> 
+> When someone searches for what you sell near them, that empty listing is what they see. Which is most of your customers, most of the time.
+> 
+> It is free to fix and it takes about an hour.
+> 
+> Have you looked at yours lately?
+
+
+---
+
+
+## Post 08 · Describe this business from its sign
+
+**Type:** Entertain · **Why it works:** The failure rate is the content.
+
+### TikTok · 19:00 · Street interview, 27s
+
+**Hook (0-3s)**
+> I showed people a shop sign and asked them what the business sells.
+
+**On-screen beats**
+- Most got the product
+- Almost none knew the price
+- Nobody knew who it was for
+- The sign is not the message
+
+**Voiceover script**
+> I showed people a shop sign and asked what the business sells. Most could name a product. Almost nobody could tell me the price or who it was for. Which means the sign did half its job, and half is exactly what you would expect, because the sign says what the shop is called, not what it does for you.
+
+**Caption**
+> Most named a product. None knew the price. The sign did half its job.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. Shown: a shop sign
+2. Named a product: most
+3. Knew the price: almost none
+4. Knew who it was for: nobody
+
+**Caption**
+> A sign says who you are. It rarely says what you do for anyone.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I showed people a shop sign and asked what the business sells.
+> 
+> Most could name a product. Almost nobody could tell me the price. Nobody could tell me who it was for.
+> 
+> The sign did half its job — and half is exactly what you would expect, because a sign says what the shop is called, not what it does for you.
+> 
+> What does your sign actually say?
+
+
+---
+
+
+## Post 09 · Free review, three points, 24 hours
+
+**Type:** Sell · **Why it works:** The week's reach engine and the softest possible ask.
+
+### TikTok · 20:00 · Overhead shot, 22s
+
+**Hook (0-3s)**
+> Send your link and I will send three points in twenty-four hours. No charge, no call, no pitch.
+
+**On-screen beats**
+- Three points
+- On your homepage
+- In one day
+- Then you decide
+
+**Voiceover script**
+> Send your link and within twenty four hours I will send you three points about your homepage. No charge, no call, no pitch at the end, and no obligation to reply. Three specific things, in writing, that you can act on yourself. I am doing this all week because it is the fastest way to show what I do without describing it.
+
+**Caption**
+> Free, three points, 24 hours, no pitch. Send the link on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. Send your link
+2. 3 points
+3. Within 24 hours
+4. No charge
+5. No pitch
+
+**Caption**
+> The fastest way to show what you do is to do it once for free, in public.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> Send me your link and within 24 hours I will send you three points about your homepage.
+> 
+> No charge. No call. No pitch at the end. No obligation to reply.
+> 
+> Three specific things, in writing, that you can fix yourself.
+> 
+> I am doing this all week, because it is the fastest way to show what I do without describing it.
+> 
+> Send the link on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · Told a business to stop advertising
+
+**Type:** Entertain · **Why it works:** Advice against our own interest is the strongest trust signal available.
+
+### TikTok · 20:45 · Talking head, 32s
+
+**Hook (0-3s)**
+> We told a business to stop advertising. Their replies were the leak, not their reach.
+
+**On-screen beats**
+- They were spending
+- Getting messages
+- Losing them at hello
+- So the spend was making the leak worse
+
+**Voiceover script**
+> We told a business to stop advertising for a month. They were spending every week, getting messages, and losing almost all of them in the first reply, because the first reply took two days. More reach made it worse, because more people arrived to be ignored. We fixed the reply, then they started advertising again, and it worked, which is why I am telling you to stop.
+
+**Caption**
+> Advertising into a slow reply is paying to be ignored at scale.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · Reel + caption
+
+**Script slides**
+1. They were spending
+2. Messages were arriving
+3. Replies took 2 days
+4. We said stop
+
+**Caption**
+> Fix the leak before you buy more water.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> We told a business to stop advertising for a month.
+> 
+> They were spending every week and getting messages — and losing almost all of them on the first reply, which took two days.
+> 
+> More reach made it worse. More people arrived to be ignored.
+> 
+> We fixed the reply. Then they advertised again and it worked. That is why I am telling you to stop.
+> 
+> Where is your leak?
+
+
+---
+
+
+## Post 11 · Claim your Google Business Profile tonight
+
+**Type:** Teach · **Why it works:** A single free action with compounding returns.
+
+### TikTok · 21:30 · Kinetic type, 23s
+
+**Hook (0-3s)**
+> Claim your Google Business Profile tonight. It is free and most Lagos businesses have not.
+
+**On-screen beats**
+- Search your business name
+- Claim it
+- Add photos and hours
+- Then ask five customers
+
+**Voiceover script**
+> Claim your Google Business Profile tonight. Search your business name, find the listing, and claim it. Then add photos, hours, your area, and your phone number. It is free, it takes about an hour, and most Lagos businesses have not done it, which means the person who does it this week is the one who shows up when somebody searches.
+
+**Caption**
+> Free, one hour, and most of your competitors have not done it. Tonight.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 5-slide carousel
+
+**Slide copy**
+1. Search your name
+2. Claim the listing
+3. Add photos
+4. Add hours + phone
+5. Then a review
+
+**Caption**
+> One hour tonight. Free. Do it before your competitor reads this.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Claim your Google Business Profile tonight.
+> 
+> 1. Search your business name.
+> 2. Find the listing.
+> 3. Claim it.
+> 4. Add photos, hours, your area, your phone number.
+> 
+> Free. About an hour. Most Lagos businesses have not done it, which means whoever does it this week is the one who shows up when somebody searches.
+> 
+> Reply here when yours is done.
+
+
+---
+
+
+# Day 16 · Monday · Monday 16 Nov 2026 — Fix this Lagos
+
+**Offer in focus:** LOCAL
+
+---
+
+
+## Post 01 · Invisible on the map
+
+**Type:** Entertain · **Why it works:** Distance makes the loss concrete and ridiculous.
+
+### TikTok · 07:00 · Screen recording, 25s
+
+**Hook (0-3s)**
+> This restaurant is four hundred metres from a busy junction and invisible on Google Maps.
+
+**On-screen beats**
+- No pin
+- Or the wrong pin
+- Four hundred metres
+- Nobody can find a business they cannot see
+
+**Voiceover script**
+> This restaurant is four hundred metres from one of the busiest junctions in Lagos and it is invisible on Google Maps. No pin, or worse, a pin in the wrong place, which sends people to a street with nothing on it. Four hundred metres is nothing in a car and everything in a search result, because nobody walks a neighbourhood looking for something the map does not admit exists.
+
+**Caption**
+> 400 metres from a busy junction. Not on the map. Effectively not open.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. 400m from a junction
+2. No pin on the map
+3. Or the wrong pin
+4. Invisible to everyone searching
+
+**Caption**
+> Check your pin. Some are in the wrong street entirely.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A restaurant I looked at is 400 metres from one of the busiest junctions in Lagos and is invisible on Google Maps.
+> 
+> No pin, or worse, a pin in the wrong place sending people to a street with nothing on it.
+> 
+> Four hundred metres is nothing in a car and everything in a search result, because nobody walks a neighbourhood looking for something the map does not admit exists.
+> 
+> Is your pin in the right place?
+
+
+---
+
+
+## Post 02 · "Near me"
+
+**Type:** Entertain · **Why it works:** Names the exact words customers type.
+
+### TikTok · 09:15 · Kinetic type, 15s
+
+**Hook (0-3s)**
+> "Near me" is how your customer searches. You are not in that answer.
+
+**On-screen beats**
+- Two words
+- The default search
+- If you are not there
+- You do not exist
+
+**Voiceover script**
+> Near me is how your customer searches, and it is two words they do not think about. If your business is not in that answer, you are not competing badly, you are absent. Being absent is cheaper to fix than being bad, which is the only good news in this video.
+
+**Caption**
+> Two words: near me. If you are not in the answer, you are not in the market.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. "near me"
+2. = the default search
+3. Not there = not in the market
+
+**Caption**
+> Absence is cheaper to fix than being bad at it.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> 'Near me' is how your customer searches. Two words, and they do not think about them.
+> 
+> If your business is not in that answer, you are not competing badly. You are absent.
+> 
+> Being absent is cheaper to fix than being bad, which is the only good news in this post.
+> 
+> Search your own category with 'near me' right now. Are you there?
+
+
+---
+
+
+## Post 03 · Put your area in your bio
+
+**Type:** Teach · **Why it works:** A one-word edit anyone can do in a minute.
+
+### TikTok · 11:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> Put your area in your bio and every caption. "Lekki" is a keyword, not a detail.
+
+**On-screen beats**
+- Not decoration
+- It is how search works
+- One word
+- In every post
+
+**Voiceover script**
+> Put your area in your bio and in your captions. Lekki is not a detail, it is a keyword, and it is the word somebody types when they want what you sell without crossing the bridge. One word in every post costs you nothing and puts you in a search you are currently not in.
+
+**Caption**
+> Lekki is a keyword, not a detail. Put it in the bio and the caption.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 3-slide carousel
+
+**Slide copy**
+1. Bio: add your area
+2. Caption: add your area
+3. It is a keyword
+
+**Caption**
+> One word, every post. Costs nothing, appears in search.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Put your area in your bio and in your captions.
+> 
+> 'Lekki' is not a detail. It is a keyword — the exact word somebody types when they want what you sell without crossing the bridge.
+> 
+> One word in every post costs you nothing, and puts you in a search you are currently absent from.
+> 
+> Which area should you be claiming?
+
+
+---
+
+
+## Post 04 · Foreign SEO advice
+
+**Type:** Entertain · **Why it works:** Saves the audience money, which is the most persuasive thing content can do.
+
+### TikTok · 13:45 · Talking head, 22s
+
+**Hook (0-3s)**
+> Most foreign SEO advice will waste your first hundred thousand naira.
+
+**On-screen beats**
+- Written for different maps
+- Different search behaviour
+- You need a pin and a sentence
+- Not a strategy deck
+
+**Voiceover script**
+> Most foreign SEO advice will waste your first hundred thousand naira. It is written for places with reliable addresses, dense review cultures, and people who search in English with a postcode. Here you need a pin in the right place, a category, hours, and your area in the caption. That is not less sophisticated, it is more accurate.
+
+**Caption**
+> You do not need a strategy deck. You need a pin, a category, and your area in the caption.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Foreign playbook
+2. Different maps
+3. You need: pin, category, area
+
+**Caption**
+> Local intent is a different game with simpler rules.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Most foreign SEO advice will waste your first ₦100,000.
+> 
+> It is written for places with reliable addresses, dense review cultures and people who search with a postcode.
+> 
+> Here you need: a pin in the right place, the right category, your hours, and your area in the caption.
+> 
+> That is not less sophisticated. It is more accurate.
+> 
+> What have you paid for that did not fit?
+
+
+---
+
+
+## Post 05 · Six walk-ins from one pin
+
+**Type:** Entertain · **Why it works:** A small, believable number beats a large, invented one.
+
+### TikTok · 15:00 · Talking head, 28s
+
+**Hook (0-3s)**
+> A laundry got six walk-ins from one map pin. It took eleven minutes.
+
+**On-screen beats**
+- Six people
+- In one week
+- All said they found it on the map
+- Eleven minutes of work
+
+**Voiceover script**
+> A laundry got six walk-ins in one week from a map pin. Six people walked in and said they found it on the map. Setting that up took eleven minutes: pin in the right place, hours, a photo of the shopfront, and a phone number. Eleven minutes produced six customers who did not previously exist, and nobody had to be persuaded of anything.
+
+**Caption**
+> Eleven minutes of setup. Six walk-ins in a week. No advertising.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · Reel + caption
+
+**Script slides**
+1. One map pin
+2. 11 minutes of setup
+3. 6 walk-ins in a week
+4. ₦0 spent
+
+**Caption**
+> The cheapest customer acquisition in Lagos is a correct pin.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A laundry got six walk-ins in one week from a map pin.
+> 
+> Six people walked in and said they found it on the map.
+> 
+> Setting it up took eleven minutes: pin in the right place, opening hours, a photo of the shopfront, a phone number.
+> 
+> Eleven minutes produced six customers who did not previously exist, and nobody had to be persuaded of anything.
+> 
+> Is your pin right?
+
+
+---
+
+
+## Post 06 · Ten photos, one a week
+
+**Type:** Teach · **Why it works:** A cadence, not a project, so it survives a busy month.
+
+### TikTok · 16:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Take ten photos of your business and post one a week to your listing.
+
+**On-screen beats**
+- Ten photos
+- One a week
+- Photos beat descriptions
+- You already have them on your phone
+
+**Voiceover script**
+> Take ten photos of your business today and post one a week to your Google listing. Not stock photos, your actual shop, your actual product, your actual staff at work. Photos outperform descriptions on every local search, because a photo is proof and a description is a claim. You already have the photos. You just have not put them where the searching happens.
+
+**Caption**
+> Ten photos, one a week, on the listing. You already have them.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. 10 photos today
+2. 1 per week
+3. Photos are proof
+
+**Caption**
+> A photo is proof. A description is a claim.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Take ten photos of your business today. Post one a week to your Google listing.
+> 
+> Not stock photos — your shop, your product, your staff at work.
+> 
+> Photos outperform descriptions in local search, because a photo is proof and a description is a claim.
+> 
+> You already have the photos on your phone. You just have not put them where the searching happens.
+> 
+> Which photo would you post first?
+
+
+---
+
+
+## Post 07 · A closed business still ranks
+
+**Type:** Entertain · **Why it works:** The fear of an out-of-date listing is a strong motivator.
+
+### TikTok · 18:00 · Kinetic type, 17s
+
+**Hook (0-3s)**
+> A closed business still ranks on Google. Update your hours.
+
+**On-screen beats**
+- It says open
+- They drive there
+- It is shut
+- Now you are the shop that wasted their trip
+
+**Voiceover script**
+> A closed business still ranks on Google, which is the cruel part. Your listing says you open at eight, so someone drives across the city, arrives, and finds a shutter. That is not a bad review, it is a story about you, told to everyone they know, and it came from a field you have not looked at since you filled it in.
+
+**Caption**
+> One wrong hour turns a customer into a story about you.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Listing says: open 8am
+2. Shutter is down
+3. They drove there
+
+**Caption**
+> Update your hours. Especially before a public holiday.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> A closed business still ranks on Google. That is the cruel part.
+> 
+> Your listing says you open at eight. Someone drives across the city. The shutter is down.
+> 
+> That is not a bad review. It is a story they will tell everyone — and it came from a field you have not looked at since you filled it in.
+> 
+> When did you last check your hours?
+
+
+---
+
+
+## Post 08 · How did you find the last place you ate?
+
+**Type:** Entertain · **Why it works:** The answer contradicts most owners' belief about Instagram.
+
+### TikTok · 19:00 · Street interview, 26s
+
+**Hook (0-3s)**
+> I asked how people found the last place they ate. Google beat Instagram.
+
+**On-screen beats**
+- Not a food page
+- Google
+- Because they were already hungry
+- Then Instagram for the photos
+
+**Voiceover script**
+> I asked people how they found the last place they ate. Most said Google, not Instagram, because they were already hungry and already out, and they needed somewhere close. Instagram came second, and it came after, to check the food looked good. Which means the map gets you the decision and the feed gets you the confidence.
+
+**Caption**
+> "Google" beat "Instagram" on this street, and it was not close.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. How did you find it?
+2. Google: most
+3. Instagram: second
+4. Feed builds confidence, map takes the order
+
+**Caption**
+> Search captures demand. Social creates it. You need both, in that order.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people how they found the last place they ate.
+> 
+> Most said Google, not Instagram — because they were already hungry and already out and needed somewhere close. Instagram came second, and it came after, to check the food looked good.
+> 
+> The map takes the decision. The feed builds the confidence.
+> 
+> Which one are you ignoring?
+
+
+---
+
+
+## Post 09 · The Local Visibility Starter
+
+**Type:** Sell · **Why it works:** Naming who it is not for makes the sell credible.
+
+### TikTok · 20:00 · Overhead shot, 25s
+
+**Hook (0-3s)**
+> The Local Visibility Starter is for one neighbourhood. If you ship nationwide, this is not it.
+
+**On-screen beats**
+- One area
+- Pin, listing, photos, captions
+- Nationwide? Different problem
+- Say so early
+
+**Voiceover script**
+> The Local Visibility Starter is for businesses that want to be found in one neighbourhood. Your pin, your listing, your photos, your captions, all pointing at the same few streets. If you ship nationwide, this is the wrong product, because your problem is not proximity, it is trust at distance, and those need different work.
+
+**Caption**
+> One neighbourhood. ₦5,000. If you ship nationwide, message me instead. LOCAL on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. For: one neighbourhood
+2. Pin · listing · photos · captions
+3. Not for: nationwide shipping
+4. ₦5,000 · LOCAL
+
+**Caption**
+> A product that names its own wrong customer is a product you can trust.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The Local Visibility Starter is for businesses that want to be found in one neighbourhood.
+> 
+> Your pin. Your listing. Your photos. Your captions. All pointing at the same few streets.
+> 
+> If you ship nationwide, this is the wrong product. Your problem is not proximity, it is trust at distance, and those need different work.
+> 
+> ₦5,000. Message LOCAL on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · Ranking for "Lagos food"
+
+**Type:** Entertain · **Why it works:** A strategy argument the audience can use immediately.
+
+### TikTok · 20:45 · Talking head, 29s
+
+**Hook (0-3s)**
+> A client wanted to rank for "Lagos food". We said pick one area and own it first.
+
+**On-screen beats**
+- Lagos is a country
+- Competing with everybody
+- One area is winnable
+- Then the next
+
+**Voiceover script**
+> A client wanted to rank for the words Lagos food. We said no, pick one area first. Lagos is not a market, it is a country, and competing for all of it means spending against everybody with a bigger budget. One area, one set of streets, one neighbourhood you can actually be the best in, and then the next one. That is slower and it is the only version that works.
+
+**Caption**
+> Lagos is not a market. It is a country. Own one street first.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. "Rank for Lagos food"
+2. Lagos = a country
+3. Own one area first
+
+**Caption**
+> Win a street, then a neighbourhood, then a city. In that order.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> A client wanted to rank for 'Lagos food'.
+> 
+> We said pick one area and own it first.
+> 
+> Lagos is not a market. It is a country. Competing for all of it means spending against everyone with a bigger budget than you.
+> 
+> One area, one set of streets, one neighbourhood you can genuinely be the best in. Then the next one.
+> 
+> Slower. Also the only version that works.
+
+
+---
+
+
+## Post 11 · Ask five customers how they found you
+
+**Type:** Teach · **Why it works:** Turns guesswork into a measured channel in one afternoon.
+
+### TikTok · 21:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Ask five customers how they found you. Write the answers down. That is your channel.
+
+**On-screen beats**
+- Five people
+- One question
+- Write it down
+- Then stop guessing
+
+**Voiceover script**
+> Ask five customers how they found you, and write the answers down. Not what you hope, what they say. Five answers will tell you more than any dashboard, because most small businesses are getting customers from one place they do not know about and spending money in another. Then put the money where the answers are.
+
+**Caption**
+> Five questions. One page. Then move the money.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. Ask 5 customers
+2. "How did you find us?"
+3. Write it down
+4. Move the money
+
+**Caption**
+> Five answers beat any dashboard you have ever looked at.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Ask five customers how they found you. Write the answers down.
+> 
+> Not what you hope. What they actually say.
+> 
+> Five answers will tell you more than any dashboard, because most small businesses get customers from one place they do not know about and spend money in another.
+> 
+> Then move the money to where the answers are.
+> 
+> Will you do this tomorrow?
 
 
 ---
