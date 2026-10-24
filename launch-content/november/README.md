@@ -50,6 +50,19 @@ against a 60 / 30 / 10 target.
 To add or change days, edit the JSON in the same schema and rebuild. The app, the month doc,
 the CSV and the meme bank all regenerate from the JSON, so nothing can drift.
 
+### Checking the craft, not just the schema
+
+```bash
+node launch-content/november/build/validate.mjs   # schema, counts, brand rules, contact details
+npm run audit:november                            # hooks, pace, connectors, duplicate openings
+```
+
+The validator is the gate. The audit is the mirror: it reports hook length, voiceover pace,
+whether a script carries an explicit turn and consequence, and whether two posts open the same
+way. Current state: **0 hooks over 12 words, 0 pace outliers, 0 repeated openings**, and the
+turn is explicit in 24% of scripts — the rest carry it by contrast, which is a reading aid
+rather than a verdict.
+
 `MEME_BANK.md` is generated and intentionally empty: the meme show was cut after the
 October scoring round (3.0, no conversations). The file explains how to bring it back.
 

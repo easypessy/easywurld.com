@@ -13,7 +13,8 @@
     "score:example": "node tools/score-content.mjs marketing/measurement/example-tracker.csv",
     "format": "prettier --write .",
     "story": "node tools/story-check.mjs",
-    "story:example": "node tools/story-check.mjs marketing/storytelling/examples/fix-this-bakery.md"
+    "story:example": "node tools/story-check.mjs marketing/storytelling/examples/fix-this-bakery.md",
+    "audit:november": "node tools/november-audit.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",

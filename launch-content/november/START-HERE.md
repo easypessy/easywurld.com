@@ -27,6 +27,16 @@ Everything is in this folder:
 4. **Read the sheet on 30 November, not before.** A flat week is not evidence that the plan
    failed. It is evidence that you have not found the twenty percent yet.
 
+## Checking the build
+
+```bash
+node launch-content/november/build/validate.mjs   # 30 days, 330 posts, 990 pieces, all rules
+npm run audit:november                            # hook length, pace, connectors, duplicates
+```
+
+Both currently pass: no hook over twelve words, no script outside a readable pace, no two
+posts opening the same way.
+
 ## The honest part
 
 No one can guarantee that every post goes viral. Not us, not anyone selling a course about it.

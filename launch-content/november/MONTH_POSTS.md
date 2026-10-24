@@ -499,7 +499,7 @@ writing on the spot.
 - The bundle is for later
 
 **Voiceover script**
-> Nine packs, five thousand naira each, and I am telling you not to buy most of them. Pick the one that matches the problem you had this week. If that was a customer who never replied, take the chat one. If it was a website nobody understood, take the homepage one. One pack, one problem. The bundle is for people who want all nine, not for people starting.
+> Nine packs, five thousand naira each, and I am telling you not to buy most of them. Pick the one that matches the problem you had this week. If that was a customer who never replied, take the chat one. If it was a website nobody understood, take the homepage one. One pack, one problem. The bundle is for people who want all nine, but not for people starting.
 
 **Caption**
 > Buy the one that matches this week's problem. Not the biggest. Not all nine.
@@ -1126,7 +1126,7 @@ writing on the spot.
 - It fixes the ones you already get
 
 **Voiceover script**
-> Do not buy the chat pack if you already reply fast. Buy it if you recognise this: someone asks a price, you answer, and they vanish. Thirty-six scripts for the awkward moments, a tracker so no follow-up is forgotten. Five thousand naira. It will not bring you customers. It fixes the customers you already have.
+> Do not buy the chat pack if you already reply fast. Buy it if you recognise this: someone asks a price, you answer, and they vanish. Thirty-six scripts for the awkward moments, a tracker so no follow-up is forgotten. Five thousand naira. It will not bring you customers, but it fixes the ones you already have.
 
 **Caption**
 > 36 scripts. One tracker. ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
@@ -1748,7 +1748,7 @@ writing on the spot.
 - You are buying the afternoon
 
 **Voiceover script**
-> Five thousand naira is less than a plate of food for two people. That does not make it cheap. It is one afternoon of writing and designing, priced like a download. Or you can spend three evenings working it out yourself, badly, and redo it in January. You are not buying paper. You are buying the afternoon.
+> Five thousand naira is less than a plate of food for two people. That does not make it cheap. But it is one afternoon of writing and designing, priced like a download. Or you can spend three evenings working it out yourself, badly, and redo it in January. You are not buying paper. You are buying the afternoon.
 
 **Caption**
 > Nine packs, ₦5,000 each. For your own business. Message the keyword on WhatsApp: 0905 069 0837.
@@ -2361,7 +2361,7 @@ writing on the spot.
 - Speed is a different fix
 
 **Voiceover script**
-> If your website is slow, do not buy the homepage blueprint. It is a writing pack. It fixes the first screen: what you say, in what order, and what the button does. It does not touch loading time, hosting, or images. Buy it if strangers read your page and still cannot tell what you sell.
+> If your website is slow, do not buy the homepage blueprint. It is a writing pack. It fixes the first screen: what you say, in what order, and what the button does, but it does not touch loading time, hosting, or images. Buy it if strangers read your page and still cannot tell what you sell.
 
 **Caption**
 > Writing pack, not a design pack. ₦5,000. If speed is your problem, this is not it.
@@ -2975,7 +2975,7 @@ writing on the spot.
 - It fixes chats you already have
 
 **Voiceover script**
-> If customers vanish right after the price, this is for you. Thirty-six scripts for the moments that cost you sales: price questions, let me think about it, delivery, payment, and silence. Plus a tracker so no follow-up is forgotten. Five thousand naira, do it yourself. No consulting, no guarantees, and it will not bring you new customers.
+> If customers vanish right after the price, this is for you. Thirty-six scripts for the moments that cost you sales: price questions, let me think about it, delivery, payment, and silence. Plus a tracker so no follow-up is forgotten. Five thousand naira, do it yourself. No consulting, no guarantees, but it will not bring you new customers.
 
 **Caption**
 > It fixes the customers already messaging you. ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
@@ -3598,7 +3598,7 @@ writing on the spot.
 - One evening
 
 **Voiceover script**
-> This pack fixes one thing, and it is the first screen. Not your whole website, not your logo, not your traffic. What you say, who it is for, and what the button does. One evening of writing, no design skills needed. If your problem is somewhere else, do not buy it.
+> This pack fixes one thing, and it is the first screen. Not your whole website, not your logo, not your traffic. What you say, who it is for, and what the button does. One evening of writing, no design skills needed. But if your problem is somewhere else, do not buy it.
 
 **Caption**
 > First screen only. ₦5,000, one evening. Message CLEAR on WhatsApp: 0905 069 0837.
@@ -4218,7 +4218,7 @@ writing on the spot.
 - Follow the questions
 
 **Voiceover script**
-> The pack people asked about most this week was not the one I expected. It was the chat pack, thirty-six scripts for the awkward moments. Not because it is the best, because it matches the problem people had this week. Five thousand naira, and it will not bring you customers, only help with the ones you have.
+> The pack people asked about most this week was not the one I expected. It was the chat pack, thirty-six scripts for the awkward moments. Not because it is the best, but because it matches the problem people had this week. Five thousand naira, and it will not bring you customers, only help with the ones you have.
 
 **Caption**
 > Buy the pack that matches this week. ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
@@ -5453,7 +5453,7 @@ writing on the spot.
 - Five thousand naira
 
 **Voiceover script**
-> The chat pack includes a four answer profile setup, and it is the least exciting page in the whole thing. Price, delivery, hours, payment. Four lines on your profile and in your away message. It takes one afternoon and it answers most of the questions you answer by hand. Five thousand naira for the pack. It will not bring you customers. It stops you losing hours.
+> The chat pack includes a four answer profile setup, and it is the least exciting page in the whole thing. Price, delivery, hours, payment. Four lines on your profile and in your away message. It takes one afternoon and it answers most of the questions you answer by hand. Five thousand naira for the pack. It will not bring you customers, but it stops you losing hours.
 
 **Caption**
 > Four lines, one afternoon, most of your repeated replies gone. ₦5,000. Message PLAYBOOK on WhatsApp: 0905 069 0837.
@@ -6066,7 +6066,7 @@ writing on the spot.
 - Use your own template
 
 **Voiceover script**
-> The Proposal Pack is for people who send quotes every week. If you send two a month, do not buy it, you already have a template and it works. This is for the ones quoting daily, where one saved hour a week pays for it in a fortnight. Five thousand naira. Twelve templates and the five-line structure.
+> The Proposal Pack is for people who send quotes every week, but if you send two a month, do not buy it, you already have a template and it works. This is for the ones quoting daily, where one saved hour a week pays for it in a fortnight. Five thousand naira. Twelve templates and the five-line structure.
 
 **Caption**
 > Sending quotes weekly? ₦5,000. Twice a month? Keep your own template. Message PROPOSAL on WhatsApp: 0905 069 0837.
@@ -6676,7 +6676,7 @@ writing on the spot.
 - That is why it is five
 
 **Voiceover script**
-> Five thousand naira is cheap on purpose, and here is the limit. It is a template, not a service. Nobody will build anything for you, nobody will answer questions about your specific business, and if you get stuck there is no call. That is exactly why it costs five thousand and not fifty. If you want the service, that is a different conversation and a different number.
+> Five thousand naira is cheap on purpose, and here is the limit. It is a template, but not a service. Nobody will build anything for you, nobody will answer questions about your specific business, and if you get stuck there is no call. That is exactly why it costs five thousand and not fifty. If you want the service, that is a different conversation and a different number.
 
 **Caption**
 > ₦5,000 buys a template. Not a service, not a call. Message PACK on WhatsApp: 0905 069 0837.
@@ -7291,7 +7291,7 @@ writing on the spot.
 - Five thousand naira, no design skills
 
 **Voiceover script**
-> The homepage blueprint is about the first ten seconds of your site, and it is words, not pixels. The first line, the second line, and what the button says. It will not make your page beautiful. It will make it understandable, which is the part that was costing you money. Five thousand naira, and no design skill needed to use it.
+> The homepage blueprint is about the first ten seconds of your site, and it is words, not pixels. The first line, the second line, and what the button says. It will not make your page beautiful, but it will make it understandable, which is the part that was costing you money. Five thousand naira, and no design skill needed to use it.
 
 **Caption**
 > Words, not pixels. ₦5,000. Message HOMEPAGE on WhatsApp: 0905 069 0837.
@@ -9137,7 +9137,7 @@ writing on the spot.
 - Then you decide
 
 **Voiceover script**
-> Send your link and within twenty four hours I will send you three points about your homepage. No charge, no call, no pitch at the end, and no obligation to reply. Three specific things, in writing, that you can act on yourself. I am doing this all week because it is the fastest way to show what I do without describing it.
+> Send your link and within twenty four hours I will send you three points about your homepage. No charge, no call, no pitch at the end, but no obligation to reply either. Three specific things, in writing, that you can act on yourself, and I will not do them for you. I am doing this all week because it is the fastest way to show what I do without describing it.
 
 **Caption**
 > Free, three points, 24 hours, no pitch. Send the link on WhatsApp: 0905 069 0837.
@@ -9748,7 +9748,7 @@ writing on the spot.
 - Say so early
 
 **Voiceover script**
-> The Local Visibility Starter is for businesses that want to be found in one neighbourhood. Your pin, your listing, your photos, your captions, all pointing at the same few streets. If you ship nationwide, this is the wrong product, because your problem is not proximity, it is trust at distance, and those need different work.
+> The Local Visibility Starter is for businesses that want to be found in one neighbourhood. Your pin, your listing, your photos, your captions, all pointing at the same few streets. If you ship nationwide, this is the wrong product, because your problem is not proximity but trust at distance, and those need different work.
 
 **Caption**
 > One neighbourhood. ₦5,000. If you ship nationwide, message me instead. LOCAL on WhatsApp: 0905 069 0837.
@@ -11618,7 +11618,7 @@ writing on the spot.
 - Choose which
 
 **Voiceover script**
-> The landing page kit builds one page for one offer with one action. It is useless if you refuse to choose, which is why the people who need it most are the ones with nine services. Five thousand naira. Pick the offer that pays, and the kit does the rest of the deciding for you.
+> The landing page kit builds one page for one offer with one action. It is useless if you refuse to choose, which is why the people who need it most are the ones with nine services. Five thousand naira, but you pick the offer that pays first. The kit does the rest of the deciding for you.
 
 **Caption**
 > One offer, one page, one action. ₦5,000. OFFER on WhatsApp: 0905 069 0837.
@@ -12881,7 +12881,7 @@ writing on the spot.
 - Then decide
 
 **Voiceover script**
-> Most requested this week was not a pack, it was the free review. Send a link, get three points in twenty four hours, no call, no pitch, no obligation. If you want the whole method rather than three points, the packs start at five thousand naira, and I will tell you which one is wrong for you if it is wrong for you.
+> Most requested this week was not a pack but the free review. Send a link, get three points in twenty four hours, no call, no pitch, no obligation. If you want the whole method rather than three points, the packs start at five thousand naira, and I will tell you which one is wrong for you if it is wrong for you.
 
 **Caption**
 > Free review: three points in 24 hours, no pitch. WhatsApp: 0905 069 0837.
@@ -13505,7 +13505,7 @@ writing on the spot.
 - No calls, no guarantees
 
 **Voiceover script**
-> Here is the whole deal in one breath. Nine packs, five thousand naira each, or all nine for thirty five thousand which saves ten. No consulting, no calls, no guarantees, no done for you. Files you open yourself, written by one person, tested on real businesses in Lagos. If that is what you need, the code is in the caption. If it is not, keep your money and keep watching, because there is more free here than paid.
+> Here is the whole deal in one breath. Nine packs, five thousand naira each, or all nine for thirty five thousand which saves ten. No consulting, no calls, no guarantees, no done for you, but files you open yourself, written by one person, tested on real businesses in Lagos. If that is what you need, the code is in the caption. If it is not, keep your money and keep watching, because there is more free here than paid.
 
 **Caption**
 > ₦5,000 each · ₦35,000 for all nine · no consulting · no guarantees. PACK on WhatsApp: 0905 069 0837.
@@ -14137,7 +14137,7 @@ writing on the spot.
 - One decision
 
 **Voiceover script**
-> The bundle is thirty six files across nine packs, thirty five thousand naira, which is ten less than buying them separately. Same files, one payment, one decision. No expiry, no bonus for buying today, no seats. If you are going to buy three packs anyway, this is the sensible version. If you need one, buy one.
+> The bundle is thirty six files across nine packs, thirty five thousand naira, which is ten less than buying them separately. Same files, one payment, one decision, but no expiry, no bonus for buying today, no seats. If you are going to buy three packs anyway, this is the sensible version. If you need one, buy one.
 
 **Caption**
 > 36 files · ₦35,000 · saves ₦10,000 · no expiry. BUNDLE on WhatsApp: 0905 069 0837.
@@ -15394,7 +15394,7 @@ writing on the spot.
 - For the ones already in your inbox
 
 **Voiceover script**
-> The bundle will not get you one single customer. It does not do advertising, it does not bring traffic, and it will not make anybody message you. What it does is give you the words for the people who already messaged and went quiet, which in most small businesses is the largest untapped thing they own. If you need traffic, that is a different job and I will tell you honestly that this is the wrong purchase.
+> The bundle will not get you one single customer. It does no advertising, it brings no traffic, and it will not make anybody message you. But it gives you the words for the people who already messaged and went quiet, which in most small businesses is the largest untapped thing they own. If you need traffic, that is a different job and I will tell you honestly that this is the wrong purchase.
 
 **Caption**
 > No customers. Scripts for the ones you have. ₦35,000 all nine, ₦5,000 each. WhatsApp 0905 069 0837.
@@ -16019,7 +16019,7 @@ writing on the spot.
 - Then it is yours
 
 **Voiceover script**
-> Everything we sell opens in Word, Excel or a plain text file, and it is all editable, and that is deliberate. No locked PDFs, no subscriptions, no software to buy. Open the file, cross out my words, put yours in, and send it to a real customer. A pack you cannot edit is a pack you will not use, which makes it decoration with a price.
+> Everything we sell opens in Word, Excel or a plain text file. Not because it is easier, but because a locked file is a poster. No subscriptions, no software to buy. Open the file, cross out my words, put yours in, and send it to a real customer. A pack you cannot edit is a pack you will not use.
 
 **Caption**
 > Word, Excel, plain text. Editable, no subscription. ₦5,000 each. WhatsApp 0905 069 0837.
@@ -16648,7 +16648,7 @@ writing on the spot.
 - Different promise
 
 **Voiceover script**
-> If you want the work done for you, that is a project, not a pack. A pack is files you open. A project is a person, a date, and a number that is much bigger than five thousand, and I will tell you honestly whether your job is one I can do well. Some are. Some I will pass to somebody else who does that thing better, and I will say which is which.
+> If you want the work done for you, that is a project, not a pack. A pack is files you open, but a project is a person, a date, and a number much bigger than five thousand. I will tell you honestly whether your job is one I can do well. Some I will pass to somebody else who does that thing better, and I will say which is which.
 
 **Caption**
 > Packs are files. Projects are people. Message PROJECT on WhatsApp 0905 069 0837 and we will say honestly.
@@ -17276,7 +17276,7 @@ writing on the spot.
 - Five thousand
 
 **Voiceover script**
-> The pack that earned its price this month was the Proposal Pack, because more people told me they used it than any other and nobody asked for a refund on it. Five thousand naira. Twelve quote templates and the five line structure. If you send quotes weekly it pays for itself in a fortnight, and if you send two a month, do not buy it.
+> The pack that earned its price this month was the Proposal Pack, because more people told me they used it than any other and nobody asked for a refund on it. Five thousand naira. Twelve quote templates and the five line structure. If you send quotes weekly it pays for itself in a fortnight, but if you send two a month, do not buy it.
 
 **Caption**
 > ₦5,000. Twelve templates, five lines. PROPOSAL on WhatsApp 0905 069 0837. Weekly quoters only.
@@ -17906,7 +17906,7 @@ writing on the spot.
 - No calls, no promises
 
 **Voiceover script**
-> There is nothing new to sell today, so here is the whole list again. Nine packs at five thousand naira, thirty five for all of them. No consulting, no calls, no promises, and nothing will not bring you customers. If you have been watching all month and you want one, the code is PACK. If you do not, that is genuinely fine, and the free posts are not going anywhere.
+> There is nothing new to sell today, so here is the whole list again. Nine packs at five thousand naira, thirty five for all of them. No consulting, no calls, no promises, and none of it will bring you customers. But the free posts are not going anywhere, and that is most of what this account is.
 
 **Caption**
 > Nine packs ₦5,000 · all nine ₦35,000 · no consulting. PACK on WhatsApp 0905 069 0837.
@@ -18540,7 +18540,7 @@ writing on the spot.
 - Not a customer in sight
 
 **Voiceover script**
-> Last selling post of the month, so here is everything at the price it will still be tomorrow. Nine packs at five thousand each, all nine for thirty five. No consulting, no calls, no guarantees, and none of it will bring you a customer. What it will do is give you better words for the customers you already have, which is the smaller and more reliable half of the problem.
+> Last selling post of the month, so here is everything at the price it will still be tomorrow. Nine packs at five thousand each, all nine for thirty five. No consulting, no calls, no guarantees, and none of it will bring you a customer, but it will give you better words for the ones you already have.
 
 **Caption**
 > 9 × ₦5,000 · all nine ₦35,000 · no consulting · no guarantees. PACK on WhatsApp 0905 069 0837.
