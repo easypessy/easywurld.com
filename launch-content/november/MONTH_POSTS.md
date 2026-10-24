@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Tuesday 24 November 2026** |
+| Ends | **Wednesday 25 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **792 posts** (264 core ideas x 3 platforms) |
+| Month total | **825 posts** (275 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -14739,6 +14739,612 @@ writing on the spot.
 > A bundle that looks cheaper per item is only cheaper if the items get opened.
 > 
 > The real unit is the file you open, not the file you bought.
+
+
+---
+
+
+# Day 25 · Wednesday · Wednesday 25 Nov 2026 — The honest ad
+
+**Offer in focus:** BUNDLE
+
+---
+
+
+## Post 01 · Six impossible promises
+
+**Type:** Entertain · **Why it works:** The legal problem makes the point undeniable.
+
+### TikTok · 07:00 · Screen recording, 24s
+
+**Hook (0-3s)**
+> This landing page promises six impossible things. One of them is a legal problem.
+
+**On-screen beats**
+- Guaranteed ranking
+- One hundred customers in a week
+- Passive income
+- And a health claim
+
+**Voiceover script**
+> This landing page promises six impossible things: guaranteed ranking, one hundred customers in a week, passive income, a business that runs itself, and something about a health outcome that I am not going to repeat on camera because it is the one that could get somebody sued. The other five are just expensive, and they work about as well as you would expect, which is not at all and then a refund.
+
+**Caption**
+> Six promises. Five will cost you money. One could cost you more than money.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. Guaranteed ranking
+2. 100 customers/week
+3. Passive income
+4. One legal problem
+
+**Caption**
+> If the promise is impossible, the price is not the expensive part.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A landing page I read promises six impossible things: guaranteed ranking, a hundred customers in a week, passive income, a business that runs itself, and one claim I will not repeat on camera because it is a legal problem.
+> 
+> The other five are just expensive, and they work about as well as you would expect — not at all, then a refund.
+> 
+> Which promise would make you close the page?
+
+
+---
+
+
+## Post 02 · The sentence that loses the sale
+
+**Type:** Entertain · **Why it works:** Names the exact phrase that triggers suspicion.
+
+### TikTok · 09:15 · Kinetic type, 16s
+
+**Hook (0-3s)**
+> A promise of results is the sentence that loses the sale.
+
+**On-screen beats**
+- Nobody believes it
+- Everybody notices
+- So say the limit
+- And the reader relaxes
+
+**Voiceover script**
+> A promise of results is the sentence that loses the sale, because nobody believes it and everybody notices it. The moment you promise an outcome you do not control, the reader starts looking for the other places you might be stretching, and they find them, because everybody stretches somewhere. Say the limit instead and the reader relaxes, because you have just proved you are not doing that.
+
+**Caption**
+> One unbelievable promise makes every true sentence suspect.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. "A guarantee of results"
+2. Reader starts hunting
+3. Finds something else
+4. Say the limit instead
+
+**Caption**
+> Trust is spent in one direction and rebuilt slowly.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> A promise of results is usually the sentence that loses the sale.
+> 
+> Nobody believes it. Everybody notices it. And the moment you promise an outcome you do not control, the reader starts hunting for the other places you might be stretching.
+> 
+> Say the limit instead. The reader relaxes, because you have just proved you are not doing that.
+> 
+> What is your limit?
+
+
+---
+
+
+## Post 03 · Write your own limit
+
+**Type:** Teach · **Why it works:** Gives exact words to copy, which is what makes a teach post work.
+
+### TikTok · 11:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Write your own limit into the sales copy. Here are three that work.
+
+**On-screen beats**
+- This will not bring you customers
+- It is not a course
+- Nobody will do it for you
+- Say one
+
+**Voiceover script**
+> Write your own limit into the sales copy, in the same paragraph as the price. Three that work: this will not bring you customers. This is not a course and there is no call. Nobody will do any of it for you. Every one of those sentences loses a few buyers and wins the ones who were going to be difficult, which is the same buyer, described twice.
+
+**Caption**
+> "This will not bring you customers." Try writing it above your price.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 4-slide carousel
+
+**Slide copy**
+1. "This won't get you customers"
+2. "Not a course, no calls"
+3. "Nobody does it for you"
+4. Pick one
+
+**Caption**
+> The buyers you lose to a limit were going to be difficult anyway.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Write your own limit into the sales copy, in the same paragraph as the price.
+> 
+> Three that work:
+> — This will not bring you customers.
+> — This is not a course and there is no call.
+> — Nobody will do any of it for you.
+> 
+> Each one loses a few buyers and wins the ones who would otherwise have been difficult.
+> 
+> Which is the same buyer, described twice.
+
+
+---
+
+
+## Post 04 · Honesty as an unfair advantage
+
+**Type:** Entertain · **Why it works:** A competitive claim with no invented numbers.
+
+### TikTok · 13:45 · Talking head, 21s
+
+**Hook (0-3s)**
+> Honesty is the only unfair advantage left in Nigerian marketing.
+
+**On-screen beats**
+- Everyone is shouting
+- Nobody is admitting
+- So admit something
+- It is free and it is rare
+
+**Voiceover script**
+> Honesty is the only unfair advantage left in Nigerian marketing, and I mean that practically. Everyone is shouting, everyone has a guarantee, everyone is the leading provider. Almost nobody says what their product does not do or who should not buy it. One honest sentence stands out more than a bigger budget, and it costs nothing to write.
+
+**Caption**
+> Everyone is shouting. Almost nobody is admitting. Admit something.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Everyone: shouting
+2. Nobody: admitting
+3. You: one honest line
+
+**Caption**
+> A limit is the cheapest competitive advantage in the market.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Honesty is the only unfair advantage left in Nigerian marketing, and I mean that practically.
+> 
+> Everyone is shouting. Everyone has a guarantee. Everyone is the leading provider.
+> 
+> Almost nobody says what their product does not do, or who should not buy it.
+> 
+> One honest sentence stands out more than a bigger budget, and it costs nothing to write.
+> 
+> What could you admit?
+
+
+---
+
+
+## Post 05 · The limit is why he paid
+
+**Type:** Entertain · **Why it works:** A buyer's own words are the strongest proof.
+
+### TikTok · 15:00 · Talking head, 27s
+
+**Hook (0-3s)**
+> A buyer said the line about what it will not do is why he paid.
+
+**On-screen beats**
+- He had been lied to before
+- So he looked for the limit
+- Found one
+- Then bought
+
+**Voiceover script**
+> A buyer told me the line that made him pay was the one saying the pack would not bring him customers. He said he had bought two things before that promised him customers and neither worked, so when he saw a seller admit the limit he assumed the rest of the page was also true. He bought the bundle. The sentence I was most nervous about is the one that closed it.
+
+**Caption**
+> "The line saying it wouldn't bring me customers is why I paid."
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. Promised customers twice
+2. Neither worked
+3. Saw a limit
+4. Bought
+
+**Caption**
+> The sentence you are most nervous about is usually the one that closes.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A buyer told me the line that made him pay was the one saying the pack would not bring him customers.
+> 
+> He had bought two things before that promised him customers. Neither worked.
+> 
+> So when he saw a seller admit the limit, he assumed the rest of the page was true too. He bought the bundle.
+> 
+> The sentence I was most nervous about is the one that closed it.
+
+
+---
+
+
+## Post 06 · Name the limit next to the price
+
+**Type:** Teach · **Why it works:** Placement is the practical insight.
+
+### TikTok · 16:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Put the limit in the same paragraph as the price. Not on a separate page nobody reads.
+
+**On-screen beats**
+- Same paragraph
+- Same breath
+- Not the FAQ
+- Not page nine
+
+**Voiceover script**
+> Put the limit in the same paragraph as the price, not hidden on an FAQ page nine screens down. Same paragraph, same breath: it is five thousand naira, and it will not bring you customers. The proximity is the whole trick, because a limit next to a price reads as honesty and a limit in the terms reads as a legal department.
+
+**Caption**
+> Same paragraph as the price. Proximity is what makes it read as honesty.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. Price
+2. Limit
+3. Same paragraph
+
+**Caption**
+> A disclaimer at the bottom is a warning. A limit at the price is a promise.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Put the limit in the same paragraph as the price.
+> 
+> Not on an FAQ page nine screens down. Same paragraph, same breath: 'It is ₦5,000, and it will not bring you customers.'
+> 
+> The proximity is the whole trick. A limit next to a price reads as honesty. The same limit in the terms reads as a legal department.
+> 
+> Where is yours?
+
+
+---
+
+
+## Post 07 · Every promise is a refund
+
+**Type:** Entertain · **Why it works:** A short economic argument that is hard to argue with.
+
+### TikTok · 18:00 · Kinetic type, 15s
+
+**Hook (0-3s)**
+> Every promise you cannot keep is a refund and a review.
+
+**On-screen beats**
+- The sale is not the end
+- It is the start of the obligation
+- One promise
+- Three years of defending it
+
+**Voiceover script**
+> Every promise you cannot keep is a refund and a review, and the review is worse than the refund. The sale is not the end of the transaction, it is the beginning of an obligation you have to meet every day for as long as the business exists. Which is why the safest promise is a small one you can keep on a Tuesday when everything is going wrong.
+
+**Caption**
+> The refund is a cost. The review is a sentence that outlives you.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Promise made
+2. Obligation starts
+3. Every day after
+
+**Caption**
+> Promise what you can do on your worst day, not your best.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> Every promise you cannot keep is a refund and a review — and the review is worse than the refund.
+> 
+> The sale is not the end of the transaction. It is the beginning of an obligation you have to meet every day for as long as the business exists.
+> 
+> Which is why the safest promise is a small one you can keep on a Tuesday when everything is going wrong.
+> 
+> What is your promise?
+
+
+---
+
+
+## Post 08 · What makes you distrust an ad
+
+**Type:** Entertain · **Why it works:** The audience names the exact word we avoid.
+
+### TikTok · 19:00 · Street interview, 25s
+
+**Hook (0-3s)**
+> I asked what makes people distrust an ad. One word came up over and over.
+
+**On-screen beats**
+- Not the price
+- Not the design
+- The guarantee
+- It means you are about to lie
+
+**Voiceover script**
+> I asked what makes people distrust an ad. Almost everyone said the same word: guarantee. And when I asked why, they said because nobody can guarantee that, so they are either lying or they do not understand their own product. One man said if you have to promise it in capitals, it is probably not true, which is the whole argument of this video and he did it in a sentence.
+
+**Caption**
+> "If you have to promise it in capitals, it is probably not true."
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 3-slide carousel
+
+**Slide copy**
+1. Word: "guarantee"
+2. Why: nobody can
+3. So: say the limit
+
+**Caption**
+> The word meant to reassure is the word that raises suspicion.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked what makes people distrust an ad.
+> 
+> Almost everyone said the same word: 'guarantee'.
+> 
+> And when I asked why, they said because nobody can guarantee that — so either the seller is lying or they do not understand their own product.
+> 
+> One man put it better: 'If you have to promise it in capitals, it is probably not true.'
+> 
+> Which word makes you close a page?
+
+
+---
+
+
+## Post 09 · It will not get you one customer
+
+**Type:** Sell · **Why it works:** The clearest possible statement of what ₦5,000 does.
+
+### TikTok · 20:00 · Overhead shot, 24s
+
+**Hook (0-3s)**
+> The bundle will not get you one single customer. Here is what it does instead.
+
+**On-screen beats**
+- No traffic
+- No ads
+- It gives you scripts
+- For the ones already in your inbox
+
+**Voiceover script**
+> The bundle will not get you one single customer. It does not do advertising, it does not bring traffic, and it will not make anybody message you. What it does is give you the words for the people who already messaged and went quiet, which in most small businesses is the largest untapped thing they own. If you need traffic, that is a different job and I will tell you honestly that this is the wrong purchase.
+
+**Caption**
+> No customers. Scripts for the ones you have. ₦35,000 all nine, ₦5,000 each. WhatsApp 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 4-slide carousel
+
+**Slide copy**
+1. Not traffic
+2. Not ads
+3. Not new customers
+4. Words for the quiet ones
+
+**Caption**
+> The honest version of a marketing product: it does not market for you.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The bundle will not get you one single customer.
+> 
+> It does not do advertising. It does not bring traffic. It will not make anybody message you.
+> 
+> What it does is give you the words for the people who already messaged and went quiet — which in most small businesses is the largest untapped thing they own.
+> 
+> If you need traffic, this is the wrong purchase and I will say so.
+> 
+> ₦5,000 each, ₦35,000 for all nine.
+
+
+---
+
+
+## Post 10 · "Results guaranteed"
+
+**Type:** Entertain · **Why it works:** The alternative wording is the lesson.
+
+### TikTok · 20:45 · Talking head, 31s
+
+**Hook (0-3s)**
+> A client wanted results guaranteed in the ad. We wrote we cannot guarantee results instead.
+
+**On-screen beats**
+- He was nervous
+- The guarantee felt safe
+- It is a liability
+- The honest line converted better
+
+**Voiceover script**
+> A client wanted the words results guaranteed across the top of his advert. We wrote we cannot guarantee results, but here is exactly what we do and how long it takes, instead. He was nervous for a week. The honest version converted better, and more importantly, nobody came back angry, which is the cost that does not show up in a dashboard. A guarantee is not confidence. It is a liability with good posture.
+
+**Caption**
+> A guarantee is not confidence. It is a liability with good posture.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 4-slide carousel
+
+**Slide copy**
+1. Asked for: a guarantee of results
+2. Wrote: we cannot guarantee
+3. Converted better
+4. No angry refunds
+
+**Caption**
+> The cost that does not show on a dashboard is the angry customer.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> A client wanted 'results guaranteed' across the top of his advert.
+> 
+> We wrote 'we cannot guarantee results, but here is exactly what we do and how long it takes' instead.
+> 
+> He was nervous for a week. The honest version converted better — and nobody came back angry, which is the cost that never shows up on a dashboard.
+> 
+> A guarantee is not confidence. It is a liability with good posture.
+
+
+---
+
+
+## Post 11 · Delete every unprovable promise
+
+**Type:** Teach · **Why it works:** A one-evening exercise with a visible outcome.
+
+### TikTok · 21:30 · Kinetic type, 22s
+
+**Hook (0-3s)**
+> Read your last advert and delete every promise you cannot prove. Then see if it still works.
+
+**On-screen beats**
+- Every promise
+- Strike it
+- What is left
+- Is your offer
+
+**Voiceover script**
+> Read your last advert and delete every promise you cannot prove. Strike them out, all of them, and read what is left. If the advert still says something, that is your offer and you should lead with it. If it says nothing, then the promises were the whole advert, and that is worth knowing before a customer finds out for you.
+
+**Caption**
+> Strike out every unprovable promise. What is left is your actual offer.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. Your last advert
+2. Strike every promise
+3. Read what is left
+4. That is the offer
+
+**Caption**
+> An advert with the promises removed is a useful mirror.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Read your last advert and delete every promise you cannot prove.
+> 
+> Strike them all out. Read what is left.
+> 
+> If it still says something, that is your offer, and you should be leading with it.
+> 
+> If it says nothing, the promises were the entire advert — which is worth knowing before a customer finds out for you.
+> 
+> Try it tonight.
 
 
 ---

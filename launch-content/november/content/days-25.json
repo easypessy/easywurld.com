@@ -1,0 +1,391 @@
+[
+  {
+    "day": 25,
+    "label": "Day 25 · Wednesday",
+    "theme": "The honest ad",
+    "offer": "BUNDLE",
+    "posts": [
+      {
+        "id": "D25-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "Six impossible promises",
+        "why": "The legal problem makes the point undeniable.",
+        "tiktok": {
+          "fmt": "Screen recording, 24s",
+          "hook": "This landing page promises six impossible things. One of them is a legal problem.",
+          "beats": [
+            "Guaranteed ranking",
+            "One hundred customers in a week",
+            "Passive income",
+            "And a health claim"
+          ],
+          "vo": "This landing page promises six impossible things: guaranteed ranking, one hundred customers in a week, passive income, a business that runs itself, and something about a health outcome that I am not going to repeat on camera because it is the one that could get somebody sued. The other five are just expensive, and they work about as well as you would expect, which is not at all and then a refund.",
+          "cap": "Six promises. Five will cost you money. One could cost you more than money.",
+          "body": "Guaranteed ranking, a hundred customers in a week, passive income, a business that runs itself, and one claim I will not repeat on camera. Five are expensive promises and one is a legal problem."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Guaranteed ranking",
+            "100 customers/week",
+            "Passive income",
+            "One legal problem"
+          ],
+          "cap": "If the promise is impossible, the price is not the expensive part.",
+          "body": "The list is always the same shape. The more impossible the promise, the higher the price, and the more likely the refund page is a form that nobody answers."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A landing page I read promises six impossible things: guaranteed ranking, a hundred customers in a week, passive income, a business that runs itself, and one claim I will not repeat on camera because it is a legal problem.\n\nThe other five are just expensive, and they work about as well as you would expect — not at all, then a refund.\n\nWhich promise would make you close the page?"
+        }
+      },
+      {
+        "id": "D25-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "The sentence that loses the sale",
+        "why": "Names the exact phrase that triggers suspicion.",
+        "tiktok": {
+          "fmt": "Kinetic type, 16s",
+          "hook": "A promise of results is the sentence that loses the sale.",
+          "beats": [
+            "Nobody believes it",
+            "Everybody notices",
+            "So say the limit",
+            "And the reader relaxes"
+          ],
+          "vo": "A promise of results is the sentence that loses the sale, because nobody believes it and everybody notices it. The moment you promise an outcome you do not control, the reader starts looking for the other places you might be stretching, and they find them, because everybody stretches somewhere. Say the limit instead and the reader relaxes, because you have just proved you are not doing that.",
+          "cap": "One unbelievable promise makes every true sentence suspect.",
+          "body": "Nobody believes a promise of results and everybody notices it. The reader starts looking for the other places you might be stretching, and they find them — every business stretches somewhere."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "\"A guarantee of results\"",
+            "Reader starts hunting",
+            "Finds something else",
+            "Say the limit instead"
+          ],
+          "cap": "Trust is spent in one direction and rebuilt slowly.",
+          "body": "A limit costs you the buyers who wanted a guarantee and wins the ones who wanted a professional. On balance, that is a good trade."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A promise of results is usually the sentence that loses the sale.\n\nNobody believes it. Everybody notices it. And the moment you promise an outcome you do not control, the reader starts hunting for the other places you might be stretching.\n\nSay the limit instead. The reader relaxes, because you have just proved you are not doing that.\n\nWhat is your limit?"
+        }
+      },
+      {
+        "id": "D25-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Write your own limit",
+        "why": "Gives exact words to copy, which is what makes a teach post work.",
+        "tiktok": {
+          "fmt": "Kinetic type, 22s",
+          "hook": "Write your own limit into the sales copy. Here are three that work.",
+          "beats": [
+            "This will not bring you customers",
+            "It is not a course",
+            "Nobody will do it for you",
+            "Say one"
+          ],
+          "vo": "Write your own limit into the sales copy, in the same paragraph as the price. Three that work: this will not bring you customers. This is not a course and there is no call. Nobody will do any of it for you. Every one of those sentences loses a few buyers and wins the ones who were going to be difficult, which is the same buyer, described twice.",
+          "cap": "\"This will not bring you customers.\" Try writing it above your price.",
+          "body": "One limit, in the same paragraph as the price. This will not bring you customers. This is not a course and there is no call. Nobody will do it for you. Each loses a few buyers and wins the ones who would have complained."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "\"This won't get you customers\"",
+            "\"Not a course, no calls\"",
+            "\"Nobody does it for you\"",
+            "Pick one"
+          ],
+          "cap": "The buyers you lose to a limit were going to be difficult anyway.",
+          "body": "A limit functions as a filter and a proof at the same time, which is why it is the cheapest trust-building sentence available to a small business."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Write your own limit into the sales copy, in the same paragraph as the price.\n\nThree that work:\n— This will not bring you customers.\n— This is not a course and there is no call.\n— Nobody will do any of it for you.\n\nEach one loses a few buyers and wins the ones who would otherwise have been difficult.\n\nWhich is the same buyer, described twice."
+        }
+      },
+      {
+        "id": "D25-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "Honesty as an unfair advantage",
+        "why": "A competitive claim with no invented numbers.",
+        "tiktok": {
+          "fmt": "Talking head, 21s",
+          "hook": "Honesty is the only unfair advantage left in Nigerian marketing.",
+          "beats": [
+            "Everyone is shouting",
+            "Nobody is admitting",
+            "So admit something",
+            "It is free and it is rare"
+          ],
+          "vo": "Honesty is the only unfair advantage left in Nigerian marketing, and I mean that practically. Everyone is shouting, everyone has a guarantee, everyone is the leading provider. Almost nobody says what their product does not do or who should not buy it. One honest sentence stands out more than a bigger budget, and it costs nothing to write.",
+          "cap": "Everyone is shouting. Almost nobody is admitting. Admit something.",
+          "body": "Everyone has a guarantee and everyone is the leading provider. Almost nobody says what their product will not do. One honest sentence stands out more than a bigger budget, and it costs nothing."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Everyone: shouting",
+            "Nobody: admitting",
+            "You: one honest line"
+          ],
+          "cap": "A limit is the cheapest competitive advantage in the market.",
+          "body": "It is rare because it feels like weakness. It reads as confidence, which is why the businesses that do it are remembered."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Honesty is the only unfair advantage left in Nigerian marketing, and I mean that practically.\n\nEveryone is shouting. Everyone has a guarantee. Everyone is the leading provider.\n\nAlmost nobody says what their product does not do, or who should not buy it.\n\nOne honest sentence stands out more than a bigger budget, and it costs nothing to write.\n\nWhat could you admit?"
+        }
+      },
+      {
+        "id": "D25-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "The limit is why he paid",
+        "why": "A buyer's own words are the strongest proof.",
+        "tiktok": {
+          "fmt": "Talking head, 27s",
+          "hook": "A buyer said the line about what it will not do is why he paid.",
+          "beats": [
+            "He had been lied to before",
+            "So he looked for the limit",
+            "Found one",
+            "Then bought"
+          ],
+          "vo": "A buyer told me the line that made him pay was the one saying the pack would not bring him customers. He said he had bought two things before that promised him customers and neither worked, so when he saw a seller admit the limit he assumed the rest of the page was also true. He bought the bundle. The sentence I was most nervous about is the one that closed it.",
+          "cap": "\"The line saying it wouldn't bring me customers is why I paid.\"",
+          "body": "He had bought two things that promised customers and neither worked. Seeing a seller admit the limit made him assume the rest of the page was true, so he bought the bundle."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Promised customers twice",
+            "Neither worked",
+            "Saw a limit",
+            "Bought"
+          ],
+          "cap": "The sentence you are most nervous about is usually the one that closes.",
+          "body": "People who have been burned are not looking for bigger promises. They are looking for evidence that this seller knows where their product stops."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A buyer told me the line that made him pay was the one saying the pack would not bring him customers.\n\nHe had bought two things before that promised him customers. Neither worked.\n\nSo when he saw a seller admit the limit, he assumed the rest of the page was true too. He bought the bundle.\n\nThe sentence I was most nervous about is the one that closed it."
+        }
+      },
+      {
+        "id": "D25-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Name the limit next to the price",
+        "why": "Placement is the practical insight.",
+        "tiktok": {
+          "fmt": "Kinetic type, 21s",
+          "hook": "Put the limit in the same paragraph as the price. Not on a separate page nobody reads.",
+          "beats": [
+            "Same paragraph",
+            "Same breath",
+            "Not the FAQ",
+            "Not page nine"
+          ],
+          "vo": "Put the limit in the same paragraph as the price, not hidden on an FAQ page nine screens down. Same paragraph, same breath: it is five thousand naira, and it will not bring you customers. The proximity is the whole trick, because a limit next to a price reads as honesty and a limit in the terms reads as a legal department.",
+          "cap": "Same paragraph as the price. Proximity is what makes it read as honesty.",
+          "body": "A limit next to a price reads as honesty. The same limit in the terms reads as a legal department. Put it in the same breath as the number."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Price",
+            "Limit",
+            "Same paragraph"
+          ],
+          "cap": "A disclaimer at the bottom is a warning. A limit at the price is a promise.",
+          "body": "Placement changes meaning. This is true of prices, guarantees, and anything you were tempted to bury."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Put the limit in the same paragraph as the price.\n\nNot on an FAQ page nine screens down. Same paragraph, same breath: 'It is ₦5,000, and it will not bring you customers.'\n\nThe proximity is the whole trick. A limit next to a price reads as honesty. The same limit in the terms reads as a legal department.\n\nWhere is yours?"
+        }
+      },
+      {
+        "id": "D25-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "Every promise is a refund",
+        "why": "A short economic argument that is hard to argue with.",
+        "tiktok": {
+          "fmt": "Kinetic type, 15s",
+          "hook": "Every promise you cannot keep is a refund and a review.",
+          "beats": [
+            "The sale is not the end",
+            "It is the start of the obligation",
+            "One promise",
+            "Three years of defending it"
+          ],
+          "vo": "Every promise you cannot keep is a refund and a review, and the review is worse than the refund. The sale is not the end of the transaction, it is the beginning of an obligation you have to meet every day for as long as the business exists. Which is why the safest promise is a small one you can keep on a Tuesday when everything is going wrong.",
+          "cap": "The refund is a cost. The review is a sentence that outlives you.",
+          "body": "The sale is the start of an obligation, not the end of a transaction. The safest promise is a small one you can keep on a Tuesday when everything is going wrong."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Promise made",
+            "Obligation starts",
+            "Every day after"
+          ],
+          "cap": "Promise what you can do on your worst day, not your best.",
+          "body": "Most overpromising happens on a good day, which is exactly why it fails on a bad one. Write the promise on a bad day."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Every promise you cannot keep is a refund and a review — and the review is worse than the refund.\n\nThe sale is not the end of the transaction. It is the beginning of an obligation you have to meet every day for as long as the business exists.\n\nWhich is why the safest promise is a small one you can keep on a Tuesday when everything is going wrong.\n\nWhat is your promise?"
+        }
+      },
+      {
+        "id": "D25-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "What makes you distrust an ad",
+        "why": "The audience names the exact word we avoid.",
+        "tiktok": {
+          "fmt": "Street interview, 25s",
+          "hook": "I asked what makes people distrust an ad. One word came up over and over.",
+          "beats": [
+            "Not the price",
+            "Not the design",
+            "The guarantee",
+            "It means you are about to lie"
+          ],
+          "vo": "I asked what makes people distrust an ad. Almost everyone said the same word: guarantee. And when I asked why, they said because nobody can guarantee that, so they are either lying or they do not understand their own product. One man said if you have to promise it in capitals, it is probably not true, which is the whole argument of this video and he did it in a sentence.",
+          "cap": "\"If you have to promise it in capitals, it is probably not true.\"",
+          "body": "Almost everyone said the same word: guarantee. Because nobody can guarantee that, so either they are lying or they do not understand their own product."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Word: \"guarantee\"",
+            "Why: nobody can",
+            "So: say the limit"
+          ],
+          "cap": "The word meant to reassure is the word that raises suspicion.",
+          "body": "This is why we write limits instead. It is not modesty, it is a response to how people actually read advertising."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I asked what makes people distrust an ad.\n\nAlmost everyone said the same word: 'guarantee'.\n\nAnd when I asked why, they said because nobody can guarantee that — so either the seller is lying or they do not understand their own product.\n\nOne man put it better: 'If you have to promise it in capitals, it is probably not true.'\n\nWhich word makes you close a page?"
+        }
+      },
+      {
+        "id": "D25-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "It will not get you one customer",
+        "why": "The clearest possible statement of what ₦5,000 does.",
+        "tiktok": {
+          "fmt": "Overhead shot, 24s",
+          "hook": "The bundle will not get you one single customer. Here is what it does instead.",
+          "beats": [
+            "No traffic",
+            "No ads",
+            "It gives you scripts",
+            "For the ones already in your inbox"
+          ],
+          "vo": "The bundle will not get you one single customer. It does not do advertising, it does not bring traffic, and it will not make anybody message you. What it does is give you the words for the people who already messaged and went quiet, which in most small businesses is the largest untapped thing they own. If you need traffic, that is a different job and I will tell you honestly that this is the wrong purchase.",
+          "cap": "No customers. Scripts for the ones you have. ₦35,000 all nine, ₦5,000 each. WhatsApp 0905 069 0837.",
+          "body": "No traffic, no ads, no new messages. It gives you the words for people who already messaged and went quiet, which is usually the largest untapped thing a small business owns."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Not traffic",
+            "Not ads",
+            "Not new customers",
+            "Words for the quiet ones"
+          ],
+          "cap": "The honest version of a marketing product: it does not market for you.",
+          "body": "If your inbox is empty, this is the wrong purchase. If your inbox has people who went quiet, it is exactly the right one."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The bundle will not get you one single customer.\n\nIt does not do advertising. It does not bring traffic. It will not make anybody message you.\n\nWhat it does is give you the words for the people who already messaged and went quiet — which in most small businesses is the largest untapped thing they own.\n\nIf you need traffic, this is the wrong purchase and I will say so.\n\n₦5,000 each, ₦35,000 for all nine."
+        }
+      },
+      {
+        "id": "D25-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "\"Results guaranteed\"",
+        "why": "The alternative wording is the lesson.",
+        "tiktok": {
+          "fmt": "Talking head, 31s",
+          "hook": "A client wanted results guaranteed in the ad. We wrote we cannot guarantee results instead.",
+          "beats": [
+            "He was nervous",
+            "The guarantee felt safe",
+            "It is a liability",
+            "The honest line converted better"
+          ],
+          "vo": "A client wanted the words results guaranteed across the top of his advert. We wrote we cannot guarantee results, but here is exactly what we do and how long it takes, instead. He was nervous for a week. The honest version converted better, and more importantly, nobody came back angry, which is the cost that does not show up in a dashboard. A guarantee is not confidence. It is a liability with good posture.",
+          "cap": "A guarantee is not confidence. It is a liability with good posture.",
+          "body": "He wanted results guaranteed across the top. We wrote we cannot guarantee results, here is exactly what we do and how long it takes. It converted better and nobody came back angry."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Asked for: a guarantee of results",
+            "Wrote: we cannot guarantee",
+            "Converted better",
+            "No angry refunds"
+          ],
+          "cap": "The cost that does not show on a dashboard is the angry customer.",
+          "body": "Specificity is what actually reassures people. How long it takes, what exactly happens, what it costs — those three beat any guarantee."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A client wanted 'results guaranteed' across the top of his advert.\n\nWe wrote 'we cannot guarantee results, but here is exactly what we do and how long it takes' instead.\n\nHe was nervous for a week. The honest version converted better — and nobody came back angry, which is the cost that never shows up on a dashboard.\n\nA guarantee is not confidence. It is a liability with good posture."
+        }
+      },
+      {
+        "id": "D25-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Delete every unprovable promise",
+        "why": "A one-evening exercise with a visible outcome.",
+        "tiktok": {
+          "fmt": "Kinetic type, 22s",
+          "hook": "Read your last advert and delete every promise you cannot prove. Then see if it still works.",
+          "beats": [
+            "Every promise",
+            "Strike it",
+            "What is left",
+            "Is your offer"
+          ],
+          "vo": "Read your last advert and delete every promise you cannot prove. Strike them out, all of them, and read what is left. If the advert still says something, that is your offer and you should lead with it. If it says nothing, then the promises were the whole advert, and that is worth knowing before a customer finds out for you.",
+          "cap": "Strike out every unprovable promise. What is left is your actual offer.",
+          "body": "Strike out every promise you cannot prove and read what is left. If it still says something, that is your offer. If it says nothing, the promises were the entire advert."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Your last advert",
+            "Strike every promise",
+            "Read what is left",
+            "That is the offer"
+          ],
+          "cap": "An advert with the promises removed is a useful mirror.",
+          "body": "This is uncomfortable the first time and clarifying every time after. Most adverts lose about half their words and all of their noise."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Read your last advert and delete every promise you cannot prove.\n\nStrike them all out. Read what is left.\n\nIf it still says something, that is your offer, and you should be leading with it.\n\nIf it says nothing, the promises were the entire advert — which is worth knowing before a customer finds out for you.\n\nTry it tonight."
+        }
+      }
+    ]
+  }
+]
