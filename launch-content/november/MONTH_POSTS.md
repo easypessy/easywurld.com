@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Monday 23 November 2026** |
+| Ends | **Tuesday 24 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **759 posts** (253 core ideas x 3 platforms) |
+| Month total | **792 posts** (264 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -14132,6 +14132,613 @@ writing on the spot.
 > A seller who can produce it in ten minutes is organised. A seller who says it is a surprise is telling you the product is a surprise too — and surprises are how people end up with a folder they never open.
 > 
 > Ask for the list. It is a normal question.
+
+
+---
+
+
+# Day 24 · Tuesday · Tuesday 24 Nov 2026 — The honest ad
+
+**Offer in focus:** BUNDLE
+
+---
+
+
+## Post 01 · A strikethrough that is a price rise
+
+**Type:** Entertain · **Why it works:** A tactic the audience has definitely seen, named plainly.
+
+### TikTok · 07:00 · Screen recording, 23s
+
+**Hook (0-3s)**
+> This discount is a price rise with a strikethrough on top.
+
+**On-screen beats**
+- Fourteen thousand crossed out
+- Nine thousand today
+- It was nine last month
+- That is not a discount
+
+**Voiceover script**
+> This page shows fourteen thousand crossed out and nine thousand today, except the nine was the price last month and the fourteen never existed. That is not a discount, it is a price rise with good typography. And it is a refund waiting to happen, because one person will screenshot it, and then the number you were using to seem generous becomes the number that proves you were not.
+
+**Caption**
+> A strikethrough on a price that never existed is a lie in a font.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 3-slide carousel
+
+**Slide copy**
+1. ₦14,000 struck out
+2. ₦9,000 "today"
+3. It was ₦9,000 last month
+
+**Caption**
+> Somebody screenshots these. Somebody always screenshots these.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A page I saw shows ₦14,000 crossed out and ₦9,000 'today'.
+> 
+> Except ₦9,000 was the price last month, and ₦14,000 never existed.
+> 
+> That is not a discount. It is a price rise with good typography, and it is a refund waiting to happen — because one person will screenshot it.
+> 
+> Have you ever checked a crossed-out price?
+
+
+---
+
+
+## Post 02 · Forty-five versus thirty-five
+
+**Type:** Entertain · **Why it works:** The entire offer in one sentence.
+
+### TikTok · 09:15 · Kinetic type, 14s
+
+**Hook (0-3s)**
+> Forty five thousand one at a time. Thirty five together. That is the whole offer.
+
+**On-screen beats**
+- Nine packs at five
+- Forty five
+- All nine at thirty five
+- Ten less
+
+**Voiceover script**
+> Forty five thousand if you buy the nine packs one at a time. Thirty five if you take them together. That is the entire offer, and there is nothing else in it. No bonus, no course, no community, no call. A bundle price, because buying nine things in one transaction is easier than buying nine things in nine transactions.
+
+**Caption**
+> ₦45,000 separately. ₦35,000 together. That is the whole offer.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. 9 × ₦5,000 = ₦45,000
+2. All nine: ₦35,000
+3. Saving: ₦10,000
+
+**Caption**
+> One sum and one sentence. That is a complete offer.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> ₦45,000 if you buy the nine packs one at a time.
+> 
+> ₦35,000 if you take them together.
+> 
+> That is the entire offer. No bonus, no course, no community, no call.
+> 
+> A bundle price, because buying nine things in one transaction is easier than buying nine things in nine transactions.
+> 
+> Can you state your offer in one sum?
+
+
+---
+
+
+## Post 03 · Do the maths out loud
+
+**Type:** Teach · **Why it works:** Teaching the sum builds trust in the price.
+
+### TikTok · 11:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Do the bundle maths out loud, on camera, with the actual numbers.
+
+**On-screen beats**
+- Nine times five
+- Forty five
+- Together thirty five
+- You can check it
+
+**Voiceover script**
+> Do the bundle maths out loud, with the actual numbers, so anybody can check it. Nine times five is forty five. Together it is thirty five. You save ten. There is no percentage trick and no rounding, just a sum you can do on your phone in four seconds, which is exactly why it survives being checked by somebody who does not trust you yet.
+
+**Caption**
+> 9 × ₦5,000 = ₦45,000. Together: ₦35,000. Check it on your phone.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 4-slide carousel
+
+**Slide copy**
+1. 9 × ₦5,000
+2. = ₦45,000
+3. Bundle: ₦35,000
+4. Check it yourself
+
+**Caption**
+> A price that survives arithmetic is a price you can defend.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Do the bundle maths out loud:
+> 
+> Nine packs × ₦5,000 = ₦45,000.
+> Together: ₦35,000.
+> You save ₦10,000.
+> 
+> No percentage trick. No rounding. A sum you can do on your phone in four seconds.
+> 
+> That is exactly why it survives being checked by someone who does not trust you yet.
+> 
+> What is your sum?
+
+
+---
+
+
+## Post 04 · Bundle discounts need real products
+
+**Type:** Entertain · **Why it works:** Separates a bundle from a clearance bin.
+
+### TikTok · 13:45 · Talking head, 19s
+
+**Hook (0-3s)**
+> Bundle discounts work when the products are real. Otherwise it is a clearance bin with better lighting.
+
+**On-screen beats**
+- Real products
+- Sold separately
+- At the same price
+- Then the bundle is a convenience
+
+**Voiceover script**
+> Bundle discounts work when the products are real: sold separately, at the stated price, to actual people. Otherwise it is a clearance bin with better lighting, and the customer can feel that. The test is simple. If the individual items never sell at full price, the bundle price is not a discount, it is the real price with a story attached.
+
+**Caption**
+> If the individual items never sell at full price, the bundle is not a discount.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. Sold separately?
+2. At that price?
+3. To real people?
+
+**Caption**
+> A discount from a price nobody paid is not a discount.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Bundle discounts only work when the products are real: sold separately, at the stated price, to actual people.
+> 
+> Otherwise it is a clearance bin with better lighting, and the customer can feel that.
+> 
+> The test: if the individual items never sell at full price, the bundle price is not a discount. It is the real price with a story attached.
+> 
+> What is the last bundle you trusted?
+
+
+---
+
+
+## Post 05 · The buyer did the maths
+
+**Type:** Entertain · **Why it works:** The customer closing themselves is the ideal sale.
+
+### TikTok · 15:00 · Talking head, 26s
+
+**Hook (0-3s)**
+> A buyer did the maths on camera and said so I save ten. That was the sale.
+
+**On-screen beats**
+- She opened her calculator
+- Nine times five
+- Thirty five
+- Then she paid
+
+**Voiceover script**
+> A buyer opened her calculator while we were talking, did nine times five, looked at the bundle price and said so I save ten. Then she paid. I did not have to sell anything after that, because she had sold it to herself with arithmetic. That is what a checkable offer does: it removes the argument, and the argument is where most sales die.
+
+**Caption**
+> She did the sum herself and said "so I save ten". Then she paid.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · 4-slide carousel
+
+**Slide copy**
+1. She opened a calculator
+2. Did the sum
+3. "So I save ten"
+4. Then she paid
+
+**Caption**
+> The best sale is the one the customer closes with a calculator.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A buyer opened her calculator while we were talking, did nine times five, looked at the bundle price and said: 'So I save ten.'
+> 
+> Then she paid.
+> 
+> I did not have to sell anything after that. She had sold it to herself with arithmetic.
+> 
+> That is what a checkable offer does. It removes the argument, and the argument is where most sales die.
+> 
+> When did a sum close something for you?
+
+
+---
+
+
+## Post 06 · Name the saving, not the percentage
+
+**Type:** Teach · **Why it works:** A copy rule with an immediate A/B test attached.
+
+### TikTok · 16:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> Name the saving, not the percentage. Ten thousand naira beats twenty two percent.
+
+**On-screen beats**
+- Percentages need maths
+- Money does not
+- Say the number
+- In the currency they hold
+
+**Voiceover script**
+> Name the saving, not the percentage. Ten thousand naira beats twenty two percent, because the percentage requires a calculation and the money is already a decision. Twenty two percent could be a lot or a little depending on the price. Ten thousand is ten thousand, which is a phone, a month of transport, or the difference between a good month and a bad one.
+
+**Caption**
+> ₦10,000 is a decision. 22% is a homework assignment.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. "22% off"
+2. = do maths
+3. "₦10,000 off"
+4. = decide
+
+**Caption**
+> Say the number in the currency they actually hold.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Name the saving, not the percentage.
+> 
+> ₦10,000 beats 22% off, because the percentage needs a calculation and the money is already a decision.
+> 
+> 22% could be a lot or a little. ₦10,000 is a phone, a month of transport, or the difference between a good month and a bad one.
+> 
+> Which one is on your page right now?
+
+
+---
+
+
+## Post 07 · 22% is invisible
+
+**Type:** Entertain · **Why it works:** A slogan-length version of the previous post.
+
+### TikTok · 18:00 · Kinetic type, 13s
+
+**Hook (0-3s)**
+> Twenty two percent off is invisible. Ten thousand naira off is not.
+
+**On-screen beats**
+- One is a feeling
+- One is a fact
+- Say the fact
+- Every time
+
+**Voiceover script**
+> Twenty two percent off is invisible, and ten thousand naira off is not, and the difference is not maths. It is that one is a proportion of something the customer has to look up, and the other is money they can already picture spending. Say the fact. Keep the percentage for the invoice.
+
+**Caption**
+> One is a feeling. One is a fact. Say the fact.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. 22%: a feeling
+2. ₦10,000: a fact
+3. Lead with the fact
+
+**Caption**
+> Percentages are for invoices. Amounts are for people.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> 22% off is invisible. ₦10,000 off is not.
+> 
+> One is a proportion of something the customer has to look up. The other is money they can already picture spending.
+> 
+> Say the fact. Keep the percentage for the invoice.
+> 
+> Which one does your page lead with?
+
+
+---
+
+
+## Post 08 · Is thirty-five a lot
+
+**Type:** Entertain · **Why it works:** The answer tells you what you actually have to prove.
+
+### TikTok · 19:00 · Street interview, 25s
+
+**Hook (0-3s)**
+> I asked if thirty five thousand was a lot for nine business documents.
+
+**On-screen beats**
+- Most said it depends
+- On what is in them
+- Not on the price
+- On the inventory
+
+**Voiceover script**
+> I asked whether thirty five thousand naira was a lot for nine business documents. Almost nobody answered the question directly. They all said it depends what is in them, which is the most useful thing anyone said all week, because it means the price is never the objection. The unknown is the objection. Show the inside and the price becomes a comparison instead of a number.
+
+**Caption**
+> "It depends what is in them." The price is not the objection. The unknown is.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · 3-slide carousel
+
+**Slide copy**
+1. "Is ₦35,000 a lot?"
+2. "Depends what's in them"
+3. So show the inside
+
+**Caption**
+> Price objections are usually contents objections wearing a price costume.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked whether ₦35,000 was a lot for nine business documents.
+> 
+> Almost nobody answered directly. They all said it depends what is in them.
+> 
+> Which is the most useful thing anyone said all week, because it means the price is never the objection. The unknown is.
+> 
+> Show the inside and the price becomes a comparison instead of a number.
+> 
+> What are you leaving unknown?
+
+
+---
+
+
+## Post 09 · Saves ten, buys nothing new
+
+**Type:** Sell · **Why it works:** The most honest possible description of a discount.
+
+### TikTok · 20:00 · Overhead shot, 23s
+
+**Hook (0-3s)**
+> The bundle saves ten thousand naira and buys you nothing new.
+
+**On-screen beats**
+- Same files
+- Ten less
+- Fewer decisions
+- That is the whole thing
+
+**Voiceover script**
+> The bundle saves ten thousand naira and buys you nothing new. Same thirty six files, same nine packs, one payment instead of nine. If that is worth ten thousand to you, take it. If you were only ever going to use two packs, buy two, because the bundle is a discount on volume and volume is only useful if you will use it.
+
+**Caption**
+> Same files, ₦10,000 less, one decision. BUNDLE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · 4-slide carousel
+
+**Slide copy**
+1. Same 36 files
+2. ₦10,000 less
+3. One payment
+4. Only if you will use them
+
+**Caption**
+> A discount on volume is only a discount if the volume gets used.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The bundle saves ₦10,000 and buys you nothing new.
+> 
+> Same 36 files. Same nine packs. One payment instead of nine.
+> 
+> If that is worth ₦10,000 to you, take it. If you were only ever going to use two packs, buy two — the bundle is a discount on volume, and volume is only useful if it gets used.
+> 
+> Message BUNDLE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · Raise prices to fake a discount
+
+**Type:** Entertain · **Why it works:** A refusal that protects the audience from a common trick.
+
+### TikTok · 20:45 · Talking head, 30s
+
+**Hook (0-3s)**
+> We were asked to raise our prices so we could announce a discount. We said no.
+
+**On-screen beats**
+- Forty five, then thirty five
+- It looks like a launch
+- It is a lie with a countdown
+- And someone will notice
+
+**Voiceover script**
+> Someone suggested we list the packs at seven thousand for a week and then announce a launch price of five, so the five looks like a favour. We said no. It would work once. Then the seven becomes the number people remember, the five becomes the real price, and every future discount has to be bigger, which is a ladder with no top. Five thousand is the price. It was five thousand last month.
+
+**Caption**
+> The price was ₦5,000 last month. It is ₦5,000 this month. That is the discount.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. Inflate to ₦7,000
+2. Announce ₦5,000
+3. A ladder with no top
+
+**Caption**
+> Fake urgency is a loan against your next price.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone suggested we list the packs at ₦7,000 for a week, then announce a launch price of ₦5,000 so the five looks like a favour.
+> 
+> We said no.
+> 
+> It would work once. Then ₦7,000 becomes the number people remember, ₦5,000 becomes the real price, and every future discount has to be bigger. A ladder with no top.
+> 
+> ₦5,000 is the price. It was ₦5,000 last month.
+
+
+---
+
+
+## Post 11 · Compare unit price
+
+**Type:** Teach · **Why it works:** Gives the buyer a defence against every discount in their feed.
+
+### TikTok · 21:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Before you compare two offers, compare the unit price. Every time.
+
+**On-screen beats**
+- Divide by the number of things
+- Per file
+- Per month
+- Then compare
+
+**Voiceover script**
+> Before you compare two offers, compare the unit price. Divide the total by the number of things you actually get, per file, per month, per session. A bundle that looks cheaper per item is only cheaper if you use the items, so the real unit is not the file, it is the file you open. That single division has saved me more money than any advice I have ever read.
+
+**Caption**
+> Divide by what you will use, not by what is in the box.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 4-slide carousel
+
+**Slide copy**
+1. Total ÷ items
+2. Not items in box
+3. Items you will use
+4. Then compare
+
+**Caption**
+> The real unit is the thing you open, not the thing you bought.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Before you compare two offers, compare the unit price.
+> 
+> Divide the total by the number of things you actually get — per file, per month, per session.
+> 
+> Then divide it again by the number you will actually use.
+> 
+> A bundle that looks cheaper per item is only cheaper if the items get opened.
+> 
+> The real unit is the file you open, not the file you bought.
 
 
 ---

@@ -1,0 +1,285 @@
+[
+  {
+    "day": 24,
+    "label": "Day 24 · Tuesday",
+    "theme": "The honest ad",
+    "offer": "BUNDLE",
+    "posts": [
+      {
+        "id": "D24-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "A strikethrough that is a price rise",
+        "why": "A tactic the audience has definitely seen, named plainly.",
+        "tiktok": {
+          "fmt": "Screen recording, 23s",
+          "hook": "This discount is a price rise with a strikethrough on top.",
+          "beats": ["Fourteen thousand crossed out", "Nine thousand today", "It was nine last month", "That is not a discount"],
+          "vo": "This page shows fourteen thousand crossed out and nine thousand today, except the nine was the price last month and the fourteen never existed. That is not a discount, it is a price rise with good typography. And it is a refund waiting to happen, because one person will screenshot it, and then the number you were using to seem generous becomes the number that proves you were not.",
+          "cap": "A strikethrough on a price that never existed is a lie in a font.",
+          "body": "Fourteen thousand crossed out, nine today — except nine was the price last month and fourteen never existed. That is a price rise with good typography, and it is a refund waiting to happen."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["₦14,000 struck out", "₦9,000 \"today\"", "It was ₦9,000 last month"],
+          "cap": "Somebody screenshots these. Somebody always screenshots these.",
+          "body": "The invented original price only works until one person checks. And the people most likely to check are the ones who were going to buy."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A page I saw shows ₦14,000 crossed out and ₦9,000 'today'.\n\nExcept ₦9,000 was the price last month, and ₦14,000 never existed.\n\nThat is not a discount. It is a price rise with good typography, and it is a refund waiting to happen — because one person will screenshot it.\n\nHave you ever checked a crossed-out price?"
+        }
+      },
+      {
+        "id": "D24-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "Forty-five versus thirty-five",
+        "why": "The entire offer in one sentence.",
+        "tiktok": {
+          "fmt": "Kinetic type, 14s",
+          "hook": "Forty five thousand one at a time. Thirty five together. That is the whole offer.",
+          "beats": ["Nine packs at five", "Forty five", "All nine at thirty five", "Ten less"],
+          "vo": "Forty five thousand if you buy the nine packs one at a time. Thirty five if you take them together. That is the entire offer, and there is nothing else in it. No bonus, no course, no community, no call. A bundle price, because buying nine things in one transaction is easier than buying nine things in nine transactions.",
+          "cap": "₦45,000 separately. ₦35,000 together. That is the whole offer.",
+          "body": "Nine packs at five thousand is forty-five. All nine together is thirty-five. A bundle price, because one transaction is easier than nine. There is nothing else in the offer."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["9 × ₦5,000 = ₦45,000", "All nine: ₦35,000", "Saving: ₦10,000"],
+          "cap": "One sum and one sentence. That is a complete offer.",
+          "body": "If you cannot state your offer as a single sum, it is probably two offers wearing one price tag."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "₦45,000 if you buy the nine packs one at a time.\n\n₦35,000 if you take them together.\n\nThat is the entire offer. No bonus, no course, no community, no call.\n\nA bundle price, because buying nine things in one transaction is easier than buying nine things in nine transactions.\n\nCan you state your offer in one sum?"
+        }
+      },
+      {
+        "id": "D24-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Do the maths out loud",
+        "why": "Teaching the sum builds trust in the price.",
+        "tiktok": {
+          "fmt": "Kinetic type, 21s",
+          "hook": "Do the bundle maths out loud, on camera, with the actual numbers.",
+          "beats": ["Nine times five", "Forty five", "Together thirty five", "You can check it"],
+          "vo": "Do the bundle maths out loud, with the actual numbers, so anybody can check it. Nine times five is forty five. Together it is thirty five. You save ten. There is no percentage trick and no rounding, just a sum you can do on your phone in four seconds, which is exactly why it survives being checked by somebody who does not trust you yet.",
+          "cap": "9 × ₦5,000 = ₦45,000. Together: ₦35,000. Check it on your phone.",
+          "body": "Nine times five, forty five. Together, thirty five. A sum you can do on your phone in four seconds, which is exactly why it survives being checked by someone who does not trust you yet."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["9 × ₦5,000", "= ₦45,000", "Bundle: ₦35,000", "Check it yourself"],
+          "cap": "A price that survives arithmetic is a price you can defend.",
+          "body": "Percentages invite suspicion because they hide the sum. Plain arithmetic invites a calculator, and a calculator will confirm you."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Do the bundle maths out loud:\n\nNine packs × ₦5,000 = ₦45,000.\nTogether: ₦35,000.\nYou save ₦10,000.\n\nNo percentage trick. No rounding. A sum you can do on your phone in four seconds.\n\nThat is exactly why it survives being checked by someone who does not trust you yet.\n\nWhat is your sum?"
+        }
+      },
+      {
+        "id": "D24-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "Bundle discounts need real products",
+        "why": "Separates a bundle from a clearance bin.",
+        "tiktok": {
+          "fmt": "Talking head, 19s",
+          "hook": "Bundle discounts work when the products are real. Otherwise it is a clearance bin with better lighting.",
+          "beats": ["Real products", "Sold separately", "At the same price", "Then the bundle is a convenience"],
+          "vo": "Bundle discounts work when the products are real: sold separately, at the stated price, to actual people. Otherwise it is a clearance bin with better lighting, and the customer can feel that. The test is simple. If the individual items never sell at full price, the bundle price is not a discount, it is the real price with a story attached.",
+          "cap": "If the individual items never sell at full price, the bundle is not a discount.",
+          "body": "Real products sold separately at the stated price, to actual people. If the individual items never sell at full price, the bundle price is not a discount — it is the real price with a story attached."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Sold separately?", "At that price?", "To real people?"],
+          "cap": "A discount from a price nobody paid is not a discount.",
+          "body": "This is the test to apply to every bundle you are offered, including ours. Our packs sell individually at five thousand, and the arithmetic is public."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Bundle discounts only work when the products are real: sold separately, at the stated price, to actual people.\n\nOtherwise it is a clearance bin with better lighting, and the customer can feel that.\n\nThe test: if the individual items never sell at full price, the bundle price is not a discount. It is the real price with a story attached.\n\nWhat is the last bundle you trusted?"
+        }
+      },
+      {
+        "id": "D24-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "The buyer did the maths",
+        "why": "The customer closing themselves is the ideal sale.",
+        "tiktok": {
+          "fmt": "Talking head, 26s",
+          "hook": "A buyer did the maths on camera and said so I save ten. That was the sale.",
+          "beats": ["She opened her calculator", "Nine times five", "Thirty five", "Then she paid"],
+          "vo": "A buyer opened her calculator while we were talking, did nine times five, looked at the bundle price and said so I save ten. Then she paid. I did not have to sell anything after that, because she had sold it to herself with arithmetic. That is what a checkable offer does: it removes the argument, and the argument is where most sales die.",
+          "cap": "She did the sum herself and said \"so I save ten\". Then she paid.",
+          "body": "She opened her calculator mid-conversation, did nine times five, looked at the bundle price and said so I save ten. Then she paid. The argument is where most sales die, and arithmetic removes it."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["She opened a calculator", "Did the sum", "\"So I save ten\"", "Then she paid"],
+          "cap": "The best sale is the one the customer closes with a calculator.",
+          "body": "You cannot argue someone into trusting a price, but you can hand them the sum and let them decide. Most people decide faster when they can check."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A buyer opened her calculator while we were talking, did nine times five, looked at the bundle price and said: 'So I save ten.'\n\nThen she paid.\n\nI did not have to sell anything after that. She had sold it to herself with arithmetic.\n\nThat is what a checkable offer does. It removes the argument, and the argument is where most sales die.\n\nWhen did a sum close something for you?"
+        }
+      },
+      {
+        "id": "D24-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Name the saving, not the percentage",
+        "why": "A copy rule with an immediate A/B test attached.",
+        "tiktok": {
+          "fmt": "Kinetic type, 20s",
+          "hook": "Name the saving, not the percentage. Ten thousand naira beats twenty two percent.",
+          "beats": ["Percentages need maths", "Money does not", "Say the number", "In the currency they hold"],
+          "vo": "Name the saving, not the percentage. Ten thousand naira beats twenty two percent, because the percentage requires a calculation and the money is already a decision. Twenty two percent could be a lot or a little depending on the price. Ten thousand is ten thousand, which is a phone, a month of transport, or the difference between a good month and a bad one.",
+          "cap": "₦10,000 is a decision. 22% is a homework assignment.",
+          "body": "A percentage requires a calculation. The money is already a decision. Ten thousand naira is a phone, a month of transport, or the difference between a good month and a bad one."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["\"22% off\"", "= do maths", "\"₦10,000 off\"", "= decide"],
+          "cap": "Say the number in the currency they actually hold.",
+          "body": "This works in every market and every price bracket. Percentages flatter the seller; amounts help the buyer."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Name the saving, not the percentage.\n\n₦10,000 beats 22% off, because the percentage needs a calculation and the money is already a decision.\n\n22% could be a lot or a little. ₦10,000 is a phone, a month of transport, or the difference between a good month and a bad one.\n\nWhich one is on your page right now?"
+        }
+      },
+      {
+        "id": "D24-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "22% is invisible",
+        "why": "A slogan-length version of the previous post.",
+        "tiktok": {
+          "fmt": "Kinetic type, 13s",
+          "hook": "Twenty two percent off is invisible. Ten thousand naira off is not.",
+          "beats": ["One is a feeling", "One is a fact", "Say the fact", "Every time"],
+          "vo": "Twenty two percent off is invisible, and ten thousand naira off is not, and the difference is not maths. It is that one is a proportion of something the customer has to look up, and the other is money they can already picture spending. Say the fact. Keep the percentage for the invoice.",
+          "cap": "One is a feeling. One is a fact. Say the fact.",
+          "body": "One is a proportion of something the customer has to look up. The other is money they can already picture spending. Say the fact and keep the percentage for the invoice."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["22%: a feeling", "₦10,000: a fact", "Lead with the fact"],
+          "cap": "Percentages are for invoices. Amounts are for people.",
+          "body": "The same rule applies to salaries, invoices, and your own pricing page. Amounts travel better than proportions."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "22% off is invisible. ₦10,000 off is not.\n\nOne is a proportion of something the customer has to look up. The other is money they can already picture spending.\n\nSay the fact. Keep the percentage for the invoice.\n\nWhich one does your page lead with?"
+        }
+      },
+      {
+        "id": "D24-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "Is thirty-five a lot",
+        "why": "The answer tells you what you actually have to prove.",
+        "tiktok": {
+          "fmt": "Street interview, 25s",
+          "hook": "I asked if thirty five thousand was a lot for nine business documents.",
+          "beats": ["Most said it depends", "On what is in them", "Not on the price", "On the inventory"],
+          "vo": "I asked whether thirty five thousand naira was a lot for nine business documents. Almost nobody answered the question directly. They all said it depends what is in them, which is the most useful thing anyone said all week, because it means the price is never the objection. The unknown is the objection. Show the inside and the price becomes a comparison instead of a number.",
+          "cap": "\"It depends what is in them.\" The price is not the objection. The unknown is.",
+          "body": "Nobody answered the price question directly. They said it depends what is in them, which means the price is never the objection — the unknown is. Show the inside and the price becomes a comparison."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["\"Is ₦35,000 a lot?\"", "\"Depends what's in them\"", "So show the inside"],
+          "cap": "Price objections are usually contents objections wearing a price costume.",
+          "body": "When someone says it is too expensive, they usually mean they cannot see what they are buying. Fix that first and the price conversation changes."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I asked whether ₦35,000 was a lot for nine business documents.\n\nAlmost nobody answered directly. They all said it depends what is in them.\n\nWhich is the most useful thing anyone said all week, because it means the price is never the objection. The unknown is.\n\nShow the inside and the price becomes a comparison instead of a number.\n\nWhat are you leaving unknown?"
+        }
+      },
+      {
+        "id": "D24-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "Saves ten, buys nothing new",
+        "why": "The most honest possible description of a discount.",
+        "tiktok": {
+          "fmt": "Overhead shot, 23s",
+          "hook": "The bundle saves ten thousand naira and buys you nothing new.",
+          "beats": ["Same files", "Ten less", "Fewer decisions", "That is the whole thing"],
+          "vo": "The bundle saves ten thousand naira and buys you nothing new. Same thirty six files, same nine packs, one payment instead of nine. If that is worth ten thousand to you, take it. If you were only ever going to use two packs, buy two, because the bundle is a discount on volume and volume is only useful if you will use it.",
+          "cap": "Same files, ₦10,000 less, one decision. BUNDLE on WhatsApp: 0905 069 0837.",
+          "body": "Same thirty-six files, same nine packs, one payment instead of nine. If you were only going to use two packs, buy two — the bundle is a discount on volume, and volume is only useful if it gets used."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Same 36 files", "₦10,000 less", "One payment", "Only if you will use them"],
+          "cap": "A discount on volume is only a discount if the volume gets used.",
+          "body": "This is the honest framing of every bundle ever sold: you pay less per item and you buy more items. Both halves of that sentence matter."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The bundle saves ₦10,000 and buys you nothing new.\n\nSame 36 files. Same nine packs. One payment instead of nine.\n\nIf that is worth ₦10,000 to you, take it. If you were only ever going to use two packs, buy two — the bundle is a discount on volume, and volume is only useful if it gets used.\n\nMessage BUNDLE on WhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D24-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "Raise prices to fake a discount",
+        "why": "A refusal that protects the audience from a common trick.",
+        "tiktok": {
+          "fmt": "Talking head, 30s",
+          "hook": "We were asked to raise our prices so we could announce a discount. We said no.",
+          "beats": ["Forty five, then thirty five", "It looks like a launch", "It is a lie with a countdown", "And someone will notice"],
+          "vo": "Someone suggested we list the packs at seven thousand for a week and then announce a launch price of five, so the five looks like a favour. We said no. It would work once. Then the seven becomes the number people remember, the five becomes the real price, and every future discount has to be bigger, which is a ladder with no top. Five thousand is the price. It was five thousand last month.",
+          "cap": "The price was ₦5,000 last month. It is ₦5,000 this month. That is the discount.",
+          "body": "List at seven, announce five, and the five looks like a favour. It works once. Then the seven is what people remember and every future discount has to be bigger, which is a ladder with no top."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": ["Inflate to ₦7,000", "Announce ₦5,000", "A ladder with no top"],
+          "cap": "Fake urgency is a loan against your next price.",
+          "body": "Every invented discount raises the number the customer expects to pay later. It is borrowing attention now and repaying it every month after."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Someone suggested we list the packs at ₦7,000 for a week, then announce a launch price of ₦5,000 so the five looks like a favour.\n\nWe said no.\n\nIt would work once. Then ₦7,000 becomes the number people remember, ₦5,000 becomes the real price, and every future discount has to be bigger. A ladder with no top.\n\n₦5,000 is the price. It was ₦5,000 last month."
+        }
+      },
+      {
+        "id": "D24-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Compare unit price",
+        "why": "Gives the buyer a defence against every discount in their feed.",
+        "tiktok": {
+          "fmt": "Kinetic type, 21s",
+          "hook": "Before you compare two offers, compare the unit price. Every time.",
+          "beats": ["Divide by the number of things", "Per file", "Per month", "Then compare"],
+          "vo": "Before you compare two offers, compare the unit price. Divide the total by the number of things you actually get, per file, per month, per session. A bundle that looks cheaper per item is only cheaper if you use the items, so the real unit is not the file, it is the file you open. That single division has saved me more money than any advice I have ever read.",
+          "cap": "Divide by what you will use, not by what is in the box.",
+          "body": "Divide the total by the number of things you will actually use. A bundle that looks cheaper per item is only cheaper if the items get opened."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": ["Total ÷ items", "Not items in box", "Items you will use", "Then compare"],
+          "cap": "The real unit is the thing you open, not the thing you bought.",
+          "body": "This works for data bundles, subscriptions, courses and gym memberships. The maths is always the same and it is always unflattering to the bigger package."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Before you compare two offers, compare the unit price.\n\nDivide the total by the number of things you actually get — per file, per month, per session.\n\nThen divide it again by the number you will actually use.\n\nA bundle that looks cheaper per item is only cheaper if the items get opened.\n\nThe real unit is the file you open, not the file you bought."
+        }
+      }
+    ]
+  }
+]
