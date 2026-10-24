@@ -1,0 +1,741 @@
+[
+  {
+    "day": 13,
+    "label": "Day 13 · Friday",
+    "theme": "The follow-up week",
+    "offer": "BUNDLE",
+    "posts": [
+      {
+        "id": "D13-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "Seven CTAs in forty words",
+        "why": "Everyone has written this caption, so the shame lands as recognition.",
+        "tiktok": {
+          "fmt": "Screen recording, 22s",
+          "hook": "This post has seven calls to action in forty words. That means it has none.",
+          "beats": [
+            "Link in bio",
+            "DM me",
+            "Comment",
+            "Call",
+            "Book",
+            "Save",
+            "Share",
+            "Nobody does anything"
+          ],
+          "vo": "This post has seven calls to action in forty words. Link in bio, DM me, comment below, call this number, book a slot, save it, share it. When you ask for seven things, the reader does nothing, because choosing is work. One post, one ask. Everything else is noise you paid attention to write.",
+          "cap": "Seven asks is not ambition. It is indecision, published."
+        },
+        "instagram": {
+          "fmt": "4-slide carousel",
+          "slides": [
+            "Link in bio",
+            "DM me",
+            "Comment · call · book",
+            "Seven asks = no ask"
+          ],
+          "cap": "Ask for one thing. The other six are why nobody did anything."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A caption I saw this week had seven calls to action in forty words: link in bio, DM me, comment below, call, book, save, share.\n\nSeven asks is not ambition. It is indecision, published.\n\nWhen you ask for seven things, the reader does nothing, because choosing is work.\n\nOne post, one ask. Write the other six down for another day.\n\nWhat is the one thing you want people to do?"
+        }
+      },
+      {
+        "id": "D13-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "One post, one job",
+        "why": "The simplest rule in the whole month, stated flatly.",
+        "tiktok": {
+          "fmt": "Kinetic type, 13s",
+          "hook": "One post, one job: entertain, teach, or sell. Pick one.",
+          "beats": [
+            "Not two",
+            "Not three",
+            "One",
+            "Then post it"
+          ],
+          "vo": "One post, one job. Entertain, teach, or sell. Pick one and commit to it, because the post that tries to do two does neither well. The one that entertains and then asks for money loses the entertainment. The one that teaches and then sells loses the teaching. Pick one job and let the next post do the other.",
+          "cap": "A post that does two jobs does neither."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Entertain",
+            "Teach",
+            "Sell",
+            "Pick one"
+          ],
+          "cap": "Three jobs, eleven posts a day, one job each."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "One post, one job.\n\nEntertain. Teach. Or sell.\n\nPick one and commit, because a post that tries to do two does neither well. The one that entertains and then asks for money loses the entertainment. The one that teaches and then sells loses the teaching.\n\nYour next post can do the other job.\n\nWhich of the three do you default to?"
+        }
+      },
+      {
+        "id": "D13-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The one-word CTA",
+        "why": "A copyable mechanic, not advice.",
+        "tiktok": {
+          "fmt": "Kinetic type, 20s",
+          "hook": "Use one word as your call to action. Not four sentences of them.",
+          "beats": [
+            "One word",
+            "In capitals",
+            "It is a key",
+            "They type it, then everything else happens"
+          ],
+          "vo": "Use one word as your call to action. Not link in bio, DM me, call, comment. One word in capitals: BUNDLE. They type it in the chat and a person replies. That word is a key, and a key is easier to turn than a paragraph of instructions. Test it for a week and count the messages.",
+          "cap": "One word in capitals. They type it. A human replies. That is the whole funnel."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Not: link in bio · DM · call",
+            "Yes: BUNDLE",
+            "One word is a key"
+          ],
+          "cap": "A key is easier to turn than a paragraph."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Use one word as your call to action.\n\nNot 'link in bio, DM me, call, comment'. One word, in capitals: BUNDLE.\n\nThey type it in the chat, a person replies, and the conversation starts properly. That word is a key, and a key is far easier to turn than a paragraph of instructions.\n\nTry it for a week and count the messages.\n\nWhat would your one word be?"
+        }
+      },
+      {
+        "id": "D13-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "\"Only 2 left\" with 40 left",
+        "why": "Names a practice the audience has caught others doing.",
+        "tiktok": {
+          "fmt": "Talking head, 21s",
+          "hook": "\"Only two left\" when there are forty left is the end of your credibility.",
+          "beats": [
+            "People check",
+            "They always check",
+            "Now nothing you say is true",
+            "Including the price"
+          ],
+          "vo": "Only two left, when there are forty left, is the end of your credibility. People check. They always check, because they have been lied to before. And once one number on your page is invented, every other number becomes a guess, including the price, which was true. Fake scarcity does not create urgency, it creates suspicion.",
+          "cap": "One invented number makes every true number look invented."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "\"Only 2 left\"",
+            "There are 40",
+            "They checked"
+          ],
+          "cap": "Fake scarcity does not create urgency. It creates suspicion."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "'Only two left', when there are forty left, is the end of your credibility.\n\nPeople check. They always check, because they have been lied to before.\n\nAnd once one number on your page is invented, every other number becomes a guess — including the price, which was true.\n\nFake scarcity does not create urgency. It creates suspicion.\n\nHave you ever caught a shop doing this?"
+        }
+      },
+      {
+        "id": "D13-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "Six packs, no price in the caption",
+        "why": "A mechanic with a real result attached, and no overclaiming.",
+        "tiktok": {
+          "fmt": "Talking head, 28s",
+          "hook": "A post sold six packs with no price in the caption at all.",
+          "beats": [
+            "Pinned comment had it",
+            "Because the caption is for everyone",
+            "The comment is for the ready",
+            "Two audiences, one post"
+          ],
+          "vo": "A post sold six packs with no price in the caption. The price was in the pinned comment. That was the whole trick. The caption stayed useful to the people who were never going to buy, and the people who were ready found the number one tap away. Same post, two audiences, nobody annoyed.",
+          "cap": "Price in the pinned comment. Six sales. The caption stayed readable."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "Caption: no price",
+            "Pinned comment: the number",
+            "6 packs sold"
+          ],
+          "cap": "Serve the ready without lecturing everyone else."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "A post sold six packs with no price in the caption. The price was in the pinned comment.\n\nThat was the entire trick.\n\nThe caption stayed useful to the people who were never going to buy. The people who were ready found the number one tap away.\n\nSame post, two audiences, nobody annoyed.\n\nWhat is in your first comment usually?"
+        }
+      },
+      {
+        "id": "D13-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Sell the limit",
+        "why": "The most transferable idea of the week, usable outside our packs.",
+        "tiktok": {
+          "fmt": "Kinetic type, 23s",
+          "hook": "Sell the limit, not the dream. \"It will not get you customers\" sells better than a promise.",
+          "beats": [
+            "Every ad promises",
+            "Promises sound like ads",
+            "A limit sounds like a person",
+            "Then they trust the rest"
+          ],
+          "vo": "Sell the limit, not the dream. It will not get you customers, it will stop you losing the ones you have. That sentence sells better than any promise, because every ad promises and almost none admit a boundary. A limit sounds like a person telling the truth, and once they trust the limit, they trust the price.",
+          "cap": "A limit sounds like a person. A promise sounds like an ad."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Promises sound like ads",
+            "Limits sound like people",
+            "Lead with the limit"
+          ],
+          "cap": "Say what it will not do. That is where trust starts."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Sell the limit, not the dream.\n\n'It will not get you customers — it will stop you losing the ones you already have.'\n\nThat sentence outsells any promise, because every ad promises and almost none admit a boundary. A limit sounds like a person telling the truth. Once they trust the limit, they trust the price.\n\nWhat is the honest limit of what you sell?"
+        }
+      },
+      {
+        "id": "D13-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "The caption for people who already want it",
+        "why": "Splits the audience in a way people have never considered.",
+        "tiktok": {
+          "fmt": "Kinetic type, 17s",
+          "hook": "Your caption explains the offer to the people who already want it.",
+          "beats": [
+            "They do not need the paragraph",
+            "They need the link",
+            "The paragraph is for the others",
+            "So write both, in order"
+          ],
+          "vo": "Your caption explains the offer to the people who already want it. They do not need explaining. They need the link, in the first three lines, so they can act before their attention drifts. The explanation is for the ones who are not sure yet, and it can come after. Two groups, one order: price, then paragraph.",
+          "cap": "Price first. Paragraph second. Two groups, one order."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Already want it: need the link",
+            "Not sure: need the why",
+            "Price first, both served"
+          ],
+          "cap": "Stop explaining to people who already decided."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Your caption usually explains the offer to the people who already want it.\n\nThey do not need explaining. They need the link, in the first three lines, before their attention drifts.\n\nThe explanation is for the people who are not sure yet, and it can come after.\n\nTwo groups, one order: price first, paragraph second.\n\nWhich group do you write for?"
+        }
+      },
+      {
+        "id": "D13-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "What made you buy the last thing online?",
+        "why": "Unprompted witnesses saying the same thing as our teaching.",
+        "tiktok": {
+          "fmt": "Street interview, 26s",
+          "hook": "I asked what made people buy the last thing they bought online.",
+          "beats": [
+            "Not the copy",
+            "Not the design",
+            "I could see what it was",
+            "And what it cost"
+          ],
+          "vo": "I asked what made people buy the last thing they bought online. Nobody said the copywriting. Nobody said the design. Two things came up again and again: I could see what it was, and I could see what it cost. That is the entire job of a page, and it is smaller than most people's websites.",
+          "cap": "\"I could see what it was and what it cost.\" Nothing else came up."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "\"I could see what it was\"",
+            "\"And what it cost\"",
+            "That is the whole page"
+          ],
+          "cap": "Visibility and price. Everything else is decoration you chose."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I asked people what made them buy the last thing they bought online.\n\nNobody said the copywriting. Nobody said the design.\n\nTwo answers came up again and again: 'I could see what it was' and 'I could see what it cost'.\n\nThat is the entire job of a page, and it is far smaller than most people's websites.\n\nCan a stranger do both on yours in five seconds?"
+        }
+      },
+      {
+        "id": "D13-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "The bundle buys nothing new",
+        "why": "The most counterintuitive honest ad of the month.",
+        "tiktok": {
+          "fmt": "Overhead shot, 25s",
+          "hook": "The bundle is thirty-five thousand naira and it buys you nothing new.",
+          "beats": [
+            "Same nine packs",
+            "Ten thousand cheaper",
+            "One decision instead of nine",
+            "That is the product"
+          ],
+          "vo": "The bundle is thirty five thousand naira and it buys you nothing new. Same nine packs, ten thousand naira cheaper than buying them separately, and one decision instead of nine. That is the whole offer. It is not a course, not a community, not a call. If you only need one pack, buy one pack, because the bundle is for people who want all of it.",
+          "cap": "₦35,000. Same nine packs, one decision. Buy one pack if you need one. BUNDLE on WhatsApp: 0905 069 0837."
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": [
+            "₦35,000",
+            "Nothing new inside",
+            "Same 9 packs",
+            "₦10,000 less",
+            "One decision"
+          ],
+          "cap": "If you need one pack, buy one pack. The bundle is for the undecided."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The bundle is ₦35,000 and it buys you nothing new.\n\nSame nine packs, ₦10,000 cheaper than buying them separately, and one decision instead of nine.\n\nThat is the whole offer. Not a course, not a community, not a call.\n\nIf you only need one pack, buy one pack. The bundle is for people who want all of it and would rather decide once.\n\nBUNDLE on WhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D13-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "Promising results in the ad",
+        "why": "Explains why our copy reads the way it does, which builds trust in all of it.",
+        "tiktok": {
+          "fmt": "Talking head, 31s",
+          "hook": "Someone asked us to promise results in the ad. We said no and wrote the limit instead.",
+          "beats": [
+            "Promises convert",
+            "Then they refund",
+            "Or they resent you",
+            "A limit filters and keeps"
+          ],
+          "vo": "Someone asked us to write a promise into an ad. We said no. Promises convert, then they refund, then they resent you, and in a small market the resentment is more expensive than the sale. So we wrote the limit instead: this will not get you customers, it will stop you losing the ones you have. Fewer clicks. Better customers.",
+          "cap": "Promises convert once and cost you twice."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "\"Promise results\"",
+            "We said no",
+            "Wrote the limit instead"
+          ],
+          "cap": "A promise sells the first time and ruins the second."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Someone asked us to write a promise into an ad.\n\nWe said no. Promises convert, then they refund, then they resent you — and in a small market the resentment is more expensive than the sale ever was.\n\nSo we wrote the limit instead: this will not get you customers, it will help you keep the ones you have.\n\nFewer clicks. Better customers. No refunds.\n\nWould you rather be believed or clicked?"
+        }
+      },
+      {
+        "id": "D13-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Price in the first three lines",
+        "why": "Concrete and immediately testable on tonight's post.",
+        "tiktok": {
+          "fmt": "Kinetic type, 21s",
+          "hook": "Put the price in the first three lines of the caption. Always.",
+          "beats": [
+            "Because they scroll",
+            "They will not find line nine",
+            "The rest of the caption",
+            "Is for everyone else"
+          ],
+          "vo": "Put the price in the first three lines of the caption. Always. Not because everyone is ready, but because the ones who are ready will not scroll to line nine to find it, and the rest of the caption is for everyone else anyway. Hiding the price does not create curiosity, it creates a search.",
+          "cap": "Three lines. Price in one of them. The rest is for the curious."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Line 1",
+            "Line 2",
+            "Line 3: the price",
+            "Everything after: for the curious"
+          ],
+          "cap": "Hiding the price creates a search, not curiosity."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Put the price in the first three lines of your caption.\n\nAlways.\n\nNot because everyone is ready, but because the people who are ready will not scroll to line nine to find it. The rest of the caption is for everyone else anyway.\n\nHiding the price does not create curiosity. It creates a search.\n\nLook at your last post. Which line was the price on?"
+        }
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "label": "Day 14 · Saturday",
+    "theme": "The receipts",
+    "offer": "PLAYBOOK",
+    "posts": [
+      {
+        "id": "D14-01",
+        "show": "fixthis",
+        "type": "Entertain",
+        "topic": "The worst follow-up of the fortnight",
+        "why": "Closes the follow-up week with the image it opened on.",
+        "tiktok": {
+          "fmt": "Screen recording, 23s",
+          "hook": "The worst follow-up I saw this fortnight: nine messages, all of them hello.",
+          "beats": [
+            "Nine hellos",
+            "No information",
+            "Then a discount",
+            "Then silence"
+          ],
+          "vo": "The worst follow-up I saw this fortnight was nine messages long and every single one said hello. No price, no date, no photograph, nothing to reply to. Then, on the ninth, a discount, which is the sound of someone giving up. Nine chances to be useful and not one of them carried anything.",
+          "cap": "Nine hellos, then a discount. That is not follow-up, that is fading out loud."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "hello?",
+            "Hello",
+            "Any update?",
+            "10% off?",
+            "…"
+          ],
+          "cap": "If none of your messages carry information, none of them are follow-ups."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The worst follow-up I saw this fortnight was nine messages long and every one said hello.\n\nNo price. No date. No photo. Nothing to reply to. Then on the ninth message, a discount — which is the sound of someone giving up.\n\nNine chances to be useful, and not one of them carried anything.\n\nWhat does your follow-up usually say?"
+        }
+      },
+      {
+        "id": "D14-02",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "Two weeks in, the honest number",
+        "why": "A public ledger is the most defensible content an account can post.",
+        "tiktok": {
+          "fmt": "Talking head, 25s",
+          "hook": "Two weeks in. Here is the number, read off the sheet, including the boring parts.",
+          "beats": [
+            "Views are not the point",
+            "Conversations are",
+            "Most posts did little",
+            "The few did most"
+          ],
+          "vo": "Two weeks in, and here is the number read off the sheet. Most posts did very little. A few did most of the work. The conversations that came from it were fewer than the views by a factor of about a thousand, which is normal and is the part nobody posts about. That is the honest state of it, and I would rather show you the flat line than sell you a hockey stick.",
+          "cap": "Two weeks, read off the sheet. Mostly a flat line, a few spikes, and a thousand views per conversation."
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": [
+            "Two weeks",
+            "Most posts: little",
+            "A few: most of it",
+            "Views ÷ 1000 = conversations",
+            "That is normal"
+          ],
+          "cap": "The flat line is the honest part. Most accounts never show it."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Two weeks in, and here is the honest number, read off the sheet.\n\nMost posts did very little. A few did most of the work. The conversations that came out of it were roughly a thousand views per conversation, which is normal and is the part nobody posts about.\n\nI would rather show you the flat line than sell you a hockey stick.\n\nWhat does your own sheet say?"
+        }
+      },
+      {
+        "id": "D14-03",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "The lesson that got the most saves",
+        "why": "Re-runs the winner with new material instead of repeating it.",
+        "tiktok": {
+          "fmt": "Kinetic type, 24s",
+          "hook": "The most saved lesson of the fortnight, again, with a different story.",
+          "beats": [
+            "People save checklists",
+            "This one is five lines",
+            "New example",
+            "Same shape"
+          ],
+          "vo": "The most saved thing I posted this fortnight was the five lines every quote needs. So here it is again with a different example. What it is. How much. By when. What is included. What is not. On a catering quote: jollof for forty, this much, Saturday by noon, plates and serving included, drinks not included. Same five lines, different business.",
+          "cap": "What · How much · By when · Included · Not included. Again, because you saved it."
+        },
+        "instagram": {
+          "fmt": "5-slide carousel",
+          "slides": [
+            "What it is",
+            "How much",
+            "By when",
+            "Included",
+            "Not included"
+          ],
+          "cap": "The same five lines, applied to catering. Use whichever example is yours."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The most saved lesson of the last fortnight, again, with a different example.\n\nWhat it is. How much. By when. What is included. What is not included.\n\nOn a catering quote: jollof for forty people, this much, Saturday by noon, plates and serving included, drinks not included.\n\nSame five lines. Different business. Works every time.\n\nWhich one do you leave out?"
+        }
+      },
+      {
+        "id": "D14-04",
+        "show": "hottake",
+        "type": "Entertain",
+        "topic": "Half of content strategy is answering people",
+        "why": "Cheap to act on, and quietly deflates the mystique of strategy.",
+        "tiktok": {
+          "fmt": "Talking head, 19s",
+          "hook": "Half of what people call content strategy is just answering messages.",
+          "beats": [
+            "Answer the same question",
+            "Publicly",
+            "Again",
+            "That is the strategy"
+          ],
+          "vo": "Half of what people call content strategy is just answering messages in public. Someone asks a question in your chat, you answer it in a post, someone else has the same question, and you have just saved a conversation. Do that forty times and you have a content strategy, a website, and an FAQ, and you did not need a framework.",
+          "cap": "Answer the same question in public forty times. That is the strategy."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "They asked in DM",
+            "Answer it in public",
+            "40 times",
+            "= a strategy"
+          ],
+          "cap": "Your inbox is a content calendar you keep ignoring."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Half of what people call content strategy is just answering messages in public.\n\nSomeone asks a question in your chat. You answer it in a post. Someone else has the same question and now you have saved a conversation.\n\nDo that forty times and you have a content strategy, a website and an FAQ — and you never needed a framework.\n\nWhat did someone ask you this week?"
+        }
+      },
+      {
+        "id": "D14-05",
+        "show": "truestory",
+        "type": "Entertain",
+        "topic": "The best thing anyone said to us this fortnight",
+        "why": "Quoting a customer honestly, with no embellishment.",
+        "tiktok": {
+          "fmt": "Talking head, 27s",
+          "hook": "The best thing anyone said to us this fortnight, quoted exactly.",
+          "beats": [
+            "Not a compliment",
+            "A correction",
+            "You told me the price in the first line",
+            "That is why I messaged"
+          ],
+          "vo": "The best thing anyone said to us this fortnight was not a compliment. It was this: you told me the price in the first line, and that is why I messaged you. Which is not flattering, it is a mechanic. But it was the first proof that the thing we had been writing about all week was doing what we said it did, and it came from a stranger, which is the only place proof counts.",
+          "cap": "\"You told me the price in the first line. That is why I messaged.\""
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "\"You told me the price\"",
+            "\"In the first line\"",
+            "\"That is why I messaged\""
+          ],
+          "cap": "Not a compliment. A mechanic, confirmed by a stranger."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The best thing anyone said to us this fortnight:\n\n'You told me the price in the first line, and that is why I messaged you.'\n\nNot flattering. Just a mechanic, confirmed by a stranger — which is the only place proof actually counts.\n\nWe had been writing about that all week, and there it was in the inbox.\n\nWhat is the last thing a customer told you that you did not expect?"
+        }
+      },
+      {
+        "id": "D14-06",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "What I got wrong this week",
+        "why": "A correction with no lesson attached is rarer and more credible.",
+        "tiktok": {
+          "fmt": "Talking head, 22s",
+          "hook": "What I got wrong this week, with no lesson attached.",
+          "beats": [
+            "I said follow up three times",
+            "I did not follow up once",
+            "Because I was busy",
+            "That is it"
+          ],
+          "vo": "What I got wrong this week. I told you to follow up within three days, and then I did not follow up with a single person who messaged me, because I was busy, which is exactly what every customer of yours says. No lesson attached. I just got it wrong, and the advice is still right, which is the uncomfortable part.",
+          "cap": "Told you to follow up in three days. Did not follow up once. No lesson attached."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "I said: follow up in 3 days",
+            "I followed up: 0 times",
+            "Advice still stands"
+          ],
+          "cap": "\"Do as I say\" is weaker when you admit you did not."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "What I got wrong this week.\n\nI told you to follow up within three days. Then I did not follow up with a single person who messaged me, because I was busy — which is exactly what every customer of yours says.\n\nNo lesson attached. I just got it wrong. The advice is still right, which is the uncomfortable part.\n\nWhere are you not doing the thing you tell other people to do?"
+        }
+      },
+      {
+        "id": "D14-07",
+        "show": "onething",
+        "type": "Entertain",
+        "topic": "The post I deleted",
+        "why": "Transparency about editing builds trust in everything published.",
+        "tiktok": {
+          "fmt": "Talking head, 20s",
+          "hook": "I wrote a post this week and deleted it before publishing. Here is why.",
+          "beats": [
+            "It was a joke at someone's expense",
+            "At a real business",
+            "They would know",
+            "So it went"
+          ],
+          "vo": "I wrote a post this week and deleted it before publishing. It was a teardown of a real business and the joke was at their expense, and they would have recognised themselves, which makes it bullying with a screenshot attached. It would have done well. It went in the bin.",
+          "cap": "It would have performed. It would have been cruel. It went in the bin."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Wrote it",
+            "It would have done numbers",
+            "Deleted it"
+          ],
+          "cap": "If they would recognise themselves, it is not a teardown. It is a joke at their expense."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "I wrote a post this week and deleted it before publishing.\n\nIt was a teardown of a real business and the joke was at their expense. They would have recognised themselves. That makes it bullying with a screenshot attached.\n\nIt would have done numbers.\n\nIt went in the bin.\n\nWhat have you not posted because it was true but unkind?"
+        }
+      },
+      {
+        "id": "D14-08",
+        "show": "street",
+        "type": "Entertain",
+        "topic": "Our own bio, round two",
+        "why": "Pays off the promise made on day 7.",
+        "tiktok": {
+          "fmt": "Street interview, 28s",
+          "hook": "We rewrote our own bio after strangers could not tell what we do. Round two.",
+          "beats": [
+            "New bio",
+            "Still vague",
+            "Round two said: the people who write your homepage",
+            "Better, not perfect"
+          ],
+          "vo": "We rewrote our bio after strangers could not tell what we do. Round one said helping brands tell their story, which is what everybody says. Round two says we write the words on your homepage, in eight words or fewer. This time six out of ten knew what we did. Not perfect. Better. The lesson is the same one we give everybody: say the thing, not the feeling.",
+          "cap": "6 out of 10, up from 3. Say the thing, not the feeling."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "Old bio: \"tell their story\"",
+            "New bio: \"we write your homepage\"",
+            "3/10 → 6/10"
+          ],
+          "cap": "Still not perfect. Much better than poetry."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "We rewrote our own bio after strangers could not tell what we do.\n\nRound one: 'helping brands tell their story.' That is what everybody says.\nRound two: 'we write the words on your homepage.'\n\nSix out of ten strangers could now tell us what we do, up from three.\n\nNot perfect. Better. The lesson is the same one we give everybody: say the thing, not the feeling.\n\nWhat does your bio say?"
+        }
+      },
+      {
+        "id": "D14-09",
+        "show": "honestad",
+        "type": "Sell",
+        "topic": "The pack people asked about most",
+        "why": "One line, one link. The format itself demonstrates the lesson.",
+        "tiktok": {
+          "fmt": "Overhead shot, 18s",
+          "hook": "Most asked about this fortnight: the chat pack. Five thousand naira.",
+          "beats": [
+            "What it is",
+            "What it is not",
+            "One word",
+            "Done"
+          ],
+          "vo": "Most asked about this fortnight: the chat pack. Thirty six scripts for the awkward moments in a WhatsApp sale, plus a tracker so the follow-ups actually happen. Five thousand naira. It will not bring you customers. If that is what you need, message me and I will tell you honestly what to do instead.",
+          "cap": "₦5,000. 36 scripts plus a tracker. Message PLAYBOOK on WhatsApp: 0905 069 0837."
+        },
+        "instagram": {
+          "fmt": "Carousel, 4:5",
+          "slides": [
+            "Most asked about: the chat pack",
+            "36 scripts",
+            "+ a tracker",
+            "₦5,000",
+            "PLAYBOOK"
+          ],
+          "cap": "One line, one link. That is the format that works."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Most asked about this fortnight: the chat pack.\n\n36 scripts for the awkward moments in a WhatsApp sale, plus a tracker so the follow-ups actually happen.\n\n₦5,000.\n\nIt will not bring you customers. If that is what you need, message me and I will tell you honestly what to do instead.\n\nMessage PLAYBOOK on WhatsApp: 0905 069 0837."
+        }
+      },
+      {
+        "id": "D14-10",
+        "show": "saidno",
+        "type": "Entertain",
+        "topic": "The project we turned down",
+        "why": "Pays off day 11 with the same real story, not a new invention.",
+        "tiktok": {
+          "fmt": "Talking head, 29s",
+          "hook": "The project we turned down this week was five pages for forty thousand naira.",
+          "beats": [
+            "They wanted five",
+            "At that price they get templates",
+            "We offered one, properly",
+            "They took it"
+          ],
+          "vo": "The project we turned down this week was five pages for forty thousand naira. At that price, five pages means five templates nobody reads, and I would have been selling them a website-shaped object. So I said what forty thousand actually buys: one page, written properly, working on a phone. They took it. It is the first site they have had enquiries from.",
+          "cap": "Refused five pages. Sold one. It was the honest version of the same job."
+        },
+        "instagram": {
+          "fmt": "Reel + caption",
+          "slides": [
+            "Asked: 5 pages / ₦40k",
+            "Said: that buys templates",
+            "Offered: 1 page, written",
+            "Result: their first enquiries"
+          ],
+          "cap": "A smaller promise you can keep is worth more than a bigger one you cannot."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "The project we turned down this week was five pages for ₦40,000.\n\nAt that price, five pages means five templates nobody reads. I would have been selling a website-shaped object.\n\nSo I said what ₦40,000 actually buys: one page, written properly, working on a phone. They took it. It is the first site they have had enquiries from.\n\nWhen did you last talk someone out of the bigger job?"
+        }
+      },
+      {
+        "id": "D14-11",
+        "show": "steal",
+        "type": "Teach",
+        "topic": "Next week: fix this Lagos",
+        "why": "Sets the strongest reach week of the month.",
+        "tiktok": {
+          "fmt": "Kinetic type, 20s",
+          "hook": "Next week is fix this Lagos, on camera, with real businesses.",
+          "beats": [
+            "Real pages",
+            "Real Lagos businesses",
+            "Three fixes each",
+            "Free, and no pitch"
+          ],
+          "vo": "Next week is fix this Lagos. Real pages from real Lagos businesses, three fixes each, on camera, free, no pitch at the end. If you want yours done, send the link in the comments and I will pick five. The catch is that I will say what is actually wrong with it, kindly, in public.",
+          "cap": "Send your link. Three fixes, on camera, no pitch. Next week."
+        },
+        "instagram": {
+          "fmt": "3-slide carousel",
+          "slides": [
+            "Next week",
+            "Fix this Lagos",
+            "Send your link"
+          ],
+          "cap": "Real pages, real fixes, no pitch. Comment your link."
+        },
+        "facebook": {
+          "fmt": "Text post",
+          "body": "Next week is Fix This Lagos.\n\nReal pages from real Lagos businesses. Three fixes each. On camera. Free, with no pitch at the end.\n\nIf you want yours done, comment your link and I will pick five.\n\nThe only catch is that I will say what is actually wrong with it — kindly, but plainly, in public.\n\nWho should I start with?"
+        }
+      }
+    ]
+  }
+]

@@ -7,9 +7,9 @@ visual direction are all written. No placeholders, nothing to decide on the day.
 | | |
 |---|---|
 | Plan starts | **Sunday 1 November 2026** (change it in the app if you want a different month) |
-| Ends | **Thursday 12 November 2026** |
+| Ends | **Saturday 14 November 2026** |
 | Daily volume | 11 core posts → 11 TikTok + 11 Instagram + 11 Facebook = **33 posts a day** |
-| Month total | **396 posts** (132 core ideas x 3 platforms) |
+| Month total | **462 posts** (154 core ideas x 3 platforms) |
 | Times | Africa/Lagos (WAT, UTC+1). Every post block carries its own time. |
 | Phone tool | `EASYWURLD_POST_COMMANDER.html` — one file, works offline, copy button on every block, tick marks that save on the phone. |
 | Spreadsheet | `content_calendar.csv` — one row per post, dated, editable on your phone in Google Sheets. |
@@ -7434,6 +7434,1238 @@ writing on the spot.
 > Four minutes. No printer? Screenshot it and squint at your phone.
 > 
 > What did you circle?
+
+
+---
+
+
+# Day 13 · Friday · Friday 13 Nov 2026 — The follow-up week
+
+**Offer in focus:** BUNDLE
+
+---
+
+
+## Post 01 · Seven CTAs in forty words
+
+**Type:** Entertain · **Why it works:** Everyone has written this caption, so the shame lands as recognition.
+
+### TikTok · 07:00 · Screen recording, 22s
+
+**Hook (0-3s)**
+> This post has seven calls to action in forty words. That means it has none.
+
+**On-screen beats**
+- Link in bio
+- DM me
+- Comment
+- Call
+- Book
+- Save
+- Share
+- Nobody does anything
+
+**Voiceover script**
+> This post has seven calls to action in forty words. Link in bio, DM me, comment below, call this number, book a slot, save it, share it. When you ask for seven things, the reader does nothing, because choosing is work. One post, one ask. Everything else is noise you paid attention to write.
+
+**Caption**
+> Seven asks is not ambition. It is indecision, published.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 4-slide carousel
+
+**Slide copy**
+1. Link in bio
+2. DM me
+3. Comment · call · book
+4. Seven asks = no ask
+
+**Caption**
+> Ask for one thing. The other six are why nobody did anything.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> A caption I saw this week had seven calls to action in forty words: link in bio, DM me, comment below, call, book, save, share.
+> 
+> Seven asks is not ambition. It is indecision, published.
+> 
+> When you ask for seven things, the reader does nothing, because choosing is work.
+> 
+> One post, one ask. Write the other six down for another day.
+> 
+> What is the one thing you want people to do?
+
+
+---
+
+
+## Post 02 · One post, one job
+
+**Type:** Entertain · **Why it works:** The simplest rule in the whole month, stated flatly.
+
+### TikTok · 09:15 · Kinetic type, 13s
+
+**Hook (0-3s)**
+> One post, one job: entertain, teach, or sell. Pick one.
+
+**On-screen beats**
+- Not two
+- Not three
+- One
+- Then post it
+
+**Voiceover script**
+> One post, one job. Entertain, teach, or sell. Pick one and commit to it, because the post that tries to do two does neither well. The one that entertains and then asks for money loses the entertainment. The one that teaches and then sells loses the teaching. Pick one job and let the next post do the other.
+
+**Caption**
+> A post that does two jobs does neither.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · 3-slide carousel
+
+**Slide copy**
+1. Entertain
+2. Teach
+3. Sell
+4. Pick one
+
+**Caption**
+> Three jobs, eleven posts a day, one job each.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> One post, one job.
+> 
+> Entertain. Teach. Or sell.
+> 
+> Pick one and commit, because a post that tries to do two does neither well. The one that entertains and then asks for money loses the entertainment. The one that teaches and then sells loses the teaching.
+> 
+> Your next post can do the other job.
+> 
+> Which of the three do you default to?
+
+
+---
+
+
+## Post 03 · The one-word CTA
+
+**Type:** Teach · **Why it works:** A copyable mechanic, not advice.
+
+### TikTok · 11:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> Use one word as your call to action. Not four sentences of them.
+
+**On-screen beats**
+- One word
+- In capitals
+- It is a key
+- They type it, then everything else happens
+
+**Voiceover script**
+> Use one word as your call to action. Not link in bio, DM me, call, comment. One word in capitals: BUNDLE. They type it in the chat and a person replies. That word is a key, and a key is easier to turn than a paragraph of instructions. Test it for a week and count the messages.
+
+**Caption**
+> One word in capitals. They type it. A human replies. That is the whole funnel.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 3-slide carousel
+
+**Slide copy**
+1. Not: link in bio · DM · call
+2. Yes: BUNDLE
+3. One word is a key
+
+**Caption**
+> A key is easier to turn than a paragraph.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> Use one word as your call to action.
+> 
+> Not 'link in bio, DM me, call, comment'. One word, in capitals: BUNDLE.
+> 
+> They type it in the chat, a person replies, and the conversation starts properly. That word is a key, and a key is far easier to turn than a paragraph of instructions.
+> 
+> Try it for a week and count the messages.
+> 
+> What would your one word be?
+
+
+---
+
+
+## Post 04 · "Only 2 left" with 40 left
+
+**Type:** Entertain · **Why it works:** Names a practice the audience has caught others doing.
+
+### TikTok · 13:45 · Talking head, 21s
+
+**Hook (0-3s)**
+> "Only two left" when there are forty left is the end of your credibility.
+
+**On-screen beats**
+- People check
+- They always check
+- Now nothing you say is true
+- Including the price
+
+**Voiceover script**
+> Only two left, when there are forty left, is the end of your credibility. People check. They always check, because they have been lied to before. And once one number on your page is invented, every other number becomes a guess, including the price, which was true. Fake scarcity does not create urgency, it creates suspicion.
+
+**Caption**
+> One invented number makes every true number look invented.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. "Only 2 left"
+2. There are 40
+3. They checked
+
+**Caption**
+> Fake scarcity does not create urgency. It creates suspicion.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> 'Only two left', when there are forty left, is the end of your credibility.
+> 
+> People check. They always check, because they have been lied to before.
+> 
+> And once one number on your page is invented, every other number becomes a guess — including the price, which was true.
+> 
+> Fake scarcity does not create urgency. It creates suspicion.
+> 
+> Have you ever caught a shop doing this?
+
+
+---
+
+
+## Post 05 · Six packs, no price in the caption
+
+**Type:** Entertain · **Why it works:** A mechanic with a real result attached, and no overclaiming.
+
+### TikTok · 15:00 · Talking head, 28s
+
+**Hook (0-3s)**
+> A post sold six packs with no price in the caption at all.
+
+**On-screen beats**
+- Pinned comment had it
+- Because the caption is for everyone
+- The comment is for the ready
+- Two audiences, one post
+
+**Voiceover script**
+> A post sold six packs with no price in the caption. The price was in the pinned comment. That was the whole trick. The caption stayed useful to the people who were never going to buy, and the people who were ready found the number one tap away. Same post, two audiences, nobody annoyed.
+
+**Caption**
+> Price in the pinned comment. Six sales. The caption stayed readable.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · Reel + caption
+
+**Script slides**
+1. Caption: no price
+2. Pinned comment: the number
+3. 6 packs sold
+
+**Caption**
+> Serve the ready without lecturing everyone else.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> A post sold six packs with no price in the caption. The price was in the pinned comment.
+> 
+> That was the entire trick.
+> 
+> The caption stayed useful to the people who were never going to buy. The people who were ready found the number one tap away.
+> 
+> Same post, two audiences, nobody annoyed.
+> 
+> What is in your first comment usually?
+
+
+---
+
+
+## Post 06 · Sell the limit
+
+**Type:** Teach · **Why it works:** The most transferable idea of the week, usable outside our packs.
+
+### TikTok · 16:30 · Kinetic type, 23s
+
+**Hook (0-3s)**
+> Sell the limit, not the dream. "It will not get you customers" sells better than a promise.
+
+**On-screen beats**
+- Every ad promises
+- Promises sound like ads
+- A limit sounds like a person
+- Then they trust the rest
+
+**Voiceover script**
+> Sell the limit, not the dream. It will not get you customers, it will stop you losing the ones you have. That sentence sells better than any promise, because every ad promises and almost none admit a boundary. A limit sounds like a person telling the truth, and once they trust the limit, they trust the price.
+
+**Caption**
+> A limit sounds like a person. A promise sounds like an ad.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. Promises sound like ads
+2. Limits sound like people
+3. Lead with the limit
+
+**Caption**
+> Say what it will not do. That is where trust starts.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> Sell the limit, not the dream.
+> 
+> 'It will not get you customers — it will stop you losing the ones you already have.'
+> 
+> That sentence outsells any promise, because every ad promises and almost none admit a boundary. A limit sounds like a person telling the truth. Once they trust the limit, they trust the price.
+> 
+> What is the honest limit of what you sell?
+
+
+---
+
+
+## Post 07 · The caption for people who already want it
+
+**Type:** Entertain · **Why it works:** Splits the audience in a way people have never considered.
+
+### TikTok · 18:00 · Kinetic type, 17s
+
+**Hook (0-3s)**
+> Your caption explains the offer to the people who already want it.
+
+**On-screen beats**
+- They do not need the paragraph
+- They need the link
+- The paragraph is for the others
+- So write both, in order
+
+**Voiceover script**
+> Your caption explains the offer to the people who already want it. They do not need explaining. They need the link, in the first three lines, so they can act before their attention drifts. The explanation is for the ones who are not sure yet, and it can come after. Two groups, one order: price, then paragraph.
+
+**Caption**
+> Price first. Paragraph second. Two groups, one order.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Already want it: need the link
+2. Not sure: need the why
+3. Price first, both served
+
+**Caption**
+> Stop explaining to people who already decided.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> Your caption usually explains the offer to the people who already want it.
+> 
+> They do not need explaining. They need the link, in the first three lines, before their attention drifts.
+> 
+> The explanation is for the people who are not sure yet, and it can come after.
+> 
+> Two groups, one order: price first, paragraph second.
+> 
+> Which group do you write for?
+
+
+---
+
+
+## Post 08 · What made you buy the last thing online?
+
+**Type:** Entertain · **Why it works:** Unprompted witnesses saying the same thing as our teaching.
+
+### TikTok · 19:00 · Street interview, 26s
+
+**Hook (0-3s)**
+> I asked what made people buy the last thing they bought online.
+
+**On-screen beats**
+- Not the copy
+- Not the design
+- I could see what it was
+- And what it cost
+
+**Voiceover script**
+> I asked what made people buy the last thing they bought online. Nobody said the copywriting. Nobody said the design. Two things came up again and again: I could see what it was, and I could see what it cost. That is the entire job of a page, and it is smaller than most people's websites.
+
+**Caption**
+> "I could see what it was and what it cost." Nothing else came up.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. "I could see what it was"
+2. "And what it cost"
+3. That is the whole page
+
+**Caption**
+> Visibility and price. Everything else is decoration you chose.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> I asked people what made them buy the last thing they bought online.
+> 
+> Nobody said the copywriting. Nobody said the design.
+> 
+> Two answers came up again and again: 'I could see what it was' and 'I could see what it cost'.
+> 
+> That is the entire job of a page, and it is far smaller than most people's websites.
+> 
+> Can a stranger do both on yours in five seconds?
+
+
+---
+
+
+## Post 09 · The bundle buys nothing new
+
+**Type:** Sell · **Why it works:** The most counterintuitive honest ad of the month.
+
+### TikTok · 20:00 · Overhead shot, 25s
+
+**Hook (0-3s)**
+> The bundle is thirty-five thousand naira and it buys you nothing new.
+
+**On-screen beats**
+- Same nine packs
+- Ten thousand cheaper
+- One decision instead of nine
+- That is the product
+
+**Voiceover script**
+> The bundle is thirty five thousand naira and it buys you nothing new. Same nine packs, ten thousand naira cheaper than buying them separately, and one decision instead of nine. That is the whole offer. It is not a course, not a community, not a call. If you only need one pack, buy one pack, because the bundle is for people who want all of it.
+
+**Caption**
+> ₦35,000. Same nine packs, one decision. Buy one pack if you need one. BUNDLE on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. ₦35,000
+2. Nothing new inside
+3. Same 9 packs
+4. ₦10,000 less
+5. One decision
+
+**Caption**
+> If you need one pack, buy one pack. The bundle is for the undecided.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> The bundle is ₦35,000 and it buys you nothing new.
+> 
+> Same nine packs, ₦10,000 cheaper than buying them separately, and one decision instead of nine.
+> 
+> That is the whole offer. Not a course, not a community, not a call.
+> 
+> If you only need one pack, buy one pack. The bundle is for people who want all of it and would rather decide once.
+> 
+> BUNDLE on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · Promising results in the ad
+
+**Type:** Entertain · **Why it works:** Explains why our copy reads the way it does, which builds trust in all of it.
+
+### TikTok · 20:45 · Talking head, 31s
+
+**Hook (0-3s)**
+> Someone asked us to promise results in the ad. We said no and wrote the limit instead.
+
+**On-screen beats**
+- Promises convert
+- Then they refund
+- Or they resent you
+- A limit filters and keeps
+
+**Voiceover script**
+> Someone asked us to write a promise into an ad. We said no. Promises convert, then they refund, then they resent you, and in a small market the resentment is more expensive than the sale. So we wrote the limit instead: this will not get you customers, it will stop you losing the ones you have. Fewer clicks. Better customers.
+
+**Caption**
+> Promises convert once and cost you twice.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · 3-slide carousel
+
+**Slide copy**
+1. "Promise results"
+2. We said no
+3. Wrote the limit instead
+
+**Caption**
+> A promise sells the first time and ruins the second.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> Someone asked us to write a promise into an ad.
+> 
+> We said no. Promises convert, then they refund, then they resent you — and in a small market the resentment is more expensive than the sale ever was.
+> 
+> So we wrote the limit instead: this will not get you customers, it will help you keep the ones you have.
+> 
+> Fewer clicks. Better customers. No refunds.
+> 
+> Would you rather be believed or clicked?
+
+
+---
+
+
+## Post 11 · Price in the first three lines
+
+**Type:** Teach · **Why it works:** Concrete and immediately testable on tonight's post.
+
+### TikTok · 21:30 · Kinetic type, 21s
+
+**Hook (0-3s)**
+> Put the price in the first three lines of the caption. Always.
+
+**On-screen beats**
+- Because they scroll
+- They will not find line nine
+- The rest of the caption
+- Is for everyone else
+
+**Voiceover script**
+> Put the price in the first three lines of the caption. Always. Not because everyone is ready, but because the ones who are ready will not scroll to line nine to find it, and the rest of the caption is for everyone else anyway. Hiding the price does not create curiosity, it creates a search.
+
+**Caption**
+> Three lines. Price in one of them. The rest is for the curious.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 3-slide carousel
+
+**Slide copy**
+1. Line 1
+2. Line 2
+3. Line 3: the price
+4. Everything after: for the curious
+
+**Caption**
+> Hiding the price creates a search, not curiosity.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Put the price in the first three lines of your caption.
+> 
+> Always.
+> 
+> Not because everyone is ready, but because the people who are ready will not scroll to line nine to find it. The rest of the caption is for everyone else anyway.
+> 
+> Hiding the price does not create curiosity. It creates a search.
+> 
+> Look at your last post. Which line was the price on?
+
+
+---
+
+
+# Day 14 · Saturday · Saturday 14 Nov 2026 — The receipts
+
+**Offer in focus:** PLAYBOOK
+
+---
+
+
+## Post 01 · The worst follow-up of the fortnight
+
+**Type:** Entertain · **Why it works:** Closes the follow-up week with the image it opened on.
+
+### TikTok · 07:00 · Screen recording, 23s
+
+**Hook (0-3s)**
+> The worst follow-up I saw this fortnight: nine messages, all of them hello.
+
+**On-screen beats**
+- Nine hellos
+- No information
+- Then a discount
+- Then silence
+
+**Voiceover script**
+> The worst follow-up I saw this fortnight was nine messages long and every single one said hello. No price, no date, no photograph, nothing to reply to. Then, on the ninth, a discount, which is the sound of someone giving up. Nine chances to be useful and not one of them carried anything.
+
+**Caption**
+> Nine hellos, then a discount. That is not follow-up, that is fading out loud.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Instagram · 07:30 · 5-slide carousel
+
+**Slide copy**
+1. hello?
+2. Hello
+3. Any update?
+4. 10% off?
+5. …
+
+**Caption**
+> If none of your messages carry information, none of them are follow-ups.
+
+**Hashtags:** #LagosBusiness #WebsiteDesign #SmallBusinessNigeria #Easywurld
+
+**Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
+
+### Facebook · 08:00 · Text post
+
+> The worst follow-up I saw this fortnight was nine messages long and every one said hello.
+> 
+> No price. No date. No photo. Nothing to reply to. Then on the ninth message, a discount — which is the sound of someone giving up.
+> 
+> Nine chances to be useful, and not one of them carried anything.
+> 
+> What does your follow-up usually say?
+
+
+---
+
+
+## Post 02 · Two weeks in, the honest number
+
+**Type:** Entertain · **Why it works:** A public ledger is the most defensible content an account can post.
+
+### TikTok · 09:15 · Talking head, 25s
+
+**Hook (0-3s)**
+> Two weeks in. Here is the number, read off the sheet, including the boring parts.
+
+**On-screen beats**
+- Views are not the point
+- Conversations are
+- Most posts did little
+- The few did most
+
+**Voiceover script**
+> Two weeks in, and here is the number read off the sheet. Most posts did very little. A few did most of the work. The conversations that came from it were fewer than the views by a factor of about a thousand, which is normal and is the part nobody posts about. That is the honest state of it, and I would rather show you the flat line than sell you a hockey stick.
+
+**Caption**
+> Two weeks, read off the sheet. Mostly a flat line, a few spikes, and a thousand views per conversation.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 10:00 · Carousel, 4:5
+
+**Slide copy**
+1. Two weeks
+2. Most posts: little
+3. A few: most of it
+4. Views ÷ 1000 = conversations
+5. That is normal
+
+**Caption**
+> The flat line is the honest part. Most accounts never show it.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 10:30 · Text post
+
+> Two weeks in, and here is the honest number, read off the sheet.
+> 
+> Most posts did very little. A few did most of the work. The conversations that came out of it were roughly a thousand views per conversation, which is normal and is the part nobody posts about.
+> 
+> I would rather show you the flat line than sell you a hockey stick.
+> 
+> What does your own sheet say?
+
+
+---
+
+
+## Post 03 · The lesson that got the most saves
+
+**Type:** Teach · **Why it works:** Re-runs the winner with new material instead of repeating it.
+
+### TikTok · 11:30 · Kinetic type, 24s
+
+**Hook (0-3s)**
+> The most saved lesson of the fortnight, again, with a different story.
+
+**On-screen beats**
+- People save checklists
+- This one is five lines
+- New example
+- Same shape
+
+**Voiceover script**
+> The most saved thing I posted this fortnight was the five lines every quote needs. So here it is again with a different example. What it is. How much. By when. What is included. What is not. On a catering quote: jollof for forty, this much, Saturday by noon, plates and serving included, drinks not included. Same five lines, different business.
+
+**Caption**
+> What · How much · By when · Included · Not included. Again, because you saved it.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 12:30 · 5-slide carousel
+
+**Slide copy**
+1. What it is
+2. How much
+3. By when
+4. Included
+5. Not included
+
+**Caption**
+> The same five lines, applied to catering. Use whichever example is yours.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 12:00 · Text post
+
+> The most saved lesson of the last fortnight, again, with a different example.
+> 
+> What it is. How much. By when. What is included. What is not included.
+> 
+> On a catering quote: jollof for forty people, this much, Saturday by noon, plates and serving included, drinks not included.
+> 
+> Same five lines. Different business. Works every time.
+> 
+> Which one do you leave out?
+
+
+---
+
+
+## Post 04 · Half of content strategy is answering people
+
+**Type:** Entertain · **Why it works:** Cheap to act on, and quietly deflates the mystique of strategy.
+
+### TikTok · 13:45 · Talking head, 19s
+
+**Hook (0-3s)**
+> Half of what people call content strategy is just answering messages.
+
+**On-screen beats**
+- Answer the same question
+- Publicly
+- Again
+- That is the strategy
+
+**Voiceover script**
+> Half of what people call content strategy is just answering messages in public. Someone asks a question in your chat, you answer it in a post, someone else has the same question, and you have just saved a conversation. Do that forty times and you have a content strategy, a website, and an FAQ, and you did not need a framework.
+
+**Caption**
+> Answer the same question in public forty times. That is the strategy.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Instagram · 14:15 · 3-slide carousel
+
+**Slide copy**
+1. They asked in DM
+2. Answer it in public
+3. 40 times
+4. = a strategy
+
+**Caption**
+> Your inbox is a content calendar you keep ignoring.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HotTake
+
+**Visual:** Talking head to camera, one jump cut on the disagreement.
+
+### Facebook · 13:30 · Text post
+
+> Half of what people call content strategy is just answering messages in public.
+> 
+> Someone asks a question in your chat. You answer it in a post. Someone else has the same question and now you have saved a conversation.
+> 
+> Do that forty times and you have a content strategy, a website and an FAQ — and you never needed a framework.
+> 
+> What did someone ask you this week?
+
+
+---
+
+
+## Post 05 · The best thing anyone said to us this fortnight
+
+**Type:** Entertain · **Why it works:** Quoting a customer honestly, with no embellishment.
+
+### TikTok · 15:00 · Talking head, 27s
+
+**Hook (0-3s)**
+> The best thing anyone said to us this fortnight, quoted exactly.
+
+**On-screen beats**
+- Not a compliment
+- A correction
+- You told me the price in the first line
+- That is why I messaged
+
+**Voiceover script**
+> The best thing anyone said to us this fortnight was not a compliment. It was this: you told me the price in the first line, and that is why I messaged you. Which is not flattering, it is a mechanic. But it was the first proof that the thing we had been writing about all week was doing what we said it did, and it came from a stranger, which is the only place proof counts.
+
+**Caption**
+> "You told me the price in the first line. That is why I messaged."
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Instagram · 15:45 · Reel + caption
+
+**Script slides**
+1. "You told me the price"
+2. "In the first line"
+3. "That is why I messaged"
+
+**Caption**
+> Not a compliment. A mechanic, confirmed by a stranger.
+
+**Hashtags:** #Lagos #StoryTime #Easywurld #SmallBusinessNigeria
+
+**Visual:** Talking head, slow zoom out, no music under the first 10 seconds.
+
+### Facebook · 15:00 · Text post
+
+> The best thing anyone said to us this fortnight:
+> 
+> 'You told me the price in the first line, and that is why I messaged you.'
+> 
+> Not flattering. Just a mechanic, confirmed by a stranger — which is the only place proof actually counts.
+> 
+> We had been writing about that all week, and there it was in the inbox.
+> 
+> What is the last thing a customer told you that you did not expect?
+
+
+---
+
+
+## Post 06 · What I got wrong this week
+
+**Type:** Teach · **Why it works:** A correction with no lesson attached is rarer and more credible.
+
+### TikTok · 16:30 · Talking head, 22s
+
+**Hook (0-3s)**
+> What I got wrong this week, with no lesson attached.
+
+**On-screen beats**
+- I said follow up three times
+- I did not follow up once
+- Because I was busy
+- That is it
+
+**Voiceover script**
+> What I got wrong this week. I told you to follow up within three days, and then I did not follow up with a single person who messaged me, because I was busy, which is exactly what every customer of yours says. No lesson attached. I just got it wrong, and the advice is still right, which is the uncomfortable part.
+
+**Caption**
+> Told you to follow up in three days. Did not follow up once. No lesson attached.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 17:15 · 3-slide carousel
+
+**Slide copy**
+1. I said: follow up in 3 days
+2. I followed up: 0 times
+3. Advice still stands
+
+**Caption**
+> "Do as I say" is weaker when you admit you did not.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 16:30 · Text post
+
+> What I got wrong this week.
+> 
+> I told you to follow up within three days. Then I did not follow up with a single person who messaged me, because I was busy — which is exactly what every customer of yours says.
+> 
+> No lesson attached. I just got it wrong. The advice is still right, which is the uncomfortable part.
+> 
+> Where are you not doing the thing you tell other people to do?
+
+
+---
+
+
+## Post 07 · The post I deleted
+
+**Type:** Entertain · **Why it works:** Transparency about editing builds trust in everything published.
+
+### TikTok · 18:00 · Talking head, 20s
+
+**Hook (0-3s)**
+> I wrote a post this week and deleted it before publishing. Here is why.
+
+**On-screen beats**
+- It was a joke at someone's expense
+- At a real business
+- They would know
+- So it went
+
+**Voiceover script**
+> I wrote a post this week and deleted it before publishing. It was a teardown of a real business and the joke was at their expense, and they would have recognised themselves, which makes it bullying with a screenshot attached. It would have done well. It went in the bin.
+
+**Caption**
+> It would have performed. It would have been cruel. It went in the bin.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Instagram · 18:30 · 3-slide carousel
+
+**Slide copy**
+1. Wrote it
+2. It would have done numbers
+3. Deleted it
+
+**Caption**
+> If they would recognise themselves, it is not a teardown. It is a joke at their expense.
+
+**Hashtags:** #Lagos #Relatable #Easywurld #LagosBusiness
+
+**Visual:** Flat print-style card, one large serif line, one terracotta accent.
+
+### Facebook · 18:00 · Text post
+
+> I wrote a post this week and deleted it before publishing.
+> 
+> It was a teardown of a real business and the joke was at their expense. They would have recognised themselves. That makes it bullying with a screenshot attached.
+> 
+> It would have done numbers.
+> 
+> It went in the bin.
+> 
+> What have you not posted because it was true but unkind?
+
+
+---
+
+
+## Post 08 · Our own bio, round two
+
+**Type:** Entertain · **Why it works:** Pays off the promise made on day 7.
+
+### TikTok · 19:00 · Street interview, 28s
+
+**Hook (0-3s)**
+> We rewrote our own bio after strangers could not tell what we do. Round two.
+
+**On-screen beats**
+- New bio
+- Still vague
+- Round two said: the people who write your homepage
+- Better, not perfect
+
+**Voiceover script**
+> We rewrote our bio after strangers could not tell what we do. Round one said helping brands tell their story, which is what everybody says. Round two says we write the words on your homepage, in eight words or fewer. This time six out of ten knew what we did. Not perfect. Better. The lesson is the same one we give everybody: say the thing, not the feeling.
+
+**Caption**
+> 6 out of 10, up from 3. Say the thing, not the feeling.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Instagram · 19:30 · Reel + caption
+
+**Script slides**
+1. Old bio: "tell their story"
+2. New bio: "we write your homepage"
+3. 3/10 → 6/10
+
+**Caption**
+> Still not perfect. Much better than poetry.
+
+**Hashtags:** #Lagos #StreetInterview #SmallBusinessNigeria #Easywurld
+
+**Visual:** Handheld, market or street background, real sound, captions burned in.
+
+### Facebook · 19:30 · Text post
+
+> We rewrote our own bio after strangers could not tell what we do.
+> 
+> Round one: 'helping brands tell their story.' That is what everybody says.
+> Round two: 'we write the words on your homepage.'
+> 
+> Six out of ten strangers could now tell us what we do, up from three.
+> 
+> Not perfect. Better. The lesson is the same one we give everybody: say the thing, not the feeling.
+> 
+> What does your bio say?
+
+
+---
+
+
+## Post 09 · The pack people asked about most
+
+**Type:** Sell · **Why it works:** One line, one link. The format itself demonstrates the lesson.
+
+### TikTok · 20:00 · Overhead shot, 18s
+
+**Hook (0-3s)**
+> Most asked about this fortnight: the chat pack. Five thousand naira.
+
+**On-screen beats**
+- What it is
+- What it is not
+- One word
+- Done
+
+**Voiceover script**
+> Most asked about this fortnight: the chat pack. Thirty six scripts for the awkward moments in a WhatsApp sale, plus a tracker so the follow-ups actually happen. Five thousand naira. It will not bring you customers. If that is what you need, message me and I will tell you honestly what to do instead.
+
+**Caption**
+> ₦5,000. 36 scripts plus a tracker. Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Instagram · 20:15 · Carousel, 4:5
+
+**Slide copy**
+1. Most asked about: the chat pack
+2. 36 scripts
+3. + a tracker
+4. ₦5,000
+5. PLAYBOOK
+
+**Caption**
+> One line, one link. That is the format that works.
+
+**Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
+
+**Visual:** Nine printed packs fanned on a table, shot from above.
+
+### Facebook · 20:15 · Text post
+
+> Most asked about this fortnight: the chat pack.
+> 
+> 36 scripts for the awkward moments in a WhatsApp sale, plus a tracker so the follow-ups actually happen.
+> 
+> ₦5,000.
+> 
+> It will not bring you customers. If that is what you need, message me and I will tell you honestly what to do instead.
+> 
+> Message PLAYBOOK on WhatsApp: 0905 069 0837.
+
+
+---
+
+
+## Post 10 · The project we turned down
+
+**Type:** Entertain · **Why it works:** Pays off day 11 with the same real story, not a new invention.
+
+### TikTok · 20:45 · Talking head, 29s
+
+**Hook (0-3s)**
+> The project we turned down this week was five pages for forty thousand naira.
+
+**On-screen beats**
+- They wanted five
+- At that price they get templates
+- We offered one, properly
+- They took it
+
+**Voiceover script**
+> The project we turned down this week was five pages for forty thousand naira. At that price, five pages means five templates nobody reads, and I would have been selling them a website-shaped object. So I said what forty thousand actually buys: one page, written properly, working on a phone. They took it. It is the first site they have had enquiries from.
+
+**Caption**
+> Refused five pages. Sold one. It was the honest version of the same job.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Instagram · 20:45 · Reel + caption
+
+**Script slides**
+1. Asked: 5 pages / ₦40k
+2. Said: that buys templates
+3. Offered: 1 page, written
+4. Result: their first enquiries
+
+**Caption**
+> A smaller promise you can keep is worth more than a bigger one you cannot.
+
+**Hashtags:** #LagosBusiness #Easywurld #SmallBusinessNigeria #HonestBusiness
+
+**Visual:** Talking head, plain cream wall, no cuts except on the turn.
+
+### Facebook · 21:00 · Text post
+
+> The project we turned down this week was five pages for ₦40,000.
+> 
+> At that price, five pages means five templates nobody reads. I would have been selling a website-shaped object.
+> 
+> So I said what ₦40,000 actually buys: one page, written properly, working on a phone. They took it. It is the first site they have had enquiries from.
+> 
+> When did you last talk someone out of the bigger job?
+
+
+---
+
+
+## Post 11 · Next week: fix this Lagos
+
+**Type:** Teach · **Why it works:** Sets the strongest reach week of the month.
+
+### TikTok · 21:30 · Kinetic type, 20s
+
+**Hook (0-3s)**
+> Next week is fix this Lagos, on camera, with real businesses.
+
+**On-screen beats**
+- Real pages
+- Real Lagos businesses
+- Three fixes each
+- Free, and no pitch
+
+**Voiceover script**
+> Next week is fix this Lagos. Real pages from real Lagos businesses, three fixes each, on camera, free, no pitch at the end. If you want yours done, send the link in the comments and I will pick five. The catch is that I will say what is actually wrong with it, kindly, in public.
+
+**Caption**
+> Send your link. Three fixes, on camera, no pitch. Next week.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Instagram · 21:15 · 3-slide carousel
+
+**Slide copy**
+1. Next week
+2. Fix this Lagos
+3. Send your link
+
+**Caption**
+> Real pages, real fixes, no pitch. Comment your link.
+
+**Hashtags:** #SmallBusinessTips #LagosSME #Easywurld #MarketingTips
+
+**Visual:** Kinetic type on cream, one line at a time, mark bottom-right.
+
+### Facebook · 21:45 · Text post
+
+> Next week is Fix This Lagos.
+> 
+> Real pages from real Lagos businesses. Three fixes each. On camera. Free, with no pitch at the end.
+> 
+> If you want yours done, comment your link and I will pick five.
+> 
+> The only catch is that I will say what is actually wrong with it — kindly, but plainly, in public.
+> 
+> Who should I start with?
 
 
 ---
