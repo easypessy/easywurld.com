@@ -45,8 +45,8 @@
         "topic": "Forty-five versus thirty-five",
         "why": "The entire offer in one sentence.",
         "tiktok": {
-          "fmt": "Kinetic type, 14s",
-          "hook": "Forty five thousand one at a time. Thirty five together. That is the whole offer.",
+          "fmt": "Kinetic type, 15s",
+          "hook": "Forty five thousand separately. Thirty five together. That is it.",
           "beats": [
             "Nine packs at five",
             "Forty five",
@@ -113,7 +113,7 @@
         "why": "Separates a bundle from a clearance bin.",
         "tiktok": {
           "fmt": "Talking head, 19s",
-          "hook": "Bundle discounts work when the products are real. Otherwise it is a clearance bin with better lighting.",
+          "hook": "Bundle discounts work when the products are real. Otherwise, clearance.",
           "beats": [
             "Real products",
             "Sold separately",
@@ -146,7 +146,7 @@
         "why": "The customer closing themselves is the ideal sale.",
         "tiktok": {
           "fmt": "Talking head, 26s",
-          "hook": "A buyer did the maths on camera and said so I save ten. That was the sale.",
+          "hook": "She did the maths, said so I save ten, and paid.",
           "beats": [
             "She opened her calculator",
             "Nine times five",
@@ -180,7 +180,7 @@
         "why": "A copy rule with an immediate A/B test attached.",
         "tiktok": {
           "fmt": "Kinetic type, 20s",
-          "hook": "Name the saving, not the percentage. Ten thousand naira beats twenty two percent.",
+          "hook": "Name the saving, not the percentage. Ten thousand beats twenty two.",
           "beats": [
             "Percentages need maths",
             "Money does not",
@@ -247,7 +247,7 @@
         "why": "The answer tells you what you actually have to prove.",
         "tiktok": {
           "fmt": "Street interview, 25s",
-          "hook": "I asked if thirty five thousand was a lot for nine business documents.",
+          "hook": "I asked if thirty five thousand was a lot for nine documents.",
           "beats": [
             "Most said it depends",
             "On what is in them",
@@ -314,7 +314,7 @@
         "why": "A refusal that protects the audience from a common trick.",
         "tiktok": {
           "fmt": "Talking head, 30s",
-          "hook": "We were asked to raise our prices so we could announce a discount. We said no.",
+          "hook": "Asked to raise prices so a discount would look real.",
           "beats": [
             "Forty five, then thirty five",
             "It looks like a launch",

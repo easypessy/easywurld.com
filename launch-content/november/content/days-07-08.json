@@ -13,7 +13,7 @@
         "why": "A running series gives people a reason to come back tomorrow.",
         "tiktok": {
           "fmt": "Screen recording, 24s",
-          "hook": "The worst page I saw this week has one button, below the fold, in grey.",
+          "hook": "The worst page this week has one grey button, below the fold.",
           "beats": [
             "Grey on grey",
             "Below the fold",
@@ -47,7 +47,7 @@
         "why": "Public honesty about a weak week is the most credible thing an account can do.",
         "tiktok": {
           "fmt": "Talking head, 26s",
-          "hook": "Week one is done. Here is the real number, including the embarrassing part.",
+          "hook": "Week one is done. Here is the number, embarrassing parts included.",
           "beats": [
             "Read it off the sheet",
             "Say the awkward bit first",
@@ -81,7 +81,7 @@
         "why": "Saves are the closest thing to a public vote of usefulness.",
         "tiktok": {
           "fmt": "Kinetic type, 23s",
-          "hook": "Three posts got saved this week and the other sixty did not. Here is the difference.",
+          "hook": "Three posts got saved this week. Sixty did not.",
           "beats": [
             "Saves are not likes",
             "A save is a plan",
@@ -177,7 +177,7 @@
         "why": "The cheapest authority content that exists. No client, no permission.",
         "tiktok": {
           "fmt": "Talking head, 27s",
-          "hook": "If I started this again, I would post one format for thirty days.",
+          "hook": "If I started again, I would post one format for thirty days.",
           "beats": [
             "Not four",
             "Not chasing trends",
@@ -276,7 +276,7 @@
         "why": "Letting the audience choose the product removes the feeling of being sold to.",
         "tiktok": {
           "fmt": "Overhead shot, 25s",
-          "hook": "The pack people asked about most this week was not the one I expected.",
+          "hook": "The pack asked about most was not the one I expected.",
           "beats": [
             "Not the biggest one",
             "The chat scripts",
@@ -342,7 +342,7 @@
         "why": "Announcing the arc gives people a reason to return.",
         "tiktok": {
           "fmt": "Kinetic type, 19s",
-          "hook": "Next week is follow-up week. Every post, one lesson, all on the same problem.",
+          "hook": "Next week is follow-up week. Every post, one lesson.",
           "beats": [
             "Same subject for seven days",
             "Learn it properly",
@@ -483,7 +483,7 @@
         "why": "Attacks a belief that quietly costs people their income.",
         "tiktok": {
           "fmt": "Talking head, 21s",
-          "hook": "\"If they wanted it, they would have replied\" is the most expensive sentence in small business.",
+          "hook": "'If they wanted it, they would have replied' is the expensive one.",
           "beats": [
             "They were at work",
             "Then it sank",
@@ -516,7 +516,7 @@
         "why": "One number makes the whole case for persistence.",
         "tiktok": {
           "fmt": "Talking head, 33s",
-          "hook": "A two hundred and fifty thousand naira job closed on the fourth message.",
+          "hook": "A ₦250,000 job closed on the fourth message.",
           "beats": [
             "The first three were ignored",
             "None were pushy",
@@ -581,7 +581,7 @@
         "why": "A physical image that makes the abstract problem concrete.",
         "tiktok": {
           "fmt": "Kinetic type, 13s",
-          "hook": "Your quote is forty messages up their chat list, behind a group chat.",
+          "hook": "Your quote is forty messages up their chat list.",
           "beats": [
             "Invisible to them",
             "Visible to you",
@@ -646,7 +646,7 @@
         "why": "Selling the boring part builds credibility for everything else.",
         "tiktok": {
           "fmt": "Overhead shot, 28s",
-          "hook": "The most useful thing in this pack is a spreadsheet, and nobody buys it for the spreadsheet.",
+          "hook": "The most useful thing in this pack is a spreadsheet.",
           "beats": [
             "36 scripts get all the attention",
             "The tracker is what gets used",
@@ -680,7 +680,7 @@
         "why": "A principle stated as a line you can actually hold.",
         "tiktok": {
           "fmt": "Talking head, 40s",
-          "hook": "Someone asked us to set up auto-replies on every channel. We said no.",
+          "hook": "Someone asked for auto-replies on every channel. We said no.",
           "beats": [
             "Auto-reply is a promise",
             "A bot cannot keep a specific promise",

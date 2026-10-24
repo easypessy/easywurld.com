@@ -13,7 +13,7 @@
         "why": "Closes the local week on its most concrete artefact.",
         "tiktok": {
           "fmt": "Screen recording, 24s",
-          "hook": "The worst listing I found this week is marked permanently closed. It is open.",
+          "hook": "The worst listing this week is marked closed. The shop is open.",
           "beats": [
             "Open every day",
             "Marked closed",
@@ -47,7 +47,7 @@
         "why": "The third honest ledger, and it is the one that builds the habit.",
         "tiktok": {
           "fmt": "Talking head, 26s",
-          "hook": "Three weeks in. Here is the number, honestly, including what did not work.",
+          "hook": "Three weeks in. Here is the number, including what did not work.",
           "beats": [
             "What worked",
             "What did not",
@@ -81,7 +81,7 @@
         "why": "Shows the format is a system, not a lucky post.",
         "tiktok": {
           "fmt": "Kinetic type, 23s",
-          "hook": "The most shared thing I posted this week was a teardown. Here is the format, on a new business.",
+          "hook": "My most shared post was a teardown. Here is the format.",
           "beats": [
             "Show the page",
             "Name one problem",
@@ -148,7 +148,7 @@
         "why": "Audience action is the only real proof of reach.",
         "tiktok": {
           "fmt": "Talking head, 28s",
-          "hook": "Someone watched one of these videos and fixed their Google listing that night.",
+          "hook": "Someone watched a video and fixed her Google listing that night.",
           "beats": [
             "She commented",
             "Two hours later",
@@ -182,7 +182,7 @@
         "why": "A ranked answer is more useful than a list.",
         "tiktok": {
           "fmt": "Kinetic type, 22s",
-          "hook": "If I had one hour in any Lagos business, I would fix two things: reply time, then the first sentence.",
+          "hook": "One hour in any Lagos business: fix reply time, then sentence one.",
           "beats": [
             "Reply time",
             "Then the first sentence",
@@ -215,7 +215,7 @@
         "why": "Publishing the flop keeps the receipts series honest.",
         "tiktok": {
           "fmt": "Talking head, 21s",
-          "hook": "The post that flopped hardest this week was the one I liked most.",
+          "hook": "My favourite post this week flopped hardest. Here it is.",
           "beats": [
             "It was about measurement",
             "No picture until second three",
@@ -248,7 +248,7 @@
         "why": "A number so low it becomes a call to action by itself.",
         "tiktok": {
           "fmt": "Street interview, 26s",
-          "hook": "I asked twelve businesses if they had claimed their Google listing. Two had.",
+          "hook": "I asked twelve businesses about their Google listing. Two had claimed it.",
           "beats": [
             "Two of twelve",
             "Both were the ones with staff",
@@ -281,7 +281,7 @@
         "why": "One line, one code, exactly as the format prescribes.",
         "tiktok": {
           "fmt": "Overhead shot, 18s",
-          "hook": "Most requested this week: the free review. Three points, twenty-four hours, no pitch.",
+          "hook": "Most requested this week: the free review. Three points, no pitch.",
           "beats": [
             "Send the link",
             "Three points",
@@ -315,7 +315,7 @@
         "why": "A refusal that states a principle rather than a mood.",
         "tiktok": {
           "fmt": "Talking head, 30s",
-          "hook": "We declined a brief this week. It was to make a business sound bigger than it is.",
+          "hook": "We declined a brief to make a small business look big.",
           "beats": [
             "Pretend to be an agency",
             "Fake team page",

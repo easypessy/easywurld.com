@@ -13,7 +13,7 @@
         "why": "The mismatch is visible in one screenshot.",
         "tiktok": {
           "fmt": "Screen recording, 23s",
-          "hook": "This business answers four questions nobody asked and none of the four that matter.",
+          "hook": "This business answers four questions nobody asked. None of the four.",
           "beats": [
             "Our journey",
             "Our values",
@@ -47,7 +47,7 @@
         "why": "Letting a buyer's sentence carry the post is the most credible format.",
         "tiktok": {
           "fmt": "Kinetic type, 16s",
-          "hook": "Someone bought the chat pack and sent us one line. Here it is.",
+          "hook": "Someone bought the chat pack and sent one line. Here it is.",
           "beats": [
             "One sentence",
             "Unedited",
@@ -114,7 +114,7 @@
         "why": "A product principle stated as a rule.",
         "tiktok": {
           "fmt": "Talking head, 18s",
-          "hook": "A template is only useful if it is editable. Otherwise it is a poster.",
+          "hook": "A template is only useful if it is editable. Otherwise, a poster.",
           "beats": [
             "Editable",
             "In the software you own",
@@ -147,7 +147,7 @@
         "why": "Celebrating an edit is what makes the product real.",
         "tiktok": {
           "fmt": "Talking head, 28s",
-          "hook": "A buyer rewrote one of our scripts in Pidgin and sent it back to us.",
+          "hook": "A buyer rewrote our script in Pidgin and sent it back.",
           "beats": [
             "Same structure",
             "His words",
@@ -181,7 +181,7 @@
         "why": "The instruction that turns a purchase into a result.",
         "tiktok": {
           "fmt": "Kinetic type, 22s",
-          "hook": "Edit every script into your own voice. A script in the wrong voice is worse than none.",
+          "hook": "A script in the wrong voice is worse than no script.",
           "beats": [
             "Read it out loud",
             "Change the words you would not say",
@@ -315,7 +315,7 @@
         "why": "The refusal defines ownership in one line.",
         "tiktok": {
           "fmt": "Talking head, 29s",
-          "hook": "Someone asked us to lock the files so they could not be edited. We said no.",
+          "hook": "Someone asked us to lock the files. We said no.",
           "beats": [
             "Locking looks like protection",
             "It is a wall",

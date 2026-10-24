@@ -80,7 +80,7 @@
         "why": "Gives the buyer a test they can apply to anyone, including competitors.",
         "tiktok": {
           "fmt": "Kinetic type, 21s",
-          "hook": "Before you buy any template, ask one question: will I actually open this on Monday?",
+          "hook": "Before you buy a template, ask: will I open this Monday?",
           "beats": [
             "Not will it help",
             "Will I open it",
@@ -146,7 +146,7 @@
         "why": "Redefines a modest result as a success, which is unusual and credible.",
         "tiktok": {
           "fmt": "Talking head, 28s",
-          "hook": "Someone bought the chat pack, used one script, and ignored the other thirty-five. That is a success.",
+          "hook": "She bought thirty-six files, used one, and that was a success.",
           "beats": [
             "One script",
             "The 'can you do it cheaper' reply",
@@ -180,7 +180,7 @@
         "why": "Lowers the activation cost, which is where most products die.",
         "tiktok": {
           "fmt": "Kinetic type, 20s",
-          "hook": "Start with one file, not the whole pack. The checklist is usually enough.",
+          "hook": "Start with one file, not the pack. The checklist is enough.",
           "beats": [
             "Open the folder",
             "Pick the checklist",
@@ -214,7 +214,7 @@
         "why": "A plain, slightly uncomfortable statement that earns the rest.",
         "tiktok": {
           "fmt": "Kinetic type, 16s",
-          "hook": "A pack you do not open is a donation to me. Pick the one you will use this week.",
+          "hook": "An unopened pack is a donation. Pick one for this week.",
           "beats": [
             "Not the best one",
             "The one for this week",
@@ -247,7 +247,7 @@
         "why": "Validates the price point with the audience's own logic.",
         "tiktok": {
           "fmt": "Street interview, 25s",
-          "hook": "I asked what would make someone pay five thousand naira for a document.",
+          "hook": "I asked what would make someone pay five thousand for a document.",
           "beats": [
             "Not the page count",
             "Not the design",
@@ -280,7 +280,7 @@
         "why": "The whole offer in one breath, with the limits attached.",
         "tiktok": {
           "fmt": "Overhead shot, 26s",
-          "hook": "All nine packs, five thousand naira each, no consulting included. That is the deal.",
+          "hook": "All nine packs, five thousand each, no consulting. That is the deal.",
           "beats": [
             "Nine packs",
             "Five thousand each",
@@ -315,7 +315,7 @@
         "why": "Explains the policy before anyone asks, which prevents resentment.",
         "tiktok": {
           "fmt": "Talking head, 30s",
-          "hook": "Someone asked for a refund on a download they had already opened. We said no, kindly, and explained why.",
+          "hook": "Someone asked for a refund on an opened download.",
           "beats": [
             "Files can be copied",
             "Once open, it is gone",
@@ -348,7 +348,7 @@
         "why": "The buyer's equivalent of a return policy, given away free.",
         "tiktok": {
           "fmt": "Kinetic type, 20s",
-          "hook": "One-page test for anything you are about to buy: what will you do in the first hour?",
+          "hook": "Before you buy anything, ask what you will do in hour one.",
           "beats": [
             "Not what could it do",
             "What will you do",

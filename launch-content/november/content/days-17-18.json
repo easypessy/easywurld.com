@@ -46,7 +46,7 @@
         "why": "A reframe that makes an unglamorous task feel valuable.",
         "tiktok": {
           "fmt": "Kinetic type, 16s",
-          "hook": "Your Google listing is open when you are closed. It is a second shop.",
+          "hook": "Your Google listing is open when you are closed. A second shop.",
           "beats": [
             "You are asleep",
             "It is answering",
@@ -79,7 +79,7 @@
         "why": "Reduces an intimidating task to four inputs.",
         "tiktok": {
           "fmt": "Kinetic type, 22s",
-          "hook": "Four fields on your listing matter more than everything else. Category, area, hours, phone.",
+          "hook": "Four fields matter most: category, area, hours, phone.",
           "beats": [
             "Category decides what you appear for",
             "Area decides where",
@@ -113,7 +113,7 @@
         "why": "Positions reviews as an asset rather than a vanity metric.",
         "tiktok": {
           "fmt": "Talking head, 21s",
-          "hook": "Reviews are not vanity. They are the only public proof you get for free.",
+          "hook": "Reviews are not vanity. They are the only free public proof.",
           "beats": [
             "Nobody can buy them honestly",
             "Nobody can fake them forever",
@@ -146,7 +146,7 @@
         "why": "The timing insight is the whole post.",
         "tiktok": {
           "fmt": "Talking head, 28s",
-          "hook": "A customer left a review because she was asked at pickup. Not by email. At the counter.",
+          "hook": "A customer left a review because she was asked at pickup.",
           "beats": [
             "Email came three days later",
             "Gone",
@@ -246,7 +246,7 @@
         "why": "Nine of ten is a number the audience can act on.",
         "tiktok": {
           "fmt": "Street interview, 25s",
-          "hook": "I asked if people check reviews before trying a new shop. Nine out of ten said yes.",
+          "hook": "Nine out of ten people check reviews before a new shop.",
           "beats": [
             "Nine of ten",
             "They read the bad ones first",
@@ -280,7 +280,7 @@
         "why": "Explicitly bounds the product so nobody is surprised.",
         "tiktok": {
           "fmt": "Overhead shot, 24s",
-          "hook": "The launch handbook covers listings and ownership. It does not build your website.",
+          "hook": "The launch handbook covers listings and ownership, not the build.",
           "beats": [
             "What it covers",
             "What it does not",
@@ -314,7 +314,7 @@
         "why": "The one irreversible mistake is worth a whole post.",
         "tiktok": {
           "fmt": "Talking head, 30s",
-          "hook": "Someone offered to get us reviews. We said no, and here is why it is the worst thing you can buy.",
+          "hook": "Someone offered to sell us reviews. Here is why we said no.",
           "beats": [
             "They are cheap",
             "They are traceable",
@@ -388,7 +388,7 @@
         "why": "A specific, funny, checkable failure.",
         "tiktok": {
           "fmt": "Screen recording, 23s",
-          "hook": "This page says bespoke four times and never tells you what they actually make.",
+          "hook": "This page says bespoke four times and never says what they make.",
           "beats": [
             "Bespoke",
             "Tailored",
@@ -523,7 +523,7 @@
         "why": "A before-and-after with one number and no exaggeration.",
         "tiktok": {
           "fmt": "Talking head, 27s",
-          "hook": "A headline halved in length doubled the clicks. Nobody reads the second clause.",
+          "hook": "Halving a headline doubled the clicks. Nobody reads the second half.",
           "beats": [
             "Twenty two words",
             "Eleven",
@@ -557,7 +557,7 @@
         "why": "Gives a physical setting, which makes the voice easy to find.",
         "tiktok": {
           "fmt": "Kinetic type, 23s",
-          "hook": "Write like you talk to a customer at the counter. Then delete the first two sentences.",
+          "hook": "Write like you talk at the counter. Then delete sentence one.",
           "beats": [
             "How would you say it out loud",
             "Type that",
@@ -590,7 +590,7 @@
         "why": "A small, funny, absolutely true observation.",
         "tiktok": {
           "fmt": "Kinetic type, 14s",
-          "hook": "\"Kindly\" has never sold anything. Neither has \"we are pleased to inform you\".",
+          "hook": "\"Kindly\" has never sold anything. Nor has \"we are pleased\".",
           "beats": [
             "Nobody talks like that",
             "Nobody buys like that",
@@ -623,7 +623,7 @@
         "why": "The gap between what a business wrote and what a stranger heard is the content.",
         "tiktok": {
           "fmt": "Street interview, 26s",
-          "hook": "I read people a business description and asked them to repeat it back.",
+          "hook": "I read people a business description, then asked them to repeat it.",
           "beats": [
             "One sentence",
             "They could not",
@@ -657,7 +657,7 @@
         "why": "Routes the wrong buyer to the right product, which is good business.",
         "tiktok": {
           "fmt": "Overhead shot, 23s",
-          "hook": "The Message Workbook is for people who already know what they sell. If you do not, start with the homepage pack.",
+          "hook": "The Message Workbook assumes you already know what you sell.",
           "beats": [
             "Workbook assumes clarity",
             "Then it makes it sound like you",
@@ -691,7 +691,7 @@
         "why": "A story about testing a word instead of arguing about it.",
         "tiktok": {
           "fmt": "Talking head, 32s",
-          "hook": "A client insisted on the word disruptive. We kept it. Nothing happened. Then we removed it.",
+          "hook": "A client wanted the word disruptive. We tested it instead.",
           "beats": [
             "He loved it",
             "It meant nothing to his customers",

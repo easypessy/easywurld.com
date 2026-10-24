@@ -156,7 +156,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> Your price reply ends with a question mark. That is where the sale dies.
+> Your price reply ends with a question mark. That is the problem.
 
 **On-screen beats**
 - Price
@@ -268,7 +268,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 30s
 
 **Hook (0-3s)**
-> She sells forty packs of jollof a day from a phone with a cracked screen.
+> Forty packs of jollof a day from a cracked phone screen.
 
 **On-screen beats**
 - No website
@@ -324,7 +324,7 @@ writing on the spot.
 ### TikTok · 16:30 · Screen recording, 20s
 
 **Hook (0-3s)**
-> Open your website. Look away. Look back. Can you say what they sell?
+> Look away, look back. Can you say what they sell?
 
 **On-screen beats**
 - Four seconds
@@ -490,7 +490,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot of printed packs, 32s
 
 **Hook (0-3s)**
-> Nine packs. ₦5,000 each. I am going to tell you not to buy most of them.
+> Nine packs. ₦5,000 each. Do not buy most of them.
 
 **On-screen beats**
 - Start with the problem you had this week
@@ -607,7 +607,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 24s
 
 **Hook (0-3s)**
-> Most sales in Nigeria happen after the third follow-up. Most businesses stop at one.
+> Most Nigerian sales happen after follow-up three. Most stop at one.
 
 **On-screen beats**
 - Day 1: the quote
@@ -728,7 +728,7 @@ writing on the spot.
 ### TikTok · 09:15 · Kinetic type, 15s
 
 **Hook (0-3s)**
-> The message that arrives at 11pm is the best customer you will get all week.
+> The 11pm message is the best customer you will get this week.
 
 **On-screen beats**
 - They are deciding right now
@@ -783,7 +783,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 23s
 
 **Hook (0-3s)**
-> 'Let me think about it' is not an objection. It is a request for time you never gave.
+> 'Let me think about it' means you never gave them time.
 
 **On-screen beats**
 - Ask what they are weighing
@@ -840,7 +840,7 @@ writing on the spot.
 ### TikTok · 13:45 · Talking head, 20s
 
 **Hook (0-3s)**
-> For most Lagos businesses the website is a business card. The shop is WhatsApp.
+> For Lagos businesses the website is a card. WhatsApp is the shop.
 
 **On-screen beats**
 - Site = proof you exist
@@ -895,7 +895,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 32s
 
 **Hook (0-3s)**
-> I asked a vendor for a price. He sent it and never spoke to me again.
+> I asked a vendor for a price. He never replied again.
 
 **On-screen beats**
 - I was going to buy
@@ -1061,7 +1061,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 28s
 
 **Hook (0-3s)**
-> How long will you wait for a business to reply before you buy elsewhere?
+> How long will you wait for a reply before buying elsewhere?
 
 **On-screen beats**
 - Thirty minutes
@@ -1234,7 +1234,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> Your first reply should ask three things that make the next reply easy.
+> Your first reply should ask three questions, not one.
 
 **On-screen beats**
 - What do they need it for
@@ -1407,7 +1407,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 21s
 
 **Hook (0-3s)**
-> Hidden prices do not read as premium. They read as expensive and negotiable.
+> Hidden prices read as expensive and negotiable, not premium.
 
 **On-screen beats**
 - No price = assume the worst
@@ -1569,7 +1569,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 23s
 
 **Hook (0-3s)**
-> A quote with no date is a question, and they cannot answer a question.
+> A quote with no date is a question they cannot answer.
 
 **On-screen beats**
 - Price
@@ -1739,7 +1739,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 30s
 
 **Hook (0-3s)**
-> ₦5,000 is less than a plate of food for two. That does not make it cheap.
+> Five thousand is less than a plate of food for two.
 
 **On-screen beats**
 - It is one afternoon of writing
@@ -1969,7 +1969,7 @@ writing on the spot.
 ### TikTok · 09:15 · Kinetic type, 13s
 
 **Hook (0-3s)**
-> Your site was built on a laptop. Your customer is holding a phone.
+> Your site was built on a laptop. They are holding a phone.
 
 **On-screen beats**
 - Two very different devices
@@ -2023,7 +2023,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> Hold your phone in one hand and try to buy from your own site.
+> Hold your phone in one hand. Now buy from your site.
 
 **On-screen beats**
 - One hand only
@@ -2188,7 +2188,7 @@ writing on the spot.
 ### TikTok · 16:30 · Screen recording, 21s
 
 **Hook (0-3s)**
-> You do not need a developer to make your site faster. You need to stop uploading 4MB photos.
+> You do not need a developer. Stop uploading 4MB photos.
 
 **On-screen beats**
 - One photo = one second
@@ -2409,7 +2409,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 45s
 
 **Hook (0-3s)**
-> Someone asked us to make a site load in two seconds on 2G, in three weeks.
+> They wanted two seconds on 2G, in three weeks.
 
 **On-screen beats**
 - We said no to the 2G part
@@ -2637,7 +2637,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> The second message feels like begging because it asks for something. So add something instead.
+> The second message feels like begging because it asks for something.
 
 **On-screen beats**
 - A date
@@ -3423,7 +3423,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 20s
 
 **Hook (0-3s)**
-> If your page has nine products, pick one and hide the other eight.
+> If your page has nine products, pick one and hide eight.
 
 **On-screen beats**
 - For thirty days
@@ -3766,7 +3766,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 24s
 
 **Hook (0-3s)**
-> The worst page I saw this week has one button, below the fold, in grey.
+> The worst page this week has one grey button, below the fold.
 
 **On-screen beats**
 - Grey on grey
@@ -3823,7 +3823,7 @@ writing on the spot.
 ### TikTok · 09:15 · Talking head, 26s
 
 **Hook (0-3s)**
-> Week one is done. Here is the real number, including the embarrassing part.
+> Week one is done. Here is the number, embarrassing parts included.
 
 **On-screen beats**
 - Read it off the sheet
@@ -3878,7 +3878,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 23s
 
 **Hook (0-3s)**
-> Three posts got saved this week and the other sixty did not. Here is the difference.
+> Three posts got saved this week. Sixty did not.
 
 **On-screen beats**
 - Saves are not likes
@@ -4043,7 +4043,7 @@ writing on the spot.
 ### TikTok · 16:30 · Talking head, 27s
 
 **Hook (0-3s)**
-> If I started this again, I would post one format for thirty days.
+> If I started again, I would post one format for thirty days.
 
 **On-screen beats**
 - Not four
@@ -4209,7 +4209,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 25s
 
 **Hook (0-3s)**
-> The pack people asked about most this week was not the one I expected.
+> The pack asked about most was not the one I expected.
 
 **On-screen beats**
 - Not the biggest one
@@ -4317,7 +4317,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 19s
 
 **Hook (0-3s)**
-> Next week is follow-up week. Every post, one lesson, all on the same problem.
+> Next week is follow-up week. Every post, one lesson.
 
 **On-screen beats**
 - Same subject for seven days
@@ -4545,7 +4545,7 @@ writing on the spot.
 ### TikTok · 13:45 · Talking head, 21s
 
 **Hook (0-3s)**
-> "If they wanted it, they would have replied" is the most expensive sentence in small business.
+> 'If they wanted it, they would have replied' is the expensive one.
 
 **On-screen beats**
 - They were at work
@@ -4601,7 +4601,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 33s
 
 **Hook (0-3s)**
-> A two hundred and fifty thousand naira job closed on the fourth message.
+> A ₦250,000 job closed on the fourth message.
 
 **On-screen beats**
 - The first three were ignored
@@ -4712,7 +4712,7 @@ writing on the spot.
 ### TikTok · 18:00 · Kinetic type, 13s
 
 **Hook (0-3s)**
-> Your quote is forty messages up their chat list, behind a group chat.
+> Your quote is forty messages up their chat list.
 
 **On-screen beats**
 - Invisible to them
@@ -4823,7 +4823,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 28s
 
 **Hook (0-3s)**
-> The most useful thing in this pack is a spreadsheet, and nobody buys it for the spreadsheet.
+> The most useful thing in this pack is a spreadsheet.
 
 **On-screen beats**
 - 36 scripts get all the attention
@@ -4878,7 +4878,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 40s
 
 **Hook (0-3s)**
-> Someone asked us to set up auto-replies on every channel. We said no.
+> Someone asked for auto-replies on every channel. We said no.
 
 **On-screen beats**
 - Auto-reply is a promise
@@ -5114,7 +5114,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> Put your four answers in your WhatsApp away message. You just hired a night shift for free.
+> Put four answers in your WhatsApp away message. Free night shift.
 
 **On-screen beats**
 - Price
@@ -5386,7 +5386,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 28s
 
 **Hook (0-3s)**
-> I asked what people ask before buying from a shop they have never used.
+> I asked what people check before buying from a new shop.
 
 **On-screen beats**
 - Not the price
@@ -5499,7 +5499,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 32s
 
 **Hook (0-3s)**
-> Someone asked us to hide the delivery cost until checkout. We said no.
+> Someone asked us to hide delivery cost until checkout. We said no.
 
 **On-screen beats**
 - It is legal
@@ -5615,7 +5615,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 24s
 
 **Hook (0-3s)**
-> This quote is one line: one hundred and eighty thousand naira, let me know.
+> This quote is one line: ₦180,000, let me know.
 
 **On-screen beats**
 - No scope
@@ -5669,7 +5669,7 @@ writing on the spot.
 ### TikTok · 09:15 · Kinetic type, 14s
 
 **Hook (0-3s)**
-> A quote with no date is not a quote. It is a question.
+> A quote with no date is a question, not a quote.
 
 **On-screen beats**
 - They cannot say yes
@@ -6057,7 +6057,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 26s
 
 **Hook (0-3s)**
-> The Proposal Pack is for people who send quotes every week. If you send two a month, do not buy it.
+> The Proposal Pack is for people who send quotes weekly.
 
 **On-screen beats**
 - Weekly quoters
@@ -6112,7 +6112,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 35s
 
 **Hook (0-3s)**
-> We were asked to quote a job we could not deliver in three weeks. We said six weeks and lost it.
+> We quoted six weeks on a job everyone else said three.
 
 **On-screen beats**
 - They wanted three
@@ -6230,7 +6230,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 25s
 
 **Hook (0-3s)**
-> This site cost twenty-five thousand naira, has forty pages, and has never had one enquiry.
+> This site has forty pages and has never had one enquiry.
 
 **On-screen beats**
 - Forty pages
@@ -6446,7 +6446,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 30s
 
 **Hook (0-3s)**
-> A business paid twice for the same website. The first one was thirty thousand naira.
+> A business paid twice for the same website.
 
 **On-screen beats**
 - Thirty thousand
@@ -6502,7 +6502,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 23s
 
 **Hook (0-3s)**
-> Three questions to ask any web quote. Who owns the domain, who fixes it, who pays for hosting.
+> Three questions to ask any web quote, before you pay.
 
 **On-screen beats**
 - The domain is your name
@@ -6611,7 +6611,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 24s
 
 **Hook (0-3s)**
-> I asked: cheapest quote, or the person who asked you the most questions?
+> I asked: cheapest quote, or the one who asked questions?
 
 **On-screen beats**
 - Everyone chose questions
@@ -6667,7 +6667,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 27s
 
 **Hook (0-3s)**
-> Five thousand naira is cheap on purpose, and here is the honest limit of it.
+> Five thousand naira is cheap on purpose. Here is the limit.
 
 **On-screen beats**
 - It is a template
@@ -6724,7 +6724,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 33s
 
 **Hook (0-3s)**
-> Someone asked for a five-page site for forty thousand naira. We said no and named what it buys.
+> Someone asked for five pages for forty thousand naira.
 
 **On-screen beats**
 - Forty thousand does not buy five pages
@@ -6780,7 +6780,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 21s
 
 **Hook (0-3s)**
-> Write down who owns your domain and hosting. If it is not your name, fix it this week.
+> Check whose name is on your domain. Then fix it.
 
 **On-screen beats**
 - One note
@@ -6844,7 +6844,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 22s
 
 **Hook (0-3s)**
-> This site opens with a video of a spinning logo. Six seconds of nothing, on mobile data.
+> This site opens with six seconds of spinning logo.
 
 **On-screen beats**
 - Six seconds
@@ -6953,7 +6953,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 24s
 
 **Hook (0-3s)**
-> Your first line has three jobs and can only do one of them.
+> Your first line has three jobs. It can only do one.
 
 **On-screen beats**
 - What you sell
@@ -7175,7 +7175,7 @@ writing on the spot.
 ### TikTok · 18:00 · Screen recording, 16s
 
 **Hook (0-3s)**
-> Your best photo is at the bottom of the page, where nobody decides anything.
+> Your best photo is at the bottom, where nobody decides.
 
 **On-screen beats**
 - Top: a stock photo
@@ -7282,7 +7282,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 26s
 
 **Hook (0-3s)**
-> The homepage blueprint is for the first ten seconds of your site, and it is words, not pixels.
+> The homepage blueprint is words, not pixels. The first ten seconds.
 
 **On-screen beats**
 - First line
@@ -7392,7 +7392,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> Print your homepage. Circle the first thing you read. If it is your logo, start again.
+> Print your homepage. Circle what you read first.
 
 **On-screen beats**
 - Print it
@@ -7455,7 +7455,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 22s
 
 **Hook (0-3s)**
-> This post has seven calls to action in forty words. That means it has none.
+> Seven calls to action in forty words is no call to action.
 
 **On-screen beats**
 - Link in bio
@@ -7512,7 +7512,7 @@ writing on the spot.
 
 **Type:** Entertain · **Why it works:** The simplest rule in the whole month, stated flatly.
 
-### TikTok · 09:15 · Kinetic type, 13s
+### TikTok · 09:15 · Kinetic type, 15s
 
 **Hook (0-3s)**
 > One post, one job: entertain, teach, or sell. Pick one.
@@ -7571,7 +7571,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 20s
 
 **Hook (0-3s)**
-> Use one word as your call to action. Not four sentences of them.
+> Use one word as your call to action. Not four sentences.
 
 **On-screen beats**
 - One word
@@ -7626,7 +7626,7 @@ writing on the spot.
 ### TikTok · 13:45 · Talking head, 21s
 
 **Hook (0-3s)**
-> "Only two left" when there are forty left is the end of your credibility.
+> "Only two left" with forty left ends your credibility.
 
 **On-screen beats**
 - People check
@@ -7681,7 +7681,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 28s
 
 **Hook (0-3s)**
-> A post sold six packs with no price in the caption at all.
+> A post sold six packs with no price in the caption.
 
 **On-screen beats**
 - Pinned comment had it
@@ -7736,7 +7736,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 23s
 
 **Hook (0-3s)**
-> Sell the limit, not the dream. "It will not get you customers" sells better than a promise.
+> Sell the limit, not the dream. It sells better.
 
 **On-screen beats**
 - Every ad promises
@@ -7956,7 +7956,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 31s
 
 **Hook (0-3s)**
-> Someone asked us to promise results in the ad. We said no and wrote the limit instead.
+> Someone asked us to promise results. We wrote the limit.
 
 **On-screen beats**
 - Promises convert
@@ -8074,7 +8074,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 23s
 
 **Hook (0-3s)**
-> The worst follow-up I saw this fortnight: nine messages, all of them hello.
+> The worst follow-up this fortnight: nine messages, all hello.
 
 **On-screen beats**
 - Nine hellos
@@ -8129,7 +8129,7 @@ writing on the spot.
 ### TikTok · 09:15 · Talking head, 25s
 
 **Hook (0-3s)**
-> Two weeks in. Here is the number, read off the sheet, including the boring parts.
+> Two weeks in. Here is the number, boring parts included.
 
 **On-screen beats**
 - Views are not the point
@@ -8403,7 +8403,7 @@ writing on the spot.
 ### TikTok · 18:00 · Talking head, 20s
 
 **Hook (0-3s)**
-> I wrote a post this week and deleted it before publishing. Here is why.
+> I wrote a post this week and deleted it. Here is why.
 
 **On-screen beats**
 - It was a joke at someone's expense
@@ -8458,7 +8458,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 28s
 
 **Hook (0-3s)**
-> We rewrote our own bio after strangers could not tell what we do. Round two.
+> Strangers could not tell what we do, so we rewrote our bio.
 
 **On-screen beats**
 - New bio
@@ -8571,7 +8571,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 29s
 
 **Hook (0-3s)**
-> The project we turned down this week was five pages for forty thousand naira.
+> We turned down five pages for forty thousand naira this week.
 
 **On-screen beats**
 - They wanted five
@@ -8687,7 +8687,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 24s
 
 **Hook (0-3s)**
-> This bakery's whole website could be one sentence: bread out of the oven at six, Agege.
+> Bread out of the oven at six, Agege. That is the headline.
 
 **On-screen beats**
 - Instead it says quality and excellence
@@ -8796,7 +8796,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 23s
 
 **Hook (0-3s)**
-> Rewrite a competitor's homepage in three lines, then do yours in ten minutes.
+> Rewrite a competitor's homepage in three lines. Then yours.
 
 **On-screen beats**
 - What they sell
@@ -8852,7 +8852,7 @@ writing on the spot.
 ### TikTok · 13:45 · Talking head, 20s
 
 **Hook (0-3s)**
-> Lagos businesses do not have a marketing problem. They have a clarity problem and a marketing budget.
+> Lagos businesses have a clarity problem, not a marketing problem.
 
 **On-screen beats**
 - The budget is the symptom
@@ -8907,7 +8907,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 30s
 
 **Hook (0-3s)**
-> A market trader outsold a shop with a sign, and she had no sign at all.
+> A market trader with no sign outsold a shop with one.
 
 **On-screen beats**
 - The shop had a sign
@@ -9019,7 +9019,7 @@ writing on the spot.
 ### TikTok · 18:00 · Screen recording, 17s
 
 **Hook (0-3s)**
-> Your shop is beautiful. Your Google listing is empty. That is where the search happens.
+> Your shop is beautiful. Your Google listing is empty.
 
 **On-screen beats**
 - No photos
@@ -9074,7 +9074,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 27s
 
 **Hook (0-3s)**
-> I showed people a shop sign and asked them what the business sells.
+> I showed people a shop sign and asked what it sells.
 
 **On-screen beats**
 - Most got the product
@@ -9128,7 +9128,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 22s
 
 **Hook (0-3s)**
-> Send your link and I will send three points in twenty-four hours. No charge, no call, no pitch.
+> Send your link, get three points in twenty-four hours, free.
 
 **On-screen beats**
 - Three points
@@ -9185,7 +9185,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 32s
 
 **Hook (0-3s)**
-> We told a business to stop advertising. Their replies were the leak, not their reach.
+> We told a business to stop advertising. Here is why.
 
 **On-screen beats**
 - They were spending
@@ -9241,7 +9241,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 23s
 
 **Hook (0-3s)**
-> Claim your Google Business Profile tonight. It is free and most Lagos businesses have not.
+> Claim your Google Business Profile tonight. It is free.
 
 **On-screen beats**
 - Search your business name
@@ -9306,7 +9306,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 25s
 
 **Hook (0-3s)**
-> This restaurant is four hundred metres from a busy junction and invisible on Google Maps.
+> This restaurant is 400 metres from a busy junction, and invisible.
 
 **On-screen beats**
 - No pin
@@ -9360,7 +9360,7 @@ writing on the spot.
 ### TikTok · 09:15 · Kinetic type, 15s
 
 **Hook (0-3s)**
-> "Near me" is how your customer searches. You are not in that answer.
+> "Near me" is how your customer searches. You are not there.
 
 **On-screen beats**
 - Two words
@@ -9413,7 +9413,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 20s
 
 **Hook (0-3s)**
-> Put your area in your bio and every caption. "Lekki" is a keyword, not a detail.
+> Lekki is a keyword, not a detail. Put it in your bio.
 
 **On-screen beats**
 - Not decoration
@@ -9521,7 +9521,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 28s
 
 **Hook (0-3s)**
-> A laundry got six walk-ins from one map pin. It took eleven minutes.
+> One map pin, eleven minutes of setup, six walk-ins.
 
 **On-screen beats**
 - Six people
@@ -9577,7 +9577,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 21s
 
 **Hook (0-3s)**
-> Take ten photos of your business and post one a week to your listing.
+> Take ten photos and post one a week to your listing.
 
 **On-screen beats**
 - Ten photos
@@ -9685,7 +9685,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 26s
 
 **Hook (0-3s)**
-> I asked how people found the last place they ate. Google beat Instagram.
+> I asked how people found the last place they ate. Google won.
 
 **On-screen beats**
 - Not a food page
@@ -9739,7 +9739,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 25s
 
 **Hook (0-3s)**
-> The Local Visibility Starter is for one neighbourhood. If you ship nationwide, this is not it.
+> The Local Visibility Starter is for one neighbourhood only.
 
 **On-screen beats**
 - One area
@@ -9793,7 +9793,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 29s
 
 **Hook (0-3s)**
-> A client wanted to rank for "Lagos food". We said pick one area and own it first.
+> A client wanted to rank for Lagos food. We said one area.
 
 **On-screen beats**
 - Lagos is a country
@@ -9848,7 +9848,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> Ask five customers how they found you. Write the answers down. That is your channel.
+> Ask five customers how they found you. Write it down.
 
 **On-screen beats**
 - Five people
@@ -9967,7 +9967,7 @@ writing on the spot.
 ### TikTok · 09:15 · Kinetic type, 16s
 
 **Hook (0-3s)**
-> Your Google listing is open when you are closed. It is a second shop.
+> Your Google listing is open when you are closed. A second shop.
 
 **On-screen beats**
 - You are asleep
@@ -10022,7 +10022,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> Four fields on your listing matter more than everything else. Category, area, hours, phone.
+> Four fields matter most: category, area, hours, phone.
 
 **On-screen beats**
 - Category decides what you appear for
@@ -10081,7 +10081,7 @@ writing on the spot.
 ### TikTok · 13:45 · Talking head, 21s
 
 **Hook (0-3s)**
-> Reviews are not vanity. They are the only public proof you get for free.
+> Reviews are not vanity. They are the only free public proof.
 
 **On-screen beats**
 - Nobody can buy them honestly
@@ -10134,7 +10134,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 28s
 
 **Hook (0-3s)**
-> A customer left a review because she was asked at pickup. Not by email. At the counter.
+> A customer left a review because she was asked at pickup.
 
 **On-screen beats**
 - Email came three days later
@@ -10302,7 +10302,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 25s
 
 **Hook (0-3s)**
-> I asked if people check reviews before trying a new shop. Nine out of ten said yes.
+> Nine out of ten people check reviews before a new shop.
 
 **On-screen beats**
 - Nine of ten
@@ -10358,7 +10358,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 24s
 
 **Hook (0-3s)**
-> The launch handbook covers listings and ownership. It does not build your website.
+> The launch handbook covers listings and ownership, not the build.
 
 **On-screen beats**
 - What it covers
@@ -10414,7 +10414,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 30s
 
 **Hook (0-3s)**
-> Someone offered to get us reviews. We said no, and here is why it is the worst thing you can buy.
+> Someone offered to sell us reviews. Here is why we said no.
 
 **On-screen beats**
 - They are cheap
@@ -10531,7 +10531,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 23s
 
 **Hook (0-3s)**
-> This page says bespoke four times and never tells you what they actually make.
+> This page says bespoke four times and never says what they make.
 
 **On-screen beats**
 - Bespoke
@@ -10758,7 +10758,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 27s
 
 **Hook (0-3s)**
-> A headline halved in length doubled the clicks. Nobody reads the second clause.
+> Halving a headline doubled the clicks. Nobody reads the second half.
 
 **On-screen beats**
 - Twenty two words
@@ -10816,7 +10816,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 23s
 
 **Hook (0-3s)**
-> Write like you talk to a customer at the counter. Then delete the first two sentences.
+> Write like you talk at the counter. Then delete sentence one.
 
 **On-screen beats**
 - How would you say it out loud
@@ -10871,7 +10871,7 @@ writing on the spot.
 ### TikTok · 18:00 · Kinetic type, 14s
 
 **Hook (0-3s)**
-> "Kindly" has never sold anything. Neither has "we are pleased to inform you".
+> "Kindly" has never sold anything. Nor has "we are pleased".
 
 **On-screen beats**
 - Nobody talks like that
@@ -10926,7 +10926,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 26s
 
 **Hook (0-3s)**
-> I read people a business description and asked them to repeat it back.
+> I read people a business description, then asked them to repeat it.
 
 **On-screen beats**
 - One sentence
@@ -10982,7 +10982,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 23s
 
 **Hook (0-3s)**
-> The Message Workbook is for people who already know what they sell. If you do not, start with the homepage pack.
+> The Message Workbook assumes you already know what you sell.
 
 **On-screen beats**
 - Workbook assumes clarity
@@ -11038,7 +11038,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 32s
 
 **Hook (0-3s)**
-> A client insisted on the word disruptive. We kept it. Nothing happened. Then we removed it.
+> A client wanted the word disruptive. We tested it instead.
 
 **On-screen beats**
 - He loved it
@@ -11330,7 +11330,7 @@ writing on the spot.
 ### TikTok · 13:45 · Talking head, 20s
 
 **Hook (0-3s)**
-> Broad offers are a fear of losing the wrong customer. So you lose the right one.
+> Broad offers are a fear of losing the wrong customer.
 
 **On-screen beats**
 - Keep everyone
@@ -11439,7 +11439,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 23s
 
 **Hook (0-3s)**
-> Write down everything you sell. Circle what actually pays. Then lead with that.
+> Write down everything you sell, then circle what actually pays.
 
 **On-screen beats**
 - Everything you sell
@@ -11498,7 +11498,7 @@ writing on the spot.
 ### TikTok · 18:00 · Kinetic type, 17s
 
 **Hook (0-3s)**
-> Your cheapest offer is the loudest thing on your page, and it is probably not paying you.
+> Your cheapest offer is the loudest thing on your page.
 
 **On-screen beats**
 - It gets the clicks
@@ -11552,7 +11552,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 26s
 
 **Hook (0-3s)**
-> I read people nine services. Not one could repeat a single one back.
+> I read people nine services. Nobody could repeat one back.
 
 **On-screen beats**
 - Nine services
@@ -11609,7 +11609,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 25s
 
 **Hook (0-3s)**
-> The landing page kit is for one offer only. If you have nine, you need it most.
+> The landing page kit is for one offer only. Yours has nine.
 
 **On-screen beats**
 - One page
@@ -11665,7 +11665,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 33s
 
 **Hook (0-3s)**
-> We turned down a rebrand because the business did not need one. It needed a sentence.
+> We turned down a rebrand. The business needed a sentence.
 
 **On-screen beats**
 - Six weeks of brand work
@@ -11843,7 +11843,7 @@ writing on the spot.
 ### TikTok · 09:15 · Kinetic type, 17s
 
 **Hook (0-3s)**
-> You have no testimonials and you are not stuck. You have process and photographs.
+> No testimonials? You still have process and photographs.
 
 **On-screen beats**
 - No clients yet
@@ -11898,7 +11898,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> A before and after beats a quote. Show the work, not the praise.
+> A before and after beats a quote. Show the work.
 
 **On-screen beats**
 - Before
@@ -11954,7 +11954,7 @@ writing on the spot.
 ### TikTok · 13:45 · Talking head, 21s
 
 **Hook (0-3s)**
-> Your honesty is currently your only proof. Use it instead of inventing one.
+> Your honesty is your only proof. Use it, do not invent one.
 
 **On-screen beats**
 - No results yet
@@ -12068,7 +12068,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 21s
 
 **Hook (0-3s)**
-> Take three photos of your process this week. Not the finished thing. The middle.
+> Three photos of your process this week. Not the finished thing.
 
 **On-screen beats**
 - The cutting
@@ -12183,7 +12183,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 25s
 
 **Hook (0-3s)**
-> I asked what would make people trust a new business. Seeing the work beat reviews.
+> Seeing the work beat reviews when I asked strangers.
 
 **On-screen beats**
 - Not the star rating
@@ -12240,7 +12240,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 24s
 
 **Hook (0-3s)**
-> We do not have a wall of client results to show you yet. Here is what we do instead.
+> We have no wall of client results. Here is what we do.
 
 **On-screen beats**
 - No wall of logos
@@ -12296,7 +12296,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 31s
 
 **Hook (0-3s)**
-> Someone asked us to write a testimonial for them to publish. We said no.
+> Someone asked us to write a testimonial to publish. We said no.
 
 **On-screen beats**
 - It would take ten minutes
@@ -12353,7 +12353,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 20s
 
 **Hook (0-3s)**
-> Ask three customers if you can screenshot one chat. Then blur the name.
+> Ask three customers if you can screenshot one chat, then blur names.
 
 **On-screen beats**
 - Ask plainly
@@ -12416,7 +12416,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 24s
 
 **Hook (0-3s)**
-> The worst listing I found this week is marked permanently closed. It is open.
+> The worst listing this week is marked closed. The shop is open.
 
 **On-screen beats**
 - Open every day
@@ -12474,7 +12474,7 @@ writing on the spot.
 ### TikTok · 09:15 · Talking head, 26s
 
 **Hook (0-3s)**
-> Three weeks in. Here is the number, honestly, including what did not work.
+> Three weeks in. Here is the number, including what did not work.
 
 **On-screen beats**
 - What worked
@@ -12532,7 +12532,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 23s
 
 **Hook (0-3s)**
-> The most shared thing I posted this week was a teardown. Here is the format, on a new business.
+> My most shared post was a teardown. Here is the format.
 
 **On-screen beats**
 - Show the page
@@ -12646,7 +12646,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 28s
 
 **Hook (0-3s)**
-> Someone watched one of these videos and fixed their Google listing that night.
+> Someone watched a video and fixed her Google listing that night.
 
 **On-screen beats**
 - She commented
@@ -12702,7 +12702,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> If I had one hour in any Lagos business, I would fix two things: reply time, then the first sentence.
+> One hour in any Lagos business: fix reply time, then sentence one.
 
 **On-screen beats**
 - Reply time
@@ -12758,7 +12758,7 @@ writing on the spot.
 ### TikTok · 18:00 · Talking head, 21s
 
 **Hook (0-3s)**
-> The post that flopped hardest this week was the one I liked most.
+> My favourite post this week flopped hardest. Here it is.
 
 **On-screen beats**
 - It was about measurement
@@ -12815,7 +12815,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 26s
 
 **Hook (0-3s)**
-> I asked twelve businesses if they had claimed their Google listing. Two had.
+> I asked twelve businesses about their Google listing. Two had claimed it.
 
 **On-screen beats**
 - Two of twelve
@@ -12872,7 +12872,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 18s
 
 **Hook (0-3s)**
-> Most requested this week: the free review. Three points, twenty-four hours, no pitch.
+> Most requested this week: the free review. Three points, no pitch.
 
 **On-screen beats**
 - Send the link
@@ -12928,7 +12928,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 30s
 
 **Hook (0-3s)**
-> We declined a brief this week. It was to make a business sound bigger than it is.
+> We declined a brief to make a small business look big.
 
 **On-screen beats**
 - Pretend to be an agency
@@ -13158,7 +13158,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 21s
 
 **Hook (0-3s)**
-> Before you buy any template, ask one question: will I actually open this on Monday?
+> Before you buy a template, ask: will I open this Monday?
 
 **On-screen beats**
 - Not will it help
@@ -13270,7 +13270,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 28s
 
 **Hook (0-3s)**
-> Someone bought the chat pack, used one script, and ignored the other thirty-five. That is a success.
+> She bought thirty-six files, used one, and that was a success.
 
 **On-screen beats**
 - One script
@@ -13328,7 +13328,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 20s
 
 **Hook (0-3s)**
-> Start with one file, not the whole pack. The checklist is usually enough.
+> Start with one file, not the pack. The checklist is enough.
 
 **On-screen beats**
 - Open the folder
@@ -13384,7 +13384,7 @@ writing on the spot.
 ### TikTok · 18:00 · Kinetic type, 16s
 
 **Hook (0-3s)**
-> A pack you do not open is a donation to me. Pick the one you will use this week.
+> An unopened pack is a donation. Pick one for this week.
 
 **On-screen beats**
 - Not the best one
@@ -13439,7 +13439,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 25s
 
 **Hook (0-3s)**
-> I asked what would make someone pay five thousand naira for a document.
+> I asked what would make someone pay five thousand for a document.
 
 **On-screen beats**
 - Not the page count
@@ -13496,7 +13496,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 26s
 
 **Hook (0-3s)**
-> All nine packs, five thousand naira each, no consulting included. That is the deal.
+> All nine packs, five thousand each, no consulting. That is the deal.
 
 **On-screen beats**
 - Nine packs
@@ -13555,7 +13555,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 30s
 
 **Hook (0-3s)**
-> Someone asked for a refund on a download they had already opened. We said no, kindly, and explained why.
+> Someone asked for a refund on an opened download.
 
 **On-screen beats**
 - Files can be copied
@@ -13612,7 +13612,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 20s
 
 **Hook (0-3s)**
-> One-page test for anything you are about to buy: what will you do in the first hour?
+> Before you buy anything, ask what you will do in hour one.
 
 **On-screen beats**
 - Not what could it do
@@ -13677,7 +13677,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 24s
 
 **Hook (0-3s)**
-> This sales page lists eighteen features and never says what you will be able to do.
+> Eighteen features, and not one sentence about what you can do.
 
 **On-screen beats**
 - Templates
@@ -13733,7 +13733,7 @@ writing on the spot.
 ### TikTok · 09:15 · Kinetic type, 18s
 
 **Hook (0-3s)**
-> A bundle that turns out to be one PDF is a lie with good design.
+> A bundle that is one PDF is a lie with good design.
 
 **On-screen beats**
 - Count the files
@@ -13846,7 +13846,7 @@ writing on the spot.
 ### TikTok · 13:45 · Talking head, 19s
 
 **Hook (0-3s)**
-> Transparency about what is inside is the entire sales page. Nobody trusts a mystery box.
+> Transparency is the whole sales page. Nobody trusts a mystery box.
 
 **On-screen beats**
 - What is inside
@@ -13901,7 +13901,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 27s
 
 **Hook (0-3s)**
-> A buyer asked to see page one before paying. We sent it. She bought.
+> A buyer asked to see page one before paying. She bought.
 
 **On-screen beats**
 - One page
@@ -14016,7 +14016,7 @@ writing on the spot.
 ### TikTok · 18:00 · Kinetic type, 17s
 
 **Hook (0-3s)**
-> Thirty-six files is not automatically better than six. Only if you use them.
+> Thirty-six files is not better than six. Only if you use them.
 
 **On-screen beats**
 - More files is a fact
@@ -14073,7 +14073,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 24s
 
 **Hook (0-3s)**
-> I asked if people would buy something without seeing what is inside. Nobody said yes.
+> Nobody would buy without seeing what is inside. Nobody.
 
 **On-screen beats**
 - Not one person
@@ -14187,7 +14187,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 29s
 
 **Hook (0-3s)**
-> Someone told us to pad the bundle to make the number bigger. We said no.
+> They told us to pad the bundle. We kept the real count.
 
 **On-screen beats**
 - Split the files
@@ -14244,7 +14244,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 20s
 
 **Hook (0-3s)**
-> Before buying anything, from anyone, check the contents page. If there is not one, ask.
+> Check the contents page before you buy. From anyone.
 
 **On-screen beats**
 - Anybody
@@ -14359,10 +14359,10 @@ writing on the spot.
 
 **Type:** Entertain · **Why it works:** The entire offer in one sentence.
 
-### TikTok · 09:15 · Kinetic type, 14s
+### TikTok · 09:15 · Kinetic type, 15s
 
 **Hook (0-3s)**
-> Forty five thousand one at a time. Thirty five together. That is the whole offer.
+> Forty five thousand separately. Thirty five together. That is it.
 
 **On-screen beats**
 - Nine packs at five
@@ -14479,7 +14479,7 @@ writing on the spot.
 ### TikTok · 13:45 · Talking head, 19s
 
 **Hook (0-3s)**
-> Bundle discounts work when the products are real. Otherwise it is a clearance bin with better lighting.
+> Bundle discounts work when the products are real. Otherwise, clearance.
 
 **On-screen beats**
 - Real products
@@ -14534,7 +14534,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 26s
 
 **Hook (0-3s)**
-> A buyer did the maths on camera and said so I save ten. That was the sale.
+> She did the maths, said so I save ten, and paid.
 
 **On-screen beats**
 - She opened her calculator
@@ -14592,7 +14592,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 20s
 
 **Hook (0-3s)**
-> Name the saving, not the percentage. Ten thousand naira beats twenty two percent.
+> Name the saving, not the percentage. Ten thousand beats twenty two.
 
 **On-screen beats**
 - Percentages need maths
@@ -14703,7 +14703,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 25s
 
 **Hook (0-3s)**
-> I asked if thirty five thousand was a lot for nine business documents.
+> I asked if thirty five thousand was a lot for nine documents.
 
 **On-screen beats**
 - Most said it depends
@@ -14816,7 +14816,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 30s
 
 **Hook (0-3s)**
-> We were asked to raise our prices so we could announce a discount. We said no.
+> Asked to raise prices so a discount would look real.
 
 **On-screen beats**
 - Forty five, then thirty five
@@ -14936,7 +14936,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 24s
 
 **Hook (0-3s)**
-> This landing page promises six impossible things. One of them is a legal problem.
+> Six impossible promises. One of them is a legal problem.
 
 **On-screen beats**
 - Guaranteed ranking
@@ -15046,7 +15046,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> Write your own limit into the sales copy. Here are three that work.
+> Write your own limit into the sales copy. Three that work.
 
 **On-screen beats**
 - This will not bring you customers
@@ -15162,7 +15162,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 27s
 
 **Hook (0-3s)**
-> A buyer said the line about what it will not do is why he paid.
+> A buyer said the limit is the line that made him pay.
 
 **On-screen beats**
 - He had been lied to before
@@ -15218,7 +15218,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 21s
 
 **Hook (0-3s)**
-> Put the limit in the same paragraph as the price. Not on a separate page nobody reads.
+> Put the limit in the same paragraph as the price.
 
 **On-screen beats**
 - Same paragraph
@@ -15270,7 +15270,7 @@ writing on the spot.
 
 **Type:** Entertain · **Why it works:** A short economic argument that is hard to argue with.
 
-### TikTok · 18:00 · Kinetic type, 15s
+### TikTok · 18:00 · Kinetic type, 18s
 
 **Hook (0-3s)**
 > Every promise you cannot keep is a refund and a review.
@@ -15328,7 +15328,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 25s
 
 **Hook (0-3s)**
-> I asked what makes people distrust an ad. One word came up over and over.
+> I asked what makes people distrust an ad. One word.
 
 **On-screen beats**
 - Not the price
@@ -15385,7 +15385,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 24s
 
 **Hook (0-3s)**
-> The bundle will not get you one single customer. Here is what it does instead.
+> The bundle will not get you one single customer.
 
 **On-screen beats**
 - No traffic
@@ -15443,7 +15443,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 31s
 
 **Hook (0-3s)**
-> A client wanted results guaranteed in the ad. We wrote we cannot guarantee results instead.
+> A client wanted a guarantee in the ad. We wrote the opposite.
 
 **On-screen beats**
 - He was nervous
@@ -15499,7 +15499,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> Read your last advert and delete every promise you cannot prove. Then see if it still works.
+> Delete every promise you cannot prove. Read what is left.
 
 **On-screen beats**
 - Every promise
@@ -15564,7 +15564,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 23s
 
 **Hook (0-3s)**
-> This business answers four questions nobody asked and none of the four that matter.
+> This business answers four questions nobody asked. None of the four.
 
 **On-screen beats**
 - Our journey
@@ -15620,7 +15620,7 @@ writing on the spot.
 ### TikTok · 09:15 · Kinetic type, 16s
 
 **Hook (0-3s)**
-> Someone bought the chat pack and sent us one line. Here it is.
+> Someone bought the chat pack and sent one line. Here it is.
 
 **On-screen beats**
 - One sentence
@@ -15731,7 +15731,7 @@ writing on the spot.
 ### TikTok · 13:45 · Talking head, 18s
 
 **Hook (0-3s)**
-> A template is only useful if it is editable. Otherwise it is a poster.
+> A template is only useful if it is editable. Otherwise, a poster.
 
 **On-screen beats**
 - Editable
@@ -15786,7 +15786,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 28s
 
 **Hook (0-3s)**
-> A buyer rewrote one of our scripts in Pidgin and sent it back to us.
+> A buyer rewrote our script in Pidgin and sent it back.
 
 **On-screen beats**
 - Same structure
@@ -15844,7 +15844,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> Edit every script into your own voice. A script in the wrong voice is worse than none.
+> A script in the wrong voice is worse than no script.
 
 **On-screen beats**
 - Read it out loud
@@ -16068,7 +16068,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 29s
 
 **Hook (0-3s)**
-> Someone asked us to lock the files so they could not be edited. We said no.
+> Someone asked us to lock the files. We said no.
 
 **On-screen beats**
 - Locking looks like protection
@@ -16190,7 +16190,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 24s
 
 **Hook (0-3s)**
-> This business bought adverts before it fixed the reply, so the adverts made everything worse.
+> They bought adverts before fixing the reply. That made it worse.
 
 **On-screen beats**
 - Spending every week
@@ -16248,7 +16248,7 @@ writing on the spot.
 ### TikTok · 09:15 · Kinetic type, 18s
 
 **Hook (0-3s)**
-> We will not sell you a website you do not need. Ask us first, it is free.
+> We will not sell you a website you do not need.
 
 **On-screen beats**
 - Sometimes the answer is no
@@ -16361,7 +16361,7 @@ writing on the spot.
 ### TikTok · 13:45 · Talking head, 20s
 
 **Hook (0-3s)**
-> The best marketing decision is usually not yet. Spend it on the leak instead.
+> The best marketing decision is usually not yet. Fix the leak first.
 
 **On-screen beats**
 - Not yet
@@ -16418,7 +16418,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 30s
 
 **Hook (0-3s)**
-> We talked someone out of a project this month, and it was the best work we did for them.
+> We talked someone out of a project. Best work we did.
 
 **On-screen beats**
 - They wanted a new site
@@ -16474,7 +16474,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 21s
 
 **Hook (0-3s)**
-> Ask any agency what they would refuse to do. Their answer is the whole interview.
+> Ask any agency what they refuse to do. That is the interview.
 
 **On-screen beats**
 - Not their portfolio
@@ -16529,7 +16529,7 @@ writing on the spot.
 ### TikTok · 18:00 · Kinetic type, 15s
 
 **Hook (0-3s)**
-> Nobody has ever regretted asking "do I need this?" Plenty have regretted not asking.
+> Nobody regrets asking "do I need this?" Plenty regret not asking.
 
 **On-screen beats**
 - One question
@@ -16584,7 +16584,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 26s
 
 **Hook (0-3s)**
-> I asked if a seller had ever told them not to buy something. Almost nobody had been told, and everyone remembered when they were.
+> Almost nobody has been told not to buy. Everyone remembers it.
 
 **On-screen beats**
 - Rare
@@ -16639,7 +16639,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 25s
 
 **Hook (0-3s)**
-> If you want it built for you, that is a project, not a pack. Message us and we will say if we can help.
+> Built for you is a project, not a pack. Ask which.
 
 **On-screen beats**
 - Packs: files
@@ -16695,7 +16695,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 32s
 
 **Hook (0-3s)**
-> The project we declined this month was a full ecommerce build for a business with no stock.
+> We declined an online shop for a business with no stock.
 
 **On-screen beats**
 - Beautiful shop
@@ -16750,7 +16750,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> Three questions before any marketing spend: what leaks, what changes, who owns it.
+> Three questions before any marketing spend: what leaks, who owns it.
 
 **On-screen beats**
 - What leaks
@@ -16815,7 +16815,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 24s
 
 **Hook (0-3s)**
-> The worst sales page I read this week has six promises, no price, and no limit.
+> Six promises, no price, no limit. The worst page this week.
 
 **On-screen beats**
 - Six promises
@@ -16873,7 +16873,7 @@ writing on the spot.
 ### TikTok · 09:15 · Talking head, 27s
 
 **Hook (0-3s)**
-> Four weeks. Here is the real number, from the tracker, not from my memory.
+> Four weeks. The real number, from the tracker, not my memory.
 
 **On-screen beats**
 - Posts published
@@ -16930,7 +16930,7 @@ writing on the spot.
 ### TikTok · 11:30 · Kinetic type, 23s
 
 **Hook (0-3s)**
-> One post produced most of the conversations this month. It was a checklist.
+> One post produced most of the conversations. It was a checklist.
 
 **On-screen beats**
 - Not a story
@@ -17042,7 +17042,7 @@ writing on the spot.
 ### TikTok · 15:00 · Talking head, 28s
 
 **Hook (0-3s)**
-> The best question anyone asked us this month was: how do I know if I am the problem?
+> Am I the problem? The best question anyone asked us.
 
 **On-screen beats**
 - Not the market
@@ -17156,7 +17156,7 @@ writing on the spot.
 ### TikTok · 18:00 · Talking head, 25s
 
 **Hook (0-3s)**
-> Here is the thing we were wrong about in November, before anyone else says it.
+> Here is what we were wrong about in November.
 
 **On-screen beats**
 - We thought volume would find the winners
@@ -17211,7 +17211,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 27s
 
 **Hook (0-3s)**
-> I asked strangers what we should make next. Here is every answer, including the rude one.
+> I asked strangers what to make next. Including the rude answer.
 
 **On-screen beats**
 - More teardowns
@@ -17267,7 +17267,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 21s
 
 **Hook (0-3s)**
-> The pack that earned its price this month was the quote templates. One line: five thousand.
+> The pack that earned its price this month. One line: five thousand.
 
 **On-screen beats**
 - Most used
@@ -17323,7 +17323,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 30s
 
 **Hook (0-3s)**
-> Fourth week of this slot. The thing we refused this week: advertising for a business that could not deliver.
+> Week four of this slot. The thing we refused: advertising.
 
 **On-screen beats**
 - They wanted reach
@@ -17443,7 +17443,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 26s
 
 **Hook (0-3s)**
-> The best teardown of the month, re-cut sharper. Same business, three fixes, twenty seconds.
+> The best teardown of the month, re-cut. Three fixes, twenty seconds.
 
 **On-screen beats**
 - The page
@@ -17501,7 +17501,7 @@ writing on the spot.
 ### TikTok · 09:15 · Talking head, 28s
 
 **Hook (0-3s)**
-> Three hundred and thirty posts this month. Here is what it cost in hours and naira.
+> Three hundred and thirty posts. Here is what it cost.
 
 **On-screen beats**
 - Hours
@@ -17619,7 +17619,7 @@ writing on the spot.
 ### TikTok · 13:45 · Talking head, 19s
 
 **Hook (0-3s)**
-> Most of our posts did nothing. That is not a failure, it is the job.
+> Most of our posts did nothing. That is the job.
 
 **On-screen beats**
 - Twenty percent carries eighty
@@ -17730,7 +17730,7 @@ writing on the spot.
 ### TikTok · 16:30 · Kinetic type, 21s
 
 **Hook (0-3s)**
-> One thing we would do differently from day one: film a week in advance.
+> One thing we would do differently: film a week in advance.
 
 **On-screen beats**
 - Not more ideas
@@ -17785,7 +17785,7 @@ writing on the spot.
 ### TikTok · 18:00 · Talking head, 22s
 
 **Hook (0-3s)**
-> There was a format nobody watched. We are retiring it on camera so we cannot quietly bring it back.
+> A format nobody watched. Retiring it on camera.
 
 **On-screen beats**
 - The long explainer
@@ -17841,7 +17841,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 27s
 
 **Hook (0-3s)**
-> I asked people if they had seen any of this account. Most had not.
+> I asked if people had seen any of this. Most had not.
 
 **On-screen beats**
 - Most had not
@@ -17897,7 +17897,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 22s
 
 **Hook (0-3s)**
-> Nothing new to sell today. Here is the list, the prices, and the limit.
+> Nothing new to sell today. Here is the list and the limit.
 
 **On-screen beats**
 - Nine packs
@@ -17955,7 +17955,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 34s
 
 **Hook (0-3s)**
-> The biggest thing we declined this month was a retainer, and saying no cost us more than anything else.
+> The biggest thing we declined was a retainer. Here is why.
 
 **On-screen beats**
 - Monthly money
@@ -18013,7 +18013,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 24s
 
 **Hook (0-3s)**
-> How to run this yourself in December: four shows, one sheet, eleven slots.
+> How to run this in December: four shows, one sheet, eleven slots.
 
 **On-screen beats**
 - Four repeating formats
@@ -18079,7 +18079,7 @@ writing on the spot.
 ### TikTok · 07:00 · Screen recording, 27s
 
 **Hook (0-3s)**
-> We fixed our own page this month. Here is the before and after, no editing tricks.
+> We fixed our own page this month. Before and after.
 
 **On-screen beats**
 - Before: helping brands tell their story
@@ -18138,7 +18138,7 @@ writing on the spot.
 ### TikTok · 09:15 · Kinetic type, 22s
 
 **Hook (0-3s)**
-> Nobody is on social to be sold to. So we entertained first. Here is what happened.
+> Nobody is on social to be sold to. So we entertained first.
 
 **On-screen beats**
 - Sixty percent entertaining
@@ -18251,7 +18251,7 @@ writing on the spot.
 ### TikTok · 13:45 · Talking head, 21s
 
 **Hook (0-3s)**
-> Posting less would have been the bigger risk. Volume is how you find the twenty percent.
+> Posting less would have been the bigger risk. Here is why.
 
 **On-screen beats**
 - Fewer posts
@@ -18360,7 +18360,7 @@ writing on the spot.
 ### TikTok · 16:30 · Screen recording, 26s
 
 **Hook (0-3s)**
-> Here is the tracker, on camera, with the real columns and the real numbers.
+> Here is the tracker, on camera, with the real columns.
 
 **On-screen beats**
 - Date
@@ -18420,7 +18420,7 @@ writing on the spot.
 ### TikTok · 18:00 · Talking head, 21s
 
 **Hook (0-3s)**
-> If we could keep one post from this month, it would be the day three message.
+> One post from this month worth keeping: the day-three message.
 
 **On-screen beats**
 - Not the best performing
@@ -18475,7 +18475,7 @@ writing on the spot.
 ### TikTok · 19:00 · Street interview, 27s
 
 **Hook (0-3s)**
-> I asked what they want next month, then committed to one thing on camera.
+> I asked what they want next month, then committed on camera.
 
 **On-screen beats**
 - More teardowns
@@ -18531,7 +18531,7 @@ writing on the spot.
 ### TikTok · 20:00 · Overhead shot, 23s
 
 **Hook (0-3s)**
-> Last one of the month, so: everything, at the honest price, with the honest limits.
+> Nothing new today. Everything, at the honest price, with the limits.
 
 **On-screen beats**
 - Nine packs, five each
@@ -18590,7 +18590,7 @@ writing on the spot.
 ### TikTok · 20:45 · Talking head, 33s
 
 **Hook (0-3s)**
-> The thing we refused this month was the easier version of this account.
+> The thing we refused this month was the easier version of this.
 
 **On-screen beats**
 - Bigger claims
@@ -18645,7 +18645,7 @@ writing on the spot.
 ### TikTok · 21:30 · Kinetic type, 21s
 
 **Hook (0-3s)**
-> December starts tomorrow. Here is exactly what is coming, and what is going.
+> December starts tomorrow. Here is what is coming, and going.
 
 **On-screen beats**
 - Staying: teardowns

@@ -13,14 +13,24 @@
         "why": "The number contrast is the whole argument.",
         "tiktok": {
           "fmt": "Screen recording, 25s",
-          "hook": "This site cost twenty-five thousand naira, has forty pages, and has never had one enquiry.",
-          "beats": ["Forty pages", "Zero enquiries", "Because pages are not a funnel", "One page would beat it"],
+          "hook": "This site has forty pages and has never had one enquiry.",
+          "beats": [
+            "Forty pages",
+            "Zero enquiries",
+            "Because pages are not a funnel",
+            "One page would beat it"
+          ],
           "vo": "This site cost twenty five thousand naira, has forty pages, and in eight months has had no enquiries. Forty pages is not forty chances. It is forty places for the customer to get lost. One page that answers six questions and asks for one action would outperform the entire thing, and it would take an afternoon.",
           "cap": "Forty pages, zero enquiries. Pages are not a funnel."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["40 pages", "₦25,000", "0 enquiries", "1 page beats it"],
+          "slides": [
+            "40 pages",
+            "₦25,000",
+            "0 enquiries",
+            "1 page beats it"
+          ],
           "cap": "Volume of pages is not the same as a path to buying."
         },
         "facebook": {
@@ -37,13 +47,22 @@
         "tiktok": {
           "fmt": "Kinetic type, 16s",
           "hook": "The cheapest quote is a payment plan for a second project.",
-          "beats": ["You pay once now", "Then again in six months", "The second one costs more", "So it was never cheaper"],
+          "beats": [
+            "You pay once now",
+            "Then again in six months",
+            "The second one costs more",
+            "So it was never cheaper"
+          ],
           "vo": "The cheapest quote is a payment plan for a second project. You pay the small number now, then you pay a bigger number later to fix what the small number could not do, and you lose six months in between. Which means the cheap option is not cheap, it is just earlier.",
           "cap": "You will pay twice. The first payment is just quieter."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Cheap now", "Rebuild later", "Two payments, six months apart"],
+          "slides": [
+            "Cheap now",
+            "Rebuild later",
+            "Two payments, six months apart"
+          ],
           "cap": "Cheap work is a deposit on the work you actually needed."
         },
         "facebook": {
@@ -60,13 +79,23 @@
         "tiktok": {
           "fmt": "Kinetic type, 22s",
           "hook": "Before you accept any web quote, ask what happens after launch.",
-          "beats": ["Most stop at delivery", "Who updates it", "Who fixes the form", "Who answers in March"],
+          "beats": [
+            "Most stop at delivery",
+            "Who updates it",
+            "Who fixes the form",
+            "Who answers in March"
+          ],
           "vo": "Before you accept any web quote, ask one question: what happens after launch. Ask who updates the price list, who fixes the contact form when it breaks, and who answers the message in March. Most cheap quotes stop at delivery, which is why they are cheap, and then you discover the cost in the third month when you need one line changed.",
           "cap": "The quote ends at launch. The business does not."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["\"What happens after launch?\"", "Who updates it?", "Who fixes the form?", "Who answers in March?"],
+          "slides": [
+            "\"What happens after launch?\"",
+            "Who updates it?",
+            "Who fixes the form?",
+            "Who answers in March?"
+          ],
           "cap": "Ask this before you pay anyone for a website. Save it."
         },
         "facebook": {
@@ -83,13 +112,22 @@
         "tiktok": {
           "fmt": "Talking head, 23s",
           "hook": "\"I'll do it myself with AI\" costs two months and one relaunch.",
-          "beats": ["The tool is free", "The decisions are not", "Which photo, in what order", "Two months later you pay someone"],
+          "beats": [
+            "The tool is free",
+            "The decisions are not",
+            "Which photo, in what order",
+            "Two months later you pay someone"
+          ],
           "vo": "I will do it myself with AI costs two months and one relaunch. The tool is free. The decisions are not. Which photo goes first, what the price says, which of six headlines is true, what to delete. Two months in you still have not chosen, so you pay someone to choose, and the free tool turns out to be the most expensive part.",
           "cap": "The tool is free. Deciding what to say is the work."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["The tool: free", "The decisions: not", "Two months, one relaunch"],
+          "slides": [
+            "The tool: free",
+            "The decisions: not",
+            "Two months, one relaunch"
+          ],
           "cap": "AI will write you six options. It will not pick one for your customer."
         },
         "facebook": {
@@ -105,14 +143,24 @@
         "why": "A concrete case with a real number, labelled as our client's story.",
         "tiktok": {
           "fmt": "Talking head, 30s",
-          "hook": "A business paid twice for the same website. The first one was thirty thousand naira.",
-          "beats": ["Thirty thousand", "Unusable on a phone", "Eighteen months gone", "Then paid properly"],
+          "hook": "A business paid twice for the same website.",
+          "beats": [
+            "Thirty thousand",
+            "Unusable on a phone",
+            "Eighteen months gone",
+            "Then paid properly"
+          ],
           "vo": "A business paid twice for the same website. The first one was thirty thousand naira and it did not work on a phone, which is where all their customers were. Eighteen months of nobody buying later, they paid properly, and the second site cost three times the first. The first quote was not cheap. It was a deposit.",
           "cap": "₦30,000, then ₦90,000 for the same site. The first quote was a deposit."
         },
         "instagram": {
           "fmt": "Reel + caption",
-          "slides": ["₦30,000 site", "Broken on mobile", "18 months, no sales", "Then paid properly"],
+          "slides": [
+            "₦30,000 site",
+            "Broken on mobile",
+            "18 months, no sales",
+            "Then paid properly"
+          ],
           "cap": "The cheapest version of a thing is often the most expensive way to get it."
         },
         "facebook": {
@@ -128,14 +176,24 @@
         "why": "A takeaway they can use on someone else's pitch today.",
         "tiktok": {
           "fmt": "Kinetic type, 23s",
-          "hook": "Three questions to ask any web quote. Who owns the domain, who fixes it, who pays for hosting.",
-          "beats": ["The domain is your name", "Not theirs", "Who fixes it in six months", "Get it in writing"],
+          "hook": "Three questions to ask any web quote, before you pay.",
+          "beats": [
+            "The domain is your name",
+            "Not theirs",
+            "Who fixes it in six months",
+            "Get it in writing"
+          ],
           "vo": "Three questions to ask any web quote. Who owns the domain, in whose name, in writing. Who fixes it when it breaks in six months, and how much do they charge. And who pays for hosting every year. If any of those answers is vague, walk away now, because all three become emergencies at the worst possible time.",
           "cap": "Domain, fixes, hosting. Ask all three before you pay anyone."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Who owns the domain?", "In whose name?", "Who fixes it in 6 months?", "Who pays for hosting?"],
+          "slides": [
+            "Who owns the domain?",
+            "In whose name?",
+            "Who fixes it in 6 months?",
+            "Who pays for hosting?"
+          ],
           "cap": "If you cannot answer all three, you do not own your website."
         },
         "facebook": {
@@ -152,13 +210,22 @@
         "tiktok": {
           "fmt": "Kinetic type, 15s",
           "hook": "A cheap logo is fine. A cheap domain is not.",
-          "beats": ["Logo can change", "Domain is your address", "If it is not in your name", "You can lose your business"],
+          "beats": [
+            "Logo can change",
+            "Domain is your address",
+            "If it is not in your name",
+            "You can lose your business"
+          ],
           "vo": "A cheap logo is fine, because you can change a logo in a week. A cheap domain is not, because it is your address. If it is registered in someone else's name, they can take your whole business off the internet with one email, and you have no recourse. Never let anyone else own your name.",
           "cap": "Your logo can change. Your address cannot be taken."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Logo: changeable", "Domain: your address", "Register it in your name"],
+          "slides": [
+            "Logo: changeable",
+            "Domain: your address",
+            "Register it in your name"
+          ],
           "cap": "Do not let a vendor hold the keys to your business."
         },
         "facebook": {
@@ -174,14 +241,24 @@
         "why": "Unanimity is the strongest possible evidence.",
         "tiktok": {
           "fmt": "Street interview, 24s",
-          "hook": "I asked: cheapest quote, or the person who asked you the most questions?",
-          "beats": ["Everyone chose questions", "Because questions mean attention", "Cheap means template", "Same answer every time"],
+          "hook": "I asked: cheapest quote, or the one who asked questions?",
+          "beats": [
+            "Everyone chose questions",
+            "Because questions mean attention",
+            "Cheap means template",
+            "Same answer every time"
+          ],
           "vo": "I asked people whether they would take the cheapest quote or the one from the person who asked them the most questions. Everyone chose the questions. Every single person. Because being asked questions feels like being understood, and a cheap quote feels like a template. That is what you are competing with, not the number.",
           "cap": "Everyone chose the one who asked questions. Every single person."
         },
         "instagram": {
           "fmt": "Reel + caption",
-          "slides": ["Cheapest? ", "Or asked questions?", "Everyone: questions", "Unanimous"],
+          "slides": [
+            "Cheapest? ",
+            "Or asked questions?",
+            "Everyone: questions",
+            "Unanimous"
+          ],
           "cap": "Questions signal attention. Price signals nothing."
         },
         "facebook": {
@@ -197,14 +274,25 @@
         "why": "Owning the low price honestly is more credible than justifying it.",
         "tiktok": {
           "fmt": "Overhead shot, 27s",
-          "hook": "Five thousand naira is cheap on purpose, and here is the honest limit of it.",
-          "beats": ["It is a template", "Not a service", "No one will build it for you", "That is why it is five"],
+          "hook": "Five thousand naira is cheap on purpose. Here is the limit.",
+          "beats": [
+            "It is a template",
+            "Not a service",
+            "No one will build it for you",
+            "That is why it is five"
+          ],
           "vo": "Five thousand naira is cheap on purpose, and here is the limit. It is a template, not a service. Nobody will build anything for you, nobody will answer questions about your specific business, and if you get stuck there is no call. That is exactly why it costs five thousand and not fifty. If you want the service, that is a different conversation and a different number.",
           "cap": "₦5,000 buys a template. Not a service, not a call. Message PACK on WhatsApp: 0905 069 0837."
         },
         "instagram": {
           "fmt": "Carousel, 4:5",
-          "slides": ["What ₦5,000 is", "A template", "What it is not", "A service", "No call, no build"],
+          "slides": [
+            "What ₦5,000 is",
+            "A template",
+            "What it is not",
+            "A service",
+            "No call, no build"
+          ],
           "cap": "The price is honest about the product. Read the limit before buying."
         },
         "facebook": {
@@ -220,14 +308,24 @@
         "why": "Naming what a price can buy is more useful than refusing.",
         "tiktok": {
           "fmt": "Talking head, 33s",
-          "hook": "Someone asked for a five-page site for forty thousand naira. We said no and named what it buys.",
-          "beats": ["Forty thousand does not buy five pages", "It buys one", "Done properly", "They took the one page"],
+          "hook": "Someone asked for five pages for forty thousand naira.",
+          "beats": [
+            "Forty thousand does not buy five pages",
+            "It buys one",
+            "Done properly",
+            "They took the one page"
+          ],
           "vo": "Someone asked for a five page site for forty thousand naira. We said no, and then we said what forty thousand does buy: one page, done properly, with copy, on a phone, with a working contact button. Five pages at that price is five templates nobody reads. They took the one page, and it is the only site they have ever had enquiries from.",
           "cap": "We refused five pages and sold one. It was the honest answer."
         },
         "instagram": {
           "fmt": "Reel + caption",
-          "slides": ["Asked: 5 pages, ₦40k", "Said: no", "Offered: 1 page, done properly", "They took it"],
+          "slides": [
+            "Asked: 5 pages, ₦40k",
+            "Said: no",
+            "Offered: 1 page, done properly",
+            "They took it"
+          ],
           "cap": "A smaller promise you can keep beats a bigger one you cannot."
         },
         "facebook": {
@@ -243,14 +341,24 @@
         "why": "A five-minute task with permanent consequences.",
         "tiktok": {
           "fmt": "Kinetic type, 21s",
-          "hook": "Write down who owns your domain and hosting. If it is not your name, fix it this week.",
-          "beats": ["One note", "Domain, host, logins", "Who to call", "Then you cannot be held hostage"],
+          "hook": "Check whose name is on your domain. Then fix it.",
+          "beats": [
+            "One note",
+            "Domain, host, logins",
+            "Who to call",
+            "Then you cannot be held hostage"
+          ],
           "vo": "Write down who owns your domain and your hosting, in one note on your phone, including the login email. If either is in someone else's name, fix it this week while it is calm, not in six months when you have fallen out. This is the least interesting task in your business and the only one that can end it.",
           "cap": "One note: domain, hosting, logins, who to call. Do it tonight."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Domain owner", "Hosting owner", "Login email", "Who to call"],
+          "slides": [
+            "Domain owner",
+            "Hosting owner",
+            "Login email",
+            "Who to call"
+          ],
           "cap": "The least interesting task in your business is the one that can end it."
         },
         "facebook": {
@@ -274,14 +382,24 @@
         "why": "Every viewer has waited through this exact site.",
         "tiktok": {
           "fmt": "Screen recording, 22s",
-          "hook": "This site opens with a video of a spinning logo. Six seconds of nothing, on mobile data.",
-          "beats": ["Six seconds", "No words", "On data", "The customer has left"],
+          "hook": "This site opens with six seconds of spinning logo.",
+          "beats": [
+            "Six seconds",
+            "No words",
+            "On data",
+            "The customer has left"
+          ],
           "vo": "This site opens with a video of a spinning logo. Six seconds, no words, no product, loading on mobile data at the customer's expense. In the time it takes that logo to finish spinning, the customer has decided you are slow. The animation is not the brand, it is the delay.",
           "cap": "Six seconds of spinning logo. Nobody has ever bought because of it."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["A spinning logo", "6 seconds", "On their data", "For nothing"],
+          "slides": [
+            "A spinning logo",
+            "6 seconds",
+            "On their data",
+            "For nothing"
+          ],
           "cap": "The first thing on the page should be the offer, not the animation."
         },
         "facebook": {
@@ -298,13 +416,22 @@
         "tiktok": {
           "fmt": "Kinetic type, 12s",
           "hook": "Nobody has ever bought anything because of a loading animation.",
-          "beats": ["Not once", "People leave because of them", "Speed is the feature", "Delete it"],
+          "beats": [
+            "Not once",
+            "People leave because of them",
+            "Speed is the feature",
+            "Delete it"
+          ],
           "vo": "Nobody has ever bought anything because of a loading animation. Not once, in the history of commerce. People leave because of them all the time. Speed is invisible when you have it and fatal when you do not, and the fix is usually deletion, not optimisation.",
           "cap": "Nobody bought because of it. People leave because of it."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Bought because of animation: 0", "Left because of it: lots", "Delete it"],
+          "slides": [
+            "Bought because of animation: 0",
+            "Left because of it: lots",
+            "Delete it"
+          ],
           "cap": "Speed is invisible when you have it and fatal when you don't."
         },
         "facebook": {
@@ -320,14 +447,24 @@
         "why": "One rule with three options, easy to apply today.",
         "tiktok": {
           "fmt": "Kinetic type, 24s",
-          "hook": "Your first line has three jobs and can only do one of them.",
-          "beats": ["What you sell", "Who it is for", "What to do next", "Pick the strongest"],
+          "hook": "Your first line has three jobs. It can only do one.",
+          "beats": [
+            "What you sell",
+            "Who it is for",
+            "What to do next",
+            "Pick the strongest"
+          ],
           "vo": "Your first line has three jobs and it can only do one. Say what you sell, say who it is for, or say what to do next. Most homepages try all three at once and end up saying nothing. Pick the strongest one for your customer and write it in ten words or fewer, then leave it alone for a week.",
           "cap": "Say what you sell, who for, or what to do. Not all three."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["What you sell", "Who it is for", "What to do next", "Pick one"],
+          "slides": [
+            "What you sell",
+            "Who it is for",
+            "What to do next",
+            "Pick one"
+          ],
           "cap": "Ten words or fewer. Then leave it alone for a week."
         },
         "facebook": {
@@ -344,13 +481,23 @@
         "tiktok": {
           "fmt": "Talking head, 20s",
           "hook": "Design is not decoration. Design is reading order.",
-          "beats": ["What do they see first", "Second", "Where does the eye go", "Then the button"],
+          "beats": [
+            "What do they see first",
+            "Second",
+            "Where does the eye go",
+            "Then the button"
+          ],
           "vo": "Design is not decoration. Design is reading order. What do they see first, what do they see second, and where does the eye go when they get bored. If the answer is anywhere but the button, the design is decorative and it is costing you. You do not need taste for this, you need to squint at your own page.",
           "cap": "Squint at your homepage. Whatever you see first is what you are selling."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["First", "Second", "Third", "Button: last?"],
+          "slides": [
+            "First",
+            "Second",
+            "Third",
+            "Button: last?"
+          ],
           "cap": "Squint at your own page. What survives the blur is the message."
         },
         "facebook": {
@@ -367,13 +514,23 @@
         "tiktok": {
           "fmt": "Talking head, 29s",
           "hook": "A page got four times better by deleting the top half.",
-          "beats": ["Two hundred words about the founder", "Gone", "One line left", "Enquiries went up"],
+          "beats": [
+            "Two hundred words about the founder",
+            "Gone",
+            "One line left",
+            "Enquiries went up"
+          ],
           "vo": "A page got four times better by deleting the top half of it. Two hundred words about the founder and the vision, replaced with one line about what they sell and to whom. Nothing was added. Nothing was designed. The line that had been hiding at the bottom was suddenly the headline, and it turned out to be the best sentence on the site.",
           "cap": "Nothing added. Half the page deleted. Four times the enquiries."
         },
         "instagram": {
           "fmt": "Reel + caption",
-          "slides": ["Top half: 200 words about us", "Deleted", "Best line was at the bottom", "4× the enquiries"],
+          "slides": [
+            "Top half: 200 words about us",
+            "Deleted",
+            "Best line was at the bottom",
+            "4× the enquiries"
+          ],
           "cap": "The best sentence on your site is probably already there, buried."
         },
         "facebook": {
@@ -390,13 +547,22 @@
         "tiktok": {
           "fmt": "Kinetic type, 21s",
           "hook": "Put the proof next to the claim, not four screens below it.",
-          "beats": ["Claim: fast delivery", "Proof: the date on the last job", "Together", "Otherwise it is a slogan"],
+          "beats": [
+            "Claim: fast delivery",
+            "Proof: the date on the last job",
+            "Together",
+            "Otherwise it is a slogan"
+          ],
           "vo": "Put the proof next to the claim. If you say fast delivery, put the delivery date of your last job on the same line. If you say quality, put the photo of the actual product beside it. A claim on its own is a slogan. A claim with evidence attached is a fact, and facts are the only things that move money.",
           "cap": "A claim alone is a slogan. A claim with evidence is a fact."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Claim: \"fast delivery\"", "Proof: Tuesday", "Same line"],
+          "slides": [
+            "Claim: \"fast delivery\"",
+            "Proof: Tuesday",
+            "Same line"
+          ],
           "cap": "Every adjective needs a receipt beside it."
         },
         "facebook": {
@@ -412,14 +578,23 @@
         "why": "Nearly universal, and instantly checkable.",
         "tiktok": {
           "fmt": "Screen recording, 16s",
-          "hook": "Your best photo is at the bottom of the page, where nobody decides anything.",
-          "beats": ["Top: a stock photo", "Bottom: the real thing", "Swap them", "Free improvement"],
+          "hook": "Your best photo is at the bottom, where nobody decides.",
+          "beats": [
+            "Top: a stock photo",
+            "Bottom: the real thing",
+            "Swap them",
+            "Free improvement"
+          ],
           "vo": "Your best photo is at the bottom of the page. The top is a stock image of people shaking hands, and the bottom is a real photo of the real thing you actually sell. Swap them. That is a free improvement that takes ninety seconds and does more than a redesign.",
           "cap": "Swap your stock photo for your real one. Ninety seconds."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Top: stock handshake", "Bottom: your real product", "Swap"],
+          "slides": [
+            "Top: stock handshake",
+            "Bottom: your real product",
+            "Swap"
+          ],
           "cap": "The real thing beats the beautiful thing every time."
         },
         "facebook": {
@@ -436,13 +611,23 @@
         "tiktok": {
           "fmt": "Street interview, 25s",
           "hook": "I asked people why they bought from the last shop they used.",
-          "beats": ["Not design", "Not the logo", "I saw the price straight away", "That was it"],
+          "beats": [
+            "Not design",
+            "Not the logo",
+            "I saw the price straight away",
+            "That was it"
+          ],
           "vo": "I asked people why they bought from the last shop they used. Almost nobody mentioned design. One person said I saw the price straight away and I knew it was for me, and that was the whole reason. Which means the price and the first line are doing almost all the work, and everything else is decoration.",
           "cap": "\"I saw the price straight away.\" That was the entire conversion."
         },
         "instagram": {
           "fmt": "Reel + caption",
-          "slides": ["Why did you buy there?", "Not the design", "Not the logo", "\"The price was there\""],
+          "slides": [
+            "Why did you buy there?",
+            "Not the design",
+            "Not the logo",
+            "\"The price was there\""
+          ],
           "cap": "The price and the first line are doing almost all the work."
         },
         "facebook": {
@@ -458,14 +643,25 @@
         "why": "Frames the product as a decision document, not a design file.",
         "tiktok": {
           "fmt": "Overhead shot, 26s",
-          "hook": "The homepage blueprint is for the first ten seconds of your site, and it is words, not pixels.",
-          "beats": ["First line", "Second line", "The button", "Five thousand naira, no design skills"],
+          "hook": "The homepage blueprint is words, not pixels. The first ten seconds.",
+          "beats": [
+            "First line",
+            "Second line",
+            "The button",
+            "Five thousand naira, no design skills"
+          ],
           "vo": "The homepage blueprint is about the first ten seconds of your site, and it is words, not pixels. The first line, the second line, and what the button says. It will not make your page beautiful. It will make it understandable, which is the part that was costing you money. Five thousand naira, and no design skill needed to use it.",
           "cap": "Words, not pixels. ₦5,000. Message HOMEPAGE on WhatsApp: 0905 069 0837."
         },
         "instagram": {
           "fmt": "Carousel, 4:5",
-          "slides": ["First 10 seconds", "Line 1", "Line 2", "The button", "₦5,000 · HOMEPAGE"],
+          "slides": [
+            "First 10 seconds",
+            "Line 1",
+            "Line 2",
+            "The button",
+            "₦5,000 · HOMEPAGE"
+          ],
           "cap": "It will not make your page pretty. It will make it understood."
         },
         "facebook": {
@@ -482,13 +678,22 @@
         "tiktok": {
           "fmt": "Talking head, 30s",
           "hook": "A client wanted sound to play automatically. We said no.",
-          "beats": ["It is not a mute button", "It is a close button", "Especially on a bus", "They agreed"],
+          "beats": [
+            "It is not a mute button",
+            "It is a close button",
+            "Especially on a bus",
+            "They agreed"
+          ],
           "vo": "A client wanted music to play the moment the site loaded. We said no. On a phone, in public, with the volume up, that is not a feature, it is an exit. They argued for a day, we built it without sound, and the enquiries went up. The fastest way to lose someone on mobile is to make a noise they did not ask for.",
           "cap": "On a phone with the volume up, sound is not a feature. It is an exit."
         },
         "instagram": {
           "fmt": "3-slide carousel",
-          "slides": ["Wanted: auto-play sound", "On a phone, in public", "That is a close button"],
+          "slides": [
+            "Wanted: auto-play sound",
+            "On a phone, in public",
+            "That is a close button"
+          ],
           "cap": "Never make a noise the visitor did not ask for."
         },
         "facebook": {
@@ -504,14 +709,24 @@
         "why": "A physical test that bypasses design opinion entirely.",
         "tiktok": {
           "fmt": "Kinetic type, 22s",
-          "hook": "Print your homepage. Circle the first thing you read. If it is your logo, start again.",
-          "beats": ["Print it", "Squint", "Circle the first thing", "Logo means start again"],
+          "hook": "Print your homepage. Circle what you read first.",
+          "beats": [
+            "Print it",
+            "Squint",
+            "Circle the first thing",
+            "Logo means start again"
+          ],
           "vo": "Print your homepage and put it on the table. Squint. Circle the first thing you read. If it is your logo, start again, because your logo is your name and your name is not your offer. If it is your offer, good. If it is a stock photo, delete it. This takes four minutes and you already have a printer or a phone screen.",
           "cap": "Print it, squint, circle the first thing. That is your real homepage."
         },
         "instagram": {
           "fmt": "4-slide carousel",
-          "slides": ["Print it", "Squint", "Circle the first thing", "Logo? Start again"],
+          "slides": [
+            "Print it",
+            "Squint",
+            "Circle the first thing",
+            "Logo? Start again"
+          ],
           "cap": "Four minutes. No printer? Squint at your phone instead."
         },
         "facebook": {
