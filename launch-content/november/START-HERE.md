@@ -12,7 +12,10 @@ Everything is in this folder:
 | `MONTH_POSTS.md` | The same 990 pieces as a document | Print it, or read it on a laptop while you film. |
 | `content_calendar.csv` | One row per scheduled piece, with date, platform and time | Import into Buffer, Later, Sheets, or whatever you schedule with. |
 | `content/days-*.json` | The source of truth | Edit here, never in the generated files. |
-| `MEME_BANK.md` | Deliberately empty, and explains why | The meme show was cut in the scoring round. Read it before you add one back. |
+| `content/memes.json` | The 30 memes, as text | Edit here, then rebuild the meme bank. |
+| `WHAT-WE-TEACH.md` | What the account teaches: four gaps, three voices, and whether to give it a face | Read this first if the month ever feels like 330 unrelated posts. |
+| `MEME_BANK.md` | 30 memes, one a day, as text | The words to type, plus the rules that keep them honest. |
+| `MEME_CARDS.html` | The same 30 memes, already laid out as cards | Open it, screenshot a card, post it. No design work needed. |
 
 ## How to run it
 

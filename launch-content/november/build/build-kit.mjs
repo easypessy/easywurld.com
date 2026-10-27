@@ -9,7 +9,7 @@
  */
 
 import {
-  readFileSync, writeFileSync, readdirSync, statSync,
+  readFileSync, writeFileSync, readdirSync, statSync, existsSync,
 } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -22,6 +22,15 @@ const contentDir = join(outDir, "content");
 /* ------------------------------------------------------------------ */
 /* 1. read the source days                                            */
 /* ------------------------------------------------------------------ */
+
+/* the meme bank lives beside the day files, one joke per day; it is not a
+   scheduled post, it is an alternative shape for the Instagram slot. */
+const memeFile = join(contentDir, "memes.json");
+const memeByPost = new Map();
+if (existsSync(memeFile)) {
+  const bank = JSON.parse(readFileSync(memeFile, "utf8"));
+  for (const m of bank.memes || []) memeByPost.set(m.swap, m);
+}
 
 const files = readdirSync(contentDir)
   .filter((f) => /^days-\d+(-\d+)?\.json$/.test(f))
@@ -298,8 +307,17 @@ for (const d of dataDays) {
     }
 
     if (p.instagram) {
+      const mm = memeByPost.get(p.id);
       push(`### Instagram · ${p.igTime} · ${p.instagram.fmt}`);
       push("");
+      if (mm) {
+        const shape = mm.format === "chat" ? "chat screenshot"
+          : mm.format === "replies" ? "X post + replies"
+          : "Reddit thread";
+        push(`> **Alternative shape:** ${shape} — "${mm.title}". See MEME_BANK.md, day ${mm.day}. `
+          + `Swap this carousel for the meme and keep the caption below.`);
+        push("");
+      }
       if (p.instagram.slides && p.instagram.slides.length) {
         push(/reel/i.test(p.instagram.fmt) ? "**Script slides**" : "**Slide copy**");
         p.instagram.slides.forEach((s, i) => push(`${i + 1}. ${s.replace(/\n/g, " ")}`));

@@ -63,8 +63,14 @@ way. Current state: **0 hooks over 12 words, 0 pace outliers, 0 repeated opening
 turn is explicit in 24% of scripts — the rest carry it by contrast, which is a reading aid
 rather than a verdict.
 
-`MEME_BANK.md` is generated and intentionally empty: the meme show was cut after the
-October scoring round (3.0, no conversations). The file explains how to bring it back.
+`MEME_BANK.md` is generated from `content/memes.json`: **30 memes, one per day**, in the
+three shapes people actually share — a chat screenshot, an X post with replies, and a Reddit
+thread. Each one names the post whose Instagram carousel it replaces, so the schedule does not
+move. The memes are jokes, not evidence: the bank's rules forbid posting one as if it happened,
+using one as proof, or making the customer the punchline.
+
+`MEME_CARDS.html` renders the same 30 jokes as screenshot-ready cards — a chat window, an X
+post with replies, or a Reddit thread — so the meme can be built without a designer.
 
 ## The schema
 

@@ -6,7 +6,7 @@
  * Run:  node launch-content/social-command/build/build-meme-bank.mjs
  */
 
-import { readFileSync, writeFileSync, readdirSync, statSync } from "node:fs";
+import { readFileSync, writeFileSync, readdirSync, statSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { dateFor } from "./kit-dates.mjs";
@@ -77,40 +77,140 @@ function formatOf(post) {
 /* build the bank                                                     */
 /* ------------------------------------------------------------------ */
 
-/* If the month contains no Meme posts, write an honest empty file instead of
-   a template that promises memes which are not in the calendar. The November
-   build cut the meme show deliberately (it scored 3.0 and produced no
-   conversations), so this is the expected state, not an error. */
-if (countMemes() === 0) {
+/* ------------------------------------------------------------------ */
+/* the meme bank                                                       */
+/*                                                                    */
+/* The November build has no `type: "Meme"` posts in the day files —   */
+/* the meme show was cut in the scoring round. The bank lives beside   */
+/* the calendar in content/memes.json instead: one joke per day, in    */
+/* the three formats people actually share (chat, X replies, Reddit).  */
+/* If memes are ever added back to a day file, those are listed too.   */
+/* ------------------------------------------------------------------ */
+
+const memesFile = join(contentDir, "memes.json");
+const bank = existsSync(memesFile)
+  ? JSON.parse(readFileSync(memesFile, "utf8"))
+  : { memes: [] };
+const bankMemes = (bank.memes || []).slice().sort((a, b) => a.day - b.day);
+
+if (countMemes() === 0 && bankMemes.length === 0) {
   const empty = [
     "# Easywurld — Meme Bank",
     "",
-    `**There are no memes in this build, and that is deliberate: ${days.length} days, 0 meme posts.**`,
+    "**No memes are defined for this build.**",
     "",
-    "The meme show was cut after the October scoring round. It scored 3.0, cost a",
-    "graphic per post, and produced no conversations, while the four shows that",
-    "replaced it (fix this, one thing, steal, honest ad) carried the month.",
-    "",
-    "## If you want memes back",
-    "",
-    "1. Add a post with `\"type\": \"Meme\"` and `\"show\": \"meme\"` to any day file.",
-    "2. Rebuild with `node launch-content/november/build/build-meme-bank.mjs`.",
-    "3. This file fills itself from the calendar, so it can never drift again.",
-    "",
-    "Guidance if you do: a meme is a picture and a reaction, not a caption with a",
-    "font. Keep it to cream `#FAE7C7` and deep green `#0A4937`, no logo, no pitch,",
-    "and skip any joke that punches down at a customer, a competitor or a country.",
-    "",
-    "## Why this file exists at all",
-    "",
-    "An empty generated file that explains itself is more useful than a full one",
-    "that lies about what is scheduled. If this page ever lists memes, they are",
-    "real posts with real days attached.",
+    "Either add posts with `\"type\": \"Meme\"` to a day file, or add entries to",
+    "`content/memes.json`. This file is generated and will overwrite anything you",
+    "type into it by hand.",
     "",
   ].join("\n");
   writeFileSync(join(outDir, "MEME_BANK.md"), empty);
+  console.log(`MEME_BANK.md: 0 memes in the calendar and none in memes.json`);
+  process.exit(0);
+}
+
+if (countMemes() === 0) {
+  const md = [];
+  const push = (...lines) => md.push(...lines);
+
+  const kindCount = bankMemes.reduce((acc, m) => {
+    acc[m.format] = (acc[m.format] || 0) + 1;
+    return acc;
+  }, {});
+  const kindLabel = { chat: "chat screenshots", replies: "X replies", thread: "Reddit threads" };
+  const kindLine = Object.entries(kindCount)
+    .map(([k, n]) => `${n} ${kindLabel[k] || k}`)
+    .join(" · ");
+
+  push("# Easywurld — Meme Bank");
+  push("");
+  push(`**${bankMemes.length} memes, one a day, ${bankMemes.length} days of November — ${kindLine}.**`);
+  push("");
+  push("These are not captions with a font. Each one is a **picture and a reaction**: a chat");
+  push("window, a post with its replies, or a thread with its comments. That is the shape people");
+  push("actually screenshot and send to a friend.");
+  push("");
+  push("## The three formats");
+  push("");
+  push("| Format | What it looks like | Why it travels |");
+  push("|---|---|---|");
+  push("| **Chat** | A WhatsApp conversation, two sides, no names that matter | Everyone has had this exact conversation |");
+  push("| **Replies** | A confident post, then the replies taking it apart | Quote-reply is the native joke format of the internet |");
+  push("| **Thread** | A Reddit post ('am I wrong?'), then blunt comments | Strangers being blunt is funnier than a brand being clever |");
+  push("");
+  push("## The rule that keeps these honest");
+  push("");
+  push("**These are jokes, not evidence.** Three rules, and they are not negotiable:");
+  push("");
+  push("1. **Never post one as if it happened.** No \"this happened today\", no real dates, no real");
+  push("   names. Generic names, exaggerated dialogue, obviously a bit.");
+  push("2. **Never use one as proof, and never inside a sales post.** The moment a joke becomes a");
+  push("   testimonial, it is an invented testimonial.");
+  push("3. **Never punch down.** Not at the customer, not at a competitor, not at a country. The");
+  push("   business is the punchline, or nobody is.");
+  push("");
+  push("## How to build one in ten minutes");
+  push("");
+  push("1. Open a free carousel or chat-mockup template, or Canva.");
+  push("2. Type the lines exactly as written here. Do not add a joke of your own; these are timed.");
+  push("3. Cream `#FAE7C7` background, deep green `#0A4937` text, one terracotta `#9E4E2C`");
+  push("   accent if you want it. No gradients, no stock photos, no logo.");
+  push("4. For a chat, keep the speaker labels on the correct side (customer left, business right).");
+  push("   For replies and threads, put the post at the top and the comments under it, smaller.");
+  push("5. Post it as a plain image. Let the joke carry it.");
+  push("");
+  push("## Where each one goes");
+  push("");
+  push("Each meme replaces **the Instagram carousel** on that day's `swap` post — the carousel is");
+  push("the slot that is not landing, and this is the cheapest test of a different shape. The TikTok");
+  push("script and the Facebook post on that day are unchanged.");
+  push("");
+  push("---");
+  push("");
+
+  for (const m of bankMemes) {
+    push(`### Day ${m.day} · ${m.format === "chat" ? "Chat" : m.format === "replies" ? "Replies" : m.sub || "Thread"} · swaps ${m.swap}`);
+    push("");
+    push(`**${m.title}**`);
+    push("");
+    if (m.format === "chat") {
+      push("```");
+      for (const [who, line] of m.lines || []) push(`${who}: ${line}`);
+      push("```");
+    } else if (m.format === "replies") {
+      push("```");
+      push(`POST: ${m.post}`);
+      push("");
+      for (const r of m.replies || []) push(`  ↳ ${r}`);
+      push("```");
+    } else {
+      push("```");
+      push(`${m.sub || "r/smallbusiness"}`);
+      push(`POST: ${m.headline}`);
+      push("");
+      for (const [who, line] of m.comments || []) push(`  > ${line}`);
+      push("```");
+    }
+    push("");
+    push(`*Why it lands: ${m.why}*`);
+    push("");
+  }
+
+  push("---");
+  push("");
+  push("## Check before you post");
+  push("");
+  push("- Would a customer laugh, or would a marketer laugh? If only marketers, skip it.");
+  push("- Is the joke visible in two seconds? If you had to think, it is not a meme.");
+  push("- Would you be comfortable if the business in it saw it and knew it was you?");
+  push("");
+  push("Anything that fails those three does not go out. There are 29 others.");
+  push("");
+
+  writeFileSync(join(outDir, "MEME_BANK.md"), md.join("\n"));
   console.log(
-    `MEME_BANK.md: ${empty.length.toLocaleString()} chars | 0 memes across ${days.length} days (cut by design)`
+    `MEME_BANK.md: ${md.join("\n").length.toLocaleString()} chars`
+    + ` | ${bankMemes.length} memes across ${bankMemes.length} days (${kindLine})`
   );
   process.exit(0);
 }

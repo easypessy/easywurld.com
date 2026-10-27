@@ -1,0 +1,449 @@
+{
+  "note": "Thirty memes, one per day, in the three formats people actually share: a chat screenshot, an X/Twitter post with replies, and a Reddit thread. These are jokes, not evidence. Never post one as if it happened, never use one as proof, and never make the customer the punchline.",
+  "memes": [
+    {
+      "day": 1,
+      "format": "chat",
+      "swap": "D1-01",
+      "title": "The bakery that says welcome",
+      "why": "Every Nigerian has sent this message and received this reply. The joke is the distance between a question and an answer.",
+      "lines": [
+        ["Customer", "Good afternoon. Is the bread available?"],
+        ["Business", "Welcome to our website 🙏"],
+        ["Customer", "I just want bread."],
+        ["Business", "We are committed to excellence."],
+        ["Customer", "I am going to another bakery."],
+        ["Business", "Kindly visit our homepage for more information."]
+      ]
+    },
+    {
+      "day": 2,
+      "format": "replies",
+      "swap": "D2-01",
+      "title": "The WhatsApp bio",
+      "why": "Everyone has read this exact bio and sent the message anyway.",
+      "post": "set my business bio to \"Business enquiries only\" like a serious company",
+      "replies": [
+        "enquiries about WHAT though",
+        "no price. no location. no hours. just vibes and a phone number.",
+        "i said hello on Monday. it is Thursday. the profile picture is a logo.",
+        "Business enquiries only. Enquiries about the business: not accepted."
+      ]
+    },
+    {
+      "day": 3,
+      "format": "chat",
+      "swap": "D3-01",
+      "title": "DM for price",
+      "why": "The most Nigerian retail loop there is. The customer is already inside the DM and is still being sent to the DM.",
+      "lines": [
+        ["Customer", "How much?"],
+        ["Business", "DM for price"],
+        ["Customer", "We are in the DM."],
+        ["Business", "Kindly send a DM."],
+        ["Customer", "I AM IN THE DM."],
+        ["Business", "Price on request 🙏"]
+      ]
+    },
+    {
+      "day": 4,
+      "format": "replies",
+      "swap": "D4-01",
+      "title": "Nine seconds to load",
+      "why": "Nigerians time things. Someone will always have counted.",
+      "post": "my website takes 9 seconds to load but the design is very clean",
+      "replies": [
+        "that is not a website that is a PowerPoint with a domain",
+        "i counted. twice. on purpose.",
+        "on 2G this is a podcast",
+        "the design is clean because nobody has seen it"
+      ]
+    },
+    {
+      "day": 5,
+      "format": "chat",
+      "swap": "D5-01",
+      "title": "340 unread",
+      "why": "The apology after three weeks is the joke. Everyone has received it and everyone has sent it.",
+      "lines": [
+        ["Business", "Hey sorry, just seeing this 🙏"],
+        ["Customer", "It has been three weeks."],
+        ["Business", "Been very busy."],
+        ["Customer", "I bought from someone else in 20 minutes."],
+        ["Business", "Kindly check our new arrivals 🔥"]
+      ]
+    },
+    {
+      "day": 6,
+      "format": "thread",
+      "swap": "D6-01",
+      "title": "My homepage is about me",
+      "why": "Reddit does blunt advice better than any brand can, and the bluntness is the share.",
+      "sub": "r/smallbusiness",
+      "headline": "My homepage opens with 200 words about my journey. Is that bad?",
+      "comments": [
+        ["Nobody opens your site to meet you.", "They open it to find out if you deliver on Saturday and what it costs."],
+        ["Your journey is not a feature.", "Take the paragraph out and put the price and the delivery day in."],
+        ["I did this for 4 years.", "Removed it in March. Enquiries tripled. The paragraph was for me."],
+        ["OP asked a simple question and got cooked 😭", "He is right though."]
+      ]
+    },
+    {
+      "day": 7,
+      "format": "replies",
+      "swap": "D7-01",
+      "title": "One grey button",
+      "why": "The details are so specific they are funny. 'Submit to what' is the line people will quote.",
+      "post": "the worst website i saw this week had one button. grey text on pale grey. below the fold. labelled \"submit\".",
+      "replies": [
+        "submit to what",
+        "the customer, probably",
+        "brother that's not a button, that's a dare",
+        "grey on grey is a design choice only if you hate money"
+      ]
+    },
+    {
+      "day": 8,
+      "format": "chat",
+      "swap": "D8-01",
+      "title": "Nine hellos",
+      "why": "The escalation from polite to pleading is the whole joke, and every business has this chat with the names changed.",
+      "lines": [
+        ["Customer", "hello?"],
+        ["Customer", "Hello??"],
+        ["Customer", "Hello"],
+        ["Customer", "Good afternoon"],
+        ["Customer", "Hi, I'd like to order"],
+        ["Customer", "…"],
+        ["Customer", "I'll take my money elsewhere. God bless."]
+      ]
+    },
+    {
+      "day": 9,
+      "format": "thread",
+      "swap": "D9-01",
+      "title": "The same four questions",
+      "why": "The last comment is the format's turn: everyone in the thread is right and the owner is doing it the hard way.",
+      "sub": "r/smallbusiness",
+      "headline": "Customers ask me the same 4 questions every single day. What do I do?",
+      "comments": [
+        ["Put them on the site.", "All four. In a list. Today."],
+        ["Or in your away message.", "It answers while you sleep and it's free."],
+        ["Or a pinned post.", "Ten minutes of work, forty fewer messages a week."],
+        ["Or just keep typing them by hand for six years.", "That's the system he's running now and he's asking us to improve it."]
+      ]
+    },
+    {
+      "day": 10,
+      "format": "chat",
+      "swap": "D10-01",
+      "title": "Let me know",
+      "why": "'Let you know what' is the whole lesson on one screen. It is a quote, a joke and a diagnosis.",
+      "lines": [
+        ["Me", "₦180,000. Let me know."],
+        ["Customer", "Let you know what"],
+        ["Me", "If you're interested."],
+        ["Customer", "Interested in what? What am I buying?"],
+        ["Me", "The project."],
+        ["Customer", "Which starts when? Ends when? Includes what?"],
+        ["Me", "…"]
+      ]
+    },
+    {
+      "day": 11,
+      "format": "replies",
+      "swap": "D11-01",
+      "title": "Forty pages, zero enquiries",
+      "why": "'Forty doors and no entrance' is the line. It reframes the number as a liability.",
+      "post": "paid ₦25,000 for a 40-page website. it has never had one enquiry.",
+      "replies": [
+        "40 pages of what",
+        "40 doors and no entrance",
+        "the pages were never the problem. the silence was.",
+        "my brother in Christ, one page that works is cheaper than forty that don't"
+      ]
+    },
+    {
+      "day": 12,
+      "format": "replies",
+      "swap": "D12-01",
+      "title": "The spinning logo",
+      "why": "The last reply is the one people screenshot, because it is exactly true.",
+      "post": "my site opens with a 6 second animation of the logo spinning",
+      "replies": [
+        "a loading screen for a loading screen",
+        "the logo loaded perfectly. the customers did not.",
+        "six seconds is enough time to decide you're slow, and they don't come back to check",
+        "beautiful. expensive. empty."
+      ]
+    },
+    {
+      "day": 13,
+      "format": "chat",
+      "swap": "D13-01",
+      "title": "Seven calls to action",
+      "why": "The customer asking what to do is the punchline nobody expects, because it is the honest response to being asked seven things.",
+      "lines": [
+        ["Business", "LINK IN BIO 🔗 DM ME 📩 CALL ☎️ COMMENT 💬 SAVE 🔖 SHARE 🔁 BOOK 📅"],
+        ["Customer", "What do you want me to do"],
+        ["Business", "Any of the above"],
+        ["Customer", "So… nothing"],
+        ["Business", "Correct"]
+      ]
+    },
+    {
+      "day": 14,
+      "format": "chat",
+      "swap": "D14-01",
+      "title": "The discount that ends it",
+      "why": "The discount on message eleven is the sound of giving up, and every customer has watched it happen.",
+      "lines": [
+        ["Business", "hello?"],
+        ["Business", "Hello"],
+        ["Business", "Any update?"],
+        ["Business", "Hi dear"],
+        ["Business", "Still available"],
+        ["Business", "10% off today only 🔥"],
+        ["Customer", "So it was 10% cheaper this whole time and you let me walk"]
+      ]
+    },
+    {
+      "day": 15,
+      "format": "replies",
+      "swap": "D15-01",
+      "title": "The name says everything and nothing",
+      "why": "'I'd still ask the price' is the lesson, delivered as a joke by someone who has done exactly that.",
+      "post": "named the bakery \"Divine Grace Quality Bakery & Confectionery Ventures Ltd\" like a serious business",
+      "replies": [
+        "what do you sell",
+        "bread. they sell bread. it's in the name. somewhere.",
+        "the name is 9 words and the price is 0 words",
+        "i'd still ask how much and how far"
+      ]
+    },
+    {
+      "day": 16,
+      "format": "thread",
+      "swap": "D16-01",
+      "title": "400 metres away and invisible",
+      "why": "'So you're a rumour' is the line that gets screenshotted. It makes absence physically funny.",
+      "sub": "r/smallbusiness",
+      "headline": "My restaurant is 400m from a busy junction and doesn't appear on Google Maps at all",
+      "comments": [
+        ["So you're a rumour.", "People are hearing about you and finding nothing."],
+        ["Eleven minutes.", "That's how long it takes to put the pin in the right place."],
+        ["I found six new customers in one week from a map pin.", "₦0 spent. It's the cheapest thing in this thread."],
+        ["Everyone in the comments has a website.", "OP doesn't even have a location. Priorities."]
+      ]
+    },
+    {
+      "day": 17,
+      "format": "chat",
+      "swap": "D17-01",
+      "title": "The number belongs to a barber",
+      "why": "The wrong-number call is a real Lagos experience and the reveal lands in one line.",
+      "lines": [
+        ["Customer", "Hi, are you open today?"],
+        ["Customer", "Hello?"],
+        ["Customer", "…"],
+        ["Customer", "I called the number on your Google listing."],
+        ["Stranger", "Hello? This is a barbing salon."],
+        ["Customer", "God."]
+      ]
+    },
+    {
+      "day": 18,
+      "format": "replies",
+      "swap": "D18-01",
+      "title": "Bespoke bespoke bespoke",
+      "why": "Repeating the fancy word back until it means nothing is the joke, and 'just say you sell shoes' is the release.",
+      "post": "our page says bespoke 4 times, tailored twice, curated once. we sell shoes.",
+      "replies": [
+        "bespoke what",
+        "tailored to whom",
+        "curated by who",
+        "just say you sell shoes. i'm on your website to buy shoes.",
+        "world-class shoes. hand-finished. artisan-adjacent. size 42."
+      ]
+    },
+    {
+      "day": 19,
+      "format": "thread",
+      "swap": "D19-01",
+      "title": "We do everything",
+      "why": "'You're a mall' is the perfect insult for a nine-service page, and the third comment is the actual advice.",
+      "sub": "r/smallbusiness",
+      "headline": "We offer catering, laundry, printing, errands, decor, cleaning and 3 other services. How do I market this?",
+      "comments": [
+        ["You're a mall.", "Malls have signage. You have a list."],
+        ["Pick the one that pays your rent.", "Lead with it for 30 days. Add the rest later."],
+        ["I do the same thing and I put all nine at the top.", "I get no enquiries. I don't know why."],
+        ["You do know why.", "You wrote it in the first line."]
+      ]
+    },
+    {
+      "day": 20,
+      "format": "replies",
+      "swap": "D20-01",
+      "title": "Trusted by many",
+      "why": "'Name one' is the shortest possible teardown, and it is what every customer thinks.",
+      "post": "our site says \"trusted by many\" — thinking of adding a client logo wall",
+      "replies": [
+        "name one",
+        "many who",
+        "\"trusted by many\" is what my CV says about my Excel skills",
+        "one real customer sentence beats your whole logo wall and it's free"
+      ]
+    },
+    {
+      "day": 21,
+      "format": "chat",
+      "swap": "D21-01",
+      "title": "Permanently closed, open daily",
+      "why": "The auto-reply contradicting the open shop is the funniest possible version of this mistake, and it is real.",
+      "lines": [
+        ["Customer", "Are you open?"],
+        ["Google", "This business is permanently closed."],
+        ["Customer", "But I'm standing outside and the shutter is up"],
+        ["Google", "Permanently closed."],
+        ["Customer", "There are people eating inside"],
+        ["Google", "Kindly leave a review."]
+      ]
+    },
+    {
+      "day": 22,
+      "format": "replies",
+      "swap": "D22-01",
+      "title": "Deposit before the explanation",
+      "why": "'The price is the last thing I learn, like a plot twist' is the line people will quote at you.",
+      "post": "new site flow: book a call → pay a deposit → find out what we do",
+      "replies": [
+        "i love paying to find out",
+        "that's not a funnel, that's a raffle",
+        "the price is the last thing i learn. like a plot twist.",
+        "what if i don't like the product",
+        "you don't find out until after the deposit. that's the system."
+      ]
+    },
+    {
+      "day": 23,
+      "format": "thread",
+      "swap": "D23-01",
+      "title": "The bundle was one PDF",
+      "why": "'The bundle was a cover letter' is a very internet sentence and it will get screenshotted.",
+      "sub": "r/smallbusiness",
+      "headline": "Bought a \"36-file bundle\". It was one PDF and 35 blank pages.",
+      "comments": [
+        ["The bundle was a cover letter.", "It was introducing the actual product, which never arrived."],
+        ["Ask for the file list before you pay.", "Names, formats, count. Anyone who won't give it is telling you something."],
+        ["36 files is not better than 6.", "Only if you use them, and you won't use 35 of anything."],
+        ["He got 36 files though", "In a manner of speaking"]
+      ]
+    },
+    {
+      "day": 24,
+      "format": "replies",
+      "swap": "D24-01",
+      "title": "The strikethrough",
+      "why": "'The real discount is my respect' is the release line. The middle replies do the arithmetic for them.",
+      "post": "SALE! was ₦14,000, now ₦9,000!",
+      "replies": [
+        "it was ₦9,000 last month",
+        "and ₦7,000 in August",
+        "so the price went up and then came back down and you called it a sale",
+        "the real discount is my respect"
+      ]
+    },
+    {
+      "day": 25,
+      "format": "chat",
+      "swap": "D25-01",
+      "title": "Guaranteed results",
+      "why": "The three dots after 'how?' is the joke. The ad has nothing.",
+      "lines": [
+        ["Ad", "GUARANTEED RESULTS ✅ 100 CUSTOMERS IN 7 DAYS ✅ PASSIVE INCOME ✅"],
+        ["Me", "How?"],
+        ["Ad", "…"],
+        ["Me", "Which part of it is guaranteed"],
+        ["Ad", "Kindly send a DM for details 📩"],
+        ["Me", "There it is"]
+      ]
+    },
+    {
+      "day": 26,
+      "format": "replies",
+      "swap": "D26-01",
+      "title": "One script out of thirty-six",
+      "why": "The reply that explains the value is the one that gets saved. 'One of them pays for the whole thing.'",
+      "post": "bought a pack of 36 scripts. i have used exactly one. every single week.",
+      "replies": [
+        "which one",
+        "the price one, obviously",
+        "36 files and one of them pays for the whole thing. that's how packs are supposed to work.",
+        "you're supposed to read all 36 though",
+        "no. you're supposed to use one and keep the others for the week you need them."
+      ]
+    },
+    {
+      "day": 27,
+      "format": "thread",
+      "swap": "D27-01",
+      "title": "Paid to be ignored",
+      "why": "Four numbers, one horror story. 'You paid to be ignored at scale' is the line.",
+      "sub": "r/smallbusiness",
+      "headline": "Spent ₦400k on ads. Got 300 messages. Replied to 12 of them.",
+      "comments": [
+        ["You paid to be ignored at scale.", "That's the whole story in one sentence."],
+        ["The leak wasn't the ads.", "It was three days downstream of the money."],
+        ["Fix the reply first. Then buy attention.", "Same budget. Different order. Wildly different year."],
+        ["300 messages", "and 12 replies. I need to lie down."]
+      ]
+    },
+    {
+      "day": 28,
+      "format": "replies",
+      "swap": "D28-01",
+      "title": "Six promises, no price",
+      "why": "The last reply is the lesson, delivered as a joke. People will tag their supplier in it.",
+      "post": "our sales page has 6 promises, no price, and no limit. how does it read?",
+      "replies": [
+        "what does it cost",
+        "unknown",
+        "so… a lot",
+        "the price is the only thing on the page that's more mysterious than the product",
+        "six promises and i still don't know if i can afford it. great work."
+      ]
+    },
+    {
+      "day": 29,
+      "format": "thread",
+      "swap": "D29-02",
+      "title": "990 posts, most did nothing",
+      "why": "The honesty is the joke. 'The silence was the strategy' works because it is defensible.",
+      "sub": "r/smallbusiness",
+      "headline": "I published 990 pieces in November. Most of them did nothing. Was it worth it?",
+      "comments": [
+        ["Which five worked?", "Name them. That's your whole business."],
+        ["990 pieces and 5 that carried it.", "That ratio is normal and nobody posts about it."],
+        ["The silence was the strategy.", "You had to post 985 things to find out which 5 they were."],
+        ["I would have quit at 40", "That's why you're not answering a question about 990"]
+      ]
+    },
+    {
+      "day": 30,
+      "format": "replies",
+      "swap": "D30-01",
+      "title": "The client was us",
+      "why": "The reveal that the account finally took its own advice is the best closing joke in the month.",
+      "post": "we finally fixed our own homepage this month. 3x the enquiries.",
+      "replies": [
+        "what did it say before",
+        "\"helping brands tell their story\"",
+        "and after?",
+        "\"we write the words on your homepage\"",
+        "so you were the client the whole time",
+        "he's been charging people to fix a thing he hadn't fixed 😭"
+      ]
+    }
+  ]
+}

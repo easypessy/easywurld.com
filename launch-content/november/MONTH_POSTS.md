@@ -62,6 +62,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 5-slide carousel, 4:5
 
+> **Alternative shape:** chat screenshot — "The bakery that says welcome". See MEME_BANK.md, day 1. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. 'Welcome to our website'
 2. Is not a headline
@@ -691,6 +693,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 5-slide carousel
 
+> **Alternative shape:** X post + replies — "The WhatsApp bio". See MEME_BANK.md, day 2. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. No catalogue
 2. No hours
@@ -1317,6 +1321,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 5-slide carousel, 4:5
 
+> **Alternative shape:** chat screenshot — "DM for price". See MEME_BANK.md, day 3. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. Jollof · ₦2,500
 2. Chicken · ₦3,000
@@ -1931,6 +1937,8 @@ writing on the spot.
 **Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
 
 ### Instagram · 07:30 · 5-slide carousel
+
+> **Alternative shape:** X post + replies — "Nine seconds to load". See MEME_BANK.md, day 4. Swap this carousel for the meme and keep the caption below.
 
 **Slide copy**
 1. Nine seconds on mobile data
@@ -2547,6 +2555,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 5-slide carousel
 
+> **Alternative shape:** chat screenshot — "340 unread". See MEME_BANK.md, day 5. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. 340 unread
 2. Most ask the same 4 things
@@ -3162,6 +3172,8 @@ writing on the spot.
 **Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
 
 ### Instagram · 07:30 · 5-slide carousel
+
+> **Alternative shape:** Reddit thread — "My homepage is about me". See MEME_BANK.md, day 6. Swap this carousel for the meme and keep the caption below.
 
 **Slide copy**
 1. Para 1: passion
@@ -3786,6 +3798,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 5-slide carousel
 
+> **Alternative shape:** X post + replies — "One grey button". See MEME_BANK.md, day 7. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. Grey button
 2. Below the fold
@@ -4396,6 +4410,8 @@ writing on the spot.
 **Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
 
 ### Instagram · 07:30 · 5-slide carousel
+
+> **Alternative shape:** chat screenshot — "Nine hellos". See MEME_BANK.md, day 8. Swap this carousel for the meme and keep the caption below.
 
 **Slide copy**
 1. hello?
@@ -5022,6 +5038,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 6-slide carousel
 
+> **Alternative shape:** Reddit thread — "The same four questions". See MEME_BANK.md, day 9. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. Price?
 2. Delivery?
@@ -5634,6 +5652,8 @@ writing on the spot.
 **Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
 
 ### Instagram · 07:30 · 4-slide carousel
+
+> **Alternative shape:** chat screenshot — "Let me know". See MEME_BANK.md, day 10. Swap this carousel for the meme and keep the caption below.
 
 **Slide copy**
 1. "₦180,000, let me know"
@@ -6250,6 +6270,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 4-slide carousel
 
+> **Alternative shape:** X post + replies — "Forty pages, zero enquiries". See MEME_BANK.md, day 11. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. 40 pages
 2. ₦25,000
@@ -6863,6 +6885,8 @@ writing on the spot.
 **Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
 
 ### Instagram · 07:30 · 4-slide carousel
+
+> **Alternative shape:** X post + replies — "The spinning logo". See MEME_BANK.md, day 12. Swap this carousel for the meme and keep the caption below.
 
 **Slide copy**
 1. A spinning logo
@@ -7479,6 +7503,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 4-slide carousel
 
+> **Alternative shape:** chat screenshot — "Seven calls to action". See MEME_BANK.md, day 13. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. Link in bio
 2. DM me
@@ -8094,6 +8120,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 5-slide carousel
 
+> **Alternative shape:** chat screenshot — "The discount that ends it". See MEME_BANK.md, day 14. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. hello?
 2. Hello
@@ -8706,6 +8734,8 @@ writing on the spot.
 **Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
 
 ### Instagram · 07:30 · 4-slide carousel
+
+> **Alternative shape:** X post + replies — "The name says everything and nothing". See MEME_BANK.md, day 15. Swap this carousel for the meme and keep the caption below.
 
 **Slide copy**
 1. What the site says: quality
@@ -9326,6 +9356,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 4-slide carousel
 
+> **Alternative shape:** Reddit thread — "400 metres away and invisible". See MEME_BANK.md, day 16. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. 400m from a junction
 2. No pin on the map
@@ -9930,6 +9962,8 @@ writing on the spot.
 **Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
 
 ### Instagram · 07:30 · 4-slide carousel
+
+> **Alternative shape:** chat screenshot — "The number belongs to a barber". See MEME_BANK.md, day 17. Swap this carousel for the meme and keep the caption below.
 
 **Slide copy**
 1. No photos
@@ -10550,6 +10584,8 @@ writing on the spot.
 **Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
 
 ### Instagram · 07:30 · 4-slide carousel
+
+> **Alternative shape:** X post + replies — "Bespoke bespoke bespoke". See MEME_BANK.md, day 18. Swap this carousel for the meme and keep the caption below.
 
 **Slide copy**
 1. Bespoke ×4
@@ -11182,6 +11218,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 5-slide carousel
 
+> **Alternative shape:** Reddit thread — "We do everything". See MEME_BANK.md, day 19. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. Catering
 2. Laundry
@@ -11807,6 +11845,8 @@ writing on the spot.
 **Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
 
 ### Instagram · 07:30 · 3-slide carousel
+
+> **Alternative shape:** X post + replies — "Trusted by many". See MEME_BANK.md, day 20. Swap this carousel for the meme and keep the caption below.
 
 **Slide copy**
 1. "Trusted by many"
@@ -12436,6 +12476,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 4-slide carousel
 
+> **Alternative shape:** chat screenshot — "Permanently closed, open daily". See MEME_BANK.md, day 21. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. Status: permanently closed
 2. Reality: open daily
@@ -13064,6 +13106,8 @@ writing on the spot.
 **Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
 
 ### Instagram · 07:30 · 3-slide carousel
+
+> **Alternative shape:** X post + replies — "Deposit before the explanation". See MEME_BANK.md, day 22. Swap this carousel for the meme and keep the caption below.
 
 **Slide copy**
 1. 1. Book a call
@@ -13697,6 +13741,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 4-slide carousel
 
+> **Alternative shape:** Reddit thread — "The bundle was one PDF". See MEME_BANK.md, day 23. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. 18 features
 2. 0 outcomes
@@ -14327,6 +14373,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 3-slide carousel
 
+> **Alternative shape:** X post + replies — "The strikethrough". See MEME_BANK.md, day 24. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. ₦14,000 struck out
 2. ₦9,000 "today"
@@ -14956,6 +15004,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 4-slide carousel
 
+> **Alternative shape:** chat screenshot — "Guaranteed results". See MEME_BANK.md, day 25. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. Guaranteed ranking
 2. 100 customers/week
@@ -15584,6 +15634,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 4-slide carousel
 
+> **Alternative shape:** X post + replies — "One script out of thirty-six". See MEME_BANK.md, day 26. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. Answered: our journey
 2. Answered: our values
@@ -16210,6 +16262,8 @@ writing on the spot.
 
 ### Instagram · 07:30 · 4-slide carousel
 
+> **Alternative shape:** Reddit thread — "Paid to be ignored". See MEME_BANK.md, day 27. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. Spend: up
 2. Messages: arriving
@@ -16834,6 +16888,8 @@ writing on the spot.
 **Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
 
 ### Instagram · 07:30 · 4-slide carousel
+
+> **Alternative shape:** X post + replies — "Six promises, no price". See MEME_BANK.md, day 28. Swap this carousel for the meme and keep the caption below.
 
 **Slide copy**
 1. 6 promises
@@ -17521,6 +17577,8 @@ writing on the spot.
 
 ### Instagram · 10:00 · 4-slide carousel
 
+> **Alternative shape:** Reddit thread — "990 posts, most did nothing". See MEME_BANK.md, day 29. Swap this carousel for the meme and keep the caption below.
+
 **Slide copy**
 1. 330 ideas
 2. 990 pieces
@@ -18098,6 +18156,8 @@ writing on the spot.
 **Visual:** Screen recording of the page, cream frame, one terracotta arrow on the problem.
 
 ### Instagram · 07:30 · 4-slide carousel
+
+> **Alternative shape:** X post + replies — "The client was us". See MEME_BANK.md, day 30. Swap this carousel for the meme and keep the caption below.
 
 **Slide copy**
 1. Before: helping brands tell their story
