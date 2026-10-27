@@ -4,6 +4,9 @@ A ready-to-produce schedule of **120 social posts**: 30 days × 4 posts per day,
 
 **Private working documents only:** this folder is outside `client/public`, is not linked from the website, and is not included in the production site build.
 
+- **START HERE if you need money in 30 days:** [`positioning/30-DAY-STRUCTURE.md`](./positioning/30-DAY-STRUCTURE.md) — where the marketing actually is, the position in one sentence, the two tracks (cash by hand, awareness by posting), the DM scripts, the maths with every assumption labelled, and a day-14 decision point.
+- **The exact words customers use:** [`positioning/PAIN-POINTS.md`](./positioning/PAIN-POINTS.md) — verbatim Nigerian quotes with sources, the trap in using them, and a 40-minute interview that gets ten of your own.
+- **What the account teaches:** [`november/WHAT-WE-TEACH.md`](./november/WHAT-WE-TEACH.md) — four gaps, three voices, and whether it needs a face.
 - **The plan:** [`EASYWURLD-PLAN.md`](./EASYWURLD-PLAN.md) — what exists, what is missing, the 90 days.
 - **The storytelling system:** [`storytelling/THE-ITCH.md`](./storytelling/THE-ITCH.md) — entertain, teach, sell; the four shows; the hook bank.
 - **November 2026:** [`NOVEMBER-2026.md`](./NOVEMBER-2026.md) — the 30-day entertain-first calendar.
