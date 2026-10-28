@@ -4,6 +4,7 @@ A ready-to-produce schedule of **120 social posts**: 30 days × 4 posts per day,
 
 **Private working documents only:** this folder is outside `client/public`, is not linked from the website, and is not included in the production site build.
 
+- **THE RECORD — what we started with, what changed, why:** [`DECISIONS.md`](./DECISIONS.md) — every change in order, what we rejected and why, what we still do not know, and the current state. Read this before re-deciding anything.
 - **CONFUSED? READ ONE PAGE:** [`positioning/DO-THIS-NOW.md`](./positioning/DO-THIS-NOW.md) — what you already have, what you don't, and exactly what to do today (90 minutes), tomorrow, and every day from 1 November. Everything else can wait.
 - **The three messages you send:** [`outreach/MESSAGES.txt`](./outreach/MESSAGES.txt) · **the 60-name list:** [`outreach/targets.csv`](./outreach/targets.csv)
 - **START HERE if you need money in 30 days:** [`positioning/30-DAY-STRUCTURE.md`](./positioning/30-DAY-STRUCTURE.md) — where the marketing actually is, the position in one sentence, the two tracks (cash by hand, awareness by posting), the DM scripts, the maths with every assumption labelled, and a day-14 decision point.
