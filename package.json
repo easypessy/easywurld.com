@@ -14,7 +14,8 @@
     "format": "prettier --write .",
     "story": "node tools/story-check.mjs",
     "story:example": "node tools/story-check.mjs marketing/storytelling/examples/fix-this-bakery.md",
-    "audit:november": "node tools/november-audit.mjs"
+    "audit:november": "node tools/november-audit.mjs",
+    "copy:check": "node tools/copy-check.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",

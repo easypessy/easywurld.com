@@ -276,6 +276,55 @@ saw once we looked properly:
   business owner, and we are the guide. Nobody asks anybody for anything.
 - **Status:** live. It is only worth anything if it keeps being added to — see §5.
 
+### 2.16 — Copywriting becomes its own pillar
+**28 Oct** · **your request**
+
+- **Changed:** added `marketing/craft/06-COPYWRITING.md` — seven masters with what is transferable
+  from each and what is not, the twelve knowledge-base modules with an instruction attached to each,
+  five generic-vs-Easywurld rewrites, ten mechanics, a five-pass editing routine, and the list of
+  things we will not do even when they work.
+- **Why:** you said *"we have to start loving our viewers"* and asked for copywriting to be studied
+  properly rather than collected as catchy phrases. Hooks, storytelling, the offer, the captions and
+  the DMs are all the same skill. It needed one standard.
+- **The standard, in one line:** *name a specific cost the reader can verify, put one price next to
+  one limit, and ask once.*
+- **Also added:** `SWIPE-FILE.md` (real ads, annotated with the mechanism, nothing unattributed) and
+  `08-RULES.md` (your twelve rules, each mapped to the check that enforces it).
+- **Status:** live. It changes everything written from now on, and nothing already written.
+
+### 2.17 — One offer, not eight
+**28 Oct** · **your instruction**
+
+- **Changed:** the account sells **one thing** until 30 November: **The Silence Fix, ₦5,000** — send
+  your page and your last twenty chats, get back three fixes in order plus the exact words to copy.
+  One word to send: `SILENCE`. The nine packs stay on the site but are not promoted.
+- **Why:** *"don't confuse them with more than one option to choose from, and also to care for
+  them."* A choice is work; the cheapest thing a stranger can do is decide later, which means never.
+  And five offers do not get five times the attention — they get a fifth each.
+- **Why this offer rather than a pack:** it needs no file to exist, so it cannot be blocked by the
+  missing `packkit` repo, and it is the only offer that attacks the villain directly.
+- **The honest state:** `npm run copy:check` measures the month at **8 different offers** across 30
+  sell posts. The conversion — 30 posts, one word each — is the next content job, and the checker
+  stays red until it is done. **A red check that tells the truth beats a green one that does not.**
+- **Status:** decided and documented. **Migration incomplete** — this is the single biggest open item.
+
+### 2.18 — Copy is now machine-checked
+**Commit** pending · **28 Oct**
+
+- **Changed:** added `npm run copy:check` (`tools/copy-check.mjs`). It fails the build on vague words
+  ("unlock", "elevate", "next level"), on hype claims ("guaranteed", "viral"), on a sell post that
+  names more than one offer, on a sell post that says I/we more than you/your, and on a month that
+  sells more than one thing.
+- **Why:** rules that live in a document get forgotten by Thursday. Rules that exit non-zero do not.
+- **It is deliberately generous:** copy is allowed to *quote* bad claims in order to take them apart
+  ("we cannot guarantee results"), because that is the house style. Negations and quotation marks are
+  detected so the honest posts are not punished.
+- **First run found three real faults**, two of which were fixed immediately: a post offering three
+  keywords at once (D3-09) and a sell post that talked about us more than the reader (D20-09,
+  rewritten from scratch as "You have no reason to trust me yet. Test the method.").
+- **Status:** live. This is the first time the repo can catch a bad *sentence*, not just a bad
+  structure.
+
 ---
 
 ## 3. What we tried and rejected
@@ -349,6 +398,16 @@ search indexes, and a growth account with 50 likes is evidence of a hook style, 
 | Awareness track | 3 posts/day agreed, **zero posts published** |
 | Target | **₦50,000** by 30 November |
 | Honest risk | Conservative case is ₦10,000. The plan can miss. |
+
+**The offer**
+
+| Thing | State |
+|---|---|
+| One offer | **The Silence Fix, ₦5,000** — decided, copy written, in `craft/07-THE-ONE-OFFER.md` |
+| One word to send | `SILENCE` |
+| Nine packs | On the site, **not promoted**; offered only to past buyers |
+| The month's sell posts | **Still selling 8 things** — the migration job |
+| `npm run copy:check` | **Red**, correctly: `8 offer(s)` where there must be 1 |
 
 **The library**
 

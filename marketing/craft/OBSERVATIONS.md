@@ -80,6 +80,43 @@ Rather than wait for one, [`03-STORYTELLING.md`](./03-STORYTELLING.md) now holds
 their real sources. When you *do* find a video that teaches it well, log it here — and tell me the
 one thing it said that made you sit up. That sentence is usually the whole video.
 
+## OBS-004 — "We have to start loving our viewers"
+
+**Date logged:** 28 October 2026 · **Source:** you · **Status:** adopted as an operating rule
+
+> "We have to start loving our viewers."
+
+**What I made of it:** this is not a mood, it is a test with an answer. *What did this give the
+person who did not buy?* If the answer is "nothing", it is not copy, it is a trap with good manners.
+Written into [`06-COPYWRITING.md`](./06-COPYWRITING.md) §1, with five checkable differences between
+care and indifference.
+
+**Why it is stronger than it sounds:** in a market where every vendor has been burned, the copy that
+visibly does not need the sale is the copy that gets believed.
+
+---
+
+## OBS-005 — "Just one offer"
+
+**Date logged:** 28 October 2026 · **Source:** you · **Status:** adopted, migration incomplete
+
+> "I also want to give just one offer we can use — don't confuse them with more than one option to
+> choose from. And also to care for them."
+
+**What I made of it:** a choice is work, and the cheapest thing a stranger can do is decide later —
+which means never. Five offers do not get five times the attention; they get a fifth each.
+
+**The offer chosen:** **The Silence Fix, ₦5,000** — you send your page and your last twenty chats, I
+send back three fixes in order plus the exact words to copy. Two days. One word to send: `SILENCE`.
+Written up in [`07-THE-ONE-OFFER.md`](./07-THE-ONE-OFFER.md).
+
+**Why this one and not a pack:** it needs no file to exist, so it cannot be blocked by the missing
+`packkit` repo — and it is the only offer that attacks the villain directly.
+
+**Measured state:** `npm run copy:check` reports the month currently sells **eight** things across
+30 sell posts. The conversion is a specific job, not a vibe: 30 posts, one word each, and the checker
+goes green when it is done.
+
 ---
 
 ## R-001 — Curiosity is a specific gap, not a mood
@@ -158,6 +195,36 @@ retention with interrupts every 4 seconds vs 41% for static talking heads ·
 **What I will and will not say:** the mechanism is real. The numbers are not verifiable from here,
 and none of them were measured on a Nigerian business account with 200 followers. Treat them as a
 reason to try, never as an expectation.
+
+---
+
+## R-007 — The seven copywriting masters
+
+**Source:** primary books and letters, not summaries — Halbert (*The Boron Letters*), Ogilvy
+(*Ogilvy on Advertising*), Schwartz (*Breakthrough Advertising*, 1966), Hopkins (*Scientific
+Advertising*, 1923), Caples (*Tested Advertising Methods*, 1932), Sugarman (*The Adweek Copywriting
+Handbook*), Cialdini (*Influence*, 1984) · **Confidence: High** on what they wrote,
+**Medium** on how much any single technique explains modern social performance · **Used in:** `06`
+
+**The one idea that reorganises everything for this account:** Schwartz's five stages of awareness.
+A cold DM reaches someone **problem-aware at best**. A person who has watched you for a week is
+**product-aware**. They cannot receive the same script — and the current DM script assumes the
+second when it is talking to the first.
+
+**Caveat that must stay attached:** most of these men wrote for print and mail, to audiences with no
+feed competing for attention. The *principles* transfer; the *formats* do not.
+
+---
+
+## R-008 — Where persuasion becomes manipulation
+
+**Source:** Cialdini, *Influence* (1984; unity added in the 2016 edition) · **Confidence: High** ·
+**Used in:** `06` §2, `08`
+
+The seven principles are decision shortcuts, not tricks. Used to deceive, they are manipulation.
+**The line this account draws:** reciprocity and unity only, because they are the only two that work
+with zero customers — you cannot borrow authority you have not earned, and social proof you have not
+got is a lie.
 
 ---
 

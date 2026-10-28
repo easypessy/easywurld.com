@@ -4,6 +4,7 @@ A ready-to-produce schedule of **120 social posts**: 30 days × 4 posts per day,
 
 **Private working documents only:** this folder is outside `client/public`, is not linked from the website, and is not included in the production site build.
 
+- **THE ONE OFFER:** [`craft/07-THE-ONE-OFFER.md`](./craft/07-THE-ONE-OFFER.md) — The Silence Fix, ₦5,000. One price, one word to send, one ask. Read this before selling anything.
 - **THE CRAFT LIBRARY — how to make a post or plan a month:** [`craft/README.md`](./craft/README.md) — pattern interruption, the villain/hero frame, six storytelling frameworks with real sources, 70 hooks, and the five-pass month planner. Grows every time you send an observation: [`craft/OBSERVATIONS.md`](./craft/OBSERVATIONS.md).
 - **THE RECORD — what we started with, what changed, why:** [`DECISIONS.md`](./DECISIONS.md) — every change in order, what we rejected and why, what we still do not know, and the current state. Read this before re-deciding anything.
 - **CONFUSED? READ ONE PAGE:** [`positioning/DO-THIS-NOW.md`](./positioning/DO-THIS-NOW.md) — what you already have, what you don't, and exactly what to do today (90 minutes), tomorrow, and every day from 1 November. Everything else can wait.

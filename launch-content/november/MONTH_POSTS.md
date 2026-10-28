@@ -1773,7 +1773,7 @@ writing on the spot.
 5. Do-it-yourself, no consulting
 
 **Caption**
-> It is one afternoon of work you do not have to repeat. ₦5,000. Message PLAYBOOK, CLEAR or PROMPTS on WhatsApp: 0905 069 0837.
+> It is one afternoon of work you do not have to repeat. ₦5,000. Message SILENCE on WhatsApp: 0905 069 0837.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
 
@@ -1787,7 +1787,7 @@ writing on the spot.
 > 
 > The honest limit: these are do-it-yourself files. No consulting, no custom work, no guarantee of results. If you want it done for you, that is a project, not a download.
 > 
-> Nine packs at ₦5,000. Message PLAYBOOK, CLEAR or PROMPTS on WhatsApp: 0905 069 0837.
+> Nine packs at ₦5,000. Message SILENCE on WhatsApp: 0905 069 0837.
 > 
 > Which afternoon would you rather have back?
 
@@ -12273,43 +12273,43 @@ writing on the spot.
 ---
 
 
-## Post 09 · We have no client results to show yet
+## Post 09 · You have no reason to trust me yet
 
-**Type:** Sell · **Why it works:** The most disarming possible advertisement for ourselves.
+**Type:** Sell · **Why it works:** Hand the judgement to the reader instead of asking for belief. The most disarming ad we can run.
 
 ### TikTok · 20:00 · Overhead shot, 24s
 
 **Hook (0-3s)**
-> We have no wall of client results. Here is what we do.
+> You have no reason to trust me yet. Test the method.
 
 **On-screen beats**
-- No wall of logos
-- No numbers
-- So we publish the method
-- And the limits
+- No logos to show you
+- No numbers I invented
+- So read three posts
+- Decide by Friday
 
 **Voiceover script**
-> We do not have a wall of client results to show yet, so I am not going to pretend otherwise. What we do instead is publish the method, in public, every day, with the limits attached. If the method is any good you can judge it without our numbers, and if it is not you will know by Friday, which is fairer than a logo.
+> You have no reason to trust me yet, and I am not going to ask you to. There is no wall of client results here. So you get the method instead: in public, every day, with the limits attached. Read three posts. If the thinking is useful, you already know. If it is not, you know by Friday. That is a fairer test than a logo.
 
 **Caption**
-> No results wall. The method, published daily, with limits. Packs from ₦5,000. WhatsApp: 0905 069 0837.
+> No logos. No invented numbers. Read three posts and decide, then it is ₦5,000. WhatsApp: 0905 069 0837.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
 
-**Visual:** Nine printed packs fanned on a table, shot from above.
+**Visual:** Overhead shot of a plain desk, phone, no logos on screen.
 
 ### Instagram · 20:15 · 4-slide carousel
 
 **Slide copy**
-1. No results wall
-2. No invented numbers
-3. The method, published
-4. The limits, attached
+1. You have no reason to trust me
+2. No logos. No borrowed numbers.
+3. So read three posts
+4. Judge the thinking, not the badge
 
 **Caption**
-> Anyone can borrow a logo. The method is either useful by Friday or it is not, and you can test that without taking our word for anything.
+> You do not need to believe me. Read three posts and see whether the thinking holds up. If it does, the rest is ₦5,000. If it does not, you have lost twenty minutes.
 > 
-> Judge the method. It is more checkable than a logo.
+> Message PACK on WhatsApp: 0905 069 0837.
 
 **Hashtags:** #SmallBusinessNigeria #LagosBusiness #Easywurld #WhatsAppBusiness
 
@@ -12317,13 +12317,11 @@ writing on the spot.
 
 ### Facebook · 20:15 · Text post
 
-> We do not have a wall of client results to show you yet, so I will not pretend otherwise.
+> You have no reason to trust me yet, so I am not going to ask you to.
 > 
-> What we publish instead is the method, daily, in public, with the limits attached.
+> There is no wall of client results here. What there is: the method, published daily, in public, with the limits attached. Read three posts. If the thinking is useful to your business, you already know, and the pack is ₦5,000. If it is not, you will know by Friday.
 > 
-> If the method is any good you can judge it without our numbers. If it is not, you will know by Friday — which is fairer than a logo.
-> 
-> Packs from ₦5,000. Message PACK on WhatsApp: 0905 069 0837.
+> What is the one thing on your page you would want a stranger to judge?
 
 
 ---

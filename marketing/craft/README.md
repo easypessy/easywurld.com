@@ -17,6 +17,10 @@ and becomes a tool you can use on the next post or the next month.
 | [`03-STORYTELLING.md`](./03-STORYTELLING.md) | Six real frameworks with sources, which one fits 30 seconds, and worked scripts | A post has facts but no story |
 | [`04-HOOKS.md`](./04-HOOKS.md) | 70 hooks, all ≤12 words, sorted by the mechanism that makes them work | You need a first line, today |
 | [`05-MONTH-PLANNER.md`](./05-MONTH-PLANNER.md) | The recipe: idea → 30 days, without repeating yourself | Planning December, or any month after |
+| [`06-COPYWRITING.md`](./06-COPYWRITING.md) | The standard for the words: seven masters, twelve modules, five rewrites, the editing pass | Writing any caption, DM, bio or page |
+| [`07-THE-ONE-OFFER.md`](./07-THE-ONE-OFFER.md) | The single offer, its copy, its limit, and the measured state of the build | Selling anything |
+| [`08-RULES.md`](./08-RULES.md) | Your rules, each mapped to the check that enforces it | Before anything goes out |
+| [`SWIPE-FILE.md`](./SWIPE-FILE.md) | Real ads, annotated with the mechanism — not to copy, to steal the machine | A post is not landing and you need a shape |
 | [`OBSERVATIONS.md`](./OBSERVATIONS.md) | The raw log — everything you've told me, dated, with what I made of it | You tell me something new |
 
 ---
@@ -59,6 +63,18 @@ Send it like this, or just talk and I will fill it in:
 Then I add: the mechanic, the timing, the business version, and the honesty limit. That last one
 matters — some viral mechanics only work on entertainment, and forcing them onto a business post
 makes the business look fake.
+
+---
+
+## The gates
+
+Three commands, about eight seconds together. Run them before anything goes out.
+
+```bash
+npm run copy:check       # vague words, hype, one offer, reader-first
+npm run story -- FILE    # hook, turn, pace, stated limit
+npm run audit:november   # hooks over 12 words, pace, repeated openings
+```
 
 ---
 
