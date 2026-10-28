@@ -8,6 +8,7 @@ A ready-to-produce schedule of **120 social posts**: 30 days × 4 posts per day,
 - **The three messages you send:** [`outreach/MESSAGES.txt`](./outreach/MESSAGES.txt) · **the 60-name list:** [`outreach/targets.csv`](./outreach/targets.csv)
 - **START HERE if you need money in 30 days:** [`positioning/30-DAY-STRUCTURE.md`](./positioning/30-DAY-STRUCTURE.md) — where the marketing actually is, the position in one sentence, the two tracks (cash by hand, awareness by posting), the DM scripts, the maths with every assumption labelled, and a day-14 decision point.
 - **The exact words customers use:** [`positioning/PAIN-POINTS.md`](./positioning/PAIN-POINTS.md) — verbatim Nigerian quotes with sources, the trap in using them, and a 40-minute interview that gets ten of your own.
+- **How a post is built:** [`../launch-content/november/ANATOMY.md`](../launch-content/november/ANATOMY.md) — one real Day 1 post taken apart: the four parts, the hook rule, the three carousel shapes, the caption lengths, the meme test, and what to say when someone asks if you're new.
 - **What the account teaches:** [`november/WHAT-WE-TEACH.md`](./november/WHAT-WE-TEACH.md) — four gaps, three voices, and whether it needs a face.
 - **The plan:** [`EASYWURLD-PLAN.md`](./EASYWURLD-PLAN.md) — what exists, what is missing, the 90 days.
 - **The storytelling system:** [`storytelling/THE-ITCH.md`](./storytelling/THE-ITCH.md) — entertain, teach, sell; the four shows; the hook bank.
