@@ -257,6 +257,25 @@ saw once we looked properly:
 - **Why:** you said you were confused and I had handed you five documents. That is a failure of
   mine, not of yours. A plan nobody can act on is not a plan.
 
+### 2.15 — The craft library
+**28 Oct** · **your request**
+
+- **Changed:** added `marketing/craft/` — a library that grows. Seven files: pattern interruption,
+  villain and hero, storytelling, 70 hooks, a five-pass month planner, a planning sheet, and a log
+  of observations. Plus one worked script that passes `npm run story`.
+- **Why:** you said *"I will tell you about things, and from those things you construct when I want
+  to make a new post or plan a month."* That needs a place to put the mechanic, or every new idea is
+  a conversation we have to have again.
+- **What the first three entries are:** your cardboard video (pattern interruption), the woman's
+  common-enemy advice (villain, hero, guide), and the storytelling frameworks you had not found a
+  good video for — six of them, with their real sources and a confidence label each.
+- **What it is not:** more content. Nothing in the 330 posts changed. This is the *how*, kept in one
+  place so December does not need to start from a blank page.
+- **Deliberately included:** the thing you were foggy about — "if we join hands, it sounds like we
+  need them." The answer is casting, not wording: the villain is the silence, the hero is the
+  business owner, and we are the guide. Nobody asks anybody for anything.
+- **Status:** live. It is only worth anything if it keeps being added to — see §5.
+
 ---
 
 ## 3. What we tried and rejected
@@ -298,6 +317,9 @@ This section is the most useful one, because it is the list of things that could
    decides December's offer.
 7. **Which meme format travels for you.** The Chat / The Replies / The Thread test runs two weeks
    and is judged on **shares only**. No conclusion before then.
+8. **Which pattern works for your audience.** The library is built from other people's mechanics and
+   general psychology. None of it has been tested on a Lagos business account with a small
+   following — because no such test has run yet. The first month of posting is that test.
 
 **Every TikTok link remains unopenable from this environment (403).** No TikTok video has been
 watched for this work, and no claim here is based on one. The creator data referenced came from
@@ -328,6 +350,17 @@ search indexes, and a growth account with 50 likes is evidence of a hook style, 
 | Target | **₦50,000** by 30 November |
 | Honest risk | Conservative case is ₦10,000. The plan can miss. |
 
+**The library**
+
+| Thing | State |
+|---|---|
+| Pattern interruption | Written, with 8 business versions and a 60-second check |
+| Villain / hero / guide | Written; villain cast as **the silence after "how much?"** |
+| Storytelling | 6 frameworks, 1 worked script that passes `npm run story` |
+| Hook bank | 70 hooks, every one verified ≤12 words |
+| Month planner | 5 passes, a matrix that never runs out, a CSV sheet |
+| Observations log | **3 entries** — the rest is what you send me next |
+
 **The next four actions, in order**
 
 1. Check the packs exist. If not, switch the offer to a ₦5,000 page review.
@@ -336,6 +369,7 @@ search indexes, and a growth account with 50 likes is evidence of a hook style, 
 4. Write 20 businesses into `outreach/targets.csv`. Send the first ten tomorrow morning.
 
 Everything else — all 330 posts, all 30 memes, every document — can wait until those four are done.
+**The library is the exception:** it grows best from what you notice while doing nothing.
 
 ---
 
