@@ -1,39 +1,43 @@
-# Content generators
+# Social Command build files
 
-## Active source
+`marketing/series-plan.json` is the canonical editorial source. `marketing/build-plan.mjs` expands it into 300 core posts and 900 placements, then writes:
 
-`marketing/content-plan.json` is the only active campaign source. It contains 22 weekday posts, eight weekend tasks and explicitly optional platform reuses. The old `content/days-*.json` files are archived under `../archive/2026-10/content/` and are not read.
+- `marketing/content-plan.json` (generated data)
+- `marketing/calendar/30-day-calendar.md` and `content-calendar.csv`
+- `marketing/briefs/EW-Dxx-Sxx.md`
+- `marketing/MEASUREMENT.csv` and `TREND_VERIFICATION.csv`
+- `../content_calendar.csv`, `../MONTH_POSTS.md`
+- `../EASYWURLD_POST_COMMANDER.html`
 
-## Build and check
+## Files
 
-```sh
+| File | Purpose |
+|---|---|
+| `shell.html` | Offline app shell and styling |
+| `app-script.js` | Series Studio: day calendar, filters, briefs, per-platform status/QA, weekly batches, CSV/backup export |
+| `build-kit.mjs` | Compatibility wrapper that runs the active marketing builder |
+| `build-meme-bank.mjs` | Generates `MEME_BANK.md` from the 60 meme posts |
+| `validate.mjs` | Compatibility wrapper that runs the active marketing validator |
+| `kit-dates.mjs` | Compatibility date helpers for older scripts |
+| `md-to-html.mjs` | Converts kit Markdown to Google-Docs-friendly HTML |
+
+## Commands
+
+```bash
 npm run content:build
 npm run content:check
+node launch-content/social-command/build/build-meme-bank.mjs
+node launch-content/social-command/build/md-to-html.mjs launch-content/social-command/README.md
 ```
 
-The build generates:
+## App behaviour
 
-- `marketing/calendar/30-day-calendar.md`
-- `marketing/calendar/content-calendar.csv`
-- `marketing/briefs/EW-*.md`
-- `marketing/MEASUREMENT.csv` (blank metrics)
-- `launch-content/social-command/content_calendar.csv`
-- `launch-content/social-command/MONTH_POSTS.md`
-- `launch-content/social-command/EASYWURLD_POST_COMMANDER.html`
-- `launch-content/social-command/MEME_BANK.md`
+- State key: `easywurld-series-v4`, scoped to the campaign start date.
+- Per-placement status/QA/notes; not one status for all three platforms.
+- Export/import backup contains no credentials.
+- No network request, social API, analytics connection or auto-publishing.
+- The app is generated with the plan embedded; rebuild it after changing the source.
 
-`build-kit.mjs` is a compatibility wrapper around `marketing/build-plan.mjs`. `build-meme-bank.mjs` now generates the two active original static posts. `validate.mjs` is a compatibility wrapper around the active validator.
+## Tests
 
-The offline app's source is `shell.html` plus `app-script.js`. It has no external runtime dependency, no publishing API and fixed campaign dates. Local checkmarks are production progress, not social scheduling confirmation.
-
-## Optional document/assets builds
-
-- `node launch-content/social-command/build/md-to-html.mjs <file.md>` creates a Google-Docs-friendly HTML copy. This does not upload to Drive.
-- `python marketing/build-pdf.py` creates `marketing/CONTENT_PLAN.pdf` (ReportLab required).
-- `python marketing/build-assets.py` creates the supplied static PNGs/carousel ZIP and video layout guides (Pillow and brand fonts required). Set `EASYWURLD_FONT_DIR` if the fonts are not in the default cache.
-
-The committed PDF and PNGs can be used without rebuilding. Do not edit generated calendar surfaces independently; edit the JSON and rebuild.
-
-## Unchanged offer tools
-
-`build-offers.mjs` and the existing offers prompt/booklet are separate product-reference tools. They do not define the active posting calendar. Confirm current offer details before reusing older sales copy.
+The repository’s validation checks the source syntax, embedded data, counts, captions and documented deliverables. Do not claim analytics or scheduling results based on this offline app.

@@ -1,0 +1,2702 @@
+{
+  "campaign": "Easywurld — 10x daily series engine",
+  "version": 4,
+  "startDate": "2026-11-02",
+  "endDate": "2026-12-01",
+  "timezone": "Africa/Lagos",
+  "utcOffset": "+01:00",
+  "site": "https://website-builder-portfolio.vercel.app",
+  "whatsapp": "0905 069 0837",
+  "waLink": "https://wa.me/2349050690837",
+  "platforms": [
+    "TikTok",
+    "Instagram",
+    "Facebook"
+  ],
+  "platformOffsets": {
+    "TikTok": 0,
+    "Instagram": 10,
+    "Facebook": 20
+  },
+  "approval": "Draft copy. Human approval, finished media and trend verification are required before scheduling.",
+  "avatarStatus": "Blocked: verified owner photo and explicit likeness/voice permission not supplied. Do not use the fictional demo founder image.",
+  "series": [
+    {
+      "slot": 1,
+      "key": "niche",
+      "name": "If I ran this account",
+      "time": "07:00",
+      "pillar": "Teach",
+      "objective": "Show niche-specific social thinking without pretending Easywurld manages the account.",
+      "defaultFormat": "Carousel"
+    },
+    {
+      "slot": 2,
+      "key": "myth",
+      "name": "Marketing Myth Court",
+      "time": "08:30",
+      "pillar": "Trust",
+      "objective": "Replace absolute marketing advice with a verdict and a small test.",
+      "defaultFormat": "AI talking head"
+    },
+    {
+      "slot": 3,
+      "key": "trend",
+      "name": "Trend Desk",
+      "time": "10:00",
+      "pillar": "Teach",
+      "objective": "Teach a dated trend format and a business adaptation, with same-week verification before publication.",
+      "defaultFormat": "Screen demo"
+    },
+    {
+      "slot": 4,
+      "key": "ai",
+      "name": "AI Automation Build",
+      "time": "11:30",
+      "pillar": "Show",
+      "objective": "Show one bounded AI workflow with a human approval step.",
+      "defaultFormat": "Screen demo"
+    },
+    {
+      "slot": 5,
+      "key": "meme1",
+      "name": "Meme: owner life",
+      "time": "13:00",
+      "pillar": "Trust",
+      "objective": "Create recognition with original small-business humour.",
+      "defaultFormat": "Relatable static"
+    },
+    {
+      "slot": 6,
+      "key": "offerA",
+      "name": "Offer Spotlight A",
+      "time": "14:30",
+      "pillar": "Offer",
+      "objective": "Explain the problem and actual contents of one daily DIY pack.",
+      "defaultFormat": "Carousel"
+    },
+    {
+      "slot": 7,
+      "key": "copy",
+      "name": "Steal This Copy Move",
+      "time": "16:00",
+      "pillar": "Teach",
+      "objective": "Break down an attributed copywriting principle and apply it with an original example.",
+      "defaultFormat": "Carousel"
+    },
+    {
+      "slot": 8,
+      "key": "meme2",
+      "name": "Meme: marketing / AI / clients",
+      "time": "17:30",
+      "pillar": "Trust",
+      "objective": "Create recognition with original industry humour.",
+      "defaultFormat": "Relatable static"
+    },
+    {
+      "slot": 9,
+      "key": "offerB",
+      "name": "Offer Spotlight B",
+      "time": "19:00",
+      "pillar": "Offer",
+      "objective": "Handle one objection or limitation for the same daily offer.",
+      "defaultFormat": "AI talking head"
+    },
+    {
+      "slot": 10,
+      "key": "intro",
+      "name": "Meet Easywurld",
+      "time": "20:30",
+      "pillar": "Trust",
+      "objective": "Introduce Easywurld from a new angle and in a new format each day.",
+      "defaultFormat": "Rotating"
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "offerKeyword": "PLAYBOOK",
+      "offerA": {
+        "angle": "The price reply is not the end of the conversation."
+      },
+      "offerB": {
+        "objection": "Does this automate my WhatsApp?",
+        "answer": "No. It gives you scripts, a tracker and a routine. Nothing is auto-sent."
+      },
+      "niche": {
+        "niche": "fashion designer",
+        "ideas": [
+          "a fitting-room clip showing one garment on three body types",
+          "a fabric-care answer customers can save",
+          "a made-to-order timeline with honest milestones"
+        ],
+        "mistake": "posting only finished dresses",
+        "first": "Show the fitting decision, not just the final dress."
+      },
+      "myth": {
+        "claim": "Posting every day guarantees growth.",
+        "verdict": "It depends.",
+        "why": "Frequency can create more chances to learn, but it does not fix an unclear offer or weak content. Ten useful series posts are different from ten random posts.",
+        "test": "Compare one week of consistent series posts with the previous week using saves, profile visits and relevant enquiries."
+      },
+      "trend": {
+        "candidate": "Brand Vibe",
+        "source": "Drizzle Digital Vol. 40",
+        "sourceDate": "2026-10-26",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-oct-2026/",
+        "description": "a product front and center with four still shots that express the brand vibe",
+        "adaptation": "Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle.",
+        "angle": "what it is"
+      },
+      "ai": {
+        "workflow": "Draft a reply to a new enquiry",
+        "input": "an anonymised enquiry",
+        "draft": "a reply with one clarifying question",
+        "check": "price, availability, promise and tone",
+        "output": "an approved reply",
+        "demoPath": "/demo/vendorreply-order-capture/index.html"
+      },
+      "meme1": {
+        "headline": "Client said 'I'll get back to you.'",
+        "resolution": "The calendar also got back to nobody.",
+        "caption": "Follow-up is a system, not a memory test. Log the next date and stop when the customer opts out."
+      },
+      "meme2": {
+        "headline": "AI: I can automate that. Also AI: invents the price.",
+        "resolution": "Human review is the feature.",
+        "caption": "Keep prices, promises and sensitive answers behind approval."
+      },
+      "copy": {
+        "expert": "David Ogilvy",
+        "principle": "Research before writing",
+        "steal": "Understand the product, customer and competition before trying to be clever.",
+        "example": "Before: 'Premium cleaning services.' After: 'Apartment cleaning for busy Lagos tenants, with a scope checklist before you book.'",
+        "source": "Ogilvy on Advertising"
+      },
+      "intro": {
+        "angle": "Studio map",
+        "format": "Carousel",
+        "body": [
+          "Easywurld is a small digital studio in Lagos.",
+          "We work on message, website, content and follow-up.",
+          "For owner-led small businesses in Lagos and across Nigeria.",
+          "The goal: make the pieces agree.",
+          "Simplify. Optimize. Grow."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 2,
+      "offerKeyword": "CLEAR",
+      "offerA": {
+        "angle": "The homepage opening should answer three questions."
+      },
+      "offerB": {
+        "objection": "Is this a website build?",
+        "answer": "No. It is a DIY blueprint and templates, not a website build or personal page review."
+      },
+      "niche": {
+        "niche": "restaurant",
+        "ideas": [
+          "a market-to-plate clip with the real supplier named",
+          "a 20-second answer to 'what is good today?'",
+          "a quiet-hour menu with a clear booking route"
+        ],
+        "mistake": "posting only finished plates",
+        "first": "Film the specials board before service."
+      },
+      "myth": {
+        "claim": "Hashtags are dead.",
+        "verdict": "Mostly false.",
+        "why": "Hashtags may still help categorise content, but they are not a distribution strategy by themselves. Clear hooks, searchable wording and useful content matter more than a large tag block.",
+        "test": "Use three to five specific tags and compare search/discovery insights where available."
+      },
+      "trend": {
+        "candidate": "Pick Your Emoji",
+        "source": "Drizzle Digital Vol. 40",
+        "sourceDate": "2026-10-26",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-oct-2026/",
+        "description": "a video carousel that starts with four emoji paths and ends with one CTA",
+        "adaptation": "Adapt it to four customer problems, not four random products. End with one useful next step.",
+        "angle": "what it is"
+      },
+      "ai": {
+        "workflow": "Qualify a property lead",
+        "input": "a fictional lead brief",
+        "draft": "questions that separate budget, location and timeline",
+        "check": "fair housing language and missing facts",
+        "output": "a human-reviewed qualification note",
+        "demoPath": "/demo/estateflow-lead-qualification/index.html"
+      },
+      "meme1": {
+        "headline": "27 tabs open. Still no post.",
+        "resolution": "Close 26. Answer one customer question.",
+        "caption": "The next useful post is often already in your chats. Anonymise it and answer clearly."
+      },
+      "meme2": {
+        "headline": "The algorithm changed. The customer question did not.",
+        "resolution": "Answer the question clearly.",
+        "caption": "Platform tactics change. Useful answers keep value."
+      },
+      "copy": {
+        "expert": "David Ogilvy",
+        "principle": "Headlines should do a job",
+        "steal": "A headline can select the audience and promise a useful reason to keep reading.",
+        "example": "Before: 'Welcome to our studio.' After: 'Websites for Lagos businesses that need clearer enquiries.'",
+        "source": "Ogilvy on Advertising"
+      },
+      "intro": {
+        "angle": "One-sentence studio",
+        "format": "Relatable static",
+        "body": [
+          "We help small businesses make the message, website, content and follow-up work together.",
+          "That's Easywurld."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 3,
+      "offerKeyword": "ENGINE",
+      "offerA": {
+        "angle": "A blank calendar is a system problem."
+      },
+      "offerB": {
+        "objection": "Are these finished posts for my business?",
+        "answer": "No. It is a planning system and idea bank. You still write and design the posts for your business."
+      },
+      "niche": {
+        "niche": "hair salon",
+        "ideas": [
+          "a consultation question that prevents a bad booking",
+          "a maintenance routine for one style",
+          "a stylist explaining who a style suits"
+        ],
+        "mistake": "posting only transformations",
+        "first": "Answer one booking question on camera."
+      },
+      "myth": {
+        "claim": "A viral video means customers.",
+        "verdict": "False.",
+        "why": "Attention is not the same as intent. A video can reach many people who will never buy. Track relevant enquiries and qualified briefs, not only views.",
+        "test": "Add one clear next step and compare enquiry quality across posts."
+      },
+      "trend": {
+        "candidate": "Gold Star Behavior",
+        "source": "SocialBee / Drizzle Digital",
+        "sourceDate": "2026-10-21",
+        "sourceUrl": "https://socialbee.com/blog/latest-instagram-trends/",
+        "description": "a list of small habits that deserve a gold star",
+        "adaptation": "Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind.",
+        "angle": "what it is"
+      },
+      "ai": {
+        "workflow": "Plan a follow-up sequence",
+        "input": "a labelled sample lead",
+        "draft": "day-2, day-6 and day-14 reminders with a stop rule",
+        "check": "consent, timing and whether the lead already replied",
+        "output": "a follow-up task list",
+        "demoPath": "/demo/follow-up-loop/index.html"
+      },
+      "meme1": {
+        "headline": "The content plan said 9am. The generator said otherwise.",
+        "resolution": "Plan the workflow, not just the caption.",
+        "caption": "Batching needs power, internet and a fallback. Keep one approved static ready."
+      },
+      "meme2": {
+        "headline": "Marketing guru: post 10 times a day. Also: never repeat yourself.",
+        "resolution": "Series are the answer.",
+        "caption": "Recurring formats can be fresh without being random."
+      },
+      "copy": {
+        "expert": "David Ogilvy",
+        "principle": "Respect the reader's intelligence",
+        "steal": "Give facts and a clear proposition instead of empty superlatives.",
+        "example": "Before: 'Best digital solutions.' After: 'A one-offer landing page kit with copy templates and a pre-launch checklist.'",
+        "source": "Ogilvy on Advertising"
+      },
+      "intro": {
+        "angle": "Process timeline",
+        "format": "Carousel",
+        "body": [
+          "Understand: the business, customer and problem.",
+          "Simplify: the message and next step.",
+          "Build: the page, content or system.",
+          "Optimize: review what the evidence says.",
+          "That is the Easywurld process."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 4,
+      "offerKeyword": "PAGE",
+      "offerA": {
+        "angle": "One offer needs one clear page."
+      },
+      "offerB": {
+        "objection": "Do you host the page for me?",
+        "answer": "No. Publishing, hosting and any domain are yours. The kit gives you a simple HTML starter."
+      },
+      "niche": {
+        "niche": "gym",
+        "ideas": [
+          "a beginner mistake shown safely",
+          "a 30-second form cue",
+          "a member question answered without body shaming"
+        ],
+        "mistake": "posting only intense transformations",
+        "first": "Film one beginner-friendly cue."
+      },
+      "myth": {
+        "claim": "More followers means more sales.",
+        "verdict": "It depends.",
+        "why": "Followers can help reach, but sales need a relevant offer, trust and a clear route to buy. A smaller audience with the right problem can be more useful.",
+        "test": "Compare profile visits, offer clicks and confirmed sales per 1,000 views."
+      },
+      "trend": {
+        "candidate": "Six-to-18-second proof Reel",
+        "source": "Lightreel weekly report",
+        "sourceDate": "2026-10-24",
+        "sourceUrl": "https://lightreel.ai/blogs/whats-trending-on-instagram",
+        "description": "a short Reel that makes one claim and resolves it visually",
+        "adaptation": "Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results.",
+        "angle": "what it is"
+      },
+      "ai": {
+        "workflow": "Draft an FAQ answer",
+        "input": "a real common question and approved facts",
+        "draft": "a short answer with a source link",
+        "check": "accuracy, tone and when to escalate",
+        "output": "a reviewed FAQ entry",
+        "demoPath": "/demo/quiet-hours-faq/index.html"
+      },
+      "meme1": {
+        "headline": "Everyone wants viral. Nobody wants to answer the DMs.",
+        "resolution": "Attention is the start of the work.",
+        "caption": "Assign someone to reply, qualify and follow up before chasing more views."
+      },
+      "meme2": {
+        "headline": "The chatbot is confident. The knowledge sheet is empty.",
+        "resolution": "Give it boundaries and sources.",
+        "caption": "Confidence is not accuracy. Test common questions."
+      },
+      "copy": {
+        "expert": "Eugene Schwartz",
+        "principle": "Meet existing desire",
+        "steal": "Do not try to create desire from nothing. Connect the offer to what the buyer already wants.",
+        "example": "Before: 'Buy our content engine.' After: 'Stop staring at a blank calendar when you already have customer questions to answer.'",
+        "source": "Breakthrough Advertising"
+      },
+      "intro": {
+        "angle": "Sample label explainer",
+        "format": "Screen demo",
+        "body": [
+          "Our portfolio is concept/sample work.",
+          "We label it because thinking is not a client result.",
+          "Here is what a sample can show: structure, tone and process.",
+          "Here is what it cannot show: live performance.",
+          "That boundary is part of the work."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 5,
+      "offerKeyword": "LOCAL",
+      "offerA": {
+        "angle": "Local visibility starts with accurate information."
+      },
+      "offerB": {
+        "objection": "Will this guarantee ranking?",
+        "answer": "No. It helps you organise accurate local information. Rankings depend on many factors."
+      },
+      "niche": {
+        "niche": "real estate agent",
+        "ideas": [
+          "an area guide with verified local facts",
+          "a cost breakdown buyers forget",
+          "a listing tour that starts with the street"
+        ],
+        "mistake": "posting only room counts and price",
+        "first": "Record one verified area guide."
+      },
+      "myth": {
+        "claim": "You need a website before you post.",
+        "verdict": "It depends.",
+        "why": "A website helps, but a clear profile and contact route can start conversations. Do not wait for a perfect site to answer customer questions.",
+        "test": "Test the profile-to-WhatsApp journey today and fix broken links."
+      },
+      "trend": {
+        "candidate": "Native-interface tutorial",
+        "source": "Lightreel weekly report",
+        "sourceDate": "2026-10-24",
+        "sourceUrl": "https://lightreel.ai/blogs/whats-trending-on-instagram",
+        "description": "a screen-recording aesthetic that shows the actual interface",
+        "adaptation": "Record the real demo at a readable crop. Keep concept/sample labels visible.",
+        "angle": "what it is"
+      },
+      "ai": {
+        "workflow": "Prepare an after-hours message",
+        "input": "business hours and service scope",
+        "draft": "a calm message with the next available action",
+        "check": "hours, emergency wording and promises",
+        "output": "an approved after-hours reply",
+        "demoPath": "/demo/after-hours-reception/index.html"
+      },
+      "meme1": {
+        "headline": "The brief: 'make it simple.' The reference: 47 slides.",
+        "resolution": "Simple is a decision, not a font.",
+        "caption": "Choose one audience, one problem and one next step before designing."
+      },
+      "meme2": {
+        "headline": "The caption has 30 hashtags. The hook has no point.",
+        "resolution": "Spend the effort on the first sentence.",
+        "caption": "Tags can categorise. They cannot create relevance."
+      },
+      "copy": {
+        "expert": "Eugene Schwartz",
+        "principle": "Match awareness",
+        "steal": "A problem-aware buyer needs a different opening from a product-aware buyer.",
+        "example": "Problem-aware: 'Enquiries arrive, then disappear.' Product-aware: 'The Chat-to-Customer Playbook includes a follow-up tracker.'",
+        "source": "Breakthrough Advertising"
+      },
+      "intro": {
+        "angle": "Service menu",
+        "format": "Carousel",
+        "body": [
+          "Message and copywriting.",
+          "Websites and landing pages.",
+          "Content systems and social direction.",
+          "SEO, reports and business systems.",
+          "One studio, connected pieces."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 6,
+      "offerKeyword": "MESSAGE",
+      "offerA": {
+        "angle": "The offer sentence should survive the bio test."
+      },
+      "offerB": {
+        "objection": "Is this a consultation?",
+        "answer": "No. It is a self-guided workbook. It does not include a consultation or review of your answers."
+      },
+      "niche": {
+        "niche": "bakery",
+        "ideas": [
+          "a preorder timeline so customers know when to order",
+          "a storage answer for one cake",
+          "a batch clip showing the real kitchen"
+        ],
+        "mistake": "posting only perfect cake photos",
+        "first": "Publish the preorder cutoff clearly."
+      },
+      "myth": {
+        "claim": "AI can replace marketing strategy.",
+        "verdict": "False.",
+        "why": "AI can draft and organise, but it does not know your customer, margins, capacity or promise unless you supply them. Strategy still needs human judgement.",
+        "test": "Write the offer, audience and proof first; then ask AI for drafts."
+      },
+      "trend": {
+        "candidate": "Comment keyword to DM",
+        "source": "Lightreel weekly report",
+        "sourceDate": "2026-10-24",
+        "sourceUrl": "https://lightreel.ai/blogs/whats-trending-on-instagram",
+        "description": "a comment keyword that triggers a DM workflow",
+        "adaptation": "Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual.",
+        "angle": "what it is"
+      },
+      "ai": {
+        "workflow": "Summarise a booking request",
+        "input": "a fictional booking form",
+        "draft": "a summary with missing fields flagged",
+        "check": "date, time, price and cancellation terms",
+        "output": "a human-confirmed booking note",
+        "demoPath": "/demo/bookflow-appointments/index.html"
+      },
+      "meme1": {
+        "headline": "Posted at the perfect time. Forgot the link.",
+        "resolution": "The journey matters more than the minute.",
+        "caption": "Test the profile, link and WhatsApp route before scheduling."
+      },
+      "meme2": {
+        "headline": "The client wants authentic. The script sounds like a press release.",
+        "resolution": "Write like a person with facts.",
+        "caption": "Read the script aloud before recording."
+      },
+      "copy": {
+        "expert": "Eugene Schwartz",
+        "principle": "Market sophistication",
+        "steal": "When every competitor makes the same claim, show a mechanism or specific difference.",
+        "example": "Before: 'We help you grow.' After: 'We make the message, page, content and follow-up agree.'",
+        "source": "Breakthrough Advertising"
+      },
+      "intro": {
+        "angle": "FAQ talking head",
+        "format": "AI talking head",
+        "body": [
+          "Who do we serve? Owner-led small businesses.",
+          "What do we do? Make the message, page, content and follow-up agree.",
+          "Do we do custom work? Yes, as scoped projects.",
+          "Are the ₦5,000 packs custom work? No, they are DIY resources.",
+          "What is the next step? Send the link and the problem."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 7,
+      "offerKeyword": "PROMPTS",
+      "offerA": {
+        "angle": "AI needs facts, voice and boundaries."
+      },
+      "offerB": {
+        "objection": "Does this build a chatbot?",
+        "answer": "No. The knowledge sheet is a design document. Building or installing an assistant is separate."
+      },
+      "niche": {
+        "niche": "skincare brand",
+        "ideas": [
+          "a routine order explained without medical claims",
+          "an ingredient label read in plain language",
+          "a customer question routed to a qualified professional when needed"
+        ],
+        "mistake": "making treatment claims",
+        "first": "Write one plain-language label answer."
+      },
+      "myth": {
+        "claim": "A free review means free custom work.",
+        "verdict": "False.",
+        "why": "A review can identify a problem and next step. Building, writing or managing the solution is separate scoped work.",
+        "test": "State the review boundary before starting and send a written scope for extra work."
+      },
+      "trend": {
+        "candidate": "Why People Come, Why People Stay",
+        "source": "Drizzle Digital Vol. 38",
+        "sourceDate": "2026-09-28",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-report-october-2026/",
+        "description": "a contrast between what attracts customers and what keeps them",
+        "adaptation": "Show the hook that brings an enquiry and the process that earns trust. Use real or labelled sample steps.",
+        "angle": "what it is"
+      },
+      "ai": {
+        "workflow": "Turn a market brief into a checklist",
+        "input": "a labelled sample brief",
+        "draft": "a task list with owners and open questions",
+        "check": "invented facts and missing approvals",
+        "output": "a reviewed production checklist",
+        "demoPath": "/demo/market-lane-assistant/index.html"
+      },
+      "meme1": {
+        "headline": "The customer asked for price. We sent a novel.",
+        "resolution": "Answer the question, then add the next step.",
+        "caption": "A clear price reply can include what is included, what is not and one question."
+      },
+      "meme2": {
+        "headline": "The trend is funny. The brand has no connection.",
+        "resolution": "Skip it or adapt the structure.",
+        "caption": "Relevance beats participation."
+      },
+      "copy": {
+        "expert": "Joe Sugarman",
+        "principle": "The first sentence earns the second",
+        "steal": "Make the opening easy to read and relevant enough to continue.",
+        "example": "Before: 'In today's fast-paced digital landscape...' After: 'Your price reply is losing people.'",
+        "source": "The Adweek Copywriting Handbook"
+      },
+      "intro": {
+        "angle": "Before/after structure",
+        "format": "Carousel",
+        "body": [
+          "Before: the website says one thing.",
+          "The posts say another.",
+          "The replies say something else.",
+          "After: one offer, one route, one story.",
+          "That is the gap Easywurld works on."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 8,
+      "offerKeyword": "TEMPLATES",
+      "offerA": {
+        "angle": "A proposal should make the decision easier."
+      },
+      "offerB": {
+        "objection": "Is this a legal contract?",
+        "answer": "No. The templates are general business documents, not legal contracts. Have terms reviewed professionally."
+      },
+      "niche": {
+        "niche": "tutor",
+        "ideas": [
+          "a parent question answered in 30 seconds",
+          "a study method shown with a fictional example",
+          "a term schedule with clear enrolment steps"
+        ],
+        "mistake": "posting only motivational quotes",
+        "first": "Answer one real parent question."
+      },
+      "myth": {
+        "claim": "Discounts always increase sales.",
+        "verdict": "It depends.",
+        "why": "A discount can attract price-sensitive buyers and reduce margin. It can also train customers to wait. Test whether the offer is clear before reducing price.",
+        "test": "Run one non-discount offer post and compare qualified enquiries."
+      },
+      "trend": {
+        "candidate": "I'm with Max",
+        "source": "Drizzle Digital Vol. 40",
+        "sourceDate": "2026-10-26",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-oct-2026/",
+        "description": "a creator spotlighting the person or thing they are always with",
+        "adaptation": "Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound.",
+        "angle": "what it is"
+      },
+      "ai": {
+        "workflow": "Draft an internal assistant answer",
+        "input": "an approved knowledge sheet",
+        "draft": "an answer with source and escalation note",
+        "check": "medical/legal/financial boundaries",
+        "output": "a staff-reviewed answer",
+        "demoPath": "/demo/carepath-internal-assistant/index.html"
+      },
+      "meme1": {
+        "headline": "New month. New niche. Same confused bio.",
+        "resolution": "Consistency beats reinvention.",
+        "caption": "Keep the offer sentence stable long enough to learn from it."
+      },
+      "meme2": {
+        "headline": "The carousel has 10 slides. Slide 1 is a paragraph.",
+        "resolution": "One idea per slide.",
+        "caption": "Make the first slide a promise and the next slides deliver it."
+      },
+      "copy": {
+        "expert": "Joe Sugarman",
+        "principle": "Reading momentum",
+        "steal": "Each sentence should make the next one feel necessary.",
+        "example": "Hook: 'The enquiry came in.' Next: 'The reply was slow.' Next: 'The customer bought elsewhere.'",
+        "source": "The Adweek Copywriting Handbook"
+      },
+      "intro": {
+        "angle": "AI policy card",
+        "format": "Relatable static",
+        "body": [
+          "AI can draft.",
+          "A person approves.",
+          "Realistic AI presenters and voices are disclosed.",
+          "Private customer data stays out of prompts.",
+          "That is the Easywurld AI rule."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 9,
+      "offerKeyword": "LAUNCH",
+      "offerA": {
+        "angle": "Launch is a checklist, not a button."
+      },
+      "offerB": {
+        "objection": "Do you maintain the site?",
+        "answer": "No. It is a guide and workbook. Building, hosting or maintaining a site is separate."
+      },
+      "niche": {
+        "niche": "event planner",
+        "ideas": [
+          "a budget trade-off explained with fictional numbers",
+          "a vendor checklist couples can save",
+          "a timeline from booking to event day"
+        ],
+        "mistake": "posting only decorated venues",
+        "first": "Publish one planning checklist."
+      },
+      "myth": {
+        "claim": "You should be on every platform.",
+        "verdict": "Mostly false.",
+        "why": "Each platform needs adaptation and maintenance. It is better to publish consistently where your customers are than to abandon five accounts.",
+        "test": "Choose one primary platform and two adapted destinations for this test."
+      },
+      "trend": {
+        "candidate": "You Seem To Be Scrolling a Lot",
+        "source": "Drizzle Digital Vol. 39",
+        "sourceDate": "2026-10-14",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-for-october-2026/",
+        "description": "a playful nudge to stop scrolling and take an action",
+        "adaptation": "Turn it into one useful action, such as testing the contact route. Avoid shaming the viewer.",
+        "angle": "what it is"
+      },
+      "ai": {
+        "workflow": "Rewrite a homepage opening",
+        "input": "a labelled before page",
+        "draft": "three clearer opening options",
+        "check": "claims, audience and proof",
+        "output": "a human-selected rewrite",
+        "demoPath": "/demo/clear-homepage-rewrite/index.html"
+      },
+      "meme1": {
+        "headline": "The camera is ready. The script is 'vibes'.",
+        "resolution": "Write the first sentence before recording.",
+        "caption": "A hook is a promise. Make the next sentence deliver it."
+      },
+      "meme2": {
+        "headline": "The AI voice says 'Easy-world'.",
+        "resolution": "Test pronunciation before the batch.",
+        "caption": "Correct the script or captions and approve the voice."
+      },
+      "copy": {
+        "expert": "Joe Sugarman",
+        "principle": "Answer objections as they arise",
+        "steal": "Anticipate the buyer's question and answer it plainly.",
+        "example": "'Is this a custom website?' 'No. It is a DIY kit. Custom builds are separate.'",
+        "source": "The Adweek Copywriting Handbook"
+      },
+      "intro": {
+        "angle": "Handover checklist",
+        "format": "Carousel",
+        "body": [
+          "What you get: the agreed files.",
+          "What you need: access and content.",
+          "What we check: links, forms and mobile view.",
+          "What happens next: care and review.",
+          "A launch should not leave you guessing."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 10,
+      "offerKeyword": "PLAYBOOK",
+      "offerA": {
+        "angle": "Follow-up needs a stop rule."
+      },
+      "offerB": {
+        "objection": "Will this generate leads?",
+        "answer": "No. It helps you organise the enquiries you already get. It does not generate leads or guarantee sales."
+      },
+      "niche": {
+        "niche": "logistics company",
+        "ideas": [
+          "a delivery-zone map with verified coverage",
+          "a packing standard shown on camera",
+          "a failed-delivery process explained calmly"
+        ],
+        "mistake": "posting only vans and speed claims",
+        "first": "Show the actual coverage map."
+      },
+      "myth": {
+        "claim": "Only Reels work now.",
+        "verdict": "False.",
+        "why": "Short video is useful, but carousels and static posts can earn saves, shares and search visibility. Format should match the idea.",
+        "test": "Publish one idea as a Reel and a carousel, then compare saves and enquiries."
+      },
+      "trend": {
+        "candidate": "Ghosts",
+        "source": "Drizzle Digital Vol. 39",
+        "sourceDate": "2026-10-14",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-for-october-2026/",
+        "description": "a spooky-season format showing what a brand is ready for",
+        "adaptation": "Use only if seasonally relevant and owned/licensed. Adapt to 'ghosted enquiries' with a follow-up lesson.",
+        "angle": "what it is"
+      },
+      "ai": {
+        "workflow": "Audit local visibility basics",
+        "input": "a fictional business profile",
+        "draft": "a checklist of name, address, hours and categories",
+        "check": "real-world accuracy and ranking claims",
+        "output": "a correction list",
+        "demoPath": "/demo/local-first-visibility/index.html"
+      },
+      "meme1": {
+        "headline": "We need more content. We have no photos.",
+        "resolution": "Start with the work you already do.",
+        "caption": "Process, questions and checklists can be content without a studio shoot."
+      },
+      "meme2": {
+        "headline": "The scheduler is connected. The disclosure is missing.",
+        "resolution": "Do not publish undisclosed realistic AI.",
+        "caption": "Check the platform AI setting and on-screen label."
+      },
+      "copy": {
+        "expert": "Gary Halbert",
+        "principle": "Find the hungry crowd",
+        "steal": "A relevant audience with a real problem matters more than a broad audience.",
+        "example": "Before: 'Marketing for everyone.' After: 'For Lagos owners who sell by WhatsApp and lose track of follow-ups.'",
+        "source": "The Boron Letters"
+      },
+      "intro": {
+        "angle": "Pricing philosophy",
+        "format": "AI talking head",
+        "body": [
+          "DIY packs and custom projects are different.",
+          "The packs are self-guided resources.",
+          "Custom work needs a written scope and quote.",
+          "We do not pretend a ₦5,000 pack is a done-for-you build.",
+          "Clear boundaries protect the work."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 11,
+      "offerKeyword": "CLEAR",
+      "offerA": {
+        "angle": "The audit scorecard turns vague worry into checks."
+      },
+      "offerB": {
+        "objection": "Do you review my page?",
+        "answer": "No. The scorecard helps you audit your own page. A personal review is not included."
+      },
+      "niche": {
+        "niche": "phone repair shop",
+        "ideas": [
+          "a diagnostic question before quoting",
+          "a repair timeline with parts availability",
+          "a data-privacy promise explained plainly"
+        ],
+        "mistake": "posting only repaired screens",
+        "first": "Explain the diagnostic step."
+      },
+      "myth": {
+        "claim": "Carousels are dead.",
+        "verdict": "False.",
+        "why": "Carousels can still work for checklists, comparisons and step-by-step explanations. They fail when every slide is a paragraph.",
+        "test": "Make one five-slide checklist with one idea per slide."
+      },
+      "trend": {
+        "candidate": "Four Walls",
+        "source": "Drizzle Digital Vol. 38",
+        "sourceDate": "2026-09-28",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-report-october-2026/",
+        "description": "a format built around four walls or four panels",
+        "adaptation": "Use four panels for message, page, content and follow-up. Keep the structure, skip the sound if rights are unclear.",
+        "angle": "what it is"
+      },
+      "ai": {
+        "workflow": "Outline a proposal",
+        "input": "a labelled sample brief",
+        "draft": "sections for scope, timeline, price and exclusions",
+        "check": "invented parties, figures and legal terms",
+        "output": "a reviewed proposal draft",
+        "demoPath": "/demo/civic-proposal-template/civic-proposal-template.pdf"
+      },
+      "meme1": {
+        "headline": "The client wants organic growth. By Friday.",
+        "resolution": "Set a test window, not a miracle date.",
+        "caption": "Agree what you will measure and when you will review it."
+      },
+      "meme2": {
+        "headline": "The post is boosted. The reply is slow.",
+        "resolution": "Speed to lead is part of the campaign.",
+        "caption": "Assign reply coverage before increasing reach."
+      },
+      "copy": {
+        "expert": "Gary Halbert",
+        "principle": "Make the offer clear",
+        "steal": "The buyer should understand what they get, what it costs and what happens next.",
+        "example": "'₦5,000. Four files. DIY. Message PLAYBOOK to confirm order details.'",
+        "source": "The Boron Letters"
+      },
+      "intro": {
+        "angle": "Brief template",
+        "format": "Carousel",
+        "body": [
+          "Send the business link.",
+          "Name the customer.",
+          "Describe the problem.",
+          "Say what you have tried.",
+          "Name the next step you want."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 12,
+      "offerKeyword": "ENGINE",
+      "offerA": {
+        "angle": "The idea bank is a starting point, not a strategy."
+      },
+      "offerB": {
+        "objection": "Does it include design templates?",
+        "answer": "No. It does not include design templates or scheduling software. You supply the real photos, facts and prices."
+      },
+      "niche": {
+        "niche": "thrift store",
+        "ideas": [
+          "a styling clip with three ways to wear one piece",
+          "a condition guide using real item photos",
+          "a restock schedule customers can follow"
+        ],
+        "mistake": "posting only price tags",
+        "first": "Show one item styled three ways."
+      },
+      "myth": {
+        "claim": "SEO works in a week.",
+        "verdict": "False.",
+        "why": "Search visibility depends on crawling, competition, content quality and time. A new page is not a ranking promise.",
+        "test": "Check indexing and query data after a reasonable period; do not invent rankings."
+      },
+      "trend": {
+        "candidate": "Brand Vibe",
+        "source": "Drizzle Digital Vol. 40",
+        "sourceDate": "2026-10-26",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-oct-2026/",
+        "description": "a product front and center with four still shots that express the brand vibe",
+        "adaptation": "Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle.",
+        "angle": "business adaptation"
+      },
+      "ai": {
+        "workflow": "Turn customer questions into a content week",
+        "input": "an anonymised question list",
+        "draft": "ten series ideas with one CTA each",
+        "check": "private data and repeated generic tips",
+        "output": "an approved content batch",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The meme got shares. The offer got silence.",
+        "resolution": "Humour should open the door, not hide the room.",
+        "caption": "Make sure the audience knows what you do and what to do next."
+      },
+      "meme2": {
+        "headline": "The brief says target everyone.",
+        "resolution": "Choose one owner with one problem.",
+        "caption": "Specificity makes the content easier to write and recognise."
+      },
+      "copy": {
+        "expert": "Gary Halbert",
+        "principle": "Write personally",
+        "steal": "Sound like one person helping another, not a committee.",
+        "example": "Before: 'Our organisation provides solutions.' After: 'We help you make the next step clear.'",
+        "source": "The Boron Letters"
+      },
+      "intro": {
+        "angle": "Contact route demo",
+        "format": "Screen demo",
+        "body": [
+          "This is the contact route.",
+          "Profile to link.",
+          "Link to WhatsApp.",
+          "WhatsApp to a clear brief.",
+          "Test the journey before buying more traffic.",
+          "A broken route wastes the attention you already paid for."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 13,
+      "offerKeyword": "PAGE",
+      "offerA": {
+        "angle": "The HTML starter is a simple page, not a custom site."
+      },
+      "offerB": {
+        "objection": "Does it process payments?",
+        "answer": "No. The starter uses WhatsApp or a link you provide. It has no payment processing."
+      },
+      "niche": {
+        "niche": "photographer",
+        "ideas": [
+          "a before-and-after of framing, not results",
+          "a client prep checklist",
+          "a location guide with permission notes"
+        ],
+        "mistake": "posting only final galleries",
+        "first": "Share one prep checklist."
+      },
+      "myth": {
+        "claim": "Email is dead for small business.",
+        "verdict": "False.",
+        "why": "Email can still support follow-up and repeat customers when permission and relevance are handled well. It is not a replacement for every channel.",
+        "test": "Send one useful email to a permission-based list and track replies."
+      },
+      "trend": {
+        "candidate": "Pick Your Emoji",
+        "source": "Drizzle Digital Vol. 40",
+        "sourceDate": "2026-10-26",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-oct-2026/",
+        "description": "a video carousel that starts with four emoji paths and ends with one CTA",
+        "adaptation": "Adapt it to four customer problems, not four random products. End with one useful next step.",
+        "angle": "business adaptation"
+      },
+      "ai": {
+        "workflow": "Draft a review request",
+        "input": "a completed service record",
+        "draft": "a polite request with an opt-out",
+        "check": "consent and incentive rules",
+        "output": "a human-sent request",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The website is live. The phone number is old.",
+        "resolution": "Launch is a checklist, not a button.",
+        "caption": "Test every contact route from a logged-out browser."
+      },
+      "meme2": {
+        "headline": "The sample has fake metrics.",
+        "resolution": "Label it or remove it.",
+        "caption": "Concept work can show thinking without invented results."
+      },
+      "copy": {
+        "expert": "Claude Hopkins",
+        "principle": "Give a reason why",
+        "steal": "Explain why the offer exists or why the claim is believable.",
+        "example": "'We label every sample because concept work should not be mistaken for client results.'",
+        "source": "Scientific Advertising"
+      },
+      "intro": {
+        "angle": "Audience map",
+        "format": "Relatable static",
+        "body": [
+          "Owner-led small businesses.",
+          "Lagos and across Nigeria.",
+          "Products, services and bookings.",
+          "If the message, page or follow-up is unclear, that is the work."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 14,
+      "offerKeyword": "LOCAL",
+      "offerA": {
+        "angle": "The keyword worksheet is for clarity, not stuffing."
+      },
+      "offerB": {
+        "objection": "Do you do SEO for me?",
+        "answer": "No. It is a DIY starter. Easywurld doing SEO work for you is a separate project."
+      },
+      "niche": {
+        "niche": "cleaning service",
+        "ideas": [
+          "a scope checklist before booking",
+          "a product-safety note for one surface",
+          "a before-and-after with client permission or a labelled sample"
+        ],
+        "mistake": "posting only dramatic cleans",
+        "first": "Publish the scope checklist."
+      },
+      "myth": {
+        "claim": "WhatsApp broadcast lists are spam.",
+        "verdict": "It depends.",
+        "why": "Permission and relevance matter. A useful update to people who asked is different from bulk unsolicited messages.",
+        "test": "Ask before adding contacts and make opting out easy."
+      },
+      "trend": {
+        "candidate": "Gold Star Behavior",
+        "source": "SocialBee / Drizzle Digital",
+        "sourceDate": "2026-10-21",
+        "sourceUrl": "https://socialbee.com/blog/latest-instagram-trends/",
+        "description": "a list of small habits that deserve a gold star",
+        "adaptation": "Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind.",
+        "angle": "business adaptation"
+      },
+      "ai": {
+        "workflow": "Draft a quote follow-up",
+        "input": "an approved quote",
+        "draft": "a short follow-up with one question",
+        "check": "price, validity and pressure",
+        "output": "an approved follow-up",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The AI wrote 30 posts. All 30 sound like a brochure.",
+        "resolution": "Give it facts, voice and boundaries.",
+        "caption": "AI drafts faster when the brief is specific. A human still approves."
+      },
+      "meme2": {
+        "headline": "The meme mocks the customer.",
+        "resolution": "Joke about the work, not the person.",
+        "caption": "Trust is easier to keep than to repair."
+      },
+      "copy": {
+        "expert": "Claude Hopkins",
+        "principle": "Test, do not guess",
+        "steal": "Compare one variable and record the result instead of declaring a universal rule.",
+        "example": "Test two hooks for the same offer and compare relevant enquiries, not only views.",
+        "source": "Scientific Advertising"
+      },
+      "intro": {
+        "angle": "Sample tour",
+        "format": "Screen demo",
+        "body": [
+          "This is a concept sample.",
+          "Watch the structure, not invented results.",
+          "The before version is vague.",
+          "The after version gives a clearer starting point.",
+          "Judge the thinking."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 15,
+      "offerKeyword": "MESSAGE",
+      "offerA": {
+        "angle": "Customer language beats internal jargon."
+      },
+      "offerB": {
+        "objection": "Do you research my market?",
+        "answer": "No. It shows you how to collect real input. It does not research your market for you."
+      },
+      "niche": {
+        "niche": "makeup artist",
+        "ideas": [
+          "a skin-prep question answered without medical claims",
+          "a booking timeline for weddings",
+          "a product list with shade ranges"
+        ],
+        "mistake": "posting only flawless faces",
+        "first": "Explain the booking timeline."
+      },
+      "myth": {
+        "claim": "Paid ads will fix a weak offer.",
+        "verdict": "False.",
+        "why": "Ads can amplify a message. If the offer, page or reply is unclear, more traffic can expose the problem faster.",
+        "test": "Fix the landing page and reply script before increasing spend."
+      },
+      "trend": {
+        "candidate": "Six-to-18-second proof Reel",
+        "source": "Lightreel weekly report",
+        "sourceDate": "2026-10-24",
+        "sourceUrl": "https://lightreel.ai/blogs/whats-trending-on-instagram",
+        "description": "a short Reel that makes one claim and resolves it visually",
+        "adaptation": "Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results.",
+        "angle": "business adaptation"
+      },
+      "ai": {
+        "workflow": "Turn meeting notes into actions",
+        "input": "an anonymised note",
+        "draft": "owners, deadlines and open questions",
+        "check": "invented commitments",
+        "output": "a confirmed action list",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The customer said 'quick one'. It has been 40 minutes.",
+        "resolution": "Scope the quick one.",
+        "caption": "Write what is included before starting extra work."
+      },
+      "meme2": {
+        "headline": "The content is repurposed. The crop is wrong.",
+        "resolution": "Adapt, do not just repost.",
+        "caption": "Check safe areas, captions and audio rights per platform."
+      },
+      "copy": {
+        "expert": "Claude Hopkins",
+        "principle": "Specifics beat generalities",
+        "steal": "Concrete details are easier to believe than vague praise.",
+        "example": "Before: 'Fast delivery.' After: 'Delivery zones and cutoffs are listed before you order.'",
+        "source": "Scientific Advertising"
+      },
+      "intro": {
+        "angle": "Content series map",
+        "format": "Carousel",
+        "body": [
+          "If I ran this account: niche ideas.",
+          "Myth Court: test the advice.",
+          "Trend Desk: verify before copying.",
+          "AI Build: one bounded workflow.",
+          "Plus memes, copy moves, offers and who we are."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 16,
+      "offerKeyword": "PROMPTS",
+      "offerA": {
+        "angle": "The knowledge sheet is the boundary."
+      },
+      "offerB": {
+        "objection": "Is the AI tool included?",
+        "answer": "No. You need access to an AI chat tool. Some features may need a paid plan, and that cost is yours."
+      },
+      "niche": {
+        "niche": "furniture maker",
+        "ideas": [
+          "a joinery detail shown close up",
+          "a lead-time explanation",
+          "a care guide for one finish"
+        ],
+        "mistake": "posting only showroom photos",
+        "first": "Film one joinery detail."
+      },
+      "myth": {
+        "claim": "Logo first, message later.",
+        "verdict": "Mostly false.",
+        "why": "A logo matters, but customers first need to understand what you do, who it is for and what happens next. Clarity can precede polish.",
+        "test": "Write the one-sentence offer before redesigning the mark."
+      },
+      "trend": {
+        "candidate": "Native-interface tutorial",
+        "source": "Lightreel weekly report",
+        "sourceDate": "2026-10-24",
+        "sourceUrl": "https://lightreel.ai/blogs/whats-trending-on-instagram",
+        "description": "a screen-recording aesthetic that shows the actual interface",
+        "adaptation": "Record the real demo at a readable crop. Keep concept/sample labels visible.",
+        "angle": "business adaptation"
+      },
+      "ai": {
+        "workflow": "Draft a product description",
+        "input": "real product facts",
+        "draft": "a description with features and use cases",
+        "check": "materials, sizes and claims",
+        "output": "a reviewed description",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The grid looks perfect. The inbox is empty.",
+        "resolution": "Pretty is not a route to buy.",
+        "caption": "Add one clear offer and one tested next step."
+      },
+      "meme2": {
+        "headline": "The AI wrote a testimonial.",
+        "resolution": "Delete it.",
+        "caption": "Only use real, permitted testimonials. No invented social proof."
+      },
+      "copy": {
+        "expert": "John Caples",
+        "principle": "Self-interest in the headline",
+        "steal": "Show the reader why the message matters to them.",
+        "example": "Before: 'Our new workbook.' After: 'Explain what you do in one sentence before you rebuild the website.'",
+        "source": "Tested Advertising Methods"
+      },
+      "intro": {
+        "angle": "Website anatomy",
+        "format": "Carousel",
+        "body": [
+          "The message: what you do and for whom.",
+          "The page: where the next step happens.",
+          "The content: how people find and trust you.",
+          "The follow-up: what happens after the enquiry.",
+          "Easywurld connects the four."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 17,
+      "offerKeyword": "TEMPLATES",
+      "offerA": {
+        "angle": "The quote workbook keeps the numbers visible."
+      },
+      "offerB": {
+        "objection": "Is tax advice included?",
+        "answer": "No. Tax rules vary. The workbook has an editable tax-rate cell; confirm what applies to you."
+      },
+      "niche": {
+        "niche": "catering company",
+        "ideas": [
+          "a menu tasting process",
+          "a per-head cost breakdown with fictional numbers",
+          "a dietary-requirement intake form explained"
+        ],
+        "mistake": "posting only buffet tables",
+        "first": "Show the tasting process."
+      },
+      "myth": {
+        "claim": "Content must look expensive to work.",
+        "verdict": "False.",
+        "why": "Readable, useful and honest content can outperform polished but vague posts. Production value should serve the idea.",
+        "test": "Record one clear answer on a phone and compare completion rate."
+      },
+      "trend": {
+        "candidate": "Comment keyword to DM",
+        "source": "Lightreel weekly report",
+        "sourceDate": "2026-10-24",
+        "sourceUrl": "https://lightreel.ai/blogs/whats-trending-on-instagram",
+        "description": "a comment keyword that triggers a DM workflow",
+        "adaptation": "Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual.",
+        "angle": "business adaptation"
+      },
+      "ai": {
+        "workflow": "Draft a newsletter",
+        "input": "one useful lesson and one update",
+        "draft": "a short email with one CTA",
+        "check": "permission and accuracy",
+        "output": "an approved email",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The trend expired while we were approving it.",
+        "resolution": "Keep a trend gate and an evergreen fallback.",
+        "caption": "Verify the format and rights close to publishing."
+      },
+      "meme2": {
+        "headline": "The offer is clear. The CTA is 'engage'.",
+        "resolution": "Name the next step.",
+        "caption": "Comment one keyword, open the sample or send a brief."
+      },
+      "copy": {
+        "expert": "John Caples",
+        "principle": "News can earn attention",
+        "steal": "A real update can be more interesting than a generic claim.",
+        "example": "'New in the kit: a pre-launch checklist for the one-offer page.' Only say this if true.",
+        "source": "Tested Advertising Methods"
+      },
+      "intro": {
+        "angle": "Follow-up flow",
+        "format": "Screen demo",
+        "body": [
+          "An enquiry arrives.",
+          "A clear reply goes out.",
+          "A follow-up is scheduled.",
+          "The sequence stops when it should.",
+          "This is a labelled sample, not a live client result."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 18,
+      "offerKeyword": "LAUNCH",
+      "offerA": {
+        "angle": "The accounts workbook prevents lockout."
+      },
+      "offerB": {
+        "objection": "Are hosting costs included?",
+        "answer": "No. Domain, hosting, builder and email costs are separate and depend on providers."
+      },
+      "niche": {
+        "niche": "printing press",
+        "ideas": [
+          "a file-prep checklist that prevents reprints",
+          "a paper-stock comparison",
+          "a turnaround timeline with cutoffs"
+        ],
+        "mistake": "posting only finished banners",
+        "first": "Publish the file-prep checklist."
+      },
+      "myth": {
+        "claim": "You must chase every trend.",
+        "verdict": "False.",
+        "why": "A trend is useful only if it fits the audience, brand and rights. Forced participation can look confusing or unsafe.",
+        "test": "Use the trend filter: relevance, rights, capacity, proof."
+      },
+      "trend": {
+        "candidate": "Why People Come, Why People Stay",
+        "source": "Drizzle Digital Vol. 38",
+        "sourceDate": "2026-09-28",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-report-october-2026/",
+        "description": "a contrast between what attracts customers and what keeps them",
+        "adaptation": "Show the hook that brings an enquiry and the process that earns trust. Use real or labelled sample steps.",
+        "angle": "business adaptation"
+      },
+      "ai": {
+        "workflow": "Create caption variants",
+        "input": "one approved core idea",
+        "draft": "TikTok, Instagram and Facebook captions",
+        "check": "platform tone and disclosure",
+        "output": "three reviewed captions",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The founder is the brand. The founder is tired.",
+        "resolution": "Build a system that survives a busy week.",
+        "caption": "Batch by series and keep reusable templates."
+      },
+      "meme2": {
+        "headline": "The trend report is from last month. The caption says 'now'.",
+        "resolution": "Date the source and verify.",
+        "caption": "Trend Desk posts need a same-week check."
+      },
+      "copy": {
+        "expert": "John Caples",
+        "principle": "Curiosity needs substance",
+        "steal": "A curious opening should deliver a useful answer, not clickbait.",
+        "example": "'The post got shares. The offer got silence.' Then explain the missing next step.",
+        "source": "Tested Advertising Methods"
+      },
+      "intro": {
+        "angle": "Local visibility checklist",
+        "format": "Relatable static",
+        "body": [
+          "Correct name.",
+          "Correct address.",
+          "Correct hours.",
+          "Correct categories.",
+          "Local visibility starts with accurate information."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 19,
+      "offerKeyword": "PLAYBOOK",
+      "offerA": {
+        "angle": "The scripts are starting points, not robots."
+      },
+      "offerB": {
+        "objection": "Can I use them in Pidgin?",
+        "answer": "Yes. Adapt them into the language your customers use, including Pidgin or Yoruba. Keep the meaning and check the tone."
+      },
+      "niche": {
+        "niche": "travel agency",
+        "ideas": [
+          "a visa-document checklist with official-source links",
+          "a destination comparison based on verified facts",
+          "a booking timeline with cancellation terms"
+        ],
+        "mistake": "posting only destination photos",
+        "first": "Publish one document checklist."
+      },
+      "myth": {
+        "claim": "Long copy always sells better.",
+        "verdict": "It depends.",
+        "why": "Copy should be long enough to answer the buyer's questions and short enough to keep attention. Awareness and price change the need.",
+        "test": "Match copy length to the buyer's stage and test one variable."
+      },
+      "trend": {
+        "candidate": "I'm with Max",
+        "source": "Drizzle Digital Vol. 40",
+        "sourceDate": "2026-10-26",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-oct-2026/",
+        "description": "a creator spotlighting the person or thing they are always with",
+        "adaptation": "Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound.",
+        "angle": "business adaptation"
+      },
+      "ai": {
+        "workflow": "Prepare customer interview questions",
+        "input": "the offer and audience",
+        "draft": "ten open questions about problems and language",
+        "check": "leading questions and privacy",
+        "output": "an approved interview kit",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The discount worked. The margin cried.",
+        "resolution": "Test clarity before price cuts.",
+        "caption": "A clearer offer can reduce friction without reducing margin."
+      },
+      "meme2": {
+        "headline": "The expert said steal this copy.",
+        "resolution": "Steal the structure, not the words.",
+        "caption": "Attribute the principle and write an original example."
+      },
+      "copy": {
+        "expert": "Joanna Wiebe",
+        "principle": "Voice of customer",
+        "steal": "Use the language customers actually use, with permission and anonymisation.",
+        "example": "Before: 'Optimise conversions.' After: 'People ask “how much?” and then go quiet.'",
+        "source": "Copyhackers"
+      },
+      "intro": {
+        "angle": "Proposal anatomy",
+        "format": "Screen demo",
+        "body": [
+          "Scope.",
+          "Timeline.",
+          "Price.",
+          "Exclusions.",
+          "A proposal should make the decision easier. This is a labelled sample.",
+          "It should show what is included, what is not and how the decision gets made."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 20,
+      "offerKeyword": "CLEAR",
+      "offerA": {
+        "angle": "The content planner connects the week."
+      },
+      "offerB": {
+        "objection": "Does it guarantee reach?",
+        "answer": "No. Platform features change, and no plan can guarantee reach, followers or sales."
+      },
+      "niche": {
+        "niche": "optician",
+        "ideas": [
+          "a frame-fit guide",
+          "a lens-option explanation without medical advice",
+          "a booking route for an eye exam"
+        ],
+        "mistake": "posting only frame selfies",
+        "first": "Explain one lens option plainly."
+      },
+      "myth": {
+        "claim": "Short copy always wins.",
+        "verdict": "It depends.",
+        "why": "A short hook can earn attention, but a complex offer may need explanation. Brevity is not the same as clarity.",
+        "test": "Keep the hook short and give the offer enough detail to decide."
+      },
+      "trend": {
+        "candidate": "You Seem To Be Scrolling a Lot",
+        "source": "Drizzle Digital Vol. 39",
+        "sourceDate": "2026-10-14",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-for-october-2026/",
+        "description": "a playful nudge to stop scrolling and take an action",
+        "adaptation": "Turn it into one useful action, such as testing the contact route. Avoid shaming the viewer.",
+        "angle": "business adaptation"
+      },
+      "ai": {
+        "workflow": "Build an objection bank",
+        "input": "anonymised sales conversations",
+        "draft": "objections grouped by theme",
+        "check": "private quotes and invented answers",
+        "output": "a reviewed objection bank",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The client sent a voice note. It is 11 minutes.",
+        "resolution": "Summarise, confirm, then act.",
+        "caption": "Turn long notes into a written scope and ask for approval."
+      },
+      "meme2": {
+        "headline": "The calendar is full. The review is empty.",
+        "resolution": "Schedule the review too.",
+        "caption": "Look at series performance, not only individual posts."
+      },
+      "copy": {
+        "expert": "Joanna Wiebe",
+        "principle": "Message mining",
+        "steal": "Collect problems, objections and desired outcomes before writing headlines.",
+        "example": "Ask: 'What almost stopped you from booking?' Use the pattern, not private quotes.",
+        "source": "Copyhackers"
+      },
+      "intro": {
+        "angle": "Message worksheet",
+        "format": "Carousel",
+        "body": [
+          "I help a specific customer.",
+          "Get a useful result.",
+          "With what I actually sell.",
+          "Check the bio and the latest post.",
+          "Do they agree?"
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 21,
+      "offerKeyword": "ENGINE",
+      "offerA": {
+        "angle": "The hooks file is for adaptation, not copying."
+      },
+      "offerB": {
+        "objection": "Do you write the posts?",
+        "answer": "No. You write or design the content using the templates. The hooks are starting points, not finished posts."
+      },
+      "niche": {
+        "niche": "auto mechanic",
+        "ideas": [
+          "a diagnostic question before quoting",
+          "a maintenance interval from the vehicle manual",
+          "a repair approval process explained"
+        ],
+        "mistake": "posting only engine bays",
+        "first": "Show the diagnostic question."
+      },
+      "myth": {
+        "claim": "Testimonials are enough proof.",
+        "verdict": "It depends.",
+        "why": "Testimonials help when they are real, specific and permitted. They do not replace clear scope, samples or transparent process.",
+        "test": "Pair one permitted testimonial with a labelled sample and scope."
+      },
+      "trend": {
+        "candidate": "Ghosts",
+        "source": "Drizzle Digital Vol. 39",
+        "sourceDate": "2026-10-14",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-for-october-2026/",
+        "description": "a spooky-season format showing what a brand is ready for",
+        "adaptation": "Use only if seasonally relevant and owned/licensed. Adapt to 'ghosted enquiries' with a follow-up lesson.",
+        "angle": "business adaptation"
+      },
+      "ai": {
+        "workflow": "Summarise a report",
+        "input": "a labelled sample report",
+        "draft": "a one-page summary with decisions needed",
+        "check": "numbers and invented results",
+        "output": "a reviewed summary",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The post says DM us. The DMs are off.",
+        "resolution": "Check the door before inviting people.",
+        "caption": "Test the contact route on every platform."
+      },
+      "meme2": {
+        "headline": "The avatar looks human. The consent is missing.",
+        "resolution": "Stop and get permission.",
+        "caption": "No verified owner source, no personal avatar."
+      },
+      "copy": {
+        "expert": "Joanna Wiebe",
+        "principle": "One conversion goal",
+        "steal": "A page or post should move one audience toward one meaningful action.",
+        "example": "'Message PLAYBOOK to confirm order details.' Not 'like, save, share, follow and buy.'",
+        "source": "Copyhackers"
+      },
+      "intro": {
+        "angle": "Launch checklist",
+        "format": "Relatable static",
+        "body": [
+          "Test the links.",
+          "Test the forms.",
+          "Test the contact route.",
+          "Check the mobile view.",
+          "Then launch."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 22,
+      "offerKeyword": "PAGE",
+      "offerA": {
+        "angle": "The pre-launch checklist tests the journey."
+      },
+      "offerB": {
+        "objection": "Is custom design included?",
+        "answer": "No. The HTML template is a simple starter page, not a custom-designed website."
+      },
+      "niche": {
+        "niche": "interior designer",
+        "ideas": [
+          "a moodboard-to-room process",
+          "a budget trade-off with fictional numbers",
+          "a measurement checklist before buying"
+        ],
+        "mistake": "posting only finished rooms",
+        "first": "Show one measurement checklist."
+      },
+      "myth": {
+        "claim": "Hide the price until DM.",
+        "verdict": "It depends.",
+        "why": "For simple DIY packs, a clear price can reduce friction. Custom projects may need a range or scoped quote. Hiding everything can waste time.",
+        "test": "Publish the pack price and explain what custom work requires."
+      },
+      "trend": {
+        "candidate": "Four Walls",
+        "source": "Drizzle Digital Vol. 38",
+        "sourceDate": "2026-09-28",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-report-october-2026/",
+        "description": "a format built around four walls or four panels",
+        "adaptation": "Use four panels for message, page, content and follow-up. Keep the structure, skip the sound if rights are unclear.",
+        "angle": "business adaptation"
+      },
+      "ai": {
+        "workflow": "Draft an invoice reminder",
+        "input": "an approved invoice record",
+        "draft": "a polite reminder with payment details checked",
+        "check": "amount, due date and tone",
+        "output": "a human-sent reminder",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The content calendar is full. The offer is unclear.",
+        "resolution": "A schedule cannot fix a sentence.",
+        "caption": "Write the offer, audience and proof before filling slots."
+      },
+      "meme2": {
+        "headline": "The post says limited time. The offer is always available.",
+        "resolution": "Do not invent scarcity.",
+        "caption": "Use real deadlines or skip the pressure."
+      },
+      "copy": {
+        "expert": "Harry Dry",
+        "principle": "Make it visual",
+        "steal": "Concrete language lets the reader picture the outcome.",
+        "example": "Before: 'Improved efficiency.' After: 'A reply draft ready for your approval before the customer waits another day.'",
+        "source": "Marketing Examples"
+      },
+      "intro": {
+        "angle": "Tool stack card",
+        "format": "Relatable static",
+        "body": [
+          "Design: templates and real assets.",
+          "Video: approved avatar or real recording.",
+          "Editing: CapCut-style workflow.",
+          "Planning: one canonical calendar.",
+          "Tools serve the system."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 23,
+      "offerKeyword": "LOCAL",
+      "offerA": {
+        "angle": "The review scripts ask honestly."
+      },
+      "offerB": {
+        "objection": "Can you guarantee reviews?",
+        "answer": "No. Ask honestly and make it easy. Do not invent reviews or pressure customers."
+      },
+      "niche": {
+        "niche": "pet groomer",
+        "ideas": [
+          "a coat-type guide",
+          "a calm handling clip",
+          "a booking policy for anxious pets"
+        ],
+        "mistake": "posting only cute cuts",
+        "first": "Explain one coat-type need."
+      },
+      "myth": {
+        "claim": "Automation can replace customer replies.",
+        "verdict": "False.",
+        "why": "Automation can draft, route and remind. Sensitive answers, prices, promises and complaints need human review.",
+        "test": "Keep a human approval step for every customer-facing message."
+      },
+      "trend": {
+        "candidate": "Brand Vibe",
+        "source": "Drizzle Digital Vol. 40",
+        "sourceDate": "2026-10-26",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-oct-2026/",
+        "description": "a product front and center with four still shots that express the brand vibe",
+        "adaptation": "Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle.",
+        "angle": "mistake to avoid"
+      },
+      "ai": {
+        "workflow": "Create an onboarding checklist",
+        "input": "the service scope",
+        "draft": "steps for access, content and approvals",
+        "check": "private credentials in prompts",
+        "output": "a secure checklist",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The customer wants a website. They need a message.",
+        "resolution": "Fix the sentence before the sitemap.",
+        "caption": "A clearer message can prevent an expensive rebuild."
+      },
+      "meme2": {
+        "headline": "The AI summary missed the one decision needed.",
+        "resolution": "Ask for decisions, not just summaries.",
+        "caption": "Prompt for open questions and next actions."
+      },
+      "copy": {
+        "expert": "Harry Dry",
+        "principle": "Make it falsifiable",
+        "steal": "A claim should be checkable, not an unfalsifiable compliment.",
+        "example": "Before: 'Customers love us.' After: 'The pack includes 36 scripts and a follow-up tracker.'",
+        "source": "Marketing Examples"
+      },
+      "intro": {
+        "angle": "Behind the calendar",
+        "format": "Screen demo",
+        "body": [
+          "This is the active content system.",
+          "Ten series slots a day.",
+          "Three platform adaptations.",
+          "One offer a day.",
+          "Draft until approved.",
+          "It is a plan for human review, not an auto-publisher."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 24,
+      "offerKeyword": "MESSAGE",
+      "offerA": {
+        "angle": "The interview kit collects real input."
+      },
+      "offerB": {
+        "objection": "Is the example a client?",
+        "answer": "No. The worked example is fictional, for illustration. Use your own customer input."
+      },
+      "niche": {
+        "niche": "juice bar",
+        "ideas": [
+          "a seasonal fruit guide",
+          "a sugar-content label read plainly",
+          "a preorder route for offices"
+        ],
+        "mistake": "posting only colourful cups",
+        "first": "Show the seasonal fruit guide."
+      },
+      "myth": {
+        "claim": "A chatbot knows your business automatically.",
+        "verdict": "False.",
+        "why": "A chatbot needs a maintained knowledge sheet, boundaries and escalation. Without them it can invent answers.",
+        "test": "Write the knowledge sheet and test ten common questions."
+      },
+      "trend": {
+        "candidate": "Pick Your Emoji",
+        "source": "Drizzle Digital Vol. 40",
+        "sourceDate": "2026-10-26",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-oct-2026/",
+        "description": "a video carousel that starts with four emoji paths and ends with one CTA",
+        "adaptation": "Adapt it to four customer problems, not four random products. End with one useful next step.",
+        "angle": "mistake to avoid"
+      },
+      "ai": {
+        "workflow": "Draft SEO titles",
+        "input": "a page brief and verified keywords",
+        "draft": "title options with intent notes",
+        "check": "keyword stuffing and ranking promises",
+        "output": "a reviewed title",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The reel is 15 seconds. The explanation is 90.",
+        "resolution": "Match length to the question.",
+        "caption": "Use a short hook and a longer explanation when the offer needs it."
+      },
+      "meme2": {
+        "headline": "The brand voice is 'professional'. The examples are robotic.",
+        "resolution": "Define voice with do/don't examples.",
+        "caption": "Voice is a set of choices, not an adjective."
+      },
+      "copy": {
+        "expert": "Harry Dry",
+        "principle": "Make it unique",
+        "steal": "If every competitor can say it, find the specific difference.",
+        "example": "Before: 'We build websites.' After: 'We make the message, page, content and follow-up agree.'",
+        "source": "Marketing Examples"
+      },
+      "intro": {
+        "angle": "Homepage rewrite tour",
+        "format": "Screen demo",
+        "body": [
+          "A labelled before page.",
+          "A clearer opening.",
+          "One audience.",
+          "One next step.",
+          "Concept sample, no conversion claim.",
+          "Open the sample and judge the thinking for yourself. Compare structure, not imagined conversion numbers."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 25,
+      "offerKeyword": "PROMPTS",
+      "offerA": {
+        "angle": "The safety checklist keeps a human in charge."
+      },
+      "offerB": {
+        "objection": "Will every AI output be correct?",
+        "answer": "No. AI tools make mistakes. Every output must be checked by a person before use."
+      },
+      "niche": {
+        "niche": "bookshop",
+        "ideas": [
+          "a staff pick with a one-sentence reason",
+          "a reading-order guide for a series",
+          "a customer question answered without spoilers"
+        ],
+        "mistake": "posting only covers",
+        "first": "Record one staff pick."
+      },
+      "myth": {
+        "claim": "A content calendar guarantees sales.",
+        "verdict": "False.",
+        "why": "A calendar organises publishing. Sales still depend on offer, audience, trust and follow-up.",
+        "test": "Pair the calendar with one offer and one enquiry route."
+      },
+      "trend": {
+        "candidate": "Gold Star Behavior",
+        "source": "SocialBee / Drizzle Digital",
+        "sourceDate": "2026-10-21",
+        "sourceUrl": "https://socialbee.com/blog/latest-instagram-trends/",
+        "description": "a list of small habits that deserve a gold star",
+        "adaptation": "Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind.",
+        "angle": "mistake to avoid"
+      },
+      "ai": {
+        "workflow": "Draft alt text",
+        "input": "an owned image",
+        "draft": "a factual description of the image",
+        "check": "decorative vs informative context",
+        "output": "a reviewed alt text",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The sample looks real. The label is missing.",
+        "resolution": "Label the sample before publishing.",
+        "caption": "Concept work should never be mistaken for client results."
+      },
+      "meme2": {
+        "headline": "The customer wants more followers. The offer is unclear.",
+        "resolution": "Fix the route before the audience grows.",
+        "caption": "More people seeing confusion is not progress."
+      },
+      "copy": {
+        "expert": "Ann Handley",
+        "principle": "Utility, inspiration, empathy",
+        "steal": "Useful content should shoulder a burden, sound human and see the reader's situation.",
+        "example": "Before: 'Content is king.' After: 'Here is a five-slide answer to the question customers keep asking.'",
+        "source": "Everybody Writes"
+      },
+      "intro": {
+        "angle": "Boundaries card",
+        "format": "Relatable static",
+        "body": [
+          "We do not invent client results.",
+          "We do not use unapproved likenesses.",
+          "We do not sell DIY as custom work.",
+          "We do not publish unreviewed AI.",
+          "Boundaries are part of the service."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 26,
+      "offerKeyword": "TEMPLATES",
+      "offerA": {
+        "angle": "The report templates summarise decisions."
+      },
+      "offerB": {
+        "objection": "Do I need special software?",
+        "answer": "You need Word or a compatible editor, and Excel or Google Sheets for the workbook."
+      },
+      "niche": {
+        "niche": "solar installer",
+        "ideas": [
+          "a site-assessment checklist",
+          "a load calculation explained with fictional numbers",
+          "a maintenance schedule"
+        ],
+        "mistake": "posting only panel photos",
+        "first": "Publish the assessment checklist."
+      },
+      "myth": {
+        "claim": "Behind-the-scenes content always builds trust.",
+        "verdict": "It depends.",
+        "why": "Process content helps when it shows competence, care or honesty. Chaotic or private footage can do the opposite.",
+        "test": "Show one process step with a clear lesson and no private data."
+      },
+      "trend": {
+        "candidate": "Six-to-18-second proof Reel",
+        "source": "Lightreel weekly report",
+        "sourceDate": "2026-10-24",
+        "sourceUrl": "https://lightreel.ai/blogs/whats-trending-on-instagram",
+        "description": "a short Reel that makes one claim and resolves it visually",
+        "adaptation": "Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results.",
+        "angle": "mistake to avoid"
+      },
+      "ai": {
+        "workflow": "Repurpose one lesson",
+        "input": "one approved script",
+        "draft": "a carousel, static and short video outline",
+        "check": "copying without adaptation",
+        "output": "three reviewed formats",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The team is waiting for inspiration. The deadline is not.",
+        "resolution": "Use a series template.",
+        "caption": "Recurring formats reduce the blank-page problem."
+      },
+      "meme2": {
+        "headline": "The screen demo is unreadable.",
+        "resolution": "Crop for the phone.",
+        "caption": "Record the actual interface at a readable zoom."
+      },
+      "copy": {
+        "expert": "Ann Handley",
+        "principle": "Voice consistent, tone flexible",
+        "steal": "Keep the brand's character while adjusting tone to the context.",
+        "example": "A meme can be dry; a complaint reply should be calm. Both can sound like Easywurld.",
+        "source": "Everybody Writes"
+      },
+      "intro": {
+        "angle": "Who we serve",
+        "format": "Carousel",
+        "body": [
+          "The owner who answers the DMs.",
+          "The team that needs a clearer page.",
+          "The business that has outgrown scattered content.",
+          "The founder who wants a system, not noise.",
+          "That is who Easywurld serves."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 27,
+      "offerKeyword": "LAUNCH",
+      "offerA": {
+        "angle": "The hiring questions expose red flags."
+      },
+      "offerB": {
+        "objection": "Is this legal advice?",
+        "answer": "No. It is not legal, tax or data-protection advice. Check obligations with a qualified professional."
+      },
+      "niche": {
+        "niche": "tailoring school",
+        "ideas": [
+          "a student progression clip with permission",
+          "a course schedule with fees and duration",
+          "a tools list beginners actually need"
+        ],
+        "mistake": "posting only graduation photos",
+        "first": "Show one beginner tool list."
+      },
+      "myth": {
+        "claim": "Educational content should never sell.",
+        "verdict": "False.",
+        "why": "Useful content can lead to a relevant next step. The problem is forcing an unrelated pitch, not selling itself.",
+        "test": "End one teaching post with a matching offer or question."
+      },
+      "trend": {
+        "candidate": "Native-interface tutorial",
+        "source": "Lightreel weekly report",
+        "sourceDate": "2026-10-24",
+        "sourceUrl": "https://lightreel.ai/blogs/whats-trending-on-instagram",
+        "description": "a screen-recording aesthetic that shows the actual interface",
+        "adaptation": "Record the real demo at a readable crop. Keep concept/sample labels visible.",
+        "angle": "mistake to avoid"
+      },
+      "ai": {
+        "workflow": "Draft comment moderation replies",
+        "input": "common public comments",
+        "draft": "calm replies and escalation flags",
+        "check": "arguments and private data",
+        "output": "a human-approved reply",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The ad is running. The page is confusing.",
+        "resolution": "Fix the destination before spending more.",
+        "caption": "Traffic exposes unclear offers faster."
+      },
+      "meme2": {
+        "headline": "The post is scheduled. The price changed.",
+        "resolution": "Hold and update before publishing.",
+        "caption": "Confirm offer details close to the publish date."
+      },
+      "copy": {
+        "expert": "Ann Handley",
+        "principle": "Edit for the reader",
+        "steal": "Remove jargon and make every word earn its place.",
+        "example": "Before: 'Leverage synergistic digital solutions.' After: 'Make the next step clear.'",
+        "source": "Everybody Writes"
+      },
+      "intro": {
+        "angle": "How to start",
+        "format": "Text video",
+        "body": [
+          "Send the business link.",
+          "Tell us the problem.",
+          "Say what you have tried.",
+          "We will point to the next step.",
+          "One clear brief is enough."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 28,
+      "offerKeyword": "PLAYBOOK",
+      "offerA": {
+        "angle": "The setup checklist makes the system usable."
+      },
+      "offerB": {
+        "objection": "Is consultation included?",
+        "answer": "No. Questions about the files can be sent on WhatsApp, but custom work is not part of the pack."
+      },
+      "niche": {
+        "niche": "event DJ",
+        "ideas": [
+          "a crowd-reading clip with permission",
+          "a booking timeline",
+          "a do-not-play list process"
+        ],
+        "mistake": "posting only loud crowd shots",
+        "first": "Explain the do-not-play list."
+      },
+      "myth": {
+        "claim": "Memes are unprofessional.",
+        "verdict": "It depends.",
+        "why": "Original, relevant humour can humanise a brand. Mocking customers or using unclear rights can damage trust.",
+        "test": "Use one original meme that jokes about the work, not the customer."
+      },
+      "trend": {
+        "candidate": "Comment keyword to DM",
+        "source": "Lightreel weekly report",
+        "sourceDate": "2026-10-24",
+        "sourceUrl": "https://lightreel.ai/blogs/whats-trending-on-instagram",
+        "description": "a comment keyword that triggers a DM workflow",
+        "adaptation": "Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual.",
+        "angle": "mistake to avoid"
+      },
+      "ai": {
+        "workflow": "Summarise weekly analytics",
+        "input": "exported platform insights",
+        "draft": "patterns and one next test",
+        "check": "invented metrics and causation",
+        "output": "a reviewed weekly note",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The customer asked for a logo. They needed a plan.",
+        "resolution": "Ask what the mark must help people understand.",
+        "caption": "A logo works better when the message is clear."
+      },
+      "meme2": {
+        "headline": "The content is useful. The follow-up is missing.",
+        "resolution": "Connect the lesson to the next step.",
+        "caption": "A save is good. A relevant enquiry is better."
+      },
+      "copy": {
+        "expert": "Robert Bly",
+        "principle": "Features to benefits",
+        "steal": "Translate what something is into what it helps the buyer do.",
+        "example": "Before: 'XLSX tracker.' After: 'See who to follow up with today.'",
+        "source": "The Copywriter's Handbook"
+      },
+      "intro": {
+        "angle": "Review rhythm",
+        "format": "Carousel",
+        "body": [
+          "After 24 hours: record available metrics.",
+          "After seven days: compare similar formats.",
+          "After a month: review series and enquiries.",
+          "Change one variable.",
+          "Do not invent a victory lap."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 29,
+      "offerKeyword": "CLEAR",
+      "offerA": {
+        "angle": "The copy templates need your facts."
+      },
+      "offerB": {
+        "objection": "Are the templates in every language?",
+        "answer": "The templates are in English. Adapt them to your customers' language and check the meaning."
+      },
+      "niche": {
+        "niche": "laundry service",
+        "ideas": [
+          "a care-label guide",
+          "a pickup-zone map",
+          "a turnaround promise with exceptions"
+        ],
+        "mistake": "posting only folded clothes",
+        "first": "Publish the care-label guide."
+      },
+      "myth": {
+        "claim": "You can post the same file everywhere without changes.",
+        "verdict": "Mostly false.",
+        "why": "Core ideas can travel, but captions, crops, audio rights and disclosure settings need platform adaptation.",
+        "test": "Create three captions and check each platform preview."
+      },
+      "trend": {
+        "candidate": "Why People Come, Why People Stay",
+        "source": "Drizzle Digital Vol. 38",
+        "sourceDate": "2026-09-28",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-report-october-2026/",
+        "description": "a contrast between what attracts customers and what keeps them",
+        "adaptation": "Show the hook that brings an enquiry and the process that earns trust. Use real or labelled sample steps.",
+        "angle": "mistake to avoid"
+      },
+      "ai": {
+        "workflow": "Build an assistant knowledge sheet",
+        "input": "approved business facts",
+        "draft": "structured Q&A with boundaries",
+        "check": "outdated prices and sensitive data",
+        "output": "a maintained knowledge sheet",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "The post is educational. The CTA is unrelated.",
+        "resolution": "Match the next step to the lesson.",
+        "caption": "A follow-up lesson can lead to a follow-up pack."
+      },
+      "meme2": {
+        "headline": "The AI says it cannot browse. The caption says 'latest trend'.",
+        "resolution": "Verify outside the model.",
+        "caption": "Use dated sources and in-platform checks."
+      },
+      "copy": {
+        "expert": "Robert Bly",
+        "principle": "Headline functions",
+        "steal": "A headline can get attention, select the audience, deliver a message and draw the reader in.",
+        "example": "'For Lagos owners who sell by WhatsApp: stop losing track of follow-ups.'",
+        "source": "The Copywriter's Handbook"
+      },
+      "intro": {
+        "angle": "Invitation card",
+        "format": "Relatable static",
+        "body": [
+          "If the message, page or follow-up feels unclear, send the link and the problem.",
+          "Easywurld. Simplify. Optimize. Grow."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    },
+    {
+      "day": 30,
+      "offerKeyword": "ENGINE",
+      "offerA": {
+        "angle": "The calendar is a planning tool, not a promise."
+      },
+      "offerB": {
+        "objection": "Does it include scheduling software?",
+        "answer": "No. It does not include scheduling software. Native planners may be available, but you still produce and approve the posts."
+      },
+      "niche": {
+        "niche": "farm produce seller",
+        "ideas": [
+          "a harvest-day clip",
+          "a storage guide for one vegetable",
+          "a weekly box contents list"
+        ],
+        "mistake": "posting only market piles",
+        "first": "Show the weekly box list."
+      },
+      "myth": {
+        "claim": "More posts will fix an unclear offer.",
+        "verdict": "False.",
+        "why": "Volume can amplify confusion. The offer sentence, proof and next step need to be clear before scaling content.",
+        "test": "Write the offer sentence and test it with five customers."
+      },
+      "trend": {
+        "candidate": "I'm with Max",
+        "source": "Drizzle Digital Vol. 40",
+        "sourceDate": "2026-10-26",
+        "sourceUrl": "https://drizzledigital.com/social-media-trends-oct-2026/",
+        "description": "a creator spotlighting the person or thing they are always with",
+        "adaptation": "Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound.",
+        "angle": "mistake to avoid"
+      },
+      "ai": {
+        "workflow": "Create a prompt library",
+        "input": "repeatable tasks",
+        "draft": "prompts with input, output and review steps",
+        "check": "private data and unsupported claims",
+        "output": "a reviewed prompt library",
+        "demoPath": null
+      },
+      "meme1": {
+        "headline": "Month end. We need a success story.",
+        "resolution": "Report what the data actually says.",
+        "caption": "No invented results. Record views, enquiries and confirmed sales."
+      },
+      "meme2": {
+        "headline": "The campaign ended. The learning did not.",
+        "resolution": "Write the next test.",
+        "caption": "Record one lesson and one change for the next batch."
+      },
+      "copy": {
+        "expert": "Robert Bly",
+        "principle": "Clear call to action",
+        "steal": "Tell the reader exactly what to do next without ambiguity.",
+        "example": "'Open the sample and judge the thinking.' 'Message CLEAR to confirm order details.'",
+        "source": "The Copywriter's Handbook"
+      },
+      "intro": {
+        "angle": "Studio dictionary",
+        "format": "Carousel",
+        "body": [
+          "Simplify: make the next step clear.",
+          "Optimize: improve what the evidence supports.",
+          "Grow: build from a working system.",
+          "That is the slogan, explained.",
+          "Easywurld. Simplify. Optimize. Grow."
+        ]
+      },
+      "platforms": {
+        "TikTok": {
+          "formatNote": "Native vertical video, photo carousel or text video; commercial audio only.",
+          "status": "Draft"
+        },
+        "Instagram": {
+          "formatNote": "Reel, carousel or static; platform crop and cover checked.",
+          "status": "Draft"
+        },
+        "Facebook": {
+          "formatNote": "Native video/image, photo album or Reel; conversational caption.",
+          "status": "Draft"
+        }
+      }
+    }
+  ],
+  "scheduled": false,
+  "sequence": [
+    "Finalise the 10 series positions",
+    "Verify dated trend candidates",
+    "Produce Monday’s 10 core posts",
+    "QA a 30-placement day before scaling",
+    "Review by series after seven days"
+  ]
+}

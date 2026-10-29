@@ -11,7 +11,10 @@
     "check": "tsc --noEmit",
     "format": "prettier --write .",
     "content:build": "node marketing/build-plan.mjs && node launch-content/social-command/build/build-meme-bank.mjs",
-    "content:check": "node marketing/validate-plan.mjs"
+    "content:check": "node marketing/validate-plan.mjs",
+    "content:assets": "python3 marketing/build-assets.py",
+    "content:pdf": "python3 marketing/build-pdf.py",
+    "content:all": "npm run content:build && npm run content:assets && npm run content:pdf && npm run content:check"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",

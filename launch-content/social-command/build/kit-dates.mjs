@@ -1,4 +1,4 @@
-/* Compatibility only. Active source: marketing/content-plan.json. */
+/* Compatibility only. Active source: marketing/series-plan.json. */
 export const START_DATE = "2026-11-02";
 export function dateFor(i) {
   const dt = new Date(Date.UTC(2026,10,2+i));

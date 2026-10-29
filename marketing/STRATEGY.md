@@ -1,129 +1,183 @@
-# Easywurld posting strategy
+# Easywurld posting strategy — 10 posts a day, series-led
 
-**Active campaign: Monday 2 November–Tuesday 1 December 2026**
-**Audience:** owner-led small businesses in Lagos and across Nigeria.
-**Business objective:** relevant WhatsApp enquiries and sales of the right DIY pack, with custom projects as a separate conversation.
+**Active campaign:** Monday 2 November–Tuesday 1 December 2026
+**Platforms:** TikTok, Instagram and Facebook
+**Volume:** 10 core posts per day, adapted for each platform = 30 scheduled placements per day, 900 across 30 days.
+**Timezone:** Africa/Lagos (WAT, UTC+1)
 
-This is the strategy behind the [active calendar](./calendar/30-day-calendar.md). It replaces the October four-posts-a-day plan and the 37/38-posts-a-day Social Command plan. Those were production-heavy publishing experiments, not a sustainable starting point.
+This replaces the 22-post weekday plan. The owner wants a high-volume, series-led channel. The strategy below keeps that volume but makes it repeatable, recognisable and reviewable.
 
-## 1. The position
+## 1. Is the idea good?
+
+Yes — the series structure is the strongest part. It gives people recurring reasons to follow: niche ideas, myth-checking, trend analysis, AI workflows, humour, offer education, copywriting lessons and a daily introduction to Easywurld.
+
+The risk is not the number 10. The risk is publishing 10 versions of the same generic tip, or 10 hard sells, every day. We avoid that by giving each slot a distinct job, rotating the offer, varying the format, and adapting the copy to each platform.
+
+**Rule:** 10 core ideas per day, not 30 separate ideas. Each idea is produced once and adapted for TikTok, Instagram and Facebook. That is 30 placements, but one production system.
+
+## 2. Positioning
 
 > Easywurld helps small businesses make the message, website, content and follow-up work together.
 
-Lead with a business problem the owner recognises. Show a practical fix. Then offer one next step. The studio's plain-spoken voice and clearly labelled sample work are advantages; do not replace them with inflated agency claims.
+**Audience:** owner-led small businesses in Lagos and across Nigeria.
+**Business objective:** relevant WhatsApp enquiries, well-matched DIY pack sales, and scoped project briefs.
+**Voice:** plain, specific, useful, slightly witty. No fake client results, no inflated marketing promises.
 
-**What we sell:** clarity and useful implementation, not viral fame. Services include strategy, websites and landing pages, SEO, social content, copywriting, business systems and reports. The nine DIY packs are separate, self-guided products, currently listed at ₦5,000 each in the website source. Confirm availability, payment and delivery before directing buyers to them.
+The account should feel like a useful marketing studio thinking out loud: here is what we would post, here is what we would question, here is what we would automate, here is what we would steal from great copywriters, and here is who we are.
 
-**What we do not claim:** client results, testimonials, rankings, audience size or sales improvements we cannot evidence. Every portfolio example is a concept/sample, not a client engagement. Do not turn a hypothetical customer into a fake story.
+## 3. The 10 daily series
 
-## 2. Audience problems to answer
+| Slot | Time | Series | Job | Default format |
+|---:|---|---|---|---|
+| 1 | 07:00 | **If I ran this account** | Show niche-specific social media thinking | Talking head + carousel |
+| 2 | 08:30 | **Marketing Myth Court** | Debunk or qualify common marketing advice | Talking head |
+| 3 | 10:00 | **Trend Desk** | What is trending / what trended last week, and whether a business should use it | Screen recap / talking head |
+| 4 | 11:30 | **AI Automation Build** | One practical AI or automation workflow | Screen demo / workflow carousel |
+| 5 | 13:00 | **Meme: owner life** | Relatable small-business humour | Original static / short video |
+| 6 | 14:30 | **Offer Spotlight A** | Problem + what the pack actually contains | Carousel / talking head |
+| 7 | 16:00 | **Steal This Copy Move** | Break down a copywriting expert’s principle and apply it | Carousel / talking head |
+| 8 | 17:30 | **Meme: marketing / AI / clients** | Relatable industry humour | Original static / short video |
+| 9 | 19:00 | **Offer Spotlight B** | Objection, limitation or next step for the same daily offer | Talking head / static |
+| 10 | 20:30 | **Meet Easywurld** | A new angle on who we are, what we do and who we serve | Rotating format |
 
-| Owner's question | What we publish | Possible next step |
-|---|---|---|
-| “People do not understand what I sell.” | Message rewrites, homepage checks, clear examples | MESSAGE or CLEAR; project enquiry if implementation is needed |
-| “People ask the price, then disappear.” | Price-reply structure, considerate follow-up, enquiry tracking | PLAYBOOK |
-| “I do not know what to post.” | One-question-to-content demonstrations, a realistic weekly plan | ENGINE |
-| “Will a new website fix this?” | Explain the offer and customer journey before discussing design | PAGE, LAUNCH or a scoped project conversation |
-| “How do I get found locally?” | Accurate business information, useful service pages, honest review requests | LOCAL; no ranking guarantee |
-| “Can AI help without making things up?” | Draft/check/publish examples and clear boundaries | PROMPTS; custom systems only after the process is clear |
-| “Can I trust this studio?” | Show the thinking, label samples, explain limits and ownership | See the portfolio or send a real business question |
+Platform offset: TikTok at the slot time, Instagram +10 minutes, Facebook +20 minutes. These are starting test times, not proven best times.
 
-Write for a busy owner, not another marketer. Use “your customer”, “your page” and “your next reply”, not a stream of technical terms. Examples may use Lagos contexts, but must be explicitly examples rather than reports of actual customers.
+### Series 1 — If I ran this account
 
-## 3. Four content pillars
+Prompt: “If I was managing social media for a [niche] in Lagos, this is what I would post this week.”
 
-The 22 main posts are deliberately mixed:
+Each episode gives three post ideas, one mistake to avoid and one first action. Rotate niches: fashion, food, beauty, fitness, property, education, events, logistics, retail, services. Do not pretend Easywurld manages these accounts. Say “if I ran” or “here is the plan I would test.”
 
-| Pillar | Posts | Job | Typical evidence |
-|---|---:|---|---|
-| Teach | 9 | Solve one small, recognisable problem | A rewrite, checklist, reply structure or workflow |
-| Show | 4 | Make the studio's thinking visible | A recorded concept/sample demo or annotated screen |
-| Trust | 6 | Explain how we work and what we will not pretend | Honest limitations, process, ownership and review |
-| Offer | 3 | Help the right buyer choose | Actual contents, price, exclusions and one keyword |
+### Series 2 — Marketing Myth Court
 
-A useful post can mention a relevant pack without becoming a sales pitch. Do not attach an unrelated offer to every tip.
+Prompt: “Marketing myth: [claim]. Verdict: [true / false / it depends]. Here is the test.”
 
-## 4. Formats and what each is for
+Do not debunk with another absolute. Use verdicts: mostly false, partly true, depends on the goal. Give a small test the owner can run. Examples: “post every day”, “hashtags are dead”, “you need a website before content”, “AI can replace strategy”, “more followers means more sales”.
 
-| Format | Count | Use it when | Production rule |
-|---|---:|---|---|
-| AI talking head | 10 | A direct explanation or point of view needs a human presence | Approved likeness/voice, reviewed script, restrained gestures, visible AI disclosure |
-| Screen demo / annotated walkthrough | 5 | Seeing the page or process is more convincing than hearing about it | Real repo demo, readable crop, concept/sample label, no invented live result |
-| Carousel | 5 | The idea needs a sequence, checklist or comparison | Five slides, one idea per slide, exact text set in the editor |
-| Relatable static / text meme | 2 | A familiar frustration creates recognition | Original Easywurld wording, no borrowed customer screenshot, useful resolution in caption |
+### Series 3 — Trend Desk
 
-This is a format mix, not a requirement to make four versions of every idea. TikTok is the primary video destination. Instagram is the optional first reuse destination. Facebook and LinkedIn are selective, optional reuses, not additional daily obligations.
+Prompt: “This week’s trend watch: [format]. Should a small business use it? Here is the Easywurld adaptation.”
 
-## 5. What a modern talking-head post should feel like
+Trend posts must be verified before recording. Use TikTok Creative Center, Instagram Reels feed, platform newsrooms and dated trend reports. Save the source URL, date checked and example link in the production sheet. Do not invent a trend or use an unlicensed song because it is trending.
 
-There is no single official “2026 TikTok look”. The useful pattern for this account is creator-led, vertical, immediately relevant, visually clear and lightly edited. TikTok's own creative guidance recommends a quick hook, a relevant problem–solution story, human delivery, movement and captions; it also suggests delivering value or emotion within 10–20 seconds for short-form social. We will test concise 25–40 second explanations as well, because a useful business explanation needs more than a slogan. [5](https://ads.tiktok.com/business/en/guides/what-is-ad-creative-guide)
+For launch week, candidate formats reported in late October 2026 include Brand Vibe, Pick Your Emoji, Gold Star Behavior, interface-as-content and short proof Reels. These are candidates, not guaranteed current trends. Recheck on 1 November. [2](https://drizzledigital.com/social-media-trends-oct-2026/) [1](https://lightreel.ai/blogs/whats-trending-on-instagram) [5](https://www.socialpilot.co/blog/instagram-reels-trends)
 
-**Our house template:**
+### Series 4 — AI Automation Build
 
-- **First frame:** face already present and a specific problem headline. No logo intro, “hello guys”, wave or countdown.
-- **0–3 seconds:** say the problem or useful contrarian point. Keep the headline consistent with the spoken hook.
-- **3–12 seconds:** give the first concrete fix or example.
-- **12–28 seconds:** show a page detail, short phrase or second step. Change the visual when the idea changes, not every half-second.
-- **Last 3–5 seconds:** one takeaway and one action. No separate long end card that causes an early swipe.
+Prompt: “One AI workflow a small business can test: [workflow]. Input → AI draft → human check → next action.”
 
-Use a chest-up frame, eye-level lens, natural light and a quiet, credible background. Preserve natural skin texture. A small, occasional reframe or relevant cutaway is enough; avoid constant zooms, fake podcast microphones, random stock footage, exaggerated avatar gestures and word-by-word flashing captions. CapCut's editing guidance likewise recommends pairing jump cuts with a meaningful reframe, screen capture or B-roll rather than using transitions decoratively. [1](https://www.capcut.com/create/video-transitions-crossfade-hard-cut-jump-cut)
+Show the boundary. AI can draft, classify, summarise or prepare. A human approves prices, promises, legal/health/finance answers and customer-sensitive replies. Use real screen recordings or clearly labelled concept demos. Do not imply a workflow is live if it is a sample.
 
-**AI must not make the account feel less honest.** The presenter is a disclosed production method. The advice, examples and business claims still need human review.
+### Series 5 and 8 — Two memes
 
-## 6. One post, one action
+One owner-life meme and one marketing/AI/client meme per day. Original text-led graphics or short videos. No stolen meme templates with unclear rights, no fake customer screenshots, no punching down at customers. The caption can add the useful lesson.
 
-| Intent | CTA pattern | Measurement |
-|---|---|---|
-| Useful discovery | “Save this for your next page review.” | Saves, shares, completion rate |
-| Start a conversation | “Which part is unclear on your page: the offer, the customer or the next step?” | Relevant comments and replies |
-| DIY buyer | “Message CLEAR on WhatsApp for the homepage pack.” | Keyword enquiries, confirmed purchases |
-| Custom project | “Send your business link and the problem you want to solve.” | Qualified briefs, agreed calls, proposals |
-| Trust | “Look at the sample and judge the thinking.” | Portfolio visits and substantive enquiries |
+### Series 6 and 9 — Two offer posts, one daily offer
 
-Do not ask for a save, comment, share, follow, website visit and purchase in the same post. TikTok captions should not rely on a clickable “link in bio” claim: check the actual profile-link eligibility and use the visible profile URL or WhatsApp instruction as appropriate.
+Feature one offer per day. Post A explains the problem and contents. Post B handles an objection, limitation or next step. Rotate the nine packs. Do not sell nine packs in one day.
 
-## 7. Cadence and scheduling
+Current source price: ₦5,000 per DIY pack. Confirm price, contents, payment and delivery before publishing. State what the pack does not do. Custom projects are separate.
 
-- **22 main posts across 30 calendar days:** one each weekday, including the final Monday and Tuesday.
-- **Eight weekend days:** no compulsory feed post. Reply, review, batch and schedule.
-- **Initial test slot:** 18:30 Africa/Lagos (WAT, UTC+1), weekdays. This is a consistent starting hypothesis, not a claim about the account's proven best time.
-- **First reuse:** Instagram at 19:00 only when the asset has been adapted and checked.
-- **Selective reuse:** eight Facebook and eight LinkedIn suggestions are supplied in the CSV. They are optional, not part of the 22-post commitment.
-- Review after the first two weeks. Change one variable at a time: hook, format or posting time. Do not declare a winner from a single post.
+### Series 7 — Steal This Copy Move
 
-TikTok's official web-scheduler announcement describes scheduling 15 minutes to 10 days ahead and says scheduled posts must be deleted and re-uploaded to change them. Check the current options and limits in your own account; do not assume the entire month can be queued natively. [1](https://ads.tiktok.com/business/en/blog/introducing-video-scheduler-now-you-can-plan-tiktoks-in-advance)
+Prompt: “Steal this copy move from [expert]: [principle]. Don’t steal their words. Steal the structure. Here is an original Easywurld example.”
 
-**Batch dates:** 1 November, 8 November, 15 November, 22 November and 29 November. The CSV is a planning sheet, not a file TikTok will automatically import or publish. No social account has been connected and nothing has been scheduled by this project.
+Break down the technique, not long copyrighted ads. Use short examples, attribute the source, and create a new Lagos/small-business example. Rotate Ogilvy, Schwartz, Sugarman, Halbert, Hopkins, Caples, Wiebe, Harry Dry and others. Marketing Examples and Copyhackers are useful modern reference points. [1](https://marketingexamples.com/) [1](https://copyhackers.com/about-us/)
 
-## 8. Weekly learning loop
+### Series 10 — Meet Easywurld
 
-1. **Before producing:** check the offer is deliverable, the demo is labelled, the contact route works and the claim has evidence.
-2. **After 24 hours:** record available reach/play counts, average watch time, completion rate where available, saves, shares, profile visits and relevant enquiries. Leave unavailable metrics blank.
-3. **After seven days:** count WhatsApp keyword enquiries and qualified briefs. A purchase or brief is more useful than an unqualified view count.
-4. **Choose the next test:** if people leave early, test the opening; if they watch but do not act, clarify the next step; if they ask the same question, answer it in a new post.
-5. **Keep a human reply window:** 15 minutes after publication when possible. Do not use an AI sales bot to answer price, delivery or legal questions without approved information and escalation.
+A new introduction every day, not the same bio repeated. Rotate: who we serve, what we do, how we work, what we don’t do, sample tour, process, AI policy, handover, pricing philosophy, how to brief us, what happens after you message, why we label samples, and what we are building.
 
-Do not publish “we got X clients this month” at the end unless the records support it. The last two posts are useful reflections and invitations, not pre-written success claims.
+## 4. Format mix
 
-## 9. AI likeness, disclosure and rights
+The series are the structure; the format changes inside them.
 
-**Current blocker:** no verified owner headshot or CV was found in the accessible repositories. `client/public/demo/img/founder-recording.jpg` belongs to a fictional demo and must not be used as the owner's likeness. No avatar or voice clone has been created.
+- AI talking head: niche plans, myths, offer explanations, copy lessons, introductions.
+- Screen demo: AI workflows, trend recaps, sample tours.
+- Carousel: niche plans, checklists, offer contents, copy breakdowns.
+- Original static/meme: two daily meme slots and some offer/intro posts.
+- Short text video: fast myths, trend verdicts, owner-life jokes.
 
-Before generation, obtain the correct owner photo and explicit permission for the intended likeness/voice use. Check the chosen provider's consent process, commercial-use terms, retention/deletion controls and export rights. A CV headshot is not automatically permission to publish a CV or animate a person. Keep identity documents and private CV details out of this public repository.
+Do not make every slot a talking head. The feed needs visual variety. The avatar is a production tool, not the entire brand.
 
-TikTok requires disclosure for realistic AI-generated images, audio or video, including a real person portrayed saying something they did not say. Its help page describes the **AI-generated content** setting under **More options** when posting. Turn it on for these avatar videos; also use the small persistent “AI presenter · Easywurld” label and the supplied caption disclosure. A caption alone is not a reason to skip the platform setting. [1](https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content)
+## 5. Platform adaptation
 
-For business content, use your own/licensed audio or TikTok's Commercial Music Library with the applicable placement and territory permissions. A trending personal-account sound is not automatically cleared for a brand or cross-platform reuse. [1](https://ads.tiktok.com/help/article/how-to-use-the-commercial-music-library)
+| Platform | Adaptation |
+|---|---|
+| TikTok | Native vertical video, spoken hook, fast first frame, captions, one CTA. Static memes can be photo posts or short text videos. |
+| Instagram | Reel or carousel depending on the idea. Carousel copy can be more structured. Check crop and safe areas. |
+| Facebook | Native text + image/video or carousel. Caption can be slightly more conversational. Do not just paste TikTok text with hashtags. |
 
-## 10. Launch gates
+One core idea can have three captions. The hook and CTA stay consistent; the wording and format fit the platform.
 
-- [ ] Confirm the business's current public handle, website URL, WhatsApp number and offer fulfilment.
-- [ ] Add the correct destination to the social profile; test it from a logged-out browser.
-- [ ] Supply and approve the owner's likeness; otherwise replace an AI-head slot with its supplied non-avatar fallback.
-- [ ] Review every script, price, product inclusion and sample label.
-- [ ] Produce the first week's assets; the Monday carousel does not depend on an avatar.
-- [ ] Check captions, pronunciation, crop, disclosure and audio on a phone.
-- [ ] Schedule only approved assets. Mark the sheet “Scheduled” after the platform confirms it.
-- [ ] Record actual post URLs and results; never pre-fill imagined analytics.
+## 6. AI talking-head rules
 
-**Start small enough to keep going.** Five useful posts and thoughtful replies are a better first month than hundreds of repetitive posts nobody has time to review.
+The owner wants AI talking heads. Use an approved owner likeness and voice, or a licensed provider avatar. No verified owner photo/CV was found in the accessible repos. The fictional demo founder image must not be used as the owner.
+
+TikTok requires disclosure for realistic AI-generated media, including a person portrayed saying something they did not say. Enable the platform AI setting and keep a visible label. [1](https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content)
+
+House style: chest-up, eye-level, natural light, restrained gestures, corrected phrase captions, one useful cutaway, no logo intro, no long end card. CapCut’s guidance supports meaningful jump cuts paired with reframes or cutaways rather than decorative transitions. [1](https://www.capcut.com/create/video-transitions-crossfade-hard-cut-jump-cut)
+
+Use own/licensed audio or TikTok’s Commercial Music Library with the applicable rights. A trending personal-account sound is not automatically cleared for a brand. [1](https://ads.tiktok.com/help/article/how-to-use-the-commercial-music-library)
+
+## 7. Production system for 10/day
+
+Batch by series, not by day.
+
+- **Sunday:** write/verify the week’s 70 core ideas. Record talking-head batches by series. Record screen demos. Design memes and carousels from templates.
+- **Daily:** assemble the 10 core posts, adapt captions, QA, schedule.
+- **Weekly:** review series performance, not just individual posts.
+
+Suggested batch blocks:
+
+1. Niche plans: 7 episodes.
+2. Myth Court: 7 episodes.
+3. Trend Desk: research + 7 recaps.
+4. AI Build: 7 workflows.
+5. Memes: 14 originals.
+6. Offer: one pack, 14 posts.
+7. Copy Move: 7 lessons.
+8. Meet Easywurld: 7 angles.
+
+This is heavy. Use templates, avatar batch generation, caption presets and a shared asset library. If a slot fails QA, hold it rather than publishing unreviewed AI. The volume target stays 10/day; quality control is not optional.
+
+## 8. Scheduling
+
+TikTok’s official scheduler announcement describes a 15-minute to 10-day window and says scheduled posts must be deleted and re-uploaded to change them. Check current availability in your account. [1](https://ads.tiktok.com/business/en/blog/introducing-video-scheduler-now-you-can-plan-tiktoks-in-advance)
+
+Meta Business Suite can schedule Facebook and Instagram, but limits and features vary by account and surface. Check the planner in your own account. Do not assume a CSV auto-publishes.
+
+The CSV in this repo is a production/planning sheet. Every row starts Draft. Mark Scheduled only after the platform confirms it. No social account is connected here.
+
+## 9. Measurement
+
+Review by series after 7 days:
+
+- Which series earns saves/shares?
+- Which earns watch time/completion?
+- Which earns profile visits and WhatsApp keyword enquiries?
+- Which offer gets qualified purchases or project briefs?
+- Which meme gets shares without attracting the wrong audience?
+
+Keep 10/day for the test, but change hooks, formats and angles based on evidence. Do not declare a winner from one post. Do not invent month-end results.
+
+## 10. Trust rules
+
+- All portfolio work is concept/sample. Label it.
+- No fake testimonials, rankings, client results or campaign metrics.
+- Hypothetical businesses/chats are labelled example.
+- DIY packs are not custom projects.
+- Trend posts need a dated source check.
+- Copywriting posts attribute the principle and use original examples.
+- AI presenters/voices are disclosed.
+- Private CVs, identity sources, customer messages and payment details stay out of public Git.
+
+## 11. Launch gates
+
+- [ ] Confirm handles, website URL, WhatsApp and offer fulfilment.
+- [ ] Supply approved owner likeness/voice or use non-avatar fallbacks.
+- [ ] Verify launch-week trends on 1 November.
+- [ ] Produce first 70 core posts / 210 platform adaptations.
+- [ ] QA captions, prices, disclosures, crops and audio rights.
+- [ ] Schedule only approved assets.
+- [ ] Record actual URLs and results afterwards.

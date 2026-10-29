@@ -1,25 +1,14 @@
-<html><body><h1>Easywurld Content Studio</h1>
-<p><b>Active campaign: 2 November–1 December 2026.</b> The October high-volume kit has been retired to <code>archive/2026-10/</code>.</p>
-<h2>Open these first</h2>
-<ol><li><code>../../marketing/STRATEGY.md</code> — the strategy before the posts.</li><li><code>../../marketing/CONTENT_PLAN.pdf</code> — readable calendar and complete briefs.</li><li><code>EASYWURLD_POST_COMMANDER.html</code> — offline Content Studio with Strategy, Calendar, Post briefs and Production tabs.</li><li><code>content_calendar.csv</code> — 22 primary posts and 31 explicitly optional reuses.</li></ol>
-<p>The offline file works without a server. Copy buttons, QA checks, notes and production statuses are local to the browser. Export a progress backup before changing devices. <b>It does not connect to TikTok, Instagram, Facebook or LinkedIn and does not schedule anything.</b></p>
-<h2>Active files</h2>
-<table><thead><tr><th>File</th><th>Purpose</th></tr></thead><tbody>
-<tr><td><code>EASYWURLD_POST_COMMANDER.html</code></td><td>Offline strategy-first planner, generated from the canonical JSON</td></tr>
-<tr><td><code>content_calendar.csv</code></td><td>Dated production/distribution sheet; every row starts Draft</td></tr>
-<tr><td><code>MONTH_POSTS.md</code></td><td>Full calendar and briefs, identical to the marketing calendar</td></tr>
-<tr><td><code>POSTING_PLAN.md</code></td><td>Current cadence and scheduling rules</td></tr>
-<tr><td><code>MEME_BANK.md</code></td><td>The two original scheduled static posts, not the old 37-meme plan</td></tr>
-<tr><td><code>EASYWURLD_DRIVE_INDEX.md</code></td><td>Repository file index; no claim that Drive has been synced</td></tr>
-<tr><td><code>CLAUDE_OFFERS_PROMPT.md</code></td><td>Existing offers-PDF prompt, retained unchanged</td></tr>
-<tr><td><code>EASYWURLD_OFFERS_MASTER.md</code> / PDF</td><td>Existing offer copy and booklet, retained</td></tr>
-</tbody></table>
-<p>The canonical source is <code>../../marketing/content-plan.json</code>. Edit it, then run <code>npm run content:build</code> and <code>npm run content:check</code>. Do not edit generated CSV/HTML/calendar files independently.</p>
+<html><body><h1>Easywurld Series Studio</h1>
+<p><b>Active campaign:</b> 2 November–1 December 2026 <b>Volume:</b> 10 core posts/day × TikTok, Instagram and Facebook = 30 placements/day. 300 core posts and 900 placements in total.</p>
+<h2>Open these</h2>
+<ol><li><code>EASYWURLD_POST_COMMANDER.html</code> — offline Series Studio: strategy, daily calendar, 300 briefs, per-platform status/QA, notes, weekly batches and CSV exports.</li><li><code>content_calendar.csv</code> — 900 placement rows, every row starting Draft.</li><li><code>MONTH_POSTS.md</code> — the full calendar and all 300 briefs, identical to the marketing calendar.</li><li><code>MEME_BANK.md</code> — all 60 original memes with exact copy, captions and asset paths.</li><li><code>POSTING_PLAN.md</code> — cadence, times, platform adaptation and scheduling rules.</li><li><code>EASYWURLD_DRIVE_INDEX.md</code> — repository file index; no claim that Google Drive has been synced.</li><li><code>CLAUDE_OFFERS_PROMPT.md</code> — existing offers-PDF prompt, retained unchanged.</li><li><code>EASYWURLD_OFFERS_MASTER.md</code> / PDF — existing offer copy and booklet, retained.</li></ol>
+<p>Canonical editorial source: <code>../../marketing/series-plan.json</code>. Generated data: <code>../../marketing/content-plan.json</code>. Edit the source, then run <code>npm run content:build</code> and <code>npm run content:check</code>. Do not edit generated CSV/HTML/calendar files independently.</p>
+<h2>What the offline app does</h2>
+<ul><li>Shows the 10 series and the rationale/risks of the 10-a-day plan.</li><li>Opens any of the 30 days, with 10 core slots and three platform placements per slot.</li><li>Filters by day, series and platform.</li><li>Searches all 300 briefs.</li><li>Copies the core script, the selected platform caption, the prompt or the full placement brief.</li><li>Tracks status, six/seven QA checks and notes separately for each platform placement.</li><li>Exports all 900 placements or one week as CSV.</li><li>Exports/imports a local progress backup.</li><li>Contains no social credentials, publishing API or automatic scheduler.</li></ul>
 <h2>Publishing shape</h2>
-<ul><li>One main post per weekday at 18:30 Africa/Lagos.</li><li>10 AI talking heads, 5 screen demos, 5 carousels, 2 original static posts.</li><li>Eight weekend days for replies, review and batching.</li><li>Optional Instagram reuses at 19:00; selective Facebook/LinkedIn suggestions at 19:15.</li><li>53 CSV rows total: 22 primary + 31 optional. These are not 53 compulsory posts.</li></ul>
-<p>See <code>../../marketing/PRODUCTION.md</code> for the weekly batches and platform checks. Native scheduling availability and windows vary; the CSV is not an auto-publishing import.</p>
+<ul><li>10 core posts/day, starting 07:00 WAT and ending 20:30 WAT.</li><li>TikTok at the slot time; Instagram +10 minutes; Facebook +20 minutes.</li><li>One ₦5,000 DIY pack featured per day, with two angles.</li><li>Trend Desk placements are held until the verification log is complete.</li><li>All 900 placements start Draft. The CSV is not an auto-publishing import.</li></ul>
+<p>See <code>../../marketing/PRODUCTION.md</code> for batch, editing, trend, QA and scheduling rules.</p>
 <h2>Avatar gate</h2>
-<p>No verified owner headshot or CV was found in the accessible repos. Do not animate the fictional <code>client/public/demo/img/founder-recording.jpg</code>. Supply the correct owner-approved source and permission before generating a personal avatar or voice. The Monday carousel and non-avatar fallbacks can proceed without it.</p>
+<p>No verified owner headshot or CV was found in the accessible repos. Do not animate the fictional <code>client/public/demo/img/founder-recording.jpg</code>. Supply the correct owner-approved source and permission before generating a personal avatar or voice. The meme, carousel, screen-demo and static fallbacks can proceed without it.</p>
 <h2>Honesty rules</h2>
-<ul><li>Label every portfolio demo concept/sample.</li><li>No invented client results, testimonials, rankings or guarantees.</li><li>DIY packs are not custom projects; confirm current price and fulfilment.</li><li>Disclose realistic AI presenters/voices and keep private customer information out of prompts.</li><li>If a slot is missed, skip it rather than stacking catch-up posts.</li></ul>
-<p>The old daily scripts, ZIP, launch PDFs and 1,140-row source plan remain in the archive for reference only. They are not the current calendar.</p></body></html>
+<ul><li>Label every portfolio demo concept/sample.</li><li>No invented client results, testimonials, rankings or guarantees.</li><li>DIY packs are not custom projects; confirm current price and fulfilment.</li><li>Disclose realistic AI presenters/voices and keep private customer information out of prompts.</li><li>Verify trends before claiming anything is current.</li><li>If a slot is missed, skip it rather than stacking catch-up posts.</li></ul></body></html>

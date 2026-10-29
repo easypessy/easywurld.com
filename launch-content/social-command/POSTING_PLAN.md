@@ -1,46 +1,48 @@
 # Easywurld posting plan — November 2026
 
-**Read the full strategy:** `../../marketing/STRATEGY.md`.
+**Read the full strategy:** `../../marketing/STRATEGY.md` and `../../marketing/SERIES_PLAYBOOK.md`.
 
 ## Active commitment
 
-22 main posts across the 30 days from Monday 2 November to Tuesday 1 December 2026. One post per weekday at 18:30 Africa/Lagos (WAT, UTC+1). Eight weekend days are reserved for replies, review and batching.
+**10 core posts a day, every day, 2 November–1 December 2026**, adapted to TikTok, Instagram and Facebook. That is **30 placements a day**, **300 core posts** and **900 placements** across 30 days.
 
-This replaces the October plan's 37/38 platform posts per day. Volume is no longer the goal; useful, reviewed content and relevant enquiries are.
+This replaces the reduced 22-post plan. The owner wants the high-volume series-led channel, but the volume works only if every slot has a distinct job and QA is real.
 
-## Format and pillar mix
+## Daily slots
 
-- AI talking head: 10
-- Screen demo: 5
-- Carousel: 5
-- Original relatable static: 2
+| Slot | WAT | Series | Default format |
+|---:|---|---|---|
+| 1 | 07:00 | If I ran this account | Carousel |
+| 2 | 08:30 | Marketing Myth Court | AI talking head |
+| 3 | 10:00 | Trend Desk | Screen demo / dated teardown |
+| 4 | 11:30 | AI Automation Build | Screen demo or workflow carousel |
+| 5 | 13:00 | Meme: owner life | Original static |
+| 6 | 14:30 | Offer Spotlight A | Carousel |
+| 7 | 16:00 | Steal This Copy Move | Carousel |
+| 8 | 17:30 | Meme: marketing / AI / clients | Original static |
+| 9 | 19:00 | Offer Spotlight B | AI talking head |
+| 10 | 20:30 | Meet Easywurld | Rotating |
 
-Pillars: Teach 9, Trust 6, Show 4, Offer 3. Every brief names the audience problem, objective and one CTA.
+Platform offsets: Instagram +10 minutes, Facebook +20 minutes. These are starting test times, not proven best times.
 
-## Distribution
+## Offer rotation
 
-TikTok is the primary video destination. Instagram is the primary carousel/static destination and an optional video reuse. The CSV contains 22 primary rows and 31 optional rows: 15 Instagram, 8 Facebook and 8 LinkedIn. Optional means optional; do not turn the plan back into a daily spam schedule.
+One DIY pack per day, two angles. PLAYBOOK, CLEAR, ENGINE, PAGE, LOCAL, MESSAGE, PROMPTS, TEMPLATES and LAUNCH rotate across the month. Current source price: ₦5,000. Confirm contents, payment and fulfilment before publishing.
 
 ## Weekly batches
 
-- 1 November: EW-001–005
-- 8 November: EW-008–012
-- 15 November: EW-015–019
-- 22 November: EW-022–026
-- 29 November: EW-029–030
-
-Produce, review facts, check captions/disclosure, watch on a phone, then schedule only approved assets. The first Monday carousel does not depend on the owner avatar.
+Create 70 core posts and 210 placements per week. Batch by series: seven niche plans, seven myths, seven trend teardowns, seven AI workflows, 14 memes, 14 offer posts, seven copy moves and seven intros. Trend candidates must be verified before the batch is scheduled.
 
 ## Scheduling
 
-TikTok's official scheduler announcement describes scheduling 15 minutes to 10 days ahead on the web upload flow. Check the current options in your account rather than assuming the whole month can be queued. The announcement says scheduled posts cannot be edited; delete and re-upload to change them. [1](https://ads.tiktok.com/business/en/blog/introducing-video-scheduler-now-you-can-plan-tiktoks-in-advance)
-
-For realistic AI presenters/voices, enable the platform's AI-generated disclosure. TikTok's help page describes the setting under More options in the app. Keep the small on-video label and caption context too. [1](https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content)
-
-Use the native planners available to your accounts for optional reuses. Confirm timezone, crop, audio rights and disclosure. The CSV is a planning sheet, not an import that publishes posts. The offline Content Studio records local progress only.
+- TikTok at the slot time. The official scheduler announcement describes a 15-minute to 10-day window and says scheduled posts cannot be edited; check current limits in your account. [1](https://ads.tiktok.com/business/en/blog/introducing-video-scheduler-now-you-can-plan-tiktoks-in-advance)
+- Instagram and Facebook: use Meta Business Suite/native planning; limits vary by account. [1](https://www.facebook.com/business/help/1170295510042639)
+- Enable AI disclosure for realistic synthetic presenters/voices. [1](https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content)
+- Do not bypass caps or use unauthorised automation. If a cap is reached, hold the remaining queue.
+- Mark Scheduled only after the platform confirms. Paste the actual URL in the app/CSV.
 
 ## Review
 
-Record available watch time, completion, saves, shares, profile visits and real enquiries in `../../marketing/MEASUREMENT.csv`. Leave unavailable metrics blank. Compare similar formats and change one variable at a time. Do not publish an invented month-end success story.
+Record available watch time, completion, saves, shares, profile visits and real enquiries in `../../marketing/MEASUREMENT.csv`. Compare by series after seven days. Leave unavailable metrics blank. Do not publish an invented month-end success story.
 
-Full production and scheduling instructions: `../../marketing/PRODUCTION.md`.
+Full production instructions: `../../marketing/PRODUCTION.md`.
