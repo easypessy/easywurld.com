@@ -1,401 +1,61 @@
-
-/* Easywurld Post Commander — app logic.
-   The data block below is injected by build/build-kit.mjs from content/days-*.json. */
-var DATA = /*__DATA__*/;
-
-/* ---------------- state ---------------- */
-var KEY_DONE = "eww_done_v2", KEY_NOTE = "eww_note_v2", KEY_DAY = "eww_day_v2",
-    KEY_OPEN = "eww_open_v2", KEY_START = "eww_start_v2";
-var done = {}, notes = {}, open = {}, dayIdx = 0, filter = "all", startDate = "";
-
-var PLAT = {
-  tiktok: { label: "TikTok", cls: "tt" },
-  instagram: { label: "Instagram", cls: "ig" },
-  facebook: { label: "Facebook", cls: "fb" },
-  linkedin: { label: "LinkedIn", cls: "li" }
-};
-var WD = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
-var WD_LONG = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
-var MO = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-
-function load() {
-  try { done = JSON.parse(localStorage.getItem(KEY_DONE) || "{}"); } catch (e) { done = {}; }
-  try { notes = JSON.parse(localStorage.getItem(KEY_NOTE) || "{}"); } catch (e) { notes = {}; }
-  try { open = JSON.parse(localStorage.getItem(KEY_OPEN) || "{}"); } catch (e) { open = {}; }
-  try { var d = parseInt(localStorage.getItem(KEY_DAY), 10); if (!isNaN(d)) dayIdx = d; } catch (e) {}
-  startDate = localStorage.getItem(KEY_START) || (DATA.meta && DATA.meta.startDate) || "2026-10-19";
-  if (dayIdx < 0 || dayIdx >= DATA.days.length) dayIdx = 0;
+/* Easywurld Content Studio. Offline planning only; no publishing API. */
+var DATA = /*__DATA__*/ null;
+(function(){
+'use strict';
+const KEY='easywurld-content-v3';
+let state={checks:{},notes:{},status:{}};
+try{const saved=JSON.parse(localStorage.getItem(KEY)||'null');if(saved&&typeof saved==='object')state={checks:saved.checks||{},notes:saved.notes||{},status:saved.status||{}};}catch(e){}
+let view='strategy',selected='EW-001',filter='all',query='';
+const content=document.getElementById('content');
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const post=id=>DATA.posts.find(p=>p.id===id);
+const dayFor=p=>DATA.days[p.day-1];
+const dateLabel=d=>d.weekday+' '+Number(d.iso.slice(8))+' '+(d.iso.slice(5,7)==='11'?'Nov':'Dec');
+const status=p=>state.status[p.id]||'Draft';
+const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(state));}catch(e){toast('Browser storage unavailable. Export a backup.');}};
+function toast(text){const t=document.getElementById('toast');t.textContent=text;t.style.display='block';clearTimeout(t.timer);t.timer=setTimeout(()=>t.style.display='none',2400);}
+async function copy(text){try{if(!navigator.clipboard)throw Error();await navigator.clipboard.writeText(text);toast('Copied');}catch(e){document.getElementById('copyText').value=text;document.getElementById('copyDialog').showModal();document.getElementById('copyText').select();}}
+const script=p=>p.script||(p.slides||[]).map((s,i)=>'Slide '+(i+1)+': '+s).join('\n\n')||p.staticCopy||'';
+const disclosure=p=>p.format==='Screen demo'?'AI voice · Easywurld':'AI presenter · Easywurld';
+const checkList=p=>['Facts, price, offer and sample labels checked','Approved likeness/voice or non-avatar fallback','Captions, pronunciation, crop and disclosure checked','One CTA and destination tested','Watched on a phone; human approval recorded'];
+function checked(p,i){return !!state.checks[p.id+':'+i];}
+function readyCount(p){return checkList(p).filter((_,i)=>checked(p,i)).length;}
+function badge(p){return '<span class="badge">'+esc(p.format)+'</span><span class="badge">'+esc(p.pillar)+'</span><span class="badge">'+esc(p.primary)+'</span>';}
+function render(){
+ document.querySelectorAll('nav button').forEach(b=>{b.classList.toggle('active',b.dataset.view===view);b.setAttribute('aria-current',b.dataset.view===view?'page':'false');});
+ if(view==='strategy')renderStrategy();if(view==='plan')renderPlan();if(view==='briefs')renderBriefs();if(view==='produce')renderProduction();
 }
-function save() {
-  localStorage.setItem(KEY_DONE, JSON.stringify(done));
-  localStorage.setItem(KEY_NOTE, JSON.stringify(notes));
-  localStorage.setItem(KEY_OPEN, JSON.stringify(open));
-  localStorage.setItem(KEY_DAY, String(dayIdx));
-  localStorage.setItem(KEY_START, startDate);
+function renderStrategy(){
+ content.innerHTML='<p class="eyebrow" style="margin-top:28px">Strategy before volume</p><h1>Make the message, page, content and follow-up agree.</h1><p class="muted">For owner-led small businesses in Lagos and across Nigeria. The goal is relevant enquiries and well-matched pack sales, not posting for its own sake.</p><div class="stats"><div class="stat"><strong>22</strong>main weekday posts</div><div class="stat"><strong>4</strong>formats</div><div class="stat"><strong>8</strong>weekend review/batch days</div><div class="stat"><strong>1</strong>action per post</div></div><div class="notice"><strong>Draft plan, not a live queue.</strong> No social account is connected. The owner avatar is blocked until a verified photo and explicit likeness/voice permission are supplied. Never use the fictional demo founder as the owner.</div><h2>The four pillars</h2><div class="grid"><div class="card"><span class="eyebrow">9 posts</span><h3>Teach</h3><p>Answer one recognisable problem: an unclear offer, a price-only reply, a confusing page or a scattered content plan.</p></div><div class="card"><span class="eyebrow">4 posts</span><h3>Show</h3><p>Record actual portfolio samples and the new planning workflow. Make the thinking visible without inventing results.</p></div><div class="card"><span class="eyebrow">6 posts</span><h3>Trust</h3><p>Explain sample labels, AI review, ownership and when a prospect does not need a custom project yet.</p></div><div class="card"><span class="eyebrow">3 posts</span><h3>Offer</h3><p>Match the resource to the problem. State actual contents, price and exclusions. DIY is not done-for-you.</p></div></div><h2>Format mix</h2><div class="table-wrap"><table><thead><tr><th>Format</th><th>Count</th><th>Job</th></tr></thead><tbody><tr><td>AI talking head</td><td>10</td><td>Direct explanation, useful point of view, transparent offer.</td></tr><tr><td>Screen demo</td><td>5</td><td>Readable evidence from actual samples and the calendar.</td></tr><tr><td>Carousel</td><td>5</td><td>Checklists, sequences and comparisons.</td></tr><tr><td>Relatable static</td><td>2</td><td>Recognition followed by a useful action.</td></tr></tbody></table></div><h2>The talking-head pattern</h2><div class="card"><p><strong>First frame:</strong> face and problem already visible. No logo intro.</p><p><strong>0–3 seconds:</strong> say the specific hook.</p><p><strong>Middle:</strong> one fix, then one relevant worksheet or screen cutaway.</p><p><strong>End:</strong> one takeaway and one action. No long end card.</p><p class="small muted">Chest-up, eye-level, natural light, restrained gestures, corrected captions. Disclose realistic AI presenters and synthetic voices. These are house creative choices, not a guarantee of reach.</p></div><h2>Publishing hypothesis</h2><p>One main post each weekday at <strong>18:30 WAT</strong>. Optional Instagram reuse at 19:00; eight selective Facebook and eight LinkedIn suggestions. Review after two weeks and change one variable at a time.</p><div class="actions"><button class="btn" data-go="plan">Open the calendar</button><button class="btn secondary" data-go="briefs">Read the first brief</button></div>';
 }
-function esc(s) {
-  return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+function renderPlan(){
+ let html='<h1>The 30-day run</h1><p class="muted">2 November–1 December 2026. One main post per weekday. Weekend tasks are operational, not extra publishing obligations.</p><div class="filters"><label>Format <select id="formatFilter"><option value="all">All formats</option>'+Object.keys(DATA.counts.formats).map(f=>'<option '+((filter===f)?'selected':'')+'>'+esc(f)+'</option>').join('')+'</select></label></div><div class="card">';
+ for(const d of DATA.days){const p=d.post;if(filter!=='all'&&(!p||p.format!==filter))continue;html+='<div class="dayrow '+((p)?'':'weekend')+'"><div><span class="eyebrow">Day '+d.day+'</span><br><strong>'+esc(dateLabel(d))+'</strong><br><span class="small muted">'+(p?DATA.time+' WAT':'No feed post')+'</span></div><div>'+(p?'<button data-post="'+p.id+'">'+p.id+' · '+esc(p.topic)+'</button><br><span class="small muted">'+esc(p.format)+' · '+esc(p.pillar)+' · '+esc(p.primary)+'</span>':'<strong>'+esc(d.weekend.task)+'</strong><p class="small muted" style="margin:5px 0">'+esc(d.weekend.detail)+'</p>')+'</div><div class="status">'+(p?esc(status(p)):'Review / batch')+'</div></div>';}
+ content.innerHTML=html+'</div>';
+ document.getElementById('formatFilter').onchange=e=>{filter=e.target.value;renderPlan();};
 }
-function toast(msg) {
-  var t = document.getElementById("toast");
-  t.textContent = msg; t.classList.add("show");
-  clearTimeout(t._t); t._t = setTimeout(function () { t.classList.remove("show"); }, 1700);
+function renderBriefs(){
+ const p=post(selected)||DATA.posts[0];const d=dayFor(p);
+ let html='<h1>Post briefs</h1><div class="filters"><label>Post <select id="postSelect">'+DATA.posts.map(x=>'<option value="'+x.id+'" '+((x.id===p.id)?'selected':'')+'>'+x.id+' · '+esc(x.topic)+'</option>').join('')+'</select></label><label>Search <input id="search" value="'+esc(query)+'" placeholder="Topic or problem"></label></div>';
+ if(query){const matches=DATA.posts.filter(x=>(x.topic+' '+x.problem+' '+x.format).toLowerCase().includes(query.toLowerCase()));html+='<div class="card"><strong>'+matches.length+' matching briefs</strong>'+matches.map(x=>'<p><button class="btn secondary" data-post="'+x.id+'">'+x.id+' · '+esc(x.topic)+'</button></p>').join('')+'</div>';}
+ html+='<article class="card"><div class="card-head"><div><span class="eyebrow">'+p.id+' · '+esc(dateLabel(d))+' · '+DATA.time+' WAT</span><h2>'+esc(p.topic)+'</h2>'+badge(p)+'</div><label class="small">Production status<br><select id="statusSelect">'+['Draft','Script approved','Asset produced','QA approved','Scheduled','Published','Reviewed'].map(s=>'<option '+((s===status(p))?'selected':'')+'>'+s+'</option>').join('')+'</select></label></div><p class="hook">“'+esc(p.hook)+'”</p><p><strong>Audience problem:</strong> '+esc(p.problem)+'</p><p><strong>Objective:</strong> '+esc(p.objective)+'</p><p><strong>One CTA:</strong> '+esc(p.cta)+'</p><div class="notice">'+(p.aiDisclosure?'Planned disclosure: <strong>'+esc(disclosure(p))+'</strong>. Enable the platform AI setting and keep the label visible.':'No realistic synthetic presenter/voice planned. Reassess disclosure if the production method changes.')+'<br>Expected asset: <code>assets/'+p.id+'/'+p.asset+'</code>. This is a production target, not a claim that the file exists.</div><div class="block"><h4>'+((p.script)?'Exact script':(p.slides)?'Exact slide copy':'Exact image copy')+'</h4><p>'+esc(script(p))+'</p></div>';
+ if(p.beats)html+='<div class="block"><h4>Shot / edit order</h4><ul>'+p.beats.map(b=>'<li>'+esc(b)+'</li>').join('')+'</ul></div>';
+ html+='<div class="block"><h4>Caption</h4><p>'+esc(p.caption)+'</p></div><div class="actions"><button class="btn" data-copy="script" data-id="'+p.id+'">Copy script / slides</button><button class="btn secondary" data-copy="caption" data-id="'+p.id+'">Copy caption</button><button class="btn secondary" data-copy="all" data-id="'+p.id+'">Copy full brief</button></div><div class="block"><h4>Visual direction</h4><p>'+esc(p.visual)+'</p><p>'+esc(p.edit)+'</p></div><details><summary>Filled production prompt</summary><p class="prompt">'+esc(p.prompt)+'</p><button class="btn secondary" data-copy="prompt" data-id="'+p.id+'">Copy prompt</button></details><details><summary>Fallback and optional reuse</summary><p>'+esc(p.fallback)+'</p>'+(p.reuse.instagram?'<p>Optional Instagram reuse: 19:00 WAT. Adapt crop, rights and disclosure.</p>':'')+['facebook','linkedin'].map(k=>p.reuse[k]?'<h4>'+esc(k)+'</h4><p>'+esc(p.reuse[k])+'</p>':'').join('')+'</details><details><summary>Destination and source</summary><p>Verify before publishing: <a href="'+esc(DATA.site+p.route)+'" target="_blank" rel="noopener">'+esc(DATA.site+p.route)+'</a></p>'+(p.demoPath?'<p>Record the real source: <code>'+esc(p.demoPath)+'</code></p>':'')+(p.sourcePath?'<p>Record: <code>'+esc(p.sourcePath)+'</code></p>':'')+'<p>WhatsApp: '+esc(DATA.whatsapp)+'</p></details><div class="block"><h4>Human QA · '+readyCount(p)+'/5</h4>'+checkList(p).map((text,i)=>'<label class="check"><input type="checkbox" data-check="'+i+'" data-id="'+p.id+'" '+(checked(p,i)?'checked':'')+'><span>'+esc(text)+'</span></label>').join('')+'</div><div class="block"><h4>Production notes</h4><textarea data-note="'+p.id+'" placeholder="Asset location, reviewer, pronunciation notes. Do not store private customer data.">'+esc(state.notes[p.id]||'')+'</textarea></div><p class="small muted">Changing this status does not schedule a post. Mark Scheduled only after the platform confirms it.</p></article>';
+ content.innerHTML=html;
+ document.getElementById('postSelect').onchange=e=>{selected=e.target.value;query='';renderBriefs();window.scrollTo(0,0);};
+ document.getElementById('search').oninput=e=>{query=e.target.value;renderBriefs();const input=document.getElementById('search');input.focus();input.setSelectionRange(query.length,query.length);};
+ document.getElementById('statusSelect').onchange=e=>{const value=e.target.value;if(['Scheduled','Published'].includes(value)&&readyCount(p)<5&&!confirm('The five QA checks are not all complete. Record this status anyway?')){e.target.value=status(p);return;}state.status[p.id]=value;save();toast('Local status saved — not a social scheduling action');};
+ content.querySelectorAll('[data-check]').forEach(el=>el.onchange=()=>{state.checks[el.dataset.id+':'+el.dataset.check]=el.checked;save();renderBriefs();});
+ content.querySelectorAll('[data-note]').forEach(el=>el.onchange=()=>{state.notes[el.dataset.note]=el.value;save();toast('Note saved locally');});
 }
-
-/* ---------------- dates ---------------- */
-function parseISO(s) { var p = String(s).split("-"); return new Date(+p[0], +p[1] - 1, +p[2]); }
-function addDays(d, n) { var x = new Date(d.getTime()); x.setDate(x.getDate() + n); return x; }
-function dateFor(i) { return addDays(parseISO(startDate), i); }
-function dateLabel(d) { return WD_LONG[(d.getDay() + 6) % 7] + " " + d.getDate() + " " + MO[d.getMonth()] + " " + d.getFullYear(); }
-function dateShort(d) { return d.getDate() + " " + MO[d.getMonth()]; }
-function isoOf(d) {
-  return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+function renderProduction(){
+ const approved=DATA.posts.filter(p=>readyCount(p)===5).length;
+ content.innerHTML='<h1>Produce in weekly batches</h1><p class="muted">Strategy → script approval → asset → QA → schedule → review. The first Monday post is a carousel, so the launch does not depend on an avatar.</p><div class="stats"><div class="stat"><strong>'+approved+'/22</strong>briefs with all QA checks</div><div class="stat"><strong>'+DATA.posts.filter(p=>status(p)==='Scheduled').length+'</strong>manually marked Scheduled</div></div><div class="notice"><strong>Avatar gate:</strong> '+esc(DATA.avatarStatus)+'</div><h2>The batch rhythm</h2><div class="card"><p><strong>1 Nov:</strong> EW-001–005 · launch batch</p><p><strong>8 Nov:</strong> EW-008–012 · trust and follow-up</p><p><strong>15 Nov:</strong> EW-015–019 · website, local visibility and AI</p><p><strong>22 Nov:</strong> EW-022–026 · offers and the content system</p><p><strong>29 Nov:</strong> EW-029–030 · review and next step</p></div><h2>Editing checklist</h2><div class="card"><ol><li>Approve the facts and read the script aloud.</li><li>Generate short avatar sections only from the approved owner source, or use the fallback.</li><li>Record real demos at a readable crop; keep the concept/sample label.</li><li>Trim the empty intro and long pauses. Add one useful cutaway.</li><li>Correct captions. Keep essential text clear of the platform UI.</li><li>Add the persistent AI label where needed; enable the platform disclosure.</li><li>Export 1080×1920 MP4, 30 fps. Watch with sound, muted and at thumbnail size.</li><li>Test the CTA destination. Schedule only the approved asset.</li></ol><p class="small muted">The safe-area guide is conservative, not an official platform guarantee. Always check the actual preview.</p></div><h2>Scheduling reality</h2><p>TikTok’s official scheduler announcement describes a 15-minute to 10-day window. Check the current options in your account. A CSV is a planning sheet, not a native auto-publishing import. This app has no publishing connection.</p><h2>Keep a backup</h2><div class="actions"><button class="btn" id="export">Export progress</button><button class="btn secondary" id="import">Import progress</button><input type="file" id="importFile" accept="application/json" class="hide"></div><p class="small muted">Exports contain checkmarks, notes and manually recorded statuses only. They do not contain social credentials or publish anything.</p>';
+ document.getElementById('export').onclick=()=>{const blob=new Blob([JSON.stringify({app:'easywurld-content-studio',version:3,campaign:DATA.startDate,...state},null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='easywurld-progress.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);toast('Progress exported');};
+ document.getElementById('import').onclick=()=>document.getElementById('importFile').click();
+ document.getElementById('importFile').onchange=e=>{const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{const j=JSON.parse(r.result);if(j.app!=='easywurld-content-studio'||j.version!==3||j.campaign!==DATA.startDate)throw Error();if(!confirm('Replace local checkmarks, notes and statuses with this backup?'))return;state={checks:j.checks||{},notes:j.notes||{},status:j.status||{}};save();renderProduction();toast('Progress imported');}catch(err){toast('Not a matching Content Studio backup');}};r.readAsText(f);};
 }
-function todayIndex() {
-  var t = new Date(); t.setHours(0, 0, 0, 0);
-  for (var i = 0; i < DATA.days.length; i++) {
-    if (dateFor(i).getTime() === t.getTime()) return i;
-  }
-  return -1;
-}
-
-/* ---------------- schedule ---------------- */
-function slotsForDay(d) {
-  var out = [], p, i, times = DATA.times;
-  for (p in PLAT) {
-    if (!PLAT.hasOwnProperty(p)) continue;
-    var list = [];
-    for (i = 0; i < d.posts.length; i++) if (d.posts[i][p]) list.push(d.posts[i]);
-    list.forEach(function (post, idx) {
-      var t = (times[p] && times[p][idx]) ? times[p][idx] : "";
-      if (p === "linkedin" && post.liBonus) t = post.liBonus;
-      out.push({ time: t, platform: p, post: post, key: post.id + ":" + p });
-    });
-  }
-  out.sort(function (a, b) {
-    return a.time < b.time ? -1 : a.time > b.time ? 1 : (a.platform < b.platform ? -1 : 1);
-  });
-  return out;
-}
-function minutes(t) { var a = t.split(":"); return (+a[0]) * 60 + (+a[1]); }
-function nextUp(slots) {
-  var now = new Date(), n = now.getHours() * 60 + now.getMinutes();
-  for (var i = 0; i < slots.length; i++) if (!done[slots[i].key] && minutes(slots[i].time) >= n) return slots[i];
-  for (var j = 0; j < slots.length; j++) if (!done[slots[j].key]) return slots[j];
-  return null;
-}
-
-/* ---------------- copy ---------------- */
-function copyText(text, label) {
-  if (!text) { toast("Nothing to copy"); return; }
-  var t = String(text);
-  if (navigator.clipboard && navigator.clipboard.writeText) {
-    navigator.clipboard.writeText(t).then(
-      function () { toast("Copied: " + label); },
-      function () { fallbackCopy(t, label); }
-    );
-  } else fallbackCopy(t, label);
-}
-function fallbackCopy(t, label) {
-  var ta = document.createElement("textarea");
-  ta.value = t; ta.setAttribute("readonly", "");
-  ta.style.position = "fixed"; ta.style.top = "0"; ta.style.left = "0"; ta.style.opacity = "0";
-  document.body.appendChild(ta); ta.focus(); ta.select(); ta.setSelectionRange(0, ta.value.length);
-  var ok = false;
-  try { ok = document.execCommand("copy"); } catch (e) {}
-  document.body.removeChild(ta);
-  if (ok) { toast("Copied: " + label); }
-  else {
-    document.getElementById("dlgTitle").textContent = label;
-    document.getElementById("dlgText").value = t;
-    var d = document.getElementById("dlg");
-    if (d.showModal) d.showModal(); else d.setAttribute("open", "");
-  }
-}
-function fullText(s) {
-  var p = s.post, out = [];
-  if (s.platform === "tiktok") {
-    out.push(p.tiktok.hook, "---", p.tiktok.beats.join("\n"), "", "VOICEOVER:", p.tiktok.vo, "", "CAPTION:", p.tiktok.cap, p.tiktok.tags.join(" "));
-  } else if (s.platform === "instagram") {
-    out.push(p.instagram.slides.join("\n"), "", "CAPTION:", p.instagram.cap, p.instagram.tags.join(" "));
-  } else if (s.platform === "facebook") {
-    out.push(p.facebook.body);
-  } else {
-    out.push(p.linkedin.body);
-  }
-  return out.join("\n");
-}
-function copyPost(key) { var s = findSlot(key); if (s) copyText(fullText(s), PLAT[s.platform].label); }
-function copyField(key, field) {
-  var s = findSlot(key); if (!s) return;
-  var p = s.post, v = "";
-  if (field === "vo") v = p.tiktok.vo;
-  else if (field === "cap") v = s.platform === "tiktok" ? p.tiktok.cap : p.instagram.cap;
-  else if (field === "body") v = s.platform === "facebook" ? p.facebook.body : p.linkedin.body;
-  else if (field === "slides") v = p.instagram.slides.join("\n\n");
-  copyText(v, field);
-}
-function findSlot(key) {
-  var slots = slotsForDay(DATA.days[dayIdx]);
-  for (var i = 0; i < slots.length; i++) if (slots[i].key === key) return slots[i];
-  return null;
-}
-
-/* ---------------- render: day ---------------- */
-function renderToday() {
-  var d = DATA.days[dayIdx], slots = slotsForDay(d), dt = dateFor(dayIdx);
-  var doneCount = slots.filter(function (s) { return done[s.key]; }).length;
-  document.getElementById("bar").style.width = (slots.length ? doneCount / slots.length * 100 : 0) + "%";
-  document.getElementById("progTxt").textContent = doneCount + " of " + slots.length + " done";
-  document.getElementById("dayTxt").textContent = dateLabel(dt);
-
-  var h = "";
-  h += '<div class="dayscroll">';
-  var ti = todayIndex();
-  DATA.days.forEach(function (dd, i) {
-    var s = slotsForDay(dd), c = s.filter(function (x) { return done[x.key]; }).length;
-    var cls = "daybtn" + (i === dayIdx ? " today" : "") + (c === s.length && s.length ? " done" : "");
-    h += '<button class="' + cls + '" onclick="setDay(' + i + ')"><b>' + dateShort(dateFor(i)) + '</b>' +
-      WD[(dateFor(i).getDay() + 6) % 7] + (i === ti ? ' <span class="dot"></span>' : "") +
-      (c === s.length && s.length ? "<br>" + c + "/" + s.length : "") + "</button>";
-  });
-  h += "</div>";
-
-  h += '<div class="chips">';
-  ["all", "tiktok", "instagram", "facebook", "linkedin", "left"].forEach(function (f) {
-    var nm = f === "all" ? "All " + slots.length : f === "left" ? "Not done" : PLAT[f].label;
-    h += '<button class="chip' + (filter === f ? " on" : "") + '" onclick="setFilter(\'' + f + '\')">' + nm + "</button>";
-  });
-  h += "</div>";
-
-  var nu = nextUp(slots);
-  if (nu) {
-    h += '<h2 class="sechead">Next up <small>' + nu.time + " · " + PLAT[nu.platform].label + "</small></h2>";
-    h += cardHTML(nu);
-  }
-  h += '<h2 class="sechead">' + esc(d.theme) + " <small>" + esc(d.offer) + "</small></h2>";
-  var shown = 0;
-  slots.forEach(function (s) {
-    if (filter !== "all" && filter !== "left" && s.platform !== filter) return;
-    if (filter === "left" && done[s.key]) return;
-    shown++; h += cardHTML(s);
-  });
-  if (!shown) h += '<p class="mini">Nothing here. Tap All to see everything for this day.</p>';
-  document.getElementById("viewToday").innerHTML = h;
-  bindNotes();
-}
-
-function cardHTML(s) {
-  var p = s.post, isOpen = !!open[s.key], isDone = !!done[s.key];
-  var h = '<div class="card' + (isOpen ? " open" : "") + (isDone ? " done" : "") + '" id="c_' + s.key.replace(/[^a-z0-9]/gi, "") + '">';
-  h += '<div class="chead" onclick="toggleCard(\'' + s.key + '\')">';
-  h += '<div style="min-width:0;flex:1">';
-  h += '<div><span class="badge ' + PLAT[s.platform].cls + '">' + PLAT[s.platform].label + "</span> <span class=\"time\">" + s.time + (p.liOpt ? " · optional" : "") + "</span></div>";
-  h += '<div class="ctitle">' + esc(p.topic) + "</div>";
-  h += '<div class="ctype">' + esc(p.type) + " · post " + p.id.split("-")[1] + "</div>";
-  h += "</div>";
-  h += '<button class="tick' + (isDone ? " on" : "") + '" onclick="event.stopPropagation();toggleDone(\'' + s.key + '\')">' + (isDone ? "✓" : "") + "</button>";
-  h += "</div>";
-  if (isOpen) {
-    h += '<div class="cbody">';
-    h += '<div class="blk"><h4>Why this works</h4><p>' + esc(p.why) + "</p></div>";
-    if (s.platform === "tiktok") {
-      var t = p.tiktok;
-      h += '<div class="blk"><h4>Format</h4><p>' + esc(t.fmt) + "</p></div>";
-      h += '<div class="blk"><h4>Hook (0-3s)</h4><p>' + esc(t.hook) + "</p></div>";
-      h += '<div class="blk"><h4>On-screen beats</h4><ul class="beats">' + t.beats.map(function (b) { return "<li>" + esc(b) + "</li>"; }).join("") + "</ul></div>";
-      h += '<div class="blk"><h4>Voiceover script</h4><p>' + esc(t.vo) + "</p></div>";
-      h += '<div class="blk"><h4>Caption</h4><p>' + esc(t.cap) + "</p></div>";
-      h += '<div class="blk"><h4>Hashtags</h4><p class="tags">' + esc(t.tags.join(" ")) + "</p></div>";
-      h += '<div class="blk"><h4>Visual</h4><p>' + esc(t.asset) + "</p></div>";
-    } else if (s.platform === "instagram") {
-      var g = p.instagram;
-      h += '<div class="blk"><h4>Format</h4><p>' + esc(g.fmt) + "</p></div>";
-      h += '<div class="blk"><h4>' + (/reel/i.test(g.fmt) ? "Script slides" : "Slide copy") + '</h4><ul class="beats">' + g.slides.map(function (b) { return "<li>" + esc(b) + "</li>"; }).join("") + "</ul></div>";
-      h += '<div class="blk"><h4>Caption</h4><p>' + esc(g.cap) + "</p></div>";
-      h += '<div class="blk"><h4>Hashtags</h4><p class="tags">' + esc(g.tags.join(" ")) + "</p></div>";
-      h += '<div class="blk"><h4>Visual</h4><p>' + esc(g.asset) + "</p></div>";
-    } else if (s.platform === "facebook") {
-      var f = p.facebook;
-      h += '<div class="blk"><h4>Format</h4><p>' + esc(f.fmt) + "</p></div>";
-      h += '<div class="blk"><h4>Post</h4><p>' + esc(f.body) + "</p></div>";
-    } else {
-      var l = p.linkedin;
-      h += '<div class="blk"><h4>Format</h4><p>' + esc(l.fmt) + "</p></div>";
-      h += '<div class="blk"><h4>Post</h4><p>' + esc(l.body) + "</p></div>";
-    }
-    h += '<div class="copyrow">';
-    h += '<button class="btn" onclick="copyPost(\'' + s.key + '\')">Copy all for ' + PLAT[s.platform].label + "</button>";
-    if (s.platform === "tiktok") h += '<button class="btn ghost" onclick="copyField(\'' + s.key + '\',\'vo\')">Copy voiceover</button>';
-    if (s.platform === "tiktok" || s.platform === "instagram") h += '<button class="btn ghost" onclick="copyField(\'' + s.key + '\',\'cap\')">Copy caption</button>';
-    if (s.platform === "facebook" || s.platform === "linkedin") h += '<button class="btn ghost" onclick="copyField(\'' + s.key + '\',\'body\')">Copy post</button>';
-    if (s.platform === "instagram") h += '<button class="btn ghost" onclick="copyField(\'' + s.key + '\',\'slides\')">Copy slides</button>';
-    h += "</div>";
-    h += '<div class="blk"><h4>Your note</h4><textarea class="note" data-note="' + s.key + '" placeholder="e.g. record this at 3pm, use the shop photo">' + esc(notes[s.key] || "") + "</textarea></div>";
-    h += "</div>";
-  }
-  h += "</div>";
-  return h;
-}
-function bindNotes() {
-  var tas = document.querySelectorAll("textarea[data-note]");
-  for (var i = 0; i < tas.length; i++) {
-    tas[i].addEventListener("change", function (e) {
-      notes[e.target.getAttribute("data-note")] = e.target.value;
-      save(); toast("Note saved");
-    });
-  }
-}
-function toggleCard(key) {
-  open[key] = !open[key]; save(); renderToday();
-  setTimeout(function () {
-    var el = document.getElementById("c_" + key.replace(/[^a-z0-9]/gi, ""));
-    if (el) el.scrollIntoView({ block: "start" });
-  }, 20);
-}
-function toggleDone(key) { if (done[key]) delete done[key]; else done[key] = 1; save(); renderToday(); }
-function setDay(i) { dayIdx = i; save(); renderToday(); window.scrollTo(0, 0); }
-function setFilter(f) { filter = f; renderToday(); }
-
-/* ---------------- render: month ---------------- */
-function renderMonth() {
-  var tot = 0, td = 0, h = "";
-  var daySlots = slotsForDay(DATA.days[0]).length;
-  h += '<h2 class="sechead">The month <small>' + DATA.days.length + " days · " + DATA.days.length * daySlots + " posts</small></h2>";
-  h += '<div class="monthgrid">';
-  DATA.days.forEach(function (dd, i) {
-    var s = slotsForDay(dd), c = s.filter(function (x) { return done[x.key]; }).length;
-    tot += s.length; td += c;
-    var dt = dateFor(i);
-    var pct = s.length ? Math.round(c / s.length * 100) : 0;
-    h += '<button class="mcell' + (i === dayIdx ? " on" : "") + '" onclick="setDay(' + i + ')">';
-    h += '<span class="md">' + dateShort(dt) + "</span>";
-    h += '<span class="mw">' + WD[(dt.getDay() + 6) % 7] + "</span>";
-    h += '<span class="mbar"><i style="width:' + pct + '%"></i></span>';
-    h += '<span class="mn">' + c + "/" + s.length + "</span>";
-    h += "</button>";
-  });
-  h += "</div>";
-  h += '<h2 class="sechead">Totals</h2><div class="grid2">';
-  h += '<div class="tile"><b>' + td + "</b><span>posted</span></div>";
-  h += '<div class="tile"><b>' + (tot - td) + "</b><span>left</span></div>";
-  h += "</div>";
-
-  h += '<h2 class="sechead">Plan start date <small>move the whole plan</small></h2>';
-  h += '<div class="copyrow"><input type="date" class="datein" value="' + startDate + '" onchange="setStart(this.value)"></div>';
-  h += '<p class="mini">Every day in the app and in the sheet shifts with this date. Set it to the Monday you want to start posting.</p>';
-
-  h += '<h2 class="sechead">Backup <small>save or move your progress</small></h2>';
-  h += '<div class="copyrow"><button class="btn" onclick="exportData()">Export progress (file)</button>';
-  h += '<button class="btn ghost" onclick="document.getElementById(\'importFile\').click()">Import progress</button></div>';
-  h += '<input type="file" id="importFile" class="hide" accept=".json" onchange="importData(this)">';
-  h += '<p class="mini">Export writes a small JSON file. Save it to Google Drive so a new phone can pick up where this one stopped.</p>';
-  h += '<h2 class="sechead">Reset</h2>';
-  h += '<div class="copyrow"><button class="btn ghost" onclick="resetAll()">Clear all tick marks and notes</button></div>';
-  document.getElementById("viewMonth").innerHTML = h;
-}
-function setStart(v) {
-  if (!v) return;
-  startDate = v; save(); renderMonth(); renderToday();
-  toast("Plan now starts " + dateLabel(parseISO(v)));
-}
-function exportData() {
-  var payload = { app: "easywurld-post-commander", v: 2, saved: new Date().toISOString(), done: done, notes: notes, day: dayIdx, start: startDate };
-  var blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
-  var a = document.createElement("a");
-  a.href = URL.createObjectURL(blob);
-  a.download = "easywurld-progress-" + isoOf(new Date()) + ".json";
-  document.body.appendChild(a); a.click(); document.body.removeChild(a);
-  toast("Exported. Save it to Drive.");
-}
-function importData(inp) {
-  var f = inp.files && inp.files[0]; if (!f) return;
-  var rd = new FileReader();
-  rd.onload = function () {
-    try {
-      var j = JSON.parse(rd.result);
-      if (j.done) done = j.done;
-      if (j.notes) notes = j.notes;
-      if (j.start) startDate = j.start;
-      save(); renderToday(); renderMonth(); toast("Progress imported");
-    } catch (e) { toast("That file did not work"); }
-  };
-  rd.readAsText(f); inp.value = "";
-}
-function resetAll() {
-  if (!confirm("Clear every tick mark and note on this phone?")) return;
-  done = {}; notes = {}; save(); renderToday(); renderMonth(); toast("Cleared");
-}
-
-/* ---------------- render: help ---------------- */
-function renderHelp() {
-  var h = "";
-  h += '<h2 class="sechead">How to use this</h2>';
-  h += '<ol class="helplist">';
-  h += "<li>Open this file on your phone. Add it to your home screen and it opens like an app.</li>";
-  h += "<li>It opens on today's day of the week, with the next post due at the top.</li>";
-  h += "<li>The <b>Month</b> tab shows the whole 30-day run on a grid, so you can see a fortnight ahead instead of reacting to today.</li>";
-  h += "<li>Tap a post to open it. Everything is inside: hook, beats, voiceover, caption, hashtags, visual direction.</li>";
-  h += "<li>Hit Copy, paste into the app, and tick it off. The tick marks save on the phone.</li>";
-  h += "<li>Use the notes box for the small things: which photo, which price, who to tag.</li>";
-  h += "</ol>";
-
-  h += '<h2 class="sechead">Scheduling a month ahead</h2>';
-  h += "<p class=\"mini\">Everything in this plan is dated, so you can schedule the whole month in one sitting and stop thinking about it.</p>";
-  h += '<ul class="helplist">';
-  h += "<li><b>Open the sheet.</b> <code>content_calendar.csv</code> is in Google Drive as a Google Sheet. Sort by date. Every row has the time, the format and the full copy.</li>";
-  h += "<li><b>Instagram and Facebook:</b> Meta Business Suite (free). Set the timezone to Africa/Lagos. Paste each row's caption and upload the matching asset.</li>";
-  h += "<li><b>TikTok:</b> the app itself has a schedule option for business accounts. Upload the video, set the date and time, done.</li>";
-  h += "<li><b>LinkedIn:</b> the native schedule button in the post composer. The morning ones can be set the night before.</li>";
-  h += "<li><b>First Sunday of the month, 30 minutes.</b> The whole month is already dated, so set it all in one sitting. After that it is 20 minutes a week. Leave two slots a week open for anything that needs a real reply.</li>";
-  h += "<li><b>Keep the assets in Drive.</b> Name each file with the post ID and date, for example <code>D12-03_tiktok_04112026</code>. Then finding the right video takes ten seconds.</li>";
-  h += "</ul>";
-
-  h += '<h2 class="sechead">About phone storage</h2>';
-  h += '<p class="mini">This file is text only, about a megabyte. It will not fill your phone. The images and videos are what fill a phone, so keep those in Google Drive and open them from there when you need them. Delete them from the phone once they are posted.</p>';
-
-  h += '<h2 class="sechead">Times</h2>';
-  h += '<p class="mini">All times are Lagos time (WAT, UTC+1). They are based on when Nigerian audiences are actually on their phones: mornings 6-10am, lunch 12-2pm, and the evening peak 7-10pm. LinkedIn sits in the morning and early afternoon, because that is when Nigerian professionals are online.</p>';
-
-  h += '<h2 class="sechead">Rules that keep it honest</h2>';
-  h += '<ul class="helplist">';
-  h += "<li>Never post a client result, ranking, rating or testimonial you cannot evidence.</li>";
-  h += "<li>Demo project names are labelled concept project / sample build.</li>";
-  h += "<li>Value numbers are hours x &#8358;5,000, described as an estimate, never as a former price.</li>";
-  h += "<li>Say plainly what a pack does not do. Trust comes from the honest post.</li>";
-  h += "<li>Memes are 2 of the 11 a day. Keep the other nine useful.</li>";
-  h += "<li>Reply to people faster than you post to them.</li>";
-  h += "</ul>";
-
-  h += '<h2 class="sechead">Contact</h2>';
-  h += '<p class="mini">WhatsApp 0905 069 0837 · <a href="https://wa.me/2349050690837">wa.me/2349050690837</a><br>Site: <a href="https://website-builder-portfolio.vercel.app">website-builder-portfolio.vercel.app</a></p>';
-  h += '<div class="copyrow"><a class="btn" href="https://wa.me/2349050690837">Message on WhatsApp</a></div>';
-  document.getElementById("viewHelp").innerHTML = h;
-}
-
-/* ---------------- nav ---------------- */
-function setView(v) {
-  ["Today", "Month", "Help"].forEach(function (x) {
-    document.getElementById("view" + x).classList.toggle("hide", x.toLowerCase() !== v);
-  });
-  var bs = document.querySelectorAll("nav.tabs button");
-  for (var i = 0; i < bs.length; i++) bs[i].classList.toggle("on", bs[i].getAttribute("data-v") === v);
-  document.getElementById("hdRight").textContent =
-    v === "today" ? "POST COMMANDER" : v === "month" ? "THE MONTH" : "HOW TO USE";
-  if (v === "month") renderMonth();
-  if (v === "help") renderHelp();
-  window.scrollTo(0, 0);
-}
-document.addEventListener("DOMContentLoaded", function () {
-  load();
-  var ti = todayIndex();
-  if (ti >= 0) dayIdx = ti;
-  var bs = document.querySelectorAll("nav.tabs button");
-  for (var i = 0; i < bs.length; i++) {
-    (function (b) { b.addEventListener("click", function () { setView(b.getAttribute("data-v")); }); })(bs[i]);
-  }
-  renderToday(); renderMonth(); renderHelp();
-  setView("today");
-});
-
+function fullBrief(p){return [p.id+' · '+p.topic,dayFor(p).iso+' '+DATA.time+' WAT · '+p.format,'Problem: '+p.problem,'Objective: '+p.objective,'HOOK: '+p.hook,'SCRIPT / SLIDES:',script(p),'EDIT: '+(p.beats||[]).join('; '),'CAPTION:',p.caption,'CTA: '+p.cta,'VISUAL: '+p.visual,p.edit,'PROMPT:',p.prompt,'DISCLOSURE: '+(p.aiDisclosure?disclosure(p):'Reassess for final method'),'FALLBACK: '+p.fallback,'DESTINATION: '+DATA.site+p.route].join('\n\n');}
+document.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.view){view=b.dataset.view;render();}if(b.dataset.go){view=b.dataset.go;render();}if(b.dataset.post){selected=b.dataset.post;query='';view='briefs';render();window.scrollTo(0,0);}if(b.dataset.copy){const p=post(b.dataset.id);copy(b.dataset.copy==='script'?script(p):b.dataset.copy==='caption'?p.caption:b.dataset.copy==='prompt'?p.prompt:fullBrief(p));}});
+render();
+})();

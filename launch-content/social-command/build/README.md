@@ -1,58 +1,39 @@
-# Social kit — build scripts
+# Content generators
 
-These are the generators for the Easywurld content kit. They are source code,
-not build output, so `.gitignore` has a rule that keeps this folder tracked.
+## Active source
 
-Everything is driven by `content/days-*.json`, which is the source of truth for
-the words. Edit the JSON, run the generator, and every output stays in step.
+`marketing/content-plan.json` is the only active campaign source. It contains 22 weekday posts, eight weekend tasks and explicitly optional platform reuses. The old `content/days-*.json` files are archived under `../archive/2026-10/content/` and are not read.
 
-## The scripts
+## Build and check
 
-| Script | What it does | Writes |
-|---|---|---|
-| `kit-dates.mjs` | The shared calendar. One `START_DATE` drives everything. | — |
-| `build-kit.mjs` | The main generator. | `EASYWURLD_POST_COMMANDER.html`, `MONTH_POSTS.md`, `content_calendar.csv` |
-| `build-meme-bank.mjs` | Collects every Meme post into one file. | `MEME_BANK.md` |
-| `build-offers.mjs` | Turns the offers markdown into the branded A4 document. | `EASYWURLD_OFFERS_MASTER.html` |
-| `md-to-html.mjs` | Markdown to the HTML that uploads cleanly into Google Docs. | every `*.doc.html` |
-| `validate.mjs` | Checks the plan before it ships. | — |
-
-`app-script.js` and `shell.html` are the phone app itself, kept separate so
-the app logic can be edited without touching the layout.
-
-## Running them
-
-From the repo root:
-
-```bash
-node launch-content/social-command/build/build-kit.mjs
-node launch-content/social-command/build/build-meme-bank.mjs
-node launch-content/social-command/build/build-offers.mjs
-node launch-content/social-command/build/md-to-html.mjs
-node launch-content/social-command/build/validate.mjs
+```sh
+npm run content:build
+npm run content:check
 ```
 
-`validate.mjs` prints `ALL CHECKS PASS` and exits 0 when the plan is sound. It
-fails on a wrong day count, a missing platform version, banned AI wording,
-invented proof, a wrong WhatsApp link or price, and a built app that does not
-parse.
+The build generates:
 
-## Changing the start date
+- `marketing/calendar/30-day-calendar.md`
+- `marketing/calendar/content-calendar.csv`
+- `marketing/briefs/EW-*.md`
+- `marketing/MEASUREMENT.csv` (blank metrics)
+- `launch-content/social-command/content_calendar.csv`
+- `launch-content/social-command/MONTH_POSTS.md`
+- `launch-content/social-command/EASYWURLD_POST_COMMANDER.html`
+- `launch-content/social-command/MEME_BANK.md`
 
-`START_DATE` in `kit-dates.mjs` is the Monday the plan begins. Change it and
-rebuild: the app, the month document and the calendar CSV all shift together.
-The dates in `content/days-*.json` are not stored — they are computed, so
-nothing can fall out of step.
+`build-kit.mjs` is a compatibility wrapper around `marketing/build-plan.mjs`. `build-meme-bank.mjs` now generates the two active original static posts. `validate.mjs` is a compatibility wrapper around the active validator.
 
-## Adding a day
+The offline app's source is `shell.html` plus `app-script.js`. It has no external runtime dependency, no publishing API and fixed campaign dates. Local checkmarks are production progress, not social scheduling confirmation.
 
-1. Add the day's posts to a `content/days-XX-YY.json` file, or create a new
-   one. The filename pattern is `days-<first>-<last>.json` or `days-<n>.json`.
-2. Each post needs `id`, `type`, `topic`, `why`, and the platform versions
-   `tiktok`, `instagram`, `facebook`, `linkedin`.
-3. Run `build-kit.mjs` and then `validate.mjs`.
+## Optional document/assets builds
 
-The validator expects 11 posts a day and 5 LinkedIn posts a day (4 fixed slots
-plus one optional). The slot times are assigned by the order of the posts in
-the day, so the `fmt` string inside each LinkedIn version has to match the
-slot it lands in.
+- `node launch-content/social-command/build/md-to-html.mjs <file.md>` creates a Google-Docs-friendly HTML copy. This does not upload to Drive.
+- `python marketing/build-pdf.py` creates `marketing/CONTENT_PLAN.pdf` (ReportLab required).
+- `python marketing/build-assets.py` creates the supplied static PNGs/carousel ZIP and video layout guides (Pillow and brand fonts required). Set `EASYWURLD_FONT_DIR` if the fonts are not in the default cache.
+
+The committed PDF and PNGs can be used without rebuilding. Do not edit generated calendar surfaces independently; edit the JSON and rebuild.
+
+## Unchanged offer tools
+
+`build-offers.mjs` and the existing offers prompt/booklet are separate product-reference tools. They do not define the active posting calendar. Confirm current offer details before reusing older sales copy.

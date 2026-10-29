@@ -9,7 +9,9 @@
     "start": "NODE_ENV=production node dist/index.js",
     "preview": "vite preview --host",
     "check": "tsc --noEmit",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "content:build": "node marketing/build-plan.mjs && node launch-content/social-command/build/build-meme-bank.mjs",
+    "content:check": "node marketing/validate-plan.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",

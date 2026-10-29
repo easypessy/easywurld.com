@@ -1,716 +1,1638 @@
-# Easywurld — 30-Day Publishing Calendar
+# Easywurld — 30-day content calendar
 
-**30 days · 4 posts/day · 120 scheduled posts · 08 Oct–06 Nov 2026 · Lagos time (WAT / UTC+1)**
+**Monday 2 November–Tuesday 1 December 2026 · Africa/Lagos (WAT, UTC+1)**
 
-Each day has two carousels and two short videos. The posts are written so you can generate the visual assets in one batch, then schedule them. Exact slide/script text is supplied below; use the visual rules in [`../brand-prompt.md`](../brand-prompt.md), and overlay the real Easywurld mark in Canva/CapCut rather than asking an image model to redraw it.
+## Strategy before production
 
-## Daily slots
 
-- **08:00 — Carousel A:** educational / useful.
-- **12:30 — Video A:** short how-to / explainer (15–25 seconds).
-- **17:00 — Carousel B:** checklist / second useful angle.
-- **20:00 — Video B:** point of view / connection / CTA (15–25 seconds).
+**Active campaign: Monday 2 November–Tuesday 1 December 2026**
+**Audience:** owner-led small businesses in Lagos and across Nigeria.
+**Business objective:** relevant WhatsApp enquiries and sales of the right DIY pack, with custom projects as a separate conversation.
 
-Times are in **Africa/Lagos**. These are four Instagram-ready master assets each day. Cross-post the two carousels to LinkedIn and the two videos to TikTok / YouTube Shorts where suitable; adapt captions and crop as needed. Four posts per platform per day is an aggressive experiment—check platform rules and your audience response, then reduce the cadence if quality or engagement drops.
+This is the strategy behind the [active calendar](./calendar/30-day-calendar.md). It replaces the October four-posts-a-day plan and the 37/38-posts-a-day Social Command plan. Those were production-heavy publishing experiments, not a sustainable starting point.
 
-## Production rules
+## 1. The position
 
-1. **Carousel:** 1080×1350, 4:5, 5 slides. Use the master carousel prompt. One short message per slide. Keep the exact copy below; if image AI mangles text, generate a clean background and add the text yourself.
-2. **Video:** 1080×1920, 9:16, 15–25 seconds. Use the master video prompt, animate the time-coded beats, burn in captions, keep text in the central safe area, and hold the real Easywurld mark in the corner. Finish with the Easywurld lockup and slogan.
-3. **Brand on every asset:** `#FAE7C7` background, `#0A4937` serif headlines, `#14170F` body text, `#27473A` mark, one `#9E4E2C` accent. Mark + EASYWURLD + “SIMPLIFY. OPTIMIZE. GROW.” share one background and the same serif typography.
-4. **No fabricated proof:** no made-up scores, rankings, testimonials, client results, or claims. Demo-project names below must appear with **CONCEPT PROJECT · SAMPLE BUILD** on the artwork or caption.
-5. Caption hashtags are short starter sets. Add a link to the relevant site/project page in the platform’s link field or bio.
+> Easywurld helps small businesses make the message, website, content and follow-up work together.
+
+Lead with a business problem the owner recognises. Show a practical fix. Then offer one next step. The studio's plain-spoken voice and clearly labelled sample work are advantages; do not replace them with inflated agency claims.
+
+**What we sell:** clarity and useful implementation, not viral fame. Services include strategy, websites and landing pages, SEO, social content, copywriting, business systems and reports. The nine DIY packs are separate, self-guided products, currently listed at ₦5,000 each in the website source. Confirm availability, payment and delivery before directing buyers to them.
+
+**What we do not claim:** client results, testimonials, rankings, audience size or sales improvements we cannot evidence. Every portfolio example is a concept/sample, not a client engagement. Do not turn a hypothetical customer into a fake story.
+
+## 2. Audience problems to answer
+
+| Owner's question | What we publish | Possible next step |
+|---|---|---|
+| “People do not understand what I sell.” | Message rewrites, homepage checks, clear examples | MESSAGE or CLEAR; project enquiry if implementation is needed |
+| “People ask the price, then disappear.” | Price-reply structure, considerate follow-up, enquiry tracking | PLAYBOOK |
+| “I do not know what to post.” | One-question-to-content demonstrations, a realistic weekly plan | ENGINE |
+| “Will a new website fix this?” | Explain the offer and customer journey before discussing design | PAGE, LAUNCH or a scoped project conversation |
+| “How do I get found locally?” | Accurate business information, useful service pages, honest review requests | LOCAL; no ranking guarantee |
+| “Can AI help without making things up?” | Draft/check/publish examples and clear boundaries | PROMPTS; custom systems only after the process is clear |
+| “Can I trust this studio?” | Show the thinking, label samples, explain limits and ownership | See the portfolio or send a real business question |
+
+Write for a busy owner, not another marketer. Use “your customer”, “your page” and “your next reply”, not a stream of technical terms. Examples may use Lagos contexts, but must be explicitly examples rather than reports of actual customers.
+
+## 3. Four content pillars
+
+The 22 main posts are deliberately mixed:
+
+| Pillar | Posts | Job | Typical evidence |
+|---|---:|---|---|
+| Teach | 9 | Solve one small, recognisable problem | A rewrite, checklist, reply structure or workflow |
+| Show | 4 | Make the studio's thinking visible | A recorded concept/sample demo or annotated screen |
+| Trust | 6 | Explain how we work and what we will not pretend | Honest limitations, process, ownership and review |
+| Offer | 3 | Help the right buyer choose | Actual contents, price, exclusions and one keyword |
+
+A useful post can mention a relevant pack without becoming a sales pitch. Do not attach an unrelated offer to every tip.
+
+## 4. Formats and what each is for
+
+| Format | Count | Use it when | Production rule |
+|---|---:|---|---|
+| AI talking head | 10 | A direct explanation or point of view needs a human presence | Approved likeness/voice, reviewed script, restrained gestures, visible AI disclosure |
+| Screen demo / annotated walkthrough | 5 | Seeing the page or process is more convincing than hearing about it | Real repo demo, readable crop, concept/sample label, no invented live result |
+| Carousel | 5 | The idea needs a sequence, checklist or comparison | Five slides, one idea per slide, exact text set in the editor |
+| Relatable static / text meme | 2 | A familiar frustration creates recognition | Original Easywurld wording, no borrowed customer screenshot, useful resolution in caption |
+
+This is a format mix, not a requirement to make four versions of every idea. TikTok is the primary video destination. Instagram is the optional first reuse destination. Facebook and LinkedIn are selective, optional reuses, not additional daily obligations.
+
+## 5. What a modern talking-head post should feel like
+
+There is no single official “2026 TikTok look”. The useful pattern for this account is creator-led, vertical, immediately relevant, visually clear and lightly edited. TikTok's own creative guidance recommends a quick hook, a relevant problem–solution story, human delivery, movement and captions; it also suggests delivering value or emotion within 10–20 seconds for short-form social. We will test concise 25–40 second explanations as well, because a useful business explanation needs more than a slogan. [5](https://ads.tiktok.com/business/en/guides/what-is-ad-creative-guide)
+
+**Our house template:**
+
+- **First frame:** face already present and a specific problem headline. No logo intro, “hello guys”, wave or countdown.
+- **0–3 seconds:** say the problem or useful contrarian point. Keep the headline consistent with the spoken hook.
+- **3–12 seconds:** give the first concrete fix or example.
+- **12–28 seconds:** show a page detail, short phrase or second step. Change the visual when the idea changes, not every half-second.
+- **Last 3–5 seconds:** one takeaway and one action. No separate long end card that causes an early swipe.
+
+Use a chest-up frame, eye-level lens, natural light and a quiet, credible background. Preserve natural skin texture. A small, occasional reframe or relevant cutaway is enough; avoid constant zooms, fake podcast microphones, random stock footage, exaggerated avatar gestures and word-by-word flashing captions. CapCut's editing guidance likewise recommends pairing jump cuts with a meaningful reframe, screen capture or B-roll rather than using transitions decoratively. [1](https://www.capcut.com/create/video-transitions-crossfade-hard-cut-jump-cut)
+
+**AI must not make the account feel less honest.** The presenter is a disclosed production method. The advice, examples and business claims still need human review.
+
+## 6. One post, one action
+
+| Intent | CTA pattern | Measurement |
+|---|---|---|
+| Useful discovery | “Save this for your next page review.” | Saves, shares, completion rate |
+| Start a conversation | “Which part is unclear on your page: the offer, the customer or the next step?” | Relevant comments and replies |
+| DIY buyer | “Message CLEAR on WhatsApp for the homepage pack.” | Keyword enquiries, confirmed purchases |
+| Custom project | “Send your business link and the problem you want to solve.” | Qualified briefs, agreed calls, proposals |
+| Trust | “Look at the sample and judge the thinking.” | Portfolio visits and substantive enquiries |
+
+Do not ask for a save, comment, share, follow, website visit and purchase in the same post. TikTok captions should not rely on a clickable “link in bio” claim: check the actual profile-link eligibility and use the visible profile URL or WhatsApp instruction as appropriate.
+
+## 7. Cadence and scheduling
+
+- **22 main posts across 30 calendar days:** one each weekday, including the final Monday and Tuesday.
+- **Eight weekend days:** no compulsory feed post. Reply, review, batch and schedule.
+- **Initial test slot:** 18:30 Africa/Lagos (WAT, UTC+1), weekdays. This is a consistent starting hypothesis, not a claim about the account's proven best time.
+- **First reuse:** Instagram at 19:00 only when the asset has been adapted and checked.
+- **Selective reuse:** eight Facebook and eight LinkedIn suggestions are supplied in the CSV. They are optional, not part of the 22-post commitment.
+- Review after the first two weeks. Change one variable at a time: hook, format or posting time. Do not declare a winner from a single post.
+
+TikTok's official web-scheduler announcement describes scheduling 15 minutes to 10 days ahead and says scheduled posts must be deleted and re-uploaded to change them. Check the current options and limits in your own account; do not assume the entire month can be queued natively. [1](https://ads.tiktok.com/business/en/blog/introducing-video-scheduler-now-you-can-plan-tiktoks-in-advance)
+
+**Batch dates:** 1 November, 8 November, 15 November, 22 November and 29 November. The CSV is a planning sheet, not a file TikTok will automatically import or publish. No social account has been connected and nothing has been scheduled by this project.
+
+## 8. Weekly learning loop
+
+1. **Before producing:** check the offer is deliverable, the demo is labelled, the contact route works and the claim has evidence.
+2. **After 24 hours:** record available reach/play counts, average watch time, completion rate where available, saves, shares, profile visits and relevant enquiries. Leave unavailable metrics blank.
+3. **After seven days:** count WhatsApp keyword enquiries and qualified briefs. A purchase or brief is more useful than an unqualified view count.
+4. **Choose the next test:** if people leave early, test the opening; if they watch but do not act, clarify the next step; if they ask the same question, answer it in a new post.
+5. **Keep a human reply window:** 15 minutes after publication when possible. Do not use an AI sales bot to answer price, delivery or legal questions without approved information and escalation.
+
+Do not publish “we got X clients this month” at the end unless the records support it. The last two posts are useful reflections and invitations, not pre-written success claims.
+
+## 9. AI likeness, disclosure and rights
+
+**Current blocker:** no verified owner headshot or CV was found in the accessible repositories. `client/public/demo/img/founder-recording.jpg` belongs to a fictional demo and must not be used as the owner's likeness. No avatar or voice clone has been created.
+
+Before generation, obtain the correct owner photo and explicit permission for the intended likeness/voice use. Check the chosen provider's consent process, commercial-use terms, retention/deletion controls and export rights. A CV headshot is not automatically permission to publish a CV or animate a person. Keep identity documents and private CV details out of this public repository.
+
+TikTok requires disclosure for realistic AI-generated images, audio or video, including a real person portrayed saying something they did not say. Its help page describes the **AI-generated content** setting under **More options** when posting. Turn it on for these avatar videos; also use the small persistent “AI presenter · Easywurld” label and the supplied caption disclosure. A caption alone is not a reason to skip the platform setting. [1](https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content)
+
+For business content, use your own/licensed audio or TikTok's Commercial Music Library with the applicable placement and territory permissions. A trending personal-account sound is not automatically cleared for a brand or cross-platform reuse. [1](https://ads.tiktok.com/help/article/how-to-use-the-commercial-music-library)
+
+## 10. Launch gates
+
+- [ ] Confirm the business's current public handle, website URL, WhatsApp number and offer fulfilment.
+- [ ] Add the correct destination to the social profile; test it from a logged-out browser.
+- [ ] Supply and approve the owner's likeness; otherwise replace an AI-head slot with its supplied non-avatar fallback.
+- [ ] Review every script, price, product inclusion and sample label.
+- [ ] Produce the first week's assets; the Monday carousel does not depend on an avatar.
+- [ ] Check captions, pronunciation, crop, disclosure and audio on a phone.
+- [ ] Schedule only approved assets. Mark the sheet “Scheduled” after the platform confirms it.
+- [ ] Record actual post URLs and results; never pre-fill imagined analytics.
+
+**Start small enough to keep going.** Five useful posts and thoughtful replies are a better first month than hundreds of repetitive posts nobody has time to review.
+
+
+## The dated run
+
+**22 main posts, not 22 new ideas per platform.** One main post each weekday at 18:30 WAT. Weekends are for replies, review and batching. Optional reuses are listed separately in the CSV and briefs.
+
+| Day | Date | Time | Main post / weekend task | Format | Pillar | Primary |
+|---:|---|---|---|---|---|---|
+| 1 | 2026-11-02 · Monday | 18:30 | EW-001 · One business. One clear story. | Carousel | Trust | Instagram |
+| 2 | 2026-11-03 · Tuesday | 18:30 | EW-002 · More posts won't fix an unclear offer. | AI talking head | Teach | TikTok |
+| 3 | 2026-11-04 · Wednesday | 18:30 | EW-003 · A homepage before-and-after you can actually inspect. | Screen demo | Show | TikTok |
+| 4 | 2026-11-05 · Thursday | 18:30 | EW-004 · A price is not the end of the reply. | AI talking head | Teach | TikTok |
+| 5 | 2026-11-06 · Friday | 18:30 | EW-005 · 27 tabs. Zero posts. | Relatable static | Teach | Instagram |
+| 6 | 2026-11-07 · Saturday | — | Reply and listen | No feed post | Operations | — |
+| 7 | 2026-11-08 · Sunday | — | Batch week two | No feed post | Operations | — |
+| 8 | 2026-11-09 · Monday | 18:30 | EW-008 · Why our portfolio says sample. | AI talking head | Trust | TikTok |
+| 9 | 2026-11-10 · Tuesday | 18:30 | EW-009 · A follow-up that knows when to stop. | Carousel | Teach | Instagram |
+| 10 | 2026-11-11 · Wednesday | 18:30 | EW-010 · What a follow-up workflow should make visible. | Screen demo | Show | TikTok |
+| 11 | 2026-11-12 · Thursday | 18:30 | EW-011 · What happens after you message Easywurld. | AI talking head | Trust | TikTok |
+| 12 | 2026-11-13 · Friday | 18:30 | EW-012 · One offer. One page. One next step. | Carousel | Teach | Instagram |
+| 13 | 2026-11-14 · Saturday | — | Review the first full week | No feed post | Operations | — |
+| 14 | 2026-11-15 · Sunday | — | Batch week three | No feed post | Operations | — |
+| 15 | 2026-11-16 · Monday | 18:30 | EW-015 · Fix the sentence before rebuilding the site. | AI talking head | Teach | TikTok |
+| 16 | 2026-11-17 · Tuesday | 18:30 | EW-016 · Local visibility starts with correct information. | Screen demo | Show | TikTok |
+| 17 | 2026-11-18 · Wednesday | 18:30 | EW-017 · The old phone number is still online. | Relatable static | Teach | Instagram |
+| 18 | 2026-11-19 · Thursday | 18:30 | EW-018 · AI drafts. A person decides. | AI talking head | Trust | TikTok |
+| 19 | 2026-11-20 · Friday | 18:30 | EW-019 · Before you ask for more traffic. | Carousel | Teach | Instagram |
+| 20 | 2026-11-21 · Saturday | — | Check the customer journey | No feed post | Operations | — |
+| 21 | 2026-11-22 · Sunday | — | Batch week four | No feed post | Operations | — |
+| 22 | 2026-11-23 · Monday | 18:30 | EW-022 · What the ₦5,000 pack does—and doesn't—include. | AI talking head | Offer | TikTok |
+| 23 | 2026-11-24 · Tuesday | 18:30 | EW-023 · A proposal should make the decision easier. | Screen demo | Show | TikTok |
+| 24 | 2026-11-25 · Wednesday | 18:30 | EW-024 · Choose the pack by the problem. | Carousel | Offer | Instagram |
+| 25 | 2026-11-26 · Thursday | 18:30 | EW-025 · When you don't need to hire us yet. | AI talking head | Trust | TikTok |
+| 26 | 2026-11-27 · Friday | 18:30 | EW-026 · Turn one customer question into a week of useful content. | Screen demo | Teach | TikTok |
+| 27 | 2026-11-28 · Saturday | — | Read the records | No feed post | Operations | — |
+| 28 | 2026-11-29 · Sunday | — | Prepare the final two posts | No feed post | Operations | — |
+| 29 | 2026-11-30 · Monday | 18:30 | EW-029 · What to review after a month of posting. | AI talking head | Trust | TikTok |
+| 30 | 2026-12-01 · Tuesday | 18:30 | EW-030 · Choose your next step by the work you need. | AI talking head | Offer | TikTok |
+
+### Weekend tasks
+
+- **2026-11-07 · Reply and listen:** Spend 20 minutes answering real comments and enquiries. Save useful recurring questions without sharing private details. No compulsory feed post.
+- **2026-11-08 · Batch week two:** Review EW-001 to EW-005 after 24 hours where possible. Produce EW-008 to EW-012, check claims and disclosures, then schedule only finished assets within the platform's available window.
+- **2026-11-14 · Review the first full week:** Record available metrics and real enquiries. Note which problem earned useful responses. Do not infer a winning format from one post.
+- **2026-11-15 · Batch week three:** Produce EW-015 to EW-019. Confirm the approved avatar is ready; otherwise use each brief's non-avatar fallback. Schedule approved assets only.
+- **2026-11-21 · Check the customer journey:** Test the website, offers page, profile link and WhatsApp route. Confirm pack fulfilment and answer outstanding enquiries.
+- **2026-11-22 · Batch week four:** Produce EW-022 to EW-026. Recheck prices, inclusions and sample labels. Schedule the next approved batch, not the whole month by assumption.
+- **2026-11-28 · Read the records:** Review actual watch time, saves, shares, profile visits and enquiries. Leave unavailable metrics blank. Choose one change to test next.
+- **2026-11-29 · Prepare the final two posts:** Produce EW-029 and EW-030. Use the review method, not invented results. Verify contact routes and plan the next month from real questions.
+
+## Production briefs
+
+All copy below is draft until reviewed. The prompts are filled; the likeness/voice source is a separate approval gate. No finished avatar videos or live scheduling are implied.
 
 ---
 
-# Week 1 — Meet Easywurld (8–14 October)
+## EW-001 · One business. One clear story.
 
-## Day 01 · Thu 08 Oct · What Easywurld does
+**2026-11-02 · Monday · 18:30 WAT · Instagram · Carousel**
 
-### 08:00 — Carousel A · Meet Easywurld
-**Slides:** 1. “Meet Easywurld.” 2. “Web design for small businesses.” 3. “SEO and content that make the next step clearer.” 4. “Practical digital systems to keep enquiries moving.” 5. “Simplify. Optimize. Grow. · See the work.”
-**Visual direction:** Big serif cover; slides 2–4 each use one large word and a small line; slide 5 is a roomy brand lockup.
-**Caption:** Meet Easywurld: an independent digital studio in Lagos. We bring strategy, web design, SEO, content and practical systems together so a small business can show up clearly online. Explore the work from the link in bio. #Easywurld #LagosBusiness #WebDesignNigeria
+- **Pillar:** Trust
+- **Audience problem:** The website, social posts and customer replies sound like different businesses.
+- **Objective:** Introduce the studio through its point of view, not a logo animation.
+- **Single CTA:** Comment one word: message, page or follow-up.
+- **Target length:** 5 slides
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-001/EW-001_carousel.zip` (production target; not a finished file unless explicitly supplied)
+- **Supplied starter:** `marketing/assets/launch-week/EW-001_carousel.zip` — review before publishing.
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/about
+- **Contact:** 0905 069 0837
 
-### 12:30 — Video A · A clearer online presence
-**Script / on-screen text:** 0–3s “Too many loose ends online?” · 3–7s “Start with one clear message.” · 7–12s “Give visitors a useful next step.” · 12–17s “Connect the site, content and follow-up.” · 17–21s “Easywurld. Simplify. Optimize. Grow.”
-**Visual prompt:** Calm kinetic type on cream; four lines arrive one at a time; thin terracotta underline; end card with mark + wordmark + slogan.
-**Caption:** A website, a post and an enquiry form work better when they tell one connected story. Start with clarity. #MarketingClarity #SmallBusinessNigeria #Easywurld
+### Hook / first frame
 
-### 17:00 — Carousel B · What we can help with
-**Slides:** 1. “One studio. Connected work.” 2. “Strategy — decide what matters.” 3. “Web + landing pages — make the offer clear.” 4. “SEO, content + systems — keep showing up.” 5. “Need one part or the whole picture? Let’s talk.”
-**Visual direction:** Four clean typographic panels; simple line connectors between the service words; no invented icons/logos.
-**Caption:** Not every business needs every service. Start with the thing that is making growth harder, then build from there. WhatsApp 0905 069 0837. #LagosSME #DigitalMarketingNigeria #Easywurld
+> Your business shouldn't need five different explanations.
 
-### 20:00 — Video B · Our working belief
-**Script / on-screen text:** 0–3s “Clear beats clever.” · 3–8s “People should understand what you do.” · 8–13s “They should know who it is for.” · 13–18s “They should see what to do next.” · 18–21s “That’s marketing clarity.”
-**Visual prompt:** Statement-led typography; “clear” appears first, the other phrases align underneath; no footage or stock people; cream end card.
-**Caption:** If someone has to decode the message, the message is doing extra work. Keep the useful part easy to find. #MarketingClarity #LagosBusiness #Easywurld
+### Exact slide copy
 
-## Day 02 · Fri 09 Oct · Make the offer clear
+> Slide 1: Your business shouldn't need five different explanations.
+> One clear story. Wherever customers meet you.
+>
+> Slide 2: One business. Too many voices.
+> Your website says one thing. Your posts say another.
+>
+> Slide 3: The gap is the problem.
+> Your customer replies say something else.
+>
+> Slide 4: Make it agree.
+> Make the message, page, content and follow-up agree.
+>
+> Slide 5: That's the work.
+> Easywurld
+> Simplify. Optimize. Grow.
+> The message, page, content and follow-up. Together.
+> What needs clarity: message, page or follow-up?
 
-### 08:00 — Carousel A · The five-second test
-**Slides:** 1. “Can a stranger tell what you do?” 2. “Who is it for?” 3. “What problem do you help with?” 4. “What can they do next?” 5. “If one answer is missing, simplify the first screen.”
-**Visual direction:** A three-question audit card; highlight one question per slide; final slide has one terracotta check.
-**Caption:** Open your homepage as if you have never seen it. Can you answer these three questions without scrolling? Save this for your next site review. #WebsiteDesign #SmallBusinessTips #Easywurld
+### Caption
 
-### 12:30 — Video A · Test your homepage
-**Script / on-screen text:** 0–3s “Pause on your homepage.” · 3–7s “Can I tell what you sell?” · 7–11s “Can I tell who it is for?” · 11–15s “Can I find the next step?” · 15–19s “If not, edit the first screen before adding more.”
-**Visual prompt:** A neutral, fictional webpage wireframe—not a real client site—with each question appearing beside it; finish with Easywurld lockup.
-**Caption:** Try the test on your own site. No new section or animation can replace a clear first sentence. #WebDesignNigeria #LagosSME #Easywurld
+> A website, a content plan and a customer reply should tell the same story. Easywurld is a small digital studio in Lagos bringing those pieces together for small businesses. This month, we're sharing practical fixes and showing the thinking behind our sample work. What feels least clear in your business right now: the message, the page or the follow-up?
+>
+> #Easywurld #LagosBusiness #SmallBusinessNigeria #MarketingClarity
 
-### 17:00 — Carousel B · A clearer homepage hero
-**Slides:** 1. “Write the first screen in this order.” 2. “1 · Say what you offer.” 3. “2 · Name who it helps.” 4. “3 · Give one clear next step.” 5. “Example: ‘Web design for Lagos food businesses’ · Book a call.”
-**Visual direction:** Build the final slide like a tidy text wireframe; label the example “Illustrative copy.”
-**Caption:** A good hero section is a signpost, not a riddle. Replace the example with the service and audience you actually serve. #Copywriting #WebDesign #Easywurld
+### Visual and edit
 
-### 20:00 — Video B · Remove one thing
-**Script / on-screen text:** 0–3s “A quick website improvement.” · 3–8s “Pick the first screen.” · 8–13s “Remove one line that repeats the headline.” · 13–18s “Make the next step easier to spot.” · 18–21s “Small edits can make a page easier to use.”
-**Visual prompt:** Before/after typographic mock-up, not a claimed client result; label “Example layout”; slow wipe transition.
-**Caption:** Try one edit, then ask someone unfamiliar with the business what they understand. #WebsiteTips #LagosBusiness #Easywurld
+Five 1080×1350 cream slides. Deep-green serif headline, one terracotta underline on slide 4. Real Easywurld mark on the final slide. No stock people.
 
-## Day 03 · Sat 10 Oct · Design for phones
+Set the supplied text in the editor. Hold each slide long enough to read it twice. Export five PNGs; do not ask an image model to spell the copy.
 
-### 08:00 — Carousel A · Mobile-first website check
-**Slides:** 1. “Most people meet your site on a phone.” 2. “Can they read the headline without zooming?” 3. “Can they tap the main button comfortably?” 4. “Do images load without pushing the page around?” 5. “Check on a real phone before you publish.”
-**Visual direction:** Phone-shaped outline made of simple lines; generous whitespace; no device brand marks.
-**Caption:** Review your site on the device your customers use. Look for readability, tap targets and a clear next step. #MobileWebDesign #LagosSME #Easywurld
+### Filled production prompt
 
-### 12:30 — Video A · The thumb test
-**Script / on-screen text:** 0–3s “Do the thumb test.” · 3–7s “Open your site on your phone.” · 7–11s “Can you reach the menu and main button?” · 11–16s “Can you read the first paragraph comfortably?” · 16–19s “Fix the friction you can see.”
-**Visual prompt:** Minimal illustrated phone UI with a moving thumb indicator; no logos; show only short readable captions.
-**Caption:** A desktop preview is not a mobile review. Give the real phone version a minute today. #MobileFirst #WebDesignNigeria #Easywurld
+```text
+Design a five-slide Easywurld carousel about one consistent business story. Use the exact supplied slide copy, cream #FAE7C7, deep green #0A4937, Inter-style support text and one terracotta #9E4E2C underline. Flat editorial layout, generous whitespace. Use the real logo file, not a generated mark. No people or stock photography.
+```
 
-### 17:00 — Carousel B · Images that behave
-**Slides:** 1. “A good image should not slow the page down.” 2. “Use the right crop for the space.” 3. “Export at a sensible size.” 4. “Compress, then check that detail still looks good.” 5. “Add alt text that describes the image’s purpose.”
-**Visual direction:** Same photo-frame shown in three crops using a simple abstract shape, not a stock photo.
-**Caption:** Large image files can add weight. Choose the crop first, then compress and review the result on mobile. #WebsitePerformance #ContentDesign #Easywurld
+**Disclosure:** No realistic synthetic person/voice planned. Ordinary designed text/graphics do not need an AI-presenter label. Reassess if the production method changes.
 
-### 20:00 — Video B · Desktop isn’t the whole site
-**Script / on-screen text:** 0–3s “Your laptop hides mobile problems.” · 3–8s “Small text looks different.” · 8–13s “Long menus take more space.” · 13–18s “Buttons need room for a thumb.” · 18–21s “Check the phone view before launch.”
-**Visual prompt:** Split-screen generic desktop and phone wireframe; the phone becomes the final view; cream and green palette.
-**Caption:** Responsive is not just “it fits.” Check the reading, tapping and scrolling experience too. #ResponsiveDesign #LagosBusiness #Easywurld
+**Fallback:** Publish as a text-led LinkedIn post if design time runs short; do not postpone the start date for an avatar.
 
-## Day 04 · Sun 11 Oct · Make navigation useful
+**Optional Facebook copy:**
 
-### 08:00 — Carousel A · A small site map
-**Slides:** 1. “A small site can still feel complete.” 2. “Home: what you do + who it is for.” 3. “Services: what is included + how to start.” 4. “About + contact: who is behind it + the next step.” 5. “Keep the menu focused on real decisions.”
-**Visual direction:** Simple four-node site map with generous spacing; mark bottom-right.
-**Caption:** A menu is not a storage drawer. Put the pages people need to decide and act. #WebsiteStructure #SmallBusinessTips #Easywurld
+> Your website, your posts and your customer replies should sound like the same business. That is the gap Easywurld works on: the message, the page, the content and the follow-up. Which of those feels least clear in your business today?
 
-### 12:30 — Video A · Fewer menu choices
-**Script / on-screen text:** 0–3s “Does your menu have too many choices?” · 3–8s “Start with the questions a visitor brings.” · 8–13s “Group related details.” · 13–18s “Keep the contact path easy to find.” · 18–21s “A smaller menu can be clearer.”
-**Visual prompt:** Many typographic menu items group into four calm labels; use abstract text only, no named third-party websites.
-**Caption:** Organise navigation around visitor questions, not your internal filing system. #UXDesign #WebDesignNigeria #Easywurld
+**Optional LinkedIn copy:**
 
-### 17:00 — Carousel B · Find the next step
-**Slides:** 1. “Every important page needs a next step.” 2. “Service page → ask about the service.” 3. “Project page → view related work.” 4. “Contact page → choose a simple way to reach you.” 5. “One page. One primary action.”
-**Visual direction:** Three simple page cards with one outlined action each; no fake UI screenshots.
-**Caption:** Give each page one primary action. Extra choices can stay secondary, but the next move should be obvious. #UXWriting #WebsiteTips #Easywurld
-
-### 20:00 — Video B · Don’t hide the contact link
-**Script / on-screen text:** 0–3s “Could a visitor find your contact details?” · 3–8s “Check the header.” · 8–13s “Check the footer.” · 13–18s “Check the end of your service pages.” · 18–21s “Make reaching you straightforward.”
-**Visual prompt:** A generic page scrolls from top to footer; contact label is gently highlighted in terracotta; end lockup.
-**Caption:** Make contact easy to find on every important route—not just on one buried page. #LagosBusiness #WebDesign #Easywurld
-
-## Day 05 · Mon 12 Oct · How Easywurld works
-
-### 08:00 — Carousel A · Four-step process
-**Slides:** 1. “Good work starts before the mock-up.” 2. “Understand — the business and real problem.” 3. “Simplify — the message and next step.” 4. “Build, then optimize — make it useful and maintainable.” 5. “Understand · Simplify · Build · Optimize.”
-**Visual direction:** Four-stage horizontal line that stacks vertically on mobile; use numbers and one terracotta node.
-**Caption:** Our process is practical: understand first, simplify the decision, build the solution, then review what needs improving. #Easywurld #DesignProcess #LagosSME
-
-### 12:30 — Video A · What happens before design
-**Script / on-screen text:** 0–3s “Before a design, we ask questions.” · 3–8s “Who needs this?” · 8–13s “What should they understand?” · 13–18s “What should happen next?” · 18–21s “Then we choose the right thing to build.”
-**Visual prompt:** Questions type onto cream cards, then align into a simple brief; no people or fake client documents.
-**Caption:** A short discovery conversation can prevent a lot of polished work solving the wrong problem. #WebDesignProcess #SmallBusinessNigeria #Easywurld
-
-### 17:00 — Carousel B · Start with the problem
-**Slides:** 1. “Before asking for a new website, ask this.” 2. “Where do people get confused?” 3. “What question do they ask repeatedly?” 4. “Where does a useful enquiry stop moving?” 5. “Fix the cause—not only the visible symptom.”
-**Visual direction:** Three question cards and a final simple cause/effect line.
-**Caption:** The right solution depends on the actual point of friction. Start by noticing where people get stuck. #BusinessClarity #MarketingStrategy #Easywurld
-
-### 20:00 — Video B · The useful brief
-**Script / on-screen text:** 0–3s “A useful brief can be simple.” · 3–8s “What are you offering?” · 8–13s “Who is it for?” · 13–18s “What should a visitor do next?” · 18–21s “That is enough to start a better conversation.”
-**Visual prompt:** Three prompt cards assemble into a clean one-page brief; type-only, no fabricated company details.
-**Caption:** You do not need a perfect brief to start. A clear problem and a useful next step are enough. #StartAProject #MarketingClarity #Easywurld
-
-## Day 06 · Tue 13 Oct · Landing pages and websites
-
-### 08:00 — Carousel A · Which page do you need?
-**Slides:** 1. “A website or a landing page?” 2. “A website supports several visitor questions.” 3. “A landing page focuses on one offer.” 4. “Choose based on the decision you need to support.” 5. “Not sure? Start with the goal, not the format.”
-**Visual direction:** Two tidy page outlines side by side; labels “Several paths” and “One focused action.”
-**Caption:** The right format depends on the offer, audience and how much context they need before acting. #LandingPageDesign #WebDesign #Easywurld
-
-### 12:30 — Video A · One page, one goal
-**Script / on-screen text:** 0–3s “When does a landing page make sense?” · 3–8s “One audience.” · 8–12s “One clear offer.” · 12–17s “One primary action.” · 17–21s “Give each section a job.”
-**Visual prompt:** A single vertical page builds one section at a time—offer, details, questions, action—using generic copy.
-**Caption:** A focused page is useful when the visitor is deciding about one specific offer. #LandingPages #LagosBusiness #Easywurld
-
-### 17:00 — Carousel B · What a service page should answer
-**Slides:** 1. “A service page should answer five things.” 2. “What is the service?” 3. “Who is it for—and what is included?” 4. “What information do you need to begin?” 5. “How does someone take the next step?”
-**Visual direction:** Five numbered questions, one per slide; final slide uses a clear contact action.
-**Caption:** Write service pages around the decisions a customer needs to make, not around internal jargon. #WebsiteCopy #ServiceBusiness #Easywurld
-
-### 20:00 — Video B · Make one call to action obvious
-**Script / on-screen text:** 0–3s “Too many buttons?” · 3–8s “Choose the main action for this page.” · 8–13s “Repeat it where the decision makes sense.” · 13–18s “Keep other links secondary.” · 18–21s “Clear beats crowded.”
-**Visual prompt:** A generic page with competing buttons resolves into one primary and one quiet secondary link.
-**Caption:** Help visitors decide instead of asking them to choose between six equally loud buttons. #UXDesign #Copywriting #Easywurld
-
-## Day 07 · Wed 14 Oct · Week-one recap
-
-### 08:00 — Carousel A · One week of clarity
-**Slides:** 1. “This week: make the message clearer.” 2. “Say what you do.” 3. “Show who it helps.” 4. “Make the next step easy to find.” 5. “Save this checklist for your next website review.”
-**Visual direction:** Minimal recap; use only text, numbered list, and one terracotta check.
-**Caption:** A quick recap of the first week: message, audience, mobile usability and the next step. Which one needs your attention first? #Easywurld #WebsiteTips #LagosSME
-
-### 12:30 — Video A · Three website questions
-**Script / on-screen text:** 0–3s “Three questions for your homepage.” · 3–8s “What do you offer?” · 8–13s “Who is it for?” · 13–18s “What should they do next?” · 18–21s “Try the test today.”
-**Visual prompt:** One clean question per beat, typography only; hold the final checklist for one second.
-**Caption:** Use these questions before adding another section to your homepage. #WebsiteReview #SmallBusinessTips #Easywurld
-
-### 17:00 — Carousel B · Pick one next action
-**Slides:** 1. “Choose one online improvement this week.” 2. “Rewrite the first sentence.” 3. “Test one page on your phone.” 4. “Make one contact link easier to find.” 5. “Small, useful changes count.”
-**Visual direction:** Three single-action cards; clear checklist; bright cream background.
-**Caption:** You do not need to rebuild everything at once. Pick one thing, improve it, and review. #LagosBusiness #MarketingClarity #Easywurld
-
-### 20:00 — Video B · Talk to Easywurld
-**Script / on-screen text:** 0–3s “Working on your business website?” · 3–8s “Tell us what is unclear or taking too long.” · 8–13s “We’ll help you identify a practical next step.” · 13–18s “Easywurld · Lagos, Nigeria.” · 18–21s “WhatsApp 0905 069 0837.”
-**Visual prompt:** Text-led invitation with subtle circuit-line motif, followed by the Easywurld lockup and readable WhatsApp number.
-**Caption:** Tell us what you are trying to solve. WhatsApp 0905 069 0837 or start from the contact page. #Easywurld #LagosBusiness #StartAProject
+> A business can have a good website, active social pages and busy customer chats while still telling three different stories. Easywurld brings the message, design, content and follow-up into one plan. Our portfolio is concept/sample work, and we label it that way. This month we are sharing the thinking behind it. Which part of your customer journey needs the most clarity?
 
 ---
 
-# Week 2 — Craft, SEO and speed (15–21 October)
+## EW-002 · More posts won't fix an unclear offer.
 
-## Day 08 · Thu 15 Oct · Performance basics
+**2026-11-03 · Tuesday · 18:30 WAT · TikTok · AI talking head**
 
-### 08:00 — Carousel A · What makes a page feel slow?
-**Slides:** 1. “A beautiful page still needs to load well.” 2. “Very large images add weight.” 3. “Too many scripts can add work.” 4. “Fonts and embeds also need a budget.” 5. “Measure first; optimize the real bottleneck.”
-**Visual direction:** A page-weight stack with four labelled layers; no invented milliseconds or score.
-**Caption:** Page speed is affected by more than one thing. Measure the page, then work on the actual bottleneck. #WebsitePerformance #WebDesignNigeria #Easywurld
+- **Pillar:** Teach
+- **Audience problem:** The owner keeps posting but cannot explain the offer in one sentence.
+- **Objective:** Teach a small message fix and establish the studio's useful, direct tone.
+- **Single CTA:** Save this for your next profile review.
+- **Target length:** 30–38s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-002/EW-002_talking-head.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-message-workbook
+- **Contact:** 0905 069 0837
 
-### 12:30 — Video A · Three performance checks
-**Script / on-screen text:** 0–3s “Three things to check on a slow page.” · 3–8s “Image size.” · 8–13s “Scripts and embeds.” · 13–18s “What loads before the main content.” · 18–21s “Test before changing things.”
-**Visual prompt:** Three labelled blocks are placed on a page timeline; use neutral abstract shapes and no fabricated metrics.
-**Caption:** Start with evidence. A performance tool can point you toward what to investigate next. #WebPerformance #LagosSME #Easywurld
+### Hook / first frame
 
-### 17:00 — Carousel B · Image export checklist
-**Slides:** 1. “Before uploading an image…” 2. “Choose the crop you actually need.” 3. “Resize it close to its display dimensions.” 4. “Compress and check the visual quality.” 5. “Add useful alt text when it conveys information.”
-**Visual direction:** Five-step export checklist with simple crop-frame illustrations.
-**Caption:** Right-size images before they reach the page. Keep the detail that matters; remove unnecessary file weight. #WebDesignTips #ContentDesign #Easywurld
+> Before you write another post, finish this sentence.
 
-### 20:00 — Video B · Measure, then optimize
-**Script / on-screen text:** 0–3s “Don’t guess at website speed.” · 3–8s “Run a test.” · 8–13s “Read the opportunities.” · 13–18s “Fix one cause at a time.” · 18–21s “Run it again and compare.”
-**Visual prompt:** A clean checklist and before/test/after sequence; make no numeric claims; mark the screen as “example workflow.”
-**Caption:** A test is a starting point, not a trophy. Use the findings to choose the next improvement. #Lighthouse #WebsitePerformance #Easywurld
+### Exact spoken script
 
-## Day 09 · Fri 16 Oct · Accessibility is usability
+> Before you write another post, finish this sentence: I help a specific customer get a useful result with what I actually sell. Here is an example: I help busy homeowners book a reliable cleaner for their apartment. Now check your bio and your latest post. Do they both make that offer clear? If not, fix the sentence before you make more content. Clarity first. Volume second.
 
-### 08:00 — Carousel A · Four accessible-design checks
-**Slides:** 1. “Can more people use your website?” 2. “Text and background need enough contrast.” 3. “Links and buttons need clear labels.” 4. “Keyboard focus must be visible.” 5. “Captions and text alternatives add access.”
-**Visual direction:** Four numbered checks, generous contrast, no colour-only meaning.
-**Caption:** Accessibility helps people navigate and understand your site. Start with readable contrast, clear labels and visible focus. #AccessibleDesign #WebDesignNigeria #Easywurld
+### Edit / shot order
 
-### 12:30 — Video A · Keyboard-only check
-**Script / on-screen text:** 0–3s “Try your site without a mouse.” · 3–8s “Press Tab to move.” · 8–13s “Can you see where focus is?” · 13–18s “Can you open and close the menu?” · 18–21s “Fix anything that traps the keyboard.”
-**Visual prompt:** Generic page controls highlight one by one as a cursor-free focus ring moves; no fake test result.
-**Caption:** A quick keyboard pass can reveal interaction problems a mouse hides. #Accessibility #UXDesign #Easywurld
+- 0–3s: face + “Finish this sentence.”
+- 3–13s: show the three-part sentence; label it EXAMPLE.
+- 13–25s: cut to a simple bio mock-up, also labelled EXAMPLE.
+- 25–34s: return to face; “Clarity first. Volume second.”
 
-### 17:00 — Carousel B · Write useful image descriptions
-**Slides:** 1. “Alt text should help someone understand the image.” 2. “Describe what matters in the context.” 3. “Skip details already stated nearby.” 4. “Decorative images can use empty alt text.” 5. “Write for the page—not for keywords.”
-**Visual direction:** A simple illustration paired with short example descriptions; make the sample explicitly an example.
-**Caption:** Alt text is for meaning and context, not for stuffing search terms. #AccessibilityTips #ContentWriting #Easywurld
+### Caption
 
-### 20:00 — Video B · Colour is not the only signal
-**Script / on-screen text:** 0–3s “A red error isn’t enough.” · 3–8s “Say what needs attention.” · 8–13s “Keep the label visible.” · 13–18s “Use an icon or text cue too.” · 18–21s “Make the meaning clear without colour.”
-**Visual prompt:** A form error appears first in colour only, then gains a clear text message and icon; label the visual “illustrative UI.”
-**Caption:** Use colour to support meaning, not carry it alone. #AccessibleWeb #WebDesign #Easywurld
+> Try this before your next post: I help [customer] get [result] with [offer]. Replace the brackets with your real business details before publishing. If your bio and your content point in different directions, fix the message first. Save this for your next profile review.
+>
+> AI-generated presenter; script reviewed by Easywurld.
+> #SmallBusinessTips #LagosSME #BusinessMessaging #Easywurld
 
-## Day 10 · Sat 17 Oct · SEO foundations
+### Visual and edit
 
-### 08:00 — Carousel A · Local SEO basics
-**Slides:** 1. “Make it easier to understand where you work.” 2. “Name the service clearly.” 3. “Use accurate location details where relevant.” 4. “Keep business information consistent.” 5. “Answer the questions local customers ask.”
-**Visual direction:** A simple map-pin outline paired with a service card; no Google map logo or fabricated ranking.
-**Caption:** Local visibility starts with clear, accurate information. Avoid adding locations you do not serve. #LocalSEO #LagosBusiness #Easywurld
+Chest-up approved owner avatar, eye-level, plain warm background. Insert a three-line message worksheet. No fake office, microphone or client screenshots.
 
-### 12:30 — Video A · Write a page title
-**Script / on-screen text:** 0–3s “A useful page title says what the page is.” · 3–8s “Name the service.” · 8–13s “Add the place if it matters.” · 13–18s “Keep it specific to this page.” · 18–21s “Then check how it appears in search.”
-**Visual prompt:** A generic search snippet is assembled from a page title and description; clearly label it “example—not a live result.”
-**Caption:** Write page titles for people first: accurate, specific and distinct from the other pages on your site. #SEOTips #LagosSME #Easywurld
+Target 30–38 seconds after recording. Keep the first frame on the face. Use one worksheet cutaway and one gentle reframe. Correct captions and keep the AI-presenter label visible.
 
-### 17:00 — Carousel B · SEO without keyword stuffing
-**Slides:** 1. “SEO is not repeating one phrase.” 2. “Give every page a clear purpose.” 3. “Use headings that describe its sections.” 4. “Link related pages helpfully.” 5. “Answer the real question behind the search.”
-**Visual direction:** A cluttered repeated phrase resolves into a simple page outline; avoid showing search rank numbers.
-**Caption:** Clear structure helps people and search engines understand a page. Repetition alone is not a strategy. #SEOContent #WebDesignNigeria #Easywurld
+### Filled production prompt
 
-### 20:00 — Video B · The search-result preview
-**Script / on-screen text:** 0–3s “Would you click this result?” · 3–8s “Does the title match the page?” · 8–13s “Is the description specific?” · 13–18s “Does the page answer the promise?” · 18–21s “Keep the message consistent.”
-**Visual prompt:** Mock search-result card with fictional text, marked “illustrative preview”; no platform logo or rank claims.
-**Caption:** Make sure your title, description and page content tell the same story. #SEO #Copywriting #Easywurld
+```text
+Create a vertical 9:16 talking-head video using only the separately approved owner likeness and voice. Deliver the supplied script exactly, conversationally, with restrained natural gestures and steady eye contact. Chest-up, eye-level camera, soft natural light, quiet warm-neutral room. Preserve the person's appearance. Do not add a microphone, office props, logos or claims. Leave space for editor-added captions and the AI disclosure. No invented likeness if the approved source is missing.
+```
 
-## Day 11 · Sun 18 Oct · Website copy
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI presenter · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
 
-### 08:00 — Carousel A · A simple offer sentence
-**Slides:** 1. “Write your offer in one sentence.” 2. “We help [who]…” 3. “…with [what problem]…” 4. “…through [service or approach].” 5. “Use plain words your customer already uses.”
-**Visual direction:** Template in large serif, short fills in sans; do not invent a real business example.
-**Caption:** This is a drafting prompt, not a formula you must publish word for word. Use your customers’ language. #Copywriting #MarketingClarity #Easywurld
+**Fallback:** Use the same script as a five-slide text carousel, or record the owner normally with permission. Do not substitute the demo founder photo.
 
-### 12:30 — Video A · Fix a vague headline
-**Script / on-screen text:** 0–3s “Vague: ‘We create solutions.’” · 3–8s “What kind of solution?” · 8–13s “For whom?” · 13–18s “Try: ‘Web design for Lagos small businesses.’” · 18–21s “Specific is easier to understand.”
-**Visual prompt:** Generic copy example labelled “before / example rewrite”; reveal the revised line with one terracotta underline.
-**Caption:** The example is illustrative—rewrite it for the real service and audience you serve. #WebsiteCopy #SmallBusinessNigeria #Easywurld
-
-### 17:00 — Carousel B · Make your CTA useful
-**Slides:** 1. “A button should tell me what happens next.” 2. “Vague: ‘Click here.’” 3. “Clearer: ‘Ask about web design.’” 4. “Clearer: ‘View the sample project.’” 5. “Use the action that matches the page.”
-**Visual direction:** Pair each button with its page context; avoid fake conversion metrics.
-**Caption:** A clear button reduces uncertainty. Keep the label accurate to the step it opens. #UXWriting #WebsiteTips #Easywurld
-
-### 20:00 — Video B · Read the page out loud
-**Script / on-screen text:** 0–3s “A quick copy edit.” · 3–8s “Read your page out loud.” · 8–13s “Circle anything you would never say.” · 13–18s “Replace jargon with a real explanation.” · 18–21s “Then ask someone to read it back.”
-**Visual prompt:** Typed paragraph simplifies line by line; use generic sample words, no claims or customer quote.
-**Caption:** If the sentence sounds unnatural when you say it, it may need a simpler version. #PlainLanguage #Copywriting #Easywurld
-
-## Day 12 · Mon 19 Oct · Landing-page structure
-
-### 08:00 — Carousel A · A focused landing page
-**Slides:** 1. “A landing page needs a clear path.” 2. “Start with the offer and audience.” 3. “Explain what is included.” 4. “Answer the questions that block a decision.” 5. “Finish with one honest next step.”
-**Visual direction:** Five section blocks stack into a clean page; no made-up guarantee, price or testimonial.
-**Caption:** Build the page around the decision. Every section should help a visitor understand the offer or take the next step. #LandingPageDesign #Easywurld #LagosBusiness
-
-### 12:30 — Video A · Answer objections before the button
-**Script / on-screen text:** 0–3s “What might make someone hesitate?” · 3–8s “Explain what is included.” · 8–13s “Say what happens after they enquire.” · 13–18s “Make limits and requirements clear.” · 18–21s “Then invite the next step.”
-**Visual prompt:** A page reveals offer, details, FAQ and CTA in that order; clean type animation, no invented testimonials.
-**Caption:** Clarity about what happens next is part of a good customer experience. #LandingPages #CustomerExperience #Easywurld
-
-### 17:00 — Carousel B · Keep forms short
-**Slides:** 1. “Ask only what you need to start.” 2. “Name and a way to reply.” 3. “What they need help with.” 4. “A link, only if it helps the conversation.” 5. “Ask follow-up questions after a human responds.”
-**Visual direction:** Form fields appear one at a time; mark optional fields clearly; no fake data.
-**Caption:** Every field asks for effort. Keep the first contact form useful and proportionate. #Forms #UXDesign #Easywurld
-
-### 20:00 — Video B · What happens after a form?
-**Script / on-screen text:** 0–3s “Send an enquiry. Then what?” · 3–8s “Say who will read it.” · 8–13s “Set a realistic reply expectation.” · 13–18s “Explain the next step.” · 18–21s “A form needs a clear handoff.”
-**Visual prompt:** Form submit moves into a simple human handoff flow; no fake automation guarantee or response-time promise.
-**Caption:** Tell people what happens after they submit. Only promise a response window your team can meet. #BusinessSystems #UXWriting #Easywurld
-
-## Day 13 · Tue 20 Oct · Lighthouse, without invented scores
-
-### 08:00 — Carousel A · What a Lighthouse audit can show
-**Slides:** 1. “A Lighthouse score is a starting point.” 2. “Performance: how the page loads and runs.” 3. “Accessibility: checks that can reveal barriers.” 4. “Best practices + SEO: more areas to review.” 5. “Scores vary by device, network and test run.”
-**Visual direction:** Four labelled audit cards; do not show invented scores, badges, or Google logos; mark last slide “Measure the live page.”
-**Caption:** Lighthouse can help point out issues, but one score does not tell the whole story. Run a live test and review the opportunities behind it. #Lighthouse #WebPerformance #Easywurld
-
-### 12:30 — Video A · Run a real site test
-**Script / on-screen text:** 0–3s “Want to see a real Lighthouse result?” · 3–8s “Open the live PageSpeed test.” · 8–13s “Run the mobile or desktop check.” · 13–18s “Review the suggestions, not just the score.” · 18–21s “Link in bio: run it yourself.”
-**Visual prompt:** Record the actual PageSpeed Insights page after Easywurld is deployed; do not pre-fill, edit, or fabricate results. If no current test is available, use abstract steps and say “run a live test.”
-**Caption:** Test the current site yourself: https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fwebsite-builder-portfolio.vercel.app . Results are generated live and can change by test conditions. #Lighthouse #PageSpeed #Easywurld
-
-### 17:00 — Carousel B · Turn audit findings into a plan
-**Slides:** 1. “An audit is not the fix.” 2. “Read what the warning is actually saying.” 3. “Check if it affects a real visitor task.” 4. “Choose one fix you can verify.” 5. “Retest and keep a note of the conditions.”
-**Visual direction:** Audit finding → priority → change → retest, shown as four connected boxes; no numeric before/after.
-**Caption:** A scorecard is useful when it leads to a specific, testable improvement. #WebsiteAudit #LagosSME #Easywurld
-
-### 20:00 — Video B · We don’t publish scores we didn’t measure
-**Script / on-screen text:** 0–3s “No invented performance scores.” · 3–8s “A test can change between runs.” · 8–13s “Device and network matter.” · 13–18s “Show the real result—or show no score.” · 18–21s “Trust starts with honest proof.”
-**Visual prompt:** Words “measured / illustrative” appear as a clean typographic contrast; no screenshot of fabricated results; Easywurld lockup.
-**Caption:** If a number is public, it should be traceable to a real measurement. We prefer a clear explanation over a made-up badge. #HonestMarketing #Lighthouse #Easywurld
-
-## Day 14 · Wed 21 Oct · Reports and presentations
-
-### 08:00 — Carousel A · A report people can use
-**Slides:** 1. “A report should make the next step clear.” 2. “Lead with the question it answers.” 3. “Show the evidence and its limits.” 4. “Separate findings from recommendations.” 5. “End with an owner and a next action.”
-**Visual direction:** Editorial report page with clear headings and one highlighted action; use fictional, unnumbered sample data only.
-**Caption:** A useful report helps someone decide what to do next. Keep observations, evidence and recommendations distinct. #BusinessReports #PresentationDesign #Easywurld
-
-### 12:30 — Video A · Turn a long report into a short deck
-**Script / on-screen text:** 0–3s “Need to present a long report?” · 3–8s “Keep the question.” · 8–13s “Show the few findings that answer it.” · 13–18s “Put detail in notes or an appendix.” · 18–21s “End with the decision needed.”
-**Visual prompt:** Dense generic report condenses into three simple presentation cards; do not show real client or confidential data.
-**Caption:** A deck is not a screenshot of a report. Shape it around the audience’s decision. #PresentationDesign #Reports #Easywurld
-
-### 17:00 — Carousel B · Slide hierarchy
-**Slides:** 1. “One slide. One main idea.” 2. “Write the takeaway as the headline.” 3. “Use one chart or example to support it.” 4. “Move extra context to the notes.” 5. “If everything is bold, nothing is.”
-**Visual direction:** A crowded generic slide resolves into one headline and one supporting element.
-**Caption:** Make the main point easy to find, then let the supporting detail do its job. #PresentationTips #BusinessContent #Easywurld
-
-### 20:00 — Video B · Make the next step visible
-**Script / on-screen text:** 0–3s “A good presentation ends with a decision.” · 3–8s “What needs approval?” · 8–13s “Who owns the next action?” · 13–18s “When should it happen?” · 18–21s “Put that on the final slide.”
-**Visual prompt:** An abstract presentation closes on three labels: decision, owner, next date; no fabricated dates or client data.
-**Caption:** Help the audience leave knowing what happens next. #BusinessPresentations #LagosBusiness #Easywurld
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
 
 ---
 
-# Week 3 — The concept-project portfolio (22–28 October)
+## EW-003 · A homepage before-and-after you can actually inspect.
 
-**Important for every post this week:** These are fictional demonstration builds from the Easywurld portfolio, not client engagements. Keep the label **CONCEPT PROJECT · SAMPLE BUILD** visible on every relevant creative and caption. Do not add a testimonial, business result or implied endorsement.
+**2026-11-04 · Wednesday · 18:30 WAT · TikTok · Screen demo**
 
-## Day 15 · Thu 22 Oct · Northline Atelier
+- **Pillar:** Show
+- **Audience problem:** A homepage sounds busy but never says what the business does.
+- **Objective:** Show the thinking using a real, clearly labelled repo demo.
+- **Single CTA:** Open the sample and judge the thinking.
+- **Target length:** 35–42s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-003/EW-003_homepage-demo.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/projects/clear-homepage-rewrite
+- **Contact:** 0905 069 0837
 
-### 08:00 — Carousel A · A calmer clothing storefront
-**Slides:** 1. “A quieter way to browse a small collection.” 2. “Concept project: Northline Atelier.” 3. “Editorial product imagery leads the page.” 4. “Three collections stay easy to explore.” 5. “Concept project · sample build · View the demo.”
-**Visual direction:** Use the real Northline Atelier concept screenshots from the portfolio; no real fashion-brand imagery or logos; label every slide “Concept project.”
-**Caption:** Northline Atelier is an Easywurld concept storefront exploring a quieter, photography-led way to browse three collections. This is a sample build, not client work. View the demo from the portfolio. #Easywurld #WebDesignNigeria #ConceptProject
+### Hook / first frame
 
-### 12:30 — Video A · Northline page walkthrough
-**Script / on-screen text:** 0–3s “Concept project: Northline Atelier.” · 3–8s “A small collection, made easy to browse.” · 8–13s “Editorial imagery sets the pace.” · 13–18s “Product details stay close to the choice.” · 18–21s “Sample build by Easywurld.”
-**Visual prompt:** Screen-record the actual Easywurld Northline demo at `/projects/northline-atelier`; add a persistent “Concept project · sample build” label; no fake store activity.
-**Caption:** A short walkthrough of a fictional storefront concept from the Easywurld portfolio. No client relationship or sales results are claimed. #NorthlineAtelier #ConceptProject #Easywurld
+> This homepage rewrite changes the words. Not the results.
 
-### 17:00 — Carousel B · Product-page details
-**Slides:** 1. “What should a product page answer?” 2. “What is it?” 3. “What does it look and feel like?” 4. “What are the size, care and delivery details?” 5. “Make the decision easier with useful information.”
-**Visual direction:** Generic product-page checklist, with a small “Example checklist” label; no invented product price or stock.
-**Caption:** Product pages should answer the practical questions people need before choosing. The Northline site is a concept, not a live shop. #EcommerceDesign #ProductCopy #Easywurld
+### Exact spoken script
 
-### 20:00 — Video B · Design detail: collection navigation
-**Script / on-screen text:** 0–3s “One design choice in this concept.” · 3–8s “Keep the collection easy to scan.” · 8–13s “Show the product before extra decoration.” · 13–18s “Keep details close to the item.” · 18–21s “Northline Atelier · sample concept.”
-**Visual prompt:** Actual screen-recorded concept page; zoom gently to the collection grid; watermark “Concept project · sample build.”
-**Caption:** A focused demo detail from Northline Atelier, an Easywurld sample storefront. #WebDesign #ConceptProject #Easywurld
+> This is a sample homepage rewrite by Easywurld. Westcombe Partners is fictional, so there are no conversion results to show you. Watch the opening instead. The before version is vague. The after version gives the visitor a clearer starting point. Toggle between them and ask three questions: what do they do, who is it for, and what happens next? That's a structural review you can do on your own page today.
 
-## Day 16 · Fri 23 Oct · Morrow House
+### Edit / shot order
 
-### 08:00 — Carousel A · A menu-first restaurant site
-**Slides:** 1. “A restaurant website should answer ‘what’s on?’” 2. “Concept project: Morrow House.” 3. “Put the menu where it is easy to find.” 4. “Keep opening and contact details practical.” 5. “Concept project · sample build · Explore the demo.”
-**Visual direction:** Use the real Morrow House portfolio demo, crop around menu and hours; visible concept label; no real restaurant marks.
-**Caption:** Morrow House is an Easywurld restaurant-site concept built around a changing menu and practical visit details. It is a sample, not client work. #RestaurantWebsite #ConceptProject #Easywurld
+- 0–3s: face or cursor on the Before/After toggle; CONCEPT / SAMPLE visible.
+- 3–12s: show the before headline at a readable crop.
+- 12–24s: click After; highlight the opening structure.
+- 24–38s: show the three review questions; no performance claim.
 
-### 12:30 — Video A · Morrow House walkthrough
-**Script / on-screen text:** 0–3s “Concept project: Morrow House.” · 3–8s “Find the menu quickly.” · 8–13s “See what changes this week.” · 13–18s “Get the practical visit details.” · 18–21s “Demo build by Easywurld.”
-**Visual prompt:** Screen-record `/projects/morrow-house`; show only existing demo content; persistent “Concept project” label.
-**Caption:** A quick look at the menu-first sample site. The restaurant and its details are fictional demo content. #MorrowHouse #WebDesign #Easywurld
+### Caption
 
-### 17:00 — Carousel B · Restaurant essentials
-**Slides:** 1. “Restaurant site checklist.” 2. “Menu that is readable on mobile.” 3. “Current hours and location.” 4. “Dietary details where available.” 5. “A clear way to ask or book.”
-**Visual direction:** Checklist with four small typographic icons; use “where available” so the design does not imply all restaurants have the same details.
-**Caption:** Keep the essentials current and easy to find. The exact information depends on the restaurant. #RestaurantMarketing #WebsiteTips #Easywurld
+> A real look at our sample homepage rewrite. Westcombe Partners is fictional. No A/B test, conversion lift or client result is being claimed. Try the same three questions on your page: what do you do, who is it for, and what should a visitor do next?
+>
+> Concept project · sample build.
+>
+> AI voiceover; script reviewed by Easywurld.
+>
+> #WebDesignNigeria #HomepageTips #Easywurld #SmallBusinessTips
 
-### 20:00 — Video B · What a menu page needs
-**Script / on-screen text:** 0–3s “A menu is more than a photo.” · 3–8s “Make the text readable.” · 8–13s “Keep prices and availability current.” · 13–18s “Explain how to ask about dietary needs.” · 18–21s “Morrow House is a concept demo.”
-**Visual prompt:** Typography-led menu mockup with the sample label; do not invent specific dishes, prices or dietary claims.
-**Caption:** A menu page should be practical first. Morrow House is an illustrative Easywurld concept. #RestaurantWebsite #ConceptProject #Easywurld
+### Visual and edit
 
-## Day 17 · Sat 24 Oct · Cedar & Co. Advisory
+Screen recording of the actual Before/After demo. Add a persistent concept/sample label. Crop to the headline and toggle, not an unreadable full desktop page.
 
-### 08:00 — Carousel A · Trust for a small advisory firm
-**Slides:** 1. “A small firm can look clear without looking corporate.” 2. “Concept project: Cedar & Co. Advisory.” 3. “Say who the firm helps.” 4. “Explain the work in plain words.” 5. “Show a direct route to a conversation.”
-**Visual direction:** Use the actual Cedar & Co. demo pages; refined type, calm spacing; label “Concept project · sample build.”
-**Caption:** Cedar & Co. Advisory is a fictional Easywurld concept for a four-person advisory firm. The design explores clarity and credibility—not client results. #ProfessionalServices #ConceptProject #Easywurld
+Record at a readable browser zoom. Use the owner's voiceover or a licensed synthetic voice with disclosure. Pause on each headline. Do not animate fake analytics or add a claimed uplift.
 
-### 12:30 — Video A · Advisory site walkthrough
-**Script / on-screen text:** 0–3s “Concept project: Cedar & Co.” · 3–8s “Lead with who the firm helps.” · 8–13s “Describe the advisory work plainly.” · 13–18s “Make the first conversation easy to start.” · 18–21s “Sample build by Easywurld.”
-**Visual prompt:** Capture `/projects/cedar-advisory`; show the existing demo layout and label; no made-up staff names or client quotes.
-**Caption:** A portfolio walkthrough of a fictional advisory website concept by Easywurld. #CedarAndCo #WebsiteDesign #Easywurld
+### Filled production prompt
 
-### 17:00 — Carousel B · Professional-services homepage
-**Slides:** 1. “A useful homepage for a professional firm.” 2. “Who do you serve?” 3. “What problems do you help solve?” 4. “What does working together look like?” 5. “Answer those before adding more decoration.”
-**Visual direction:** Four-question editorial layout; the last slide contains no statistics or guarantees.
-**Caption:** Prospective clients need to understand fit, scope and next steps. Make those answers easy to find. #ProfessionalServices #Copywriting #Easywurld
+```text
+Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo recording. Show the Before/After toggle and readable headline crops in the supplied order. Keep 'Concept project · sample build' visible. Add the exact script as voiceover only after voice approval, accurate captions and three short review questions. No fabricated metrics, client identity or performance claims.
+```
 
-### 20:00 — Video B · Replace jargon with the work
-**Script / on-screen text:** 0–3s “Does your service copy sound like a brochure?” · 3–8s “Name the problem.” · 8–13s “Explain the work.” · 13–18s “Say what a first step looks like.” · 18–21s “Use words a customer understands.”
-**Visual prompt:** Abstract copy edit from vague jargon to simple example language; caption “illustrative rewrite”; no named client.
-**Caption:** Plain language is not less professional. It helps the right people understand the work. #PlainLanguage #ProfessionalServices #Easywurld
+**Real source to record:** `client/public/demo/clear-homepage-rewrite/index.html`
 
-## Day 18 · Sun 25 Oct · Fieldstone Build
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI voice · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
 
-### 08:00 — Carousel A · Show the work clearly
-**Slides:** 1. “Good work deserves a clear record.” 2. “Concept project: Fieldstone Build.” 3. “Organise project photos by stage.” 4. “Explain the scope and finish.” 5. “Label this one: concept project · sample build.”
-**Visual direction:** Use the actual Fieldstone demo; photos are portfolio demo assets, not claimed client jobs; keep concept label visible.
-**Caption:** Fieldstone Build is a fictional construction-site concept using a project-led layout. All imagery and copy shown are demo content, not a client case study. #ConstructionWebsite #ConceptProject #Easywurld
+**Fallback:** Use real screenshots in a carousel with the same sample label if screen recording is unavailable.
 
-### 12:30 — Video A · Fieldstone project gallery
-**Script / on-screen text:** 0–3s “Concept project: Fieldstone Build.” · 3–8s “Show the work by project.” · 8–13s “Let the photos carry useful context.” · 13–18s “Keep the service area and enquiry path clear.” · 18–21s “Easywurld sample build.”
-**Visual prompt:** Screen-record `/projects/fieldstone-build`, showing the existing project-gallery UI; persistent concept label; no fake site photos or client review.
-**Caption:** A quick tour of the Fieldstone sample website. It demonstrates a layout approach, not a real construction company’s work. #FieldstoneBuild #ConceptProject #Easywurld
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
 
-### 17:00 — Carousel B · Construction project gallery
-**Slides:** 1. “A project gallery needs context.” 2. “Name the type of work.” 3. “Show a few useful stages.” 4. “Explain the scope in plain language.” 5. “Make the next enquiry easy to start.”
-**Visual direction:** Generic gallery-planning checklist, one small image-frame outline; clearly illustrative.
-**Caption:** Photos help visitors understand the work when they are organised and described. Avoid publishing private site details without permission. #ConstructionMarketing #WebsiteTips #Easywurld
+**Optional Facebook copy:**
 
-### 20:00 — Video B · Get permission before posting
-**Script / on-screen text:** 0–3s “Before a project photo goes online…” · 3–8s “Check you have permission.” · 8–13s “Remove private addresses or faces when needed.” · 13–18s “Add a useful caption.” · 18–21s “A careful portfolio builds trust.”
-**Visual prompt:** Use abstract photo-frame shapes; do not expose actual customer data or private addresses; clear text-led safety reminder.
-**Caption:** Always get permission for project photography and protect private details before publishing. #SmallBusinessTips #ContentPractice #Easywurld
+> We made a before-and-after homepage demo you can inspect. The business is fictional and there are no performance results to report. The useful part is the structure: what the business does, who it helps and the next step. Open the sample and try those questions on your own page. Concept project · sample build.
 
-## Day 19 · Mon 26 Oct · Luma Skin Studio
+**Optional LinkedIn copy:**
 
-### 08:00 — Carousel A · A calm clinic booking journey
-**Slides:** 1. “A calmer path to a skin consultation.” 2. “Concept project: Luma Skin Studio.” 3. “Explain the service before asking for a booking.” 4. “Answer practical questions in plain language.” 5. “Concept project · sample build · View the demo.”
-**Visual direction:** Use existing Luma demo visuals; calm cream/green styling; do not imply real medical advice or treatment results.
-**Caption:** Luma Skin Studio is a fictional beauty/clinic sample exploring a clearer consultation journey. It is not medical advice, client work or a treatment-results claim. #BeautyWebsite #ConceptProject #Easywurld
-
-### 12:30 — Video A · Luma booking page walkthrough
-**Script / on-screen text:** 0–3s “Concept project: Luma Skin Studio.” · 3–8s “Explain the consultation first.” · 8–13s “Set expectations about the booking.” · 13–18s “Keep the contact step simple.” · 18–21s “Sample build by Easywurld.”
-**Visual prompt:** Screen-record `/projects/luma-skin-studio`; show existing sample copy only; no fabricated reviews, clinical claims or outcomes.
-**Caption:** A short tour of a fictional studio site concept. Details are illustrative, not a real clinic’s services or results. #LumaSkinStudio #ConceptProject #Easywurld
-
-### 17:00 — Carousel B · Booking page basics
-**Slides:** 1. “Before someone books, answer this.” 2. “What happens during the appointment?” 3. “How long should they allow?” 4. “What should they bring or prepare?” 5. “Only publish details the business can confirm.”
-**Visual direction:** Five practical questions on calm panels; never invent clinical instructions.
-**Caption:** Booking pages should reduce uncertainty. Confirm every detail with the real business before publishing it. #BookingPage #UXDesign #Easywurld
-
-### 20:00 — Video B · Don’t ask for commitment too early
-**Script / on-screen text:** 0–3s “Would you book without knowing what to expect?” · 3–8s “Explain the visit.” · 8–13s “Share useful practical details.” · 13–18s “Then invite the booking.” · 18–21s “Luma is a concept sample.”
-**Visual prompt:** A generic booking page reveals information in a calm order; label “sample concept”; avoid medical imagery or promises.
-**Caption:** Good booking journeys give people useful context before asking for a decision. #CustomerExperience #ConceptProject #Easywurld
-
-## Day 20 · Tue 27 Oct · Open Door Learning
-
-### 08:00 — Carousel A · Different learners, different questions
-**Slides:** 1. “One learning centre. Different visitor questions.” 2. “Concept project: Open Door Learning.” 3. “Parents need to understand support and schedules.” 4. “Adult learners need to see format and next steps.” 5. “Organise the answers around the learner.”
-**Visual direction:** Two clear visitor paths on the real demo page; visibly label “Concept project”; no fake student imagery/testimonials.
-**Caption:** Open Door Learning is a fictional concept site showing how one education website can serve parents and adult learners without mixing their questions. #EducationWebsite #ConceptProject #Easywurld
-
-### 12:30 — Video A · Separate the visitor paths
-**Script / on-screen text:** 0–3s “Who is visiting this learning site?” · 3–8s “A parent looking for support?” · 8–13s “An adult learner checking a course?” · 13–18s “Give each a clear path to useful details.” · 18–21s “Open Door is a demo concept.”
-**Visual prompt:** Two typographic paths branch from a generic learning-centre homepage; label as illustrative; no real learner photos or outcomes.
-**Caption:** Different audiences often need different answers. Organise the page around what each group needs to know. #EducationDesign #UXWriting #Easywurld
-
-### 17:00 — Carousel B · Education page checklist
-**Slides:** 1. “A useful course page answers…” 2. “Who is it for?” 3. “What will the learner do?” 4. “What are the schedule and requirements?” 5. “How can they ask a question or apply?”
-**Visual direction:** Five clear lines with one quiet accent; no invented course outcomes or accreditation.
-**Caption:** Be specific about course format, schedule and requirements. Publish only details you can verify. #EducationMarketing #WebsiteCopy #Easywurld
-
-### 20:00 — Video B · Make course details scannable
-**Script / on-screen text:** 0–3s “Can a learner scan your course page?” · 3–8s “Use clear section headings.” · 8–13s “Show format and schedule.” · 13–18s “Put entry requirements in plain language.” · 18–21s “Keep the enquiry path nearby.”
-**Visual prompt:** Generic course page reorganises into short labelled sections; use no school logo or fabricated claims.
-**Caption:** Clear course details help people decide whether to take the next step. #CourseDesign #EducationWebsite #Easywurld
-
-## Day 21 · Wed 28 Oct · Sunday Table concept
-
-### 08:00 — Carousel A · One seasonal preorder
-**Slides:** 1. “One offer. One page. A clear order path.” 2. “Concept project: The Sunday Table.” 3. “Explain what is in the seasonal box.” 4. “State the order window and collection details.” 5. “Concept project · sample build · View the demo.”
-**Visual direction:** Use the existing Sunday Table demo; label the preorder concept; do not invent current stock, dates or real food orders.
-**Caption:** The Sunday Table is a fictional seasonal-preorder landing-page concept. It demonstrates how one offer can be explained on one page; it is not an active shop. #LandingPage #ConceptProject #Easywurld
-
-### 12:30 — Video A · Sunday Table page walkthrough
-**Script / on-screen text:** 0–3s “Concept project: The Sunday Table.” · 3–8s “One seasonal box.” · 8–13s “What is included?” · 13–18s “When and how would someone order?” · 18–21s “Demo build by Easywurld.”
-**Visual prompt:** Screen-record `/projects/sunday-table-preorder`; show only the existing demo; label “Concept project · not an active offer.”
-**Caption:** A quick tour of a sample preorder page. Its products, schedule and ordering details are fictional demo content. #SundayTable #ConceptProject #Easywurld
-
-### 17:00 — Carousel B · Single-offer page checklist
-**Slides:** 1. “Selling one offer? Keep the page focused.” 2. “Show what is included.” 3. “Explain who it suits.” 4. “State dates, limits and collection details clearly.” 5. “Use one honest action button.”
-**Visual direction:** One offer card and a short checklist; placeholders must not appear in exported artwork.
-**Caption:** A focused offer page works best when the details are complete and accurate. #LandingPageDesign #SmallBusinessNigeria #Easywurld
-
-### 20:00 — Video B · Don’t leave logistics until checkout
-**Script / on-screen text:** 0–3s “A useful offer page answers the practical bits.” · 3–8s “When is it available?” · 8–13s “How does collection or delivery work?” · 13–18s “What does the customer need to do?” · 18–21s “The Sunday Table is a sample concept.”
-**Visual prompt:** Three logistics labels appear around a generic preorder card; clearly say sample concept; no price or active availability claim.
-**Caption:** Clear logistics help customers decide with fewer surprises. This Sunday Table page is a fictional demonstration. #Ecommerce #ConceptProject #Easywurld
+> A portfolio sample should show the thinking without pretending to be a client case study. Our Westcombe Partners homepage rewrite is fictional. The demo lets you compare the opening copy before and after, with no claimed conversion improvement. Review your own opening against three questions: what do you do, who is it for, and what happens next? Concept project · sample build.
 
 ---
 
-# Week 4 — Systems that keep work moving (29 October–4 November)
+## EW-004 · A price is not the end of the reply.
 
-## Day 22 · Thu 29 Oct · Enquiries and follow-up
+**2026-11-05 · Thursday · 18:30 WAT · TikTok · AI talking head**
 
-### 08:00 — Carousel A · The enquiry handoff
-**Slides:** 1. “An enquiry needs a clear next step.” 2. “Capture only useful details.” 3. “Send it to the right person.” 4. “Record what happens next.” 5. “Keep a human responsible for the reply.”
-**Visual direction:** Simple path: visitor → form/message → responsible person → next action; no unsupported response-time promise.
-**Caption:** A lead form is only one part of the process. Make sure a real person owns the follow-up. #BusinessSystems #LagosSME #Easywurld
+- **Pillar:** Teach
+- **Audience problem:** The seller sends a number and the chat goes quiet.
+- **Objective:** Give a usable reply structure without promising a sale.
+- **Single CTA:** Save the three-part reply structure.
+- **Target length:** 32–40s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-004/EW-004_price-reply.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
+- **Contact:** 0905 069 0837
 
-### 12:30 — Video A · Map one enquiry route
-**Script / on-screen text:** 0–3s “Where does a new enquiry go?” · 3–8s “Who sees it?” · 8–13s “What details do they need?” · 13–18s “Who follows up—and how is it tracked?” · 18–21s “Map the route before automating it.”
-**Visual prompt:** A simple enquiry route is drawn with four labelled nodes; warm cream; one terracotta handoff point.
-**Caption:** Before automating a workflow, make the current handoff visible. #WorkflowDesign #BusinessSystems #Easywurld
+### Hook / first frame
 
-### 17:00 — Carousel B · Follow-up without losing context
-**Slides:** 1. “A useful follow-up starts with context.” 2. “What did the person ask for?” 3. “What has already been promised?” 4. “What is the next agreed action?” 5. “Keep notes brief, relevant and private.”
-**Visual direction:** Three clean note cards with generic text, not actual customer data.
-**Caption:** A small, secure record of the conversation can help a team continue it without making the customer repeat everything. #CustomerCare #Operations #Easywurld
+> If you sell on WhatsApp, don't send the price alone.
 
-### 20:00 — Video B · Automation needs an owner
-**Script / on-screen text:** 0–3s “Automation does not own the relationship.” · 3–8s “A person should own the exception.” · 8–13s “Make the handoff visible.” · 13–18s “Tell customers when a person will reply.” · 18–21s “Keep the human in the loop.”
-**Visual prompt:** Automated message hands off to a clearly labelled human step; no robot/AI claims or fake customer chat.
-**Caption:** Automate repetitive steps carefully, and define who handles the exceptions. #BusinessAutomation #CustomerExperience #Easywurld
+### Exact spoken script
 
-## Day 23 · Fri 30 Oct · WhatsApp order capture concept
+> If you sell on WhatsApp, don't send the price alone. Give three things: the price, what it includes, and one sensible next question. For example: the bag is twenty thousand naira, delivery is separate, and it comes in black or brown. Which colour would you like? That's an example, so use your real price and terms. You're making the next step clear, not pressuring someone to buy.
 
-### 08:00 — Carousel A · From message to order details
-**Slides:** 1. “A chat can become hard to manage.” 2. “Concept project: VendorReply.” 3. “Capture the item and quantity.” 4. “Confirm customer and collection details.” 5. “Sample concept · human checks before fulfilment.”
-**Visual direction:** Use existing VendorReply sample at `/projects/vendorreply-order-capture`; persistent “Concept project” label; do not show real chat data.
-**Caption:** VendorReply is a fictional sample concept for turning social messages into structured order details. It does not process real orders. #VendorReply #ConceptProject #Easywurld
+### Edit / shot order
 
-### 12:30 — Video A · VendorReply concept walkthrough
-**Script / on-screen text:** 0–3s “Concept project: VendorReply.” · 3–8s “Collect the item requested.” · 8–13s “Confirm quantity and customer details.” · 13–18s “A person checks before an order is final.” · 18–21s “Sample build by Easywurld.”
-**Visual prompt:** Screen-record the real VendorReply demo; use only demo data; make “Concept project · sample build” persistent; no third-party chat logos.
-**Caption:** A demo of a message-to-order workflow idea. Fictional sample data only—no live orders or customer messages. #WorkflowDesign #ConceptProject #Easywurld
+- 0–3s: “Don't send the price alone.”
+- 3–12s: three lines: price / scope / next question.
+- 12–27s: fictional chat example with EXAMPLE label.
+- 27–36s: “Clear next step. No pressure.”
 
-### 17:00 — Carousel B · Order-confirmation checklist
-**Slides:** 1. “Before confirming an order…” 2. “Repeat the item and quantity.” 3. “Confirm the total and payment status.” 4. “Agree on delivery or collection.” 5. “Give the customer a way to correct a mistake.”
-**Visual direction:** Checklist with a generic order card, explicitly illustrative; no real currency amounts or orders.
-**Caption:** A written confirmation gives both sides a chance to catch errors. Adapt the process to your actual business. #SmallBusinessSystems #CustomerService #Easywurld
+### Caption
 
-### 20:00 — Video B · Do not let a bot guess stock
-**Script / on-screen text:** 0–3s “A workflow should not invent stock.” · 3–8s “Check the real inventory source.” · 8–13s “Flag uncertain details for a person.” · 13–18s “Confirm only what the business can fulfil.” · 18–21s “Good systems know their limits.”
-**Visual prompt:** A stock field marked “unknown” moves to a human review state; no generated product brands or claims.
-**Caption:** If the system cannot verify a detail, it should say so and hand it to someone who can. #BusinessSystems #Ecommerce #Easywurld
+> Price + what it includes + one useful next question. Adapt the example to your actual price, delivery terms and product. This can make a reply clearer; it cannot guarantee a sale. Save the structure for your next enquiry.
+>
+> AI-generated presenter; script reviewed by Easywurld.
+> #WhatsAppBusiness #LagosSME #CustomerServiceTips #Easywurld
 
-## Day 24 · Sat 31 Oct · Booking workflows
+### Visual and edit
 
-### 08:00 — Carousel A · A booking flow that answers questions
-**Slides:** 1. “A booking form is part of the service.” 2. “Show available appointment types.” 3. “Explain duration and preparation.” 4. “Make changes and cancellations understandable.” 5. “Confirm what happens after booking.”
-**Visual direction:** Simple booking journey timeline; no external calendar logo and no fake appointments.
-**Caption:** A booking flow should answer practical questions before and after someone picks a time. #BookingSystems #UXDesign #Easywurld
+Approved avatar plus an original, clearly labelled example chat. No real customer names, numbers or screenshots.
 
-### 12:30 — Video A · BookFlow sample
-**Script / on-screen text:** 0–3s “Concept project: BookFlow.” · 3–8s “Choose an appointment type.” · 8–13s “Pick an available time.” · 13–18s “See the confirmation and next step.” · 18–21s “Fictional sample build by Easywurld.”
-**Visual prompt:** Screen-record `/projects/bookflow-appointments`; show only the existing concept interface; label sample; no actual customer names or booking activity.
-**Caption:** BookFlow is an Easywurld concept for appointment scheduling, not a live booking service. #BookFlow #ConceptProject #Easywurld
+Keep the example on screen long enough to read. Highlight only price, scope and question. Use a quiet cutaway, not a barrage of message sounds.
 
-### 17:00 — Carousel B · Reduce booking uncertainty
-**Slides:** 1. “Before someone books, tell them…” 2. “What the appointment covers.” 3. “How long it usually takes—if confirmed.” 4. “How to reschedule or cancel.” 5. “What to expect after the confirmation.”
-**Visual direction:** Five short question cards; the “if confirmed” condition remains in the slide copy.
-**Caption:** Publish only appointment details the team can stand behind. Clear expectations make a booking flow more useful. #AppointmentBooking #SmallBusinessTips #Easywurld
+### Filled production prompt
 
-### 20:00 — Video B · Reminder messages should help
-**Script / on-screen text:** 0–3s “A reminder should be useful.” · 3–8s “Include the appointment details.” · 8–13s “Say how to make a change.” · 13–18s “Keep personal information limited.” · 18–21s “Respect the customer’s preferences.”
-**Visual prompt:** Generic reminder card with fictional placeholder-free text; highlight time, change link and privacy; no third-party app logo.
-**Caption:** Reminders should make it easier to attend or change an appointment—not create more friction. #CustomerExperience #BookingSystems #Easywurld
+```text
+Create a natural chest-up AI talking-head video from the approved owner likeness and voice, delivering the supplied price-reply script exactly. Use a calm, helpful tone, not a sales shout. Reserve editor space for a fictional chat example labelled EXAMPLE. Do not generate real customer data or imply a guaranteed sale. Keep gestures restrained and eye contact steady.
+```
 
-## Day 25 · Sun 01 Nov · After-hours enquiries
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI presenter · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
 
-### 08:00 — Carousel A · When the business is closed
-**Slides:** 1. “The website can still guide someone after hours.” 2. “Say when the team is available.” 3. “Let people leave the right details.” 4. “Explain when a person will follow up.” 5. “Never imply an emergency service you do not provide.”
-**Visual direction:** Clear “open / closed” states with a contact form card; no 24/7 promise.
-**Caption:** Set accurate expectations when customers reach you outside working hours. Do not imply round-the-clock support unless it is real. #CustomerService #BusinessSystems #Easywurld
+**Fallback:** Turn the three-part reply into a static checklist with the same example and caption.
 
-### 12:30 — Video A · After-hours Reception concept
-**Script / on-screen text:** 0–3s “Concept project: After-hours Reception.” · 3–8s “Capture the reason for the enquiry.” · 8–13s “Show the real opening hours.” · 13–18s “Route urgent cases only if a real process exists.” · 18–21s “Sample workflow by Easywurld.”
-**Visual prompt:** Screen-record the actual After-hours Reception demo at `/projects/after-hours-reception`; show demo labels; do not call it live or promise 24/7 service.
-**Caption:** A sample enquiry-capture workflow for a fictional dental practice. It is not a live receptionist or healthcare service. #AfterHoursReception #ConceptProject #Easywurld
-
-### 17:00 — Carousel B · Write an honest auto-reply
-**Slides:** 1. “An auto-reply should set a true expectation.” 2. “Confirm the message was received.” 3. “Say when the team is normally available.” 4. “Offer another route only if it is monitored.” 5. “Do not promise a reply time you cannot meet.”
-**Visual direction:** Generic email/message card labelled “example wording”; no fake real conversation.
-**Caption:** Auto-replies can be helpful when they are accurate. Review them whenever hours or staffing change. #CustomerCommunication #SmallBusinessSystems #Easywurld
-
-### 20:00 — Video B · The human handoff
-**Script / on-screen text:** 0–3s “A useful automation knows when to stop.” · 3–8s “It captures the question.” · 8–13s “It flags what needs a person.” · 13–18s “It leaves a clear handoff note.” · 18–21s “People stay responsible for the answer.”
-**Visual prompt:** Workflow animation stops at a visible “human review” node; no robot mascot, fake chat, or guaranteed response claims.
-**Caption:** Make the handoff part of the design. Automation can organise the question; a person still owns the answer. #HumanCenteredDesign #Workflow #Easywurld
-
-## Day 26 · Mon 02 Nov · Content systems
-
-### 08:00 — Carousel A · Make a content plan repeatable
-**Slides:** 1. “A content calendar should reduce decisions.” 2. “Choose a few useful topic pillars.” 3. “Give each post one job.” 4. “Reuse strong ideas in a new format.” 5. “Review what your audience actually responds to.”
-**Visual direction:** Simple monthly grid with topic colours drawn only from Easywurld palette; do not show fake engagement data.
-**Caption:** Build a repeatable rhythm, then use real audience response to refine it. A calendar is a tool—not a guarantee of reach. #ContentPlanning #SocialMediaNigeria #Easywurld
-
-### 12:30 — Video A · Turn one idea into three formats
-**Script / on-screen text:** 0–3s “One idea. Three useful formats.” · 3–8s “Explain it in a short video.” · 8–13s “Turn the steps into a carousel.” · 13–18s “Make a checklist for the team.” · 18–21s “Change the format, keep the point.”
-**Visual prompt:** One idea card branches into reel, carousel and checklist; use actual Easywurld palette and logo mark.
-**Caption:** Repurpose the useful idea, not every sentence. Each format should earn its place. #ContentStrategy #SmallBusinessTips #Easywurld
-
-### 17:00 — Carousel B · Five content pillars for a small business
-**Slides:** 1. “Try five useful content pillars.” 2. “Teach: answer a real question.” 3. “Show: explain your process.” 4. “Prove: share permitted, verifiable work.” 5. “Invite: give one clear next step.”
-**Visual direction:** Five labelled typographic blocks, no claim that these guarantee performance.
-**Caption:** A simple set of content pillars can make planning easier. Adapt them to the questions your customers actually ask. #SocialMediaManagement #ContentPillars #Easywurld
-
-### 20:00 — Video B · Keep a sustainable posting system
-**Script / on-screen text:** 0–3s “A posting plan should be sustainable.” · 3–8s “Batch what can be batched.” · 8–13s “Leave room for current business news.” · 13–18s “Review quality before scheduling.” · 18–21s “Consistency needs a workable process.”
-**Visual prompt:** Calendar fills in around protected review time; no fake analytics dashboard or performance claim.
-**Caption:** A schedule you can maintain is more useful than an ambitious one you abandon. #ContentWorkflow #LagosBusiness #Easywurld
-
-## Day 27 · Tue 03 Nov · Practical automation boundaries
-
-### 08:00 — Carousel A · What to automate first
-**Slides:** 1. “Automate repetition—not judgement.” 2. “Start with a frequent, predictable task.” 3. “Write down the current steps.” 4. “Add a clear exception and human handoff.” 5. “Test safely before relying on it.”
-**Visual direction:** A repetitive task flows to a human exception path; one terracotta handoff marker.
-**Caption:** Automation starts with a stable process and a clear owner. If the task needs judgement, keep a person in the loop. #BusinessAutomation #WorkflowDesign #Easywurld
-
-### 12:30 — Video A · One question before automating
-**Script / on-screen text:** 0–3s “Before you automate a task, ask…” · 3–8s “Does it happen often?” · 8–13s “Are the steps clear?” · 13–18s “What happens when the usual path fails?” · 18–21s “Design the exception first.”
-**Visual prompt:** Three question cards lead to an exception branch; no AI claims or sci-fi effects.
-**Caption:** Edge cases are part of the workflow, not an afterthought. #Automation #SmallBusinessSystems #Easywurld
-
-### 17:00 — Carousel B · Safe workflow handoff
-**Slides:** 1. “A good workflow explains its limits.” 2. “What information does it use?” 3. “What can it do?” 4. “When does a person take over?” 5. “Make those boundaries visible.”
-**Visual direction:** Four clear boundary cards; plain, editorial layout.
-**Caption:** Set clear boundaries around automated actions and customer data. People should know when a real team member is involved. #ResponsibleAutomation #BusinessSystems #Easywurld
-
-### 20:00 — Video B · Build for the exception
-**Script / on-screen text:** 0–3s “The edge case will happen.” · 3–8s “Missing information?” · 8–13s “Unexpected request?” · 13–18s “Give the workflow a safe stopping point.” · 18–21s “Then tell the right person.”
-**Visual prompt:** Flowchart pauses at “needs review” and routes to a human; warm typography; no invented technology claims.
-**Caption:** A useful system knows when it cannot continue safely. Plan the handoff before launch. #WorkflowAutomation #CustomerCare #Easywurld
-
-## Day 28 · Wed 04 Nov · Forms and privacy
-
-### 08:00 — Carousel A · Ask only for useful information
-**Slides:** 1. “Every form field asks for effort.” 2. “Ask for what the next step needs.” 3. “Make optional fields clearly optional.” 4. “Explain why sensitive details are needed.” 5. “Keep collected information protected.”
-**Visual direction:** Simple form showing required/optional labels; no real personal information.
-**Caption:** Keep forms proportionate to the task, and explain why you need information. Handle submitted data responsibly. #Forms #PrivacyByDesign #Easywurld
-
-### 12:30 — Video A · Review a contact form
-**Script / on-screen text:** 0–3s “Audit your contact form.” · 3–8s “Remove a field you do not use.” · 8–13s “Explain any sensitive request.” · 13–18s “Check the confirmation message.” · 18–21s “Make the next step clear.”
-**Visual prompt:** Generic contact form simplifies one field at a time; sample names/emails are not shown; use privacy-conscious UI.
-**Caption:** A shorter form is only better when it still collects what the team genuinely needs. #UXDesign #Privacy #Easywurld
-
-### 17:00 — Carousel B · Form confirmation checklist
-**Slides:** 1. “After submit, answer these.” 2. “Did the message send?” 3. “What should the person expect now?” 4. “Is there another route for urgent needs?” 5. “Only list a monitored contact route.”
-**Visual direction:** Confirmation page mock with four short checks; label it “example interface.”
-**Caption:** Confirmation pages close the loop. Make every next-step promise match the real process. #WebsiteForms #CustomerExperience #Easywurld
-
-### 20:00 — Video B · A privacy-conscious form
-**Script / on-screen text:** 0–3s “Collect less, with a reason.” · 3–8s “Use only the fields the task needs.” · 8–13s “Say how the information will be used.” · 13–18s “Restrict access to the right people.” · 18–21s “Review the process regularly.”
-**Visual prompt:** Plain-language form guidance as animated type; no legal-compliance guarantee; end on Easywurld mark.
-**Caption:** This is a design checklist, not legal advice. Review your data practices with the right professional for your situation. #PrivacyByDesign #SmallBusiness #Easywurld
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
 
 ---
 
-# Week 5 — Review and invite (5–6 November)
+## EW-005 · 27 tabs. Zero posts.
 
-## Day 29 · Thu 05 Nov · A month of useful marketing clarity
+**2026-11-06 · Friday · 18:30 WAT · Instagram · Relatable static**
 
-### 08:00 — Carousel A · The month in five reminders
-**Slides:** 1. “Marketing clarity, in five reminders.” 2. “Say what you do.” 3. “Design for the phone.” 4. “Connect content, website and follow-up.” 5. “Measure honestly. Improve one thing at a time.”
-**Visual direction:** A calm editorial recap, one large reminder per slide; no fabricated performance numbers.
-**Caption:** A month of practical reminders: clarity, mobile usability, honest measurement and connected systems. Save the one you need next. #MarketingClarity #Easywurld #LagosBusiness
+- **Pillar:** Teach
+- **Audience problem:** Researching content has replaced deciding what to say.
+- **Objective:** Create recognition, then give a small way out.
+- **Single CTA:** Save this for the next time you're stuck.
+- **Target length:** Static 4:5
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-005/EW-005_tabs-static.png` (production target; not a finished file unless explicitly supplied)
+- **Supplied starter:** `marketing/assets/launch-week/EW-005_tabs-static.png` — review before publishing.
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
+- **Contact:** 0905 069 0837
 
-### 12:30 — Video A · One minute of website checks (20-second edit)
-**Script / on-screen text:** 0–3s “Quick site review.” · 3–7s “Can a new visitor understand the offer?” · 7–11s “Does the phone layout work?” · 11–15s “Can they reach you?” · 15–20s “Run a live test, then fix the real issue.”
-**Visual prompt:** Rapid but calm checklist over a generic website wireframe; no score claims; close with Easywurld lockup.
-**Caption:** A few focused questions can make a website review more useful. Run the check on your own site today. #WebsiteReview #WebDesignNigeria #Easywurld
+### Hook / first frame
 
-### 17:00 — Carousel B · Three practical next steps
-**Slides:** 1. “What could you improve this week?” 2. “Rewrite one unclear headline.” 3. “Make one contact path easier.” 4. “Compress one oversized image.” 5. “Pick one. Finish it. Review.”
-**Visual direction:** One checklist with three selectable tasks and a quiet terracotta tick.
-**Caption:** You do not need a full redesign to make a useful improvement. Choose one task you can finish and verify. #SmallBusinessTips #WebsiteTips #Easywurld
+> 27 tabs open.
+> Still no post.
 
-### 20:00 — Video B · What should we solve next?
-**Script / on-screen text:** 0–3s “What is the hardest part of your online presence?” · 3–8s “The website?” · 8–13s “Finding customers?” · 13–18s “Keeping enquiries moving?” · 18–21s “Tell Easywurld what you are working on.”
-**Visual prompt:** Three clean question cards; ending CTA with real WhatsApp number 0905 069 0837; no animated fake testimonials.
-**Caption:** What are you trying to solve right now? Message Easywurld on WhatsApp: 0905 069 0837. #Easywurld #LagosSME #StartAProject
+### Exact image copy
 
-## Day 30 · Fri 06 Nov · Start with one clear next step
+> 27 tabs open.
+> Still no post.
+>
+> Close 26.
+> Answer one customer question.
+> One useful answer beats another moodboard.
 
-### 08:00 — Carousel A · Is it time to improve your site?
-**Slides:** 1. “A website should make the next step easier.” 2. “Visitors should understand the offer.” 3. “Pages should work on the phone.” 4. “The enquiry route should reach a real person.” 5. “Which part would you improve first?”
-**Visual direction:** Four-question audit; final slide is a conversational question, not a guarantee or hard sell.
-**Caption:** If one part of your website is creating friction, start there. You can review the site or talk through the problem with us. #WebsiteDesign #MarketingClarity #Easywurld
+### Caption
 
-### 12:30 — Video A · What to send when you enquire
-**Script / on-screen text:** 0–3s “Starting a web project?” · 3–8s “Tell us what your business does.” · 8–13s “Share the problem you want to solve.” · 13–18s “Include your current site or social page.” · 18–21s “We’ll take it from there.”
-**Visual prompt:** Three-message template cards animate in; end card shows Easywurld and WhatsApp 0905 069 0837; do not promise a specific reply time.
-**Caption:** A useful first message can be simple: your business, the challenge and a link to what you have today. WhatsApp 0905 069 0837. #StartAProject #LagosBusiness #Easywurld
+> Sometimes the next post is already in your customer conversations. Pick one real question you can answer without sharing private details. Write the answer in three sentences. Add one example. That's a useful starting point. You don't need another moodboard before you begin.
+>
+> #SmallBusinessTips #ContentPlanning #LagosBusiness #Easywurld
 
-### 17:00 — Carousel B · What to prepare for a first conversation
-**Slides:** 1. “No perfect brief needed.” 2. “A link to your current website or page.” 3. “The service or offer you want to improve.” 4. “The people you want to reach.” 5. “One question you want answered.”
-**Visual direction:** Five practical prompt cards with plenty of whitespace; CTA “Start with a conversation.”
-**Caption:** You do not need all the answers before asking a question. Bring what you know and we can clarify the rest together. #DigitalStudio #LagosSME #Easywurld
+### Visual and edit
 
-### 20:00 — Video B · Month-end invitation
-**Script / on-screen text:** 0–3s “One clear next step.” · 3–8s “Explore the Easywurld concept portfolio.” · 8–13s “Choose a service—or ask a question.” · 13–18s “Web design, SEO, content and practical systems.” · 18–21s “Simplify. Optimize. Grow.”
-**Visual prompt:** Quick montage of actual Easywurld project demo pages, each clearly labelled “Concept project · sample build”; end with the unified logo/slogan lockup.
-**Caption:** Thanks for spending the month with Easywurld. Explore the sample work, or tell us what you are trying to solve. #Easywurld #SimplifyOptimizeGrow #LagosBusiness
+Original cream text meme. Large deep-green serif first line, smaller practical resolution, one terracotta period. No borrowed meme image or implied customer screenshot.
+
+Export 1080×1350. Keep the joke readable at thumbnail size. The caption supplies the useful action; do not add a hard sell to the image.
+
+### Filled production prompt
+
+```text
+Create one original Easywurld text-led static post, 4:5. Exact headline: '27 tabs open. Still no post.' Resolution: 'Close 26. Answer one customer question.' Cream background, deep-green serif headline, one terracotta accent. Editorial, dry humour, no stock image, no copied meme and no fake notification UI.
+```
+
+**Disclosure:** No realistic synthetic person/voice planned. Ordinary designed text/graphics do not need an AI-presenter label. Reassess if the production method changes.
+
+**Fallback:** Post the words as a plain text update; no design dependency.
 
 ---
 
-## Before you schedule — final checklist
+## EW-008 · Why our portfolio says sample.
 
-- Confirm the dates, time zone and publishing channels inside your scheduler.
-- Open each demo URL and use the real live page capture—do not fabricate interface details.
-- Add the **actual Easywurld mark** to every creative; image models often redraw logos incorrectly.
-- Proofread all text after generation and make captions readable with sound off.
-- Keep “concept project · sample build” visible on demo showcases.
-- The Lighthouse post links to a live PageSpeed Insights run. It contains **no promised score**; results are generated when the visitor runs the test.
-- Never schedule invented client results, testimonials, ratings, search rankings or performance scores.
+**2026-11-09 · Monday · 18:30 WAT · TikTok · AI talking head**
+
+- **Pillar:** Trust
+- **Audience problem:** Prospects cannot tell sample work from real client engagements.
+- **Objective:** Build trust by explaining the evidence honestly.
+- **Single CTA:** Look at a sample and ask about the decisions.
+- **Target length:** 34–42s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-008/EW-008_sample-work.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/projects
+- **Contact:** 0905 069 0837
+
+### Hook / first frame
+
+> Every project in our portfolio has a label: sample.
+
+### Exact spoken script
+
+> Every project in our portfolio has a label: concept or sample. That means we made it to show our thinking. It does not mean a client hired us, or that it produced a sales increase. We'd rather you judge the writing, the design and the decisions than a wall of logos we haven't earned. Look at the work. Ask why we made each choice. And if someone shows you a result, ask what evidence sits behind it.
+
+### Edit / shot order
+
+- 0–3s: “Every project is labelled sample.”
+- 3–14s: show a real project card with its concept/sample label.
+- 14–27s: return to presenter; explain what the sample proves and does not.
+- 27–37s: “Judge the thinking. Ask for evidence.”
+
+### Caption
+
+> Our portfolio is concept and sample work. No invented client logos, testimonials or performance figures. The work is there so you can inspect the thinking. AI-generated presenter; script reviewed by Easywurld.
+>
+> #Easywurld #LagosBusiness #WebDesignNigeria #HonestMarketing
+
+### Visual and edit
+
+Approved avatar with a real portfolio-card cutaway. Keep the existing sample label readable. Persistent AI-presenter disclosure.
+
+Use one portfolio cutaway, not a fast montage. Do not cover the sample label with captions. Read the final sentence slowly.
+
+### Filled production prompt
+
+```text
+Create a sincere, restrained talking-head explanation using the approved owner likeness and voice. Deliver the exact script about concept/sample portfolio work. Use a quiet warm-neutral background and natural eye contact. Do not add client logos, awards, testimonials or performance figures. Leave room for a real portfolio screenshot and AI disclosure.
+```
+
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI presenter · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
+
+**Fallback:** Owner-recorded vertical video or a carousel of actual sample labels with the same explanation.
+
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
+
+**Optional Facebook copy:**
+
+> Our portfolio is made of concept projects and sample builds. They show our writing, design and decision-making, not client engagements or measured results. We label them clearly. You can inspect the work and ask why each choice was made.
+
+**Optional LinkedIn copy:**
+
+> A young studio should be clear about its evidence. Easywurld's portfolio consists of concept projects and sample builds, not client case studies. We show the problem, the choices and the limitations rather than inventing logos or performance figures. Judge the thinking, and ask for evidence when anyone claims a result.
+
+---
+
+## EW-009 · A follow-up that knows when to stop.
+
+**2026-11-10 · Tuesday · 18:30 WAT · Instagram · Carousel**
+
+- **Pillar:** Teach
+- **Audience problem:** Follow-up either never happens or turns into repeated chasing.
+- **Objective:** Teach boundaries and a trackable next action.
+- **Single CTA:** Save the stop rule.
+- **Target length:** 5 slides
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-009/EW-009_follow-up-carousel.zip` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
+- **Contact:** 0905 069 0837 · keyword PLAYBOOK
+
+### Hook / first frame
+
+> A follow-up system needs a stop rule.
+
+### Exact slide copy
+
+> Slide 1: A follow-up system needs a stop rule.
+>
+> Slide 2: Write down the enquiry and what the customer actually needs.
+>
+> Slide 3: Agree a useful next check-in.
+> Give them a reason to reply.
+>
+> Slide 4: If there's no response, send a brief closing note. Then stop.
+>
+> Slide 5: Helpful beats persistent.
+> Save this for your next follow-up.
+
+### Caption
+
+> A follow-up should help the customer take a next step, not make them feel hunted. Record the context, make any check-in useful and respect a no. Our sample workflow uses example timings; choose a rhythm that fits your actual sale. For reply scripts and a tracker, message PLAYBOOK on WhatsApp: 0905 069 0837. The pack is a DIY resource, not a lead generator.
+>
+> #WhatsAppBusiness #CustomerServiceTips #LagosSME #Easywurld
+
+### Visual and edit
+
+Five cream slides with a simple enquiry → useful check-in → closing note path. One terracotta stop marker.
+
+One idea per slide. Avoid fake chat screenshots. Keep the distinction between an example rhythm and a promise clear.
+
+### Filled production prompt
+
+```text
+Design a five-slide Easywurld carousel explaining a respectful follow-up stop rule. Use the exact supplied copy, cream background, deep-green serif headlines and a simple three-step path. One terracotta stop marker. No fabricated customer messages, no aggressive sales language, real Easywurld mark on the last slide.
+```
+
+**Disclosure:** No realistic synthetic person/voice planned. Ordinary designed text/graphics do not need an AI-presenter label. Reassess if the production method changes.
+
+**Fallback:** Publish as a short text checklist.
+
+---
+
+## EW-010 · What a follow-up workflow should make visible.
+
+**2026-11-11 · Wednesday · 18:30 WAT · TikTok · Screen demo**
+
+- **Pillar:** Show
+- **Audience problem:** The owner cannot see which enquiry needs attention next.
+- **Objective:** Demonstrate a sample workflow without pretending messages were sent.
+- **Single CTA:** Inspect the sample workflow.
+- **Target length:** 34–42s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-010/EW-010_follow-up-demo.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/projects/follow-up-loop
+- **Contact:** 0905 069 0837
+
+### Hook / first frame
+
+> A follow-up workflow should show the next action.
+
+### Exact spoken script
+
+> Here's our follow-up concept. It isn't a live campaign, and nothing here was sent to a real customer. Open a message and look for three things: why you're checking in, what you're asking, and when the sequence stops. The point is to make the next action visible without turning follow-up into spam. A system should help you remember the person, not hide them behind automation.
+
+### Edit / shot order
+
+- 0–3s: actual demo headline; CONCEPT / SAMPLE visible.
+- 3–14s: open the first example message.
+- 14–28s: inspect the purpose, question and stop rule.
+- 28–37s: show the workflow's boundaries, not fake delivery stats.
+
+### Caption
+
+> A tour of Follow-up Loop, an Easywurld concept workflow. The messages are sample copy; no real campaign or measured result is shown. A useful system makes the next action and the stop rule clear.
+>
+> Concept project · sample build.
+>
+> AI voiceover; script reviewed by Easywurld.
+>
+> #BusinessSystems #CustomerFollowUp #Easywurld #LagosBusiness
+
+### Visual and edit
+
+Record the actual demo. Keep example recipient addresses visibly fictional. No real inbox, no sent-message claim.
+
+Use a readable crop of one message at a time. Add a persistent sample label. Explain the stop rule; do not add dashboard numbers that the demo does not contain.
+
+### Filled production prompt
+
+```text
+Edit the supplied screen recording of Easywurld's Follow-up Loop concept into a vertical walkthrough. Follow the exact beat order, keep the sample label visible and use only the supplied approved narration. Show the message purpose, question and stop rule. Do not imply real sends, customer results or live automation.
+```
+
+**Real source to record:** `client/public/demo/follow-up-loop/index.html`
+
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI voice · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
+
+**Fallback:** Annotated screenshots of the actual demo with the same disclosure.
+
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
+
+**Optional Facebook copy:**
+
+> This is a sample follow-up workflow, not a live campaign. It shows how a check-in can have a purpose, a clear question and a stopping point. The useful test for any system: does it help you remember the customer and the next action? Concept project · sample build.
+
+**Optional LinkedIn copy:**
+
+> Before automating follow-up, make the human rules visible. Our Follow-up Loop concept shows a sample sequence with a reason to check in, a clear question and a stop rule. No messages were sent to real customers and no campaign results are claimed. Inspect the workflow as a design sample, not a performance case study.
+
+---
+
+## EW-011 · What happens after you message Easywurld.
+
+**2026-11-12 · Thursday · 18:30 WAT · TikTok · AI talking head**
+
+- **Pillar:** Trust
+- **Audience problem:** The owner expects a pushy sales call or cannot tell what the next step is.
+- **Objective:** Explain the real project enquiry process.
+- **Single CTA:** Send your link and the problem you want to solve.
+- **Target length:** 35–43s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-011/EW-011_enquiry-process.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/contact
+- **Contact:** 0905 069 0837
+
+### Hook / first frame
+
+> You don't need a perfect brief to message us.
+
+### Exact spoken script
+
+> You don't need a perfect brief to message us. Send your business link and one sentence about what you're trying to solve. We'll ask questions if we need more detail, or tell you honestly if it isn't a fit. For a project, the next step is a short conversation and a written plan with scope, timing and price before work starts. If all you need is a self-guided pack, we can point you to that instead.
+
+### Edit / shot order
+
+- 0–3s: “You don't need a perfect brief.”
+- 3–14s: show link + one-sentence problem.
+- 14–28s: questions → short conversation → written plan.
+- 28–38s: DIY pack versus custom project distinction.
+
+### Caption
+
+> Start with your business link and the problem in one sentence. Project work gets a written scope, timeline and price before it starts. DIY packs are separate self-guided resources. WhatsApp: 0905 069 0837.
+>
+> AI-generated presenter; script reviewed by Easywurld.
+> #LagosBusiness #SmallBusinessNigeria #Easywurld #WebDesignNigeria
+
+### Visual and edit
+
+Approved avatar and a simple three-step process graphic. No fake calendar availability or response-time guarantee.
+
+Use plain language and a calm pace. Show the written-plan step clearly. Do not imply a pack includes custom consultation.
+
+### Filled production prompt
+
+```text
+Create an approachable vertical talking-head video using the approved owner likeness and voice. Read the supplied enquiry-process script exactly. Warm neutral background, chest-up framing, natural pauses and no sales urgency. Leave room for a three-step process graphic. Do not invent availability, response guarantees, team members or client stories.
+```
+
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI presenter · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
+
+**Fallback:** A five-slide process carousel or the owner's own recording.
+
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
+
+---
+
+## EW-012 · One offer. One page. One next step.
+
+**2026-11-13 · Friday · 18:30 WAT · Instagram · Carousel**
+
+- **Pillar:** Teach
+- **Audience problem:** A campaign sends traffic to a page with too many competing actions.
+- **Objective:** Explain when a focused landing page is useful.
+- **Single CTA:** Save this before your next campaign.
+- **Target length:** 5 slides
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-012/EW-012_one-offer-carousel.zip` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/one-offer-landing-page-kit
+- **Contact:** 0905 069 0837 · keyword PAGE
+
+### Hook / first frame
+
+> One ad doesn't need your whole website.
+
+### Exact slide copy
+
+> Slide 1: One ad doesn't need your whole website.
+>
+> Slide 2: If the campaign sells one offer, give that offer a focused page.
+>
+> Slide 3: Say who it's for, what's included and what it costs.
+>
+> Slide 4: Give one next step.
+> Answer the questions that stop someone taking it.
+>
+> Slide 5: One offer. One page. One next step.
+> Save this before your next campaign.
+
+### Caption
+
+> A focused page can make a single offer easier to understand. It still needs a real offer, accurate terms and a working contact route. The One-Offer Landing Page Kit includes a guide, copy template, editable HTML starter and pre-launch checklist. It is DIY; hosting and domain costs are separate. Message PAGE on WhatsApp: 0905 069 0837 for current price and delivery details.
+>
+> #LandingPage #SmallBusinessTips #LagosSME #Easywurld
+
+### Visual and edit
+
+Five slides with a simple page wireframe: offer, details, proof you actually have, one action. Do not fabricate proof.
+
+Keep the wireframe schematic and readable. Use one accent for the next-step button. No invented conversion percentages.
+
+### Filled production prompt
+
+```text
+Create a five-slide editorial carousel about a one-offer landing page. Use the exact supplied copy and a simple schematic page layout. Cream #FAE7C7, deep green #0A4937, one terracotta button accent. No fake testimonials, analytics or client logos. Add the real Easywurld mark only in the editor.
+```
+
+**Disclosure:** No realistic synthetic person/voice planned. Ordinary designed text/graphics do not need an AI-presenter label. Reassess if the production method changes.
+
+**Fallback:** Use the same five points as a text post.
+
+---
+
+## EW-015 · Fix the sentence before rebuilding the site.
+
+**2026-11-16 · Monday · 18:30 WAT · TikTok · AI talking head**
+
+- **Pillar:** Teach
+- **Audience problem:** The owner wants a redesign when the offer itself is unclear.
+- **Objective:** Explain the studio's Understand → Simplify → Build → Optimize order.
+- **Single CTA:** Save this for your next website brief.
+- **Target length:** 34–42s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-015/EW-015_message-before-site.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
+- **Contact:** 0905 069 0837
+
+### Hook / first frame
+
+> A new website can't rescue a sentence nobody understands.
+
+### Exact spoken script
+
+> A new website can't rescue a sentence nobody understands. Before you pay for a redesign, write down what you sell, who buys it and why they should choose you. Then ask someone outside the business to explain it back to you. If they can't, the message needs work. Our order is simple: understand, simplify, build, optimize. Sometimes the first improvement is a sentence, not a new template.
+
+### Edit / shot order
+
+- 0–3s: “A new website can't rescue this sentence.”
+- 3–14s: offer / customer / reason to choose.
+- 14–25s: ask someone to explain it back.
+- 25–37s: Understand → Simplify → Build → Optimize.
+
+### Caption
+
+> Before the redesign: what do you sell, who buys it, and why should they choose you? Test the answer with someone outside the business. A clearer message can change what the site actually needs. Save this for your next website brief.
+>
+> AI-generated presenter; script reviewed by Easywurld.
+> #WebsitePlanning #SmallBusinessTips #LagosBusiness #Easywurld
+
+### Visual and edit
+
+Approved avatar, three short text cards and the real four-step process. No before/after sales claims.
+
+Use a small reframe on the opening point, then a clean process graphic. Avoid a redesign montage that distracts from the message.
+
+### Filled production prompt
+
+```text
+Create a direct but friendly AI talking-head video using the approved owner likeness and voice. Deliver the supplied website-planning script exactly. Chest-up framing, soft light, quiet background, restrained gestures. Leave space for three message questions and the four-step Easywurld process. Do not imply every business needs a redesign or promise commercial outcomes.
+```
+
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI presenter · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
+
+**Fallback:** A carousel comparing a vague offer with a clear structure, using original examples only.
+
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
+
+---
+
+## EW-016 · Local visibility starts with correct information.
+
+**2026-11-17 · Tuesday · 18:30 WAT · TikTok · Screen demo**
+
+- **Pillar:** Show
+- **Audience problem:** The business has inconsistent hours, contact details and service descriptions.
+- **Objective:** Show a practical local-search audit without ranking promises.
+- **Single CTA:** Inspect the local visibility sample.
+- **Target length:** 36–45s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-016/EW-016_local-visibility-demo.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/projects/local-first-visibility
+- **Contact:** 0905 069 0837
+
+### Hook / first frame
+
+> Before chasing rankings, check your opening hours.
+
+### Exact spoken script
+
+> Before chasing rankings, check your opening hours. This is our local visibility concept, not a campaign we ran for a client. Look at the audit: wrong hours, an old phone number, a duplicate listing. These are example issues, but the check is real. Compare your business profile, website and social pages. Make the name, contact details, hours and services consistent. That's maintenance you can start before buying another promotion.
+
+### Edit / shot order
+
+- 0–3s: actual demo audit heading; CONCEPT / SAMPLE visible.
+- 3–15s: readable crop of example listing issues.
+- 15–29s: profile / website / social consistency checklist.
+- 29–40s: “No ranking promise. Start with accurate information.”
+
+### Caption
+
+> A walkthrough of our Local First concept plan. The audit entries are examples, not a real client's results. Check your own hours, contact details and service descriptions across your profile, website and social pages. No ranking or enquiry volume is guaranteed.
+>
+> Concept project · sample build.
+>
+> AI voiceover; script reviewed by Easywurld.
+>
+> #LocalSEO #LagosBusiness #SmallBusinessNigeria #Easywurld
+
+### Visual and edit
+
+Actual local visibility demo. Highlight audit rows and the maintenance routine. Keep the concept label and limitation visible.
+
+Record a readable crop; do not show a map pin as if it were a real client. Use a checklist cutaway. No ranking arrows, fake reviews or traffic graphs.
+
+### Filled production prompt
+
+```text
+Edit the supplied recording of Easywurld's Local First concept into a vertical audit walkthrough. Use only real demo content, keep the concept/sample label visible and follow the supplied narration. Highlight hours, contact details and consistency. Do not fabricate rankings, reviews, customer numbers or executed-campaign results.
+```
+
+**Real source to record:** `client/public/demo/local-first-visibility/index.html`
+
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI voice · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
+
+**Fallback:** A checklist carousel using original example listings, clearly labelled EXAMPLE.
+
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
+
+**Optional Facebook copy:**
+
+> Before paying for more local promotion, check the basics: are your hours, phone number and services the same on your profile, website and social pages? Our Local First sample shows how to audit them. It is a concept plan, not a ranking case study.
+
+**Optional LinkedIn copy:**
+
+> Local visibility work often starts with maintenance rather than a new campaign. Our Local First concept demonstrates an audit of inconsistent hours, contact details and listings. The entries are examples, not executed client work. The practical takeaway: compare your business profile, website and social pages before buying more promotion. No ranking outcome is claimed.
+
+---
+
+## EW-017 · The old phone number is still online.
+
+**2026-11-18 · Wednesday · 18:30 WAT · Instagram · Relatable static**
+
+- **Pillar:** Teach
+- **Audience problem:** Promotion sends people to an outdated contact route.
+- **Objective:** Use a recognisable frustration to prompt a practical check.
+- **Single CTA:** Test your contact route today.
+- **Target length:** Static 4:5
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-017/EW-017_contact-route-static.png` (production target; not a finished file unless explicitly supplied)
+- **Supplied starter:** `marketing/assets/launch-week/EW-017_contact-route-static.png` — review before publishing.
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/lagos-local-visibility-starter
+- **Contact:** 0905 069 0837
+
+### Hook / first frame
+
+> New campaign.
+> Old phone number.
+
+### Exact image copy
+
+> New campaign.
+> Old phone number.
+>
+> The enquiry can't reach you.
+> Check the contact route first.
+> Test the journey before buying more traffic.
+
+### Caption
+
+> Before the next promotion, test the journey as a customer would. Open the profile. Tap the number. Try the website contact button. Check the hours. Ask someone outside the business to do it too. A clear route matters before a bigger audience.
+>
+> #LagosSME #LocalBusinessTips #CustomerExperience #Easywurld
+
+### Visual and edit
+
+Original text-led static, 4:5. Two-line contrast, one terracotta underline under the practical fix. No real directory screenshot.
+
+Keep the first two lines dominant. Make the resolution readable without zooming. Do not turn it into a fake Google listing.
+
+### Filled production prompt
+
+```text
+Create one original Easywurld static post, 4:5, with the exact text 'New campaign. Old phone number.' followed by 'The enquiry can't reach you. Check the contact route first.' Cream background, deep-green serif headline, one terracotta underline. No copied platform interface, no real business details and no stock photography.
+```
+
+**Disclosure:** No realistic synthetic person/voice planned. Ordinary designed text/graphics do not need an AI-presenter label. Reassess if the production method changes.
+
+**Fallback:** Plain text update with the same checklist.
+
+---
+
+## EW-018 · AI drafts. A person decides.
+
+**2026-11-19 · Thursday · 18:30 WAT · TikTok · AI talking head**
+
+- **Pillar:** Trust
+- **Audience problem:** The business publishes AI output without checking facts or boundaries.
+- **Objective:** Show how Easywurld uses AI without hiding responsibility.
+- **Single CTA:** Save the draft–check–approve rule.
+- **Target length:** 33–41s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-018/EW-018_ai-review.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/everyday-ai-prompt-desk
+- **Contact:** 0905 069 0837
+
+### Hook / first frame
+
+> The AI can write the draft. It doesn't get to approve it.
+
+### Exact spoken script
+
+> The AI can write the draft. It doesn't get to approve it. Before anything leaves our account, a person checks the facts, the price, the promise and the tone. We don't paste private customer details into a prompt. We label realistic AI presenters. And when a question needs a human decision, it gets one. Use AI to make the work easier, not to make the responsibility disappear.
+
+### Edit / shot order
+
+- 0–3s: “AI drafts. A person approves.”
+- 3–15s: facts / price / promise / tone checklist.
+- 15–27s: private details stay out; realistic AI gets disclosed.
+- 27–37s: human decision and responsibility.
+
+### Caption
+
+> Our AI rule: draft, check, approve. Verify facts, prices, claims and permissions. Keep private customer information out of prompts. This video uses an AI-generated presenter; the script is reviewed by Easywurld before publication.
+>
+> #AIForBusiness #SmallBusinessTips #ResponsibleAI #Easywurld
+
+### Visual and edit
+
+Approved owner avatar with persistent AI-presenter label and a four-item review checklist. No private documents on screen.
+
+Let the disclosure be visible, not a hidden end-frame. Use one checklist cutaway. Keep the voice measured; no robot effects or glitch transitions.
+
+### Filled production prompt
+
+```text
+Create a transparent AI talking-head explainer using the approved owner likeness and voice. Deliver the supplied script exactly. Keep the presenter natural, the background quiet and the framing chest-up. Reserve visible space for 'AI presenter · Easywurld' and a facts/price/promise/tone checklist. Do not simulate private customer data or imply AI independently approves business decisions.
+```
+
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI presenter · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
+
+**Fallback:** A carousel explaining the review checklist, without a synthetic presenter.
+
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
+
+**Optional Facebook copy:**
+
+> AI can help draft a reply or a post. A person still needs to check the facts, price, promise and tone. Keep private customer details out of prompts, disclose realistic AI presenters and give sensitive decisions to a human. That is the rule for this account.
+
+**Optional LinkedIn copy:**
+
+> A practical AI workflow needs an approval step. Before publication, check facts, prices, claims, tone and permissions. Do not put private customer information into prompts. Disclose realistic synthetic presenters and keep consequential decisions with a person. AI can reduce drafting effort without removing responsibility. The presenter in this video is AI-generated; the script is reviewed by Easywurld.
+
+---
+
+## EW-019 · Before you ask for more traffic.
+
+**2026-11-20 · Friday · 18:30 WAT · Instagram · Carousel**
+
+- **Pillar:** Teach
+- **Audience problem:** The business wants more visitors before the page and reply process are ready.
+- **Objective:** Give a pre-promotion diagnostic.
+- **Single CTA:** Save this pre-promotion check.
+- **Target length:** 5 slides
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-019/EW-019_before-traffic-carousel.zip` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
+- **Contact:** 0905 069 0837 · keyword CLEAR
+
+### Hook / first frame
+
+> Before you buy more traffic, check these four things.
+
+### Exact slide copy
+
+> Slide 1: Before you buy more traffic, check these four things.
+>
+> Slide 2: 1. The offer is clear.
+> What do you sell, and for whom?
+>
+> Slide 3: 2. The page answers the next question.
+> Price or range, scope and terms.
+>
+> Slide 4: 3. The contact route works.
+> Test it yourself.
+>
+> Slide 5: 4. Someone owns the reply.
+> More visitors still need a next step.
+
+### Caption
+
+> More traffic can expose a weak customer journey. Before the next promotion, check the offer, the page, the contact route and who replies. Fix the part that is actually unclear. For a homepage copy checklist, the CLEAR pack is a DIY option; it does not include a site build or personal review. Message CLEAR on WhatsApp: 0905 069 0837 for current details.
+>
+> #WebsiteTips #LagosSME #SmallBusinessNigeria #Easywurld
+
+### Visual and edit
+
+Five-slide checklist with four numbered checks. Use one accent on the final action, not four different colours.
+
+Keep each check to one screen. Use large type and readable spacing. No invented traffic or conversion data.
+
+### Filled production prompt
+
+```text
+Design a five-slide Easywurld pre-promotion checklist using the exact supplied copy. Cream background, deep-green serif headlines, clean sans support, one terracotta accent. Flat editorial style, no analytics graphics, no stock people and no generated logo. Leave safe margins for Instagram cropping.
+```
+
+**Disclosure:** No realistic synthetic person/voice planned. Ordinary designed text/graphics do not need an AI-presenter label. Reassess if the production method changes.
+
+**Fallback:** Publish the four checks as a text post.
+
+---
+
+## EW-022 · What the ₦5,000 pack does—and doesn't—include.
+
+**2026-11-23 · Monday · 18:30 WAT · TikTok · AI talking head**
+
+- **Pillar:** Offer
+- **Audience problem:** Buyers confuse a DIY resource with a done-for-you service.
+- **Objective:** Explain one offer accurately and reduce mismatched enquiries.
+- **Single CTA:** Message PLAYBOOK for current order details.
+- **Target length:** 37–46s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-022/EW-022_playbook-offer.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
+- **Contact:** 0905 069 0837 · keyword PLAYBOOK
+
+### Hook / first frame
+
+> Five thousand naira buys a resource. Not a whole project.
+
+### Exact spoken script
+
+> Five thousand naira buys a self-guided resource, not a whole project. Take the Chat-to-Customer Playbook. It includes a playbook, thirty-six message scripts, a follow-up tracker and a seven-day setup checklist. You adapt and use them yourself. It doesn't generate leads, guarantee sales or include custom writing. If that's the help you need, message PLAYBOOK on WhatsApp. We'll confirm the current price, payment and delivery details before you pay.
+
+### Edit / shot order
+
+- 0–3s: “A resource, not a whole project.”
+- 3–17s: show the four actual PLAYBOOK deliverables.
+- 17–28s: show exclusions: no leads, no guarantee, no custom work.
+- 28–40s: message PLAYBOOK; confirm details before payment.
+
+### Caption
+
+> The Chat-to-Customer Playbook is listed at ₦5,000 as a DIY resource: playbook, 36 scripts, follow-up tracker and 7-day setup checklist. No lead generation, sales guarantee or custom writing included. Message PLAYBOOK on WhatsApp: 0905 069 0837 to confirm current price, payment and delivery before ordering.
+>
+> AI-generated presenter; script reviewed by Easywurld.
+> #WhatsAppBusiness #DigitalResources #LagosSME #Easywurld
+
+### Visual and edit
+
+Approved avatar with a four-item contents card and a separate exclusions card. Use actual product names from the offer source; do not fabricate pack screenshots.
+
+Hold the contents and exclusions long enough to read. Confirm price and fulfilment before export. No countdown, fake scarcity or discount framing.
+
+### Filled production prompt
+
+```text
+Create a clear AI talking-head offer explanation using the approved owner likeness and voice. Read the supplied PLAYBOOK script exactly after the owner confirms current price and fulfilment. Show only the four verified deliverables and stated exclusions. Calm, transparent delivery. No fake product mock-ups, scarcity, testimonials or guaranteed outcomes.
+```
+
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI presenter · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
+
+**Fallback:** A contents-and-exclusions carousel using the same verified offer facts.
+
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
+
+**Optional Facebook copy:**
+
+> A DIY resource and a custom project are different purchases. The Chat-to-Customer Playbook is listed at ₦5,000 and includes a playbook, 36 scripts, a follow-up tracker and a setup checklist. You do the work yourself. It does not generate leads, guarantee sales or include custom writing. Message PLAYBOOK for current order details. AI-generated presenter; reviewed script.
+
+**Optional LinkedIn copy:**
+
+> A DIY resource and a custom project should not be sold as the same thing. Easywurld's Chat-to-Customer Playbook is listed at ₦5,000 and includes a playbook, 36 message scripts, a follow-up tracker and a seven-day setup checklist. The buyer adapts and uses it. It does not generate leads, guarantee sales or include custom writing. Message PLAYBOOK for current price, payment and delivery details. AI-generated presenter; reviewed script.
+
+---
+
+## EW-023 · A proposal should make the decision easier.
+
+**2026-11-24 · Tuesday · 18:30 WAT · TikTok · Screen demo**
+
+- **Pillar:** Show
+- **Audience problem:** A proposal lists tasks but leaves scope and next steps unclear.
+- **Objective:** Show a sample document's structure, not a client result.
+- **Single CTA:** Inspect the sample document.
+- **Target length:** 35–44s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-023/EW-023_proposal-demo.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/projects/civic-proposal-template
+- **Contact:** 0905 069 0837
+
+### Hook / first frame
+
+> A proposal should make the boundaries clear.
+
+### Exact spoken script
+
+> A proposal should make the boundaries clear. This is a sample document from our portfolio, not a proposal that won a client. Look at the structure: the brief in the writer's words, the proposed work, who does what and when, the price, and what is not included. That last section matters. A buyer should understand the decision before they sign. The figures here are illustrative; the useful part is the structure.
+
+### Edit / shot order
+
+- 0–3s: actual sample proposal cover; CONCEPT / SAMPLE visible.
+- 3–12s: page 2, the brief and proposed work.
+- 12–23s: page 3, who does what and when.
+- 23–39s: page 4, price and exclusions; state that all figures are illustrative.
+
+### Caption
+
+> A proposal is a decision document. This Easywurld sample shows the brief, proposed work, responsibilities, timing, price and exclusions. Civic Partners and Ward 6 are invented; all figures are illustrative. For editable DIY documents, ask about TEMPLATES; they are general templates, not legal contracts.
+>
+> Concept project · sample build.
+>
+> AI voiceover; script reviewed by Easywurld.
+>
+> #ProposalTips #SmallBusinessTips #Easywurld #BusinessDocuments
+
+### Visual and edit
+
+Use the actual five-page Civic proposal PDF. Page 2: brief and proposed work. Page 3: responsibilities and timing. Page 4: price and exclusions. Keep the sample label and illustrative-figures limitation visible.
+
+Record readable crops of pages 2–4. Do not present the ₦5.9m sample total as an Easywurld service price. Do not imply the proposal was accepted, paid for or delivered to a real client.
+
+### Filled production prompt
+
+```text
+Create a vertical walkthrough of the supplied Easywurld sample proposal PDF. Use only pages and claims actually present, keep 'Concept project · sample build' visible and follow the approved narration. Highlight decision-making structure, not fabricated client outcomes. Add accurate captions and avoid showing private information.
+```
+
+**Real source to record:** `client/public/demo/civic-proposal-template/civic-proposal-template.pdf`
+
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI voice · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
+
+**Fallback:** Annotated crops of the actual sample PDF in a carousel.
+
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
+
+---
+
+## EW-024 · Choose the pack by the problem.
+
+**2026-11-25 · Wednesday · 18:30 WAT · Instagram · Carousel**
+
+- **Pillar:** Offer
+- **Audience problem:** Nine offers feel like a catalogue rather than a clear choice.
+- **Objective:** Help a buyer self-select without pushing all nine products.
+- **Single CTA:** Message the keyword that matches your problem.
+- **Target length:** 5 slides
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-024/EW-024_pack-chooser-carousel.zip` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers
+- **Contact:** 0905 069 0837 · keyword PLAYBOOK / CLEAR / ENGINE
+
+### Hook / first frame
+
+> Don't start with the pack. Start with the problem.
+
+### Exact slide copy
+
+> Slide 1: Don't start with the pack. Start with the problem.
+>
+> Slide 2: “My replies are inconsistent.”
+> PLAYBOOK
+> Chat scripts and a follow-up tracker.
+>
+> Slide 3: “My homepage is unclear.”
+> CLEAR
+> Copy templates and an audit scorecard.
+>
+> Slide 4: “I don't know what to post.”
+> ENGINE
+> Ideas, hooks and a planning calendar.
+>
+> Slide 5: These are DIY resources, not done-for-you work.
+> Message one keyword for current details.
+
+### Caption
+
+> Three common problems, three possible starting points. PLAYBOOK: replies and follow-up. CLEAR: homepage copy. ENGINE: content planning. Each is listed at ₦5,000 as a self-guided resource, not custom service work. The full range is on the website. Message one keyword on WhatsApp: 0905 069 0837 to confirm current price, contents and delivery before paying.
+>
+> #SmallBusinessNigeria #DigitalResources #LagosSME #Easywurld
+
+### Visual and edit
+
+Five slides, one problem per middle slide. Use the real keywords and verified contents. No fake bundle discount or value comparison.
+
+Keep the problem sentence larger than the product name. Last slide must state DIY clearly. Confirm all three products are deliverable before scheduling.
+
+### Filled production prompt
+
+```text
+Design a five-slide Easywurld problem-to-pack chooser using the exact supplied copy. Cream background, deep-green editorial headlines, monospace keywords and one terracotta accent. Show PLAYBOOK, CLEAR and ENGINE only. No invented bundle price, discount, testimonials or product screenshots. Use the real mark in the editor.
+```
+
+**Disclosure:** No realistic synthetic person/voice planned. Ordinary designed text/graphics do not need an AI-presenter label. Reassess if the production method changes.
+
+**Fallback:** A plain text problem/keyword list with the same DIY limitation.
+
+**Optional Facebook copy:**
+
+> Start with the problem. PLAYBOOK is for reply scripts and follow-up. CLEAR is for homepage copy. ENGINE is for content planning. Each is a self-guided resource listed at ₦5,000, not custom service work. Message one keyword on WhatsApp: 0905 069 0837 for current contents, price and delivery details.
+
+**Optional LinkedIn copy:**
+
+> The right starting point depends on the problem. Easywurld's DIY range includes PLAYBOOK for reply scripts and follow-up tracking, CLEAR for homepage copy, and ENGINE for content planning. Each is listed at ₦5,000 and requires the buyer to do the work. They are not custom engagements or guaranteed outcomes. Message the relevant keyword for current contents, price and delivery details.
+
+---
+
+## EW-025 · When you don't need to hire us yet.
+
+**2026-11-26 · Thursday · 18:30 WAT · TikTok · AI talking head**
+
+- **Pillar:** Trust
+- **Audience problem:** The owner feels pressured to buy a service before knowing the problem.
+- **Objective:** Make the studio's fit and boundaries explicit.
+- **Single CTA:** Send the problem, not a request for the biggest package.
+- **Target length:** 35–43s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-025/EW-025_before-you-hire.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/contact
+- **Contact:** 0905 069 0837
+
+### Hook / first frame
+
+> You might not need to hire a studio yet.
+
+### Exact spoken script
+
+> You might not need to hire a studio yet. If you can't explain the offer, start with the message. If enquiries arrive but replies are scattered, write a follow-up routine. If you only need a checklist, a self-guided pack may be enough. And if someone promises guaranteed rankings or sales without understanding your business, ask more questions. We'd rather help you choose the right next step than sell you the biggest one.
+
+### Edit / shot order
+
+- 0–3s: “You might not need to hire us yet.”
+- 3–17s: message / reply routine / checklist examples.
+- 17–29s: question guarantees made without context.
+- 29–38s: right next step, not biggest purchase.
+
+### Caption
+
+> Start with the actual problem. Sometimes that means a sentence, a routine or a DIY checklist before a custom project. We will say if the work is not a fit. AI-generated presenter; script reviewed by Easywurld.
+>
+> #SmallBusinessTips #HonestMarketing #LagosBusiness #Easywurld
+
+### Visual and edit
+
+Approved avatar, simple decision path. No competitor names or accusations.
+
+Keep the tone helpful, not superior. Use one decision-path cutaway and a steady final frame.
+
+### Filled production prompt
+
+```text
+Create a calm, honest talking-head video using the approved owner likeness and voice. Deliver the supplied script about when not to hire a studio. Natural chest-up framing, warm neutral background and restrained gestures. Do not name or accuse competitors, invent client anecdotes or imply that a DIY pack solves every problem.
+```
+
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI presenter · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
+
+**Fallback:** A decision-tree carousel with the same three examples.
+
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
+
+---
+
+## EW-026 · Turn one customer question into a week of useful content.
+
+**2026-11-27 · Friday · 18:30 WAT · TikTok · Screen demo**
+
+- **Pillar:** Teach
+- **Audience problem:** Every post starts from a blank page.
+- **Objective:** Demonstrate the actual new planning workflow.
+- **Single CTA:** Save the one-question, three-format method.
+- **Target length:** 36–45s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-026/EW-026_content-system-demo.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
+- **Contact:** 0905 069 0837
+
+### Hook / first frame
+
+> One question can give you three useful posts.
+
+### Exact spoken script
+
+> Take one question: how do I make my business clearer online? First, make a short video answering it. Second, turn the answer into a practical checklist. Third, show a labelled example that makes the answer visible. That is three formats around one customer problem, not three copies of the same post. Use questions you can answer honestly, and remove private details. The calendar makes the work repeatable. It does not need to fill every hour with posting.
+
+### Edit / shot order
+
+- 0–3s: show the question “How do I make my business clearer online?”
+- 3–14s: EW-002, a direct message explanation.
+- 14–27s: EW-019, a practical pre-promotion checklist.
+- 27–40s: EW-003, a labelled homepage demonstration; show the weekend batch slot.
+
+### Caption
+
+> This calendar is an Easywurld sample plan. One customer problem can support a direct answer, a checklist and a demonstration. Adapt the idea to each format instead of copying the same words everywhere. Our active calendar uses 22 main posts across 30 days, with weekends for review and batching. The ENGINE pack is a DIY planning resource; it is not finished custom content.
+>
+> AI voiceover; script reviewed by Easywurld.
+>
+> #ContentPlanning #SmallBusinessTips #LagosSME #Easywurld
+
+### Visual and edit
+
+Record the actual new calendar and the EW-002, EW-019 and EW-003 briefs. Use one question consistently: How do I make my business clearer online? Do not show private notes or imply the posts have already gone live.
+
+Use the three real briefs in order: EW-002 explanation, EW-019 checklist, EW-003 demo. The calendar is the evidence; no fake scheduling confirmation.
+
+### Filled production prompt
+
+```text
+Create a screen-led walkthrough of the supplied Easywurld calendar. Show one customer question becoming a talking-head answer, a checklist carousel and a labelled homepage demo. Use the actual EW-002, EW-019 and EW-003 briefs. Keep private notes out of frame. Add the exact approved narration and captions; do not imply posts are already scheduled or published.
+```
+
+**Real source to record:** `marketing/calendar/30-day-calendar.md`
+
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI voice · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
+
+**Fallback:** A simple original diagram showing question → answer → checklist → demo.
+
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
+
+---
+
+## EW-029 · What to review after a month of posting.
+
+**2026-11-30 · Monday · 18:30 WAT · TikTok · AI talking head**
+
+- **Pillar:** Trust
+- **Audience problem:** The owner judges the month by likes or invents a success story.
+- **Objective:** Close the learning loop without pre-written performance claims.
+- **Single CTA:** Comment the question you want answered next.
+- **Target length:** 35–44s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-029/EW-029_month-review.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
+- **Contact:** 0905 069 0837
+
+### Hook / first frame
+
+> A month of posting should leave you with better questions.
+
+### Exact spoken script
+
+> A month of posting should leave you with better questions. Which problem made people stop scrolling? Which explanation did they watch to the end? Which post led to a real business conversation? Look at your own analytics and enquiry records, not just the likes. Then keep the useful subjects, change one thing at a time and plan the next batch. We're reviewing this account the same way. No invented victory lap.
+
+### Edit / shot order
+
+- 0–3s: “Better questions, not an invented victory lap.”
+- 3–16s: attention / watch time / relevant enquiries.
+- 16–29s: check actual records; keep what helped.
+- 29–39s: change one variable and batch again.
+
+### Caption
+
+> Review the records you actually have: watch time, saves, shares, profile visits and relevant enquiries. Leave unavailable metrics blank. This post is a review method, not a claim about this account's results. What question would you like us to answer next?
+>
+> AI-generated presenter; script reviewed by Easywurld.
+> #ContentStrategy #SmallBusinessTips #Easywurld #LagosBusiness
+
+### Visual and edit
+
+Approved avatar and a blank review worksheet. Do not insert numbers unless they come from actual account records and are approved for publication.
+
+Keep the worksheet generic. If adding real results later, date-stamp them and retain the source. Otherwise publish the method exactly as written.
+
+### Filled production prompt
+
+```text
+Create a reflective AI talking-head video using the approved owner likeness and voice. Deliver the supplied script exactly. Use a quiet background and natural pacing. Show a blank review worksheet only; do not generate analytics, audience counts, sales results or testimonials. Keep the AI-presenter disclosure visible.
+```
+
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI presenter · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
+
+**Fallback:** A review-checklist carousel with no account performance numbers.
+
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
+
+---
+
+## EW-030 · Choose your next step by the work you need.
+
+**2026-12-01 · Tuesday · 18:30 WAT · TikTok · AI talking head**
+
+- **Pillar:** Offer
+- **Audience problem:** The prospect does not know whether to use a resource, ask a question or request a project.
+- **Objective:** End with a clear, low-pressure route into the business.
+- **Single CTA:** Choose a pack or send a short project brief.
+- **Target length:** 36–45s
+- **Status:** Draft — not scheduled
+- **Expected asset:** `assets/EW-030/EW-030_next-step.mp4` (production target; not a finished file unless explicitly supplied)
+- **Destination to verify:** https://website-builder-portfolio.vercel.app/offers
+- **Contact:** 0905 069 0837
+
+### Hook / first frame
+
+> You don't need to buy everything to fix one thing.
+
+### Exact spoken script
+
+> You don't need to buy everything to fix one thing. If you want to do it yourself, choose the pack that matches the problem. If you need someone to build or write it, send your link and a short brief for a scoped project. And if you're not sure, start with the question. The offers page explains what's inside each resource. Custom work is separate and gets a written plan before it starts. One clear next step is enough.
+
+### Edit / shot order
+
+- 0–3s: “Fix one thing first.”
+- 3–15s: DIY resource versus custom project.
+- 15–28s: show the real offers page and contact route.
+- 28–39s: “One clear next step is enough.”
+
+### Caption
+
+> DIY pack: choose by the problem and confirm current order details. Custom project: send your business link and what you want to solve. Not sure: ask the question first. Offers: website-builder-portfolio.vercel.app/offers. WhatsApp: 0905 069 0837.
+>
+> AI-generated presenter; script reviewed by Easywurld.
+> #LagosBusiness #SmallBusinessNigeria #Easywurld #WebDesignNigeria
+
+### Visual and edit
+
+Approved avatar with two simple route cards: DIY / custom project. Show the real offers page briefly. No bundle pressure or fake deadline.
+
+Keep both routes equally clear. Verify the URL and contact route on the day. End on the presenter and the single next-step line, not a long logo animation.
+
+### Filled production prompt
+
+```text
+Create a clear closing AI talking-head video using the approved owner likeness and voice. Read the supplied script exactly. Show two editor-added routes, DIY resources and custom projects, without implying they include the same work. Warm neutral background, calm delivery, restrained gestures and visible AI disclosure. No invented offer, deadline or guarantee.
+```
+
+**Disclosure:** Required for the planned synthetic voice/presenter. On-screen: “AI presenter · Easywurld”. Enable the platform AI setting; adapt the caption if the final asset uses no synthetic voice/person.
+
+**Fallback:** A two-route carousel or a plain text post with the same verified links.
+
+**Optional Instagram reuse:** 19:00 WAT, same approved idea adapted to Reel; check crop, rights and disclosure. This is not an additional core post.
+
+---
+
+## Publishing and review
+
+
+**Campaign:** 2 November–1 December 2026 · 22 main weekday posts · 8 weekend review/batch days.
+**Canonical source:** `marketing/content-plan.json`. The calendar, CSV, individual briefs, PDF and offline Post Commander are generated from it.
+
+## 1. Before Monday
+
+1. Read [STRATEGY.md](./STRATEGY.md). Confirm the audience, offer and single action for each post.
+2. Confirm the public social handles, current website destination, WhatsApp number and product fulfilment. The repo's current site URL is `https://website-builder-portfolio.vercel.app`; do not assume `easywurld.com` is deployed merely because it is the repo name.
+3. Put the correct destination in the profile and test the contact journey from a logged-out browser.
+4. Supply a clear owner-approved portrait and voice permission to the chosen avatar provider. **No verified owner photo/CV was found in the accessible repos. Do not use the fictional demo founder image.** Keep the original private source outside this public repo.
+5. Produce the first batch using the dates below. Monday's carousel can be finished without an avatar.
+6. Review the exported assets on a phone. Only then mark them Ready and schedule them.
+
+This repository contains scripts, prompts, a calendar and starter graphics. It does **not** contain a generated owner avatar, cloned voice or finished talking-head videos. No social account is connected; nothing has been posted or scheduled.
+
+## 2. Weekly production batches
+
+| Batch day | Produce | Main purpose |
+|---|---|---|
+| Sun 1 Nov | EW-001–EW-005 | Launch: message, homepage, price reply and a relatable static |
+| Sun 8 Nov | EW-008–EW-012 | Trust, follow-up and the one-offer page |
+| Sun 15 Nov | EW-015–EW-019 | Website planning, local visibility and responsible AI |
+| Sun 22 Nov | EW-022–EW-026 | Offer clarity, sample documents and the content system |
+| Sun 29 Nov | EW-029–EW-030 | Review method and the next-step invitation |
+
+Allow roughly 3–5 hours for a batch once the avatar and templates are set up; the first batch may take longer. This is a planning estimate, not a promised production time. If a video is not approved, use its supplied fallback rather than publishing an unreviewed avatar.
+
+**Suggested batch order:** approve facts/scripts → generate short avatar sections → record real screen demos → set carousel/static text → edit captions and cutaways → watch every export → schedule approved files.
+
+## 3. Create the AI talking head
+
+The detailed reusable prompt is in [brand-prompt.md](./brand-prompt.md). Each post brief contains its own filled production prompt, script, beats and fallback.
+
+1. **Choose a tool that supports your approved source.** Check custom-avatar/photo-avatar support, voice consent, commercial rights, watermark/export limits, retention and deletion settings. Features and prices change; verify them in the account you will use. Do not buy an annual plan just to test one video.
+2. **Upload the correct owner source.** Use a sharp, front-facing image with unobstructed face and even light, or the provider's required consent video. Follow its verification process. A CV photo is not permission to animate someone, and a stock/demo person is not the owner.
+3. **Create one 10-second test.** Use a short line from EW-002. Check identity, teeth/mouth, eyes, skin texture, head movement and pronunciation before generating the batch.
+4. **Approve the voice separately.** Use the owner's permitted clone or a licensed voice the owner approves. Test “Easywurld”, “Lagos”, “naira”, “WhatsApp” and the actual price. Do not label a generic voice as the owner's.
+5. **Generate in short sections.** Split at the beat boundaries if long-form lip sync drifts. Use the exact script; do not let the tool add a sales promise. Keep the face and framing consistent.
+6. **Keep provenance.** Do not strip Content Credentials or provider metadata to evade disclosure. Export the highest-quality clean video your plan permits.
+
+### If the avatar still looks artificial
+
+Shorten the sentence, reduce gestures, use a steady chest-up frame and cut to a relevant worksheet or screen demo. Do not “fix” it with heavy smoothing, rapid zooms or a fake microphone. If identity or lip sync remains wrong, use the non-avatar fallback. An honest screen demo is better than an uncanny spokesperson.
+
+## 4. Edit in CapCut: the house workflow
+
+Menu names vary by device and version. This is the workflow, not a claim that every account has the same AI features.
+
+1. **New project → 9:16.** Import the approved avatar sections or real recording. Set the export target to 1080×1920, 30 fps.
+2. **Cut for meaning.** Remove the empty lead-in, repeated takes and long pauses. Keep enough breath to sound human. Start with the hook already being spoken.
+3. **Build the A-roll.** Keep the presenter chest-up and near eye level. Use a small reframe only at a meaningful beat. Avoid a zoom or transition every second.
+4. **Add one useful cutaway.** For EW-002, show the message worksheet; EW-004, the labelled example reply; EW-008, a real sample label; EW-018, the review checklist. Keep the face as the main thread.
+5. **Auto captions → correct every line.** Use Inter or a clean sans, high contrast, one or two short lines. Check names, prices and negative words. Avoid flashing word-by-word captions. CapCut's own guidance supports using captions to check pacing and pairing jump cuts with a meaningful reframe or cutaway. [1](https://www.capcut.com/create/video-transitions-crossfade-hard-cut-jump-cut)
+6. **Add the hook title.** Use the exact hook or a shorter faithful version. Fraunces-style serif, deep green on a cream text panel if needed. The title must not cover the eyes or mouth.
+7. **Add disclosure.** Persistent small text: `AI presenter · Easywurld`. For a synthetic voice over a screen demo, use `AI voice · Easywurld`. Keep it readable for the whole video, not only the final frame.
+8. **Mix audio.** Voice first. Remove hiss conservatively; do not over-process. Music is optional and must be well below speech. Use owned/licensed audio or the destination's commercial library with the correct rights. TikTok's Commercial Music Library is the business-use route on TikTok; check territory and placement terms. [1](https://ads.tiktok.com/help/article/how-to-use-the-commercial-music-library)
+9. **Check the safe area.** Our conservative guide is x=80–850, y=260–1450 for essential text on a 1080×1920 export. The actual TikTok UI varies. Use the platform preview and move captions/hook/label if anything is covered. Do not treat these coordinates as an official guarantee.
+10. **Export and watch.** MP4/H.264, 1080×1920, 30 fps. Watch once with sound, once muted and once at thumbnail size. Check the first frame, last frame, lip sync, disclosure and CTA.
+
+### Format-specific finishing
+
+- **Talking head:** 25–45 seconds as a testing range; one problem, one explanation, one action. No logo intro or long end card.
+- **Screen demo:** record the actual repo page/PDF at a readable zoom. Keep `Concept project · sample build` visible. Do not generate a fake product interface.
+- **Carousel:** five 1080×1350 PNGs. Set exact text in the editor; use the supplied slide copy. The starter EW-001 files are in `assets/launch-week/`.
+- **Relatable static:** one 1080×1350 PNG. Original text, useful caption, no borrowed customer screenshot. EW-005 is supplied as a starter.
+
+## 5. Schedule from Monday
+
+**Initial test slot:** weekdays 18:30 Africa/Lagos (WAT, UTC+1). This is a starting hypothesis, not a proven best time for this account. Optional Instagram reuse is listed at 19:00. Facebook/LinkedIn suggestions are selective and optional.
+
+### TikTok
+
+1. Open the web upload/TikTok Studio flow available to your account and upload the finished MP4.
+2. Paste the TikTok caption from the brief/CSV, choose a readable cover and check the preview.
+3. Enable the current **AI-generated content** disclosure for the synthetic presenter/voice. TikTok requires disclosure of realistic AI-generated media, including people portrayed saying something they did not say. The help page describes the setting under **More options** in the app. [1](https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content)
+4. If your account has native scheduling, choose the date/time and confirm the displayed timezone. TikTok's official scheduler announcement describes a 15-minute to 10-day window and says changes require deleting and re-uploading the scheduled post. Check current availability and limits in your own account. [1](https://ads.tiktok.com/business/en/blog/introducing-video-scheduler-now-you-can-plan-tiktoks-in-advance)
+5. If scheduling or the required disclosure is unavailable in that flow, use a supported app/manual flow or an approved scheduler that preserves disclosure. Do not omit the label to make automation work.
+6. Confirm the queued post appears in the account. Only then set the CSV status to **Scheduled** and paste the actual post/queue URL into your tracking record.
+
+### Instagram, Facebook and LinkedIn
+
+- Reuse only the suggested versions. Remove any TikTok watermark, check the crop and use each platform's current AI-disclosure controls.
+- For Instagram, upload the five-slide carousel or adapted vertical video; use the supplied caption and one CTA.
+- Facebook and LinkedIn have eight selective copy suggestions each. They are optional, not another 16 compulsory daily posts.
+- Use the native planner available to your account. Confirm timezone and preview. Do not assume a CSV imports into a native scheduler.
+
+**The CSV is a production/planning sheet.** It is not an auto-publishing file. A row marked Draft has not been scheduled. The offline Post Commander saves local production checkmarks only; it does not connect to social accounts.
+
+## 6. Status and file naming
+
+Use these statuses consistently:
+
+`Draft → Script approved → Asset produced → QA approved → Scheduled → Published → Reviewed`
+
+The generated CSV starts at **Draft** for every row. The `Scheduled` and `Published` dates/URLs in the metrics tracker stay blank until real events happen.
+
+Suggested filenames:
+
+- `EW-002_2026-11-03_tiktok_v01.mp4`
+- `EW-001_2026-11-02_instagram_slide-01.png`
+- `EW-003_2026-11-04_screen-source_v01.mov`
+
+Keep private source photos, voice-consent records, payment details and customer messages outside the public repo. Store finished public-ready assets in your chosen production storage; do not commit large raw video exports to Git.
+
+## 7. Review without inventing results
+
+After 24 hours and again after seven days, record only available metrics in [MEASUREMENT.csv](./MEASUREMENT.csv): views/plays, average watch time, completion rate, saves, shares, profile visits, relevant comments, WhatsApp keyword enquiries and qualified briefs. Record actual sales only when confirmed.
+
+Compare similar formats and topics. Test one change at a time. The final posts deliberately contain no pre-written “this campaign got X clients” claim. Use the method, then report only what the records support.
+
+## 8. Troubleshooting
+
+| Problem | Action |
+|---|---|
+| No approved owner photo | Use the carousel/screen-demo fallback; do not invent a face. |
+| Avatar mouth or identity drifts | Shorten the section, regenerate that section or remove the avatar. |
+| Voice mispronounces the brand/price | Rewrite phonetically only after an approved listening test; verify captions remain correct. |
+| Screen text is unreadable | Re-record at a tighter crop; do not shrink the whole desktop page. |
+| captions cover the face/UI | Move them inside the previewed safe area and reduce line length. |
+| Scheduler cannot set the disclosure | Use a supported manual/app flow; do not publish undisclosed realistic AI. |
+| Offer is unavailable | Hold the sales post and replace it with its useful non-sales fallback after approval. |
+| A batch is late | Publish the approved fallback or skip the slot; do not stack catch-up posts. |

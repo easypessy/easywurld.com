@@ -1,65 +1,25 @@
-<html><body><h1>Easywurld Social Command Kit</h1>
-<p><b>Start here. Everything you need is in this folder, plus one file on your phone.</b></p>
-<hr/>
-<h2>The one thing to do first</h2>
-<p>Open <b><code>EASYWURLD_POST_COMMANDER.html</code></b> on your phone.</p>
-<ul><li>It is a single file, about a megabyte. It will not fill your phone.</li><li>It opens on today's day of the week, with the next post due at the top.</li><li>The Month tab shows the whole 30-day run on a grid, so you can plan a fortnight ahead instead of reacting to today.</li><li>Every post has a copy button. Tap, copy, paste into the app. Tick it off. The tick marks save on the phone.</li><li>It works with no internet.</li><li>Add it to your home screen and it behaves like an app.</li></ul>
-<p><b>How to add it to your home screen.</b> Open the file in your phone browser, tap the share or menu button in the top bar, and choose "Add to Home Screen". Do this once and it is there forever, like an app, with no icon pretending to be something it is not.</p>
-<hr/>
-<h2>What is in the kit</h2>
-<table><thead><tr><th>File</th><th>What it is</th><th>When you use it</th></tr></thead><tbody>
-<tr><td><code>EASYWURLD_POST_COMMANDER.html</code></td><td>The phone tool. 30 days x 38 posts, every platform version, copy buttons, tick marks, notes, a month grid, offline.</td><td>Every day, on your phone.</td></tr>
-<tr><td><code>MONTH_POSTS.md</code></td><td>The same 30 days written out long form, for reading, printing or handing to somebody else.</td><td>When you want to read the whole month in one sitting.</td></tr>
-<tr><td><code>content_calendar.csv</code></td><td>1,140 rows: one row per scheduled post, with date, time, format, hook, body, caption, hashtags, visual direction and a status column.</td><td>Opens in Google Sheets, editable on your phone.</td></tr>
-<tr><td><code>POSTING_PLAN.md</code></td><td>The research behind the plan: posting times for Nigeria, why 38 posts a day is allowed, what makes writing sound human, the emotion map, how memes work, and how to run all of this from a phone.</td><td>Read once. It answers most of the questions you will have.</td></tr>
-<tr><td><code>MEME_BANK.md</code></td><td>All 37 memes in the month, already scheduled, with the exact words to type on each one and the format.</td><td>Twice a week, or whenever the meme slot comes round.</td></tr>
-<tr><td><code>EASYWURLD_OFFERS_MASTER.md</code></td><td>The full sales copy for all nine packs, laid out page by page.</td><td>When you need the words for the offers PDF.</td></tr>
-<tr><td><code>CLAUDE_OFFERS_PROMPT.md</code></td><td>The prompt you give Claude to generate the offers PDF. It has the brand, the page plan, the writing rules and all nine offers inside it.</td><td>When you want a fresh, print-ready PDF.</td></tr>
+<html><body><h1>Easywurld Content Studio</h1>
+<p><b>Active campaign: 2 November–1 December 2026.</b> The October high-volume kit has been retired to <code>archive/2026-10/</code>.</p>
+<h2>Open these first</h2>
+<ol><li><code>../../marketing/STRATEGY.md</code> — the strategy before the posts.</li><li><code>../../marketing/CONTENT_PLAN.pdf</code> — readable calendar and complete briefs.</li><li><code>EASYWURLD_POST_COMMANDER.html</code> — offline Content Studio with Strategy, Calendar, Post briefs and Production tabs.</li><li><code>content_calendar.csv</code> — 22 primary posts and 31 explicitly optional reuses.</li></ol>
+<p>The offline file works without a server. Copy buttons, QA checks, notes and production statuses are local to the browser. Export a progress backup before changing devices. <b>It does not connect to TikTok, Instagram, Facebook or LinkedIn and does not schedule anything.</b></p>
+<h2>Active files</h2>
+<table><thead><tr><th>File</th><th>Purpose</th></tr></thead><tbody>
+<tr><td><code>EASYWURLD_POST_COMMANDER.html</code></td><td>Offline strategy-first planner, generated from the canonical JSON</td></tr>
+<tr><td><code>content_calendar.csv</code></td><td>Dated production/distribution sheet; every row starts Draft</td></tr>
+<tr><td><code>MONTH_POSTS.md</code></td><td>Full calendar and briefs, identical to the marketing calendar</td></tr>
+<tr><td><code>POSTING_PLAN.md</code></td><td>Current cadence and scheduling rules</td></tr>
+<tr><td><code>MEME_BANK.md</code></td><td>The two original scheduled static posts, not the old 37-meme plan</td></tr>
+<tr><td><code>EASYWURLD_DRIVE_INDEX.md</code></td><td>Repository file index; no claim that Drive has been synced</td></tr>
+<tr><td><code>CLAUDE_OFFERS_PROMPT.md</code></td><td>Existing offers-PDF prompt, retained unchanged</td></tr>
+<tr><td><code>EASYWURLD_OFFERS_MASTER.md</code> / PDF</td><td>Existing offer copy and booklet, retained</td></tr>
 </tbody></table>
-<hr/>
-<h2>The posting shape</h2>
-<p><b>11 core posts a day, restructured for each platform.</b></p>
-<table><thead><tr><th></th><th>Posts</th><th>Notes</th></tr></thead><tbody>
-<tr><td>TikTok</td><td>11</td><td>Short video, hook first, 20 to 30 seconds.</td></tr>
-<tr><td>Instagram</td><td>11</td><td>6 carousels, 3 reels, 2 static.</td></tr>
-<tr><td>Facebook</td><td>11</td><td>Text posts that read like a conversation.</td></tr>
-<tr><td>LinkedIn</td><td>4 + 1 optional</td><td>Under 3,000 characters, professional, about the work.</td></tr>
-<tr><td><b>Total</b></td><td><b>37 required a day, 38 with the optional LinkedIn. 1,140 across the 30 days.</b></td><td>19 October to 17 November 2026.</td></tr>
-</tbody></table>
-<p>The 11 core ideas are shared. The writing is not. TikTok is spoken and fast, Instagram is slides, Facebook is conversation, LinkedIn is professional. That is what stops the feed looking like a spam account.</p>
-<p><b>The daily mix.</b> 3 teaching, 2 memes, 2 honest answers, 2 offer posts, 1 story, 1 hot take. Memes stay near 20% of output.</p>
-<p><b>Everything is dated.</b> Day 1 is Monday 19 October 2026, day 30 is Tuesday 17 November 2026. You are not deciding what to post today. On the first Sunday of the month you set the whole month, because every post already carries its date and time.</p>
-<hr/>
-<h2>Publishing from the phone</h2>
-<p>No paid tool. These are free and already on your phone.</p>
-<table><thead><tr><th>Platform</th><th>How</th></tr></thead><tbody>
-<tr><td>Instagram + Facebook</td><td>Meta Business Suite. Set the timezone to Africa/Lagos.</td></tr>
-<tr><td>TikTok</td><td>The app itself, for business accounts.</td></tr>
-<tr><td>LinkedIn</td><td>The schedule button in the post composer.</td></tr>
-<tr><td>Everything else</td><td>The tick marks in the Post Commander.</td></tr>
-</tbody></table>
-<p><b>Batch it on Sunday night, 20 minutes.</b> Copy what you can, schedule it, and leave open the two slots that need a real human reply. A reply to a real customer beats one more post. On the first Sunday of the month, set the whole month, because it is already written.</p>
-<p><b>Keep media in Google Drive, not on the phone.</b> Text is cheap, video is not. Open a file from Drive when you need it. Your phone's storage does not need a copy of everything.</p>
-<hr/>
-<h2>The rules that keep it honest</h2>
-<ul><li>No client results, rankings, ratings, testimonials or guarantees you cannot evidence.</li><li>Every demo project is labelled <b>concept project · sample build</b>.</li><li>Value figures are hours x ₦5,000, described as an estimate, never as a former price.</li><li>Each honest post says plainly what the pack does not do.</li><li>Never post a logo on a meme. Let the joke carry it.</li><li>If you miss a slot, skip it. Do not stack three posts at 11pm to catch up.</li></ul>
-<hr/>
-<h2>The offers</h2>
-<p>Nine packs, ₦5,000 each, digital download, do it yourself.</p>
-<table><thead><tr><th>#</th><th>Pack</th><th>Keyword</th></tr></thead><tbody>
-<tr><td>1</td><td>The Chat-to-Customer Playbook</td><td><code>PLAYBOOK</code></td></tr>
-<tr><td>2</td><td>The Clear Homepage Blueprint</td><td><code>CLEAR</code></td></tr>
-<tr><td>3</td><td>The 30-Day Content Engine</td><td><code>ENGINE</code></td></tr>
-<tr><td>4</td><td>The One-Offer Landing Page Kit</td><td><code>PAGE</code></td></tr>
-<tr><td>5</td><td>The Lagos Local Visibility Starter</td><td><code>LOCAL</code></td></tr>
-<tr><td>6</td><td>The Clear Message Workbook</td><td><code>MESSAGE</code></td></tr>
-<tr><td>7</td><td>The Everyday AI Prompt Desk</td><td><code>PROMPTS</code></td></tr>
-<tr><td>8</td><td>The Proposal and Report Template Pack</td><td><code>TEMPLATES</code></td></tr>
-<tr><td>9</td><td>The Website Launch and Care Handbook</td><td><code>LAUNCH</code></td></tr>
-</tbody></table>
-<p>Send the keyword on WhatsApp: <b>0905 069 0837</b> · https://wa.me/2349050690837</p>
-<p><b>To build the offers PDF:</b> give the whole of <code>CLAUDE_OFFERS_PROMPT.md</code> to Claude. It has the brand, the palette, the page plan, the writing rules and all nine offers embedded, so Claude can produce the finished A4 PDF without asking you a single question. The prompt also tells Claude to read the numbers from <code>client/src/data/offers.ts</code> if it has the repo, so the PDF can never disagree with the website about a price.</p>
-<hr/>
-<h2>If you only do one thing</h2>
-<p>Open the Post Commander, go to the Month tab, look at the next seven days, and schedule those. Every post is already written, dated and timed. You are not deciding anything, you are pressing a button.</p>
-<p>That is the whole trick. Nothing else needs deciding today.</p></body></html>
+<p>The canonical source is <code>../../marketing/content-plan.json</code>. Edit it, then run <code>npm run content:build</code> and <code>npm run content:check</code>. Do not edit generated CSV/HTML/calendar files independently.</p>
+<h2>Publishing shape</h2>
+<ul><li>One main post per weekday at 18:30 Africa/Lagos.</li><li>10 AI talking heads, 5 screen demos, 5 carousels, 2 original static posts.</li><li>Eight weekend days for replies, review and batching.</li><li>Optional Instagram reuses at 19:00; selective Facebook/LinkedIn suggestions at 19:15.</li><li>53 CSV rows total: 22 primary + 31 optional. These are not 53 compulsory posts.</li></ul>
+<p>See <code>../../marketing/PRODUCTION.md</code> for the weekly batches and platform checks. Native scheduling availability and windows vary; the CSV is not an auto-publishing import.</p>
+<h2>Avatar gate</h2>
+<p>No verified owner headshot or CV was found in the accessible repos. Do not animate the fictional <code>client/public/demo/img/founder-recording.jpg</code>. Supply the correct owner-approved source and permission before generating a personal avatar or voice. The Monday carousel and non-avatar fallbacks can proceed without it.</p>
+<h2>Honesty rules</h2>
+<ul><li>Label every portfolio demo concept/sample.</li><li>No invented client results, testimonials, rankings or guarantees.</li><li>DIY packs are not custom projects; confirm current price and fulfilment.</li><li>Disclose realistic AI presenters/voices and keep private customer information out of prompts.</li><li>If a slot is missed, skip it rather than stacking catch-up posts.</li></ul>
+<p>The old daily scripts, ZIP, launch PDFs and 1,140-row source plan remain in the archive for reference only. They are not the current calendar.</p></body></html>
