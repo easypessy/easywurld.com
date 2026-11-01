@@ -19,7 +19,7 @@
     "Facebook": 20
   },
   "approval": "Draft copy. Human approval, finished media and trend verification are required before scheduling.",
-  "avatarStatus": "Blocked: verified owner photo and explicit likeness/voice permission not supplied. Do not use the fictional demo founder image.",
+  "avatarStatus": "Anonymous Operator persona: faceless founder, night-desk set, calm low voice. No real likeness is used; disclose every clip as 'AI presenter - Easywurld'. Never describe it as the owner's face and never use the fictional demo founder. See marketing/AVATAR_OPERATOR.md.",
   "series": [
     {
       "slot": 1,

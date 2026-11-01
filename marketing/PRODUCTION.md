@@ -59,8 +59,9 @@ This is a suggested rhythm, not a requirement to work every weekend.
 
 The reusable prompt is in [brand-prompt.md](./brand-prompt.md). Each brief also has a filled prompt, script, beats and fallback.
 
-1. **Choose a licensed tool.** Check custom avatar/photo support, consent, commercial rights, retention, deletion and export limits. Do not buy an annual plan to test one clip.
-2. **Upload the approved owner source.** Use a sharp, front-facing image or the provider’s consent video. A CV photo is not permission to animate someone.
+0. **Use the Operator persona.** The faceless founder concept, look, voice delivery card, script formula and 30-day story arc are in [AVATAR_OPERATOR.md](./AVATAR_OPERATOR.md). Art and voice samples are in `assets/avatar/`. No face is shown, so no real likeness or photo release is required.
+1. **Choose a licensed tool.** Check avatar/photo support, consent, commercial rights, retention, deletion and export limits. Do not buy an annual plan to test one clip.
+2. **Use the supplied scene plates.** `operator-hero.png`, `operator-presence.png` or `operator-desk.png` as scene reference. Do not upload a real person’s photo, a CV photo or the fictional demo founder; none of them are permission to animate someone.
 3. **Run a 10-second test.** Check identity, teeth, eyes, skin texture, head movement and pronunciation.
 4. **Approve the voice separately.** Test “Easywurld”, “Lagos”, “naira”, “WhatsApp”, “SEO” and every price. Do not call a generic voice the owner’s.
 5. **Generate in sections.** Split at beat boundaries when lip sync drifts. Use the exact script; no extra claims.
@@ -216,7 +217,8 @@ Review by series after seven days. Keep the cadence for the test, but change hoo
 
 | Problem | Action |
 |---|---|
-| No approved owner photo | Use the series carousel/static/demo fallback; do not invent a likeness. |
+| No approved owner photo | Use the anonymous Operator persona (`assets/avatar/`) or the series carousel/static/demo fallback. Never invent a biometric likeness. |
+| A clip reveals the face | Delete the frame, re-crop to the back of the head or silhouette, or use `operator-desk.png` as a plate. |
 | Avatar identity drifts | Regenerate the section or drop the avatar. |
 | Voice mispronounces a word | Adjust the approved script or captions; re-test. |
 | Trend expired | Publish as a dated teardown or replace the slot, not a false “now trending” claim. |

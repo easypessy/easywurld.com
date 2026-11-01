@@ -31,7 +31,7 @@
 - **30 Meet Easywurld angles** in rotating formats.
 - Video overlay and safe-area guides, plus production and measurement sheets.
 
-**Not included:** a generated owner avatar, cloned voice, finished talking-head videos, live social scheduling or analytics. No verified owner photo/CV was found in the accessible repos. The portfolio founder image is fictional demo material and must not be used as the owner.
+**Avatar:** the anonymous Operator persona is defined in [AVATAR_OPERATOR.md](./AVATAR_OPERATOR.md) with art and voice samples in `assets/avatar/` — faceless by design, so no real likeness or photo release is needed. Still not included: finished talking-head videos, live social scheduling and analytics. The portfolio founder image is fictional demo material and is never used as the owner.
 
 ## The publishing shape
 

@@ -3,7 +3,7 @@
 **Active plan:** 10 core posts/day × 3 platforms, Monday 2 November–Tuesday 1 December 2026.
 **Source:** [STRATEGY.md](./STRATEGY.md), [SERIES_PLAYBOOK.md](./SERIES_PLAYBOOK.md), [PRODUCTION.md](./PRODUCTION.md).
 **Volume:** 300 core posts, 900 platform placements. Every placement starts Draft.
-**Owner avatar:** blocked until a verified owner photo and explicit likeness/voice permission are supplied. Never use the fictional demo founder as the owner.
+**Owner avatar:** the anonymous **Operator** persona — faceless founder, night-desk set, calm low voice. Persona, delivery card and scripts in [AVATAR_OPERATOR.md](./AVATAR_OPERATOR.md); art and voice samples in `assets/avatar/`. No real likeness is used. Never describe it as the owner’s face; always disclose as `AI presenter · Easywurld`. The fictional demo founder is never used.
 
 ## 1. Brand context
 
