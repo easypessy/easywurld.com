@@ -14,7 +14,11 @@
 >
 > Slide 1: The offer sentence should survive the bio test.
 > Slide 2: The problem: You cannot explain your business in one sentence. Your website, Instagram bio and pitch all say different things, and customers cannot tell why to choose you.
-> Slide 3: Inside The Clear Message Workbook: Clear Message Workbook; Customer Interview Kit; Message Bank; One-Page Marketing Plan.
+> Slide 3: Inside The Clear Message Workbook:
+> · Clear Message Workbook
+> · Customer Interview Kit
+> · Message Bank
+> · One-Page Marketing Plan
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a self-guided workbook. It does not include a consultation or review of your answers.
 > Slide 5: Message MESSAGE on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.
 >

@@ -90,3 +90,28 @@ Posts that cannot fill line 3 do not get published. That rule kills most inflate
 After seven days, compare per series: saves (reciprocity, specificity), shares (identity), sticker taps (commitment), keyword enquiries (anchoring, objection relief), comment quality (curiosity gap). Change one lever a week. A principle is only validated by behaviour, not by how clever the line felt.
 
 > Sources are books and papers, cited by author and year. No framework here depends on a claim we cannot point to.
+
+## 7. How this file drives the build
+
+This is not a reference document that sits beside the calendar. It is the input that shapes every post.
+
+| Field | Written by | Where you see it |
+|---|---|---|
+| `psychology.principles[]` | this file | `marketing/series-plan.json` → the twelve principles, their source and their guardrail |
+| `psychology.seriesMap` | this file | the builder assigns a primary/secondary principle per series, alternating by day so the month does not lean on one lever |
+| `psych.name`, `psych.use`, `psych.guard` | generated | every post in `content-plan.json`, every brief in `marketing/briefs/`, the `Psychology move` column in the CSV, the post detail in the studio |
+| `Where it shows up here` | generated | the line in each brief that names the exact sentence or structural choice carrying the principle |
+
+If you edit a principle or a source here, change it in `series-plan.json → psychology` too, then run `npm run content:build`. Do not edit the generated files.
+
+## 8. Re-balancing after week one
+
+The month is tagged, not locked. After seven days:
+
+1. Export `marketing/MEASUREMENT.csv` with real numbers.
+2. Score each series on **saves** (reciprocity, specificity), **shares** (identity), **sticker taps** (commitment), **keyword enquiries** (anchoring, objection relief) and **comment quality** (curiosity gap).
+3. Change **one lever per series per week**: the hook, the length, or the ask. Never three at once, or you learn nothing.
+4. If a principle is consistently underperforming on a series, swap its primary to the secondary and run the next week as a test.
+5. Keep the 22:00 Operator slot for a full three weeks before judging it. The peak-end effect needs repetition to show up in follows.
+
+> A principle is validated by behaviour, not by how clever the line felt when you wrote it.

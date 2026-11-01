@@ -14,7 +14,11 @@
 >
 > Slide 1: The HTML starter is a simple page, not a custom site.
 > Slide 2: The problem: You are launching something and sending people to an Instagram bio, a long website or a chat thread. There is no page that explains the offer and asks for one action.
-> Slide 3: Inside The One-Offer Landing Page Kit: One-Offer Landing Page Guide; Landing Page Copy Template with Worked Example; Editable Landing Page Starter (HTML); Pre-Launch Checklist.
+> Slide 3: Inside The One-Offer Landing Page Kit:
+> · One-Offer Landing Page Guide
+> · Landing Page Copy Template with Worked Example
+> · Editable Landing Page Starter (HTML)
+> · Pre-Launch Checklist
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a do-it-yourself kit. Publishing requires a host (several offer free plans) and, if you want your own address, a domain name. Those costs are yours.
 > Slide 5: Message PAGE on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.
 >

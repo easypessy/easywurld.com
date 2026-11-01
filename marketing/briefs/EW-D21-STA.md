@@ -8,7 +8,7 @@
 - **Sticker:** Poll · weekly hour
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D21-STA/EW-D21-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D21-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 

@@ -638,11 +638,12 @@ All copy is draft until reviewed. The prompts are filled; the Operator persona i
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D01-S01/EW-D01-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D01-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -717,11 +718,12 @@ Create a five-slide Easywurld carousel for a fashion designer business in Lagos.
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D01-S02/EW-D01-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D01-S02.mp4 (record) or assets/fallbacks/EW-D01-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -774,7 +776,7 @@ Create a five-slide Easywurld carousel for a fashion designer business in Lagos.
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -799,11 +801,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D01-S03/EW-D01-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D01-S03.mp4 (record) or assets/fallbacks/EW-D01-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -890,11 +893,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D01-S04/EW-D01-S04_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D01-S04.mp4 (record) or assets/fallbacks/EW-D01-S04.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -980,11 +984,12 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D01-S05/EW-D01-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D01-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -999,7 +1004,7 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-empty-shop.png`
+- **Scene plate:** `assets/meme-scenes/scene-empty-shop.jpg`
 - **On-image line:** Client said 'I'll get back to you.'
 - **Second line:** The calendar also got back to nobody.
 
@@ -1043,7 +1048,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -1056,11 +1061,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 - **Single CTA:** Message PLAYBOOK to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D01-S06/EW-D01-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D01-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
 - **Contact:** 0905 069 0837 · keyword PLAYBOOK
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The Chat-to-Customer Playbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -1075,7 +1081,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 >
 > Slide 2: The problem: Enquiries arrive all day. Replies are slow or inconsistent, quotes get sent and never followed up, and “how much?” turns into silence.
 >
-> Slide 3: Inside The Chat-to-Customer Playbook: Chat-to-Customer Playbook; 36-Script Message Library; Lead & Follow-Up Tracker; 7-Day Setup Checklist.
+> Slide 3: Inside The Chat-to-Customer Playbook:
+> · Chat-to-Customer Playbook
+> · 36-Script Message Library
+> · Lead & Follow-Up Tracker
+> · 7-Day Setup Checklist
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. The tracker is an Excel file (works in Excel, Google Sheets and LibreOffice). WhatsApp Business is free, but you must install it yourself.
 >
@@ -1140,11 +1150,12 @@ Create a five-slide Easywurld offer carousel for The Chat-to-Customer Playbook. 
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D01-S07/EW-D01-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D01-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -1218,11 +1229,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D01-S08/EW-D01-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D01-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -1237,7 +1249,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-inbox.png`
+- **Scene plate:** `assets/meme-scenes/scene-inbox.jpg`
 - **On-image line:** AI: I can automate that. Also AI: invents the price.
 - **Second line:** Human review is the feature.
 
@@ -1281,7 +1293,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -1294,11 +1306,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 - **Single CTA:** Message PLAYBOOK to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D01-S09/EW-D01-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D01-S09.mp4 (record) or assets/fallbacks/EW-D01-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
 - **Contact:** 0905 069 0837 · keyword PLAYBOOK
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The Chat-to-Customer Playbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -1358,7 +1371,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -1383,11 +1396,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D01-S10/EW-D01-S10_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D01-S10_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -1459,11 +1473,12 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 - **Single CTA:** Save this for your next price reply.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D01-S11/EW-D01-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D01-S11.mp4 (record) or assets/fallbacks/EW-D01-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -1515,7 +1530,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -1539,7 +1554,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · bio
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D01-STA/EW-D01-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D01-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -1588,7 +1603,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D01-STB/EW-D01-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D01-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D02-S01
 
@@ -1616,7 +1631,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -1679,11 +1694,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D02-S01/EW-D02-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D02-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -1758,11 +1774,12 @@ Create a five-slide Easywurld carousel for a restaurant business in Lagos. Use t
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D02-S02/EW-D02-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D02-S02.mp4 (record) or assets/fallbacks/EW-D02-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -1815,7 +1832,7 @@ Create a five-slide Easywurld carousel for a restaurant business in Lagos. Use t
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -1840,11 +1857,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D02-S03/EW-D02-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D02-S03.mp4 (record) or assets/fallbacks/EW-D02-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -1931,11 +1949,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D02-S04/EW-D02-S04_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D02-S04.mp4 (record) or assets/fallbacks/EW-D02-S04.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -2021,11 +2040,12 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D02-S05/EW-D02-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D02-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -2040,7 +2060,7 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-blank-screen.png`
+- **Scene plate:** `assets/meme-scenes/scene-blank-screen.jpg`
 - **On-image line:** 27 tabs open. Still no post.
 - **Second line:** Close 26. Answer one customer question.
 
@@ -2084,7 +2104,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -2097,11 +2117,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 - **Single CTA:** Message CLEAR to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D02-S06/EW-D02-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D02-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
 - **Contact:** 0905 069 0837 · keyword CLEAR
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The Clear Homepage Blueprint · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -2116,7 +2137,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 >
 > Slide 2: The problem: The homepage talks about the business and not the visitor. Headlines are vague, the next step is hidden, and visitors leave without enquiring.
 >
-> Slide 3: Inside The Clear Homepage Blueprint: Clear Homepage Blueprint; Homepage Copy Templates; Homepage Content Planner; 20-Point Homepage Audit Scorecard.
+> Slide 3: Inside The Clear Homepage Blueprint:
+> · Clear Homepage Blueprint
+> · Homepage Copy Templates
+> · Homepage Content Planner
+> · 20-Point Homepage Audit Scorecard
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a do-it-yourself resource. It does not include a website build or a personal review of your page.
 >
@@ -2181,11 +2206,12 @@ Create a five-slide Easywurld offer carousel for The Clear Homepage Blueprint. U
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D02-S07/EW-D02-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D02-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -2259,11 +2285,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D02-S08/EW-D02-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D02-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -2278,7 +2305,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-market.png`
+- **Scene plate:** `assets/meme-scenes/scene-market.jpg`
 - **On-image line:** The algorithm changed. The customer question did not.
 - **Second line:** Answer the question clearly.
 
@@ -2322,7 +2349,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -2335,11 +2362,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 - **Single CTA:** Message CLEAR to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D02-S09/EW-D02-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D02-S09.mp4 (record) or assets/fallbacks/EW-D02-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
 - **Contact:** 0905 069 0837 · keyword CLEAR
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The Clear Homepage Blueprint · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -2399,7 +2427,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -2424,11 +2452,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 1 static
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D02-S10/EW-D02-S10_relatable-static.png` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/static/EW-D02-S10.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -2494,11 +2523,12 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 - **Single CTA:** Save the checklist in today’s 07:00 post.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D02-S11/EW-D02-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D02-S11.mp4 (record) or assets/fallbacks/EW-D02-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -2550,7 +2580,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -2574,7 +2604,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · one ask
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D02-STA/EW-D02-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D02-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -2623,7 +2653,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D02-STB/EW-D02-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D02-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D03-S01
 
@@ -2651,7 +2681,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -2708,11 +2738,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D03-S01/EW-D03-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D03-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -2787,11 +2818,12 @@ Create a five-slide Easywurld carousel for a hair salon business in Lagos. Use t
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D03-S02/EW-D03-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D03-S02.mp4 (record) or assets/fallbacks/EW-D03-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -2844,7 +2876,7 @@ Create a five-slide Easywurld carousel for a hair salon business in Lagos. Use t
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -2869,11 +2901,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D03-S03/EW-D03-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D03-S03.mp4 (record) or assets/fallbacks/EW-D03-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -2960,11 +2993,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D03-S04/EW-D03-S04_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D03-S04.mp4 (record) or assets/fallbacks/EW-D03-S04.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -3050,11 +3084,12 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D03-S05/EW-D03-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D03-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -3069,7 +3104,7 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-notebook.png`
+- **Scene plate:** `assets/meme-scenes/scene-notebook.jpg`
 - **On-image line:** The content plan said 9am. The generator said otherwise.
 - **Second line:** Plan the workflow, not just the caption.
 
@@ -3113,7 +3148,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -3126,11 +3161,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 - **Single CTA:** Message ENGINE to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D03-S06/EW-D03-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D03-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
 - **Contact:** 0905 069 0837 · keyword ENGINE
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The 30-Day Content Engine · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -3145,7 +3181,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 >
 > Slide 2: The problem: Posting is inconsistent. You start strong, run out of ideas, and every post feels like a fresh decision. Nothing connects to sales.
 >
-> Slide 3: Inside The 30-Day Content Engine: 30-Day Content Engine Guide; 60-Idea Post Bank; 30-Day Content Calendar; Hooks and Caption Swipe File.
+> Slide 3: Inside The 30-Day Content Engine:
+> · 30-Day Content Engine Guide
+> · 60-Idea Post Bank
+> · 30-Day Content Calendar
+> · Hooks and Caption Swipe File
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. It is a planning system and a swipe file, not finished posts for your business. You write or design the content using the templates.
 >
@@ -3210,11 +3250,12 @@ Create a five-slide Easywurld offer carousel for The 30-Day Content Engine. Use 
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D03-S07/EW-D03-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D03-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -3288,11 +3329,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D03-S08/EW-D03-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D03-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -3307,7 +3349,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-ledger.png`
+- **Scene plate:** `assets/meme-scenes/scene-ledger.jpg`
 - **On-image line:** Marketing guru: post 10 times a day. Also: never repeat yourself.
 - **Second line:** Series are the answer.
 
@@ -3351,7 +3393,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -3364,11 +3406,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 - **Single CTA:** Message ENGINE to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D03-S09/EW-D03-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D03-S09.mp4 (record) or assets/fallbacks/EW-D03-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
 - **Contact:** 0905 069 0837 · keyword ENGINE
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The 30-Day Content Engine · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -3428,7 +3471,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -3453,11 +3496,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D03-S10/EW-D03-S10_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D03-S10_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -3529,11 +3573,12 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 - **Single CTA:** Save this before your next automated reply.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D03-S11/EW-D03-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D03-S11.mp4 (record) or assets/fallbacks/EW-D03-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -3585,7 +3630,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -3609,7 +3654,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · replies
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D03-STA/EW-D03-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D03-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -3658,7 +3703,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D03-STB/EW-D03-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D03-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D04-S01
 
@@ -3686,7 +3731,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -3743,11 +3788,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D04-S01/EW-D04-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D04-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -3822,11 +3868,12 @@ Create a five-slide Easywurld carousel for a gym business in Lagos. Use the exac
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D04-S02/EW-D04-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D04-S02.mp4 (record) or assets/fallbacks/EW-D04-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -3879,7 +3926,7 @@ Create a five-slide Easywurld carousel for a gym business in Lagos. Use the exac
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -3904,11 +3951,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D04-S03/EW-D04-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D04-S03.mp4 (record) or assets/fallbacks/EW-D04-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -3995,11 +4043,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D04-S04/EW-D04-S04_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D04-S04.mp4 (record) or assets/fallbacks/EW-D04-S04.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -4085,11 +4134,12 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D04-S05/EW-D04-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D04-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -4104,7 +4154,7 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-inbox.png`
+- **Scene plate:** `assets/meme-scenes/scene-inbox.jpg`
 - **On-image line:** Everyone wants viral. Nobody wants to answer the DMs.
 - **Second line:** Attention is the start of the work.
 
@@ -4148,7 +4198,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -4161,11 +4211,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 - **Single CTA:** Message PAGE to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D04-S06/EW-D04-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D04-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/one-offer-landing-page-kit
 - **Contact:** 0905 069 0837 · keyword PAGE
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The One-Offer Landing Page Kit · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -4180,7 +4231,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 >
 > Slide 2: The problem: You are launching something and sending people to an Instagram bio, a long website or a chat thread. There is no page that explains the offer and asks for one action.
 >
-> Slide 3: Inside The One-Offer Landing Page Kit: One-Offer Landing Page Guide; Landing Page Copy Template with Worked Example; Editable Landing Page Starter (HTML); Pre-Launch Checklist.
+> Slide 3: Inside The One-Offer Landing Page Kit:
+> · One-Offer Landing Page Guide
+> · Landing Page Copy Template with Worked Example
+> · Editable Landing Page Starter (HTML)
+> · Pre-Launch Checklist
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a do-it-yourself kit. Publishing requires a host (several offer free plans) and, if you want your own address, a domain name. Those costs are yours.
 >
@@ -4245,11 +4300,12 @@ Create a five-slide Easywurld offer carousel for The One-Offer Landing Page Kit.
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D04-S07/EW-D04-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D04-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -4323,11 +4379,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D04-S08/EW-D04-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D04-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -4342,7 +4399,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-rain-window.png`
+- **Scene plate:** `assets/meme-scenes/scene-rain-window.jpg`
 - **On-image line:** The chatbot is confident. The knowledge sheet is empty.
 - **Second line:** Give it boundaries and sources.
 
@@ -4386,7 +4443,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -4399,11 +4456,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 - **Single CTA:** Message PAGE to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D04-S09/EW-D04-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D04-S09.mp4 (record) or assets/fallbacks/EW-D04-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/one-offer-landing-page-kit
 - **Contact:** 0905 069 0837 · keyword PAGE
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The One-Offer Landing Page Kit · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -4463,7 +4521,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -4488,11 +4546,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 25–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D04-S10/EW-D04-S10_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D04-S10.mp4 (record) or assets/fallbacks/EW-D04-S10.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -4576,11 +4635,12 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 - **Single CTA:** Send this to the person redesigning their logo for the third time.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D04-S11/EW-D04-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D04-S11.mp4 (record) or assets/fallbacks/EW-D04-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -4632,7 +4692,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -4656,7 +4716,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Quiz · what sells
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D04-STA/EW-D04-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D04-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -4705,7 +4765,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D04-STB/EW-D04-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D04-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D05-S01
 
@@ -4733,7 +4793,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -4791,11 +4851,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D05-S01/EW-D05-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D05-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -4870,11 +4931,12 @@ Create a five-slide Easywurld carousel for a real estate agent business in Lagos
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D05-S02/EW-D05-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D05-S02.mp4 (record) or assets/fallbacks/EW-D05-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -4927,7 +4989,7 @@ Create a five-slide Easywurld carousel for a real estate agent business in Lagos
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -4952,11 +5014,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D05-S03/EW-D05-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D05-S03.mp4 (record) or assets/fallbacks/EW-D05-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -5043,11 +5106,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D05-S04/EW-D05-S04_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D05-S04.mp4 (record) or assets/fallbacks/EW-D05-S04.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -5133,11 +5197,12 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D05-S05/EW-D05-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D05-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -5152,7 +5217,7 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-market.png`
+- **Scene plate:** `assets/meme-scenes/scene-market.jpg`
 - **On-image line:** The brief: 'make it simple.' The reference: 47 slides.
 - **Second line:** Simple is a decision, not a font.
 
@@ -5196,7 +5261,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -5209,11 +5274,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 - **Single CTA:** Message LOCAL to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D05-S06/EW-D05-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D05-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/lagos-local-visibility-starter
 - **Contact:** 0905 069 0837 · keyword LOCAL
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The Lagos Local Visibility Starter · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -5228,7 +5294,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 >
 > Slide 2: The problem: When people nearby search for what you do, you are hard to find, your listing is incomplete, and your website pages do not say what you do or where.
 >
-> Slide 3: Inside The Lagos Local Visibility Starter: Local Visibility Guide; Keyword and Page Title Worksheet; Google Business Profile Checklist and Review Scripts; 30-Day Local Visibility Tracker.
+> Slide 3: Inside The Lagos Local Visibility Starter:
+> · Local Visibility Guide
+> · Keyword and Page Title Worksheet
+> · Google Business Profile Checklist and Review Scripts
+> · 30-Day Local Visibility Tracker
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. No ranking, traffic or customer numbers are guaranteed. Search results change and depend on competition, your location and many other factors.
 >
@@ -5293,11 +5363,12 @@ Create a five-slide Easywurld offer carousel for The Lagos Local Visibility Star
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D05-S07/EW-D05-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D05-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -5371,11 +5442,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D05-S08/EW-D05-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D05-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -5390,7 +5462,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-desk-phone.png`
+- **Scene plate:** `assets/meme-scenes/scene-desk-phone.jpg`
 - **On-image line:** The caption has 30 hashtags. The hook has no point.
 - **Second line:** Spend the effort on the first sentence.
 
@@ -5434,7 +5506,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -5447,11 +5519,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 - **Single CTA:** Message LOCAL to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D05-S09/EW-D05-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D05-S09.mp4 (record) or assets/fallbacks/EW-D05-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/lagos-local-visibility-starter
 - **Contact:** 0905 069 0837 · keyword LOCAL
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The Lagos Local Visibility Starter · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -5511,7 +5584,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -5536,11 +5609,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D05-S10/EW-D05-S10_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D05-S10_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -5612,11 +5686,12 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 - **Single CTA:** Save this for tomorrow’s caption.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D05-S11/EW-D05-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D05-S11.mp4 (record) or assets/fallbacks/EW-D05-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -5668,7 +5743,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -5692,7 +5767,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · inbox
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D05-STA/EW-D05-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D05-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -5741,7 +5816,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D05-STB/EW-D05-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D05-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D06-S01
 
@@ -5769,7 +5844,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -5824,11 +5899,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D06-S01/EW-D06-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D06-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -5903,11 +5979,12 @@ Create a five-slide Easywurld carousel for a bakery business in Lagos. Use the e
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D06-S02/EW-D06-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D06-S02.mp4 (record) or assets/fallbacks/EW-D06-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -5960,7 +6037,7 @@ Create a five-slide Easywurld carousel for a bakery business in Lagos. Use the e
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -5985,11 +6062,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D06-S03/EW-D06-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D06-S03.mp4 (record) or assets/fallbacks/EW-D06-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -6076,11 +6154,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D06-S04/EW-D06-S04_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D06-S04.mp4 (record) or assets/fallbacks/EW-D06-S04.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -6166,11 +6245,12 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D06-S05/EW-D06-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D06-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -6185,7 +6265,7 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-ledger.png`
+- **Scene plate:** `assets/meme-scenes/scene-ledger.jpg`
 - **On-image line:** Posted at the perfect time. Forgot the link.
 - **Second line:** The journey matters more than the minute.
 
@@ -6229,7 +6309,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -6242,11 +6322,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 - **Single CTA:** Message MESSAGE to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D06-S06/EW-D06-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D06-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-message-workbook
 - **Contact:** 0905 069 0837 · keyword MESSAGE
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The Clear Message Workbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -6261,7 +6342,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 >
 > Slide 2: The problem: You cannot explain your business in one sentence. Your website, Instagram bio and pitch all say different things, and customers cannot tell why to choose you.
 >
-> Slide 3: Inside The Clear Message Workbook: Clear Message Workbook; Customer Interview Kit; Message Bank; One-Page Marketing Plan.
+> Slide 3: Inside The Clear Message Workbook:
+> · Clear Message Workbook
+> · Customer Interview Kit
+> · Message Bank
+> · One-Page Marketing Plan
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a self-guided workbook. It does not include a consultation or review of your answers.
 >
@@ -6326,11 +6411,12 @@ Create a five-slide Easywurld offer carousel for The Clear Message Workbook. Use
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D06-S07/EW-D06-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D06-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -6404,11 +6490,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D06-S08/EW-D06-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D06-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -6423,7 +6510,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-empty-shop.png`
+- **Scene plate:** `assets/meme-scenes/scene-empty-shop.jpg`
 - **On-image line:** The client wants authentic. The script sounds like a press release.
 - **Second line:** Write like a person with facts.
 
@@ -6467,7 +6554,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -6480,11 +6567,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 - **Single CTA:** Message MESSAGE to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D06-S09/EW-D06-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D06-S09.mp4 (record) or assets/fallbacks/EW-D06-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-message-workbook
 - **Contact:** 0905 069 0837 · keyword MESSAGE
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The Clear Message Workbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -6544,7 +6632,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -6569,11 +6657,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 25–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D06-S10/EW-D06-S10_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D06-S10.mp4 (record) or assets/fallbacks/EW-D06-S10.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -6649,11 +6738,12 @@ Create an Easywurld introduction in the format AI talking head. Use the exact su
 - **Single CTA:** Save this and clear five tonight.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D06-S11/EW-D06-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D06-S11.mp4 (record) or assets/fallbacks/EW-D06-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -6705,7 +6795,7 @@ Create an Easywurld introduction in the format AI talking head. Use the exact su
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -6729,7 +6819,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · first question
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D06-STA/EW-D06-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D06-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -6778,7 +6868,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D06-STB/EW-D06-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D06-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D07-S01
 
@@ -6806,7 +6896,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -6834,7 +6924,11 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 >
 > Slide 1: The offer sentence should survive the bio test.
 > Slide 2: The problem: You cannot explain your business in one sentence. Your website, Instagram bio and pitch all say different things, and customers cannot tell why to choose you.
-> Slide 3: Inside The Clear Message Workbook: Clear Message Workbook; Customer Interview Kit; Message Bank; One-Page Marketing Plan.
+> Slide 3: Inside The Clear Message Workbook:
+> · Clear Message Workbook
+> · Customer Interview Kit
+> · Message Bank
+> · One-Page Marketing Plan
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a self-guided workbook. It does not include a consultation or review of your answers.
 > Slide 5: Message MESSAGE on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.
 >
@@ -6861,11 +6955,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D07-S01/EW-D07-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D07-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -6940,11 +7035,12 @@ Create a five-slide Easywurld carousel for a skincare brand business in Lagos. U
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D07-S02/EW-D07-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D07-S02.mp4 (record) or assets/fallbacks/EW-D07-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -6997,7 +7093,7 @@ Create a five-slide Easywurld carousel for a skincare brand business in Lagos. U
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -7022,11 +7118,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D07-S03/EW-D07-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D07-S03.mp4 (record) or assets/fallbacks/EW-D07-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -7113,11 +7210,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D07-S04/EW-D07-S04_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D07-S04.mp4 (record) or assets/fallbacks/EW-D07-S04.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -7203,11 +7301,12 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D07-S05/EW-D07-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D07-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -7222,7 +7321,7 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-rain-window.png`
+- **Scene plate:** `assets/meme-scenes/scene-rain-window.jpg`
 - **On-image line:** The customer asked for price. We sent a novel.
 - **Second line:** Answer the question, then add the next step.
 
@@ -7266,7 +7365,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -7279,11 +7378,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 - **Single CTA:** Message PROMPTS to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D07-S06/EW-D07-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D07-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/everyday-ai-prompt-desk
 - **Contact:** 0905 069 0837 · keyword PROMPTS
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The Everyday AI Prompt Desk · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -7298,7 +7398,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 >
 > Slide 2: The problem: You try AI tools and get vague, generic or wrong answers. You are not sure what to ask, what to trust, or what you should never paste in.
 >
-> Slide 3: Inside The Everyday AI Prompt Desk: AI Prompting Guide for Small Business; 60-Prompt Library; Enquiry Assistant Knowledge Sheet Template; AI Output Review and Safety Checklist.
+> Slide 3: Inside The Everyday AI Prompt Desk:
+> · AI Prompting Guide for Small Business
+> · 60-Prompt Library
+> · Enquiry Assistant Knowledge Sheet Template
+> · AI Output Review and Safety Checklist
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. You need access to an AI chat tool. Many have free plans, and some features may need a paid plan. That cost is yours.
 >
@@ -7363,11 +7467,12 @@ Create a five-slide Easywurld offer carousel for The Everyday AI Prompt Desk. Us
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D07-S07/EW-D07-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D07-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -7441,11 +7546,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D07-S08/EW-D07-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D07-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -7460,7 +7566,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-blank-screen.png`
+- **Scene plate:** `assets/meme-scenes/scene-blank-screen.jpg`
 - **On-image line:** The trend is funny. The brand has no connection.
 - **Second line:** Skip it or adapt the structure.
 
@@ -7504,7 +7610,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -7517,11 +7623,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 - **Single CTA:** Message PROMPTS to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D07-S09/EW-D07-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D07-S09.mp4 (record) or assets/fallbacks/EW-D07-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/everyday-ai-prompt-desk
 - **Contact:** 0905 069 0837 · keyword PROMPTS
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The Everyday AI Prompt Desk · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -7581,7 +7688,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -7606,11 +7713,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D07-S10/EW-D07-S10_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D07-S10_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -7682,11 +7790,12 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 - **Single CTA:** Save this before you buy followers.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D07-S11/EW-D07-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D07-S11.mp4 (record) or assets/fallbacks/EW-D07-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -7738,7 +7847,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -7762,7 +7871,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · Sunday night
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D07-STA/EW-D07-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D07-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -7811,7 +7920,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D07-STB/EW-D07-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D07-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D08-S01
 
@@ -7839,7 +7948,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -7864,11 +7973,12 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D08-S01/EW-D08-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D08-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -7943,11 +8053,12 @@ Create a five-slide Easywurld carousel for a tutor business in Lagos. Use the ex
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D08-S02/EW-D08-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D08-S02.mp4 (record) or assets/fallbacks/EW-D08-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -8000,7 +8111,7 @@ Create a five-slide Easywurld carousel for a tutor business in Lagos. Use the ex
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -8025,11 +8136,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D08-S03/EW-D08-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D08-S03.mp4 (record) or assets/fallbacks/EW-D08-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -8116,11 +8228,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D08-S04/EW-D08-S04_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D08-S04.mp4 (record) or assets/fallbacks/EW-D08-S04.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -8206,11 +8319,12 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D08-S05/EW-D08-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D08-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -8225,7 +8339,7 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-desk-phone.png`
+- **Scene plate:** `assets/meme-scenes/scene-desk-phone.jpg`
 - **On-image line:** New month. New niche. Same confused bio.
 - **Second line:** Consistency beats reinvention.
 
@@ -8269,7 +8383,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -8282,11 +8396,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 - **Single CTA:** Message TEMPLATES to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D08-S06/EW-D08-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D08-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/proposal-and-report-template-pack
 - **Contact:** 0905 069 0837 · keyword TEMPLATES
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The Proposal & Report Template Pack · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -8301,7 +8416,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 >
 > Slide 2: The problem: Each proposal or report is built from scratch. Documents are long, inconsistent and hard to skim, and quotes take too long to prepare.
 >
-> Slide 3: Inside The Proposal & Report Template Pack: Proposals and Reports Guide; Proposal Template with Worked Example; Report and Summary Templates; Quote and Invoice Workbook.
+> Slide 3: Inside The Proposal & Report Template Pack:
+> · Proposals and Reports Guide
+> · Proposal Template with Worked Example
+> · Report and Summary Templates
+> · Quote and Invoice Workbook
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. Templates are general business documents, not legal contracts. Have terms and contracts reviewed by a qualified professional.
 >
@@ -8366,11 +8485,12 @@ Create a five-slide Easywurld offer carousel for The Proposal & Report Template 
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D08-S07/EW-D08-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D08-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -8444,11 +8564,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D08-S08/EW-D08-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D08-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -8463,7 +8584,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-notebook.png`
+- **Scene plate:** `assets/meme-scenes/scene-notebook.jpg`
 - **On-image line:** The carousel has 10 slides. Slide 1 is a paragraph.
 - **Second line:** One idea per slide.
 
@@ -8507,7 +8628,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -8520,11 +8641,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 - **Single CTA:** Message TEMPLATES to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D08-S09/EW-D08-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D08-S09.mp4 (record) or assets/fallbacks/EW-D08-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/proposal-and-report-template-pack
 - **Contact:** 0905 069 0837 · keyword TEMPLATES
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The Proposal & Report Template Pack · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -8584,7 +8706,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -8609,11 +8731,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 1 static
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D08-S10/EW-D08-S10_relatable-static.png` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/static/EW-D08-S10.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -8685,11 +8808,12 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 - **Single CTA:** Save this for the next strategy meeting.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D08-S11/EW-D08-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D08-S11.mp4 (record) or assets/fallbacks/EW-D08-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -8741,7 +8865,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -8765,7 +8889,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · saves
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D08-STA/EW-D08-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D08-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -8814,7 +8938,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D08-STB/EW-D08-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D08-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D09-S01
 
@@ -8842,7 +8966,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -8905,11 +9029,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D09-S01/EW-D09-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D09-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -8984,11 +9109,12 @@ Create a five-slide Easywurld carousel for a event planner business in Lagos. Us
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D09-S02/EW-D09-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D09-S02.mp4 (record) or assets/fallbacks/EW-D09-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -9041,7 +9167,7 @@ Create a five-slide Easywurld carousel for a event planner business in Lagos. Us
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -9066,11 +9192,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D09-S03/EW-D09-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D09-S03.mp4 (record) or assets/fallbacks/EW-D09-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -9157,11 +9284,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D09-S04/EW-D09-S04_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D09-S04.mp4 (record) or assets/fallbacks/EW-D09-S04.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -9247,11 +9375,12 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D09-S05/EW-D09-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D09-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -9266,7 +9395,7 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-empty-shop.png`
+- **Scene plate:** `assets/meme-scenes/scene-empty-shop.jpg`
 - **On-image line:** The camera is ready. The script is 'vibes'.
 - **Second line:** Write the first sentence before recording.
 
@@ -9310,7 +9439,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -9323,11 +9452,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 - **Single CTA:** Message LAUNCH to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D09-S06/EW-D09-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D09-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/website-launch-and-care-handbook
 - **Contact:** 0905 069 0837 · keyword LAUNCH
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The Website Launch & Care Handbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -9342,7 +9472,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 >
 > Slide 2: The problem: You do not know what to decide first, who should own the domain, how to compare quotes, or what has to happen after launch. Sites go live half-finished and then are never updated.
 >
-> Slide 3: Inside The Website Launch & Care Handbook: Website Launch & Care Handbook; Website Planning Brief; Launch, Care and Accounts Workbook; Hiring a Web Designer: Questions and Red Flags.
+> Slide 3: Inside The Website Launch & Care Handbook:
+> · Website Launch & Care Handbook
+> · Website Planning Brief
+> · Launch, Care and Accounts Workbook
+> · Hiring a Web Designer: Questions and Red Flags
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. It is a guide and set of tools. It does not build, host or maintain a website.
 >
@@ -9407,11 +9541,12 @@ Create a five-slide Easywurld offer carousel for The Website Launch & Care Handb
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D09-S07/EW-D09-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D09-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -9485,11 +9620,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D09-S08/EW-D09-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D09-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -9504,7 +9640,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-inbox.png`
+- **Scene plate:** `assets/meme-scenes/scene-inbox.jpg`
 - **On-image line:** The AI voice says 'Easy-world'.
 - **Second line:** Test pronunciation before the batch.
 
@@ -9548,7 +9684,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -9561,11 +9697,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 - **Single CTA:** Message LAUNCH to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D09-S09/EW-D09-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D09-S09.mp4 (record) or assets/fallbacks/EW-D09-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/website-launch-and-care-handbook
 - **Contact:** 0905 069 0837 · keyword LAUNCH
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The Website Launch & Care Handbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -9625,7 +9762,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -9650,11 +9787,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D09-S10/EW-D09-S10_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D09-S10_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -9726,11 +9864,12 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 - **Single CTA:** Send this to whoever is undercutting you.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D09-S11/EW-D09-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D09-S11.mp4 (record) or assets/fallbacks/EW-D09-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -9782,7 +9921,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -9806,7 +9945,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · AI captions
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D09-STA/EW-D09-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D09-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -9855,7 +9994,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D09-STB/EW-D09-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D09-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D10-S01
 
@@ -9883,7 +10022,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -9940,11 +10079,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D10-S01/EW-D10-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D10-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -10019,11 +10159,12 @@ Create a five-slide Easywurld carousel for a logistics company business in Lagos
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D10-S02/EW-D10-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D10-S02.mp4 (record) or assets/fallbacks/EW-D10-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -10076,7 +10217,7 @@ Create a five-slide Easywurld carousel for a logistics company business in Lagos
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -10101,11 +10242,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D10-S03/EW-D10-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D10-S03.mp4 (record) or assets/fallbacks/EW-D10-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -10192,11 +10334,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D10-S04/EW-D10-S04_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D10-S04.mp4 (record) or assets/fallbacks/EW-D10-S04.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -10282,11 +10425,12 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D10-S05/EW-D10-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D10-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -10301,7 +10445,7 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-blank-screen.png`
+- **Scene plate:** `assets/meme-scenes/scene-blank-screen.jpg`
 - **On-image line:** We need more content. We have no photos.
 - **Second line:** Start with the work you already do.
 
@@ -10345,7 +10489,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -10358,11 +10502,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 - **Single CTA:** Message PLAYBOOK to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D10-S06/EW-D10-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D10-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
 - **Contact:** 0905 069 0837 · keyword PLAYBOOK
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The Chat-to-Customer Playbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -10377,7 +10522,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 >
 > Slide 2: The problem: Enquiries arrive all day. Replies are slow or inconsistent, quotes get sent and never followed up, and “how much?” turns into silence.
 >
-> Slide 3: Inside The Chat-to-Customer Playbook: Chat-to-Customer Playbook; 36-Script Message Library; Lead & Follow-Up Tracker; 7-Day Setup Checklist.
+> Slide 3: Inside The Chat-to-Customer Playbook:
+> · Chat-to-Customer Playbook
+> · 36-Script Message Library
+> · Lead & Follow-Up Tracker
+> · 7-Day Setup Checklist
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. The tracker is an Excel file (works in Excel, Google Sheets and LibreOffice). WhatsApp Business is free, but you must install it yourself.
 >
@@ -10442,11 +10591,12 @@ Create a five-slide Easywurld offer carousel for The Chat-to-Customer Playbook. 
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D10-S07/EW-D10-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D10-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -10520,11 +10670,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D10-S08/EW-D10-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D10-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -10539,7 +10690,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-market.png`
+- **Scene plate:** `assets/meme-scenes/scene-market.jpg`
 - **On-image line:** The scheduler is connected. The disclosure is missing.
 - **Second line:** Do not publish undisclosed realistic AI.
 
@@ -10583,7 +10734,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -10596,11 +10747,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 - **Single CTA:** Message PLAYBOOK to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D10-S09/EW-D10-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D10-S09.mp4 (record) or assets/fallbacks/EW-D10-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
 - **Contact:** 0905 069 0837 · keyword PLAYBOOK
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The Chat-to-Customer Playbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -10660,7 +10812,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -10685,11 +10837,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 25–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D10-S10/EW-D10-S10_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D10-S10.mp4 (record) or assets/fallbacks/EW-D10-S10.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -10765,11 +10918,12 @@ Create an Easywurld introduction in the format AI talking head. Use the exact su
 - **Single CTA:** Save this before your next sale post.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D10-S11/EW-D10-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D10-S11.mp4 (record) or assets/fallbacks/EW-D10-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -10821,7 +10975,7 @@ Create an Easywurld introduction in the format AI talking head. Use the exact su
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -10845,7 +10999,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · best seller
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D10-STA/EW-D10-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D10-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -10894,7 +11048,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D10-STB/EW-D10-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D10-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D11-S01
 
@@ -10922,7 +11076,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -10979,11 +11133,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D11-S01/EW-D11-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D11-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -11058,11 +11213,12 @@ Create a five-slide Easywurld carousel for a phone repair shop business in Lagos
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D11-S02/EW-D11-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D11-S02.mp4 (record) or assets/fallbacks/EW-D11-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -11115,7 +11271,7 @@ Create a five-slide Easywurld carousel for a phone repair shop business in Lagos
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -11140,11 +11296,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D11-S03/EW-D11-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D11-S03.mp4 (record) or assets/fallbacks/EW-D11-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -11231,11 +11388,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D11-S04/EW-D11-S04_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D11-S04.mp4 (record) or assets/fallbacks/EW-D11-S04.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -11321,11 +11479,12 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D11-S05/EW-D11-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D11-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -11340,7 +11499,7 @@ Produce a 9:16 screen-led walkthrough from the supplied real Easywurld demo. Kee
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-notebook.png`
+- **Scene plate:** `assets/meme-scenes/scene-notebook.jpg`
 - **On-image line:** The client wants organic growth. By Friday.
 - **Second line:** Set a test window, not a miracle date.
 
@@ -11384,7 +11543,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -11397,11 +11556,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 - **Single CTA:** Message CLEAR to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D11-S06/EW-D11-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D11-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
 - **Contact:** 0905 069 0837 · keyword CLEAR
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The Clear Homepage Blueprint · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -11416,7 +11576,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 >
 > Slide 2: The problem: The homepage talks about the business and not the visitor. Headlines are vague, the next step is hidden, and visitors leave without enquiring.
 >
-> Slide 3: Inside The Clear Homepage Blueprint: Clear Homepage Blueprint; Homepage Copy Templates; Homepage Content Planner; 20-Point Homepage Audit Scorecard.
+> Slide 3: Inside The Clear Homepage Blueprint:
+> · Clear Homepage Blueprint
+> · Homepage Copy Templates
+> · Homepage Content Planner
+> · 20-Point Homepage Audit Scorecard
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a do-it-yourself resource. It does not include a website build or a personal review of your page.
 >
@@ -11481,11 +11645,12 @@ Create a five-slide Easywurld offer carousel for The Clear Homepage Blueprint. U
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D11-S07/EW-D11-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D11-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -11559,11 +11724,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D11-S08/EW-D11-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D11-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -11578,7 +11744,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-ledger.png`
+- **Scene plate:** `assets/meme-scenes/scene-ledger.jpg`
 - **On-image line:** The post is boosted. The reply is slow.
 - **Second line:** Speed to lead is part of the campaign.
 
@@ -11622,7 +11788,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -11635,11 +11801,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 - **Single CTA:** Message CLEAR to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D11-S09/EW-D11-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D11-S09.mp4 (record) or assets/fallbacks/EW-D11-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
 - **Contact:** 0905 069 0837 · keyword CLEAR
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The Clear Homepage Blueprint · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -11699,7 +11866,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -11724,11 +11891,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D11-S10/EW-D11-S10_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D11-S10_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -11800,11 +11968,12 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 - **Single CTA:** Save this and rewrite your bio tonight.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D11-S11/EW-D11-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D11-S11.mp4 (record) or assets/fallbacks/EW-D11-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -11856,7 +12025,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -11880,7 +12049,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · price vs time
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D11-STA/EW-D11-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D11-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -11929,7 +12098,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D11-STB/EW-D11-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D11-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D12-S01
 
@@ -11957,7 +12126,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -12015,11 +12184,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D12-S01/EW-D12-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D12-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -12094,11 +12264,12 @@ Create a five-slide Easywurld carousel for a thrift store business in Lagos. Use
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D12-S02/EW-D12-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D12-S02.mp4 (record) or assets/fallbacks/EW-D12-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -12151,7 +12322,7 @@ Create a five-slide Easywurld carousel for a thrift store business in Lagos. Use
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -12176,11 +12347,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D12-S03/EW-D12-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D12-S03.mp4 (record) or assets/fallbacks/EW-D12-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -12267,11 +12439,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D12-S04/EW-D12-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D12-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -12343,11 +12516,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D12-S05/EW-D12-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D12-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -12362,7 +12536,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-inbox.png`
+- **Scene plate:** `assets/meme-scenes/scene-inbox.jpg`
 - **On-image line:** The meme got shares. The offer got silence.
 - **Second line:** Humour should open the door, not hide the room.
 
@@ -12406,7 +12580,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -12419,11 +12593,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 - **Single CTA:** Message ENGINE to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D12-S06/EW-D12-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D12-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
 - **Contact:** 0905 069 0837 · keyword ENGINE
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The 30-Day Content Engine · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -12438,7 +12613,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 >
 > Slide 2: The problem: Posting is inconsistent. You start strong, run out of ideas, and every post feels like a fresh decision. Nothing connects to sales.
 >
-> Slide 3: Inside The 30-Day Content Engine: 30-Day Content Engine Guide; 60-Idea Post Bank; 30-Day Content Calendar; Hooks and Caption Swipe File.
+> Slide 3: Inside The 30-Day Content Engine:
+> · 30-Day Content Engine Guide
+> · 60-Idea Post Bank
+> · 30-Day Content Calendar
+> · Hooks and Caption Swipe File
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. It is a planning system and a swipe file, not finished posts for your business. You write or design the content using the templates.
 >
@@ -12503,11 +12682,12 @@ Create a five-slide Easywurld offer carousel for The 30-Day Content Engine. Use 
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D12-S07/EW-D12-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D12-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -12581,11 +12761,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D12-S08/EW-D12-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D12-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -12600,7 +12781,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-rain-window.png`
+- **Scene plate:** `assets/meme-scenes/scene-rain-window.jpg`
 - **On-image line:** The brief says target everyone.
 - **Second line:** Choose one owner with one problem.
 
@@ -12644,7 +12825,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -12657,11 +12838,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 - **Single CTA:** Message ENGINE to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D12-S09/EW-D12-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D12-S09.mp4 (record) or assets/fallbacks/EW-D12-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
 - **Contact:** 0905 069 0837 · keyword ENGINE
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The 30-Day Content Engine · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -12721,7 +12903,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -12746,11 +12928,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 25–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D12-S10/EW-D12-S10_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D12-S10.mp4 (record) or assets/fallbacks/EW-D12-S10.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -12834,11 +13017,12 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 - **Single CTA:** Save this for your next portfolio post.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D12-S11/EW-D12-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D12-S11.mp4 (record) or assets/fallbacks/EW-D12-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -12890,7 +13074,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -12914,7 +13098,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · proof
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D12-STA/EW-D12-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D12-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -12963,7 +13147,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D12-STB/EW-D12-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D12-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D13-S01
 
@@ -12991,7 +13175,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -13046,11 +13230,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D13-S01/EW-D13-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D13-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -13125,11 +13310,12 @@ Create a five-slide Easywurld carousel for a photographer business in Lagos. Use
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D13-S02/EW-D13-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D13-S02.mp4 (record) or assets/fallbacks/EW-D13-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -13182,7 +13368,7 @@ Create a five-slide Easywurld carousel for a photographer business in Lagos. Use
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -13207,11 +13393,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D13-S03/EW-D13-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D13-S03.mp4 (record) or assets/fallbacks/EW-D13-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -13298,11 +13485,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D13-S04/EW-D13-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D13-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -13374,11 +13562,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D13-S05/EW-D13-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D13-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -13393,7 +13582,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-market.png`
+- **Scene plate:** `assets/meme-scenes/scene-market.jpg`
 - **On-image line:** The website is live. The phone number is old.
 - **Second line:** Launch is a checklist, not a button.
 
@@ -13437,7 +13626,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -13450,11 +13639,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 - **Single CTA:** Message PAGE to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D13-S06/EW-D13-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D13-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/one-offer-landing-page-kit
 - **Contact:** 0905 069 0837 · keyword PAGE
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The One-Offer Landing Page Kit · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -13469,7 +13659,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 >
 > Slide 2: The problem: You are launching something and sending people to an Instagram bio, a long website or a chat thread. There is no page that explains the offer and asks for one action.
 >
-> Slide 3: Inside The One-Offer Landing Page Kit: One-Offer Landing Page Guide; Landing Page Copy Template with Worked Example; Editable Landing Page Starter (HTML); Pre-Launch Checklist.
+> Slide 3: Inside The One-Offer Landing Page Kit:
+> · One-Offer Landing Page Guide
+> · Landing Page Copy Template with Worked Example
+> · Editable Landing Page Starter (HTML)
+> · Pre-Launch Checklist
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a do-it-yourself kit. Publishing requires a host (several offer free plans) and, if you want your own address, a domain name. Those costs are yours.
 >
@@ -13534,11 +13728,12 @@ Create a five-slide Easywurld offer carousel for The One-Offer Landing Page Kit.
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D13-S07/EW-D13-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D13-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -13612,11 +13807,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D13-S08/EW-D13-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D13-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -13631,7 +13827,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-desk-phone.png`
+- **Scene plate:** `assets/meme-scenes/scene-desk-phone.jpg`
 - **On-image line:** The sample has fake metrics.
 - **Second line:** Label it or remove it.
 
@@ -13675,7 +13871,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -13688,11 +13884,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 - **Single CTA:** Message PAGE to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D13-S09/EW-D13-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D13-S09.mp4 (record) or assets/fallbacks/EW-D13-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/one-offer-landing-page-kit
 - **Contact:** 0905 069 0837 · keyword PAGE
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The One-Offer Landing Page Kit · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -13752,7 +13949,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -13777,11 +13974,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 1 static
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D13-S10/EW-D13-S10_relatable-static.png` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/static/EW-D13-S10.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -13851,11 +14049,12 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 - **Single CTA:** Save this for your next page rewrite.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D13-S11/EW-D13-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D13-S11.mp4 (record) or assets/fallbacks/EW-D13-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -13907,7 +14106,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -13931,7 +14130,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · website
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D13-STA/EW-D13-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D13-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -13980,7 +14179,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D13-STB/EW-D13-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D13-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D14-S01
 
@@ -14008,7 +14207,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -14036,7 +14235,11 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 >
 > Slide 1: The HTML starter is a simple page, not a custom site.
 > Slide 2: The problem: You are launching something and sending people to an Instagram bio, a long website or a chat thread. There is no page that explains the offer and asks for one action.
-> Slide 3: Inside The One-Offer Landing Page Kit: One-Offer Landing Page Guide; Landing Page Copy Template with Worked Example; Editable Landing Page Starter (HTML); Pre-Launch Checklist.
+> Slide 3: Inside The One-Offer Landing Page Kit:
+> · One-Offer Landing Page Guide
+> · Landing Page Copy Template with Worked Example
+> · Editable Landing Page Starter (HTML)
+> · Pre-Launch Checklist
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a do-it-yourself kit. Publishing requires a host (several offer free plans) and, if you want your own address, a domain name. Those costs are yours.
 > Slide 5: Message PAGE on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.
 >
@@ -14063,11 +14266,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D14-S01/EW-D14-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D14-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -14142,11 +14346,12 @@ Create a five-slide Easywurld carousel for a cleaning service business in Lagos.
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D14-S02/EW-D14-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D14-S02.mp4 (record) or assets/fallbacks/EW-D14-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -14199,7 +14404,7 @@ Create a five-slide Easywurld carousel for a cleaning service business in Lagos.
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -14224,11 +14429,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D14-S03/EW-D14-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D14-S03.mp4 (record) or assets/fallbacks/EW-D14-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -14315,11 +14521,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D14-S04/EW-D14-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D14-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -14391,11 +14598,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D14-S05/EW-D14-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D14-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -14410,7 +14618,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-ledger.png`
+- **Scene plate:** `assets/meme-scenes/scene-ledger.jpg`
 - **On-image line:** The AI wrote 30 posts. All 30 sound like a brochure.
 - **Second line:** Give it facts, voice and boundaries.
 
@@ -14454,7 +14662,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -14467,11 +14675,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 - **Single CTA:** Message LOCAL to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D14-S06/EW-D14-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D14-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/lagos-local-visibility-starter
 - **Contact:** 0905 069 0837 · keyword LOCAL
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The Lagos Local Visibility Starter · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -14486,7 +14695,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 >
 > Slide 2: The problem: When people nearby search for what you do, you are hard to find, your listing is incomplete, and your website pages do not say what you do or where.
 >
-> Slide 3: Inside The Lagos Local Visibility Starter: Local Visibility Guide; Keyword and Page Title Worksheet; Google Business Profile Checklist and Review Scripts; 30-Day Local Visibility Tracker.
+> Slide 3: Inside The Lagos Local Visibility Starter:
+> · Local Visibility Guide
+> · Keyword and Page Title Worksheet
+> · Google Business Profile Checklist and Review Scripts
+> · 30-Day Local Visibility Tracker
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. No ranking, traffic or customer numbers are guaranteed. Search results change and depend on competition, your location and many other factors.
 >
@@ -14551,11 +14764,12 @@ Create a five-slide Easywurld offer carousel for The Lagos Local Visibility Star
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D14-S07/EW-D14-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D14-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -14629,11 +14843,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D14-S08/EW-D14-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D14-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -14648,7 +14863,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-empty-shop.png`
+- **Scene plate:** `assets/meme-scenes/scene-empty-shop.jpg`
 - **On-image line:** The meme mocks the customer.
 - **Second line:** Joke about the work, not the person.
 
@@ -14692,7 +14907,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -14705,11 +14920,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 - **Single CTA:** Message LOCAL to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D14-S09/EW-D14-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D14-S09.mp4 (record) or assets/fallbacks/EW-D14-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/lagos-local-visibility-starter
 - **Contact:** 0905 069 0837 · keyword LOCAL
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The Lagos Local Visibility Starter · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -14769,7 +14985,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -14794,11 +15010,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 25–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D14-S10/EW-D14-S10_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D14-S10.mp4 (record) or assets/fallbacks/EW-D14-S10.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -14882,11 +15099,12 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 - **Single CTA:** Save this before you boost anything.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D14-S11/EW-D14-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D14-S11.mp4 (record) or assets/fallbacks/EW-D14-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -14938,7 +15156,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -14962,7 +15180,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · vanity
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D14-STA/EW-D14-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D14-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -15011,7 +15229,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D14-STB/EW-D14-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D14-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D15-S01
 
@@ -15039,7 +15257,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -15064,11 +15282,12 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D15-S01/EW-D15-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D15-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -15143,11 +15362,12 @@ Create a five-slide Easywurld carousel for a makeup artist business in Lagos. Us
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D15-S02/EW-D15-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D15-S02.mp4 (record) or assets/fallbacks/EW-D15-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -15200,7 +15420,7 @@ Create a five-slide Easywurld carousel for a makeup artist business in Lagos. Us
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -15225,11 +15445,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D15-S03/EW-D15-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D15-S03.mp4 (record) or assets/fallbacks/EW-D15-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -15316,11 +15537,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D15-S04/EW-D15-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D15-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -15392,11 +15614,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D15-S05/EW-D15-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D15-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -15411,7 +15634,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-rain-window.png`
+- **Scene plate:** `assets/meme-scenes/scene-rain-window.jpg`
 - **On-image line:** The customer said 'quick one'. It has been 40 minutes.
 - **Second line:** Scope the quick one.
 
@@ -15455,7 +15678,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -15468,11 +15691,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 - **Single CTA:** Message MESSAGE to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D15-S06/EW-D15-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D15-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-message-workbook
 - **Contact:** 0905 069 0837 · keyword MESSAGE
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The Clear Message Workbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -15487,7 +15711,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 >
 > Slide 2: The problem: You cannot explain your business in one sentence. Your website, Instagram bio and pitch all say different things, and customers cannot tell why to choose you.
 >
-> Slide 3: Inside The Clear Message Workbook: Clear Message Workbook; Customer Interview Kit; Message Bank; One-Page Marketing Plan.
+> Slide 3: Inside The Clear Message Workbook:
+> · Clear Message Workbook
+> · Customer Interview Kit
+> · Message Bank
+> · One-Page Marketing Plan
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a self-guided workbook. It does not include a consultation or review of your answers.
 >
@@ -15552,11 +15780,12 @@ Create a five-slide Easywurld offer carousel for The Clear Message Workbook. Use
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D15-S07/EW-D15-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D15-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -15630,11 +15859,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D15-S08/EW-D15-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D15-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -15649,7 +15879,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-blank-screen.png`
+- **Scene plate:** `assets/meme-scenes/scene-blank-screen.jpg`
 - **On-image line:** The content is repurposed. The crop is wrong.
 - **Second line:** Adapt, do not just repost.
 
@@ -15693,7 +15923,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -15706,11 +15936,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 - **Single CTA:** Message MESSAGE to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D15-S09/EW-D15-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D15-S09.mp4 (record) or assets/fallbacks/EW-D15-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-message-workbook
 - **Contact:** 0905 069 0837 · keyword MESSAGE
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The Clear Message Workbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -15770,7 +16001,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -15795,11 +16026,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D15-S10/EW-D15-S10_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D15-S10_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -15871,11 +16103,12 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 - **Single CTA:** Save this for Monday morning.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D15-S11/EW-D15-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D15-S11.mp4 (record) or assets/fallbacks/EW-D15-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -15927,7 +16160,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -15951,7 +16184,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · timing
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D15-STA/EW-D15-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D15-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -16000,7 +16233,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D15-STB/EW-D15-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D15-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D16-S01
 
@@ -16028,7 +16261,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -16091,11 +16324,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D16-S01/EW-D16-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D16-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -16170,11 +16404,12 @@ Create a five-slide Easywurld carousel for a furniture maker business in Lagos. 
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D16-S02/EW-D16-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D16-S02.mp4 (record) or assets/fallbacks/EW-D16-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -16227,7 +16462,7 @@ Create a five-slide Easywurld carousel for a furniture maker business in Lagos. 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -16252,11 +16487,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D16-S03/EW-D16-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D16-S03.mp4 (record) or assets/fallbacks/EW-D16-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -16343,11 +16579,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D16-S04/EW-D16-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D16-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -16419,11 +16656,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D16-S05/EW-D16-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D16-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -16438,7 +16676,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-desk-phone.png`
+- **Scene plate:** `assets/meme-scenes/scene-desk-phone.jpg`
 - **On-image line:** The grid looks perfect. The inbox is empty.
 - **Second line:** Pretty is not a route to buy.
 
@@ -16482,7 +16720,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -16495,11 +16733,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 - **Single CTA:** Message PROMPTS to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D16-S06/EW-D16-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D16-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/everyday-ai-prompt-desk
 - **Contact:** 0905 069 0837 · keyword PROMPTS
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The Everyday AI Prompt Desk · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -16514,7 +16753,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 >
 > Slide 2: The problem: You try AI tools and get vague, generic or wrong answers. You are not sure what to ask, what to trust, or what you should never paste in.
 >
-> Slide 3: Inside The Everyday AI Prompt Desk: AI Prompting Guide for Small Business; 60-Prompt Library; Enquiry Assistant Knowledge Sheet Template; AI Output Review and Safety Checklist.
+> Slide 3: Inside The Everyday AI Prompt Desk:
+> · AI Prompting Guide for Small Business
+> · 60-Prompt Library
+> · Enquiry Assistant Knowledge Sheet Template
+> · AI Output Review and Safety Checklist
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. You need access to an AI chat tool. Many have free plans, and some features may need a paid plan. That cost is yours.
 >
@@ -16579,11 +16822,12 @@ Create a five-slide Easywurld offer carousel for The Everyday AI Prompt Desk. Us
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D16-S07/EW-D16-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D16-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -16657,11 +16901,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D16-S08/EW-D16-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D16-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -16676,7 +16921,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-notebook.png`
+- **Scene plate:** `assets/meme-scenes/scene-notebook.jpg`
 - **On-image line:** The AI wrote a testimonial.
 - **Second line:** Delete it.
 
@@ -16720,7 +16965,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -16733,11 +16978,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 - **Single CTA:** Message PROMPTS to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D16-S09/EW-D16-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D16-S09.mp4 (record) or assets/fallbacks/EW-D16-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/everyday-ai-prompt-desk
 - **Contact:** 0905 069 0837 · keyword PROMPTS
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The Everyday AI Prompt Desk · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -16797,7 +17043,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -16822,11 +17068,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D16-S10/EW-D16-S10_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D16-S10_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -16898,11 +17145,12 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 - **Single CTA:** Save this and run the test.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D16-S11/EW-D16-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D16-S11.mp4 (record) or assets/fallbacks/EW-D16-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -16954,7 +17202,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -16978,7 +17226,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · trends
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D16-STA/EW-D16-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D16-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -17027,7 +17275,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D16-STB/EW-D16-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D16-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D17-S01
 
@@ -17055,7 +17303,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -17112,11 +17360,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D17-S01/EW-D17-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D17-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -17191,11 +17440,12 @@ Create a five-slide Easywurld carousel for a catering company business in Lagos.
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D17-S02/EW-D17-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D17-S02.mp4 (record) or assets/fallbacks/EW-D17-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -17248,7 +17498,7 @@ Create a five-slide Easywurld carousel for a catering company business in Lagos.
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -17273,11 +17523,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D17-S03/EW-D17-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D17-S03.mp4 (record) or assets/fallbacks/EW-D17-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -17364,11 +17615,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D17-S04/EW-D17-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D17-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -17440,11 +17692,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D17-S05/EW-D17-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D17-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -17459,7 +17712,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-empty-shop.png`
+- **Scene plate:** `assets/meme-scenes/scene-empty-shop.jpg`
 - **On-image line:** The trend expired while we were approving it.
 - **Second line:** Keep a trend gate and an evergreen fallback.
 
@@ -17503,7 +17756,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -17516,11 +17769,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 - **Single CTA:** Message TEMPLATES to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D17-S06/EW-D17-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D17-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/proposal-and-report-template-pack
 - **Contact:** 0905 069 0837 · keyword TEMPLATES
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The Proposal & Report Template Pack · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -17535,7 +17789,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 >
 > Slide 2: The problem: Each proposal or report is built from scratch. Documents are long, inconsistent and hard to skim, and quotes take too long to prepare.
 >
-> Slide 3: Inside The Proposal & Report Template Pack: Proposals and Reports Guide; Proposal Template with Worked Example; Report and Summary Templates; Quote and Invoice Workbook.
+> Slide 3: Inside The Proposal & Report Template Pack:
+> · Proposals and Reports Guide
+> · Proposal Template with Worked Example
+> · Report and Summary Templates
+> · Quote and Invoice Workbook
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. Templates are general business documents, not legal contracts. Have terms and contracts reviewed by a qualified professional.
 >
@@ -17600,11 +17858,12 @@ Create a five-slide Easywurld offer carousel for The Proposal & Report Template 
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D17-S07/EW-D17-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D17-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -17678,11 +17937,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D17-S08/EW-D17-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D17-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -17697,7 +17957,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-inbox.png`
+- **Scene plate:** `assets/meme-scenes/scene-inbox.jpg`
 - **On-image line:** The offer is clear. The CTA is 'engage'.
 - **Second line:** Name the next step.
 
@@ -17741,7 +18001,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -17754,11 +18014,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 - **Single CTA:** Message TEMPLATES to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D17-S09/EW-D17-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D17-S09.mp4 (record) or assets/fallbacks/EW-D17-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/proposal-and-report-template-pack
 - **Contact:** 0905 069 0837 · keyword TEMPLATES
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The Proposal & Report Template Pack · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -17818,7 +18079,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -17843,11 +18104,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 25–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D17-S10/EW-D17-S10_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D17-S10.mp4 (record) or assets/fallbacks/EW-D17-S10.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -17931,11 +18193,12 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 - **Single CTA:** Save this before your next trend post.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D17-S11/EW-D17-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D17-S11.mp4 (record) or assets/fallbacks/EW-D17-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -17987,7 +18250,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -18011,7 +18274,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · templates
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D17-STA/EW-D17-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D17-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -18060,7 +18323,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D17-STB/EW-D17-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D17-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D18-S01
 
@@ -18088,7 +18351,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -18145,11 +18408,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D18-S01/EW-D18-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D18-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -18224,11 +18488,12 @@ Create a five-slide Easywurld carousel for a printing press business in Lagos. U
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D18-S02/EW-D18-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D18-S02.mp4 (record) or assets/fallbacks/EW-D18-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -18281,7 +18546,7 @@ Create a five-slide Easywurld carousel for a printing press business in Lagos. U
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -18306,11 +18571,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D18-S03/EW-D18-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D18-S03.mp4 (record) or assets/fallbacks/EW-D18-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -18397,11 +18663,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D18-S04/EW-D18-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D18-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -18473,11 +18740,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D18-S05/EW-D18-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D18-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -18492,7 +18760,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-blank-screen.png`
+- **Scene plate:** `assets/meme-scenes/scene-blank-screen.jpg`
 - **On-image line:** The founder is the brand. The founder is tired.
 - **Second line:** Build a system that survives a busy week.
 
@@ -18536,7 +18804,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -18549,11 +18817,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 - **Single CTA:** Message LAUNCH to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D18-S06/EW-D18-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D18-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/website-launch-and-care-handbook
 - **Contact:** 0905 069 0837 · keyword LAUNCH
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The Website Launch & Care Handbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -18568,7 +18837,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 >
 > Slide 2: The problem: You do not know what to decide first, who should own the domain, how to compare quotes, or what has to happen after launch. Sites go live half-finished and then are never updated.
 >
-> Slide 3: Inside The Website Launch & Care Handbook: Website Launch & Care Handbook; Website Planning Brief; Launch, Care and Accounts Workbook; Hiring a Web Designer: Questions and Red Flags.
+> Slide 3: Inside The Website Launch & Care Handbook:
+> · Website Launch & Care Handbook
+> · Website Planning Brief
+> · Launch, Care and Accounts Workbook
+> · Hiring a Web Designer: Questions and Red Flags
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. It is a guide and set of tools. It does not build, host or maintain a website.
 >
@@ -18633,11 +18906,12 @@ Create a five-slide Easywurld offer carousel for The Website Launch & Care Handb
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D18-S07/EW-D18-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D18-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -18711,11 +18985,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D18-S08/EW-D18-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D18-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -18730,7 +19005,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-market.png`
+- **Scene plate:** `assets/meme-scenes/scene-market.jpg`
 - **On-image line:** The trend report is from last month. The caption says 'now'.
 - **Second line:** Date the source and verify.
 
@@ -18774,7 +19049,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -18787,11 +19062,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 - **Single CTA:** Message LAUNCH to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D18-S09/EW-D18-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D18-S09.mp4 (record) or assets/fallbacks/EW-D18-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/website-launch-and-care-handbook
 - **Contact:** 0905 069 0837 · keyword LAUNCH
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The Website Launch & Care Handbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -18851,7 +19127,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -18876,11 +19152,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 1 static
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D18-S10/EW-D18-S10_relatable-static.png` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/static/EW-D18-S10.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -18952,11 +19229,12 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 - **Single CTA:** Save this if you keep starting from a blank page.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D18-S11/EW-D18-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D18-S11.mp4 (record) or assets/fallbacks/EW-D18-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -19008,7 +19286,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -19032,7 +19310,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · headline
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D18-STA/EW-D18-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D18-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -19081,7 +19359,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D18-STB/EW-D18-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D18-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D19-S01
 
@@ -19109,7 +19387,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -19167,11 +19445,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D19-S01/EW-D19-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D19-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -19246,11 +19525,12 @@ Create a five-slide Easywurld carousel for a travel agency business in Lagos. Us
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D19-S02/EW-D19-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D19-S02.mp4 (record) or assets/fallbacks/EW-D19-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -19303,7 +19583,7 @@ Create a five-slide Easywurld carousel for a travel agency business in Lagos. Us
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -19328,11 +19608,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D19-S03/EW-D19-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D19-S03.mp4 (record) or assets/fallbacks/EW-D19-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -19419,11 +19700,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D19-S04/EW-D19-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D19-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -19495,11 +19777,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D19-S05/EW-D19-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D19-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -19514,7 +19797,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-notebook.png`
+- **Scene plate:** `assets/meme-scenes/scene-notebook.jpg`
 - **On-image line:** The discount worked. The margin cried.
 - **Second line:** Test clarity before price cuts.
 
@@ -19558,7 +19841,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -19571,11 +19854,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 - **Single CTA:** Message PLAYBOOK to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D19-S06/EW-D19-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D19-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
 - **Contact:** 0905 069 0837 · keyword PLAYBOOK
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The Chat-to-Customer Playbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -19590,7 +19874,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 >
 > Slide 2: The problem: Enquiries arrive all day. Replies are slow or inconsistent, quotes get sent and never followed up, and “how much?” turns into silence.
 >
-> Slide 3: Inside The Chat-to-Customer Playbook: Chat-to-Customer Playbook; 36-Script Message Library; Lead & Follow-Up Tracker; 7-Day Setup Checklist.
+> Slide 3: Inside The Chat-to-Customer Playbook:
+> · Chat-to-Customer Playbook
+> · 36-Script Message Library
+> · Lead & Follow-Up Tracker
+> · 7-Day Setup Checklist
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. The tracker is an Excel file (works in Excel, Google Sheets and LibreOffice). WhatsApp Business is free, but you must install it yourself.
 >
@@ -19655,11 +19943,12 @@ Create a five-slide Easywurld offer carousel for The Chat-to-Customer Playbook. 
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D19-S07/EW-D19-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D19-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -19733,11 +20022,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D19-S08/EW-D19-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D19-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -19752,7 +20042,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-ledger.png`
+- **Scene plate:** `assets/meme-scenes/scene-ledger.jpg`
 - **On-image line:** The expert said steal this copy.
 - **Second line:** Steal the structure, not the words.
 
@@ -19796,7 +20086,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -19809,11 +20099,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 - **Single CTA:** Message PLAYBOOK to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D19-S09/EW-D19-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D19-S09.mp4 (record) or assets/fallbacks/EW-D19-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
 - **Contact:** 0905 069 0837 · keyword PLAYBOOK
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The Chat-to-Customer Playbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -19873,7 +20164,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -19898,11 +20189,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 25–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D19-S10/EW-D19-S10_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D19-S10.mp4 (record) or assets/fallbacks/EW-D19-S10.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -19986,11 +20278,12 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 - **Single CTA:** Save this for the 16:00 breakdown.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D19-S11/EW-D19-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D19-S11.mp4 (record) or assets/fallbacks/EW-D19-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -20042,7 +20335,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -20066,7 +20359,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · speed
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D19-STA/EW-D19-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D19-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -20115,7 +20408,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D19-STB/EW-D19-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D19-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D20-S01
 
@@ -20143,7 +20436,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -20198,11 +20491,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D20-S01/EW-D20-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D20-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -20277,11 +20571,12 @@ Create a five-slide Easywurld carousel for a optician business in Lagos. Use the
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D20-S02/EW-D20-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D20-S02.mp4 (record) or assets/fallbacks/EW-D20-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -20334,7 +20629,7 @@ Create a five-slide Easywurld carousel for a optician business in Lagos. Use the
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -20359,11 +20654,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D20-S03/EW-D20-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D20-S03.mp4 (record) or assets/fallbacks/EW-D20-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -20450,11 +20746,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D20-S04/EW-D20-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D20-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -20526,11 +20823,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D20-S05/EW-D20-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D20-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -20545,7 +20843,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-inbox.png`
+- **Scene plate:** `assets/meme-scenes/scene-inbox.jpg`
 - **On-image line:** The client sent a voice note. It is 11 minutes.
 - **Second line:** Summarise, confirm, then act.
 
@@ -20589,7 +20887,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -20602,11 +20900,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 - **Single CTA:** Message CLEAR to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D20-S06/EW-D20-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D20-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
 - **Contact:** 0905 069 0837 · keyword CLEAR
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The Clear Homepage Blueprint · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -20621,7 +20920,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 >
 > Slide 2: The problem: The homepage talks about the business and not the visitor. Headlines are vague, the next step is hidden, and visitors leave without enquiring.
 >
-> Slide 3: Inside The Clear Homepage Blueprint: Clear Homepage Blueprint; Homepage Copy Templates; Homepage Content Planner; 20-Point Homepage Audit Scorecard.
+> Slide 3: Inside The Clear Homepage Blueprint:
+> · Clear Homepage Blueprint
+> · Homepage Copy Templates
+> · Homepage Content Planner
+> · 20-Point Homepage Audit Scorecard
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a do-it-yourself resource. It does not include a website build or a personal review of your page.
 >
@@ -20686,11 +20989,12 @@ Create a five-slide Easywurld offer carousel for The Clear Homepage Blueprint. U
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D20-S07/EW-D20-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D20-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -20764,11 +21068,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D20-S08/EW-D20-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D20-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -20783,7 +21088,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-rain-window.png`
+- **Scene plate:** `assets/meme-scenes/scene-rain-window.jpg`
 - **On-image line:** The calendar is full. The review is empty.
 - **Second line:** Schedule the review too.
 
@@ -20827,7 +21132,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -20840,11 +21145,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 - **Single CTA:** Message CLEAR to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D20-S09/EW-D20-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D20-S09.mp4 (record) or assets/fallbacks/EW-D20-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
 - **Contact:** 0905 069 0837 · keyword CLEAR
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The Clear Homepage Blueprint · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -20904,7 +21210,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -20929,11 +21235,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D20-S10/EW-D20-S10_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D20-S10_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -21005,11 +21312,12 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 - **Single CTA:** Save this and read your bio out loud.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D20-S11/EW-D20-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D20-S11.mp4 (record) or assets/fallbacks/EW-D20-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -21061,7 +21369,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -21085,7 +21393,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · offer contents
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D20-STA/EW-D20-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D20-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -21134,7 +21442,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D20-STB/EW-D20-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D20-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D21-S01
 
@@ -21162,7 +21470,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -21190,7 +21498,11 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 >
 > Slide 1: The content planner connects the week.
 > Slide 2: The problem: The homepage talks about the business and not the visitor. Headlines are vague, the next step is hidden, and visitors leave without enquiring.
-> Slide 3: Inside The Clear Homepage Blueprint: Clear Homepage Blueprint; Homepage Copy Templates; Homepage Content Planner; 20-Point Homepage Audit Scorecard.
+> Slide 3: Inside The Clear Homepage Blueprint:
+> · Clear Homepage Blueprint
+> · Homepage Copy Templates
+> · Homepage Content Planner
+> · 20-Point Homepage Audit Scorecard
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a do-it-yourself resource. It does not include a website build or a personal review of your page.
 > Slide 5: Message CLEAR on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.
 >
@@ -21217,11 +21529,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D21-S01/EW-D21-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D21-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -21296,11 +21609,12 @@ Create a five-slide Easywurld carousel for a auto mechanic business in Lagos. Us
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D21-S02/EW-D21-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D21-S02.mp4 (record) or assets/fallbacks/EW-D21-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -21353,7 +21667,7 @@ Create a five-slide Easywurld carousel for a auto mechanic business in Lagos. Us
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -21378,11 +21692,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D21-S03/EW-D21-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D21-S03.mp4 (record) or assets/fallbacks/EW-D21-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -21469,11 +21784,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D21-S04/EW-D21-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D21-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -21545,11 +21861,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D21-S05/EW-D21-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D21-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -21564,7 +21881,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-market.png`
+- **Scene plate:** `assets/meme-scenes/scene-market.jpg`
 - **On-image line:** The post says DM us. The DMs are off.
 - **Second line:** Check the door before inviting people.
 
@@ -21608,7 +21925,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -21621,11 +21938,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 - **Single CTA:** Message ENGINE to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D21-S06/EW-D21-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D21-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
 - **Contact:** 0905 069 0837 · keyword ENGINE
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The 30-Day Content Engine · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -21640,7 +21958,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 >
 > Slide 2: The problem: Posting is inconsistent. You start strong, run out of ideas, and every post feels like a fresh decision. Nothing connects to sales.
 >
-> Slide 3: Inside The 30-Day Content Engine: 30-Day Content Engine Guide; 60-Idea Post Bank; 30-Day Content Calendar; Hooks and Caption Swipe File.
+> Slide 3: Inside The 30-Day Content Engine:
+> · 30-Day Content Engine Guide
+> · 60-Idea Post Bank
+> · 30-Day Content Calendar
+> · Hooks and Caption Swipe File
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. It is a planning system and a swipe file, not finished posts for your business. You write or design the content using the templates.
 >
@@ -21705,11 +22027,12 @@ Create a five-slide Easywurld offer carousel for The 30-Day Content Engine. Use 
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D21-S07/EW-D21-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D21-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -21783,11 +22106,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D21-S08/EW-D21-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D21-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -21802,7 +22126,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-desk-phone.png`
+- **Scene plate:** `assets/meme-scenes/scene-desk-phone.jpg`
 - **On-image line:** The avatar looks human. The consent is missing.
 - **Second line:** Stop and get permission.
 
@@ -21846,7 +22170,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -21859,11 +22183,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 - **Single CTA:** Message ENGINE to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D21-S09/EW-D21-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D21-S09.mp4 (record) or assets/fallbacks/EW-D21-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
 - **Contact:** 0905 069 0837 · keyword ENGINE
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The 30-Day Content Engine · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -21923,7 +22248,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -21948,11 +22273,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 1 static
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D21-S10/EW-D21-S10_relatable-static.png` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/static/EW-D21-S10.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -22024,11 +22350,12 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 - **Single CTA:** Save this for your WhatsApp settings.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D21-S11/EW-D21-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D21-S11.mp4 (record) or assets/fallbacks/EW-D21-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -22080,7 +22407,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -22104,7 +22431,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · weekly hour
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D21-STA/EW-D21-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D21-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -22153,7 +22480,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D21-STB/EW-D21-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D21-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D22-S01
 
@@ -22181,7 +22508,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -22206,11 +22533,12 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D22-S01/EW-D22-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D22-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -22285,11 +22613,12 @@ Create a five-slide Easywurld carousel for a interior designer business in Lagos
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D22-S02/EW-D22-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D22-S02.mp4 (record) or assets/fallbacks/EW-D22-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -22342,7 +22671,7 @@ Create a five-slide Easywurld carousel for a interior designer business in Lagos
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -22367,11 +22696,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D22-S03/EW-D22-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D22-S03.mp4 (record) or assets/fallbacks/EW-D22-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -22458,11 +22788,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D22-S04/EW-D22-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D22-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -22534,11 +22865,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D22-S05/EW-D22-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D22-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -22553,7 +22885,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-ledger.png`
+- **Scene plate:** `assets/meme-scenes/scene-ledger.jpg`
 - **On-image line:** The content calendar is full. The offer is unclear.
 - **Second line:** A schedule cannot fix a sentence.
 
@@ -22597,7 +22929,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -22610,11 +22942,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 - **Single CTA:** Message PAGE to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D22-S06/EW-D22-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D22-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/one-offer-landing-page-kit
 - **Contact:** 0905 069 0837 · keyword PAGE
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The One-Offer Landing Page Kit · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -22629,7 +22962,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 >
 > Slide 2: The problem: You are launching something and sending people to an Instagram bio, a long website or a chat thread. There is no page that explains the offer and asks for one action.
 >
-> Slide 3: Inside The One-Offer Landing Page Kit: One-Offer Landing Page Guide; Landing Page Copy Template with Worked Example; Editable Landing Page Starter (HTML); Pre-Launch Checklist.
+> Slide 3: Inside The One-Offer Landing Page Kit:
+> · One-Offer Landing Page Guide
+> · Landing Page Copy Template with Worked Example
+> · Editable Landing Page Starter (HTML)
+> · Pre-Launch Checklist
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a do-it-yourself kit. Publishing requires a host (several offer free plans) and, if you want your own address, a domain name. Those costs are yours.
 >
@@ -22694,11 +23031,12 @@ Create a five-slide Easywurld offer carousel for The One-Offer Landing Page Kit.
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D22-S07/EW-D22-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D22-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -22772,11 +23110,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D22-S08/EW-D22-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D22-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -22791,7 +23130,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-empty-shop.png`
+- **Scene plate:** `assets/meme-scenes/scene-empty-shop.jpg`
 - **On-image line:** The post says limited time. The offer is always available.
 - **Second line:** Do not invent scarcity.
 
@@ -22835,7 +23174,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -22848,11 +23187,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 - **Single CTA:** Message PAGE to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D22-S09/EW-D22-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D22-S09.mp4 (record) or assets/fallbacks/EW-D22-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/one-offer-landing-page-kit
 - **Contact:** 0905 069 0837 · keyword PAGE
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The One-Offer Landing Page Kit · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -22912,7 +23252,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -22937,11 +23277,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 1 static
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D22-S10/EW-D22-S10_relatable-static.png` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/static/EW-D22-S10.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -23013,11 +23354,12 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 - **Single CTA:** Save this before your next quote.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D22-S11/EW-D22-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D22-S11.mp4 (record) or assets/fallbacks/EW-D22-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -23069,7 +23411,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -23093,7 +23435,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · measurement
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D22-STA/EW-D22-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D22-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -23142,7 +23484,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D22-STB/EW-D22-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D22-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D23-S01
 
@@ -23170,7 +23512,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -23233,11 +23575,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D23-S01/EW-D23-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D23-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -23312,11 +23655,12 @@ Create a five-slide Easywurld carousel for a pet groomer business in Lagos. Use 
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D23-S02/EW-D23-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D23-S02.mp4 (record) or assets/fallbacks/EW-D23-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -23369,7 +23713,7 @@ Create a five-slide Easywurld carousel for a pet groomer business in Lagos. Use 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -23394,11 +23738,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D23-S03/EW-D23-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D23-S03.mp4 (record) or assets/fallbacks/EW-D23-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -23485,11 +23830,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D23-S04/EW-D23-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D23-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -23561,11 +23907,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D23-S05/EW-D23-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D23-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -23580,7 +23927,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-rain-window.png`
+- **Scene plate:** `assets/meme-scenes/scene-rain-window.jpg`
 - **On-image line:** The customer wants a website. They need a message.
 - **Second line:** Fix the sentence before the sitemap.
 
@@ -23624,7 +23971,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -23637,11 +23984,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 - **Single CTA:** Message LOCAL to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D23-S06/EW-D23-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D23-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/lagos-local-visibility-starter
 - **Contact:** 0905 069 0837 · keyword LOCAL
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The Lagos Local Visibility Starter · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -23656,7 +24004,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 >
 > Slide 2: The problem: When people nearby search for what you do, you are hard to find, your listing is incomplete, and your website pages do not say what you do or where.
 >
-> Slide 3: Inside The Lagos Local Visibility Starter: Local Visibility Guide; Keyword and Page Title Worksheet; Google Business Profile Checklist and Review Scripts; 30-Day Local Visibility Tracker.
+> Slide 3: Inside The Lagos Local Visibility Starter:
+> · Local Visibility Guide
+> · Keyword and Page Title Worksheet
+> · Google Business Profile Checklist and Review Scripts
+> · 30-Day Local Visibility Tracker
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. No ranking, traffic or customer numbers are guaranteed. Search results change and depend on competition, your location and many other factors.
 >
@@ -23721,11 +24073,12 @@ Create a five-slide Easywurld offer carousel for The Lagos Local Visibility Star
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D23-S07/EW-D23-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D23-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -23799,11 +24152,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D23-S08/EW-D23-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D23-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -23818,7 +24172,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-blank-screen.png`
+- **Scene plate:** `assets/meme-scenes/scene-blank-screen.jpg`
 - **On-image line:** The AI summary missed the one decision needed.
 - **Second line:** Ask for decisions, not just summaries.
 
@@ -23862,7 +24216,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -23875,11 +24229,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 - **Single CTA:** Message LOCAL to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D23-S09/EW-D23-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D23-S09.mp4 (record) or assets/fallbacks/EW-D23-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/lagos-local-visibility-starter
 - **Contact:** 0905 069 0837 · keyword LOCAL
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The Lagos Local Visibility Starter · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -23939,7 +24294,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -23964,11 +24319,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 25–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D23-S10/EW-D23-S10_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D23-S10.mp4 (record) or assets/fallbacks/EW-D23-S10.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -24052,11 +24408,12 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 - **Single CTA:** Save this for tonight.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D23-S11/EW-D23-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D23-S11.mp4 (record) or assets/fallbacks/EW-D23-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -24108,7 +24465,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -24132,7 +24489,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · scope
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D23-STA/EW-D23-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D23-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -24181,7 +24538,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D23-STB/EW-D23-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D23-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D24-S01
 
@@ -24209,7 +24566,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -24266,11 +24623,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D24-S01/EW-D24-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D24-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -24345,11 +24703,12 @@ Create a five-slide Easywurld carousel for a juice bar business in Lagos. Use th
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D24-S02/EW-D24-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D24-S02.mp4 (record) or assets/fallbacks/EW-D24-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -24402,7 +24761,7 @@ Create a five-slide Easywurld carousel for a juice bar business in Lagos. Use th
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -24427,11 +24786,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D24-S03/EW-D24-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D24-S03.mp4 (record) or assets/fallbacks/EW-D24-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -24518,11 +24878,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D24-S04/EW-D24-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D24-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -24594,11 +24955,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D24-S05/EW-D24-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D24-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -24613,7 +24975,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-desk-phone.png`
+- **Scene plate:** `assets/meme-scenes/scene-desk-phone.jpg`
 - **On-image line:** The reel is 15 seconds. The explanation is 90.
 - **Second line:** Match length to the question.
 
@@ -24657,7 +25019,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -24670,11 +25032,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 - **Single CTA:** Message MESSAGE to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D24-S06/EW-D24-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D24-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-message-workbook
 - **Contact:** 0905 069 0837 · keyword MESSAGE
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The Clear Message Workbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -24689,7 +25052,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 >
 > Slide 2: The problem: You cannot explain your business in one sentence. Your website, Instagram bio and pitch all say different things, and customers cannot tell why to choose you.
 >
-> Slide 3: Inside The Clear Message Workbook: Clear Message Workbook; Customer Interview Kit; Message Bank; One-Page Marketing Plan.
+> Slide 3: Inside The Clear Message Workbook:
+> · Clear Message Workbook
+> · Customer Interview Kit
+> · Message Bank
+> · One-Page Marketing Plan
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a self-guided workbook. It does not include a consultation or review of your answers.
 >
@@ -24754,11 +25121,12 @@ Create a five-slide Easywurld offer carousel for The Clear Message Workbook. Use
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D24-S07/EW-D24-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D24-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -24832,11 +25200,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D24-S08/EW-D24-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D24-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -24851,7 +25220,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-notebook.png`
+- **Scene plate:** `assets/meme-scenes/scene-notebook.jpg`
 - **On-image line:** The brand voice is 'professional'. The examples are robotic.
 - **Second line:** Define voice with do/don't examples.
 
@@ -24895,7 +25264,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -24908,11 +25277,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 - **Single CTA:** Message MESSAGE to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D24-S09/EW-D24-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D24-S09.mp4 (record) or assets/fallbacks/EW-D24-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-message-workbook
 - **Contact:** 0905 069 0837 · keyword MESSAGE
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The Clear Message Workbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -24972,7 +25342,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -24997,11 +25367,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 25–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D24-S10/EW-D24-S10_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D24-S10.mp4 (record) or assets/fallbacks/EW-D24-S10.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -25085,11 +25456,12 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 - **Single CTA:** Save this before you open the dashboard.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D24-S11/EW-D24-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D24-S11.mp4 (record) or assets/fallbacks/EW-D24-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -25141,7 +25513,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -25165,7 +25537,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · product mix
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D24-STA/EW-D24-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D24-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -25214,7 +25586,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D24-STB/EW-D24-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D24-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D25-S01
 
@@ -25242,7 +25614,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -25299,11 +25671,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D25-S01/EW-D25-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D25-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -25378,11 +25751,12 @@ Create a five-slide Easywurld carousel for a bookshop business in Lagos. Use the
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D25-S02/EW-D25-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D25-S02.mp4 (record) or assets/fallbacks/EW-D25-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -25435,7 +25809,7 @@ Create a five-slide Easywurld carousel for a bookshop business in Lagos. Use the
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -25460,11 +25834,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D25-S03/EW-D25-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D25-S03.mp4 (record) or assets/fallbacks/EW-D25-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -25551,11 +25926,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D25-S04/EW-D25-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D25-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -25627,11 +26003,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D25-S05/EW-D25-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D25-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -25646,7 +26023,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-empty-shop.png`
+- **Scene plate:** `assets/meme-scenes/scene-empty-shop.jpg`
 - **On-image line:** The sample looks real. The label is missing.
 - **Second line:** Label the sample before publishing.
 
@@ -25690,7 +26067,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -25703,11 +26080,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 - **Single CTA:** Message PROMPTS to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D25-S06/EW-D25-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D25-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/everyday-ai-prompt-desk
 - **Contact:** 0905 069 0837 · keyword PROMPTS
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The Everyday AI Prompt Desk · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -25722,7 +26100,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 >
 > Slide 2: The problem: You try AI tools and get vague, generic or wrong answers. You are not sure what to ask, what to trust, or what you should never paste in.
 >
-> Slide 3: Inside The Everyday AI Prompt Desk: AI Prompting Guide for Small Business; 60-Prompt Library; Enquiry Assistant Knowledge Sheet Template; AI Output Review and Safety Checklist.
+> Slide 3: Inside The Everyday AI Prompt Desk:
+> · AI Prompting Guide for Small Business
+> · 60-Prompt Library
+> · Enquiry Assistant Knowledge Sheet Template
+> · AI Output Review and Safety Checklist
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. You need access to an AI chat tool. Many have free plans, and some features may need a paid plan. That cost is yours.
 >
@@ -25787,11 +26169,12 @@ Create a five-slide Easywurld offer carousel for The Everyday AI Prompt Desk. Us
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D25-S07/EW-D25-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D25-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -25865,11 +26248,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D25-S08/EW-D25-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D25-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -25884,7 +26268,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-inbox.png`
+- **Scene plate:** `assets/meme-scenes/scene-inbox.jpg`
 - **On-image line:** The customer wants more followers. The offer is unclear.
 - **Second line:** Fix the route before the audience grows.
 
@@ -25928,7 +26312,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -25941,11 +26325,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 - **Single CTA:** Message PROMPTS to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D25-S09/EW-D25-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D25-S09.mp4 (record) or assets/fallbacks/EW-D25-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/everyday-ai-prompt-desk
 - **Contact:** 0905 069 0837 · keyword PROMPTS
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The Everyday AI Prompt Desk · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -26005,7 +26390,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -26030,11 +26415,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 1 static
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D25-S10/EW-D25-S10_relatable-static.png` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/static/EW-D25-S10.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -26106,11 +26492,12 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 - **Single CTA:** Save this before you take another “small job”.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D25-S11/EW-D25-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D25-S11.mp4 (record) or assets/fallbacks/EW-D25-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -26162,7 +26549,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -26186,7 +26573,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · consistency
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D25-STA/EW-D25-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D25-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -26235,7 +26622,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D25-STB/EW-D25-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D25-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D26-S01
 
@@ -26263,7 +26650,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -26321,11 +26708,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D26-S01/EW-D26-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D26-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -26400,11 +26788,12 @@ Create a five-slide Easywurld carousel for a solar installer business in Lagos. 
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D26-S02/EW-D26-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D26-S02.mp4 (record) or assets/fallbacks/EW-D26-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -26457,7 +26846,7 @@ Create a five-slide Easywurld carousel for a solar installer business in Lagos. 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -26482,11 +26871,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D26-S03/EW-D26-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D26-S03.mp4 (record) or assets/fallbacks/EW-D26-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -26573,11 +26963,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D26-S04/EW-D26-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D26-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -26649,11 +27040,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D26-S05/EW-D26-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D26-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -26668,7 +27060,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-blank-screen.png`
+- **Scene plate:** `assets/meme-scenes/scene-blank-screen.jpg`
 - **On-image line:** The team is waiting for inspiration. The deadline is not.
 - **Second line:** Use a series template.
 
@@ -26712,7 +27104,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -26725,11 +27117,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 - **Single CTA:** Message TEMPLATES to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D26-S06/EW-D26-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D26-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/proposal-and-report-template-pack
 - **Contact:** 0905 069 0837 · keyword TEMPLATES
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The Proposal & Report Template Pack · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -26744,7 +27137,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 >
 > Slide 2: The problem: Each proposal or report is built from scratch. Documents are long, inconsistent and hard to skim, and quotes take too long to prepare.
 >
-> Slide 3: Inside The Proposal & Report Template Pack: Proposals and Reports Guide; Proposal Template with Worked Example; Report and Summary Templates; Quote and Invoice Workbook.
+> Slide 3: Inside The Proposal & Report Template Pack:
+> · Proposals and Reports Guide
+> · Proposal Template with Worked Example
+> · Report and Summary Templates
+> · Quote and Invoice Workbook
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. Templates are general business documents, not legal contracts. Have terms and contracts reviewed by a qualified professional.
 >
@@ -26809,11 +27206,12 @@ Create a five-slide Easywurld offer carousel for The Proposal & Report Template 
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D26-S07/EW-D26-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D26-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -26887,11 +27285,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D26-S08/EW-D26-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D26-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -26906,7 +27305,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-market.png`
+- **Scene plate:** `assets/meme-scenes/scene-market.jpg`
 - **On-image line:** The screen demo is unreadable.
 - **Second line:** Crop for the phone.
 
@@ -26950,7 +27349,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -26963,11 +27362,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 - **Single CTA:** Message TEMPLATES to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D26-S09/EW-D26-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D26-S09.mp4 (record) or assets/fallbacks/EW-D26-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/proposal-and-report-template-pack
 - **Contact:** 0905 069 0837 · keyword TEMPLATES
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The Proposal & Report Template Pack · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -27027,7 +27427,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -27052,11 +27452,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D26-S10/EW-D26-S10_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D26-S10_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -27128,11 +27529,12 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 - **Single CTA:** Save this for your next DIY decision.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D26-S11/EW-D26-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D26-S11.mp4 (record) or assets/fallbacks/EW-D26-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -27184,7 +27586,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -27208,7 +27610,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · referrals
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D26-STA/EW-D26-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D26-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -27257,7 +27659,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D26-STB/EW-D26-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D26-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D27-S01
 
@@ -27285,7 +27687,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -27340,11 +27742,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D27-S01/EW-D27-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D27-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -27419,11 +27822,12 @@ Create a five-slide Easywurld carousel for a tailoring school business in Lagos.
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D27-S02/EW-D27-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D27-S02.mp4 (record) or assets/fallbacks/EW-D27-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -27476,7 +27880,7 @@ Create a five-slide Easywurld carousel for a tailoring school business in Lagos.
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -27501,11 +27905,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D27-S03/EW-D27-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D27-S03.mp4 (record) or assets/fallbacks/EW-D27-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -27592,11 +27997,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D27-S04/EW-D27-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D27-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -27668,11 +28074,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D27-S05/EW-D27-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D27-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -27687,7 +28094,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-notebook.png`
+- **Scene plate:** `assets/meme-scenes/scene-notebook.jpg`
 - **On-image line:** The ad is running. The page is confusing.
 - **Second line:** Fix the destination before spending more.
 
@@ -27731,7 +28138,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -27744,11 +28151,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 - **Single CTA:** Message LAUNCH to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D27-S06/EW-D27-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D27-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/website-launch-and-care-handbook
 - **Contact:** 0905 069 0837 · keyword LAUNCH
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The Website Launch & Care Handbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -27763,7 +28171,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 >
 > Slide 2: The problem: You do not know what to decide first, who should own the domain, how to compare quotes, or what has to happen after launch. Sites go live half-finished and then are never updated.
 >
-> Slide 3: Inside The Website Launch & Care Handbook: Website Launch & Care Handbook; Website Planning Brief; Launch, Care and Accounts Workbook; Hiring a Web Designer: Questions and Red Flags.
+> Slide 3: Inside The Website Launch & Care Handbook:
+> · Website Launch & Care Handbook
+> · Website Planning Brief
+> · Launch, Care and Accounts Workbook
+> · Hiring a Web Designer: Questions and Red Flags
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. It is a guide and set of tools. It does not build, host or maintain a website.
 >
@@ -27828,11 +28240,12 @@ Create a five-slide Easywurld offer carousel for The Website Launch & Care Handb
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D27-S07/EW-D27-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D27-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -27906,11 +28319,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D27-S08/EW-D27-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D27-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -27925,7 +28339,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-ledger.png`
+- **Scene plate:** `assets/meme-scenes/scene-ledger.jpg`
 - **On-image line:** The post is scheduled. The price changed.
 - **Second line:** Hold and update before publishing.
 
@@ -27969,7 +28383,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -27982,11 +28396,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 - **Single CTA:** Message LAUNCH to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D27-S09/EW-D27-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D27-S09.mp4 (record) or assets/fallbacks/EW-D27-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/website-launch-and-care-handbook
 - **Contact:** 0905 069 0837 · keyword LAUNCH
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The Website Launch & Care Handbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -28046,7 +28461,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -28071,11 +28486,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 25–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D27-S10/EW-D27-S10_text-video.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D27-S10.mp4 (record) or assets/fallbacks/EW-D27-S10.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -28145,11 +28561,12 @@ Create an Easywurld introduction in the format Text video. Use the exact supplie
 - **Single CTA:** Save this and pick your three repeating things.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D27-S11/EW-D27-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D27-S11.mp4 (record) or assets/fallbacks/EW-D27-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -28201,7 +28618,7 @@ Create an Easywurld introduction in the format Text video. Use the exact supplie
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -28225,7 +28642,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · hook
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D27-STA/EW-D27-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D27-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -28274,7 +28691,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D27-STB/EW-D27-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D27-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D28-S01
 
@@ -28302,7 +28719,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -28330,7 +28747,11 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 >
 > Slide 1: The hiring questions expose red flags.
 > Slide 2: The problem: You do not know what to decide first, who should own the domain, how to compare quotes, or what has to happen after launch. Sites go live half-finished and then are never updated.
-> Slide 3: Inside The Website Launch & Care Handbook: Website Launch & Care Handbook; Website Planning Brief; Launch, Care and Accounts Workbook; Hiring a Web Designer: Questions and Red Flags.
+> Slide 3: Inside The Website Launch & Care Handbook:
+> · Website Launch & Care Handbook
+> · Website Planning Brief
+> · Launch, Care and Accounts Workbook
+> · Hiring a Web Designer: Questions and Red Flags
 > Slide 4: ₦5,000 DIY pack. Not custom work. It is a guide and set of tools. It does not build, host or maintain a website.
 > Slide 5: Message LAUNCH on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.
 >
@@ -28357,11 +28778,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D28-S01/EW-D28-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D28-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -28436,11 +28858,12 @@ Create a five-slide Easywurld carousel for a event DJ business in Lagos. Use the
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D28-S02/EW-D28-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D28-S02.mp4 (record) or assets/fallbacks/EW-D28-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -28493,7 +28916,7 @@ Create a five-slide Easywurld carousel for a event DJ business in Lagos. Use the
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -28518,11 +28941,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D28-S03/EW-D28-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D28-S03.mp4 (record) or assets/fallbacks/EW-D28-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -28609,11 +29033,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D28-S04/EW-D28-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D28-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -28685,11 +29110,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D28-S05/EW-D28-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D28-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -28704,7 +29130,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-inbox.png`
+- **Scene plate:** `assets/meme-scenes/scene-inbox.jpg`
 - **On-image line:** The customer asked for a logo. They needed a plan.
 - **Second line:** Ask what the mark must help people understand.
 
@@ -28748,7 +29174,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -28761,11 +29187,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 - **Single CTA:** Message PLAYBOOK to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D28-S06/EW-D28-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D28-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
 - **Contact:** 0905 069 0837 · keyword PLAYBOOK
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The Chat-to-Customer Playbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -28780,7 +29207,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 >
 > Slide 2: The problem: Enquiries arrive all day. Replies are slow or inconsistent, quotes get sent and never followed up, and “how much?” turns into silence.
 >
-> Slide 3: Inside The Chat-to-Customer Playbook: Chat-to-Customer Playbook; 36-Script Message Library; Lead & Follow-Up Tracker; 7-Day Setup Checklist.
+> Slide 3: Inside The Chat-to-Customer Playbook:
+> · Chat-to-Customer Playbook
+> · 36-Script Message Library
+> · Lead & Follow-Up Tracker
+> · 7-Day Setup Checklist
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. The tracker is an Excel file (works in Excel, Google Sheets and LibreOffice). WhatsApp Business is free, but you must install it yourself.
 >
@@ -28845,11 +29276,12 @@ Create a five-slide Easywurld offer carousel for The Chat-to-Customer Playbook. 
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D28-S07/EW-D28-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D28-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -28923,11 +29355,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D28-S08/EW-D28-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D28-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -28942,7 +29375,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-rain-window.png`
+- **Scene plate:** `assets/meme-scenes/scene-rain-window.jpg`
 - **On-image line:** The content is useful. The follow-up is missing.
 - **Second line:** Connect the lesson to the next step.
 
@@ -28986,7 +29419,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -28999,11 +29432,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 - **Single CTA:** Message PLAYBOOK to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D28-S09/EW-D28-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D28-S09.mp4 (record) or assets/fallbacks/EW-D28-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
 - **Contact:** 0905 069 0837 · keyword PLAYBOOK
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The Chat-to-Customer Playbook · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -29063,7 +29497,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -29088,11 +29522,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D28-S10/EW-D28-S10_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D28-S10_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -29164,11 +29599,12 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 - **Single CTA:** Save this and send it to your best customer.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D28-S11/EW-D28-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D28-S11.mp4 (record) or assets/fallbacks/EW-D28-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -29220,7 +29656,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -29244,7 +29680,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · CTA
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D28-STA/EW-D28-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D28-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -29293,7 +29729,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D28-STB/EW-D28-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D28-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D29-S01
 
@@ -29321,7 +29757,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -29346,11 +29782,12 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D29-S01/EW-D29-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D29-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -29425,11 +29862,12 @@ Create a five-slide Easywurld carousel for a laundry service business in Lagos. 
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D29-S02/EW-D29-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D29-S02.mp4 (record) or assets/fallbacks/EW-D29-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “here is the small test”.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -29482,7 +29920,7 @@ Create a five-slide Easywurld carousel for a laundry service business in Lagos. 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -29507,11 +29945,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D29-S03/EW-D29-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D29-S03.mp4 (record) or assets/fallbacks/EW-D29-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -29598,11 +30037,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D29-S04/EW-D29-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D29-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 ### Hook / first frame
@@ -29674,11 +30114,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D29-S05/EW-D29-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D29-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -29693,7 +30134,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-market.png`
+- **Scene plate:** `assets/meme-scenes/scene-market.jpg`
 - **On-image line:** The post is educational. The CTA is unrelated.
 - **Second line:** Match the next step to the lesson.
 
@@ -29737,7 +30178,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -29750,11 +30191,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 - **Single CTA:** Message CLEAR to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D29-S06/EW-D29-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D29-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
 - **Contact:** 0905 069 0837 · keyword CLEAR
 
 - **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
 
 - **Daily offer:** The Clear Homepage Blueprint · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -29769,7 +30211,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 >
 > Slide 2: The problem: The homepage talks about the business and not the visitor. Headlines are vague, the next step is hidden, and visitors leave without enquiring.
 >
-> Slide 3: Inside The Clear Homepage Blueprint: Clear Homepage Blueprint; Homepage Copy Templates; Homepage Content Planner; 20-Point Homepage Audit Scorecard.
+> Slide 3: Inside The Clear Homepage Blueprint:
+> · Clear Homepage Blueprint
+> · Homepage Copy Templates
+> · Homepage Content Planner
+> · 20-Point Homepage Audit Scorecard
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a do-it-yourself resource. It does not include a website build or a personal review of your page.
 >
@@ -29834,11 +30280,12 @@ Create a five-slide Easywurld offer carousel for The Clear Homepage Blueprint. U
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D29-S07/EW-D29-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D29-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Close the loop inside the same post. No bait that never pays off.
 
 ### Hook / first frame
@@ -29912,11 +30359,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D29-S08/EW-D29-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D29-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** Never punch down at customers, staff or other businesses.
 
 ### Hook / first frame
@@ -29931,7 +30379,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-desk-phone.png`
+- **Scene plate:** `assets/meme-scenes/scene-desk-phone.jpg`
 - **On-image line:** The AI says it cannot browse. The caption says 'latest trend'.
 - **Second line:** Verify outside the model.
 
@@ -29975,7 +30423,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -29988,11 +30436,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 - **Single CTA:** Message CLEAR to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D29-S09/EW-D29-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D29-S09.mp4 (record) or assets/fallbacks/EW-D29-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
 - **Contact:** 0905 069 0837 · keyword CLEAR
 
 - **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Answer honestly, including “no, it does not do that”.
 
 - **Daily offer:** The Clear Homepage Blueprint · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -30052,7 +30501,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -30077,11 +30526,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 1 static
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D29-S10/EW-D29-S10_relatable-static.png` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/static/EW-D29-S10.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
 
 ### Hook / first frame
@@ -30147,11 +30597,12 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 - **Single CTA:** Save this for the 30th.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D29-S11/EW-D29-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D29-S11.mp4 (record) or assets/fallbacks/EW-D29-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 ### Hook / first frame
@@ -30203,7 +30654,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -30227,7 +30678,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · follow-up
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D29-STA/EW-D29-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D29-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -30276,7 +30727,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D29-STB/EW-D29-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D29-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D30-S01
 
@@ -30304,7 +30755,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 
@@ -30367,11 +30818,12 @@ Read it aloud before posting. If a sentence needs a second breath, split it. Fir
 - **Single CTA:** Comment the idea you would test first.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D30-S01/EW-D30-S01_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D30-S01_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the three named post ideas and the one first action — concrete enough to copy this week.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -30446,11 +30898,12 @@ Create a five-slide Easywurld carousel for a farm produce seller business in Lag
 - **Single CTA:** Save the test and run it on your own account.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D30-S02/EW-D30-S02_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D30-S02.mp4 (record) or assets/fallbacks/EW-D30-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the verdict named early, then a test the reader can run: “what the absolute advice is costing you”.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -30503,7 +30956,7 @@ Create a five-slide Easywurld carousel for a farm produce seller business in Lag
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
+Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.
 
 Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.
 
@@ -30528,11 +30981,12 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 - **Single CTA:** Save the trend filter before your next post.
 - **Target length:** 35–45s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D30-S03/EW-D30-S03_screen-demo.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D30-S03.mp4 (record) or assets/fallbacks/EW-D30-S03.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Where it shows up here:** the dated source and its date on screen — the receipt before the recommendation.
 - **Guard:** Never claim credentials, awards or expertise we do not hold.
 
 - **Trend gate:** HOLD: within 7 days before publishing, record a current example URL, date checked, platform, rights check and reviewer. If no current example is verified, publish only as a dated teardown with the live-trend wording removed.
@@ -30619,11 +31073,12 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 - **Single CTA:** Save the workflow and test it with anonymised input.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D30-S04/EW-D30-S04_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D30-S04_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** input → draft → human check → output, drawn as a boundary the reader can repeat.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 ### Hook / first frame
@@ -30695,11 +31150,12 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D30-S05/EW-D30-S05_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D30-S05.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** the caption describes the reader so precisely that sharing it says “this is my week”.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -30714,7 +31170,7 @@ Create a five-slide Easywurld workflow carousel using the exact supplied copy. C
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-ledger.png`
+- **Scene plate:** `assets/meme-scenes/scene-ledger.jpg`
 - **On-image line:** Month end. We need a success story.
 - **Second line:** Report what the data actually says.
 
@@ -30758,7 +31214,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -30771,11 +31227,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 - **Single CTA:** Message ENGINE to confirm order details.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D30-S06/EW-D30-S06_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D30-S06_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
 - **Contact:** 0905 069 0837 · keyword ENGINE
 
 - **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Where it shows up here:** contents first, then the price, then the boundary — the number arrives inside a frame.
 - **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
 
 - **Daily offer:** The 30-Day Content Engine · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -30790,7 +31247,11 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 >
 > Slide 2: The problem: Posting is inconsistent. You start strong, run out of ideas, and every post feels like a fresh decision. Nothing connects to sales.
 >
-> Slide 3: Inside The 30-Day Content Engine: 30-Day Content Engine Guide; 60-Idea Post Bank; 30-Day Content Calendar; Hooks and Caption Swipe File.
+> Slide 3: Inside The 30-Day Content Engine:
+> · 30-Day Content Engine Guide
+> · 60-Idea Post Bank
+> · 30-Day Content Calendar
+> · Hooks and Caption Swipe File
 >
 > Slide 4: ₦5,000 DIY pack. Not custom work. It is a planning system and a swipe file, not finished posts for your business. You write or design the content using the templates.
 >
@@ -30855,11 +31316,12 @@ Create a five-slide Easywurld offer carousel for The 30-Day Content Engine. Use 
 - **Single CTA:** Rewrite one headline using the structure.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D30-S07/EW-D30-S07_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D30-S07_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Where it shows up here:** the principle is named, attributed, and rebuilt with an original example rather than quoted.
 - **Guard:** Only use numbers we can defend. No invented metrics.
 
 ### Hook / first frame
@@ -30933,11 +31395,12 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 - **Single CTA:** Share it with the owner who needs the reminder.
 - **Target length:** 1 static (1080×1350)
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D30-S08/EW-D30-S08_relatable-static.jpg` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/memes/EW-D30-S08.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Where it shows up here:** the punchline lands on the work, not the customer, so it can be shared without offence.
 - **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
 
 ### Hook / first frame
@@ -30952,7 +31415,7 @@ Create a five-slide copywriting breakdown for Easywurld. Attribute the principle
 
 ### Meme scene
 
-- **Scene plate:** `assets/meme-scenes/scene-empty-shop.png`
+- **Scene plate:** `assets/meme-scenes/scene-empty-shop.jpg`
 - **On-image line:** The campaign ended. The learning did not.
 - **Second line:** Write the next test.
 
@@ -30996,7 +31459,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 **Disclosure:** No realistic synthetic person/voice planned. Reassess if the production method changes.
 
-**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.png`.
+**Fallback:** Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.
 
 ---
 
@@ -31009,11 +31472,12 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 - **Single CTA:** Message ENGINE to confirm order details.
 - **Target length:** 30–40s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D30-S09/EW-D30-S09_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D30-S09.mp4 (record) or assets/fallbacks/EW-D30-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
 - **Contact:** 0905 069 0837 · keyword ENGINE
 
 - **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Where it shows up here:** the objection is spoken before the buyer has to ask it, and answered including the “no”.
 - **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
 
 - **Daily offer:** The 30-Day Content Engine · ₦5,000 DIY. Confirm price, contents, payment and delivery before publishing.
@@ -31073,7 +31537,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.
+Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.
 
 Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.
 
@@ -31098,11 +31562,12 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 - **Single CTA:** Send the business link and the problem you want to fix.
 - **Target length:** 5 slides
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D30-S10/EW-D30-S10_carousel.zip` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/carousels/EW-D30-S10_slide-1.jpg … _slide-5.jpg`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Where it shows up here:** a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.
 - **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
 
 ### Hook / first frame
@@ -31174,11 +31639,12 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 - **Single CTA:** Save this and write tomorrow’s first line tonight.
 - **Target length:** 18–24s
 - **Status:** Draft — not scheduled
-- **Expected asset:** `assets/EW-D30-S11/EW-D30-S11_ai-talking-head.mp4` (production target, not a finished file unless explicitly supplied)
+- **Expected asset:** `assets/video-ready/EW-D30-S11.mp4 (record) or assets/fallbacks/EW-D30-S11.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
 - **Contact:** 0905 069 0837
 
 - **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Where it shows up here:** a flat first line, a slow turn and a last line the reader can repeat tomorrow.
 - **Guard:** The last line must be true and actionable, not just a punchline.
 
 ### Hook / first frame
@@ -31230,7 +31696,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 ### Visual and edit
 
-Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
+Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.
 
 Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”
 
@@ -31254,7 +31720,7 @@ Create a vertical 9:16 late-night talking-head clip for Easywurld using the supp
 - **Sticker:** Poll · next month
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D30-STA/EW-D30-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D30-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 
@@ -31303,7 +31769,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D30-STB/EW-D30-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D30-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D01-S01
 
@@ -31331,7 +31797,7 @@ Lay out three vertical 1080×1920 story frames for Easywurld using the exact sup
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 

@@ -8,7 +8,7 @@
 - **Sticker:** Poll · one ask
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D02-STA/EW-D02-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D02-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 

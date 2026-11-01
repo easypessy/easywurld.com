@@ -24,7 +24,12 @@ Monday 2 November–Tuesday 1 December 2026. **330 content posts, 60 stories, 26
 | Editing and scheduling | `marketing/PRODUCTION.md` |
 | Source and attributions | `marketing/SOURCES.md` |
 | 60 memes | `marketing/assets/memes/` |
-| Monday fallback/carousel kit | `marketing/assets/launch-day/` |
+| Carousels (all month) | `marketing/assets/carousels/` — 605 JPEG slides + 5 LinkedIn PDFs |
+| Story frames (all month) | `marketing/assets/stories/` — 180 frames |
+| Video posters (fallbacks) | `marketing/assets/fallbacks/` |
+| Intro statics | `marketing/assets/static/` |
+| Every asset, item by item | `marketing/assets/ASSET_MANIFEST.csv` |
+| Scheduling runbook | `marketing/SCHEDULING_RUNBOOK.md` |
 | Series covers | `marketing/assets/series/` |
 | Video layout guides | `marketing/assets/video/` |
 | Trend verification log | `marketing/TREND_VERIFICATION.csv` |

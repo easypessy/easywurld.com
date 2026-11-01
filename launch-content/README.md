@@ -13,7 +13,7 @@ Start with:
 5. `social-command/content_calendar.csv`
 6. `../marketing/PRODUCTION.md`
 
-Starter graphics are in `../marketing/assets/`: 60 scene-led memes, 8 meme scene plates, 42 pre-rendered story frames for week one, 11 series covers, Monday fallback/carousel PNGs, four carousel ZIPs, the faceless Operator plates with two voice samples, and video layout guides. The guides are production aids, not finished videos.
+The **full month** of graphics is rendered in `../marketing/assets/`: 605 carousel slides (121 carousels × 5), 5 LinkedIn document PDFs, 60 scene-led memes, 180 story frames (60 stories × 3), 8 intro statics, 141 video posters, 8 meme scene plates, 11 series covers, the faceless Operator plates with two voice samples, and video layout guides. `ASSET_MANIFEST.csv` lists every post and story against its file. Videos are the only thing left to record; every other slot can ship today.
 
 The existing offers prompt and booklet are in `social-command/`. The free chat-script sample, bundle graphics, profile covers and QR cards remain available as reference assets; verify any old price or bundle claim before reuse.
 

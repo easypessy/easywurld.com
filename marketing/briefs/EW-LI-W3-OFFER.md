@@ -14,7 +14,11 @@
 >
 > Slide 1: The content planner connects the week.
 > Slide 2: The problem: The homepage talks about the business and not the visitor. Headlines are vague, the next step is hidden, and visitors leave without enquiring.
-> Slide 3: Inside The Clear Homepage Blueprint: Clear Homepage Blueprint; Homepage Copy Templates; Homepage Content Planner; 20-Point Homepage Audit Scorecard.
+> Slide 3: Inside The Clear Homepage Blueprint:
+> · Clear Homepage Blueprint
+> · Homepage Copy Templates
+> · Homepage Content Planner
+> · 20-Point Homepage Audit Scorecard
 > Slide 4: ₦5,000 DIY pack. Not custom work. This is a do-it-yourself resource. It does not include a website build or a personal review of your page.
 > Slide 5: Message CLEAR on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.
 >

@@ -14,7 +14,11 @@
 >
 > Slide 1: The hiring questions expose red flags.
 > Slide 2: The problem: You do not know what to decide first, who should own the domain, how to compare quotes, or what has to happen after launch. Sites go live half-finished and then are never updated.
-> Slide 3: Inside The Website Launch & Care Handbook: Website Launch & Care Handbook; Website Planning Brief; Launch, Care and Accounts Workbook; Hiring a Web Designer: Questions and Red Flags.
+> Slide 3: Inside The Website Launch & Care Handbook:
+> · Website Launch & Care Handbook
+> · Website Planning Brief
+> · Launch, Care and Accounts Workbook
+> · Hiring a Web Designer: Questions and Red Flags
 > Slide 4: ₦5,000 DIY pack. Not custom work. It is a guide and set of tools. It does not build, host or maintain a website.
 > Slide 5: Message LAUNCH on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.
 >

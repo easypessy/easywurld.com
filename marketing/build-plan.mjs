@@ -89,7 +89,7 @@ function makePost(day, series, editorial) {
         script: `Marketing myth: ${trimPeriod(m.claim)} Verdict: ${trimPeriod(m.verdict)}. ${m.why} Test it: ${m.test} That is Myth Court: keep the useful part, drop the absolute.`,
         beats: ['0–3s: Operator, chest-up, myth on screen.', `3–12s: verdict: ${m.verdict}.`, '12–24s: the nuance, one labelled example.', `24–34s: the test: ${m.test}`, '34–40s: one CTA.'],
         cta: 'Save the test and run it on your own account.', ctaType: 'Save', aiDisclosure: true,
-        visual: 'Operator persona: `assets/avatar/operator-hero.png` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.',
+        visual: 'Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.',
         edit: 'Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.',
         duration: '30–40s', fallback: 'Publish the verdict and test as a five-slide carousel or text post.',
         prompt: 'Create a vertical 9:16 talking-head video for Easywurld using the supplied anonymous Operator scene plate and the locked voice. Deliver the exact script conversationally: low, slow, unhurried. No face, no eyes, no stock person. Leave space for editor captions and the AI disclosure.' };
@@ -143,17 +143,16 @@ function makePost(day, series, editorial) {
         cta: 'Share it with the owner who needs the reminder.', ctaType: 'Share',
         visual: `Scene-led meme. Photo: ${scene.desc} Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.`,
         edit: 'Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.',
-        duration: '1 static (1080×1350)', fallback: 'Post the same line over the desk plate in `assets/avatar/operator-desk.png`.',
+        duration: '1 static (1080×1350)', fallback: 'Post the same line over the desk plate in `assets/avatar/operator-desk.jpg`.',
         prompt: `Compose one 4:5 scene-led social meme for Easywurld. Base image: ${scene.desc} Overlay a small two-line caption in Inter: “${m.headline}” / “${m.resolution}”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.` };
       break;
     }
     case 'offerA': {
       const angle = editorial.offerA.angle;
-      const deliverables = offer.deliverables.map(d => d.name).join('; ');
       p = { ...base, format: 'Carousel', topic: `${offer.keyword} Spotlight A: ${angle}`,
         problem: offer.problem, hook: angle, offerKeyword: offer.keyword, offerName: offer.name,
         route: '/offers/' + offer.slug, keyword: offer.keyword, ctaType: 'Offer',
-        slides: [angle, `The problem: ${offer.problem}`, `Inside ${offer.name}: ${deliverables}.`, `${money(PRICE)} DIY pack. Not custom work. ${offer.limits[0]}`, `Message ${offer.keyword} on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.`],
+        slides: [angle, `The problem: ${offer.problem}`, `Inside ${offer.name}:\n${offer.deliverables.map(d => '· ' + d.name).join('\n')}`, `${money(PRICE)} DIY pack. Not custom work. ${offer.limits[0]}`, `Message ${offer.keyword} on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.`],
         cta: `Message ${offer.keyword} to confirm order details.`,
         visual: 'Five 1080×1350 cream slides. Show the pack name, contents and price. Real file thumbnails only if supplied; otherwise clean text cards.',
         edit: 'Set exact copy. Price and DIY boundary readable at thumbnail size. No done-for-you implication, no guaranteed results.',
@@ -183,7 +182,7 @@ function makePost(day, series, editorial) {
         script: `${o.objection} ${o.answer} ${offer.name} is a ${money(PRICE)} DIY pack. It includes ${offer.deliverables.map(d=>d.name).join(', ')}. It is not custom work and it does not guarantee results. Message ${offer.keyword} on WhatsApp to confirm current order details.`,
         beats: ['0–3s: the objection on screen.', '3–14s: direct answer.', '14–28s: the actual contents and the DIY boundary.', '28–38s: one keyword CTA.'],
         cta: `Message ${offer.keyword} to confirm order details.`,
-        visual: 'Operator persona: `assets/avatar/operator-hero.png`. Insert a clean contents card and the DIY boundary. No fake testimonials.',
+        visual: 'Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.',
         edit: 'Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.',
         duration: '30–40s', fallback: 'Publish the objection and answer as a static FAQ card.',
         prompt: 'Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plate and the locked voice. Deliver the exact script. Show the pack contents and the DIY boundary. No guaranteed results, fake scarcity or invented testimonials.' };
@@ -223,7 +222,7 @@ function makePost(day, series, editorial) {
         script: `${o.line} ${o.turn} ${o.close} ${o.cta}`,
         beats: ['0–2s: cold line, no greeting, no logo.', '2–8s: the turn.', '8–16s: the close, delivered slower.', '16–22s: one CTA. Hold the last frame in silence.'],
         cta: o.cta, ctaType: 'Save', aiDisclosure: true, pillar: 'Trust',
-        visual: 'Operator persona: `assets/avatar/operator-presence.png` or `operator-hero.png`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.',
+        visual: 'Operator persona: `assets/avatar/operator-presence.jpg` or `operator-hero.jpg`. Night desk, warm lamp, city bokeh. Face never visible. Small recurring vertical mark in the corner as the show signature.',
         edit: 'Target 18–24 seconds. One slow push-in, no cuts after the close. Room tone under the voice. End card 1.5s: real logo + “Easywurld. Simplify. Optimize. Grow.”',
         duration: '18–24s', fallback: 'Post the same line over the desk plate as a static with the script in the caption.',
         prompt: `Create a vertical 9:16 late-night talking-head clip for Easywurld using the supplied anonymous Operator scene plate and locked voice. Delivery: low, slow, unhurried, certain. No face, no eyes, no filler words, no shouting. Exact script only. Leave space for captions and the AI disclosure.` };
@@ -241,7 +240,9 @@ function makePost(day, series, editorial) {
     : ['#LagosBusiness','#SmallBusinessTips'];
   const trendLine = p.seriesKey === 'trend' ? `Dated source: ${editorial.trend.source}, ${longDate(editorial.trend.sourceDate)}. Verify a current example before using the format.` : '';
   p.caption = [p.hook, trendLine, p.offerKeyword ? `${p.offerName} · ${money(PRICE)} DIY. Message ${p.offerKeyword} to confirm current order details.` : '', sampleLine(p), disclosureLine(p), p.cta, hashtags(...tags)].filter(Boolean).join('\n\n');
-  p.asset = `${p.id}_${p.format.toLowerCase().replaceAll(' ','-')}.${p.format === 'Carousel' ? 'zip' : p.format === 'Relatable static' ? (p.seriesKey.startsWith('meme') ? 'jpg' : 'png') : 'mp4'}`;
+  p.asset = p.format === 'Carousel' ? `assets/carousels/${p.id}_slide-1.jpg … _slide-5.jpg`
+    : p.format === 'Relatable static' ? (p.seriesKey.startsWith('meme') ? `assets/memes/${p.id}.jpg` : `assets/static/${p.id}.jpg`)
+    : `assets/video-ready/${p.id}.mp4 (record) or assets/fallbacks/${p.id}.jpg (poster)`;
   p.platforms = {};
   for (const platform of source.platforms) {
     const offset = source.platformOffsets[platform];
@@ -263,14 +264,14 @@ function platformFormat(platform, format) {
 
 /* ---------------- scenes for the meme bank ---------------- */
 const MEME_SCENES = [
-  { id: 'desk-phone', image: 'scene-desk-phone.png', desc: 'a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop.' },
-  { id: 'empty-shop', image: 'scene-empty-shop.png', desc: 'a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light.' },
-  { id: 'blank-screen', image: 'scene-blank-screen.png', desc: 'a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it.' },
-  { id: 'notebook', image: 'scene-notebook.png', desc: 'an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light.' },
-  { id: 'inbox', image: 'scene-inbox.png', desc: 'a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible.' },
-  { id: 'market', image: 'scene-market.png', desc: 'a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces.' },
-  { id: 'ledger', image: 'scene-ledger.png', desc: 'a receipt book, a calculator and a fan blade blurring in the heat on a shop counter.' },
-  { id: 'rain-window', image: 'scene-rain-window.png', desc: 'a rain-streaked window at night with city bokeh and a single notebook page in the foreground.' },
+  { id: 'desk-phone', image: 'scene-desk-phone.jpg', desc: 'a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop.' },
+  { id: 'empty-shop', image: 'scene-empty-shop.jpg', desc: 'a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light.' },
+  { id: 'blank-screen', image: 'scene-blank-screen.jpg', desc: 'a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it.' },
+  { id: 'notebook', image: 'scene-notebook.jpg', desc: 'an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light.' },
+  { id: 'inbox', image: 'scene-inbox.jpg', desc: 'a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible.' },
+  { id: 'market', image: 'scene-market.jpg', desc: 'a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces.' },
+  { id: 'ledger', image: 'scene-ledger.jpg', desc: 'a receipt book, a calculator and a fan blade blurring in the heat on a shop counter.' },
+  { id: 'rain-window', image: 'scene-rain-window.jpg', desc: 'a rain-streaked window at night with city bokeh and a single notebook page in the foreground.' },
 ];
 
 /* ---------------- story slots ---------------- */
@@ -309,7 +310,7 @@ function makeStories(day) {
     sticker: 'Link sticker → tomorrow’s lead post', cta: 'Tap the link sticker',
     duration: storySlotB.duration, objective: storySlotB.objective,
     asset: `${idB}_story-desk.png`, linkPostId: `EW-D${String(next.day).padStart(2,'0')}-S01`,
-    visual: 'Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.',
+    visual: 'Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.',
     edit: 'No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.',
     fallback: 'Post the same three frames as a feed carousel with the link in the caption.',
     prompt: 'Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld using the supplied anonymous Operator scene plates. Quiet, warm, night-desk mood. Small caption type. Leave space for the link sticker. No face, no text walls.',
@@ -441,10 +442,27 @@ writeFileSync(join(here, 'content-plan.json'), JSON.stringify(plan, null, 2) + '
 const briefDir = join(here, 'briefs');
 mkdirSync(briefDir, { recursive: true });
 for (const f of readdirSync(briefDir)) if (/^EW-(D\d{2}-S\d{2}|D\d{2}-ST[AB]|LI-W\d-[A-Z]+)\.md$/.test(f)) rmSync(join(briefDir, f));
+function psychWhere(p) {
+  switch (p.seriesKey) {
+    case 'niche': return 'the three named post ideas and the one first action — concrete enough to copy this week.';
+    case 'myth': return `the verdict named early, then a test the reader can run: “${p.psych.key === 'loss-aversion' ? 'what the absolute advice is costing you' : 'here is the small test'}”.`;
+    case 'trend': return 'the dated source and its date on screen — the receipt before the recommendation.';
+    case 'ai': return 'input → draft → human check → output, drawn as a boundary the reader can repeat.';
+    case 'meme1': return 'the caption describes the reader so precisely that sharing it says “this is my week”.';
+    case 'meme2': return 'the punchline lands on the work, not the customer, so it can be shared without offence.';
+    case 'offerA': return 'contents first, then the price, then the boundary — the number arrives inside a frame.';
+    case 'copy': return `the principle is named, attributed, and rebuilt with an original example rather than quoted.`;
+    case 'offerB': return 'the objection is spoken before the buyer has to ask it, and answered including the “no”.';
+    case 'intro': return 'a recognisable introduction angle and a fixed sign-off, so the eighth sighting feels familiar.';
+    case 'operator': return 'a flat first line, a slow turn and a last line the reader can repeat tomorrow.';
+    default: return 'the opening line and the single ask carry the principle; the middle carries the receipt.';
+  }
+}
+
 function brief(p, heading = 2) {
   const h = '#'.repeat(heading);
-  const out = [`${h} ${p.id} · ${p.topic}`, '', `**${p.date} · ${p.weekday} · ${p.time} WAT · ${p.series} · ${p.format}**`, '', `- **Pillar:** ${p.pillar}`, `- **Objective:** ${p.objective}`, `- **Single CTA:** ${p.cta}`, `- **Target length:** ${p.duration}`, `- **Status:** Draft — not scheduled`, `- **Expected asset:** \`assets/${p.id}/${p.asset}\` (production target, not a finished file unless explicitly supplied)`, `- **Destination to verify:** ${urlFor(p.route)}`, `- **Contact:** ${source.whatsapp}${p.keyword ? ' · keyword ' + p.keyword : ''}`, ''];
-  if (p.psych) out.push(`- **Psychology move:** ${p.psych.name} — ${p.psych.use}`, `- **Guard:** ${p.psych.guard}`, '');
+  const out = [`${h} ${p.id} · ${p.topic}`, '', `**${p.date} · ${p.weekday} · ${p.time} WAT · ${p.series} · ${p.format}**`, '', `- **Pillar:** ${p.pillar}`, `- **Objective:** ${p.objective}`, `- **Single CTA:** ${p.cta}`, `- **Target length:** ${p.duration}`, `- **Status:** Draft — not scheduled`, `- **Expected asset:** \`${p.asset}\``, `- **Destination to verify:** ${urlFor(p.route)}`, `- **Contact:** ${source.whatsapp}${p.keyword ? ' · keyword ' + p.keyword : ''}`, ''];
+  if (p.psych) out.push(`- **Psychology move:** ${p.psych.name} — ${p.psych.use}`, `- **Where it shows up here:** ${psychWhere(p)}`, `- **Guard:** ${p.psych.guard}`, '');
   if (p.offerKeyword) out.push(`- **Daily offer:** ${p.offerName} · ${money(PRICE)} DIY. Confirm price, contents, payment and delivery before publishing.`, '');
   if (p.verification) out.push(`- **Trend gate:** ${p.verification}`, `- **Dated source:** ${p.sourceUrl} (${longDate(p.sourceDate)})`, '');
   out.push(`${h}# Hook / first frame`, '', quote(p.hook), '', `${h}# ${p.script ? 'Exact spoken script' : p.slides ? 'Exact slide copy' : 'Exact image copy'}`, '', quote(body(p)), '');
@@ -459,7 +477,7 @@ function brief(p, heading = 2) {
   return out.join('\n');
 }
 function storyBrief(s) {
-  const out = [`## ${s.id} · ${s.series}`, '', `**${s.date} · ${s.weekday} · ${s.time} WAT · Story ${s.slot} · ${s.duration}**`, '', `- **Objective:** ${s.objective}`, `- **Sticker:** ${s.sticker}`, `- **Single CTA:** ${s.cta}`, `- **Status:** Draft — not scheduled`, `- **Asset:** \`assets/${s.id}/${s.asset}\``, ''];
+  const out = [`## ${s.id} · ${s.series}`, '', `**${s.date} · ${s.weekday} · ${s.time} WAT · Story ${s.slot} · ${s.duration}**`, '', `- **Objective:** ${s.objective}`, `- **Sticker:** ${s.sticker}`, `- **Single CTA:** ${s.cta}`, `- **Status:** Draft — not scheduled`, `- **Asset:** \`assets/stories/${s.id}_frame-1.jpg … _frame-3.jpg\``, ''];
   if (s.linkPostId) out.push(`- **Links to:** ${s.linkPostId}`, '');
   out.push('## Frames', '', ...s.frames.flatMap((f, i) => [`**Frame ${i + 1}**`, '', quote(f), '']));
   out.push('## Placements', '');

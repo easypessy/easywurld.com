@@ -8,7 +8,7 @@
 - **Sticker:** Poll · Sunday night
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D07-STA/EW-D07-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D07-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 

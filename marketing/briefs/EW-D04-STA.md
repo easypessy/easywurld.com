@@ -8,7 +8,7 @@
 - **Sticker:** Quiz · what sells
 - **Single CTA:** Tap the poll
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D04-STA/EW-D04-STA_story-poll.png`
+- **Asset:** `assets/stories/EW-D04-STA_frame-1.jpg … _frame-3.jpg`
 
 ## Frames
 

@@ -8,7 +8,7 @@
 - **Sticker:** Link sticker → tomorrow’s lead post
 - **Single CTA:** Tap the link sticker
 - **Status:** Draft — not scheduled
-- **Asset:** `assets/EW-D04-STB/EW-D04-STB_story-desk.png`
+- **Asset:** `assets/stories/EW-D04-STB_frame-1.jpg … _frame-3.jpg`
 
 - **Links to:** EW-D05-S01
 
@@ -36,7 +36,7 @@
 
 ## Visual and edit
 
-Three 1080×1920 frames from the Operator set: `operator-desk.png`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
+Three 1080×1920 frames from the Operator set: `operator-desk.jpg`, then a dark title card with tomorrow’s hook, then the link sticker frame. Face never visible.
 
 No cuts faster than 1.2s. Burn the captions. Place the link sticker on frame 3 only.
 

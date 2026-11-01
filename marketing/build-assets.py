@@ -1,18 +1,26 @@
 #!/usr/bin/env python3
-"""Render the series starter kit from the canonical plan. Requires Pillow.
+"""Render the full-month asset kit from the canonical plan. Requires Pillow + reportlab.
 
-Outputs:
-  marketing/assets/series/                 10 series cover cards
-  marketing/assets/memes/                 60 original meme PNGs
-  marketing/assets/launch-day/            Day 1 non-video fallback/carousel PNGs + ZIPs
-  marketing/assets/video/                 overlay + safe-area guide
+Outputs (all 30 days, not just week one):
+  marketing/assets/carousels/     every carousel as five 1080x1350 JPEGs (+ LinkedIn PDFs on Mondays)
+  marketing/assets/stories/       every story as three 1080x1920 JPEG frames
+  marketing/assets/memes/         60 scene-led meme JPEGs
+  marketing/assets/static/        single-image posts (intro statics)
+  marketing/assets/fallbacks/     one poster/fallback card per video slot, so a day can still ship
+  marketing/assets/series/        11 series cover cards
+  marketing/assets/avatar/        the Operator plates (already hand-produced, never overwritten)
+  marketing/assets/video/         disclosure overlay + safe-area guide
+  marketing/assets/ASSET_MANIFEST.csv   every post -> expected file(s) and whether it is rendered
 
-These are starter/production graphics, not finished videos. The trend card is a
-HOLD placeholder until its verification log is complete.
+These are production graphics, not published posts: every CSV/app placement still starts Draft.
+The trend slots keep a HOLD badge until their verification log is complete.
 """
 from pathlib import Path
-import json, os, zipfile, shutil
+import csv, json, os, re, shutil
 from PIL import Image, ImageDraw, ImageFont
+from reportlab.lib.pagesizes import A4
+from reportlab.lib.units import mm
+from reportlab.pdfgen import canvas as pdfcanvas
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / 'marketing/assets'
@@ -21,6 +29,7 @@ POSTS = {p['id']: p for p in PLAN['posts']}
 FONT_DIR = Path(os.environ.get('EASYWURLD_FONT_DIR', Path.home() / '.cache/easywurld-fonts'))
 CREAM='#FAE7C7'; GREEN='#0A4937'; LEAF='#27473A'; TERRA='#9E4E2C'; INK='#14170F'; PAPER='#FBF9F4'; LINE='#D8D5C5'
 SERIF='Fraunces[SOFT,WONK,opsz,wght].ttf'; SANS='Inter[opsz,wght].ttf'; MONO='JetBrainsMono[wght].ttf'
+JPEG_Q = 82
 
 def font(kind, size, weight=500):
     names={'serif':SERIF,'sans':SANS,'mono':MONO}
@@ -72,13 +81,30 @@ def header(im,draw,label,post_id):
     draw.text((78,92),post_id,font=font('mono',14),fill=TERRA)
     logo(im,(930,48),68)
 
-def text_card(post_id,text,label,page='',hold=False,note=''):
-    im=Image.new('RGBA',(1080,1350),CREAM); d=ImageDraw.Draw(im); header(im,d,label,post_id)
+SENTENCE_SPLIT = re.compile(r'(?<=[.!?])[\'"\u2019\u201d]?\s+')
+
+def text_card(post_id,text,label,page='',hold=False,note='',series=None):
+    im=Image.new('RGBA',(1080,1350),CREAM); d=ImageDraw.Draw(im)
     paras=[p for p in str(text).split('\n') if p.strip()]
     head=paras[0] if paras else ''
     rest='\n'.join(paras[1:])
-    # Fit the headline and support text without shrinking to unreadable sizes.
-    for hs in range(96,51,-4):
+    kicker=''
+    m=re.match(r'^([A-Z][^:]{2,44}):\s*(.+)$', head, re.S)
+    if m:
+        kicker=m.group(1)
+        head=m.group(2).strip()
+    top=label if (not kicker or kicker.strip().lower()==label.strip().lower()) else kicker+' · '+label
+    header(im,d,top[:54],post_id)
+    # A slide whose headline runs long reads better as a short headline plus smaller support text.
+    if len(head) > 92:
+        parts=SENTENCE_SPLIT.split(head)
+        kept=''
+        while parts and len((kept+' '+parts[0]).strip()) <= 90:
+            kept=(kept+' '+parts.pop(0)).strip()
+        if kept:
+            head=kept
+            rest=(' '.join(parts) + ('\n'+rest if rest else '')).strip()
+    for hs in range(84,51,-4):
         hf=font('serif',hs,620); hlines=wrap(d,head,hf,880)
         hh=len(hlines)*int(hs*1.10)
         room=880-hh
@@ -101,41 +127,93 @@ def text_card(post_id,text,label,page='',hold=False,note=''):
         d.rounded_rectangle((78,1090,430,1140),radius=5,fill=TERRA)
         d.text((98,1102),'HOLD · VERIFY BEFORE USE',font=font('mono',19,650),fill=CREAM)
     if note:
-        block(d,note,(460,1100),font('sans',18),LEAF,520)
-    footer(d,post_id,PLAN['series'][int(post_id[-2:])-1]['name'],page)
+        block(d,note,(78,1028),font('sans',19),LEAF,900,1.32)
+    footer(d,post_id,series or label,page)
     return im
 
+def save_jpg(im,path,quality=JPEG_Q):
+    path.parent.mkdir(parents=True,exist_ok=True)
+    im.convert('RGB').save(path,quality=quality,optimize=True,progressive=True)
+    return path
+
+# ---------------------------------------------------------------- carousels
+CAR = OUT/'carousels'
+
 def carousel(post):
-    label=post['series']; files=[]; folder=OUT/'launch-day'; folder.mkdir(parents=True,exist_ok=True)
+    """Five 1080x1350 slides as JPEGs. Returns the list of files."""
+    files=[]
     for i,slide in enumerate(post['slides'],1):
-        im=text_card(post['id'],slide,label,f'{i:02d} / 05')
-        p=folder/f"{post['id']}_slide-{i}.png"; im.convert('RGB').save(p,optimize=True); files.append(p)
-    with zipfile.ZipFile(folder/f"{post['id']}_carousel.zip",'w',zipfile.ZIP_DEFLATED) as z:
-        for f in files: z.write(f,f.name)
-        z.writestr('CAPTION.txt',post['platforms']['Instagram']['caption']+'\n\nCTA: '+post['cta']+'\n')
-        z.writestr('READ_ME.txt','Draft starter slides for human review. Upload the five PNGs in order. Confirm price, offer fulfilment and platform crop before publishing. No synthetic presenter is used in these graphics.\n')
+        im=text_card(post['id'],slide,post['series'],f'{i:02d} / 05')
+        files.append(save_jpg(im,CAR/f"{post['id']}_slide-{i}.jpg"))
     return files
 
-def fallback_card(post):
-    folder=OUT/'launch-day'; folder.mkdir(parents=True,exist_ok=True)
-    texts={
-      'myth':post['hook']+'\n'+(post.get('script','').split('. ',1)[1] if '. ' in post.get('script','') else ''),
-      'trend':post['hook']+'\nDated teardown. Recheck a current example, relevance and audio rights before recording or replacing this card.',
-      'ai':post['hook']+'\nInput → AI draft → human check → output. Nothing is sent automatically.',
-      'offerB':post['hook']+'\n'+(post.get('script','').split('. ',1)[1] if '. ' in post.get('script','') else post.get('script','')),
-      'meme1':post.get('staticCopy',post['hook']),
-      'meme2':post.get('staticCopy',post['hook']),
-    }
-    text=texts.get(post['seriesKey'],post['hook']+'\n'+post['cta'])
-    hold=post['seriesKey']=='trend'
-    im=text_card(post['id'],text,post['series'],'STARTER',hold=hold,note='Non-video fallback. Confirm copy and disclosure before publishing.')
-    p=folder/f"{post['id']}_fallback.png"; im.convert('RGB').save(p,optimize=True); return p
+def carousel_pdf(post):
+    """A 1080x1350 PDF of the same slides — uploadable as a LinkedIn document post."""
+    pdf=CAR/f"{post['id']}_carousel.pdf"
+    c=pdfcanvas.Canvas(str(pdf),pagesize=(1080,1350))
+    for i,slide in enumerate(post['slides'],1):
+        im=text_card(post['id'],slide,post['series'],f'{i:02d} / 05')
+        tmp=CAR/'_tmp.jpg'; im.convert('RGB').save(tmp,quality=88,optimize=True)
+        c.drawImage(str(tmp),0,0,1080,1350); c.showPage()
+    c.save()
+    (CAR/'_tmp.jpg').unlink(missing_ok=True)
+    return pdf
 
-SCENES = OUT / 'meme-scenes'
+# ---------------------------------------------------------------- single statics
+STATIC = OUT/'static'
+
+def static_card(post):
+    text=post.get('staticCopy') or post['hook']
+    im=text_card(post['id'],text,post['series'],'01 / 01',
+                 hold=post['seriesKey']=='trend',
+                 note='Static post. Confirm copy, price and disclosure before publishing.')
+    return save_jpg(im,STATIC/f"{post['id']}.jpg")
+
+# ---------------------------------------------------------------- posters for video slots
+FALL = OUT/'fallbacks'
+
+def _norm(s):
+    return re.sub(r'[^a-z0-9 ]', '', s.lower()).strip()
+
+def poster_text(post):
+    """Headline + up to two supporting sentences that never repeat the headline."""
+    hook=post['hook'].strip()
+    hook_norm=_norm(hook)
+    sentences=[]
+    for s in SENTENCE_SPLIT.split(post.get('script','').strip()):
+        s=s.strip()
+        if not s: continue
+        n=_norm(s)
+        if not n or n in hook_norm or hook_norm.startswith(n[:32]) or n.startswith(hook_norm[:32]):
+            continue
+        sentences.append(s)
+    if post['seriesKey']=='operator':
+        body=' '.join(sentences[:2]).replace(post.get('cta',''),'').strip()
+        return hook + ('\n' + body if body else '')
+    return hook + ('\n' + ' '.join(sentences[:2]) if sentences else '')
+
+def fallback_card(post):
+    """One poster per video slot, so a day can still ship when the video is not ready."""
+    text=poster_text(post)
+    hold=post['seriesKey']=='trend'
+    if hold:
+        text += '\nDated teardown. Verify a current example and the audio rights before recording.'
+    note='Video slot. Use this poster if the clip is not ready; add the AI label when you post a synthetic voice.'
+    im=text_card(post['id'],text,post['series'],'POSTER',hold=hold,note=note)
+    return save_jpg(im,FALL/f"{post['id']}.jpg")
+
+# ---------------------------------------------------------------- memes
+SCENES = OUT/'meme-scenes'
+
+def scene_file(image):
+    p=SCENES/image
+    if not p.exists():
+        alt=p.with_suffix('.jpg')
+        if alt.exists(): return alt
+    return p
 
 def scene_base(image, zoom=1.0, bias=0.5):
-    """Cover-crop a scene plate to 1080x1350."""
-    im = Image.open(SCENES / image).convert('RGB')
+    im = Image.open(scene_file(image)).convert('RGB')
     w, h = im.size
     scale = max(1080 / w, 1350 / h) * zoom
     im = im.resize((int(w * scale) + 1, int(h * scale) + 1), Image.Resampling.LANCZOS)
@@ -145,58 +223,48 @@ def scene_base(image, zoom=1.0, bias=0.5):
     return im.crop((left, top, left + 1080, top + 1350))
 
 def meme(post):
-    """Scene-led relatable meme: photograph first, small caption second."""
-    folder = OUT / 'memes'; folder.mkdir(parents=True, exist_ok=True)
+    folder = OUT/'memes'; folder.mkdir(parents=True, exist_ok=True)
     m = post['meme']
     idx = post['day'] + (3 if post['seriesKey'] == 'meme2' else 0)
     zoom = [1.0, 1.06, 1.12, 1.18][idx % 4]
     bias = [0.5, 0.42, 0.58, 0.48][idx % 4]
     im = scene_base(m['image'], zoom, bias).convert('RGBA')
-
-    # soft dark base at the bottom third so small type stays legible
     shade = Image.new('RGBA', (1080, 1350), (0, 0, 0, 0))
     sd = ImageDraw.Draw(shade)
     for y in range(880, 1350):
-        alpha = int(190 * min(1, (y - 880) / 380))
-        sd.line((0, y, 1080, y), fill=(8, 12, 9, alpha))
+        sd.line((0, y, 1080, y), fill=(8, 12, 9, int(190 * min(1, (y - 880) / 380))))
     im = Image.alpha_composite(im, shade)
     d = ImageDraw.Draw(im)
-
-    line_f = font('sans', 46, 640)
-    sub_f = font('sans', 31, 460)
+    line_f = font('sans', 46, 640); sub_f = font('sans', 31, 460)
     y = 1000
     for line in wrap(d, m['line'], line_f, 930)[:3]:
         d.text((75, y), line, font=line_f, fill=CREAM); y += 58
     y += 10
     for line in wrap(d, m['sub'], sub_f, 930)[:3]:
         d.text((75, y), line, font=sub_f, fill=(250, 231, 199, 214)); y += 42
-
     d.rectangle((75, 934, 155, 940), fill=TERRA)
     d.text((75, 1264), 'EASYWURLD', font=font('mono', 20, 600), fill=CREAM)
     tag = 'OWNER LIFE' if post['seriesKey'] == 'meme1' else 'MARKETING / AI / CLIENTS'
     d.text((560, 1264), f"{post['id']}  ·  {tag}", font=font('mono', 18, 450), fill=(250, 231, 199, 190))
-    p = folder / f"{post['id']}.jpg"
-    im.convert('RGB').save(p, quality=84, optimize=True, progressive=True)
-    return p
+    return save_jpg(im, folder / f"{post['id']}.jpg", quality=84)
 
-def story_frame(story, frame_index, screenshot_note=None):
-    """Render one 1080x1920 story frame: dark desk plate + one line of copy."""
-    folder = OUT / 'stories'; folder.mkdir(parents=True, exist_ok=True)
-    plate = OUT / 'avatar/operator-desk.png'
+# ---------------------------------------------------------------- stories
+STORY = OUT/'stories'
+
+def story_frame(story, frame_index):
+    folder = STORY; folder.mkdir(parents=True, exist_ok=True)
+    plate = OUT/'avatar/operator-desk.png'
+    if not plate.exists(): plate = OUT/'avatar/operator-desk.jpg'
     bg = Image.open(plate).convert('RGB').resize((1080, 1920), Image.Resampling.LANCZOS)
-    im = bg.convert('RGBA')
-    veil = Image.new('RGBA', (1080, 1920), (8, 14, 11, 150))
-    im = Image.alpha_composite(im, veil)
+    im = Image.alpha_composite(bg.convert('RGBA'), Image.new('RGBA', (1080, 1920), (8, 14, 11, 150)))
     d = ImageDraw.Draw(im)
 
     text = story['frames'][frame_index]
     size = 74 if frame_index == 0 else 64
-    f = font('serif', size, 620)
-    lines = wrap(d, text, f, 880)
+    f = font('serif', size, 620); lines = wrap(d, text, f, 880)
     while len(lines) * int(size * 1.16) > 900 and size > 40:
         size -= 6; f = font('serif', size, 620); lines = wrap(d, text, f, 880)
-    total = len(lines) * int(size * 1.16)
-    y = 960 - total // 2
+    y = 960 - (len(lines) * int(size * 1.16)) // 2
     for line in lines:
         d.text((100, y), line, font=f, fill=CREAM); y += int(size * 1.16)
 
@@ -210,10 +278,9 @@ def story_frame(story, frame_index, screenshot_note=None):
     d.text((100, 170), f"STORY {story['slot']}  ·  {story['time']} WAT", font=font('mono', 26, 500), fill=(250, 231, 199, 190))
     d.text((100, 1740), 'EASYWURLD', font=font('mono', 26, 650), fill=CREAM)
     d.text((100, 1782), 'SIMPLIFY. OPTIMIZE. GROW.', font=font('mono', 20, 450), fill=(250, 231, 199, 165))
-    p = folder / f"{story['id']}_frame-{frame_index + 1}.jpg"
-    im.convert('RGB').save(p, quality=85, optimize=True, progressive=True)
-    return p
+    return save_jpg(im, folder / f"{story['id']}_frame-{frame_index + 1}.jpg", quality=80)
 
+# ---------------------------------------------------------------- series covers + guides
 def series_cover(s):
     im=Image.new('RGBA',(1080,1350),CREAM); d=ImageDraw.Draw(im)
     d.text((78,62),'EASYWURLD · 11 POSTS + 2 STORIES A DAY',font=font('mono',15),fill=LEAF)
@@ -245,49 +312,111 @@ def video_guides():
     g=Image.new('RGB',(1080,1920),PAPER); gd=ImageDraw.Draw(g)
     gd.rectangle((80,260,850,1450),outline=TERRA,width=5)
     gd.rectangle((200,410,760,1110),outline=LEAF,width=3)
-    gd.text((225,445),'FACE / DEMO',font=font('mono',35),fill=GREEN)
-    gd.text((225,505),'Keep eyes and mouth clear',font=font('sans',25),fill=INK)
+    gd.text((225,445),'OPERATOR / DEMO',font=font('mono',35),fill=GREEN)
+    gd.text((225,505),'Keep the face hidden, or crop to the plate',font=font('sans',25),fill=INK)
     gd.text((95,130),'CONSERVATIVE HOUSE GUIDE',font=font('mono',28),fill=GREEN)
     gd.text((95,180),'Not an official platform safe zone',font=font('sans',27),fill=INK)
     gd.text((95,1510),'Essential text: x 80–850, y 260–1450',font=font('mono',25),fill=GREEN)
     gd.text((95,1570),'Always check the actual upload preview.',font=font('sans',28),fill=INK)
     gd.text((95,1640),'Do not export this guide into the final video.',font=font('sans',26),fill=TERRA)
     g.save(folder/'video-safe-area-guide.png',optimize=True)
-    (folder/'VIDEO_TEMPLATE_README.txt').write_text('video-overlay-template.png is a transparent 1080x1920 layout guide. Replace bracketed caption placeholders with corrected words before export. Use the AI-presenter label only for a synthetic presenter; use AI voice · Easywurld for synthetic narration over a demo. Remove the label if the final asset contains no realistic AI person/voice. video-safe-area-guide.png is instructions only; never publish it. No owner likeness or finished video is included.\n')
+    (folder/'VIDEO_TEMPLATE_README.txt').write_text(
+      'video-overlay-template.png is a transparent 1080x1920 layout guide. Replace the bracketed caption placeholders with corrected words before export. '
+      'Use the AI presenter label only for a synthetic presenter; use AI voice · Easywurld for synthetic narration over a demo. Remove the label if the final asset contains no no realistic AI person or voice. '
+      'video-safe-area-guide.png is instructions only; never publish it. No owner likeness or finished video is included.\n')
 
-def manifest():
-    lines=['# Starter asset kit','','These are draft starter graphics, not finished videos and not published posts. Every CSV/app placement still starts Draft.','','## Folders','',
-      '- `series/`: 11 series cover cards. Use as series branding, not as a claim that every post is complete.',
-      '- `memes/`: 60 scene-led meme JPEGs (photograph first, small two-line caption). Each post names its scene plate in the brief.',
-      '- `meme-scenes/`: the eight 4:5 photograph plates the memes are built from. Reusable for stories and B-roll.',
-      '- `stories/`: 42 pre-rendered 1080×1920 story frames covering the first week (14 stories × 3 frames).',
-      '- `launch-day/`: Monday 2 November fallback/carousel PNGs, plus carousel ZIPs for the slide-based slots.',
-      '- `avatar/`: the anonymous Operator persona — three faceless scene plates and two locked-tone voice samples. See `marketing/AVATAR_OPERATOR.md`.',
-      '- `video/`: transparent AI-disclosure overlay and safe-area guide. No finished video.','','## Important','',
-      '- The Day 1 Trend Desk card says **HOLD**. Verify a current example and audio rights before publishing or recording.',
-      '- Screen-demo and talking-head slots are represented by fallback cards and real repo links; they are not finished videos.',
-      '- The AI presenter is the anonymous Operator persona: no face, no real likeness, disclosure on every clip.',
-      '- Confirm the offer price, payment and fulfilment before publishing any offer post.',
-      '- Regenerate with `/home/user/.venv/bin/python marketing/build-assets.py` after `npm run content:build`.',
-      '- Memes and stories use the fonts in `~/.cache/easywurld-fonts` (Fraunces, Inter, JetBrains Mono).','']
+# ---------------------------------------------------------------- manifest
+def manifest(carousel_files, story_files, extra_pdfs):
+    rows=[['Type','Date','Time (WAT)','Post ID','Format','Expected asset(s)','Rendered','Produce','Note']]
+    for p in PLAN['posts']:
+        plats=' + '.join(sorted({x['platform'] for x in PLAN['placements'] if x['postId']==p['id']}))
+        if p.get('slides'):
+            files=[f'assets/carousels/{p["id"]}_slide-{i}.jpg' for i in range(1,6)]
+            rendered=all((OUT/'carousels'/f'{p["id"]}_slide-{i}.jpg').exists() for i in range(1,6))
+            rows.append(['Content',p['date'],p['time'],p['id'],p['format'],' '.join(files),'yes' if rendered else 'no','Nothing — upload the five JPEGs in order',plats])
+        elif p['seriesKey'] in ('meme1','meme2'):
+            f=f'assets/memes/{p["id"]}.jpg'
+            rows.append(['Content',p['date'],p['time'],p['id'],p['format'],f,'yes' if (OUT/'memes'/f'{p["id"]}.jpg').exists() else 'no','Nothing — ready to post',plats])
+        elif p['format']=='Relatable static':
+            f=f'assets/static/{p["id"]}.jpg'
+            rows.append(['Content',p['date'],p['time'],p['id'],p['format'],f,'yes' if (OUT/'static'/f'{p["id"]}.jpg').exists() else 'no','Nothing — ready to post',plats])
+        else:
+            poster=f'assets/fallbacks/{p["id"]}.jpg'
+            held=' — TREND HOLD: verify before use' if p['seriesKey']=='trend' else ''
+            rows.append(['Content',p['date'],p['time'],p['id'],p['format'],
+                         f'assets/video-ready/{p["id"]}.mp4 (record) | {poster} (poster, ready)',
+                         'poster' if (OUT/'fallbacks'/f'{p["id"]}.jpg').exists() else 'no',
+                         'Record/edit the clip, or post the poster as a static fallback'+held,plats])
+    for s in PLAN['stories']:
+        files=[f'assets/stories/{s["id"]}_frame-{i}.jpg' for i in (1,2,3)]
+        rendered=all((OUT/'stories'/f'{s["id"]}_frame-{i}.jpg').exists() for i in (1,2,3))
+        rows.append(['Story',s['date'],s['time'],s['id'],s['series'],' '.join(files),'yes' if rendered else 'no','Nothing — upload three frames, add the sticker','Instagram + Facebook + TikTok'])
+    for l in PLAN['linkedin']:
+        if l['format'].startswith('Document'):
+            pdf=f'assets/carousels/{l["sourcePostId"]}_carousel.pdf'
+            rows.append(['LinkedIn',l['date'],l['time'],l['id'],l['format'],pdf,'yes' if (OUT/'carousels'/f'{l["sourcePostId"]}_carousel.pdf').exists() else 'no','Upload the PDF as a document post',l['label']])
+        elif l['format']=='Vertical video':
+            rows.append(['LinkedIn',l['date'],l['time'],l['id'],l['format'],f'assets/video-ready/{l["sourcePostId"]}.mp4 (record)','no','Re-frame the same clip to 4:5',l['label']])
+        else:
+            rows.append(['LinkedIn',l['date'],l['time'],l['id'],l['format'],'— text only —','n/a','Paste the copy from the brief',l['label']])
+    with open(OUT/'ASSET_MANIFEST.csv','w',newline='',encoding='utf-8') as fh:
+        csv.writer(fh,lineterminator='\n').writerows(rows)
+    return len(rows)-1
+
+def readme(carousel_count, story_count, fallback_count, static_count, pdf_count):
+    lines=['# Full-month asset kit','',
+      'Rendered from `marketing/series-plan.json` → `content-plan.json`. Every image is a production graphic, not a published post: every CSV/app placement still starts Draft.','',
+      '## What is rendered','',
+      f'- `carousels/`: {carousel_count} carousels as five 1080×1350 JPEGs each, uploaded in slide order. `{pdf_count}` Monday carousels also have a PDF for the LinkedIn document post.',
+      f'- `stories/`: {story_count} stories × 3 frames at 1080×1920 (Instagram, then Facebook +5 min, TikTok +10 min).',
+      '- `memes/`: 60 scene-led meme JPEGs — photograph first, small two-line caption in the lower third.',
+      '- `meme-scenes/`: the eight 4:5 photograph plates the memes and desk scenes are built from.',
+      f'- `static/`: {static_count} single-image posts (the intro statics).',
+      f'- `fallbacks/`: {fallback_count} posters for the video slots. Use one if a clip is not ready, and keep the AI label honest.',
+      '- `series/`: 11 series cover cards.',
+      '- `avatar/`: the Operator plates and voice samples (hand-produced, not overwritten by this script).',
+      '- `video/`: disclosure overlay and safe-area guide.',
+      '- `ASSET_MANIFEST.csv`: every post and story → expected file(s), whether it is rendered, and what is left to produce.','',
+      '## Rules','',
+      '- Upload carousel slides in numeric order; slide 1 is the cover.',
+      '- Every clip with a synthetic presenter or voice carries `AI presenter · Easywurld` and the platform AI setting.',
+      '- Trend Desk posters say **HOLD**: complete `marketing/TREND_VERIFICATION.csv` or publish only as a dated teardown with live-trend wording removed.',
+      '- Confirm the ₦5,000 price, pack contents and fulfilment before publishing any offer post.',
+      '- Regenerate with `/home/user/.venv/bin/python marketing/build-assets.py` after `npm run content:build`. Fonts live in `~/.cache/easywurld-fonts`.','']
     (OUT/'README.md').write_text('\n'.join(lines))
 
-series_dir=OUT/'series'; meme_dir=OUT/'memes'; day_dir=OUT/'launch-day'
-story_dir=OUT/'stories'
-for folder in [series_dir,meme_dir,day_dir,story_dir,OUT/'video']:
+# ---------------------------------------------------------------- run
+series_dir=OUT/'series'; meme_dir=OUT/'memes'; story_dir=OUT/'stories'
+car_dir=CAR; static_dir=STATIC; fall_dir=FALL
+for folder in [series_dir,meme_dir,story_dir,car_dir,static_dir,fall_dir,OUT/'video']:
     if folder.exists(): shutil.rmtree(folder)
     folder.mkdir(parents=True,exist_ok=True)
 
 for s in PLAN['series']: series_cover(s)
+
+carousel_posts=[p for p in PLAN['posts'] if p.get('slides')]
+for p in carousel_posts: carousel(p)
+pdf_posts=[l['sourcePostId'] for l in PLAN['linkedin'] if l['format'].startswith('Document')]
+for pid in pdf_posts:
+    if pid in POSTS: carousel_pdf(POSTS[pid])
+
+meme_count=static_count=fallback_count=0
 for p in PLAN['posts']:
-    if p['seriesKey'] in ('meme1','meme2'): meme(p)
-for p in PLAN['posts']:
-    if p['day']!=1: continue
-    if p.get('slides'): carousel(p)
-    else: fallback_card(p)
+    if p.get('slides'): continue
+    if p['seriesKey'] in ('meme1','meme2'):
+        meme(p); meme_count+=1
+    elif p['format']=='Relatable static':
+        static_card(p); static_count+=1
+    else:
+        fallback_card(p); fallback_count+=1
+
+story_count=0
 for s in PLAN['stories']:
-    if s['day'] <= 7:
-        for i in range(3): story_frame(s, i)
-video_guides(); manifest()
-count=lambda folder:len(list(folder.glob('*.png')))
-print(f'Rendered {count(series_dir)} series covers, {count(meme_dir)} scene memes, {count(day_dir)} launch-day cards, {len(list(story_dir.glob("*.jpg")))} story frames (week 1) and video guides.')
+    for i in range(3): story_frame(s,i)
+    story_count+=1
+
+video_guides()
+rows=manifest(carousel_posts,story_count,pdf_posts)
+readme(len(carousel_posts),story_count,fallback_count,static_count,len(pdf_posts))
+print(f'Rendered {len(carousel_posts)} carousels ({len(carousel_posts)*5} slides, {len(pdf_posts)} PDFs), {meme_count} memes, {static_count} statics, {fallback_count} video posters, {story_count} stories ({story_count*3} frames), 11 series covers.')
+print(f'Manifest: {rows} rows -> marketing/assets/ASSET_MANIFEST.csv')

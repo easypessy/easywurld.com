@@ -119,6 +119,7 @@ for (const p of plan.posts) {
     if (p.meme) {
       assert(/jpg$/.test(p.asset), 'meme asset should be a JPEG');
       assert(existsSync(resolve(root,'marketing/assets/meme-scenes',p.meme.image)), 'meme scene plate missing '+p.meme.image);
+      assert(/\.jpg$/.test(p.meme.image), 'scene plates are JPEG');
       assert(existsSync(resolve(root,'marketing/assets/memes',p.id+'.jpg')), 'rendered meme missing '+p.id);
     }
     if (p.demoPath) { assert(existsSync(resolve(root,'client/public'+p.demoPath)), 'demo missing '+p.demoPath); assert(/concept|sample/i.test(p.caption), 'demo caption missing sample label'); }
@@ -303,18 +304,32 @@ check(() => {
     'marketing/assets/series/01-if-i-ran-this-account.png',
     'marketing/assets/memes/EW-D01-S05.jpg',
     'marketing/assets/memes/EW-D01-S08.jpg',
-    'marketing/assets/meme-scenes/scene-desk-phone.png',
+    'marketing/assets/meme-scenes/scene-desk-phone.jpg',
+    'marketing/assets/avatar/operator-hero.jpg',
+    'marketing/assets/avatar/operator-desk.jpg',
+    'marketing/assets/carousels/EW-D01-S01_slide-1.jpg',
+    'marketing/assets/carousels/EW-D01-S01_slide-5.jpg',
+    'marketing/assets/carousels/EW-D01-S01_carousel.pdf',
+    'marketing/assets/carousels/EW-D29-S01_carousel.pdf',
     'marketing/assets/stories/EW-D01-STA_frame-1.jpg',
-    'marketing/assets/stories/EW-D07-STB_frame-3.jpg',
-    'marketing/assets/avatar/operator-hero.png',
-    'marketing/assets/launch-day/EW-D01-S01_slide-1.png',
-    'marketing/assets/launch-day/EW-D01-S01_carousel.zip',
-    'marketing/assets/launch-day/EW-D01-S06_slide-5.png',
-    'marketing/assets/launch-day/EW-D01-S10_slide-5.png',
+    'marketing/assets/stories/EW-D30-STB_frame-3.jpg',
+    'marketing/assets/fallbacks/EW-D01-S02.jpg',
+    'marketing/assets/static/EW-D02-S10.jpg',
+    'marketing/assets/ASSET_MANIFEST.csv',
     'marketing/assets/video/video-overlay-template.png',
     'marketing/assets/video/video-safe-area-guide.png',
   ];
   for (const f of required) assert(existsSync(resolve(root,f)), 'starter asset missing '+f);
+  // every carousel and every story must be rendered for all 30 days
+  for (const p of plan.posts.filter(p=>p.slides)) {
+    assert(existsSync(resolve(root,`marketing/assets/carousels/${p.id}_slide-5.jpg`)), 'carousel missing '+p.id);
+  }
+  for (const s of plan.stories) assert(existsSync(resolve(root,`marketing/assets/stories/${s.id}_frame-3.jpg`)), 'story frame missing '+s.id);
+  for (const p of plan.posts.filter(p=>p.format==='Relatable static'&&!p.seriesKey.startsWith('meme'))) {
+    assert(existsSync(resolve(root,`marketing/assets/static/${p.id}.jpg`)), 'static missing '+p.id);
+  }
+  const manifest=read('marketing/assets/ASSET_MANIFEST.csv').split('\n').filter(Boolean);
+  assert(manifest.length >= 417, 'asset manifest should cover every item');
   assert(existsSync(resolve(here,'CONTENT_PLAN.pdf')), 'PDF missing');
   assert(read('marketing/build-plan.mjs').includes("'series-plan.json'"));
 }, 'Starter assets and PDF');

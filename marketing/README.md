@@ -18,6 +18,7 @@
 9. **[TREND_VERIFICATION.csv](./TREND_VERIFICATION.csv)** — the 30 trend holds and their verification fields.
 10. **[MEASUREMENT.csv](./MEASUREMENT.csv)** — 1,196 blank placement rows.
 11. **[../launch-content/social-command/EASYWURLD_POST_COMMANDER.html](../launch-content/social-command/EASYWURLD_POST_COMMANDER.html)** — offline Series Studio for calendar, briefs, per-platform status, QA, notes and CSV export.
+12. **[SCHEDULING_RUNBOOK.md](./SCHEDULING_RUNBOOK.md)** — the order to schedule the month in, given the platform scheduling windows.
 
 ## What is included
 
@@ -27,7 +28,7 @@
 - **60 stories** with three frames each, sticker notes and per-platform times.
 - **26 LinkedIn posts** siphoned from the same work, rewritten for reading.
 - **1,196 platform placements** with captions, times, formats and independent Draft/QA fields.
-- **60 scene-led memes** (photograph first, small caption second), 11 series covers, 27 Monday fallback/carousel PNGs, 4 carousel ZIPs and **42 pre-rendered story frames** for week one.
+- **The full month of graphics:** 605 carousel slides (121 carousels), 5 LinkedIn document PDFs, 60 scene-led memes, 180 story frames, 8 intro statics, 141 video posters, 11 series covers and the Operator plates. `assets/ASSET_MANIFEST.csv` maps every item to its file.
 - **30 dated trend teardowns** from the October 2026 research, each held until a current example and rights check are logged.
 - **60 offer posts:** one pack per day, two angles, real contents, ₦5,000 price and clear DIY boundaries.
 - **30 copywriting breakdowns** with attribution and original examples.
