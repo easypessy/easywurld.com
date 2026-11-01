@@ -1,30 +1,33 @@
-# Easywurld — 10-a-day series content system
+# Easywurld — 11-a-day series content system (with stories and LinkedIn)
 
 **Active campaign:** Monday 2 November–Tuesday 1 December 2026
-**Volume:** 10 core posts/day · 30 placements/day · 300 core posts · 900 platform placements
+**Volume:** 11 posts + 2 stories/day · 39 placements/day · 330 content posts · 60 stories · 26 LinkedIn posts · 1,196 platform placements
 **Platforms:** TikTok, Instagram and Facebook
 **Timezone:** Africa/Lagos (WAT, UTC+1)
 
 ## Start here
 
-1. **[STRATEGY.md](./STRATEGY.md)** — why the idea works, the 10 series, formats, platform adaptation, scheduling and measurement.
+1. **[STRATEGY.md](./STRATEGY.md)** — why the idea works, the 11 series, the two stories, the LinkedIn pulls, formats, scheduling and measurement.
 2. **[SERIES_PLAYBOOK.md](./SERIES_PLAYBOOK.md)** — exact rules for each series, offer rotation, trend gate and weekly batches.
-3. **[CONTENT_PLAN.pdf](./CONTENT_PLAN.pdf)** — readable strategy, dated run and all 300 briefs.
+3. **[CONTENT_PLAN.pdf](./CONTENT_PLAN.pdf)** — readable strategy, dated run and every brief.
 4. **[calendar/30-day-calendar.md](./calendar/30-day-calendar.md)** — editable full calendar.
-5. **[calendar/content-calendar.csv](./calendar/content-calendar.csv)** — 900 placements, all starting Draft.
+5. **[calendar/content-calendar.csv](./calendar/content-calendar.csv)** — 1,196 placements, all starting Draft.
 6. **[PRODUCTION.md](./PRODUCTION.md)** — avatar, editing, trend verification, QA and scheduling.
 7. **[brand-prompt.md](./brand-prompt.md)** — master brand and AI production prompts.
 8. **[SOURCES.md](./SOURCES.md)** — platform, trend and copywriting references.
 9. **[TREND_VERIFICATION.csv](./TREND_VERIFICATION.csv)** — the 30 trend holds and their verification fields.
-10. **[MEASUREMENT.csv](./MEASUREMENT.csv)** — 900 blank placement rows.
+10. **[MEASUREMENT.csv](./MEASUREMENT.csv)** — 1,196 blank placement rows.
 11. **[../launch-content/social-command/EASYWURLD_POST_COMMANDER.html](../launch-content/social-command/EASYWURLD_POST_COMMANDER.html)** — offline Series Studio for calendar, briefs, per-platform status, QA, notes and CSV export.
 
 ## What is included
 
-- **10 daily series:** niche plan, myth court, trend desk, AI build, owner meme, offer A, copy move, industry meme, offer B, Meet Easywurld.
-- **300 core posts** with hooks, scripts/slides/meme copy, CTAs, visuals, editing instructions and filled prompts.
-- **900 platform placements** with three captions, times, formats and independent Draft/QA fields.
-- **60 original memes**, 10 series covers, 26 Monday fallback/carousel PNGs and 4 carousel ZIPs.
+- **11 daily series:** niche plan, myth court, trend desk, AI build, owner meme, offer A, copy move, industry meme, offer B, Meet Easywurld, One Last Thought (the faceless Operator at 22:00).
+- **A psychology layer:** every post is tagged with one persuasion principle and its guardrail ([PSYCHOLOGY_PLAYBOOK.md](./PSYCHOLOGY_PLAYBOOK.md)).
+- **330 content posts** with hooks, scripts/slides/meme copy, CTAs, visuals, editing instructions and filled prompts.
+- **60 stories** with three frames each, sticker notes and per-platform times.
+- **26 LinkedIn posts** siphoned from the same work, rewritten for reading.
+- **1,196 platform placements** with captions, times, formats and independent Draft/QA fields.
+- **60 scene-led memes** (photograph first, small caption second), 11 series covers, 27 Monday fallback/carousel PNGs, 4 carousel ZIPs and **42 pre-rendered story frames** for week one.
 - **30 dated trend teardowns** from the October 2026 research, each held until a current example and rights check are logged.
 - **60 offer posts:** one pack per day, two angles, real contents, ₦5,000 price and clear DIY boundaries.
 - **30 copywriting breakdowns** with attribution and original examples.

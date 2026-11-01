@@ -1,7 +1,7 @@
 # Easywurld series playbook
 
 **Active campaign:** 2 November–1 December 2026
-**Cadence:** 10 core posts per day, adapted to TikTok, Instagram and Facebook = 30 placements per day.
+**Cadence:** 11 content posts + 2 stories per day, adapted to TikTok, Instagram and Facebook = 39 placements per day, plus 26 LinkedIn posts across the month.
 
 This playbook turns the strategy into repeatable production rules. The canonical editorial source is `marketing/series-plan.json`. The expanded machine-readable plan is `marketing/content-plan.json`.
 
@@ -19,8 +19,13 @@ This playbook turns the strategy into repeatable production rules. The canonical
 | 8 | 17:30 | Meme: marketing / AI / clients | Original static | Industry humour |
 | 9 | 19:00 | Offer Spotlight B | AI talking head | Objection / limitation |
 | 10 | 20:30 | Meet Easywurld | Rotating | New introduction angle/format |
+| 11 | 22:00 | One Last Thought | AI talking head (faceless Operator) | One calm, certain line to close the day |
 
 Platform offsets: TikTok +0, Instagram +10, Facebook +20 minutes. These are test times, not proven best times.
+
+**Stories:** A at 12:30 (poll/quiz, 3 frames) and B at 21:00 (behind the desk, 3 frames). Instagram at the slot time, Facebook +5, TikTok +10.
+
+**LinkedIn:** six pulled posts a week at 09:00 — Monday document/carousel write-up, Tuesday teach, Wednesday show, Thursday trust, Friday native video, Saturday offer lesson.
 
 ## 2. Series rules
 
@@ -95,6 +100,33 @@ Reference points: Ogilvy on research and headlines; Schwartz on existing desire 
 - Do not invent team size, office, clients or results.
 - Do not use the fictional demo founder as the owner.
 
+### One Last Thought (22:00, the Operator)
+
+- One flat sentence, one turn, one line worth repeating, one ask. 18–24 seconds.
+- No greeting, no logo at the open, no shouting, no urgency. The face is never visible.
+- Same voice, same preset, same frame every night. The repetition is the brand.
+- Never invent a story about the owner. Lines about the work are safe; lines about a lived event need confirmation.
+- Full persona and scripts: [AVATAR_OPERATOR.md](./AVATAR_OPERATOR.md).
+
+### Story A — Poll / quiz (12:30)
+
+- Frame 1: the question. Frame 2: two options. Frame 3: the answer plus one sentence of reasoning.
+- One tap only. No link on a poll story. The point is a signal and a habit, not a sale.
+- Never write a question whose answer shames the audience.
+
+### Story B — Behind the desk (21:00)
+
+- Frame 1: the desk scene. Frame 2: tomorrow's 07:00 hook. Frame 3: link sticker to the site or the lead post.
+- It teases tomorrow's work; it never sells directly.
+- If tomorrow's post is a held Trend Desk, do not tease a live-trend claim.
+
+### LinkedIn pulls
+
+- Six a week, siphoned from work that already exists. Never paste a TikTok caption.
+- First line carries the whole hook. Paragraphs of one or two lines. Two tags maximum. Link in the first comment.
+- Monday's document post and Friday's video are the only heavy assets; the rest are text.
+- Thursday and Friday are the reading days; Sunday stays quiet.
+
 ## 3. Offer rotation
 
 | Day | Keyword | Pack |
@@ -139,7 +171,7 @@ Each week produces 70 core posts and 210 platform placements.
 Suggested weekly timing:
 
 - **Sunday:** verify trends, approve scripts, batch record/edit, design statics.
-- **Daily:** assemble the 10 core posts, adapt captions, QA, schedule only approved assets.
+- **Daily:** assemble the 11 posts and 2 stories, adapt captions, QA, schedule only approved assets.
 - **Saturday/Sunday:** reply, review series metrics, prepare next batch.
 
 This is a heavy cadence. Use templates, batch generation and a shared asset library. If a slot fails QA, hold it rather than publishing unreviewed AI. Do not stack catch-up posts into a spam burst.

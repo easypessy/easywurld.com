@@ -1,8 +1,8 @@
-# Produce, edit and schedule the 10-a-day plan
+# Produce, edit and schedule the 11-post, 2-story plan
 
 **Campaign:** 2 November–1 December 2026
-**Volume:** 300 core posts, 900 platform placements
-**Cadence:** 10 core posts/day × TikTok, Instagram and Facebook
+**Volume:** 330 content posts, 60 stories, 26 LinkedIn posts, 1,196 platform placements
+**Cadence:** 11 posts + 2 stories/day × TikTok, Instagram and Facebook
 **Canonical editorial source:** `marketing/series-plan.json`
 
 The generated `content-plan.json`, calendar, CSV, briefs, PDF, app data and starter assets all come from the series source. Edit the source, then rebuild.
@@ -12,23 +12,24 @@ The generated `content-plan.json`, calendar, CSV, briefs, PDF, app data and star
 1. Read [STRATEGY.md](./STRATEGY.md) and [SERIES_PLAYBOOK.md](./SERIES_PLAYBOOK.md).
 2. Confirm the public handles, website destination, WhatsApp number and offer fulfilment.
 3. Test the profile → link → WhatsApp journey from a logged-out browser.
-4. Supply an approved owner likeness/voice **or** use the non-avatar fallbacks. No verified owner photo/CV was found in the accessible repos. Do not use the fictional demo founder.
+4. Lock the anonymous Operator persona (no real likeness needed) and approve one voice preset: [AVATAR_OPERATOR.md](./AVATAR_OPERATOR.md).
 5. Verify the launch-week Trend Desk candidates and complete the log.
 6. Approve the first seven days of scripts and the daily offers.
-7. Produce the first week: 70 core posts, 210 placements.
+7. Produce the first week: 77 content posts, 14 stories, 6 LinkedIn posts, 273 placements.
 8. Schedule only approved placements. Mark Scheduled only after the platform confirms.
 
-This repository contains drafts, prompts, planning data and starter graphics. It does **not** contain finished talking-head videos, a cloned voice, live analytics or a social scheduling connection.
+This repository contains drafts, prompts, planning data, scene plates, voice samples and starter graphics. It does **not** contain finished talking-head videos, live analytics or a social scheduling connection.
 
 ## 2. Production reality
 
 A full week is not 10 posts. It is:
 
-- **70 core posts:** seven of each series.
-- **210 platform placements:** 70 × TikTok, Instagram and Facebook.
-- **30 placements per day:** 10 at each series time, plus platform offsets.
+- **77 content posts:** seven of each of the eleven series.
+- **14 stories:** seven midday polls, seven evening desk teasers.
+- **6 LinkedIn posts:** siphoned, written last from the finished copy.
+- **273 platform placements:** 77 × 3, plus 14 × 3, plus 6.
 
-The production burden is real. A planning estimate is **35–60 focused team hours per week** once templates, avatar, voice and a repeatable QA process exist; the first week will take longer. This is not a promise. If the team cannot produce safe work at this volume, hold weak slots instead of publishing unreviewed AI or stacking catch-up posts.
+The production burden is real. A planning estimate is **38–65 focused team hours per week** once templates, avatar, voice and a repeatable QA process exist; the first week will take longer. This is not a promise. If the team cannot produce safe work at this volume, hold weak slots instead of publishing unreviewed AI or stacking catch-up posts.
 
 ## 3. Weekly batch by series
 
@@ -125,13 +126,30 @@ Before publishing, confirm:
 
 Hold both offer posts if the pack cannot be delivered.
 
-## 9. Memes
+## 9. Memes (scene-led, not text cards)
 
 - Two original memes per day; 60 total.
-- Joke about the work, not the customer.
-- No stolen templates, fake notifications or private screenshots.
-- Keep the caption useful. The image carries the recognition; the caption carries the lesson.
-- If a meme could embarrass a customer group, replace it.
+- **Base image first:** one of the eight scene plates in `marketing/assets/meme-scenes/` (empty plastic chairs, face-down phone, blank screen, crossed-out notebook, overflowing chats, market aisle, shop ledger, rain window). Never a giant text card.
+- **Small type:** two lines, 46px and 31px, in the lower third, over a soft dark shade. If the words are the whole image, it is a quote card, not a meme.
+- Rotate scene, zoom and crop bias so the month does not look like one template.
+- Joke about the work, not the customer. No stolen templates, fake notifications or private screenshots.
+- The caption under the post carries the lesson; the image carries the recognition.
+
+## 9b. Stories
+
+- Render three frames per story at 1080×1920 from `marketing/assets/stories/` (week 1 is pre-rendered).
+- Captions burned in — most stories are watched muted.
+- Frame 3 of a poll story carries the answer plus room for the sticker; frame 3 of a desk story carries the link sticker zone.
+- Post the same three frames to Instagram, then Facebook (+5), then TikTok (+10). Each expires in 24 hours; there is no archive to fix later, so QA before posting.
+- Never put a link sticker on a poll story, and never put a live-trend claim on a desk story.
+
+## 9c. LinkedIn pulls
+
+- Six a week at 09:00, siphoned from finished copy. See `content-plan.json → linkedin`.
+- Rewrite for reading: one-line paragraphs, no hashtag block, two tags maximum, link in the first comment.
+- Monday: upload the week's best carousel as a PDF document post (slide 1 is the mobile cover).
+- Friday: the week's strongest vertical video, re-framed to 4:5 with captions and the AI label.
+- Read every post aloud before publishing. If a sentence needs a second breath, split it.
 
 ## 10. Captions and platform adaptation
 
@@ -142,6 +160,7 @@ Each core post has three generated captions.
 | TikTok | Short, native, vertical. Spoken hook. Captions. One CTA. Check commercial audio and AI setting. |
 | Instagram | More structured. Carousel or Reel. Check crop, cover and AI setting. |
 | Facebook | Conversational. Native text/video/photo album. Do not paste a TikTok hashtag block. |
+| LinkedIn | Rewritten, not pasted. Short paragraphs, two tags maximum, link in the first comment. |
 
 One idea can travel. The file, caption, crop, audio rights and disclosure still need checking per platform.
 
@@ -162,7 +181,7 @@ Meta Business Suite can plan Facebook and Instagram posts from one calendar. Fea
 - TikTok at the series time.
 - Instagram +10 minutes.
 - Facebook +20 minutes.
-- 10 core posts/day, 30 placements/day.
+- 11 content posts + 2 stories/day, 39 placements/day, plus 6 LinkedIn posts a week.
 
 These are test times, not proven best times.
 

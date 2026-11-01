@@ -4,7 +4,7 @@
 
 ## Active commitment
 
-**10 core posts a day, every day, 2 November–1 December 2026**, adapted to TikTok, Instagram and Facebook. That is **30 placements a day**, **300 core posts** and **900 placements** across 30 days.
+**11 posts and 2 stories a day, every day, 2 November–1 December 2026**, adapted to TikTok, Instagram and Facebook, plus six LinkedIn posts a week. That is **39 placements a day**, **330 content posts**, **60 stories**, **26 LinkedIn posts** and **1,196 placements** across 30 days.
 
 This replaces the reduced 22-post plan. The owner wants the high-volume series-led channel, but the volume works only if every slot has a distinct job and QA is real.
 
@@ -22,8 +22,22 @@ This replaces the reduced 22-post plan. The owner wants the high-volume series-l
 | 8 | 17:30 | Meme: marketing / AI / clients | Original static |
 | 9 | 19:00 | Offer Spotlight B | AI talking head |
 | 10 | 20:30 | Meet Easywurld | Rotating |
+| 11 | 22:00 | One Last Thought (the Operator) | Faceless AI talking head |
 
 Platform offsets: Instagram +10 minutes, Facebook +20 minutes. These are starting test times, not proven best times.
+
+## The two stories
+
+| Slot | Time | Type | Job |
+|---|---|---|---|
+| A | 12:30 | Poll or quiz | One tap; answer on frame 3; never carries a link |
+| B | 21:00 | Behind the desk | The Operator desk → tomorrow's 07:00 hook → link sticker |
+
+Instagram at the slot time, Facebook +5, TikTok +10. Three frames, 10–18 seconds, captions burned in, 24-hour expiry.
+
+## LinkedIn
+
+Six pulls a week at 09:00: Monday a document/carousel write-up, Tuesday a teach post, Wednesday a show post, Thursday a trust post, Friday the week's best vertical video, Saturday an offer lesson. Rewritten for reading — never pasted — with two tags maximum and the link in the first comment.
 
 ## Offer rotation
 

@@ -1,8 +1,8 @@
 # Easywurld — master brand and AI production prompt
 
-**Active plan:** 10 core posts/day × 3 platforms, Monday 2 November–Tuesday 1 December 2026.
+**Active plan:** 11 posts + 2 stories/day × 3 platforms, plus 6 weekly LinkedIn pulls, Monday 2 November–Tuesday 1 December 2026.
 **Source:** [STRATEGY.md](./STRATEGY.md), [SERIES_PLAYBOOK.md](./SERIES_PLAYBOOK.md), [PRODUCTION.md](./PRODUCTION.md).
-**Volume:** 300 core posts, 900 platform placements. Every placement starts Draft.
+**Volume:** 330 content posts, 60 stories, 26 LinkedIn posts, 1,196 platform placements. Every placement starts Draft.
 **Owner avatar:** the anonymous **Operator** persona — faceless founder, night-desk set, calm low voice. Persona, delivery card and scripts in [AVATAR_OPERATOR.md](./AVATAR_OPERATOR.md); art and voice samples in `assets/avatar/`. No real likeness is used. Never describe it as the owner’s face; always disclose as `AI presenter · Easywurld`. The fictional demo founder is never used.
 
 ## 1. Brand context
@@ -45,6 +45,7 @@
 | 8 | 17:30 | Meme: marketing / AI / clients | Original static |
 | 9 | 19:00 | Offer Spotlight B | AI talking head |
 | 10 | 20:30 | Meet Easywurld | Rotating |
+| 11 | 22:00 | One Last Thought (Operator) | AI talking head, faceless |
 
 Platform times: TikTok +0, Instagram +10 minutes, Facebook +20 minutes. These are test times.
 

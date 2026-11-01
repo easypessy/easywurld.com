@@ -4,17 +4,22 @@
 
 ## Active campaign
 
-Monday 2 November–Tuesday 1 December 2026. **300 core posts, 900 platform placements, 10 core posts a day on TikTok, Instagram and Facebook.**
+Monday 2 November–Tuesday 1 December 2026. **330 content posts, 60 stories, 26 LinkedIn posts and 1,196 platform placements — 11 posts and 2 stories a day on TikTok, Instagram and Facebook.**
 
 | Need | Repository file |
 |---|---|
 | Strategy | `marketing/STRATEGY.md` |
 | Series rules | `marketing/SERIES_PLAYBOOK.md` |
+| Psychology layer | `marketing/PSYCHOLOGY_PLAYBOOK.md` |
+| The Operator (AI presenter) | `marketing/AVATAR_OPERATOR.md` |
 | Readable full plan | `marketing/CONTENT_PLAN.pdf` |
 | Editable calendar | `marketing/calendar/30-day-calendar.md` |
 | Production/distribution sheet | `launch-content/social-command/content_calendar.csv` |
 | Offline Series Studio | `launch-content/social-command/EASYWURLD_POST_COMMANDER.html` |
-| Individual briefs | `marketing/briefs/EW-D01-S01.md` through `EW-D30-S10.md` |
+| Individual briefs | `marketing/briefs/` — 330 posts, 60 stories, 26 LinkedIn posts |
+| Story frames (week 1) | `marketing/assets/stories/` |
+| Meme scene plates | `marketing/assets/meme-scenes/` |
+| Operator plates and voice | `marketing/assets/avatar/` |
 | AI/master prompts | `marketing/brand-prompt.md` |
 | Editing and scheduling | `marketing/PRODUCTION.md` |
 | Source and attributions | `marketing/SOURCES.md` |

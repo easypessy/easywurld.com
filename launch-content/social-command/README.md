@@ -1,14 +1,14 @@
 # Easywurld Series Studio
 
 **Active campaign:** 2 November–1 December 2026
-**Volume:** 10 core posts/day × TikTok, Instagram and Facebook = 30 placements/day. 300 core posts and 900 placements in total.
+**Volume:** 11 posts + 2 stories/day × TikTok, Instagram and Facebook = 39 placements/day, plus 26 LinkedIn posts. 330 content posts, 60 stories and 1,196 placements in total.
 
 ## Open these
 
-1. `EASYWURLD_POST_COMMANDER.html` — offline Series Studio: strategy, daily calendar, 300 briefs, per-platform status/QA, notes, weekly batches and CSV exports.
-2. `content_calendar.csv` — 900 placement rows, every row starting Draft.
-3. `MONTH_POSTS.md` — the full calendar and all 300 briefs, identical to the marketing calendar.
-4. `MEME_BANK.md` — all 60 original memes with exact copy, captions and asset paths.
+1. `EASYWURLD_POST_COMMANDER.html` — offline Series Studio: strategy, daily calendar, stories, LinkedIn, 416 briefs, per-platform status/QA, notes, weekly batches and CSV exports.
+2. `content_calendar.csv` — 1,196 placement rows, every row starting Draft.
+3. `MONTH_POSTS.md` — the full calendar and every brief, identical to the marketing calendar.
+4. `MEME_BANK.md` — all 60 scene-led memes with scene plate, on-image copy, captions and asset paths.
 5. `POSTING_PLAN.md` — cadence, times, platform adaptation and scheduling rules.
 6. `EASYWURLD_DRIVE_INDEX.md` — repository file index; no claim that Google Drive has been synced.
 7. `CLAUDE_OFFERS_PROMPT.md` — existing offers-PDF prompt, retained unchanged.
@@ -20,29 +20,31 @@ Edit the source, then run `npm run content:build` and `npm run content:check`. D
 
 ## What the offline app does
 
-- Shows the 10 series and the rationale/risks of the 10-a-day plan.
-- Opens any of the 30 days, with 10 core slots and three platform placements per slot.
+- Shows the 11 series, the two story slots and the LinkedIn cadence.
+- Opens any of the 30 days, with 11 content slots plus 2 stories and three platform placements per item.
+- Has dedicated Stories and LinkedIn views.
 - Filters by day, series and platform.
-- Searches all 300 briefs.
+- Searches all 416 briefs.
 - Copies the core script, the selected platform caption, the prompt or the full placement brief.
 - Tracks status, six/seven QA checks and notes separately for each platform placement.
-- Exports all 900 placements or one week as CSV.
+- Exports all 1,196 placements, one week, the 330 posts, the 60 stories or the LinkedIn set as CSV.
 - Exports/imports a local progress backup.
 - Contains no social credentials, publishing API or automatic scheduler.
 
 ## Publishing shape
 
-- 10 core posts/day, starting 07:00 WAT and ending 20:30 WAT.
-- TikTok at the slot time; Instagram +10 minutes; Facebook +20 minutes.
+- 11 posts/day from 07:00 to 22:00 WAT, plus a 12:30 poll story and a 21:00 desk story.
+- TikTok at the slot time; Instagram +10 minutes; Facebook +20 minutes. Stories: Instagram at the slot time, Facebook +5, TikTok +10.
+- Six LinkedIn posts a week at 09:00, siphoned from the same work.
 - One ₦5,000 DIY pack featured per day, with two angles.
 - Trend Desk placements are held until the verification log is complete.
-- All 900 placements start Draft. The CSV is not an auto-publishing import.
+- All 1,196 placements start Draft. The CSV is not an auto-publishing import.
 
 See `../../marketing/PRODUCTION.md` for batch, editing, trend, QA and scheduling rules.
 
-## Avatar gate
+## The presenter
 
-No verified owner headshot or CV was found in the accessible repos. Do not animate the fictional `client/public/demo/img/founder-recording.jpg`. Supply the correct owner-approved source and permission before generating a personal avatar or voice. The meme, carousel, screen-demo and static fallbacks can proceed without it.
+The AI presenter is the anonymous **Operator** persona — faceless founder, night desk, locked voice. Persona, delivery card and scripts: `../../marketing/AVATAR_OPERATOR.md`. Scene plates and voice samples: `../../marketing/assets/avatar/`. No real likeness is used, so no photo release is needed; every clip carries `AI presenter · Easywurld`. Never animate the fictional `client/public/demo/img/founder-recording.jpg`.
 
 ## Honesty rules
 

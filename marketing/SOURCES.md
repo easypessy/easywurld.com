@@ -47,3 +47,22 @@ The series paraphrases principles and uses **original Easywurld examples**. It d
 - No claim that the plan has been scheduled or published.
 - No claim that all trends are current until the verification log is complete.
 - No claim that every AI output is accurate; human review is mandatory.
+
+## 11. Psychology layer references
+
+Cited by author and year; the applied rules are in [PSYCHOLOGY_PLAYBOOK.md](./PSYCHOLOGY_PLAYBOOK.md).
+
+- Daniel Kahneman — *Thinking, Fast and Slow* (2011): cognitive ease, and why readable claims feel truer.
+- Kahneman & Tversky — *Prospect Theory* (1979): loss aversion.
+- George Loewenstein — *The Psychology of Curiosity* (1994): the curiosity gap.
+- Chip & Dan Heath — *Made to Stick* (2007): specificity and concreteness.
+- Robert Cialdini — *Influence* (1984): social proof, reciprocity, authority, commitment and consistency.
+- Tversky & Kahneman — *Judgment under Uncertainty: Anchoring* (1974): anchoring.
+- Kahneman — *Objective Happiness / the experiencing self* (1999): the peak-end rule.
+- Robert Zajonc — *Mere Exposure* (1968): familiarity and liking.
+- Jonah Berger — *Contagious* (2013): identity and shareability.
+- Neil Rackham — *SPIN Selling* (1988): surfacing and relieving objections.
+
+## 12. The Operator persona
+
+Original creative direction for Easywurld, not a citation. The restraint and cold-open pacing are informed by the copywriting sources above and by *The Blacklist*'s Raymond Reddington as a delivery reference only — composure, not menace. The persona is fictional and faceless; it is never presented as the owner's face.

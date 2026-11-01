@@ -1,133 +1,440 @@
-/* Easywurld Series Studio. Offline planning only; no publishing API. */
+/* Easywurld Series Studio v5 — offline planning only; no publishing API. */
 var DATA = /*__DATA__*/ null;
-(function(){
-'use strict';
-const KEY='easywurld-series-v4';
-const VERSION=4;
-const DEFAULT_STATE={placements:{},coreNotes:{}};
-let state=load();
-let view='strategy';
-let selected='EW-D01-S01';
-let selectedPlatform='TikTok';
-let selectedDay=1;
-let seriesFilter='all';
-let platformFilter='all';
-let query='';
-let batchWeek=1;
-const content=document.getElementById('content');
-const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const post=id=>DATA.posts.find(p=>p.id===id);
-const placement=(postId,platform)=>DATA.placements.find(x=>x.postId===postId&&x.platform===platform)||post(postId).platforms[platform];
-const placementState=id=>state.placements[id]||(state.placements[id]={status:'Draft',checks:{},note:'',actualUrl:''});
-const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(state));}catch(e){toast('Browser storage unavailable. Export a backup.');}};
-function load(){try{const j=JSON.parse(localStorage.getItem(KEY)||'null');if(j&&j.version===VERSION&&j.campaign===DATA.startDate)return{placements:j.placements||{},coreNotes:j.coreNotes||{}};}catch(e){}return JSON.parse(JSON.stringify(DEFAULT_STATE));}
-function toast(text){const t=document.getElementById('toast');t.textContent=text;t.style.display='block';clearTimeout(t.timer);t.timer=setTimeout(()=>t.style.display='none',2800);}
-async function copy(text){try{if(!navigator.clipboard)throw Error();await navigator.clipboard.writeText(text);toast('Copied');}catch(e){document.getElementById('copyText').value=text;document.getElementById('copyDialog').showModal();document.getElementById('copyText').select();}}
-const body=p=>p.script||(p.slides||[]).map((s,i)=>'Slide '+(i+1)+': '+s).join('\n\n')||p.staticCopy||'';
-const dateLabel=iso=>new Date(iso+'T00:00:00Z').toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short',timeZone:'UTC'});
-const dayObj=n=>DATA.days[n-1];
-const statusOf=(postId,platform)=>placementState(placement(postId,platform).placementId).status;
-const platformDot=(postId,platform)=>{const s=statusOf(postId,platform);return '<span class="dot '+s.toLowerCase().replaceAll(' ','-')+'" title="'+esc(platform+': '+s)+'">'+esc(platform[0])+'</span>';};
-const badge=p=>'<span class="badge">'+esc(p.format)+'</span><span class="badge">'+esc(p.series)+'</span>'+(p.offerKeyword?'<span class="badge">'+esc(p.offerKeyword)+'</span>':'');
-const baseChecks=p=>[
- 'Facts, price, offer and sample labels checked',
- p.verification?'Trend verification logged, or live-trend wording removed':'No trend/source claim left unverified',
- 'Approved likeness/voice or non-avatar fallback',
- 'Captions, pronunciation, crop and AI disclosure checked',
- 'One CTA and destination tested on a phone',
- 'Human approval recorded before scheduling'
-];
-const checksFor=p=>p.offerKeyword&&p.seriesKey.startsWith('offer')?baseChecks(p).concat(['Current price, payment and fulfilment confirmed']):baseChecks(p);
-const checksOf=(postId,platform)=>{const ps=placementState(placement(postId,platform).placementId);return checksFor(post(postId)).map((_,i)=>!!ps.checks[i]);};
-const ready=(postId,platform)=>checksOf(postId,platform).filter(Boolean).length===checksFor(post(postId)).length;
-const allPlacementsOfDay=n=>DATA.posts.filter(p=>p.day===n).flatMap(p=>DATA.platforms.map(platform=>({p,platform})));
-function counts(){
- const totals={placements:0,qa:0,scheduled:0,published:0,draft:0};
- for(const pl of DATA.placements){const s=placementState(pl.placementId).status;totals.placements++;if(ready(pl.postId,pl.platform))totals.qa++;if(s==='Scheduled')totals.scheduled++;if(s==='Published'||s==='Reviewed')totals.published++;if(s==='Draft')totals.draft++;}
- return totals;
-}
-function render(){
- document.querySelectorAll('nav button').forEach(b=>{b.classList.toggle('active',b.dataset.view===view);b.setAttribute('aria-current',b.dataset.view===view?'page':'false');});
- if(view==='strategy')renderStrategy();
- if(view==='plan')renderPlan();
- if(view==='briefs')renderBriefs();
- if(view==='batches')renderBatches();
- if(view==='tools')renderTools();
-}
-function renderStrategy(){
- const c=counts();
- content.innerHTML='<p class="eyebrow" style="margin-top:28px">10 posts a day · 3 platforms · 10 series</p><h1>The idea is strong. The system is what makes 10 a day survivable.</h1><p class="muted">300 core posts across 30 days, adapted to TikTok, Instagram and Facebook. One idea becomes three platform placements. The series give people a reason to come back; the offer rotation stops every post becoming a sales pitch.</p><div class="stats"><div class="stat"><strong>10</strong> core posts per day</div><div class="stat"><strong>30</strong> placements per day</div><div class="stat"><strong>900</strong> total placements</div><div class="stat"><strong>'+c.qa+'/900</strong>placements fully QA-checked</div></div><div class="notice"><strong>This is a plan, not a live queue.</strong> Nothing is scheduled. Every placement starts Draft. Trend slots are held until verified. The owner avatar is blocked until a verified photo and explicit likeness/voice permission are supplied. Never use the fictional demo founder image.</div><h2>Why this structure works</h2><div class="grid"><div class="card"><span class="eyebrow">Recognition</span><h3>Four daily series</h3><p>Niche plans, myth tests, trend teardowns and AI workflows give the audience repeatable reasons to follow.</p></div><div class="card"><span class="eyebrow">Personality</span><h3>Two memes</h3><p>One owner-life joke and one industry joke make the account human without turning customers into the punchline.</p></div><div class="card"><span class="eyebrow">Revenue</span><h3>Two offer angles</h3><p>One pack per day: problem/contents first, then an objection or limitation. DIY is clearly separated from custom work.</p></div><div class="card"><span class="eyebrow">Authority</span><h3>Copy + introduction</h3><p>An attributed copywriting breakdown and a new Easywurld introduction angle close each day.</p></div></div><h2>The 10 daily slots</h2><div class="table-wrap"><table><thead><tr><th>Slot</th><th>Series</th><th>Time</th><th>Job</th><th>Format</th></tr></thead><tbody>'+DATA.series.map(s=>'<tr><td>'+s.slot+'</td><td><strong>'+esc(s.name)+'</strong></td><td>'+esc(s.time)+'</td><td>'+esc(s.objective)+'</td><td>'+esc(s.defaultFormat)+'</td></tr>').join('')+'</tbody></table></div><h2>The risk we are managing</h2><div class="card"><p><strong>Volume can become noise.</strong> Ten posts a day only works if each series has a distinct job, one offer is featured per day, trend claims are verified and AI is reviewed. Do not publish 10 versions of the same generic tip.</p><p><strong>Production load:</strong> 70 core posts and 210 placements per week. Batch by series, not by day. Hold a slot when QA fails rather than stacking a catch-up burst.</p><p><strong>Platform reality:</strong> check each account’s current scheduling limits. TikTok’s official scheduler announcement describes a 15-minute to 10-day window and says scheduled posts must be deleted and re-uploaded to edit. Meta Business Suite supports Facebook and Instagram planning, but limits vary. A CSV is not an auto-publisher.</p><p class="small muted">Review by series after seven days. Saves, watch time, profile visits and relevant enquiries matter more than raw views. No invented month-end results.</p></div><h2>What I recommend</h2><div class="card"><ol><li><strong>Keep the 10/day structure.</strong> It gives the account a recognisable engine.</li><li><strong>Launch trend slots as dated teardowns</strong> until a current example is logged. Never invent a live trend.</li><li><strong>Batch one series at a time.</strong> Seven niche plans, seven myths, seven trends, seven workflows, 14 memes, 14 offer posts, seven copy moves, seven intros.</li><li><strong>Use no-avatar fallbacks</strong> for the first week if the approved likeness is not ready. Do not delay the launch for an avatar.</li><li><strong>Track per placement.</strong> A post can be approved on TikTok but not yet on Facebook.</li></ol></div><div class="actions"><button class="btn" data-go="plan">Open day 1</button><button class="btn secondary" data-go="briefs">Read the first brief</button><button class="btn secondary" data-go="batches">See the weekly batch</button></div>';
-}
-function renderPlan(){
- const day=dayObj(selectedDay);const posts=DATA.posts.filter(p=>p.day===selectedDay&&(seriesFilter==='all'||p.seriesKey===seriesFilter));
- let html='<h1>Daily calendar</h1><p class="muted">Ten core posts, 30 platform placements. TikTok at the slot time, Instagram +10 minutes, Facebook +20 minutes. All rows start Draft.</p><div class="filters"><label>Day <select id="dayFilter">'+DATA.days.map(d=>'<option value="'+d.day+'" '+((d.day===selectedDay)?'selected':'')+'>Day '+d.day+' · '+esc(dateLabel(d.iso))+'</option>').join('')+'</select></label><label>Series <select id="seriesFilter"><option value="all">All series</option>'+DATA.series.map(s=>'<option value="'+esc(s.key)+'" '+(seriesFilter===s.key?'selected':'')+'>S'+s.slot+' · '+esc(s.name)+'</option>').join('')+'</select></label><label>Platform <select id="platformFilter"><option value="all">All platforms</option>'+DATA.platforms.map(p=>'<option '+(platformFilter===p?'selected':'')+'>'+p+'</option>').join('')+'</select></label></div><div class="dayhead"><div><span class="eyebrow">Day '+day.day+' · '+esc(day.weekday)+' '+esc(dateLabel(day.iso))+' · Offer '+esc(day.offerKeyword)+'</span><h2>'+posts.length+' core posts · '+posts.length*(platformFilter==='all'?3:1)+' visible placements</h2></div><div><button class="btn secondary" id="prevDay" '+(selectedDay===1?'disabled':'')+'>← Previous</button> <button class="btn secondary" id="nextDay" '+(selectedDay===30?'disabled':'')+'>Next →</button></div></div><div class="card">';
- for(const p of posts){html+='<div class="slotrow"><div class="slottime"><span class="eyebrow">S'+p.slot+'</span><strong>'+esc(p.time)+'</strong><br><span class="small muted">'+esc(p.series)+'</span></div><div class="slotmain"><button class="slotlink" data-post="'+p.id+'" data-platform="TikTok">'+esc(p.topic)+'</button><p class="small muted">'+esc(p.hook)+'</p><div>'+badge(p)+(p.verification?'<span class="badge hold">Trend hold</span>':'')+'</div></div><div class="slotplatforms">'+DATA.platforms.map(platform=>{if(platformFilter!=='all'&&platform!==platformFilter)return '';const pl=placement(p.id,platform);const st=placementState(pl.placementId).status;return '<button class="platbtn" data-post="'+p.id+'" data-platform="'+platform+'" title="'+esc(platform+' · '+pl.time+' · '+st)+'"><strong>'+esc(platform)+'</strong><span>'+esc(pl.time)+'</span><span class="statuspill '+st.toLowerCase().replaceAll(' ','-')+'">'+esc(st)+'</span></button>';}).join('')+'</div></div>';}
- content.innerHTML=html+'</div><p class="small muted">Status is tracked per platform. Click a platform to open its brief, caption and QA checks. A core post can be approved on one platform and still be Draft on another.</p>';
- document.getElementById('dayFilter').onchange=e=>{selectedDay=Number(e.target.value);renderPlan();};
- document.getElementById('seriesFilter').onchange=e=>{seriesFilter=e.target.value;renderPlan();};
- document.getElementById('platformFilter').onchange=e=>{platformFilter=e.target.value;renderPlan();};
- document.getElementById('prevDay').onclick=()=>{if(selectedDay>1){selectedDay--;renderPlan();}};
- document.getElementById('nextDay').onclick=()=>{if(selectedDay<30){selectedDay++;renderPlan();}};
-}
-function renderBriefs(){
- let p=post(selected)||DATA.posts[0];const pl=placement(p.id,selectedPlatform);const ps=placementState(pl.placementId);const checks=checksFor(p);const c=checksOf(p.id,selectedPlatform);const readyCount=c.filter(Boolean).length;
- let html='<h1>Post briefs</h1><div class="filters"><label>Post <select id="postSelect">'+DATA.posts.map(x=>'<option value="'+x.id+'" '+((x.id===p.id)?'selected':'')+'>'+x.id+' · '+esc(x.topic)+'</option>').join('')+'</select></label><label>Search <input id="search" value="'+esc(query)+'" placeholder="Niche, myth, expert, offer, AI workflow"></label></div>';
- if(query){const q=query.toLowerCase();const matches=DATA.posts.filter(x=>[x.id,x.topic,x.hook,x.series,x.offerKeyword,x.seriesKey,x.cta].join(' ').toLowerCase().includes(q)).slice(0,80);html+='<div class="card"><strong>'+matches.length+(matches.length===80?'+':'')+' matching briefs</strong><div class="searchlist">'+matches.map(x=>'<button class="btn secondary" data-post="'+x.id+'" data-platform="'+selectedPlatform+'">'+x.id+' · '+esc(x.topic)+'</button>').join('')+'</div></div>';}
- html+='<article class="card"><div class="card-head"><div><span class="eyebrow">'+p.id+' · '+esc(dateLabel(p.date))+' · S'+p.slot+' · '+esc(p.time)+' WAT core · '+esc(p.series)+'</span><h2>'+esc(p.topic)+'</h2>'+badge(p)+'</div><label class="small">Placement status<br><select id="statusSelect">'+['Draft','Script approved','Asset produced','QA approved','Scheduled','Published','Reviewed'].map(s=>'<option '+(s===ps.status?'selected':'')+'>'+s+'</option>').join('')+'</select></label></div><div class="platformtabs">'+DATA.platforms.map(platform=>'<button class="chip '+(platform===selectedPlatform?'active':'')+'" data-platform-tab="'+platform+'">'+platform+' · '+esc(statusOf(p.id,platform))+'</button>').join('')+'</div><p class="hook">“'+esc(p.hook)+'”</p><p><strong>Format:</strong> '+esc(pl.format)+' · <strong>Placement time:</strong> '+esc(pl.time)+' WAT · <strong>Single CTA:</strong> '+esc(p.cta)+'</p><p><strong>Objective:</strong> '+esc(p.objective)+'</p>'+(p.offerKeyword?'<div class="notice"><strong>Daily offer:</strong> '+esc(p.offerName)+' · ₦5,000 DIY. Confirm price, contents, payment and fulfilment before scheduling.</div>':'')+(p.verification?'<div class="notice warn"><strong>Trend gate:</strong> '+esc(p.verification)+'<br><a href="'+esc(p.sourceUrl)+'" target="_blank" rel="noopener">Dated source: '+esc(p.sourceUrl)+'</a></div>':'')+'<div class="notice">'+(p.aiDisclosure?'<strong>AI disclosure required:</strong> '+(p.format==='Screen demo'?'AI voice · Easywurld':'AI presenter · Easywurld')+'. Enable the platform AI setting and keep the label visible.':'No realistic synthetic person/voice planned. Reassess if the production method changes.')+'<br>Expected asset: <code>assets/'+esc(p.id)+'/'+esc(p.asset)+'</code>. Production target, not a claim that the file exists.</div><div class="block"><h4>'+(p.script?'Exact script':p.slides?'Exact slide copy':'Exact image copy')+'</h4><p>'+esc(body(p))+'</p></div>';
- if(p.beats)html+='<div class="block"><h4>Shot / edit order</h4><ul>'+p.beats.map(b=>'<li>'+esc(b)+'</li>').join('')+'</ul></div>';
- html+='<div class="block"><h4>'+esc(selectedPlatform)+' caption · '+esc(pl.time)+' WAT</h4><p>'+esc(pl.caption)+'</p></div><div class="actions"><button class="btn" data-copy="script" data-id="'+p.id+'">Copy script / slides</button><button class="btn secondary" data-copy="platform-caption" data-id="'+p.id+'">Copy '+esc(selectedPlatform)+' caption</button><button class="btn secondary" data-copy="all" data-id="'+p.id+'">Copy full placement</button></div><div class="block"><h4>Visual and edit</h4><p>'+esc(p.visual)+'</p><p>'+esc(p.edit)+'</p></div><details><summary>Filled production prompt</summary><p class="prompt">'+esc(p.prompt)+'</p><button class="btn secondary" data-copy="prompt" data-id="'+p.id+'">Copy prompt</button></details><details><summary>Source and fallback</summary>'+(p.demoPath?'<p>Real source to record: <code>'+esc(p.demoPath)+'</code></p>':'')+(p.sourcePath?'<p>Reference: <code>'+esc(p.sourcePath)+'</code></p>':'')+(p.sourceUrl?'<p>Dated source: <a href="'+esc(p.sourceUrl)+'" target="_blank" rel="noopener">'+esc(p.sourceUrl)+'</a> ('+esc(p.sourceDate)+')</p>':'')+'<p>Fallback: '+esc(p.fallback)+'</p><p>Destination to verify: <a href="'+esc(DATA.site+p.route)+'" target="_blank" rel="noopener">'+esc(DATA.site+p.route)+'</a></p><p>WhatsApp: '+esc(DATA.whatsapp)+(p.keyword?' · keyword '+esc(p.keyword):'')+'</p></details><div class="block"><h4>Human QA · '+readyCount+'/'+checks.length+'</h4>'+checks.map((text,i)=>'<label class="check"><input type="checkbox" data-check="'+i+'" data-placement="'+esc(pl.placementId)+'" '+(c[i]?'checked':'')+'><span>'+esc(text)+'</span></label>').join('')+'</div><div class="block"><h4>Placement record</h4><label class="small">Actual post / queue URL (only after the platform confirms)<input data-url="'+esc(pl.placementId)+'" value="'+esc(ps.actualUrl||'')+'" placeholder="https://..." style="width:100%;margin-top:5px"></label><label class="small" style="display:block;margin-top:10px">Notes<textarea data-placement-note="'+esc(pl.placementId)+'" placeholder="Asset location, reviewer, pronunciation, trend verification ID. Do not store private customer data.">'+esc(ps.note||'')+'</textarea></label></div><p class="small muted">Changing status does not schedule a post. Mark Scheduled only after the platform confirms the queue entry. Each platform has its own status and QA record.</p></article>';
- content.innerHTML=html;
- document.getElementById('postSelect').onchange=e=>{selected=e.target.value;query='';renderBriefs();window.scrollTo(0,0);};
- document.getElementById('search').oninput=e=>{query=e.target.value;renderBriefs();const input=document.getElementById('search');input.focus();input.setSelectionRange(query.length,query.length);};
- document.getElementById('statusSelect').onchange=e=>{const value=e.target.value;if(['Scheduled','Published','Reviewed'].includes(value)&&!ready(p.id,selectedPlatform)&&!confirm('The QA checks are not all complete. Record this status anyway?')){e.target.value=ps.status;return;}ps.status=value;save();toast('Placement status saved locally — not a social scheduling action');renderBriefs();};
- content.querySelectorAll('[data-check]').forEach(el=>el.onchange=()=>{ps.checks[el.dataset.check]=el.checked;save();renderBriefs();});
- content.querySelectorAll('[data-placement-note]').forEach(el=>el.onchange=()=>{ps.note=el.value;save();toast('Placement note saved locally');});
- content.querySelectorAll('[data-url]').forEach(el=>el.onchange=()=>{ps.actualUrl=el.value.trim();save();toast('Post URL saved locally');});
-}
-function renderBatches(){
- const weeks=[{n:1,start:1,end:7,dates:'2–8 Nov'},{n:2,start:8,end:14,dates:'9–15 Nov'},{n:3,start:15,end:21,dates:'16–22 Nov'},{n:4,start:22,end:28,dates:'23–29 Nov'},{n:5,start:29,end:30,dates:'30 Nov–1 Dec'}];
- const w=weeks[batchWeek-1];const ps=DATA.posts.filter(p=>p.day>=w.start&&p.day<=w.end);const placements=DATA.placements.filter(pl=>pl.day>=w.start&&pl.day<=w.end);
- const qa=placements.filter(pl=>ready(pl.postId,pl.platform)).length;const scheduled=placements.filter(pl=>placementState(pl.placementId).status==='Scheduled').length;
- const bySeries=DATA.series.map(s=>({name:s.name,total:ps.filter(p=>p.seriesKey===s.key).length,done:placements.filter(pl=>pl.seriesKey===s.key&&ready(pl.postId,pl.platform)).length}));
- let html='<h1>Weekly batch</h1><p class="muted">Batch by series, then assemble by day. A full week is 70 core posts and 210 placements.</p><div class="filters"><label>Batch <select id="batchWeek">'+weeks.map(x=>'<option value="'+x.n+'" '+(x.n===batchWeek?'selected':'')+'>Batch '+x.n+' · '+x.dates+'</option>').join('')+'</select></label></div><div class="stats"><div class="stat"><strong>'+ps.length+'</strong>core posts</div><div class="stat"><strong>'+placements.length+'</strong>placements</div><div class="stat"><strong>'+qa+'</strong>fully QA-checked</div><div class="stat"><strong>'+scheduled+'</strong>marked Scheduled</div></div><div class="grid"><div class="card"><h3>Production order</h3><ol><li>Verify the week’s trend candidates and update the log.</li><li>Approve all 70 scripts and the offer price/fulfilment.</li><li>Record myth, offer-B and intro talking heads in one session.</li><li>Record the seven AI workflows and real demos.</li><li>Design 14 memes, seven niche carousels, seven offer-A and seven copy carousels.</li><li>Adapt 210 captions, QA each placement, schedule approved assets.</li></ol></div><div class="card"><h3>Weekly series progress</h3>'+bySeries.map(x=>'<div class="progressrow"><span>'+esc(x.name)+'</span><span>'+x.done+'/'+x.total+' checked</span></div>').join('')+'</div></div><div class="card"><h3>Week at a glance</h3><div class="table-wrap"><table><thead><tr><th>Day</th><th>Offer</th><th>Posts</th><th>QA-checked placements</th></tr></thead><tbody>'+DATA.days.filter(d=>d.day>=w.start&&d.day<=w.end).map(d=>{const dayPl=DATA.placements.filter(x=>x.day===d.day);return '<tr><td>'+d.day+' · '+esc(dateLabel(d.iso))+'</td><td>'+esc(d.offerKeyword)+'</td><td>10</td><td>'+dayPl.filter(x=>ready(x.postId,x.platform)).length+'/30</td></tr>';}).join('')+'</tbody></table></div></div><div class="actions"><button class="btn" id="exportWeek">Export this week’s placements CSV</button><button class="btn secondary" id="exportProgress">Export progress backup</button></div><p class="small muted">Exporting is local. It does not publish, schedule or upload anything.</p>';
- content.innerHTML=html;
- document.getElementById('batchWeek').onchange=e=>{batchWeek=Number(e.target.value);renderBatches();};
- document.getElementById('exportWeek').onclick=()=>exportCSV(placements,'easywurld-batch-'+batchWeek+'-placements.csv');
- document.getElementById('exportProgress').onclick=exportProgress;
-}
-function renderTools(){
- const c=counts();
- content.innerHTML='<h1>Exports and backup</h1><p class="muted">The studio stores progress in this browser only. Export a backup before changing devices or clearing site data.</p><div class="stats"><div class="stat"><strong>900</strong>placements</div><div class="stat"><strong>'+c.qa+'</strong>QA-checked</div><div class="stat"><strong>'+c.scheduled+'</strong>marked Scheduled</div><div class="stat"><strong>'+c.published+'</strong>published/reviewed</div></div><div class="grid"><div class="card"><h3>All placements CSV</h3><p>900 rows with platform copy, status, QA, notes and actual URLs. Use it as your production record.</p><button class="btn" id="exportAll">Export all placements</button></div><div class="card"><h3>Progress backup</h3><p>JSON backup of per-platform statuses, QA checks, notes and actual URLs. It contains no social credentials.</p><div class="actions"><button class="btn" id="exportProgress">Export backup</button><button class="btn secondary" id="importProgress">Import backup</button><input type="file" id="importFile" accept="application/json" class="hide"></div></div><div class="card"><h3>Print a day</h3><p>Use your browser’s print dialog to save a clean day view as PDF.</p><button class="btn secondary" id="printDay">Print current day</button></div><div class="card"><h3>Reset local progress</h3><p>This clears statuses, checks and notes in this browser. Export first if you need a record.</p><button class="btn danger" id="reset">Reset local progress</button></div></div><h2>Status rules</h2><div class="card"><p><strong>Draft → Script approved → Asset produced → QA approved → Scheduled → Published → Reviewed.</strong></p><p>A placement can only be marked Scheduled after the platform confirms the queue entry. Keep the actual post or queue URL. The CSV is not an auto-publishing import.</p><p>TikTok’s official scheduler announcement describes a 15-minute to 10-day window and says scheduled posts cannot be edited; delete and re-upload to change one. Check the limits inside your own account. Meta Business Suite supports Facebook and Instagram planning, but limits vary by account and surface.</p><p class="small muted">No social account is connected. No publishing API is used. No credentials are stored.</p></div>';
- document.getElementById('exportAll').onclick=()=>exportCSV(DATA.placements,'easywurld-all-900-placements.csv');
- document.getElementById('exportProgress').onclick=exportProgress;
- document.getElementById('importProgress').onclick=()=>document.getElementById('importFile').click();
- document.getElementById('importFile').onchange=e=>importProgress(e);
- document.getElementById('printDay').onclick=()=>{view='plan';render();setTimeout(()=>window.print(),100);};
- document.getElementById('reset').onclick=()=>{if(confirm('Reset all local statuses, QA checks and notes? This cannot be undone unless you exported a backup.')){state=JSON.parse(JSON.stringify(DEFAULT_STATE));save();renderTools();toast('Local progress reset');}};
-}
-function exportProgress(){
- const blob=new Blob([JSON.stringify({app:'easywurld-series-studio',version:VERSION,campaign:DATA.startDate,exportedAt:new Date().toISOString(),placements:state.placements,coreNotes:state.coreNotes},null,2)],{type:'application/json'});
- const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='easywurld-series-progress.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);toast('Progress exported');
-}
-function importProgress(e){const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{const j=JSON.parse(r.result);if(j.app!=='easywurld-series-studio'||j.version!==VERSION||j.campaign!==DATA.startDate)throw Error();if(!confirm('Replace local statuses, checks and notes with this backup?'))return;state={placements:j.placements||{},coreNotes:j.coreNotes||{}};save();render();toast('Progress imported');}catch(err){toast('Not a matching Series Studio backup');}};r.readAsText(f);}
-function exportCSV(rows,filename){
- const headers=['Placement ID','Post ID','Date','Day','Slot','Series','Platform','Time WAT','Platform format','Topic','Hook / first frame','Script / slide / image copy','Caption','Single CTA','Destination','Keyword','Daily offer','Dated source URL','Dated source date','Trend verification gate','AI disclosure','Expected asset','Status','QA checks complete','Actual post URL','Notes'];
- const data=rows.map(pl=>{const p=post(pl.postId);const ps=placementState(pl.placementId);const c=checksFor(p);return [pl.placementId,pl.postId,pl.date,pl.day,pl.slot,pl.series,pl.platform,pl.time,pl.format,pl.topic,pl.hook,body(p),pl.caption,pl.cta,DATA.site+p.route,p.keyword,p.offerKeyword,p.sourceUrl||'',p.sourceDate||'',p.verification||'',p.aiDisclosure?(p.format==='Screen demo'?'AI voice · Easywurld':'AI presenter · Easywurld'):'Not planned','assets/'+p.id+'/'+p.asset,ps.status,checksOf(p.id,pl.platform).filter(Boolean).length+'/'+c.length,ps.actualUrl||'',ps.note||'']});
- const cell=v=>'"'+String(v??'').replaceAll('"','""')+'"';
- const csv=[headers,...data].map(r=>r.map(cell).join(',')).join('\n')+'\n';
- const blob=new Blob([csv],{type:'text/csv;charset=utf-8'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=filename;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);toast('CSV exported locally');
-}
-function fullBrief(p,platform){
- const pl=placement(p.id,platform);const ps=placementState(pl.placementId);
- return [p.id+' · '+p.topic,dateLabel(p.date)+' · S'+p.slot+' · '+p.series,'PLATFORM: '+platform+' · '+pl.time+' WAT · '+pl.format,'OBJECTIVE: '+p.objective,'HOOK: '+p.hook,'SCRIPT / SLIDES:',body(p),'EDIT: '+(p.beats||[]).join('; '),'CAPTION:',pl.caption,'CTA: '+p.cta,'VISUAL: '+p.visual,p.edit,'PROMPT:',p.prompt,'DISCLOSURE: '+(p.aiDisclosure?(p.format==='Screen demo'?'AI voice · Easywurld':'AI presenter · Easywurld'):'Reassess for final method'),'SOURCE: '+(p.demoPath||p.sourcePath||p.sourceUrl||'not applicable'),'TREND GATE: '+(p.verification||'not a trend post'),'FALLBACK: '+p.fallback,'DESTINATION: '+DATA.site+p.route,'STATUS: '+ps.status,'ACTUAL URL: '+(ps.actualUrl||'')].join('\n\n');
-}
-document.addEventListener('click',e=>{
- const b=e.target.closest('button');if(!b)return;
- if(b.dataset.view){view=b.dataset.view;render();}
- if(b.dataset.go){view=b.dataset.go;render();}
- if(b.dataset.post){selected=b.dataset.post;if(b.dataset.platform)selectedPlatform=b.dataset.platform;query='';view='briefs';render();window.scrollTo(0,0);}
- if(b.dataset.platformTab){selectedPlatform=b.dataset.platformTab;renderBriefs();}
- if(b.dataset.copy){const p=post(b.dataset.id);const mode=b.dataset.copy;copy(mode==='script'?body(p):mode==='platform-caption'?placement(p.id,selectedPlatform).caption:mode==='prompt'?p.prompt:fullBrief(p,selectedPlatform));}
-});
-render();
+(function () {
+  'use strict';
+  var KEY = 'easywurld-series-v5';
+  var VERSION = 5;
+  var STATUSES = ['Draft', 'Script approved', 'Asset produced', 'QA approved', 'Scheduled', 'Published', 'Reviewed'];
+  var content = document.getElementById('content');
+
+  var state = load();
+  var view = 'strategy';
+  var selected = DATA.posts[0].id;
+  var selectedPlatform = 'TikTok';
+  var selectedDay = 1;
+  var seriesFilter = 'all';
+  var query = '';
+
+  var esc = function (s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  };
+  var nl = function (s) { return esc(s).replace(/\n/g, '<br>'); };
+
+  function load() {
+    try {
+      var j = JSON.parse(localStorage.getItem(KEY) || 'null');
+      if (j && j.version === VERSION && j.campaign === DATA.startDate) {
+        return { placements: j.placements || {}, notes: j.notes || {} };
+      }
+    } catch (e) {}
+    return { placements: {}, notes: {} };
+  }
+  function save() {
+    try { localStorage.setItem(KEY, JSON.stringify({ version: VERSION, campaign: DATA.startDate, placements: state.placements, notes: state.notes })); }
+    catch (e) { toast('Browser storage unavailable. Export a backup.'); }
+  }
+  function toast(text) {
+    var t = document.getElementById('toast');
+    t.textContent = text; t.style.display = 'block';
+    clearTimeout(t.timer); t.timer = setTimeout(function () { t.style.display = 'none'; }, 2800);
+  }
+  async function copy(text) {
+    try {
+      if (!navigator.clipboard) throw Error();
+      await navigator.clipboard.writeText(text); toast('Copied');
+    } catch (e) {
+      document.getElementById('copyText').value = text;
+      document.getElementById('copyDialog').showModal();
+      document.getElementById('copyText').select();
+    }
+  }
+
+  /* ---------------- data helpers ---------------- */
+  var post = function (id) { return DATA.posts.find(function (p) { return p.id === id; }); };
+  var story = function (id) { return DATA.stories.find(function (s) { return s.id === id; }); };
+  var linkedin = function (id) { return DATA.linkedin.find(function (l) { return l.id === id; }); };
+  var placementsOf = function (postId) { return DATA.placements.filter(function (x) { return x.postId === postId; }); };
+  var pstate = function (placementId) {
+    if (!state.placements[placementId]) state.placements[placementId] = { status: 'Draft', checks: {}, note: '', actualUrl: '' };
+    return state.placements[placementId];
+  };
+  var platformsFor = function (postId) {
+    var seen = [];
+    placementsOf(postId).forEach(function (x) { if (seen.indexOf(x.platform) < 0) seen.push(x.platform); });
+    return seen;
+  };
+  var placementOf = function (postId, platform) {
+    return DATA.placements.find(function (x) { return x.postId === postId && x.platform === platform; });
+  };
+  var dateLabel = function (iso) { return new Date(iso + 'T00:00:00Z').toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short', timeZone: 'UTC' }); };
+  var dayObj = function (n) { return DATA.days[n - 1]; };
+  var bodyOf = function (p) { return p.script || (p.slides || []).map(function (s, i) { return 'Slide ' + (i + 1) + ': ' + s; }).join('\n\n') || p.staticCopy || p.body || ''; };
+
+  function checksFor(kind, item) {
+    var base = [
+      'Facts, price, offer and sample labels checked',
+      item.verification ? 'Trend verification logged, or live-trend wording removed' : 'No trend/source claim left unverified',
+      'Disclosure or fallback confirmed for this asset',
+      'Captions, pronunciation and crop checked',
+      'One CTA and destination tested on a phone',
+      'Human approval recorded before scheduling'
+    ];
+    if (kind === 'story') base[3] = 'Frames, safe areas and sticker placement checked';
+    if (kind === 'linkedin') base[3] = 'Read aloud, paragraphs split, link in first comment';
+    if (item.offerKeyword) base.push('Current price, payment and fulfilment confirmed');
+    return base;
+  }
+  function checkState(placementId, item) {
+    pstate(placementId);
+    return checksFor(item.type === 'Story' ? 'story' : item.type === 'LinkedIn' ? 'linkedin' : 'content', item).map(function (_, i) {
+      return !!state.placements[placementId].checks[i];
+    });
+  }
+  function ready(placementId, item) {
+    return checkState(placementId, item).filter(Boolean).length === checksFor(item.type === 'Story' ? 'story' : item.type === 'LinkedIn' ? 'linkedin' : 'content', item).length;
+  }
+
+  function counts() {
+    var totals = { placements: 0, qa: 0, scheduled: 0, published: 0, draft: 0, posted: 0, total: DATA.placements.length };
+    DATA.placements.forEach(function (pl) {
+      var st = pstate(pl.placementId).status;
+      totals.placements++;
+      if (ready(pl.placementId, pl)) totals.qa++;
+      if (st === 'Scheduled') totals.scheduled++;
+      if (st === 'Published' || st === 'Reviewed') totals.published++;
+      if (st === 'Draft') totals.draft++;
+    });
+    totals.posted = totals.scheduled + totals.published;
+    return totals;
+  }
+
+  /* ---------------- views ---------------- */
+  function render() {
+    document.querySelectorAll('nav button').forEach(function (b) {
+      b.classList.toggle('active', b.dataset.view === view);
+      b.setAttribute('aria-current', b.dataset.view === view ? 'page' : 'false');
+    });
+    if (view === 'strategy') renderStrategy();
+    if (view === 'plan') renderPlan();
+    if (view === 'stories') renderStories();
+    if (view === 'linkedin') renderLinkedIn();
+    if (view === 'briefs') renderBriefs();
+    if (view === 'batches') renderBatches();
+    if (view === 'tools') renderTools();
+  }
+
+  function renderStrategy() {
+    var c = counts();
+    var seriesRows = DATA.series.map(function (s) {
+      var n = DATA.posts.filter(function (p) { return p.seriesKey === s.key; }).length;
+      return '<li><strong>' + esc(s.name) + '</strong> · ' + esc(s.time) + ' · ' + esc(s.defaultFormat) + ' · ' + n + ' posts<br><span class="muted small">' + esc(s.objective) + '</span></li>';
+    }).join('');
+    content.innerHTML =
+      '<p class="eyebrow" style="margin-top:28px">11 posts + 2 stories a day · 3 platforms · LinkedIn pulls</p>' +
+      '<h1>Thirty days, eleven slots, two stories, one voice.</h1>' +
+      '<p class="muted">' + DATA.counts.corePosts + ' core posts across 30 days on TikTok, Instagram and Facebook. ' + DATA.counts.stories +
+      ' stories. ' + DATA.counts.linkedin + ' LinkedIn pulls siphoned from the same work. ' + DATA.counts.placements +
+      ' platform placements in total. Every placement starts Draft.</p>' +
+      '<div class="stats"><div class="stat"><strong>' + DATA.counts.corePosts + '</strong>core posts</div>' +
+      '<div class="stat"><strong>' + DATA.counts.stories + '</strong>stories</div>' +
+      '<div class="stat"><strong>' + DATA.counts.linkedin + '</strong>LinkedIn</div>' +
+      '<div class="stat"><strong>' + DATA.counts.placements + '</strong> total placements</div>' +
+      '<div class="stat"><strong>' + c.qa + '</strong>fully checked</div>' +
+      '<div class="stat"><strong>' + c.posted + '</strong>scheduled or published</div></div>' +
+      '<div class="notice">Draft copy. Nothing here is scheduled or published. Trend slots stay HOLD until the verification log is complete. ' +
+      'The AI presenter is the anonymous Operator persona: never described as a real face, always disclosed.</div>' +
+      '<div class="card"><h2>The daily spine</h2><ul>' + seriesRows + '</ul>' +
+      '<p class="small muted">Platform offsets: TikTok at the slot time, Instagram +10 minutes, Facebook +20 minutes. Stories: Instagram 12:30 and 21:00, Facebook +5, TikTok +10.</p></div>' +
+      '<div class="card"><h2>Two story slots</h2>' + DATA.storiesMeta.slots.map(function (s) {
+        return '<p><strong>' + esc(s.time) + ' · ' + esc(s.type) + '</strong><br><span class="muted small">' + esc(s.objective) + '</span></p>';
+      }).join('') + '</div>' +
+      '<div class="card"><h2>LinkedIn</h2><p class="small">' + esc(DATA.linkedinMeta.cadence) + '</p><p class="small muted">' + DATA.linkedinMeta.rules.map(esc).join(' · ') + '</p></div>';
+  }
+
+  function statusPills(item, platform) {
+    var pl = placementOf(item.id, platform);
+    var st = pstate(pl.placementId).status;
+    return '<button class="platbtn" data-post="' + esc(item.id) + '" data-platform="' + esc(platform) + '">' +
+      '<strong>' + esc(platform) + '</strong><span class="small">' + esc(pl.time) + ' · ' + esc(pl.format || '') + '</span>' +
+      '<span class="statuspill status-' + st.toLowerCase().replace(/ /g, '-') + '">' + esc(st) + '</span></button>';
+  }
+
+  function slotRow(p) {
+    var plats = ['TikTok', 'Instagram', 'Facebook'];
+    return '<div class="slotrow"><div class="slottime"><span class="eyebrow">S' + p.slot + '</span><strong>' + esc(p.time) + '</strong>' +
+      '<div class="small muted">' + esc(p.series) + '</div></div><div class="slotmain">' +
+      '<button class="slotlink" data-post="' + esc(p.id) + '">' + esc(p.topic) + '</button>' +
+      '<p class="small muted">' + esc(p.format) + ' · ' + esc(p.cta) + (p.verification ? ' · <span class="badge hold">HOLD · trend gate</span>' : '') + '</p></div>' +
+      '<div class="slotplatforms">' + plats.map(function (x) { return statusPills(p, x); }).join('') + '</div></div>';
+  }
+
+  function storyRow(s) {
+    return '<div class="slotrow"><div class="slottime"><span class="eyebrow">' + esc(s.slot) + '</span><strong>' + esc(s.time) + '</strong>' +
+      '<div class="small muted">' + esc(s.series) + '</div></div><div class="slotmain">' +
+      '<button class="slotlink" data-post="' + esc(s.id) + '">' + esc(s.frames[0]) + '</button>' +
+      '<p class="small muted">' + esc(s.sticker) + ' · ' + esc(s.duration) + '</p></div>' +
+      '<div class="slotplatforms">' + ['Instagram', 'Facebook', 'TikTok'].map(function (x) { return statusPills(s, x); }).join('') + '</div></div>';
+  }
+
+  function renderPlan() {
+    var d = dayObj(selectedDay);
+    var dayPosts = DATA.posts.filter(function (p) { return p.day === selectedDay; });
+    var dayStories = DATA.stories.filter(function (s) { return s.day === selectedDay; });
+    var done = DATA.placements.filter(function (pl) { return pl.day === selectedDay && pstate(pl.placementId).status !== 'Draft'; }).length;
+    var total = DATA.placements.filter(function (pl) { return pl.day === selectedDay; }).length;
+    content.innerHTML =
+      '<div class="dayhead"><div><p class="eyebrow">Day ' + d.day + ' · ' + dateLabel(d.iso) + '</p>' +
+      '<h2>11 posts · 2 stories · ' + total + ' placements</h2></div>' +
+      '<div class="actions"><button class="btn secondary" id="prevDay">← Previous</button>' +
+      '<button class="btn secondary" id="nextDay">Next →</button>' +
+      '<button class="btn" id="copyDay">Copy this day</button></div></div>' +
+      '<p class="small muted">' + done + ' of ' + total + ' placements moved past Draft. Offer today: ' + esc(d.offerKeyword) + '.</p>' +
+      dayPosts.map(slotRow).join('') +
+      '<h3 style="margin-top:26px">Stories</h3>' + dayStories.map(storyRow).join('') +
+      '<div class="actions"><button class="btn secondary" data-view="stories">All stories →</button>' +
+      '<button class="btn secondary" data-view="briefs">Search briefs →</button></div>';
+    document.getElementById('prevDay').onclick = function () { selectedDay = Math.max(1, selectedDay - 1); render(); };
+    document.getElementById('nextDay').onclick = function () { selectedDay = Math.min(DATA.days.length, selectedDay + 1); render(); };
+    document.getElementById('copyDay').onclick = function () {
+      var lines = dayPosts.map(function (p) {
+        return p.time + ' S' + p.slot + ' — ' + p.topic + '\n' + p.cta;
+      }).concat(dayStories.map(function (s) { return s.time + ' STORY — ' + s.frames[0]; }));
+      copy('Day ' + d.day + ' · ' + d.iso + '\n\n' + lines.join('\n\n'));
+    };
+    bindRows();
+  }
+
+  function renderStories() {
+    var rows = DATA.days.map(function (d) {
+      var ss = DATA.stories.filter(function (s) { return s.day === d.day; });
+      return '<div class="card"><div class="card-head"><div><p class="eyebrow">Day ' + d.day + ' · ' + dateLabel(d.iso) + '</p>' +
+        '<h3>' + esc(ss[0].frames[0]) + '</h3></div><span class="badge">' + ss.length + ' stories</span></div>' +
+        ss.map(function (s) {
+          return '<div class="block"><h4>' + esc(s.time) + ' · ' + esc(s.series) + '</h4>' +
+            s.frames.map(function (f, i) { return '<p><strong>Frame ' + (i + 1) + '.</strong> ' + nl(f) + '</p>'; }).join('') +
+            '<p class="small muted">Sticker: ' + esc(s.sticker) + ' · CTA: ' + esc(s.cta) + '</p>' +
+            '<div class="slotplatforms">' + ['Instagram', 'Facebook', 'TikTok'].map(function (x) { return statusPills(s, x); }).join('') + '</div>' +
+            '<div class="actions"><button class="btn secondary" data-copy="' + esc(s.frames.join('\n\n')) + '">Copy frames</button></div></div>';
+        }).join('') + '</div>';
+    }).join('');
+    content.innerHTML = '<p class="eyebrow" style="margin-top:28px">Two stories a day · three platforms</p>' +
+      '<h1>' + DATA.counts.stories + ' stories, one habit.</h1>' +
+      '<p class="muted">12:30 is a one-tap poll. 21:00 is the Operator teasing tomorrow. Same asset on Instagram, Facebook and TikTok within the hour.</p>' +
+      DATA.storiesMeta.rules.map(function (r) { return '<div class="notice">' + esc(r) + '</div>'; }).join('') + rows;
+    bindRows();
+  }
+
+  function renderLinkedIn() {
+    var rows = DATA.linkedin.map(function (l) {
+      return '<div class="card"><div class="card-head"><div><p class="eyebrow">' + dateLabel(l.date) + ' · ' + esc(l.time) + ' · ' + esc(l.format) + '</p>' +
+        '<h3>' + esc(l.label) + '</h3></div><span class="badge">' + esc(l.sourcePostId) + '</span></div>' +
+        '<div class="block"><h4>Post copy</h4><p>' + nl(l.body) + '</p></div>' +
+        '<p class="small muted">' + esc(l.edit) + '</p>' +
+        '<div class="slotplatforms">' + statusPills(l, 'LinkedIn') + '</div>' +
+        '<div class="actions"><button class="btn secondary" data-copy="' + esc(l.body) + '">Copy post</button></div></div>';
+    }).join('');
+    content.innerHTML = '<p class="eyebrow" style="margin-top:28px">Siphoned, not duplicated</p>' +
+      '<h1>' + DATA.counts.linkedin + ' LinkedIn posts from work already made.</h1>' +
+      '<p class="muted">' + esc(DATA.linkedinMeta.cadence) + '</p>' +
+      DATA.linkedinMeta.rules.map(function (r) { return '<div class="notice">' + esc(r) + '</div>'; }).join('') + rows;
+    bindRows();
+  }
+
+  function detail(item) {
+    var plats = platformsFor(item.id);
+    var isStory = item.type === 'Story';
+    var isLI = item.type === 'LinkedIn';
+    var h = '<p class="eyebrow">' + esc(item.date) + ' · ' + esc(item.time) + ' WAT · ' + esc(item.id) + '</p>' +
+      '<h1>' + esc(item.topic || item.label || item.series) + '</h1>' +
+      '<p class="small muted">' + esc(item.series || '') + ' · ' + esc(item.format || '') + (item.psych ? ' · Psychology: ' + esc(item.psych.name) : '') + '</p>' +
+      '<div class="card"><div class="block"><h4>' + (isStory ? 'Frames' : isLI ? 'Post copy' : 'Exact copy') + '</h4><p>' + nl(isStory ? item.frames.join('\n\n') : isLI ? item.body : bodyOf(item)) + '</p></div>' +
+      '<div class="block"><h4>Single CTA</h4><p>' + esc(item.cta) + '</p></div>' +
+      (item.psych ? '<div class="block"><h4>Psychology move</h4><p>' + esc(item.psych.use) + '<br><span class="small muted">Guard: ' + esc(item.psych.guard) + '</span></p></div>' : '') +
+      (item.visual ? '<div class="block"><h4>Visual and edit</h4><p>' + nl(item.visual) + '</p><p>' + nl(item.edit || '') + '</p></div>' : '') +
+      (item.prompt ? '<details><summary>Filled production prompt</summary><div class="prompt">' + esc(item.prompt) + '</div></details>' : '') +
+      (item.fallback ? '<details><summary>Fallback</summary><p>' + esc(item.fallback) + '</p></details>' : '') +
+      '</div>' +
+      '<h3>Platforms</h3>' + plats.map(function (platform) {
+        var pl = placementOf(item.id, platform);
+        var ps = pstate(pl.placementId);
+        var checks = checkState(pl.placementId, item);
+        var labels = checksFor(isStory ? 'story' : isLI ? 'linkedin' : 'content', item);
+        return '<div class="card"><div class="card-head"><div><h3>' + esc(platform) + '</h3><p class="small muted">' + esc(pl.time) + ' WAT · ' + esc(pl.format || '') + '</p></div>' +
+          '<select data-status="' + esc(pl.placementId) + '">' + STATUSES.map(function (s) { return '<option' + (ps.status === s ? ' selected' : '') + '>' + esc(s) + '</option>'; }).join('') + '</select></div>' +
+          '<div class="block"><h4>Caption</h4><p>' + nl(pl.caption) + '</p></div>' +
+          '<div class="actions"><button class="btn secondary" data-copy="' + esc(pl.caption) + '">Copy caption</button>' +
+          '<button class="btn secondary" data-copy="' + esc(pl.caption + '\n\n' + (item.hook || '')) + '">Copy with hook</button></div>' +
+          '<div class="block"><h4>QA</h4>' + labels.map(function (lab, i) {
+            return '<label class="check"><input type="checkbox" data-check="' + esc(pl.placementId) + '" data-index="' + i + '"' + (checks[i] ? ' checked' : '') + '><span>' + esc(lab) + '</span></label>';
+          }).join('') + '</div>' +
+          '<div class="block"><h4>Notes</h4><textarea data-note="' + esc(pl.placementId) + '">' + esc(ps.note) + '</textarea></div>' +
+          '<div class="block"><h4>Actual post URL</h4><input data-url="' + esc(pl.placementId) + '" value="' + esc(ps.actualUrl) + '" placeholder="Paste after publishing" style="width:100%"></div>' +
+          '</div>';
+      }).join('') +
+      '<div class="actions"><button class="btn secondary" id="closeDetail">← Back</button></div>';
+    content.innerHTML = h;
+    document.querySelectorAll('[data-status]').forEach(function (el) {
+      el.onchange = function () { pstate(el.dataset.status).status = el.value; save(); toast('Status saved'); };
+    });
+    document.querySelectorAll('[data-check]').forEach(function (el) {
+      el.onchange = function () { pstate(el.dataset.check).checks[el.dataset.index] = el.checked; save(); };
+    });
+    document.querySelectorAll('[data-note]').forEach(function (el) {
+      el.onchange = function () { pstate(el.dataset.note).note = el.value; save(); };
+    });
+    document.querySelectorAll('[data-url]').forEach(function (el) {
+      el.onchange = function () { pstate(el.dataset.url).actualUrl = el.value; save(); };
+    });
+    document.querySelectorAll('[data-copy]').forEach(function (el) {
+      el.onclick = function () { copy(el.dataset.copy); };
+    });
+    document.getElementById('closeDetail').onclick = function () { render(); };
+  }
+
+  function openItem(id) {
+    var item = post(id) || story(id) || linkedin(id);
+    if (item) detail(item);
+  }
+
+  function bindRows() {
+    document.querySelectorAll('[data-post]').forEach(function (el) {
+      el.onclick = function () { openItem(el.dataset.post); };
+    });
+    document.querySelectorAll('[data-copy]').forEach(function (el) {
+      el.onclick = function (e) { e.stopPropagation(); copy(el.dataset.copy); };
+    });
+    document.querySelectorAll('[data-view]').forEach(function (el) {
+      el.onclick = function () { view = el.dataset.view; render(); };
+    });
+  }
+
+  function renderBriefs() {
+    var all = DATA.posts.concat(DATA.stories, DATA.linkedin);
+    var list = all.filter(function (p) {
+      if (seriesFilter !== 'all' && p.seriesKey !== seriesFilter) return false;
+      if (!query) return true;
+      return (JSON.stringify(p).toLowerCase().indexOf(query.toLowerCase()) >= 0);
+    }).slice(0, 60);
+    content.innerHTML = '<p class="eyebrow" style="margin-top:28px">Search every brief</p>' +
+      '<h1>' + all.length + ' items, one index.</h1>' +
+      '<div class="filters"><input id="q" placeholder="Search topic, offer, myth, scene…" value="' + esc(query) + '" style="min-width:240px">' +
+      '<select id="seriesFilter"><option value="all">All series</option>' + DATA.series.map(function (s) {
+        return '<option value="' + esc(s.key) + '"' + (seriesFilter === s.key ? ' selected' : '') + '>' + esc(s.name) + '</option>';
+      }).join('') + '</select></div>' +
+      '<div class="searchlist">' + list.map(function (p) {
+        return '<button class="btn secondary" data-post="' + esc(p.id) + '">' + esc(p.id) + ' · ' + esc((p.topic || p.label || p.series).slice(0, 44)) + '</button>';
+      }).join('') + '</div>' +
+      '<p class="small muted" style="margin-top:14px">Showing ' + list.length + ' of ' + all.length + '.</p>';
+    var q = document.getElementById('q');
+    q.oninput = function () { query = q.value; renderBriefs(); };
+    var sf = document.getElementById('seriesFilter');
+    sf.onchange = function () { seriesFilter = sf.value; renderBriefs(); };
+    bindRows();
+  }
+
+  function renderBatches() {
+    var weeks = [];
+    for (var i = 0; i < DATA.days.length; i += 7) weeks.push(DATA.days.slice(i, i + 7));
+    var rows = weeks.map(function (week, wi) {
+      var ids = week.reduce(function (acc, d) {
+        return acc.concat(DATA.placements.filter(function (pl) { return pl.day === d.day; }).map(function (pl) { return pl.placementId; }));
+      }, []);
+      var moved = ids.filter(function (id) { return state.placements[id] && state.placements[id].status !== 'Draft'; }).length;
+      return '<div class="card"><div class="card-head"><div><p class="eyebrow">Week ' + (wi + 1) + '</p><h3>' +
+        dateLabel(week[0].iso) + ' – ' + dateLabel(week[week.length - 1].iso) + '</h3></div><span class="badge">' + moved + '/' + ids.length + '</span></div>' +
+        '<div class="progressrow"><span>Content posts</span><span>' + (week.length * 11) + '</span></div>' +
+        '<div class="progressrow"><span>Stories</span><span>' + (week.length * 2) + '</span></div>' +
+        '<div class="progressrow"><span>LinkedIn pulls</span><span>' + DATA.linkedin.filter(function (l) { return l.day >= week[0].day && l.day <= week[week.length - 1].day; }).length + '</span></div>' +
+        '<div class="progressrow"><span>Placements moved past Draft</span><span>' + moved + ' of ' + ids.length + '</span></div>' +
+        '<div class="actions"><button class="btn secondary" data-week="' + wi + '">Open week</button>' +
+        '<button class="btn secondary" data-export-week="' + wi + '">Export week CSV</button></div></div>';
+    }).join('');
+    content.innerHTML = '<p class="eyebrow" style="margin-top:28px">Batch by week, not by panic</p><h1>Five weeks, planned backwards.</h1>' +
+      '<p class="muted">Produce one week at a time. Hold failed slots instead of stacking catch-up posts.</p>' + rows;
+    document.querySelectorAll('[data-week]').forEach(function (el) {
+      el.onclick = function () { selectedDay = weeks[Number(el.dataset.week)][0].day; view = 'plan'; render(); };
+    });
+    document.querySelectorAll('[data-export-week]').forEach(function (el) {
+      el.onclick = function () { exportCSV(weeks[Number(el.dataset.exportWeek)]); };
+    });
+  }
+
+  function renderTools() {
+    content.innerHTML = '<p class="eyebrow" style="margin-top:28px">Exports and backups</p><h1>Take the work with you.</h1>' +
+      '<p class="muted">Statuses, QA checks, notes and URLs live in this browser only. Export a backup before changing devices.</p>' +
+      '<div class="card"><h3>Exports</h3><div class="actions">' +
+      '<button class="btn" id="expAll">Export all placements CSV</button>' +
+      '<button class="btn secondary" id="expW1">Export week 1</button>' +
+      '<button class="btn secondary" id="expContent">Export 330 post copy</button>' +
+      '<button class="btn secondary" id="expStories">Export 60 stories</button>' +
+      '<button class="btn secondary" id="expLinkedIn">Export LinkedIn set</button></div></div>' +
+      '<div class="card"><h3>Backup</h3><div class="actions">' +
+      '<button class="btn" id="expJson">Export JSON backup</button>' +
+      '<label class="btn secondary" style="cursor:pointer">Import JSON<input type="file" id="impJson" accept="application/json" class="hide"></label>' +
+      '<button class="btn danger" id="reset">Reset all progress</button></div></div>' +
+      '<div class="card"><h3>Rules</h3><p class="small">Trend Desk stays HOLD until verified. Offers need price, contents and DIY boundary confirmed. The AI presenter is anonymised and disclosed. One CTA per placement.</p></div>';
+    document.getElementById('expAll').onclick = function () { exportCSV(DATA.days); };
+    document.getElementById('expW1').onclick = function () { exportCSV(DATA.days.slice(0, 7)); };
+    document.getElementById('expContent').onclick = function () { exportItems(DATA.posts, 'easywurld-330-posts.csv'); };
+    document.getElementById('expStories').onclick = function () { exportItems(DATA.stories, 'easywurld-60-stories.csv'); };
+    document.getElementById('expLinkedIn').onclick = function () { exportItems(DATA.linkedin, 'easywurld-linkedin.csv'); };
+    document.getElementById('expJson').onclick = function () {
+      download(JSON.stringify({ version: VERSION, campaign: DATA.startDate, placements: state.placements, notes: state.notes }, null, 2), 'easywurld-progress.json', 'application/json');
+    };
+    document.getElementById('impJson').onchange = function (e) {
+      var file = e.target.files[0]; if (!file) return;
+      var r = new FileReader();
+      r.onload = function () {
+        try {
+          var j = JSON.parse(r.result);
+          state.placements = j.placements || {}; state.notes = j.notes || {};
+          save(); toast('Backup imported'); render();
+        } catch (err) { toast('That file is not a valid backup'); }
+      };
+      r.readAsText(file);
+    };
+    document.getElementById('reset').onclick = function () {
+      if (!confirm('Clear every status, check, note and URL?')) return;
+      state = { placements: {}, notes: {} }; save(); toast('Progress cleared'); render();
+    };
+  }
+
+  /* ---------------- exports ---------------- */
+  function download(text, name, type) {
+    var blob = new Blob([text], { type: type || 'text/csv;charset=utf-8' });
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(blob); a.download = name; document.body.appendChild(a); a.click();
+    setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+    toast('Downloaded ' + name);
+  }
+  function csvCell(v) { return '"' + String(v == null ? '' : v).replace(/"/g, '""') + '"'; }
+  function exportCSV(days) {
+    var rows = [['Type', 'Date', 'Platform', 'Time', 'Post ID', 'Placement ID', 'Series', 'Topic', 'Caption', 'CTA', 'Status', 'Checks complete', 'Notes', 'Actual URL']];
+    var ids = days.map(function (d) { return d.day; });
+    DATA.placements.filter(function (pl) { return ids.indexOf(pl.day) >= 0; }).forEach(function (pl) {
+      var ps = pstate(pl.placementId);
+      var item = post(pl.postId) || story(pl.postId) || linkedin(pl.postId);
+      var checks = checksFor(pl.type === 'Story' ? 'story' : pl.type === 'LinkedIn' ? 'linkedin' : 'content', item);
+      var done = Object.keys(ps.checks || {}).filter(function (k) { return ps.checks[k]; }).length;
+      rows.push([pl.type, pl.date, pl.platform, pl.time, pl.postId, pl.placementId, pl.series, pl.topic, pl.caption, pl.cta, ps.status, done + '/' + checks.length, ps.note, ps.actualUrl]);
+    });
+    download(rows.map(function (r) { return r.map(csvCell).join(','); }).join('\n'), 'easywurld-placements.csv');
+  }
+  function exportItems(items, name) {
+    var rows = [['ID', 'Type', 'Date', 'Time', 'Series', 'Format', 'Topic', 'Copy', 'CTA', 'Platforms', 'Status']];
+    items.forEach(function (it) {
+      var plats = platformsFor(it.id);
+      var status = plats.map(function (p) { return p + ':' + pstate(placementOf(it.id, p).placementId).status; }).join(' | ');
+      rows.push([it.id, it.type || 'Content', it.date, it.time, it.series, it.format || '', it.topic || it.label || '', bodyOf(it), it.cta, plats.join(' + '), status]);
+    });
+    download(rows.map(function (r) { return r.map(csvCell).join(','); }).join('\n'), name);
+  }
+
+  /* ---------------- boot ---------------- */
+  document.querySelectorAll('nav button').forEach(function (b) {
+    b.onclick = function () { view = b.dataset.view; render(); };
+  });
+  render();
 })();

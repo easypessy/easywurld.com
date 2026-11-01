@@ -18,7 +18,7 @@
     "Instagram": 10,
     "Facebook": 20
   },
-  "approval": "Draft copy. Human approval, finished media and trend verification are required before scheduling.",
+  "approval": "Draft copy. Human approval, finished media, story assets and trend verification are required before scheduling.",
   "avatarStatus": "Anonymous Operator persona: faceless founder, night-desk set, calm low voice. No real likeness is used; disclose every clip as 'AI presenter - Easywurld'. Never describe it as the owner's face and never use the fictional demo founder. See marketing/AVATAR_OPERATOR.md.",
   "series": [
     {
@@ -110,6 +110,16 @@
       "pillar": "Trust",
       "objective": "Introduce Easywurld from a new angle and in a new format each day.",
       "defaultFormat": "Rotating"
+    },
+    {
+      "slot": 11,
+      "key": "operator",
+      "name": "One Last Thought",
+      "time": "22:00",
+      "pillar": "Trust",
+      "defaultFormat": "AI talking head",
+      "objective": "Close the day with one calm, certain line from the faceless Operator persona. Builds familiarity, authority and the 22:00 return habit.",
+      "persona": "marketing/AVATAR_OPERATOR.md"
     }
   ],
   "days": [
@@ -197,6 +207,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "The price reply",
+        "line": "Nine out of ten businesses answer “how much?” with a number.",
+        "turn": "The ones that survive answer with a decision: what is included, what is not, and what happens next.",
+        "close": "A price is not a defence. It is a boundary.",
+        "cta": "Save this for your next price reply."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · bio",
+        "frames": [
+          "What does your bio lead with?",
+          "A. What you do\nB. Who you help",
+          "Who you help wins. The work follows."
+        ],
+        "question": "What does your bio lead with?",
+        "options": [
+          "What you do",
+          "Who you help"
+        ],
+        "answer": "Who you help wins. The work follows."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "22:00. Desk lamp on, phone face down."
       }
     },
     {
@@ -280,6 +316,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Ten posts a day",
+        "line": "Ten posts a day is not a strategy.",
+        "turn": "It is a multiplier. Point it at nothing and you get more nothing, faster.",
+        "close": "Fix the offer first. Then spend the attention.",
+        "cta": "Save the checklist in today’s 07:00 post."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · one ask",
+        "frames": [
+          "Did your last post ask for anything?",
+          "A. Yes, one thing\nB. Honestly? No",
+          "One ask per post. “No” is the most common answer."
+        ],
+        "question": "Did your last post ask for anything?",
+        "options": [
+          "Yes, one thing",
+          "Honestly? No"
+        ],
+        "answer": "One ask per post. “No” is the most common answer."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Late again. Notebook open, tea gone cold."
       }
     },
     {
@@ -366,6 +428,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "AI drafts",
+        "line": "AI does not have a taste problem. It has a memory problem.",
+        "turn": "It remembers the internet, not your prices, your promises or your limits.",
+        "close": "Let it draft. Never let it decide.",
+        "cta": "Save this before your next automated reply."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · replies",
+        "frames": [
+          "Who writes your replies right now?",
+          "A. Me, eventually\nB. Nobody",
+          "Write the price and the promise down once. Stop improvising."
+        ],
+        "question": "Who writes your replies right now?",
+        "options": [
+          "Me, eventually",
+          "Nobody"
+        ],
+        "answer": "Write the price and the promise down once. Stop improvising."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Every light off except this one."
       }
     },
     {
@@ -452,6 +540,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "The logo",
+        "line": "Nobody has ever bought from you because your logo was beautiful.",
+        "turn": "They bought because your offer was easier to understand than the alternative.",
+        "close": "Craft the decision, not the decoration.",
+        "cta": "Send this to the person redesigning their logo for the third time."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Quiz · what sells",
+        "frames": [
+          "Which one sells faster?",
+          "A. Beautiful logo\nB. Clear offer",
+          "Clear offer. Every single time."
+        ],
+        "question": "Which one sells faster?",
+        "options": [
+          "Beautiful logo",
+          "Clear offer"
+        ],
+        "answer": "Clear offer. Every single time."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Rain on the window. One page left to finish."
       }
     },
     {
@@ -538,6 +652,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Content that does not sell",
+        "line": "Nothing is wrong with your content. You are talking to the room, not to the person.",
+        "turn": "One customer, one problem, one next step. That is the whole brief.",
+        "close": "Write to one person and a thousand will feel seen.",
+        "cta": "Save this for tomorrow’s caption."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · inbox",
+        "frames": [
+          "How many messages went unanswered this week?",
+          "A. One or two\nB. I would rather not know",
+          "Log them. That list is your calendar."
+        ],
+        "question": "How many messages went unanswered this week?",
+        "options": [
+          "One or two",
+          "I would rather not know"
+        ],
+        "answer": "Log them. That list is your calendar."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "The city went quiet twenty minutes ago."
       }
     },
     {
@@ -624,6 +764,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Unanswered messages",
+        "line": "Every unanswered message is a price you already agreed to pay.",
+        "turn": "You did the advertising, then let the reply die in a list you never open.",
+        "close": "Answer five a day. The list is the calendar.",
+        "cta": "Save this and clear five tonight."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · first question",
+        "frames": [
+          "A new customer’s first question is usually…",
+          "A. “How much?”\nB. “What do you even do?”",
+          "If it is the second one, the bio is the problem."
+        ],
+        "question": "A new customer’s first question is usually…",
+        "options": [
+          "“How much?”",
+          "“What do you even do?”"
+        ],
+        "answer": "If it is the second one, the bio is the problem."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Last coffee of the night. One thought before bed."
       }
     },
     {
@@ -710,6 +876,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Followers",
+        "line": "Followers are not customers. They are strangers who agreed to keep looking.",
+        "turn": "The business happens in the message, the call and the second visit.",
+        "close": "Count enquiries, not applause.",
+        "cta": "Save this before you buy followers."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · Sunday night",
+        "frames": [
+          "Sunday night: planning or praying?",
+          "A. Planning\nB. Praying",
+          "One hour of decisions saves six hours of improvising."
+        ],
+        "question": "Sunday night: planning or praying?",
+        "options": [
+          "Planning",
+          "Praying"
+        ],
+        "answer": "One hour of decisions saves six hours of improvising."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Desk, notebook, one more decision."
       }
     },
     {
@@ -796,6 +988,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Going viral",
+        "line": "“We will go viral” is not a plan. It is a lottery ticket with a caption.",
+        "turn": "Twelve useful posts a day beats one lucky one you cannot repeat.",
+        "close": "Build the repeatable thing.",
+        "cta": "Save this for the next strategy meeting."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · saves",
+        "frames": [
+          "Which post would you save for later?",
+          "A. A useful tip\nB. A price list",
+          "Tips get saved. Prices get screenshotted. Do both."
+        ],
+        "question": "Which post would you save for later?",
+        "options": [
+          "A useful tip",
+          "A price list"
+        ],
+        "answer": "Tips get saved. Prices get screenshotted. Do both."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Everyone else logged off an hour ago."
       }
     },
     {
@@ -882,6 +1100,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Cheap prices",
+        "line": "A cheap price does not remove the risk. It moves it.",
+        "turn": "It moves it to delivery, to quality, to the part you cannot refund.",
+        "close": "Charge for the outcome, not for the nerves.",
+        "cta": "Send this to whoever is undercutting you."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · AI captions",
+        "frames": [
+          "AI can write your captions. Should it?",
+          "A. Yes, fully\nB. Drafts only",
+          "Drafts only. Prices and promises need a human."
+        ],
+        "question": "AI can write your captions. Should it?",
+        "options": [
+          "Yes, fully",
+          "Drafts only"
+        ],
+        "answer": "Drafts only. Prices and promises need a human."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "22:00. Desk lamp on, phone face down."
       }
     },
     {
@@ -968,6 +1212,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Discounting",
+        "line": "A discount is a question. It asks the customer what they think your work is worth.",
+        "turn": "Ask it often enough and you will not like the answer.",
+        "close": "Discount the bundle, never the standard.",
+        "cta": "Save this before your next sale post."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · best seller",
+        "frames": [
+          "Is your best-selling product on your page?",
+          "A. Yes, pinned\nB. It is buried somewhere",
+          "If it is not on the page, it is not on the shortlist."
+        ],
+        "question": "Is your best-selling product on your page?",
+        "options": [
+          "Yes, pinned",
+          "It is buried somewhere"
+        ],
+        "answer": "If it is not on the page, it is not on the shortlist."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Late again. Notebook open, tea gone cold."
       }
     },
     {
@@ -1054,6 +1324,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Niche",
+        "line": "“We work with everyone” is not generous. It is invisible.",
+        "turn": "The narrower the sentence, the louder it reads.",
+        "close": "Be specific enough to be chosen.",
+        "cta": "Save this and rewrite your bio tonight."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · price vs time",
+        "frames": [
+          "What is harder to say out loud?",
+          "A. The price\nB. The delivery time",
+          "Say both in the same message. Ambiguity costs more."
+        ],
+        "question": "What is harder to say out loud?",
+        "options": [
+          "The price",
+          "The delivery time"
+        ],
+        "answer": "Say both in the same message. Ambiguity costs more."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Every light off except this one."
       }
     },
     {
@@ -1141,6 +1437,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Proof",
+        "line": "You do not need ten testimonials. You need one sentence a stranger can check.",
+        "turn": "Show the work, name the process, say what you cannot promise.",
+        "close": "Evidence beats adjectives.",
+        "cta": "Save this for your next portfolio post."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · proof",
+        "frames": [
+          "Do you have proof a stranger can check?",
+          "A. A real example\nB. Only adjectives",
+          "One example beats ten adjectives."
+        ],
+        "question": "Do you have proof a stranger can check?",
+        "options": [
+          "A real example",
+          "Only adjectives"
+        ],
+        "answer": "One example beats ten adjectives."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Rain on the window. One page left to finish."
       }
     },
     {
@@ -1226,6 +1548,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "SEO",
+        "line": "SEO is not a trick. It is the habit of being findable when someone already wants you.",
+        "turn": "Answer the question people type, in the words they type it, on a page you own.",
+        "close": "Be the answer, not the advert.",
+        "cta": "Save this for your next page rewrite."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · website",
+        "frames": [
+          "What is your website actually doing?",
+          "A. Bringing enquiries\nB. Existing",
+          "A page with no job is a business card with hosting fees."
+        ],
+        "question": "What is your website actually doing?",
+        "options": [
+          "Bringing enquiries",
+          "Existing"
+        ],
+        "answer": "A page with no job is a business card with hosting fees."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "The city went quiet twenty minutes ago."
       }
     },
     {
@@ -1312,6 +1660,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Traffic",
+        "line": "Traffic is not a business. It is a queue outside a door you never opened.",
+        "turn": "The page, the price and the reply have to work before the queue matters.",
+        "close": "Fix the door, then buy the queue.",
+        "cta": "Save this before you boost anything."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · vanity",
+        "frames": [
+          "Followers or enquiries — which number do you check first?",
+          "A. Followers\nB. Enquiries",
+          "The second one pays rent."
+        ],
+        "question": "Followers or enquiries — which number do you check first?",
+        "options": [
+          "Followers",
+          "Enquiries"
+        ],
+        "answer": "The second one pays rent."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Last coffee of the night. One thought before bed."
       }
     },
     {
@@ -1398,6 +1772,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Busy",
+        "line": "Busy is the most expensive way to avoid the one thing that pays.",
+        "turn": "You can answer every message and still never send the invoice.",
+        "close": "Do the paid thing before the loud thing.",
+        "cta": "Save this for Monday morning."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · timing",
+        "frames": [
+          "When do you actually post?",
+          "A. Within an hour of the plan\nB. When I remember",
+          "Pick a slot you can hit 20 days out of 30."
+        ],
+        "question": "When do you actually post?",
+        "options": [
+          "Within an hour of the plan",
+          "When I remember"
+        ],
+        "answer": "Pick a slot you can hit 20 days out of 30."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Desk, notebook, one more decision."
       }
     },
     {
@@ -1484,6 +1884,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Posting time",
+        "line": "Everyone is guessing about the best time to post. So test it.",
+        "turn": "One week at 07:00. One week at 20:30. Compare saves and enquiries, not vibes.",
+        "close": "Keep the slot that made someone message you.",
+        "cta": "Save this and run the test."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · trends",
+        "frames": [
+          "A trend is going around. What do you do?",
+          "A. Post it today\nB. Check it fits",
+          "Fits, rights, relevance. In that order."
+        ],
+        "question": "A trend is going around. What do you do?",
+        "options": [
+          "Post it today",
+          "Check it fits"
+        ],
+        "answer": "Fits, rights, relevance. In that order."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Everyone else logged off an hour ago."
       }
     },
     {
@@ -1570,6 +1996,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Trends",
+        "line": "A trend is a borrowed room. You still have to say something worth hearing.",
+        "turn": "Copy the structure, never the voice, and check the sound is cleared for business.",
+        "close": "Borrow the shape. Keep the meaning.",
+        "cta": "Save this before your next trend post."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · templates",
+        "frames": [
+          "Do you start from a blank page?",
+          "A. Every time\nB. I have templates",
+          "Starting from a structure is not cheating."
+        ],
+        "question": "Do you start from a blank page?",
+        "options": [
+          "Every time",
+          "I have templates"
+        ],
+        "answer": "Starting from a structure is not cheating."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "22:00. Desk lamp on, phone face down."
       }
     },
     {
@@ -1656,6 +2108,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Templates",
+        "line": "A template is not a shortcut. It is a decision someone already made well.",
+        "turn": "What you add is the judgement: which line, which price, which customer.",
+        "close": "Buy the thinking. Do the typing.",
+        "cta": "Save this if you keep starting from a blank page."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · headline",
+        "frames": [
+          "What is your headline doing?",
+          "A. Selling the outcome\nB. Describing the service",
+          "Outcome first. Service second."
+        ],
+        "question": "What is your headline doing?",
+        "options": [
+          "Selling the outcome",
+          "Describing the service"
+        ],
+        "answer": "Outcome first. Service second."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Late again. Notebook open, tea gone cold."
       }
     },
     {
@@ -1743,6 +2221,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Copywriters",
+        "line": "Every great line you admire is a structure you can learn and a voice you cannot borrow.",
+        "turn": "Steal the structure. Write your own sentence. Attribute the teacher.",
+        "close": "Learn the move, not the words.",
+        "cta": "Save this for the 16:00 breakdown."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · speed",
+        "frames": [
+          "How fast do you reply to a new enquiry?",
+          "A. Same hour\nB. When I see it",
+          "The first clear reply wins more work than the best portfolio."
+        ],
+        "question": "How fast do you reply to a new enquiry?",
+        "options": [
+          "Same hour",
+          "When I see it"
+        ],
+        "answer": "The first clear reply wins more work than the best portfolio."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Every light off except this one."
       }
     },
     {
@@ -1829,6 +2333,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Your bio",
+        "line": "Your bio is not an introduction. It is a filter.",
+        "turn": "It should make the right person lean in and the wrong one leave quickly.",
+        "close": "Clarity is a kindness to both of you.",
+        "cta": "Save this and read your bio out loud."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · offer contents",
+        "frames": [
+          "What is inside your cheapest offer?",
+          "A. I could list it\nB. Roughly…”",
+          "If you cannot list it, the price will always feel like too much."
+        ],
+        "question": "What is inside your cheapest offer?",
+        "options": [
+          "I could list it",
+          "Roughly…”"
+        ],
+        "answer": "If you cannot list it, the price will always feel like too much."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Rain on the window. One page left to finish."
       }
     },
     {
@@ -1915,6 +2445,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Reply speed",
+        "line": "The first reply wins more work than the best portfolio.",
+        "turn": "Not because speed is clever. Because attention moves on in minutes.",
+        "close": "Answer fast. Answer plainly. Answer once.",
+        "cta": "Save this for your WhatsApp settings."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · weekly hour",
+        "frames": [
+          "What is your one weekly marketing hour for?",
+          "A. Deciding\nB. Catching up",
+          "Decide first. Catching up is not a plan."
+        ],
+        "question": "What is your one weekly marketing hour for?",
+        "options": [
+          "Deciding",
+          "Catching up"
+        ],
+        "answer": "Decide first. Catching up is not a plan."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "The city went quiet twenty minutes ago."
       }
     },
     {
@@ -2001,6 +2557,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Offers",
+        "line": "If you cannot say what is inside, the price will always feel like too much.",
+        "turn": "Contents remove doubt. Doubt is what people are actually refusing to pay for.",
+        "close": "Sell the contents, then the price.",
+        "cta": "Save this before your next quote."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · measurement",
+        "frames": [
+          "Which number did you act on last month?",
+          "A. One, specifically\nB. I looked at all of them",
+          "One number, one change, thirty days."
+        ],
+        "question": "Which number did you act on last month?",
+        "options": [
+          "One, specifically",
+          "I looked at all of them"
+        ],
+        "answer": "One number, one change, thirty days."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Last coffee of the night. One thought before bed."
       }
     },
     {
@@ -2088,6 +2670,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Weekly planning",
+        "line": "Sunday night is the cheapest hour of your marketing week.",
+        "turn": "One hour of decisions saves six hours of improvising.",
+        "close": "Plan the week. Then protect it.",
+        "cta": "Save this for tonight."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · scope",
+        "frames": [
+          "What do you call custom work?",
+          "A. A project\nB. A favour",
+          "A favour has no scope. That is why it never ends."
+        ],
+        "question": "What do you call custom work?",
+        "options": [
+          "A project",
+          "A favour"
+        ],
+        "answer": "A favour has no scope. That is why it never ends."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Desk, notebook, one more decision."
       }
     },
     {
@@ -2175,6 +2783,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Analytics",
+        "line": "A number you do not act on is decoration.",
+        "turn": "Pick one: saves, replies or enquiries. Then change one thing and look again.",
+        "close": "Measure what you will actually change.",
+        "cta": "Save this before you open the dashboard."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · product mix",
+        "frames": [
+          "DIY or done-for-you — which are you actually selling?",
+          "A. One of them, clearly\nB. A bit of both",
+          "Mixing the two is how both fail."
+        ],
+        "question": "DIY or done-for-you — which are you actually selling?",
+        "options": [
+          "One of them, clearly",
+          "A bit of both"
+        ],
+        "answer": "Mixing the two is how both fail."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Everyone else logged off an hour ago."
       }
     },
     {
@@ -2261,6 +2895,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Custom work",
+        "line": "Custom work is not better than a product. It is a different promise.",
+        "turn": "Products need boundaries. Projects need scope. Mixing the two is how both fail.",
+        "close": "Say which one you are selling.",
+        "cta": "Save this before you take another “small job”."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · consistency",
+        "frames": [
+          "How often do you repeat yourself on purpose?",
+          "A. Every week\nB. I get bored and change it",
+          "Recognition comes from repetition, not novelty."
+        ],
+        "question": "How often do you repeat yourself on purpose?",
+        "options": [
+          "Every week",
+          "I get bored and change it"
+        ],
+        "answer": "Recognition comes from repetition, not novelty."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "22:00. Desk lamp on, phone face down."
       }
     },
     {
@@ -2347,6 +3007,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "DIY",
+        "line": "Doing it yourself is not the cheap option. It is the version where you keep the learning.",
+        "turn": "Buy the structure, bring the judgement, keep the receipts.",
+        "close": "DIY is a skill purchase, not a discount.",
+        "cta": "Save this for your next DIY decision."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · referrals",
+        "frames": [
+          "Has a customer ever asked for a referral line?",
+          "A. Yes\nB. What is a referral line?",
+          "Write it for them. Most will use it."
+        ],
+        "question": "Has a customer ever asked for a referral line?",
+        "options": [
+          "Yes",
+          "What is a referral line?"
+        ],
+        "answer": "Write it for them. Most will use it."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Late again. Notebook open, tea gone cold."
       }
     },
     {
@@ -2433,6 +3119,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Consistency",
+        "line": "Consistency is not posting every day. It is being recognisable every time you do.",
+        "turn": "Same voice, same promise, same next step.",
+        "close": "Be repetitive on purpose.",
+        "cta": "Save this and pick your three repeating things."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · hook",
+        "frames": [
+          "What is your hook doing in the first two seconds?",
+          "A. Naming the problem\nB. Introducing yourself",
+          "Lead with their problem, not your name."
+        ],
+        "question": "What is your hook doing in the first two seconds?",
+        "options": [
+          "Naming the problem",
+          "Introducing yourself"
+        ],
+        "answer": "Lead with their problem, not your name."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Every light off except this one."
       }
     },
     {
@@ -2519,6 +3231,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Referrals",
+        "line": "A referral is not luck. It is a sentence someone could repeat because you made it clear.",
+        "turn": "Give customers the words to say about you. Most will use them.",
+        "close": "Write your own referral line.",
+        "cta": "Save this and send it to your best customer."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · CTA",
+        "frames": [
+          "One CTA or three?",
+          "A. One\nB. All of them, just in case",
+          "Three asks is zero asks."
+        ],
+        "question": "One CTA or three?",
+        "options": [
+          "One",
+          "All of them, just in case"
+        ],
+        "answer": "Three asks is zero asks."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Rain on the window. One page left to finish."
       }
     },
     {
@@ -2602,6 +3340,32 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "Month end",
+        "line": "The month ends whether or not you look at it.",
+        "turn": "Thirty minutes with three numbers is enough: enquiries, replies, sales.",
+        "close": "Count, then choose one change.",
+        "cta": "Save this for the 30th."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · follow-up",
+        "frames": [
+          "What happens after “I’ll get back to you”?",
+          "A. A date is logged\nB. Nothing, honestly",
+          "Log the date. Follow up once. Then stop."
+        ],
+        "question": "What happens after “I’ll get back to you”?",
+        "options": [
+          "A date is logged",
+          "Nothing, honestly"
+        ],
+        "answer": "Log the date. Follow up once. Then stop."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "The city went quiet twenty minutes ago."
       }
     },
     {
@@ -2688,15 +3452,266 @@
           "formatNote": "Native video/image, photo album or Reel; conversational caption.",
           "status": "Draft"
         }
+      },
+      "operator": {
+        "topic": "The next thirty days",
+        "line": "Nothing you did this month was wasted. But nothing repeats by itself.",
+        "turn": "Decide what stays, what stops and what gets one more test.",
+        "close": "Keep the slot that worked. Cut the one you avoided.",
+        "cta": "Save this and write tomorrow’s first line tonight."
+      },
+      "storyA": {
+        "type": "Poll / quiz",
+        "sticker": "Poll · next month",
+        "frames": [
+          "Next thirty days: what are you keeping?",
+          "A. The slot that worked\nB. Everything, as usual",
+          "Keep one, cut one, test one."
+        ],
+        "question": "Next thirty days: what are you keeping?",
+        "options": [
+          "The slot that worked",
+          "Everything, as usual"
+        ],
+        "answer": "Keep one, cut one, test one."
+      },
+      "storyB": {
+        "type": "Behind the desk",
+        "scene": "Last coffee of the night. One thought before bed."
       }
     }
   ],
   "scheduled": false,
   "sequence": [
-    "Finalise the 10 series positions",
+    "Finalise the 11 series positions and the two story slots",
     "Verify dated trend candidates",
-    "Produce Monday’s 10 core posts",
-    "QA a 30-placement day before scaling",
+    "Produce Monday's 11 core posts and two stories",
+    "QA a full day (11 posts x 3 platforms + 2 stories x 3 platforms) before scaling",
+    "Siphon the week's LinkedIn set on Sunday night",
     "Review by series after seven days"
-  ]
+  ],
+  "psychology": {
+    "model": "Ethical persuasion layer",
+    "principles": [
+      {
+        "key": "cognitive-ease",
+        "name": "Cognitive ease",
+        "principle": "Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.",
+        "source": "Kahneman, Thinking, Fast and Slow (2011)",
+        "guard": "Never use simplicity to hide a limit. Say the limit in the same short sentence."
+      },
+      {
+        "key": "loss-aversion",
+        "name": "Loss aversion",
+        "principle": "People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.",
+        "source": "Kahneman & Tversky, Prospect Theory (1979)",
+        "guard": "No fake countdowns, no invented scarcity. The loss must be real and checkable."
+      },
+      {
+        "key": "curiosity-gap",
+        "name": "Curiosity gap",
+        "principle": "A specific open question pulls attention forward. Open the loop in the first line and close it in the last.",
+        "source": "Loewenstein, The Psychology of Curiosity (1994)",
+        "guard": "Close the loop inside the same post. No bait that never pays off."
+      },
+      {
+        "key": "specificity",
+        "name": "Specificity",
+        "principle": "Numbers, names and dates are processed as evidence; adjectives are processed as noise.",
+        "source": "Heath & Heath, Made to Stick (2007)",
+        "guard": "Only use numbers we can defend. No invented metrics."
+      },
+      {
+        "key": "social-proof",
+        "name": "Honest social proof",
+        "principle": "Behaviour follows behaviour. Show the work, the process, the questions other owners ask.",
+        "source": "Cialdini, Influence (1984)",
+        "guard": "Never invent clients, testimonials or results. A labelled sample is not proof of sales."
+      },
+      {
+        "key": "reciprocity",
+        "name": "Reciprocity",
+        "principle": "Give the useful structure before asking for anything. The save is the thank-you.",
+        "source": "Cialdini, Influence (1984)",
+        "guard": "Give enough to be genuinely useful alone. Do not withhold the point to force a purchase."
+      },
+      {
+        "key": "authority-restraint",
+        "name": "Authority through restraint",
+        "principle": "Calm, unhurried, well-sourced statements read as authority. Hype reads as need.",
+        "source": "Cialdini, Influence (1984); Mehrabian on vocal calm",
+        "guard": "Never claim credentials, awards or expertise we do not hold."
+      },
+      {
+        "key": "anchoring",
+        "name": "Anchoring and boundaries",
+        "principle": "The first number sets the frame. State the price with its contents and its boundary.",
+        "source": "Tversky & Kahneman, Anchoring (1974)",
+        "guard": "No fake “was ₦X” pricing. No boundary-free promises."
+      },
+      {
+        "key": "peak-end",
+        "name": "Peak-end rule",
+        "principle": "People remember the strongest moment and the last one. So end the day with the sharpest line.",
+        "source": "Kahneman, Experiencing Self (1999)",
+        "guard": "The last line must be true and actionable, not just a punchline."
+      },
+      {
+        "key": "mere-exposure",
+        "name": "Mere exposure",
+        "principle": "Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.",
+        "source": "Zajonc, Mere Exposure (1968)",
+        "guard": "Repeat the format, not the same sentence. Familiarity needs fresh content inside it."
+      },
+      {
+        "key": "identity",
+        "name": "Identity and in-group",
+        "principle": "People share what says something about them. Memes work when they describe the reader precisely.",
+        "source": "Berger, Contagious (2013)",
+        "guard": "Never punch down at customers, staff or other businesses."
+      },
+      {
+        "key": "objection-relief",
+        "name": "Objection relief",
+        "principle": "Name the doubt before the buyer has to. The answer removes the reason to hesitate.",
+        "source": "Cialdini, Influence (1984); Rackham, SPIN Selling (1988)",
+        "guard": "Answer honestly, including “no, it does not do that”."
+      }
+    ],
+    "seriesMap": {
+      "niche": [
+        "specificity",
+        "cognitive-ease"
+      ],
+      "myth": [
+        "curiosity-gap",
+        "loss-aversion"
+      ],
+      "trend": [
+        "specificity",
+        "authority-restraint"
+      ],
+      "ai": [
+        "reciprocity",
+        "cognitive-ease"
+      ],
+      "meme1": [
+        "identity",
+        "peak-end"
+      ],
+      "offerA": [
+        "anchoring",
+        "reciprocity"
+      ],
+      "copy": [
+        "curiosity-gap",
+        "specificity"
+      ],
+      "meme2": [
+        "identity",
+        "loss-aversion"
+      ],
+      "offerB": [
+        "objection-relief",
+        "cognitive-ease"
+      ],
+      "intro": [
+        "mere-exposure",
+        "social-proof"
+      ],
+      "operator": [
+        "authority-restraint",
+        "peak-end"
+      ]
+    },
+    "rule": "One principle per post. If the principle needs a lie to work, drop the principle."
+  },
+  "stories": {
+    "count": 2,
+    "platforms": [
+      "Instagram",
+      "Facebook",
+      "TikTok"
+    ],
+    "slots": [
+      {
+        "slot": "A",
+        "key": "storyA",
+        "time": "12:30",
+        "type": "Poll / quiz",
+        "objective": "Midday engagement with a one-tap sticker. Trains the audience to interact and gives the algorithm a signal.",
+        "duration": "3 frames, 10–15s",
+        "expires": "24 hours"
+      },
+      {
+        "slot": "B",
+        "key": "storyB",
+        "time": "21:00",
+        "type": "Behind the desk",
+        "objective": "Persona-driven teaser for tomorrow's strongest post, with a link sticker. Builds the 21:00 habit and feeds the next day.",
+        "duration": "3 frames, 12–18s",
+        "expires": "24 hours"
+      }
+    ],
+    "offsets": {
+      "Instagram": 0,
+      "Facebook": 5,
+      "TikTok": 10
+    },
+    "rules": [
+      "Captions burned in; most stories are watched muted.",
+      "No link sticker on a trend story until the trend gate is cleared.",
+      "Re-share the same asset across the three platforms within the hour.",
+      "Stories never carry a second CTA."
+    ]
+  },
+  "linkedin": {
+    "audience": "Business owners, marketers and operators who read long-form on weekdays.",
+    "cadence": "Six posts a week: Monday carousel write-up, Tuesday teach, Wednesday show, Thursday trust, Friday video repurpose, Saturday offer lesson.",
+    "time": "09:00",
+    "slots": [
+      {
+        "key": "li-carousel",
+        "weekday": "Monday",
+        "label": "Carousel write-up (document post)",
+        "source": 1
+      },
+      {
+        "key": "li-teach",
+        "weekday": "Tuesday",
+        "label": "Siphoned teach post",
+        "source": 2
+      },
+      {
+        "key": "li-show",
+        "weekday": "Wednesday",
+        "label": "Siphoned show / demo post",
+        "source": 4
+      },
+      {
+        "key": "li-trust",
+        "weekday": "Thursday",
+        "label": "Siphoned trust post",
+        "source": 8
+      },
+      {
+        "key": "li-video",
+        "weekday": "Friday",
+        "label": "Repurposed vertical video",
+        "source": 2
+      },
+      {
+        "key": "li-offer",
+        "weekday": "Saturday",
+        "label": "Siphoned offer lesson",
+        "source": 6
+      }
+    ],
+    "rules": [
+      "Rewrite for reading, never paste a TikTok caption.",
+      "No hashtag block: two tags maximum, at the end.",
+      "Link in the first comment, not the body.",
+      "One video and one document post a week maximum."
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 # Easywurld launch content
 
-## Active: 10-a-day series campaign
+## Active: 11-posts, 2-stories campaign
 
-The current plan starts **Monday 2 November 2026** and runs through **Tuesday 1 December 2026**. It contains **300 core posts** and **900 platform placements**: 10 core posts a day on TikTok, Instagram and Facebook.
+The current plan starts **Monday 2 November 2026** and runs through **Tuesday 1 December 2026**. It contains **330 content posts**, **60 stories**, **26 LinkedIn posts** and **1,196 platform placements**: 11 posts and 2 stories a day on TikTok, Instagram and Facebook, plus six LinkedIn pulls a week.
 
 Start with:
 
@@ -13,7 +13,7 @@ Start with:
 5. `social-command/content_calendar.csv`
 6. `../marketing/PRODUCTION.md`
 
-Starter graphics are in `../marketing/assets/`: 60 memes, 10 series covers, Monday fallback/carousel PNGs, four carousel ZIPs and video layout guides. The guides are production aids, not finished videos.
+Starter graphics are in `../marketing/assets/`: 60 scene-led memes, 8 meme scene plates, 42 pre-rendered story frames for week one, 11 series covers, Monday fallback/carousel PNGs, four carousel ZIPs, the faceless Operator plates with two voice samples, and video layout guides. The guides are production aids, not finished videos.
 
 The existing offers prompt and booklet are in `social-command/`. The free chat-script sample, bundle graphics, profile covers and QR cards remain available as reference assets; verify any old price or bundle claim before reuse.
 
@@ -25,6 +25,6 @@ These are retained for history, **not** the active schedule. Do not mix their da
 
 ## Private products and records
 
-The nine paid deliverable packs, payment details and customer records are not in this public repository. The site source describes the offers; confirm current price, contents and fulfilment before promoting them. No verified owner portrait or CV was found in the accessible repos, and no personal avatar has been generated.
+The nine paid deliverable packs, payment details and customer records are not in this public repository. The site source describes the offers; confirm current price, contents and fulfilment before promoting them. No personal avatar was generated, because none is needed: the AI presenter is the anonymous Operator persona (no face, no real likeness), documented in `../marketing/AVATAR_OPERATOR.md`.
 
 Keep identity sources, consent records and customer information out of Git. The active marketing folder is outside `client/public` and is not part of the website build.

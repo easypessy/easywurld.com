@@ -1,8 +1,8 @@
-# Easywurld posting strategy — 10 posts a day, series-led
+# Easywurld posting strategy — 11 posts, 2 stories and a LinkedIn pull
 
 **Active campaign:** Monday 2 November–Tuesday 1 December 2026
-**Platforms:** TikTok, Instagram and Facebook
-**Volume:** 10 core posts per day, adapted for each platform = 30 scheduled placements per day, 900 across 30 days.
+**Platforms:** TikTok, Instagram and Facebook, plus LinkedIn for siphoned posts
+**Volume:** 11 content posts + 2 stories per day on TikTok, Instagram and Facebook = 39 scheduled placements per day, plus 26 LinkedIn posts across the month. **1,196 placements in total.**
 **Timezone:** Africa/Lagos (WAT, UTC+1)
 
 This replaces the 22-post weekday plan. The owner wants a high-volume, series-led channel. The strategy below keeps that volume but makes it repeatable, recognisable and reviewable.
@@ -39,8 +39,28 @@ The account should feel like a useful marketing studio thinking out loud: here i
 | 8 | 17:30 | **Meme: marketing / AI / clients** | Relatable industry humour | Original static / short video |
 | 9 | 19:00 | **Offer Spotlight B** | Objection, limitation or next step for the same daily offer | Talking head / static |
 | 10 | 20:30 | **Meet Easywurld** | A new angle on who we are, what we do and who we serve | Rotating format |
+| 11 | 22:00 | **One Last Thought** | The Operator closes the day with one calm, certain line | Faceless AI talking head |
 
 Platform offset: TikTok at the slot time, Instagram +10 minutes, Facebook +20 minutes. These are starting test times, not proven best times.
+
+### The two daily stories
+
+| Slot | Time | Type | Job |
+|---|---|---|---|
+| A | 12:30 | **Poll / quiz** | One tap. A question the audience can answer in a second, with the answer revealed on frame three |
+| B | 21:00 | **Behind the desk** | The Operator's desk, then tomorrow's 07:00 hook, then a link sticker |
+
+Instagram at the slot time, Facebook +5 minutes, TikTok +10 minutes. Fifteen seconds each, captions burned in, three frames, one sticker.
+
+### LinkedIn pulls
+
+LinkedIn is not a fourth version of the same daily post. Six posts a week are siphoned from work that already exists: Monday a carousel write-up as a document post, Tuesday a teach post, Wednesday a show post, Thursday a trust post, Friday the week's best vertical video, Saturday an offer lesson. Thursday and Friday are the strongest reading days; Sunday stays quiet.
+
+### Story 11 — One Last Thought
+
+> The persona is defined in [AVATAR_OPERATOR.md](./AVATAR_OPERATOR.md).
+
+A faceless, unhurried voice at 22:00. One flat sentence, one turn, one line worth repeating, one ask. The face is never shown; the night desk, the notebook and the voice carry the identity. It exists to make the account feel like a person with a point of view rather than a queue of posts, and to build a fixed evening habit. Everything about it is disclosed: `AI presenter · Easywurld`.
 
 ### Series 1 — If I ran this account
 
@@ -70,7 +90,7 @@ Show the boundary. AI can draft, classify, summarise or prepare. A human approve
 
 ### Series 5 and 8 — Two memes
 
-One owner-life meme and one marketing/AI/client meme per day. Original text-led graphics or short videos. No stolen meme templates with unclear rights, no fake customer screenshots, no punching down at customers. The caption can add the useful lesson.
+One owner-life meme and one marketing/AI/client meme per day. **Scene-led, not a wall of text:** a real photograph of the moment (the empty plastic chairs, the face-down phone, the blank screen), with a small two-line caption in the lower third. Eight scene plates are supplied in `marketing/assets/meme-scenes/`. No stolen meme templates with unclear rights, no fake customer screenshots, no punching down at customers. The caption under the post carries the useful lesson.
 
 ### Series 6 and 9 — Two offer posts, one daily offer
 
@@ -92,13 +112,14 @@ A new introduction every day, not the same bio repeated. Rotate: who we serve, w
 
 The series are the structure; the format changes inside them.
 
-- AI talking head: niche plans, myths, offer explanations, copy lessons, introductions.
+- AI talking head: myth verdicts, offer objections, and the 22:00 Operator close.
 - Screen demo: AI workflows, trend recaps, sample tours.
 - Carousel: niche plans, checklists, offer contents, copy breakdowns.
-- Original static/meme: two daily meme slots and some offer/intro posts.
-- Short text video: fast myths, trend verdicts, owner-life jokes.
+- Scene-led static meme: the two daily meme slots.
+- Story frames: the two daily stories (poll/quiz and behind-the-desk).
+- Text post / document: the six weekly LinkedIn pulls.
 
-Do not make every slot a talking head. The feed needs visual variety. The avatar is a production tool, not the entire brand.
+Do not make every slot a talking head. The feed needs visual variety. The Operator is a production tool and a recognisable voice, not the entire brand.
 
 ## 5. Platform adaptation
 
@@ -106,13 +127,16 @@ Do not make every slot a talking head. The feed needs visual variety. The avatar
 |---|---|
 | TikTok | Native vertical video, spoken hook, fast first frame, captions, one CTA. Static memes can be photo posts or short text videos. |
 | Instagram | Reel or carousel depending on the idea. Carousel copy can be more structured. Check crop and safe areas. |
-| Facebook | Native text + image/video or carousel. Caption can be slightly more conversational. Do not just paste TikTok text with hashtags. |
+| Facebook | Native text + image/video or carousel. Caption can be slightly more conversational. Do not just paste TikTok text with hashtags. Stories posted +5 minutes after Instagram. |
+| LinkedIn | Rewritten from the same idea, never pasted. First line is the whole hook, paragraphs of one or two lines, no hashtag block (two tags maximum), link in the first comment. One document post and one native video a week at most. |
 
 One core idea can have three captions. The hook and CTA stay consistent; the wording and format fit the platform.
 
 ## 6. AI talking-head rules
 
-The owner wants AI talking heads. Use an approved owner likeness and voice, or a licensed provider avatar. No verified owner photo/CV was found in the accessible repos. The fictional demo founder image must not be used as the owner.
+The AI presenter is the **anonymous Operator persona** — faceless founder, night desk, warm lamp, calm low voice. Full persona, delivery card, five scripts, script formula and 30-night arc: [AVATAR_OPERATOR.md](./AVATAR_OPERATOR.md). Scene plates and voice samples: `marketing/assets/avatar/`.
+
+Because no face is shown, no real likeness or photo release is needed. That removes the last blocker on the talking-head slots. Never describe the Operator as the owner's real face, never use the fictional demo founder image, and disclose every clip as `AI presenter · Easywurld`.
 
 TikTok requires disclosure for realistic AI-generated media, including a person portrayed saying something they did not say. Enable the platform AI setting and keep a visible label. [1](https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content)
 
@@ -120,26 +144,29 @@ House style: chest-up, eye-level, natural light, restrained gestures, corrected 
 
 Use own/licensed audio or TikTok’s Commercial Music Library with the applicable rights. A trending personal-account sound is not automatically cleared for a brand. [1](https://ads.tiktok.com/help/article/how-to-use-the-commercial-music-library)
 
-## 7. Production system for 10/day
+## 7. Production system for 11 posts and 2 stories a day
 
 Batch by series, not by day.
 
-- **Sunday:** write/verify the week’s 70 core ideas. Record talking-head batches by series. Record screen demos. Design memes and carousels from templates.
-- **Daily:** assemble the 10 core posts, adapt captions, QA, schedule.
+- **Sunday:** write/verify the week’s 77 core ideas. Record Operator batches by series. Record screen demos. Design memes and carousels from templates. Render the week’s 14 stories and siphon the LinkedIn set.
+- **Daily:** assemble the 11 posts and 2 stories, adapt captions, QA, schedule.
 - **Weekly:** review series performance, not just individual posts.
 
 Suggested batch blocks:
 
 1. Niche plans: 7 episodes.
-2. Myth Court: 7 episodes.
+2. Myth Court: 7 Operator clips.
 3. Trend Desk: research + 7 recaps.
 4. AI Build: 7 workflows.
-5. Memes: 14 originals.
+5. Memes: 14 scene-led originals.
 6. Offer: one pack, 14 posts.
 7. Copy Move: 7 lessons.
 8. Meet Easywurld: 7 angles.
+9. One Last Thought: 7 Operator closes (batch with slot 2; same voice, same preset).
+10. Stories: 14 three-frame sequences.
+11. LinkedIn: 6 siphoned posts, written last from the finished copy.
 
-This is heavy. Use templates, avatar batch generation, caption presets and a shared asset library. If a slot fails QA, hold it rather than publishing unreviewed AI. The volume target stays 10/day; quality control is not optional.
+This is heavy. Use templates, one locked Operator voice, caption presets and a shared asset library. If a slot fails QA, hold it rather than publishing unreviewed AI. The volume target stays 11 + 2; quality control is not optional.
 
 ## 8. Scheduling
 
@@ -159,7 +186,7 @@ Review by series after 7 days:
 - Which offer gets qualified purchases or project briefs?
 - Which meme gets shares without attracting the wrong audience?
 
-Keep 10/day for the test, but change hooks, formats and angles based on evidence. Do not declare a winner from one post. Do not invent month-end results.
+Keep 11 posts and 2 stories a day for the test, but change hooks, formats and angles based on evidence. Track the 22:00 Operator separately: if watch-through and follows climb during that slot, the persona is the asset, not the frequency. Do not declare a winner from one post. Do not invent month-end results.
 
 ## 10. Trust rules
 
@@ -175,7 +202,8 @@ Keep 10/day for the test, but change hooks, formats and angles based on evidence
 ## 11. Launch gates
 
 - [ ] Confirm handles, website URL, WhatsApp and offer fulfilment.
-- [ ] Supply approved owner likeness/voice or use non-avatar fallbacks.
+- [ ] Confirm the Operator persona and locked voice; no real likeness is required.
+- [ ] Render the week's story frames and confirm sticker placement in the preview.
 - [ ] Verify launch-week trends on 1 November.
 - [ ] Produce first 70 core posts / 210 platform adaptations.
 - [ ] QA captions, prices, disclosures, crops and audio rights.
