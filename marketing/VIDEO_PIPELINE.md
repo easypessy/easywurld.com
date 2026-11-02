@@ -65,14 +65,17 @@ batches; nothing about a finished file changes except which narration it carries
 
 - `marketing/assets/video-ready/` is committed to the repository so the manifest's
   "rendered" state travels with the plan.
-- **Amended threshold: switch at roughly 300 MB, not 150 MB.** On 2 November the workspace
-  rolled back to the base commit between turns and the only thing that survived intact was
-  what git held — `marketing/render/` (narrations, packs, zips) was wiped and had to be
-  rebuilt, while every committed MP4 came back. Until the month is delivered, git is the
-  durable copy and Drive is the delivery copy, so finished videos stay committed. Past
-  ~300 MB (about 50 clips) add the folder to `.gitignore` and let Drive carry them: 141
-  finished videos would put ~700 MB of binary into history for no editorial benefit. The
-  day packs and the Drive zips are rebuilt from `marketing/render/packs/` either way.
+- **Amended threshold: keep committing until the month is delivered, then prune.** On
+  2 November the workspace rolled back to the base commit between turns four separate
+  times; each time the only thing that survived intact was what git held — `marketing/render/`
+  (narrations, packs, zips) was wiped and rebuilt, while every committed MP4 came back.
+  Finished videos cannot be re-downloaded from Drive either (this sandbox has no route to
+  the Drive API for downloads), so until Day 30 is delivered git is the only recoverable
+  copy and Drive is the delivery copy. At ~285 MB (50 clips) this still holds.
+  Once the month is complete and Drive holds every day zip, prune the folder out of the
+  branch tip (`.gitignore` + `git rm --cached`) so the merged history does not carry ~700 MB
+  of binary for no editorial benefit. The day packs and the Drive zips are rebuilt from
+  `marketing/render/packs/` either way.
 - **Batch shape follows the day, not a fixed count.** A day carries five or six video slots
   (the sixth is the Meet Easywurld intro on some days), and the narration tool allows ten
   clips per turn — so a batch is normally one full day plus most of the next, and the
