@@ -10052,7 +10052,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. People see "DM for price" and just pass, money in hand. Here is how we adapt it. Show the hook that brings an message and the process that earns trust. Use real or labelled sample steps. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Not a service you buy. A fight you join, and your trust is the weapon. Save the filter. Skip the hype.
+> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. People see "DM for price" and just pass, money in hand. Here is how we adapt it. Show the hook that brings a message and the process that earns trust. Use real or labelled sample steps. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Not a service you buy. A fight you join, and your trust is the weapon. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -10067,7 +10067,7 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 7. People see "DM for price" and just pass
 8. money in hand
 9. Here is how we adapt it
-10. Show the hook that brings an message and
+10. Show the hook that brings a message and
 11. the process that earns trust
 12. Use real or labelled sample steps
 13. Before you copy it:
@@ -25442,13 +25442,13 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> An message arrives. A clear reply goes out. A follow-up is scheduled. The sequence stops when it should. This is a labelled sample, not a live client result.
+> a message arrives. A clear reply goes out. A follow-up is scheduled. The sequence stops when it should. This is a labelled sample, not a live client result.
 
 ### Burned-in caption chunks
 
 Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
 
-1. An message arrives
+1. a message arrives
 2. A clear reply goes out
 3. A follow-up is scheduled
 4. The sequence stops when it should
@@ -26273,7 +26273,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. Your page looks like everybody else's, so nobody believes you are better. Here is how we adapt it. Show the hook that brings an message and the process that earns trust. Use real or labelled sample steps. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We do our half honestly. Your half is the yes. Save the filter. Skip the hype.
+> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. Your page looks like everybody else's, so nobody believes you are better. Here is how we adapt it. Show the hook that brings a message and the process that earns trust. Use real or labelled sample steps. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We do our half honestly. Your half is the yes. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -26288,7 +26288,7 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 7. Your page looks like everybody else's
 8. so nobody believes you are better
 9. Here is how we adapt it
-10. Show the hook that brings an message and
+10. Show the hook that brings a message and
 11. the process that earns trust
 12. Use real or labelled sample steps
 13. Before you copy it:
@@ -42241,7 +42241,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. "How much?" becomes "I will get back to you", and that becomes silence. Here is how we adapt it. Show the hook that brings an message and the process that earns trust. Use real or labelled sample steps. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We can build the fix, but we cannot win it alone. Your yes is the turning point. No wahala. Save the filter. Skip the hype.
+> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. "How much?" becomes "I will get back to you", and that becomes silence. Here is how we adapt it. Show the hook that brings a message and the process that earns trust. Use real or labelled sample steps. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We can build the fix, but we cannot win it alone. Your yes is the turning point. No wahala. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -42256,7 +42256,7 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 7. How much?" becomes "I will get back to
 8. you", and that becomes silence
 9. Here is how we adapt it
-10. Show the hook that brings an message and
+10. Show the hook that brings a message and
 11. the process that earns trust
 12. Use real or labelled sample steps
 13. Before you copy it:

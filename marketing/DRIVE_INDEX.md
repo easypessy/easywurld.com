@@ -31,7 +31,10 @@ Inside every `Day_XX.zip`:
 | `00_DAY_SHEET.md` | **Start here.** All 46 placements in time order: time, platform, format, the exact file to attach, which caption to paste, and the AI-label flag |
 | `01_LINKEDIN.md` | The seven LinkedIn posts for that day — 4 company page + 3 personal (Abu Israel): body, first comment, format, asset |
 | `02_CAPTIONS.md` | The eleven feed posts × three platform captions (TikTok base, Instagram +10 min, Facebook +20 min) |
-| `assets/…` | The rendered files: carousel slides and PDF, story frames, memes, statics, series covers, LinkedIn document PDFs, finished videos where they are rendered, posters where they are not |
+| `03_STORIES.md` | The two stories: three frames each, in order, with sticker and caption |
+| `04_CAROUSELS.md` | **The carousel arrangement, in words:** each carousel slide by slide — position, file name, what the slide says — plus hook, CTA, captions pointer and AI-label flag |
+| `05_CONTACT_SHEETS.pdf` | **The carousel arrangement, visible:** every carousel and story as numbered thumbnails side by side, so you can check the order at a glance before attaching |
+| `assets/…` | The rendered files, each named `HHMM_POSTID_position-of-total.ext` so the folder sorts into posting order: `0700_EW-D01-S01_3of5.jpg` is the 07:00 post, slide 3 of 5. Carousel slides and PDF, story frames, memes, statics, series covers, LinkedIn document PDFs, finished videos where they are rendered, posters where they are not |
 
 ## What is upgraded in SET_B
 

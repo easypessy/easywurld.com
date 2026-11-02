@@ -248,7 +248,9 @@ export function voFor(post, editorial, longDate) {
     : post.seriesKey === 'operator' ? operatorVO(f, day)
     : [plain(post.script)].join(' ');
 
-  const clean = text.replace(/\s+/g, ' ').trim();
+  // grammar guard: the enquiry -> message swap leaves "an message" behind
+  const guarded = text.replace(/\ban (message|messages)\b/gi, 'a $1');
+  const clean = guarded.replace(/\s+/g, ' ').trim();
   const tts = clean
     .replace(/\[pause\]/g, '. ')
     .replace(/(["”])\s*\.\s/g, '$1 ')
