@@ -35,7 +35,7 @@ Slots without a narration file are skipped, not guessed: the poster in
 assets/fallbacks/ is the honest fallback until the voice exists.
 """
 from __future__ import annotations
-import argparse, json, math, os, re, subprocess, sys, wave
+import argparse, json, math, os, random, re, subprocess, sys, wave
 from pathlib import Path
 
 import numpy as np
@@ -63,6 +63,11 @@ CREAM = (250, 231, 199); GREEN = (10, 73, 55); LEAF = (39, 71, 58)
 TERRA = (158, 78, 44); INK = (20, 23, 15); PAPER = (251, 249, 244)
 SERIF = 'Fraunces[SOFT,WONK,opsz,wght].ttf'; SANS = 'Inter[opsz,wght].ttf'; MONO = 'JetBrainsMono[wght].ttf'
 LEAD_IN, TAIL_OUT, END_CARD = 0.85, 1.35, 2.1
+ALIVE = Path(__file__).resolve().parent / 'render' / 'alive'
+
+
+def rng_uniform(r, a, b):
+    return r.uniform(a, b)
 XFADE = 0.40
 
 SERIES_COVER = {
@@ -393,6 +398,40 @@ def render(post, keep_work=False):
 
     groups = captions_per_section(post)
     flat = [c for g in groups for c in g]
+    work = WORK / post['id']; work.mkdir(parents=True, exist_ok=True)
+    video = picture(post, total, groups, work)
+
+    # captions + audio
+    timings = time_chunks(flat, groups, total, LEAD_IN)
+    ass = build_ass(flat, timings, work / 'captions.ass')
+    music = write_wav(work / 'bed.wav', *music_bed(total + 0.4, seed=(post['day'] * 11 + post['slot']) % 977))
+    dest = OUT / f"{post['id']}.mp4"
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    vf = f"subtitles={ass}:fontsdir={FONT_DIR}"
+    af = (f"[1:a]aformat=sample_rates=44100:channel_layouts=stereo,adelay={int(LEAD_IN*1000)}|{int(LEAD_IN*1000)},"
+          f"apad=pad_dur={TAIL_OUT+0.6},asplit=2[voice][vsc];"
+          f"[2:a]aformat=sample_rates=44100:channel_layouts=stereo,atrim=0:{total},volume=0.95[mus];"
+          f"[mus][vsc]sidechaincompress=threshold=0.045:ratio=9:attack=14:release=290:makeup=1[duck];"
+          f"[voice][duck]amix=inputs=2:duration=first:normalize=0,volume=1.35[mix];"
+          f"[mix]loudnorm=I=-15:TP=-1.5:LRA=11,afade=t=in:st=0:d=0.5,afade=t=out:st={max(0,total-1.05):.2f}:d=1.05[aout];"
+          f"[0:v]{vf}[vout]")
+    run([FFMPEG, '-y', '-loglevel', 'error', '-i', str(video), '-i', str(vo), '-i', str(music),
+         '-filter_complex', af, '-map', '[vout]', '-map', '[aout]',
+         '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '23', '-pix_fmt', 'yuv420p', '-r', str(FPS),
+         '-c:a', 'aac', '-b:a', '192k', '-ar', '44100', '-t', f'{total:.2f}',
+         '-movflags', '+faststart', str(dest)], quiet=False)
+    ALIVE.mkdir(parents=True, exist_ok=True)
+    (ALIVE / f"{post['id']}.ok").write_text('alive\n')
+    if not keep_work:
+        for f in work.glob('scene-*.png'): f.unlink()
+    return dest, total
+
+
+def picture(post, total, groups, work):
+    disclosure = ('AI presenter · Easywurld' if post['format'] == 'AI talking head' else 'AI voice · Easywurld')
+    if post['seriesKey'] == 'trend': disclosure = 'AI voice · dated teardown'
+    groups = captions_per_section(post)
+    flat = [c for g in groups for c in g]
     plates = plate_for(post, 0)
     n_scenes = max(2, min(len(groups) + 1, 6))                   # +1 = the end card
 
@@ -417,21 +456,40 @@ def render(post, keep_work=False):
             img = compose_scene(post, plate, disclosure)
         png = work / f'scene-{i:02d}.png'
         img.save(png)
-        up = 1.20
-        moves = [
-            ("min(1.00+0.16*on/{f},1.17)", "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"),
-            ("1.17-0.16*on/{f}", "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"),
-            ("1.10", "iw/2-(iw/zoom/2)+(iw*0.05)*(on/{f})", "ih/2-(ih/zoom/2)"),
-            ("1.10", "iw/2-(iw/zoom/2)-(iw*0.05)*(on/{f})", "ih/2-(ih/zoom/2)"),
-            ("min(1.02+0.13*on/{f},1.16)", "iw/2-(iw/zoom/2)", "ih*0.42-(ih/zoom/2)"),
-        ][i % 5]
+        # ---- handheld grammar: eased ken burns + camera sway + breathing light.
+        # Seeded per shot so every re-render is identical, but no two shots move
+        # the same way — the point is that it reads as a person holding a phone,
+        # not a slideshow advancing.
+        shot = random.Random(f"{post['id']}#{i}")
+        up = 1.22
+        z0, z1 = shot.choice([(1.02, 1.18), (1.18, 1.03), (1.08, 1.17), (1.17, 1.06), (1.05, 1.14)])
+        ax = rng_uniform(shot, 0.03, 0.07) * shot.choice([-1, 0, 1])
+        ay = rng_uniform(shot, 0.02, 0.05) * shot.choice([-1, 0, 1])
+        ease = "(0.5-0.5*cos(PI*on/{f}))"
+        zexpr = f"({z0}+({z1}-{z0})*{ease})"
+        xexpr = f"iw/2-(iw/zoom/2)+({ax:.4f}*iw)*sin(PI*on/{{f}})"
+        yexpr = f"ih/2-(ih/zoom/2)+({ay:.4f}*ih)*sin(PI*on/{{f}})"
+        # on longer shots, one hard reframe mid-shot: an editor's cut, not a slide
+        if d > 6.5 and i < len(durs) - 1:
+            midf = int(frames * rng_uniform(shot, 0.45, 0.60))
+            zexpr = f"({zexpr}+0.05*gt(on,{midf}))"
+            xexpr = f"({xexpr}+iw*0.018*gt(on,{midf}))"
+        ph = [rng_uniform(shot, 0, 6.28) for _ in range(4)]
+        hx = f"(iw-ow)/2+5*sin(2*PI*t*0.83+{ph[0]:.2f})+2.5*sin(2*PI*t*2.17+{ph[1]:.2f})"
+        hy = f"(ih-oh)/2+4*sin(2*PI*t*0.61+{ph[2]:.2f})+2.0*sin(2*PI*t*1.73+{ph[3]:.2f})"
         vf = (f"scale={int(W*up)}:{int(H*up)}:flags=lanczos,"
-              f"zoompan=z='{moves[0].format(f=frames)}':x='{moves[1].format(f=frames)}':y='{moves[2].format(f=frames)}'"
+              f"zoompan=z='{zexpr.format(f=frames)}':x='{xexpr.format(f=frames)}':y='{yexpr.format(f=frames)}'"
               f":d={frames}:s={W}x{H}:fps={FPS},"
-              f"eq=saturation=1.05:contrast=1.04:brightness=0.01,"
+              f"scale={int(W*1.05)}:{int(H*1.05)}:flags=bilinear,"
+              f"crop={W}:{H}:x='{hx}':y='{hy}',"
+              f"eq=eval=frame:saturation=1.05:contrast=1.04:"
+              f"brightness='0.012+0.012*sin(2*PI*t*0.37+{ph[0]:.2f})',"
               f"colorbalance=rs=0.03:gs=0.0:bs=-0.04:rm=0.02:bm=-0.03,"
-              f"noise=alls=3:allf=t+u,vignette=PI/5.6,"
-              f"fade=t=in:st=0:d=0.30,fade=t=out:st={max(0,d-0.34):.3f}:d=0.34,format=yuv420p")
+              f"noise=alls=4:allf=t+u,vignette=PI/5.6,format=yuv420p")
+        if i == 0:
+            vf = vf.replace(',format=yuv420p', ',fade=t=in:st=0:d=0.25,format=yuv420p')
+        if i == len(durs) - 1:
+            vf = vf.replace(',format=yuv420p', f',fade=t=out:st={max(0, d - 0.4):.3f}:d=0.40,format=yuv420p')
         seg = work / f'seg-{i:02d}.mp4'
         run([FFMPEG, '-y', '-loglevel', 'error', '-i', str(png), '-vf', vf,
              '-frames:v', str(frames), '-r', str(FPS), '-an',
@@ -449,34 +507,15 @@ def render(post, keep_work=False):
         for i in range(1, len(segments)):
             off += segments[i - 1][1] - XFADE
             tag = f'v{i}' if i < len(segments) - 1 else 'vout'
-            fc.append(f'[{prev}][{i}:v]xfade=transition=fade:duration={XFADE}:offset={max(0,off):.3f}[{tag}]')
+            # varied cuts, seeded: a dissolve every time is what makes it a slideshow
+            tr = random.Random(f"{post['id']}#x{i}").choice(
+                ['fade', 'dissolve', 'smoothleft', 'smoothup', 'circleopen', 'radial'])
+            fc.append(f'[{prev}][{i}:v]xfade=transition={tr}:duration={XFADE}:offset={max(0,off):.3f}[{tag}]')
             prev = tag
         run([FFMPEG, '-y', '-loglevel', 'error', *inputs, '-filter_complex', ';'.join(fc),
              '-map', '[vout]', '-r', str(FPS), '-c:v', 'libx264', '-preset', 'veryfast',
              '-crf', '19', '-pix_fmt', 'yuv420p', str(video)])
-
-    # captions + audio
-    timings = time_chunks(flat, groups, total, LEAD_IN)
-    ass = build_ass(flat, timings, work / 'captions.ass')
-    music = write_wav(work / 'bed.wav', *music_bed(total + 0.4, seed=(post['day'] * 11 + post['slot']) % 977))
-    dest = OUT / f"{post['id']}.mp4"
-    dest.parent.mkdir(parents=True, exist_ok=True)
-    vf = f"subtitles={ass}:fontsdir={FONT_DIR}"
-    af = (f"[1:a]aformat=sample_rates=44100:channel_layouts=stereo,adelay={int(LEAD_IN*1000)}|{int(LEAD_IN*1000)},"
-          f"apad=pad_dur={TAIL_OUT+0.6},asplit=2[voice][vsc];"
-          f"[2:a]aformat=sample_rates=44100:channel_layouts=stereo,atrim=0:{total},volume=0.95[mus];"
-          f"[mus][vsc]sidechaincompress=threshold=0.045:ratio=9:attack=14:release=290:makeup=1[duck];"
-          f"[voice][duck]amix=inputs=2:duration=first:normalize=0,volume=1.35[mix];"
-          f"[mix]loudnorm=I=-15:TP=-1.5:LRA=11,afade=t=in:st=0:d=0.5,afade=t=out:st={max(0,total-1.05):.2f}:d=1.05[aout];"
-          f"[0:v]{vf}[vout]")
-    run([FFMPEG, '-y', '-loglevel', 'error', '-i', str(video), '-i', str(vo), '-i', str(music),
-         '-filter_complex', af, '-map', '[vout]', '-map', '[aout]',
-         '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '23', '-pix_fmt', 'yuv420p', '-r', str(FPS),
-         '-c:a', 'aac', '-b:a', '192k', '-ar', '44100', '-t', f'{total:.2f}',
-         '-movflags', '+faststart', str(dest)], quiet=False)
-    if not keep_work:
-        for f in work.glob('scene-*.png'): f.unlink()
-    return dest, total
+    return video
 
 
 def main():
