@@ -56,3 +56,12 @@ batches; nothing about a finished file changes except which narration it carries
   narration until `TREND_VERIFICATION.csv` has a current example.
 - AI Build clips say "labelled sample build, not a client result" in the narration.
 - No stock people, no owner likeness, no invented numbers. The Operator stays faceless.
+
+## Where the files live
+
+- `marketing/assets/video-ready/` is committed to the repository while it is small
+  (Days 1–2, ~53 MB) so the manifest's "rendered" state travels with the plan.
+- **Once the folder passes roughly 150 MB, add it to `.gitignore`** and let Google Drive
+  carry the finished files: 141 finished videos would put ~700 MB of binary into git
+  history for no editorial benefit. The day packs and the Drive zips are rebuilt from
+  `marketing/render/packs/` either way.
