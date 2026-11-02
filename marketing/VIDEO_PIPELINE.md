@@ -63,9 +63,18 @@ batches; nothing about a finished file changes except which narration it carries
 
 ## Where the files live
 
-- `marketing/assets/video-ready/` is committed to the repository while it is small
-  (Days 1–2, ~53 MB) so the manifest's "rendered" state travels with the plan.
-- **Once the folder passes roughly 150 MB, add it to `.gitignore`** and let Google Drive
-  carry the finished files: 141 finished videos would put ~700 MB of binary into git
-  history for no editorial benefit. The day packs and the Drive zips are rebuilt from
-  `marketing/render/packs/` either way.
+- `marketing/assets/video-ready/` is committed to the repository so the manifest's
+  "rendered" state travels with the plan.
+- **Amended threshold: switch at roughly 300 MB, not 150 MB.** On 2 November the workspace
+  rolled back to the base commit between turns and the only thing that survived intact was
+  what git held — `marketing/render/` (narrations, packs, zips) was wiped and had to be
+  rebuilt, while every committed MP4 came back. Until the month is delivered, git is the
+  durable copy and Drive is the delivery copy, so finished videos stay committed. Past
+  ~300 MB (about 50 clips) add the folder to `.gitignore` and let Drive carry them: 141
+  finished videos would put ~700 MB of binary into history for no editorial benefit. The
+  day packs and the Drive zips are rebuilt from `marketing/render/packs/` either way.
+- **Batch shape follows the day, not a fixed count.** A day carries five or six video slots
+  (the sixth is the Meet Easywurld intro on some days), and the narration tool allows ten
+  clips per turn — so a batch is normally one full day plus most of the next, and the
+  leftover slot opens the following batch. `--pending` renders whatever has a narration, so
+  nothing is lost when a batch splits mid-day.

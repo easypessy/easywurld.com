@@ -145,6 +145,8 @@ at the message.
 | "How do I know you are not a scam?" | "Fair question. Nothing here is hosted by us and nothing is auto-sent: you get files, you keep your accounts, and you can pay after you see the contents list. Start with the free rewrite — if it is useless, you have lost nothing." |
 | "I don't have a website" | "Then do not buy the website pack. Start with the chat replies or the Google listing — those are where your customers already are." |
 | "Is this AI?" | "A drafting tool writes the first draft and a person checks every line before you see it. That check is the reason it is usable. We sell the finished words, not the tool." |
+| "Is WhatsApp charging per message now?" | "The free WhatsApp Business app on your phone is not. The charges that started 1 October 2026 are for the Business Platform API — the one banks and big senders use. Nothing in this pack needs that, and you do not pay Meta to reply to your customers." |
+| "My marketing is weak, that is the problem" | "Maybe, but check this first: how many enquiries came last week, and how many got a clear answer within the hour? Most of the time the leak is the reply, not the advert. Fixing the reply costs ₦5,000 and one afternoon." |
 
 ---
 

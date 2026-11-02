@@ -41,6 +41,37 @@ scam/trust threads, BusinessDay owner interviews, and local-visibility write-ups
 - "₦5,000 for only this?" → say the boundary before the price is challenged.
 - "I will get back to you." → the follow-up system exists for exactly this line.
 
+## Cycle 2 harvest — the reply that dies (2 November 2026)
+
+Sources: Harzotech, *WhatsApp Business Automation for Nigerian Businesses*; LinksPally,
+*She was getting WhatsApp enquiries every day but her sales were still falling*;
+The Nation and Innovation Village on Meta's WhatsApp Business Platform pricing.
+
+| Raw phrase (source) | What it became |
+|---|---|
+| "Good morning, how much is your service?" at 7:12am … staff finally responds at 11:03am. "No answer. The lead is gone." (Harzotech) | the four-hour gap as the villain: not bad marketing, a slow reply |
+| "The owner believed their 'marketing was weak.' … the issue was obvious: their follow-up process was broken." (Harzotech) | the reframe we sell: it is not the ads, it is the reply |
+| "WhatsApp is your reception desk, enquiry line, sales assistant, customer support and follow-up engine all in one." (Harzotech) | the chat-as-shop-counter line, in their words |
+| "If they do not get one, they move on to the next provider in seconds." (Harzotech) | why Layer 0 of the inbox system answers instantly |
+| "She simply couldn't remember everyone." / "Some had asked questions and disappeared. Some had promised to come back." (LinksPally) | the tracker, not memory, is the fix |
+| "She was spending more money generating leads, while a significant number of those leads were never properly followed up." (LinksPally) | "You pay for that attention twice: once to get the message, once to lose it." |
+
+### Verified fact, usable in copy
+
+From **1 October 2026** Meta charges per delivered message on the **WhatsApp Business
+Platform (API)** — about ₦14 for utility/service and ₦84 for marketing messages to
+Nigerian numbers. **The free WhatsApp Business app that small businesses use is not
+directly affected.** Use it to kill the "WhatsApp is now charging me per message" panic,
+and never imply a pack needs the paid API.
+
+### Objections added this cycle
+
+- "Is WhatsApp charging per message now?" → the free app is not. The per-message charges
+  from 1 October 2026 are for the Business Platform API used by high-volume senders.
+  Nothing in our packs needs it.
+- "My marketing is weak." → usually not. Count the enquiries you got last week and how
+  many got a clear answer inside the hour. The leak is the reply, not the ads.
+
 ## Rules for using this bank
 
 1. Rewrite, never quote. A phrase earns its place when a reader says "this is my week".
