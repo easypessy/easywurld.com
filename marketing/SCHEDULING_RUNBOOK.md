@@ -80,7 +80,19 @@ The rule is **hold, do not stack**:
 
 ## 4b. The by-day packs and the finished videos
 
-`python marketing/build-day-packs.py` builds `marketing/render/packs/Day_XX/` — one folder per day holding the day sheet, the LinkedIn copy, the captions, the stories and every rendered file — then zips them in ten-day blocks for Google Drive (folder: **Easywurld — November 2026 (by day)**). Work from the day sheet top to bottom; it lists all 46 placements in time order with the exact file for each.
+`python marketing/build-day-packs.py` builds `marketing/render/packs/Day_XX/` — one folder per day holding the day sheet, the LinkedIn copy, the captions, the stories and every rendered file — and zips it two ways: **`day-zips/Day_XX.zip` (one zip per day, the delivery unit)** and `zips/Easywurld_November_Days_01-10.zip` / `11-20` / `21-30` (ten-day blocks for bulk download, split because of Drive's 100 MB per-file limit). Work from the day sheet top to bottom; it lists all 46 placements in time order with the exact file for each.
+
+`--days 3-4` rebuilds and re-zips only those days, which is what you use after a render batch: re-zip the days that changed, re-upload just those two `Day_XX.zip` files, and the rest of Drive is untouched. `--no-decade` skips the bulk blocks.
+
+### The Drive folder is two sets, and the old one stays
+
+**Easywurld — November 2026 (by day)** holds:
+
+- **`SET_A__Original_November_content`** — the first delivery, kept as it was: the three ten-day block zips with first-generation assets and posters. Nothing in here is replaced. It is the record of version one.
+- **`SET_B__Upgraded_content_PER_DAY`** — the working delivery: `Day_01.zip` … `Day_30.zip`, one zip per day, plus the upgraded ten-day bulk zip. A day is re-uploaded on its own when its finished videos land, so the day you are working from is always current.
+- `READ_ME` (Google Doc) — what each set is, which days already carry finished videos, and the order to schedule in.
+
+When you re-upload a day, delete the superseded `Day_XX.zip` only — never anything in SET_A.
 
 `python marketing/build-video.py --day N` renders every video slot on a day that already has a narration file in `marketing/render/vo/`: the voiceover, an instrumental bed synthesised for the brand and ducked under the voice, burned-in captions, Ken Burns moves, dissolves, grain, a warm grade, the brand header, the AI disclosure chip and an end card with the CTA and WhatsApp keyword. The result needs no editing — upload it as is. Pipeline notes and the narration batching rule: `marketing/VIDEO_PIPELINE.md`.
 

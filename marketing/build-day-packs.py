@@ -12,8 +12,16 @@ anything else:
   assets/…               the rendered files: carousel slides, story frames, memes,
                          statics, posters, finished videos, LinkedIn PDFs
 
-Then the days are zipped in ten-day blocks (Drive's 100 MB per-file limit and the
-finished videos are why): Days 01-10, 11-20, 21-30. Each zip keeps Day_XX/ folders.
+Two zip layouts are written, because Drive delivery is per day:
+
+  day-zips/Day_01.zip … Day_30.zip   one zip per day — the unit you upload, replace
+                                     and open. A day that gains finished videos gets
+                                     re-zipped and re-uploaded on its own.
+  zips/Easywurld_November_Days_01-10.zip, 11-20, 21-30
+                                     the ten-day blocks kept for bulk download
+                                     (Drive's 100 MB per-file limit is why they split).
+
+--days 3-4 rebuilds and re-zips only those days; --no-decade skips the blocks.
 
 Nothing here publishes anything. Every row is Draft until a human schedules it.
 """
@@ -68,10 +76,25 @@ def linkedin_files(l):
     return []
 
 
+def video_slots(posts):
+    """[(id, topic, rendered)] for the day's video posts — a poster never passes as an MP4."""
+    out = []
+    for p in posts:
+        if p.get('slides') or p['seriesKey'] in ('meme1', 'meme2') or p['format'] == 'Relatable static':
+            continue
+        mp4 = f'assets/video-ready/{p["id"]}.mp4'
+        if not apath(mp4).exists() and not apath(f'assets/fallbacks/{p["id"]}.jpg').exists():
+            continue
+        out.append((p['id'], p['topic'], apath(mp4).exists()))
+    return out
+
+
 def build_day(day):
     posts = [p for p in PLAN['posts'] if p['day'] == day['day']]
     stories = [s for s in PLAN['stories'] if s['day'] == day['day']]
     li = [l for l in PLAN['linkedin'] if l['day'] == day['day']]
+    vslots = video_slots(posts)
+    vdone = [v for v in vslots if v[2]]
     folder = PACKS / f'Day_{day["day"]:02d}'
     assets = folder / 'assets'
     if folder.exists(): shutil.rmtree(folder)
@@ -83,6 +106,7 @@ def build_day(day):
     md = [f'# Day {day["day"]:02d} · {day["iso"]} · {day["weekday"]}', '',
           f'**Daily offer:** {day["offerKeyword"]} · ₦{PRICE:,} DIY pack. Confirm price, contents, payment and delivery before any offer post goes live.', '',
           f'**{len(posts)} feed posts × 3 platforms · {len(stories)} stories × 3 platforms · {len(li)} LinkedIn posts.** Work top to bottom; every row is Draft until you schedule it.', '',
+          (f'**Videos: {len(vdone)} of {len(vslots)} slots are finished MP4s.** See *Video status* at the bottom before posting any video slot.' if vslots else '**Videos:** no video slots today.'), '',
           '| # | Time WAT | Platform | Format | Post | File to attach | AI label |', '|---:|---|---|---|---|---|---|']
     i = 0
     placements = []
@@ -114,6 +138,18 @@ def build_day(day):
     for t in trends:
         md.append(f"- `{t['id']}` {t['topic']} — dated source {t['sourceUrl']} ({t['sourceDate']}). Verify a current example or publish as a dated teardown only.")
     if not trends: md.append('- none today.')
+
+    # ---- video status: never let a poster pass for a finished video
+    md += ['', '## Video status', '']
+    if vslots:
+        md.append(f'**{len(vdone)} of {len(vslots)} video slots in this pack are finished.**' +
+                  ('' if len(vdone) == len(vslots) else ' The rest carry a poster — **do not post those slots yet**; this day is re-uploaded when its MP4s land.'))
+        md.append('')
+        for vid, topic, ok in vslots:
+            md.append(f'- `{vid}` {topic} — ' + ('finished MP4 (voiceover, music, burned captions, end card): upload as is' if ok
+                                                else 'POSTER ONLY — not rendered yet, hold this slot'))
+    else:
+        md.append('- no video slots today.')
     (folder / '00_DAY_SHEET.md').write_text('\n'.join(md) + '\n')
 
     # ---- 01_LINKEDIN.md
@@ -166,29 +202,79 @@ def build_day(day):
     return folder, len(placements), copied
 
 
-def main():
-    if PACKS.exists(): shutil.rmtree(PACKS)
-    PACKS.mkdir(parents=True)
+def zip_day(day_num, out_dir):
+    """One zip per day — the unit that gets uploaded to Drive and replaced on its own."""
+    import zipfile
+    name = f'Day_{day_num:02d}'
+    src = PACKS / name
+    zip_path = out_dir / f'{name}.zip'
+    with zipfile.ZipFile(str(zip_path), 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as z:
+        for f in sorted(src.rglob('*')):
+            if f.is_file():
+                z.write(f, f'Easywurld_November/{name}/{f.relative_to(src)}')
+    return zip_path
+
+
+def parse_days(spec):
+    nums = set()
+    for part in str(spec).split(','):
+        part = part.strip()
+        if not part:
+            continue
+        if '-' in part:
+            a, b = part.split('-', 1)
+            nums.update(range(int(a), int(b) + 1))
+        else:
+            nums.add(int(part))
+    return sorted(n for n in nums if 1 <= n <= 30)
+
+
+def main(argv=None):
+    import argparse
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument('--days', help='rebuild and re-zip only these days, e.g. 3-4 or 1,3,11-12')
+    ap.add_argument('--no-decade', action='store_true', help='skip the ten-day block zips')
+    args = ap.parse_args(argv)
+
+    only = parse_days(args.days) if args.days else None
+    if only:
+        for n in only:
+            d = PACKS / f'Day_{n:02d}'
+            if d.exists():
+                shutil.rmtree(d)
+    elif PACKS.exists():
+        shutil.rmtree(PACKS)
+    PACKS.mkdir(parents=True, exist_ok=True)
+
+    days = [d for d in PLAN['days'] if not only or d['day'] in only]
     total = 0
-    for d in PLAN['days']:
+    for d in days:
         folder, n, copied = build_day(d)
         total += n
         print(f'  Day {d["day"]:02d}: {n} placements · {len(copied)} files')
-    # zip in ten-day blocks so no zip exceeds Drive's 100 MB per-file limit
-    out = PACKS / 'zips'
-    out.mkdir(exist_ok=True)
-    for a in (1, 11, 21):
-        b = a + 9
-        names = [f'Day_{i:02d}' for i in range(a, b + 1)]
-        zip_path = out / f'Easywurld_November_Days_{a:02d}-{b:02d}'
+
+    dayz = PACKS / 'day-zips'
+    dayz.mkdir(exist_ok=True)
+    for d in days:
+        zp = zip_day(d['day'], dayz)
+        print(f'  day-zip {zp.name}  {zp.stat().st_size/1e6:.1f} MB')
+
+    # ten-day blocks kept for bulk download; no block exceeds Drive's 100 MB per-file limit
+    if not args.no_decade and not only:
+        out = PACKS / 'zips'
+        out.mkdir(exist_ok=True)
         import zipfile
-        with zipfile.ZipFile(str(zip_path) + '.zip', 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as z:
-            for name in names:
-                for f in sorted((PACKS / name).rglob('*')):
-                    if f.is_file():
-                        z.write(f, f'Easywurld_November/{name}/{f.relative_to(PACKS / name)}')
-        print(f'  zip {zip_path.name}.zip  {zip_path.with_suffix(".zip").stat().st_size/1e6:.1f} MB')
-    print(f'Total placements across the month: {total}')
+        for a in (1, 11, 21):
+            b = a + 9
+            names = [f'Day_{i:02d}' for i in range(a, b + 1)]
+            zip_path = out / f'Easywurld_November_Days_{a:02d}-{b:02d}'
+            with zipfile.ZipFile(str(zip_path) + '.zip', 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as z:
+                for name in names:
+                    for f in sorted((PACKS / name).rglob('*')):
+                        if f.is_file():
+                            z.write(f, f'Easywurld_November/{name}/{f.relative_to(PACKS / name)}')
+            print(f'  zip {zip_path.name}.zip  {zip_path.with_suffix(".zip").stat().st_size/1e6:.1f} MB')
+    print(f'Total placements packed: {total}')
 
 
 if __name__ == '__main__':

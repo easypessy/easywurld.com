@@ -41,11 +41,15 @@ So the month is narrated in ten-clip batches:
 
 1. `node marketing/build-plan.mjs` writes `voScript` / `voTts` / `voLines` for all 141 video slots.
 2. Ten `voTts` scripts are spoken into `marketing/render/vo/<ID>.mp3`.
-3. `python marketing/build-video.py --days N-M` renders that batch to finished MP4s.
+3. `python marketing/build-video.py --pending` renders every slot whose narration is newer
+   than its MP4 (`--days N-M` and `--only ID1,ID2` also work).
 4. `python marketing/build-assets.py` refreshes the manifest so the MP4s read as rendered.
-5. `python marketing/build-day-packs.py` re-packs the day folders and the Drive zips.
+5. `python marketing/build-day-packs.py --days N-M --no-decade` re-packs only the days that
+   changed and writes `render/packs/day-zips/Day_XX.zip` for each of them.
+6. Upload just those `Day_XX.zip` files into Drive **SET_B__Upgraded_content_PER_DAY**,
+   replacing the same-named file. **SET_A is the original delivery and is never touched.**
 
-Days 1–2 are done (10 finished videos). The remaining 131 slots are fourteen more
+Days 1-4 are done (20 finished videos). The remaining 121 slots are thirteen more
 batches; nothing about a finished file changes except which narration it carries.
 
 ## Honesty rules the pipeline enforces

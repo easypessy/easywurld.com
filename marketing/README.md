@@ -18,7 +18,10 @@
 9. **[TREND_VERIFICATION.csv](./TREND_VERIFICATION.csv)** — the 30 trend holds and their verification fields.
 10. **[MEASUREMENT.csv](./MEASUREMENT.csv)** — 1,196 blank placement rows.
 11. **[../launch-content/social-command/EASYWURLD_POST_COMMANDER.html](../launch-content/social-command/EASYWURLD_POST_COMMANDER.html)** — offline Series Studio for calendar, briefs, per-platform status, QA, notes and CSV export.
-12. **[SCHEDULING_RUNBOOK.md](./SCHEDULING_RUNBOOK.md)** — the order to schedule the month in, given the platform scheduling windows.
+12. **[SCHEDULING_RUNBOOK.md](./SCHEDULING_RUNBOOK.md)** — the order to schedule the month in, given the platform scheduling windows, and the two-set Google Drive layout (SET_A original, SET_B upgraded per day).
+13. **[outreach/](./outreach/README.md)** — the copywriting outreach kit: who needs it most (`COPY_RISK_LADDER.md`), how to find reachable contacts in 20 minutes a day (`FINDING_LEADS.md`), what to send on WhatsApp and on a call (`WHATSAPP_CALL_SCRIPTS.md`), what fires when they reply (`AUTO_RESPONSE.md`) and the log itself (`LEAD_SHEET.csv`).
+14. **[AUDIENCE_PHRASES.md](./AUDIENCE_PHRASES.md)** — the running bank of the audience's own words, rewritten, with the source of each.
+15. **[VIDEO_PIPELINE.md](./VIDEO_PIPELINE.md)** — how the finished videos are rendered: narration, music bed, burned captions, disclosure chips.
 
 ## What is included
 

@@ -49,19 +49,34 @@ Owner identity sources, CVs, consent records, payment details and customer messa
 
 The existing offers prompt and offer booklet remain in `launch-content/social-command/`. They are product reference materials, not a second active calendar.
 
-## November by-day packs (added 2 November 2026)
+## November by-day packs (added 2 November 2026, restructured to per-day delivery)
 
-Google Drive folder: **Easywurld — November 2026 (by day)** — three ten-day zips
-(`Easywurld_November_Days_01-10/11-20/21-30.zip`), each holding `Day_XX/` folders with the
-day sheet, the seven LinkedIn posts, the 33 feed captions, the two stories and every
-rendered file for that day. Built by `python marketing/build-day-packs.py`; index inside
-the folder: `DRIVE_INDEX`.
+Google Drive folder: **Easywurld — November 2026 (by day)** now holds **two sets**:
+
+- **`SET_A__Original_November_content`** — the first delivery, kept as it was: three ten-day
+  zips (`..._Days_01-10/11-20/21-30_SET-A-ORIGINAL.zip`) with first-generation assets and
+  posters. Nothing here is replaced or deleted.
+- **`SET_B__Upgraded_content_PER_DAY`** — the working delivery: **`Day_01.zip` … `Day_30.zip`,
+  one zip per day**, plus the upgraded ten-day bulk zip. Each day zip holds the day sheet, the
+  seven LinkedIn posts, the 33 feed captions, the two stories and every rendered file for that
+  day. A day is re-uploaded on its own when its finished videos land.
+
+Built by `python marketing/build-day-packs.py` (per-day zips + ten-day blocks;
+`--days 3-4` rebuilds only those days after a render batch). Index: `marketing/DRIVE_INDEX.md`,
+mirrored as the `READ_ME` Google Doc in the folder.
 
 LinkedIn is now **seven posts a day** — four on the Easywurld company page (07:30 document,
 10:30 text, 13:30 image, 17:00 native video) and three on Abu Israel's personal profile
 (08:15 build log, 12:45 operator's note, 19:45 evening take; Monday document, Saturday
 poll, Friday video). 210 posts across the month, copy in `marketing/linkedin.mjs`.
 
-Finished videos: `marketing/assets/video-ready/` — Days 1–2 are complete (voiceover,
-synthesised music bed, burned captions, effects, end card; upload as is). The pipeline and
-the ten-clip narration batching rule: `marketing/VIDEO_PIPELINE.md`.
+Finished videos: `marketing/assets/video-ready/` — **Days 1-4 are complete** (voiceover,
+synthesised music bed, burned captions, effects, end card; upload as is), narrated to the
+villain / hero / ally structure with the audience's own words rewritten
+(`marketing/AUDIENCE_PHRASES.md`). Two more days are added per production batch because the
+narration tool allows ten clips per turn. Pipeline and batching rule:
+`marketing/VIDEO_PIPELINE.md`.
+
+Outreach (copywriting first, most-needing to least): `marketing/outreach/` — risk ladder,
+lead-finding routine, WhatsApp and call scripts, the three-layer auto-response system and
+the lead log.
