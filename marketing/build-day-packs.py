@@ -63,7 +63,34 @@ def font(size, weight=600):
         return ImageFont.load_default()
 
 
+def text_page(lines, title):
+    """A plain-words page for the contact-sheet PDF: how to use the pack."""
+    import textwrap
+    from PIL import Image, ImageDraw
+    W, H = 1240, 1754
+    PAPER = (251, 249, 244); INK = (20, 23, 15); GREEN = (10, 73, 55); LINE = (216, 213, 197)
+    page = Image.new('RGB', (W, H), PAPER)
+    d = ImageDraw.Draw(page)
+    d.text((60, 54), title, font=font(44, 700), fill=INK)
+    d.line([(60, 122), (W - 60, 122)], fill=LINE, width=2)
+    y = 156
+    for ln in lines:
+        head = ln.startswith('#')
+        txt = ln[1:].strip() if head else ln
+        size = 30 if head else 24
+        col = GREEN if head else INK
+        for wrapped in textwrap.wrap(txt, 74) or ['']:
+            d.text((60 if head else 78, y), wrapped, font=font(size, 700 if head else 500), fill=col)
+            y += int(size * 1.45)
+        y += 10
+    return page
+
+
 def hhm(t):
+    return str(t).replace(':', '')
+
+
+
     return str(t).replace(':', '')
 
 
@@ -223,11 +250,13 @@ def build_day(day):
            '- **Videos:** one MP4, nothing to arrange — upload as is.',
            '- **LinkedIn:** one PDF per document post; the native video slot uses the same MP4 as the feed.', '',
            '## Copy, in one place', '',
+           '- `00_START_HERE.md` — read first: what to do today in plain words, with a worked example from this day.',
            '- `01_LINKEDIN.md` — the seven LinkedIn posts, bodies and first comments.',
            '- `02_CAPTIONS.md` — the eleven feed posts with all three platform captions.',
            '- `03_STORIES.md` — story frames in order, sticker and caption.',
            '- `04_CAROUSELS.md` — every carousel slide by slide: file name, position, what it says.',
-           '- `05_CONTACT_SHEETS.pdf` — numbered contact sheets: carousels and stories, in order.', '',
+           '- `05_CONTACT_SHEETS.pdf` — numbered contact sheets: carousels and stories, in order, opening with a how-to page.',
+           '- `06_CLICK_ORDER.txt` — the whole day as one linear checklist for the phone: time, platform, attach, caption.', '',
            '## Trend gate', '']
     trends = [p for p in posts if p['seriesKey'] == 'trend']
     for t in trends:
@@ -320,9 +349,83 @@ def build_day(day):
         pages.append(montage(f'{s["time"]}  ·  {s["id"]}  ·  story, 3 frames',
                              f'{s["series"]}   |   post in this order: {dn[0]} → {dn[-1]}',
                              files, cols=3, cell=(300, 533), labels=dn))
-    if pages:
-        pages[0].save(str(folder / '05_CONTACT_SHEETS.pdf'), 'PDF', save_all=True,
-                      append_images=pages[1:], resolution=150.0)
+    howto = text_page([
+        '# What is in this pack',
+        'One zip = one day = everything you post that day. Nothing publishes itself; every row stays Draft until you schedule it.',
+        '# 1. Open 00_DAY_SHEET.md first',
+        'It lists all 46 placements in time order: what posts, where, at what time, which file to attach, which caption to paste, and whether the platform AI label goes on.',
+        '# 2. File names already carry the order',
+        'Every file in assets/ is named HHMM_POSTID_position-of-total. 0700_..._3of5.jpg is the 07:00 post, slide 3 of 5. Sort the folder by name and it is in posting order.',
+        '# 3. Carousels: attach in the numbered order',
+        'Select the file ending _1of5 first, then _2of5, and so on. Instagram, TikTok photo posts and Facebook keep the order you select them in. 04_CAROUSELS.md says what each slide is for.',
+        '# 4. Check the arrangement with your eyes',
+        'The pages after this one show every carousel and story as numbered thumbnails, side by side. If the numbers read 1, 2, 3, 4, 5 you are right.',
+        '# 5. Stories and videos',
+        'Stories are three frames, _1of3 then _2of3 then _3of3. Videos are one MP4 each: upload as is, no editing.',
+        '# 6. Before any video slot',
+        'Read the Video status section at the bottom of the day sheet. If a slot says POSTER ONLY - hold this slot, skip it today; the day is re-uploaded when its video lands.',
+        '# 7. LinkedIn',
+        '01_LINKEDIN.md holds the seven posts: four on the company page, three on the personal profile. Paste the body exactly, then post the first comment. Links go in the first comment only.',
+    ], 'How to use this day pack')
+    allp = [howto] + pages
+    allp[0].save(str(folder / '05_CONTACT_SHEETS.pdf'), 'PDF', save_all=True,
+                 append_images=allp[1:], resolution=150.0)
+
+    # ---- 00_START_HERE.md (plain words, this day's specifics)
+    first_car = cars[0] if cars else None
+    fc_dn = dest_names(first_car, [f'assets/carousels/{first_car["id"]}_slide-{i}.jpg' for i in range(1, 6)]) if first_car else []
+    vids = sorted([p for p in posts if apath(f'assets/video-ready/{p["id"]}.mp4').exists()
+                   and not p.get('slides') and p['seriesKey'] not in ('meme1', 'meme2')
+                   and p['format'] != 'Relatable static'], key=lambda x: x['time'])
+    held = sorted([p for p in posts if not p.get('slides') and p['seriesKey'] not in ('meme1', 'meme2')
+                   and p['format'] != 'Relatable static' and not apath(f'assets/video-ready/{p["id"]}.mp4').exists()],
+                  key=lambda x: x['time'])
+    sh = [f'# Start here · Day {day["day"]:02d} · {day["iso"]} · {day["weekday"]}', '',
+          f'**Offer of the day:** {day.get("offerName", day["offerKeyword"])} · keyword **{day["offerKeyword"]}** · ₦{PRICE:,} DIY pack. Confirm price, contents, payment and delivery before any offer post goes live.', '',
+          f'**Finished videos today: {len(vdone)} of {len(vslots)}.** ' +
+          ('Every video slot is ready — post them exactly as they are.' if vslots and not held else
+           ('The slots listed under "waits for its video" below are posters; post the rest as normal and come back to those when the day is re-uploaded.' if held else '')), '',
+          '## Do today in this order', '',
+          '1. Open `assets/` and sort by name. File names start with the posting time and end with the position — the folder is already in order.',
+          '2. Open `00_DAY_SHEET.md` and work top to bottom. It is in click order.',
+          '3. For each row: attach the file it names, paste the caption from `02_CAPTIONS.md`, set the time, and switch on the AI label where the sheet says YES.',
+          '4. Carousels: select `_1of5` first, then `_2of5`, and so on. Check `04_CAROUSELS.md` for what each slide says, and `05_CONTACT_SHEETS.pdf` to see the order with your eyes.',
+          '5. LinkedIn last, from `01_LINKEDIN.md`: body in the post, link in the first comment.', '',
+          '## Worked example from today', '']
+    if first_car:
+        sh += [f'**{first_car["time"]} · {first_car["id"]} · carousel, five slides.** In `assets/` you will see:', '',
+               *[f'- `{n}`' for n in fc_dn], '',
+               f'Select them in that order for TikTok at {first_car["platforms"]["TikTok"]["time"]}, again for Instagram at '
+               f'{first_car["platforms"]["Instagram"]["time"]}, again for Facebook at {first_car["platforms"]["Facebook"]["time"]}. '
+               f'Three captions for it live in `02_CAPTIONS.md` under {first_car["time"]} · {first_car["id"]} — one per platform, do not reuse.', '']
+    if vids:
+        v = vids[0]
+        sh += [f'**{v["time"]} · {v["id"]} · finished video.** One file: `{hhm(v["time"])}_{v["id"]}.mp4`. Upload it as it is — voiceover, music and captions are already inside.', '']
+    if held:
+        sh += ['## Waits for its video (post the rest today)', '',
+               *[f'- `{p["time"]} · {p["id"]}` — {p["topic"]}' for p in held], '',
+               'These carry a poster for now. They are marked the same way in the day sheet. When the finished MP4 lands, this day is re-uploaded and you post them then.', '']
+    sh += ['## If you only remember three things', '',
+           '- The number at the end of a file name is its position. Attach in that order.',
+           '- The day sheet is the boss: time, platform, file, caption, AI label.',
+           '- Nothing posts itself. You are the last check, and that is the point.', '']
+    (folder / '00_START_HERE.md').write_text('\n'.join(sh) + '\n')
+
+    # ---- 06_CLICK_ORDER.txt (the whole day as one linear checklist)
+    co = [f'EASYWURLD · DAY {day["day"]:02d} · {day["iso"]} · CLICK ORDER', '',
+          'Work top to bottom. Each block is one placement: when, where, what to attach, where the caption is.',
+          '']
+    for i, row in enumerate(sorted(placements, key=lambda r: r[0]), 1):
+        t, platform, fmt, item, files, dn, cap, label = row
+        src = '02_CAPTIONS.md' if platform in ('TikTok', 'Instagram', 'Facebook') and not isinstance(cap, dict) and 'story' not in label else (
+              '03_STORIES.md' if platform in ('Instagram', 'Facebook', 'TikTok') and label == 'story frames' else '01_LINKEDIN.md')
+        co.append(f'{i:02d}. {t}  {platform}  ·  {fmt}  ·  {item["id"]}')
+        co.append(f'    attach: {", ".join(dn) if dn else "text only — see 01_LINKEDIN.md"}')
+        co.append(f'    caption: {src} -> {item["id"]} ({platform})')
+        if item.get('aiDisclosure'):
+            co.append('    AI label: YES — switch on the platform AI setting')
+        co.append('')
+    (folder / '06_CLICK_ORDER.txt').write_text('\n'.join(co) + '\n')
 
     # ---- assets, copied under their ordered names
     seen = set()
