@@ -41,12 +41,17 @@ check(() => {
   assert.deepEqual(plan.series.map(s=>s.slot), [1,2,3,4,5,6,7,8,9,10,11]);
   assert.equal(plan.posts.length, 330);
   assert.equal(plan.stories.length, 60);
-  assert.equal(plan.linkedin.length, 26);
-  assert.equal(plan.placements.length, 1196);
+  assert.equal(plan.linkedin.length, 210);
+  assert.equal(plan.linkedin.filter(l=>l.account==='company').length, 120);
+  assert.equal(plan.linkedin.filter(l=>l.account==='personal').length, 90);
+  assert.equal(plan.placements.length, 1380);
   assert.equal(plan.counts.corePosts, 330);
   assert.equal(plan.counts.stories, 60);
-  assert.equal(plan.counts.linkedin, 26);
-  assert.equal(plan.counts.placements, 1196);
+  assert.equal(plan.counts.linkedin, 210);
+  assert.equal(plan.counts.linkedinCompany, 120);
+  assert.equal(plan.counts.linkedinPersonal, 90);
+  assert.equal(plan.counts.linkedinPerDay, 7);
+  assert.equal(plan.counts.placements, 1380);
   assert.equal(plan.counts.storyPlacements, 180);
   assert.equal(plan.counts.contentPlacements, 990);
 }, 'Campaign shape');
@@ -57,8 +62,9 @@ check(() => {
   assert.equal(source.stories.slots.length, 2);
   assert.equal(source.stories.slots[0].time, '12:30');
   assert.equal(source.stories.slots[1].time, '21:00');
-  assert.equal(source.linkedin.slots.length, 6);
-  assert.equal(new Set(source.linkedin.slots.map(s=>s.weekday)).size, 6);
+  assert.equal(source.linkedin.accounts.length, 2);
+  assert.equal(source.linkedin.accounts[0].postsPerDay + source.linkedin.accounts[1].postsPerDay, 7);
+  assert.match(source.linkedin.accounts[1].url, /linkedin\.com\/in\//);
   assert.equal(source.psychology.principles.length, 12);
   for (const key of source.series.map(s=>s.key)) assert(source.psychology.seriesMap[key], 'no psychology map for '+key);
   assert.equal(source.days.length, 30);
@@ -174,14 +180,16 @@ for (const s of plan.stories) {
 
 for (const l of plan.linkedin) {
   check(() => {
-    assert.match(l.id, /^EW-LI-W\d-[A-Z]+$/);
+    assert.match(l.id, /^EW-LI-D\d{2}-(CO|AB)\d$/);
     assert.equal(l.type, 'LinkedIn');
     assert.equal(l.status, 'Draft');
-    assert.equal(l.time, '09:00');
-    assert(['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'].includes(l.weekday));
+    assert(/^\d{2}:\d{2}$/.test(l.time), 'LinkedIn time format');
+    assert(l.account==='company'||l.account==='personal', 'LinkedIn account field');
+    assert(['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'].includes(l.weekday));
     assert(words(l.body) >= 40, 'LinkedIn copy too thin');
     assert(!/#\w+.*#\w+.*#\w+/.test(l.body), 'LinkedIn body has a hashtag block');
     assert(!/https?:\/\//.test(l.body), 'LinkedIn body should not carry the link');
+    assert(/https?:\/\/|Message \w+ on WhatsApp/.test(l.firstComment||''), 'LinkedIn first comment missing the destination');
     assert(plan.posts.some(p=>p.id===l.sourcePostId), 'LinkedIn source post missing '+l.sourcePostId);
     const pl = l.placements.LinkedIn;
     assert(!placementIds.has(pl.placementId), 'duplicate LinkedIn placement'); placementIds.add(pl.placementId);
@@ -192,11 +200,21 @@ for (const l of plan.linkedin) {
 
 check(() => {
   const li = plan.linkedin;
-  const byWeek = {};
-  for (const l of li) { const w = Math.floor((l.day-1)/7); byWeek[w] = (byWeek[w]||0)+1; }
-  for (const [w, n] of Object.entries(byWeek)) assert(n >= 2 && n <= 6, 'week '+(Number(w)+1)+' has '+n+' LinkedIn posts');
-  assert.equal(plan.linkedin.filter(l=>!['Monday','Saturday'].includes(l.weekday)||true).length >= 24, true, 'LinkedIn set too small');
-  assert.equal(new Set(li.map(l=>l.label)).size, 6, 'LinkedIn format variety');
+  const byDay = {};
+  for (const l of li) byDay[l.day] = (byDay[l.day]||0)+1;
+  for (const [d, n] of Object.entries(byDay)) assert.equal(n, 7, 'day '+d+' has '+n+' LinkedIn posts, expected 7');
+  for (const d of Object.keys(byDay)) {
+    const day = li.filter(l=>l.day===Number(d));
+    assert.equal(day.filter(l=>l.account==='company').length, 4, 'day '+d+' company count');
+    assert.equal(day.filter(l=>l.account==='personal').length, 3, 'day '+d+' personal count');
+    const texts = day.map(l=>l.body);
+    assert.equal(new Set(texts).size, texts.length, 'day '+d+' repeated LinkedIn text');
+    const times = day.map(l=>l.time).sort();
+    for (let i=1;i<times.length;i++) assert(times[i]!==times[i-1], 'two LinkedIn posts share '+times[i]);
+  }
+  assert(new Set(li.map(l=>l.label)).size >= 7, 'LinkedIn format variety');
+  assert.equal(li.filter(l=>l.format.startsWith('Document')).length, 35, 'document posts');
+  for (const l of li.filter(x=>x.format.startsWith('Document'))) assert(l.docPages && l.docPages.length===5, 'doc pages for '+l.id);
   assert.equal(plan.placements.filter(p=>p.platform==='LinkedIn').length, li.length);
 }, 'LinkedIn cadence');
 
@@ -214,27 +232,27 @@ check(() => {
 
 check(() => {
   const csv=parseCSV(read('marketing/calendar/content-calendar.csv'));
-  assert.equal(csv.length, 1197);
-  assert.equal(csv[0].length, 32);
-  for (const r of csv) assert.equal(r.length, 32, 'ragged CSV');
+  assert.equal(csv.length, 1381);
+  assert.equal(csv[0].length, 36);
+  for (const r of csv) assert.equal(r.length, 36, 'ragged CSV');
   const rows=csv.slice(1);
   assert.equal(rows.filter(r=>r[0]==='Content').length, 990);
   assert.equal(rows.filter(r=>r[0]==='Story').length, 180);
-  assert.equal(rows.filter(r=>r[0]==='LinkedIn').length, 26);
+  assert.equal(rows.filter(r=>r[0]==='LinkedIn').length, 210);
   for (const platform of plan.platforms) assert.equal(rows.filter(r=>r[8]===platform&&r[0]==='Content').length, 330);
   for (const r of rows) {
-    assert.equal(r[10], 'Africa/Lagos');
-    assert.equal(r[29], 'Draft');
-    assert.equal(r[30], '');
+    assert.equal(r[12], 'Africa/Lagos');
+    assert.equal(r[33], 'Draft');
+    assert.equal(r[34], '');
     assert(r[1] >= '2026-11-02' && r[1] <= '2026-12-01');
-    assert(r[18].includes('#Easywurld'), 'CSV caption missing brand hashtag');
+    assert(r[22].includes('#Easywurld'), 'CSV caption missing brand hashtag');
   }
   assert.equal(read('marketing/calendar/content-calendar.csv'), read('launch-content/social-command/content_calendar.csv'));
 }, 'Placement CSV');
 
 check(() => {
   const rows=parseCSV(read('marketing/MEASUREMENT.csv'));
-  assert.equal(rows.length, 1197);
+  assert.equal(rows.length, 1381);
   assert.equal(rows[0].length, 23);
   for (const r of rows.slice(1)) {
     assert.equal(r.length, 23, 'ragged metrics');
@@ -260,7 +278,8 @@ check(() => {
   assert(calendar.includes('Series playbook'));
   assert(calendar.includes('Psychology layer'));
   assert(calendar.includes('## Stories'));
-  assert(calendar.includes('## LinkedIn pulls'));
+  assert(calendar.includes('## LinkedIn — Easywurld company page (4 a day)'));
+  assert(calendar.includes('## LinkedIn — Abu Israel personal profile (3 a day)'));
   assert(calendar.indexOf('Strategy before production') < calendar.indexOf('EW-D01-S01'));
   assert.equal(calendar, read('launch-content/social-command/MONTH_POSTS.md'));
   for (const p of plan.posts) assert(calendar.includes(p.id), 'calendar missing '+p.id);
@@ -336,5 +355,5 @@ check(() => {
 
 check(() => new Script(read('launch-content/social-command/build/app-script.js')), 'App source syntax');
 if (errors.length) { console.error(errors.join('\n')); process.exit(1); }
-console.log('PASS: 30 days, 330 content posts, 60 stories, 26 LinkedIn posts, 1,196 placements, 11 series, 11/day/platform.');
+console.log(`PASS: 30 days, ${plan.counts.corePosts} content posts, ${plan.counts.stories} stories, ${plan.linkedin.length} LinkedIn posts (${plan.counts.linkedinCompany} company + ${plan.counts.linkedinPersonal} personal), ${plan.counts.placements} placements, 11 series, 11/day/platform.`);
 console.log('PASS: psychology move on every post, story frames, scene-led memes, Operator persona, captions, offer and DIY gates, trend holds, CSV, metrics, app, docs and assets.');

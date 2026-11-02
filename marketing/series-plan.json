@@ -3666,52 +3666,184 @@
     ]
   },
   "linkedin": {
-    "audience": "Business owners, marketers and operators who read long-form on weekdays.",
-    "cadence": "Six posts a week: Monday carousel write-up, Tuesday teach, Wednesday show, Thursday trust, Friday video repurpose, Saturday offer lesson.",
-    "time": "09:00",
-    "slots": [
+    "audience": "Nigerian business owners, operators and marketers who read LinkedIn between work — Lagos first, then Abuja, Port Harcourt and the diaspora.",
+    "cadence": "Seven posts a day, every day of the month: four on the Easywurld company page and three on Abu Israel's personal profile. 210 LinkedIn posts across the 30-day run.",
+    "accounts": [
       {
-        "key": "li-carousel",
-        "weekday": "Monday",
-        "label": "Carousel write-up (document post)",
-        "source": 1
+        "key": "company",
+        "name": "Easywurld",
+        "type": "Company page",
+        "url": "",
+        "urlNote": "Company page URL not confirmed yet. Fill it in before scheduling; the personal profile URL is known.",
+        "voice": "Brand voice. Plain English, short sentences, one idea per line. Teaches and shows. Never first person singular. No hashtag block.",
+        "postsPerDay": 4,
+        "slots": [
+          {
+            "key": "co1",
+            "time": "07:30",
+            "label": "Document post — the day's lesson as a PDF",
+            "format": "Document post",
+            "sources": [
+              1,
+              7
+            ]
+          },
+          {
+            "key": "co2",
+            "time": "10:30",
+            "label": "Text post — myth verdict, written to be read",
+            "format": "Text post",
+            "sources": [
+              2
+            ]
+          },
+          {
+            "key": "co3",
+            "time": "13:30",
+            "label": "Image post — one rendered card from the day",
+            "format": "Image post",
+            "sources": [
+              5,
+              8,
+              10
+            ]
+          },
+          {
+            "key": "co4",
+            "time": "17:00",
+            "label": "Native video — the day's finished vertical cut",
+            "format": "Native video",
+            "sources": "video"
+          }
+        ]
       },
       {
-        "key": "li-teach",
-        "weekday": "Tuesday",
-        "label": "Siphoned teach post",
-        "source": 2
-      },
-      {
-        "key": "li-show",
-        "weekday": "Wednesday",
-        "label": "Siphoned show / demo post",
-        "source": 4
-      },
-      {
-        "key": "li-trust",
-        "weekday": "Thursday",
-        "label": "Siphoned trust post",
-        "source": 8
-      },
-      {
-        "key": "li-video",
-        "weekday": "Friday",
-        "label": "Repurposed vertical video",
-        "source": 2
-      },
-      {
-        "key": "li-offer",
-        "weekday": "Saturday",
-        "label": "Siphoned offer lesson",
-        "source": 6
+        "key": "personal",
+        "name": "Abu Israel",
+        "type": "Personal profile",
+        "url": "https://www.linkedin.com/in/abu-israel-495b09226",
+        "voice": "First person. Founder of Easywurld, Lagos. Plain everyday Nigerian English, short sentences, warm but not casual. One light Naija touch maximum, only where it earns its place. No fabricated clients, numbers or results — build log and observation, never case study.",
+        "postsPerDay": 3,
+        "slots": [
+          {
+            "key": "ab1",
+            "time": "08:15",
+            "label": "Build log — what I am making and the decision behind it",
+            "format": "Text post",
+            "sources": [
+              4,
+              10
+            ]
+          },
+          {
+            "key": "ab2",
+            "time": "12:45",
+            "label": "Operator's note — one lesson from what I keep seeing",
+            "format": "Text post",
+            "sources": [
+              11,
+              2
+            ]
+          },
+          {
+            "key": "ab3",
+            "time": "19:45",
+            "label": "Evening take — an opinion and a question back",
+            "format": "Text post",
+            "sources": [
+              6,
+              9,
+              7
+            ]
+          }
+        ],
+        "weekly": [
+          {
+            "weekday": "Monday",
+            "slot": "ab1",
+            "format": "Document post",
+            "note": "Monday's build log also ships as a five-page PDF document post."
+          },
+          {
+            "weekday": "Friday",
+            "slot": "ab3",
+            "format": "Native video",
+            "note": "Friday's evening take reuses the day's finished vertical cut with a first-person caption."
+          },
+          {
+            "weekday": "Saturday",
+            "slot": "ab2",
+            "format": "Poll",
+            "note": "Saturday's note ships as a two-option poll with the lesson kept in the post body."
+          }
+        ]
       }
     ],
     "rules": [
-      "Rewrite for reading, never paste a TikTok caption.",
+      "Rewrite for reading. Never paste a TikTok or Instagram caption.",
       "No hashtag block: two tags maximum, at the end.",
-      "Link in the first comment, not the body.",
-      "One video and one document post a week maximum."
+      "The destination link goes in the first comment, never the body. The first-comment text is already written for each post.",
+      "The company page and the personal profile must never post the same text on the same day. Different source slot, different angle, different voice.",
+      "Personal posts stay first person and stay honest: no invented clients, revenue numbers or results.",
+      "One document post and one native video per account per day, maximum.",
+      "Spread the seven posts across the day. Never publish two LinkedIn posts inside the same hour.",
+      "Post the first comment immediately after publishing — LinkedIn shows the post before the comment."
     ]
+  },
+  "voice": {
+    "model": "Plain Nigerian English, warm and direct",
+    "audience": "A Nigerian business owner. Speak as a trusted friend who understands their business, not as a lecturer.",
+    "register": "Educated Nigerian English, Lagos professional register. Simple, conversational, relaxed, direct, warm. Not heavy pidgin, not a forced British or American accent.",
+    "languageLevel": [
+      "Short words: \"get customers\", not \"acquire clientele\"; \"show up on Google\", not \"optimise digital presence\".",
+      "Short sentences: one idea each, about twelve words or fewer.",
+      "Talk about the daily pain: customers calling to ask where you are, people choosing a competitor because they found them first, referrals drying up.",
+      "Use Nigerian reference points: \"the customer who Googles 'towing service in Lekki'\" beats abstract talk about search.",
+      "Light Naija touches only at warm moments — \"no wahala\", \"e go sweet\", \"oya\". One or two per script, never per line.",
+      "No jargon. Drop SEO, conversion, funnel and branding strategy unless you explain it in one plain line.",
+      "Speak like a smart friend explaining it, not a lecturer."
+    ],
+    "delivery": [
+      "Pitch: mid-low, chesty, resonant. Authority without growling.",
+      "Pitch rises slightly on questions and on the first word of a new idea; it drops and settles at the end of statements.",
+      "No upspeak, no sing-song, no climbing pitch across a sentence.",
+      "On the key benefit line, drop the pitch a touch and slow down.",
+      "Pace: about 150-160 words per minute. Speed up slightly on lists and supporting detail.",
+      "Slow down 15-20% on the hook, the main promise, the price and the call to action.",
+      "Never rush the first or last sentence."
+    ],
+    "pauses": [
+      "Comma: 0.2-0.3 seconds. Full stop: 0.5 seconds. Paragraph break or [pause]: 0.8-1 second.",
+      "A tiny pause before a key word or number, for emphasis.",
+      "Soft natural breaths at paragraph breaks only. Never mid-phrase, never loud.",
+      "About one second of silence at the very start and the very end."
+    ],
+    "emphasis": [
+      "Stress meaning words — benefit, number, name, action — not filler words.",
+      "Words in CAPS get gentle, firm emphasis. Never shout.",
+      "Words in *asterisks* are softened, intimate, slower.",
+      "Sound slightly smiling where the tone is positive. Warmth shows in the voice.",
+      "Vary energy: the opening grabs attention, the middle is steady, the close is calm and direct."
+    ],
+    "arc": [
+      "Hook: curious, a little urgent",
+      "Problem: empathetic, grounded, slower",
+      "Solution: confident, brightening",
+      "Proof/benefit: assured, precise",
+      "Call to action: warm, firm, unhurried"
+    ],
+    "avoid": [
+      "Robotic or flat reading, monotone stretches.",
+      "Radio-DJ or hype-man shouting.",
+      "Uniform speed or identical pauses everywhere.",
+      "Over-articulating each word.",
+      "Fake American salesman tone.",
+      "Exaggerated Nigerian accent or caricature.",
+      "Glitchy pronunciation of numbers, brand names or abbreviations.",
+      "Trailing off at the ends of sentences."
+    ],
+    "referenceFeel": "A trusted Lagos business mentor on a keynote stage, or a premium brand documentary narrator. Calm authority, human warmth, total clarity.",
+    "ttsNote": "No Nigerian-accent TTS voice model is available in this toolchain (en-NG is rejected). The narration voice is the owner-selected English voice; the Nigerian register is carried by the writing — plain words, short sentences, Lagos reference points and one light Naija touch where it earns its place. Re-audition if a Nigerian voice model becomes available.",
+    "output": "Single take, consistent tone start to finish, broadcast quality, no background noise."
   }
 }

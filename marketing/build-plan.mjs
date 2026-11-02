@@ -8,6 +8,8 @@
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, rmSync } from 'node:fs';
 import { join, dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { makeLinkedIn } from './linkedin.mjs';
+import { voFor } from './voice.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const root = resolve(here, '..');
@@ -25,6 +27,7 @@ const platformCode = { TikTok: 'TT', Instagram: 'IG', Facebook: 'FB', LinkedIn: 
 const esc = s => String(s ?? '').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 const mdText = s => String(s ?? '').replaceAll('|','\\|').replaceAll('\n','<br>');
 const quote = s => String(s ?? '').split('\n').map(l => l ? '> ' + l : '>').join('\n');
+const firstLine = s => String(s ?? '').split('\n')[0];
 const csvCell = v => '"' + String(v ?? '').replaceAll('"','""') + '"';
 const money = n => '₦' + Number(n).toLocaleString('en-NG');
 const longDate = iso => new Date(iso + 'T00:00:00Z').toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'});
@@ -329,77 +332,10 @@ function makeStories(day) {
   return out;
 }
 
-/* ---------------- LinkedIn pulls ---------------- */
-const LI_SOURCES = { 'li-carousel': 1, 'li-teach': 7, 'li-show': 4, 'li-trust': 8, 'li-video': 2, 'li-offer': 6 };
-
-function linkedinCopy(post, offer) {
-  const P = s => String(s || '').trim();
-  switch (post.seriesKey) {
-    case 'niche': {
-      const n = post.slides[1].split('\n').slice(1).join('\n');
-      return [P(post.hook), '', 'If I were running this account, I would test three posts this week:', '', n.replace(/^1\. /m,'1. '), '', `The mistake to avoid: ${post.slides[2].replace('One mistake to avoid: ','')}`, '', post.slides[3], '', 'Planning example, not a claim that we manage this account.', '', 'Which one would you test first?'].join('\n');
-    }
-    case 'copy':
-      return [P(post.slides[0]), '', post.slides[1], '', 'An original example, not theirs:', '', post.slides[2].replace('Original Easywurld example: ',''), '', post.slides[3], '', 'Source: ' + post.slides[4].replace('Try it on one headline today. Source: ','')].join('\n');
-    case 'ai': {
-      const steps = post.slides ? post.slides.slice(1, 4).map(s => '→ ' + s) : String(post.script || '').split('. ').slice(1, 4).map(s => '→ ' + trimPeriod(s) + '.');
-      const boundary = post.slides ? post.slides[4] : 'Nothing is sent automatically; a person checks price, promise and tone.';
-      return [P(post.hook), '', 'The workflow, in the order it has to happen:', '', steps.join('\n'), '', `The boundary: ${boundary}`, '', 'If the draft cannot be checked by a person who knows the price, it is not ready to send.'].join('\n');
-    }
-    case 'meme1':
-    case 'meme2': {
-      const lesson = post.caption.split('\n\n').filter(l => l.length > 20 && !l.startsWith('#') && !/Concept project/i.test(l) && l !== post.cta && l !== post.hook);
-      return [P(post.hook), '', P(post.meme ? post.meme.sub : ''), '', lesson.length ? lesson[0] : 'The joke is the recognition. The caption is the fix.', '',
-        'Two things I would change in a small business this week:', '',
-        '1. Write the next step into the offer, not the caption.',
-        '2. Put the price, the contents and the boundary in the same message.', '',
-        'That is the whole post. No thread, no funnel.'].join('\n');
-    }
-    case 'operator':
-      return [P(post.hook), '', post.script.replace(post.hook,'').replace(post.cta,'').trim(), '', 'Three things I would check on any account this week:', '',
-        '1. Is the offer readable in four seconds?',
-        '2. Does every post ask for exactly one thing?',
-        '3. Would a stranger know what to do next?', '',
-        'That is the whole note. No thread, no upsell.'].join('\n');
-    case 'myth':
-      return [P(post.script.split(' Verdict:')[0].replace('Marketing myth: ','A myth worth testing: ')), '', post.script.split('Verdict: ')[1].split('.')[0] + '.', '', post.script.split('Verdict: ')[1].split('. ').slice(1).join('. ').replace(/Test it:.*$/,'').trim(), '', 'How I would test it: ' + post.script.split('Test it: ')[1].replace('That is Myth Court: keep the useful part, drop the absolute.','').trim(), '', 'Keep the useful part. Drop the absolute.'].join('\n');
-    default:
-      return [P(post.hook), '', P(body(post)).replace(/\n\n/g,'\n'), '', P(post.cta)].join('\n');
-  }
-}
-
-function makeLinkedIn(dayPostsByDay, days) {
-  const items = [];
-  for (let i = 0; i < days.length; i++) {
-    const day = days[i];
-    for (const slot of source.linkedin.slots) {
-      if (day.weekday !== slot.weekday) continue;
-      const sourceSlot = LI_SOURCES[slot.key] || 1;
-      const src = dayPostsByDay.get(day.day).find(p => p.slot === sourceSlot);
-      if (!src) continue;
-      const offer = offerByKeyword.get(day.offerKeyword);
-      const isVideo = slot.key === 'li-video';
-      const isDoc = slot.key === 'li-carousel';
-      const text = linkedinCopy(src, offer);
-      const bodyText = isDoc ? text + '\n\n(Full carousel on the feed. The document version is the same five slides as a PDF.)' : text;
-      const item = {
-        id: `EW-LI-W${String(Math.floor(i/7)+1)}-${slot.key.replace('li-','').toUpperCase()}`,
-        type: 'LinkedIn', slot: slot.key, label: slot.label, day: day.day, date: day.iso, weekday: day.weekday,
-        time: source.linkedin.time, format: isDoc ? 'Document post (carousel write-up)' : isVideo ? 'Vertical video' : 'Text post',
-        sourcePostId: src.id, sourceTopic: src.topic, series: 'LinkedIn · ' + slot.label,
-        pillar: src.pillar, status: 'Draft', aiDisclosure: isVideo, cta: isVideo ? src.cta : 'What would you add? One line is enough.',
-        hook: bodyText.split('\n')[0], body: bodyText, caption: bodyText + '\n\n#Easywurld #SmallBusiness',
-        asset: isVideo ? src.asset : isDoc ? `${src.id}_carousel.zip` : '',
-        visual: isVideo ? 'Reuse the vertical cut from the same day. Re-frame to 4:5 or 1:1 with captions burned in; keep the AI label.' : isDoc ? 'Upload the five-slide carousel as a PDF document post. Slide 1 is the cover image LinkedIn shows on mobile.' : 'Native text post. No external link in the body; the destination goes in the first comment.',
-        edit: 'Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.',
-        fallback: 'Publish the first three paragraphs as a plain text post without the document.',
-        placements: { LinkedIn: { placementId: `EW-LI-W${String(Math.floor(i/7)+1)}-${slot.key.replace('li-','').toUpperCase()}-LI`, time: source.linkedin.time, format: isVideo ? 'Native video' : isDoc ? 'Document post' : 'Text post', caption: bodyText + '\n\n#Easywurld #SmallBusiness', status: 'Draft', actualUrl: '' } },
-      };
-      items.push(item);
-    }
-  }
-  return items;
-}
+/* ---------------- LinkedIn: 4/day company + 3/day personal ---------------- */
+/* The copy itself lives in ./linkedin.mjs so the two accounts stay auditable
+   in one place. This file only supplies the inputs: the day's eleven posts,
+   the raw editorial facts, and the day's finished-video slots. */
 
 /* ---------------- build ---------------- */
 const days = source.days.map(d => ({ day: d.day, iso: isoFor(d.day), weekday: weekdays[new Date(isoFor(d.day)+'T00:00:00Z').getUTCDay()], offerKeyword: d.offerKeyword }));
@@ -412,12 +348,24 @@ for (const d of source.days) {
   dayPostsByDay.set(d.day, dayPosts);
 }
 const stories = source.days.flatMap(makeStories);
-const linkedin = makeLinkedIn(dayPostsByDay, days);
+const editorialByDay = new Map(source.days.map(d => [d.day, d]));
+const VIDEO_FORMATS = new Set(['AI talking head', 'Screen demo', 'Text video']);
+const videoSlotsByDay = new Map(days.map(d => [d.day, posts.filter(p => p.day === d.day && VIDEO_FORMATS.has(p.format))]));
+const linkedin = makeLinkedIn({ source, days, dayPostsByDay, editorialByDay, videoSlotsByDay, PRICE, waFor, urlFor });
+
+/* ---------------- spoken-voice layer ----------------
+   Every video slot gets a narration script in plain Nigerian English and the
+   caption chunks that get burned into the finished MP4. The written `script`
+   stays untouched as the record; `voScript` is what the voice says. */
+for (const p of posts) {
+  if (!VIDEO_FORMATS.has(p.format)) continue;
+  Object.assign(p, voFor(p, editorialByDay.get(p.day), longDate));
+}
 
 const placements = [
-  ...posts.flatMap(p => source.platforms.map(platform => ({ ...p.platforms[platform], type: 'Content', postId: p.id, platform, date: p.date, day: p.day, slot: p.slot, series: p.series, seriesKey: p.seriesKey, topic: p.topic, format: p.format, pillar: p.pillar, hook: p.hook, body: body(p), cta: p.cta, route: p.route, keyword: p.keyword, offerKeyword: p.offerKeyword, sourceUrl: p.sourceUrl, sourceDate: p.sourceDate, verification: p.verification, aiDisclosure: p.aiDisclosure, asset: p.asset, fallback: p.fallback, psych: p.psych }))),
+  ...posts.flatMap(p => source.platforms.map(platform => ({ ...p.platforms[platform], type: 'Content', postId: p.id, platform, date: p.date, day: p.day, slot: p.slot, series: p.series, seriesKey: p.seriesKey, topic: p.topic, format: p.format, pillar: p.pillar, hook: p.hook, body: body(p), cta: p.cta, route: p.route, keyword: p.keyword, offerKeyword: p.offerKeyword, sourceUrl: p.sourceUrl, sourceDate: p.sourceDate, verification: p.verification, aiDisclosure: p.aiDisclosure, asset: p.asset, fallback: p.fallback, psych: p.psych, voScript: p.voScript, voLines: p.voLines, voTts: p.voTts }))),
   ...stories.flatMap(s => source.stories.platforms.map(platform => ({ ...s.placements[platform], type: 'Story', postId: s.id, platform, date: s.date, day: s.day, slot: s.slot, series: s.series, seriesKey: s.key, topic: s.sticker, format: s.placements[platform].format, pillar: s.pillar, hook: s.frames[0], body: s.frames.join('\n\n'), cta: s.cta, route: '/about', keyword: '', offerKeyword: '', sourceUrl: null, sourceDate: null, verification: '', aiDisclosure: false, asset: s.asset, fallback: s.fallback }))),
-  ...linkedin.map(l => ({ ...l.placements.LinkedIn, type: 'LinkedIn', postId: l.id, platform: 'LinkedIn', date: l.date, day: l.day, slot: l.slot, series: l.series, seriesKey: 'linkedin', topic: l.sourceTopic, format: l.format, pillar: l.pillar, hook: l.hook, body: l.body, cta: l.cta, route: '/about', keyword: '', offerKeyword: '', sourceUrl: null, sourceDate: null, verification: '', aiDisclosure: l.aiDisclosure, asset: l.asset, fallback: l.fallback })),
+  ...linkedin.map(l => ({ ...l.placements.LinkedIn, type: 'LinkedIn', postId: l.id, platform: 'LinkedIn', date: l.date, day: l.day, slot: l.slot, series: l.series, seriesKey: l.seriesKey, account: l.account, accountName: l.accountName, accountUrl: l.accountUrl, firstComment: l.firstComment, poll: l.poll, docPages: l.docPages, psych: l.psych, topic: l.sourceTopic, format: l.format, pillar: l.pillar, hook: l.hook, body: l.body, cta: l.cta, route: '/about', keyword: '', offerKeyword: '', sourceUrl: null, sourceDate: null, verification: '', aiDisclosure: l.aiDisclosure, asset: l.asset, fallback: l.fallback })),
 ];
 
 const fmtCount = Object.fromEntries([...new Set(posts.map(p => p.format))].map(f => [f, posts.filter(p => p.format === f).length]));
@@ -428,6 +376,13 @@ const plan = {
   memeScenes: MEME_SCENES,
   counts: {
     corePosts: posts.length, stories: stories.length, linkedin: linkedin.length,
+    linkedinCompany: linkedin.filter(l => l.account === 'company').length,
+    linkedinPersonal: linkedin.filter(l => l.account === 'personal').length,
+    linkedinPerDay: source.linkedin.accounts.reduce((a, b) => a + b.postsPerDay, 0),
+    linkedinDocs: linkedin.filter(l => l.format.startsWith('Document')).length,
+    linkedinVideos: linkedin.filter(l => l.format === 'Native video').length,
+    linkedinImages: linkedin.filter(l => l.format === 'Image post').length,
+    linkedinPolls: linkedin.filter(l => l.format === 'Poll').length,
     contentItems: posts.length + stories.length + linkedin.length,
     placements: placements.length,
     contentPlacements: posts.length * 3, storyPlacements: stories.length * 3, linkedinPlacements: linkedin.length,
@@ -441,7 +396,7 @@ writeFileSync(join(here, 'content-plan.json'), JSON.stringify(plan, null, 2) + '
 /* ---------------- briefs ---------------- */
 const briefDir = join(here, 'briefs');
 mkdirSync(briefDir, { recursive: true });
-for (const f of readdirSync(briefDir)) if (/^EW-(D\d{2}-S\d{2}|D\d{2}-ST[AB]|LI-W\d-[A-Z]+)\.md$/.test(f)) rmSync(join(briefDir, f));
+for (const f of readdirSync(briefDir)) if (/^EW-(D\d{2}-S\d{2}|D\d{2}-ST[AB]|LI-(W\d-[A-Z]+|D\d{2}-(CO|AB)\d))\.md$/.test(f)) rmSync(join(briefDir, f));
 function psychWhere(p) {
   switch (p.seriesKey) {
     case 'niche': return 'the three named post ideas and the one first action — concrete enough to copy this week.';
@@ -466,6 +421,7 @@ function brief(p, heading = 2) {
   if (p.offerKeyword) out.push(`- **Daily offer:** ${p.offerName} · ${money(PRICE)} DIY. Confirm price, contents, payment and delivery before publishing.`, '');
   if (p.verification) out.push(`- **Trend gate:** ${p.verification}`, `- **Dated source:** ${p.sourceUrl} (${longDate(p.sourceDate)})`, '');
   out.push(`${h}# Hook / first frame`, '', quote(p.hook), '', `${h}# ${p.script ? 'Exact spoken script' : p.slides ? 'Exact slide copy' : 'Exact image copy'}`, '', quote(body(p)), '');
+  if (p.voScript) out.push(`${h}# Voiceover script — plain Nigerian English`, '', 'This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.', '', quote(p.voScript), '', `${h}# Burned-in caption chunks`, '', 'Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.', '', ...p.voLines.map((l, i) => `${i + 1}. ${l}`), '');
   if (p.meme) out.push(`${h}# Meme scene`, '', `- **Scene plate:** \`assets/meme-scenes/${p.meme.image}\``, `- **On-image line:** ${p.meme.line}`, `- **Second line:** ${p.meme.sub}`, '');
   if (p.beats) out.push(`${h}# Edit / shot order`, '', ...p.beats.map(b => '- ' + b), '');
   out.push(`${h}# Platform captions`, '');
@@ -486,7 +442,20 @@ function storyBrief(s) {
   return out.join('\n');
 }
 function linkedinBrief(l) {
-  return [`## ${l.id} · ${l.label}`, '', `**${l.date} · ${l.weekday} · ${l.time} WAT · ${l.format}**`, '', `- **Siphoned from:** ${l.sourcePostId} — ${l.sourceTopic}`, `- **Status:** Draft — not scheduled`, `- **Single CTA:** ${l.cta}`, '', '## Post copy', '', quote(l.body), '', '## Notes', '', l.visual, '', l.edit, '', `**Fallback:** ${l.fallback}`, ''].join('\n');
+  const out = [`## ${l.id} · ${l.label}`, '',
+    `**${l.date} · ${l.weekday} · ${l.time} WAT · ${l.format}**`, '',
+    `- **Account:** ${l.accountName} (${l.accountType})${l.accountUrl ? ' · ' + l.accountUrl : ''}`,
+    `- **Siphoned from:** ${l.sourcePostId} (slot ${l.sourceSlot}) — ${l.sourceTopic}`,
+    `- **Status:** Draft — not scheduled`,
+    `- **Single CTA:** ${l.cta}`,
+    `- **AI label:** ${l.aiDisclosure ? 'Yes — enable the platform AI setting' : 'Not required'}`];
+  if (l.asset) out.push(`- **Asset:** \`${l.asset}\``);
+  if (l.psych) out.push(`- **Psychology move:** ${l.psych.name} — ${l.psych.use}`, `- **Guard:** ${l.psych.guard}`);
+  out.push('', '### Post body (paste this)', '', quote(l.body), '', '### First comment (post immediately after publishing)', '', quote(l.firstComment), '');
+  if (l.poll) out.push('### Poll', '', `- **Question:** ${l.poll.question}`, ...l.poll.options.map(o => `- Option: ${o}`), `- **Answer to give in the comments:** ${l.poll.answer}`, '');
+  if (l.docPages) out.push('### Document pages (rendered to PDF)', '', ...l.docPages.flatMap((pg, i) => [`**Page ${i + 1}** — ${pg.kicker}`, '', quote(pg.title + (pg.body ? '\n\n' + pg.body : '')), '']), '');
+  out.push('### Notes', '', l.visual, '', l.edit, '', `**Fallback:** ${l.fallback}`, '');
+  return out.join('\n');
 }
 for (const p of posts) writeFileSync(join(briefDir, p.id + '.md'), '# ' + p.id + ' — production brief\n\n' + brief(p));
 for (const s of stories) writeFileSync(join(briefDir, s.id + '.md'), '# ' + s.id + ' — story brief\n\n' + storyBrief(s));
@@ -501,8 +470,11 @@ const md = ['# Easywurld — 30-day calendar: 11 posts and 2 stories a day', '',
 for (const d of days) { const ps = posts.filter(p => p.day === d.day); md.push(`| ${d.day} | ${d.iso} · ${d.weekday} | ${d.offerKeyword} | ${ps.map(p => mdText(p.topic)).join(' | ')} |`); }
 md.push('', '## Stories', '', '| Day | Date | 12:30 Poll / quiz | 21:00 Behind the desk |', '|---:|---|---|---|');
 for (const d of days) { const ss = stories.filter(s => s.day === d.day); md.push(`| ${d.day} | ${d.iso} | ${mdText(ss[0].frames[0])} | ${mdText(ss[1].frames[0])} |`); }
-md.push('', '## LinkedIn pulls', '', '| Date | Slot | Format | Source | Hook |', '|---|---|---|---|---|');
-for (const l of linkedin) md.push(`| ${l.date} · ${l.weekday} | ${l.label} | ${l.format} | ${l.sourcePostId} | ${mdText(l.hook)} |`);
+md.push('', '## LinkedIn — Easywurld company page (4 a day)', '', '| Date | Time | Format | Source | First line |', '|---|---|---|---|---|');
+for (const l of linkedin.filter(x => x.account === 'company')) md.push(`| ${l.date} · ${l.weekday} (day ${l.day}) | ${l.time} | ${l.format} | ${l.sourcePostId} | ${mdText(firstLine(l.hook))} |`);
+md.push('', '## LinkedIn — Abu Israel personal profile (3 a day)', '', 'Profile: https://www.linkedin.com/in/abu-israel-495b09226', '', '| Date | Time | Format | Source | First line |', '|---|---|---|---|---|');
+for (const l of linkedin.filter(x => x.account === 'personal')) md.push(`| ${l.date} · ${l.weekday} (day ${l.day}) | ${l.time} | ${l.format} | ${l.sourcePostId} | ${mdText(firstLine(l.hook))} |`);
+md.push('', 'Seven LinkedIn posts a day, every day: 120 on the company page and 90 on the personal profile. The two accounts never post the same text. Links go in the first comment, never the body.', '');
 md.push('', '## Production briefs', '', 'All copy is draft until reviewed. The prompts are filled; the Operator persona is the approved presenter, and trend slots still need a human verification step. No finished videos or live scheduling are implied.', '', '---', '');
 for (const d of days) {
   md.push(`# Day ${d.day} · ${d.iso} · ${d.weekday} · Offer: ${d.offerKeyword}`, '');
@@ -516,14 +488,14 @@ writeFileSync(join(here, 'calendar/30-day-calendar.md'), calendar);
 writeFileSync(join(kit, 'MONTH_POSTS.md'), calendar);
 
 /* ---------------- CSV ---------------- */
-const headers = ['Type', 'Date', 'Weekday', 'Day', 'Slot', 'Series', 'Post ID', 'Placement ID', 'Platform', 'Time (WAT)', 'Timezone', 'Platform format', 'Core format', 'Pillar', 'Psychology move', 'Topic', 'Hook / first frame', 'Script / slide / image copy', 'Caption', 'Single CTA', 'Destination (verify)', 'Keyword', 'Daily offer', 'Dated source URL', 'Dated source date', 'Trend verification gate', 'AI disclosure', 'Expected asset', 'Fallback', 'Status', 'Actual post URL', 'Notes'];
+const headers = ['Type', 'Date', 'Weekday', 'Day', 'Slot', 'Series', 'Post ID', 'Placement ID', 'Platform', 'LinkedIn account', 'First comment', 'Time (WAT)', 'Timezone', 'Platform format', 'Core format', 'Pillar', 'Psychology move', 'Topic', 'Hook / first frame', 'Script / slide / image copy', 'Voiceover script (plain Nigerian English)', 'Burned caption chunks', 'Caption', 'Single CTA', 'Destination (verify)', 'Keyword', 'Daily offer', 'Dated source URL', 'Dated source date', 'Trend verification gate', 'AI disclosure', 'Expected asset', 'Fallback', 'Status', 'Actual post URL', 'Notes'];
 const rows = [headers];
 for (const pl of placements) {
   const core = pl.type === 'Content' ? posts.find(p => p.id === pl.postId) : null;
   const disc = pl.type === 'Story' ? 'Not planned; reassess if a synthetic voice is used'
     : pl.aiDisclosure ? (core && core.format === 'Screen demo' ? 'AI voice · Easywurld + platform setting' : 'AI presenter · Easywurld + platform setting')
     : 'Not planned; reassess if method changes';
-  rows.push([pl.type, pl.date, weekdays[new Date(pl.date + 'T00:00:00Z').getUTCDay()], pl.day, pl.slot, pl.series, pl.postId, pl.placementId, pl.platform, pl.time, source.timezone, pl.format, core ? core.format : pl.format, pl.pillar, pl.psych ? pl.psych.name : '', pl.topic, pl.hook, pl.body, pl.caption, pl.cta, urlFor(pl.route), pl.keyword, pl.offerKeyword, pl.sourceUrl || '', pl.sourceDate || '', pl.verification || '', disc, 'assets/' + pl.postId + '/' + pl.asset, pl.fallback, 'Draft', '', 'Not scheduled. Human approval required.']);
+  rows.push([pl.type, pl.date, weekdays[new Date(pl.date + 'T00:00:00Z').getUTCDay()], pl.day, pl.slot, pl.series, pl.postId, pl.placementId, pl.platform, pl.accountName || '', pl.firstComment || '', pl.time, source.timezone, pl.format, core ? core.format : pl.format, pl.pillar, pl.psych ? pl.psych.name : '', pl.topic, pl.hook, pl.body, pl.voScript || '', (pl.voLines || []).join(' | '), pl.caption, pl.cta, urlFor(pl.route), pl.keyword, pl.offerKeyword, pl.sourceUrl || '', pl.sourceDate || '', pl.verification || '', disc, 'assets/' + pl.postId + '/' + pl.asset, pl.fallback, 'Draft', '', 'Not scheduled. Human approval required.']);
 }
 const csv = rows.map(r => r.map(csvCell).join(',')).join('\n') + '\n';
 writeFileSync(join(kit, 'content_calendar.csv'), csv);

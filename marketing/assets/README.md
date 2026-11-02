@@ -4,7 +4,9 @@ Rendered from `marketing/series-plan.json` → `content-plan.json`. Every image 
 
 ## What is rendered
 
-- `carousels/`: 121 carousels as five 1080×1350 JPEGs each, uploaded in slide order. `5` Monday carousels also have a PDF for the LinkedIn document post.
+- `carousels/`: 121 carousels as five 1080×1350 JPEGs each, uploaded in slide order.
+- `linkedin/`: 35 LinkedIn document-post PDFs — four a day on the Easywurld company page, three a day on Abu Israel's personal profile.
+- `video-ready/`: finished vertical MP4s (voiceover + music bed + burned captions + effects). Anything not here yet has a poster in `fallbacks/`.
 - `stories/`: 60 stories × 3 frames at 1080×1920 (Instagram, then Facebook +5 min, TikTok +10 min).
 - `memes/`: 60 scene-led meme JPEGs — photograph first, small two-line caption in the lower third.
 - `meme-scenes/`: the eight 4:5 photograph plates the memes and desk scenes are built from.
@@ -21,4 +23,4 @@ Rendered from `marketing/series-plan.json` → `content-plan.json`. Every image 
 - Every clip with a synthetic presenter or voice carries `AI presenter · Easywurld` and the platform AI setting.
 - Trend Desk posters say **HOLD**: complete `marketing/TREND_VERIFICATION.csv` or publish only as a dated teardown with live-trend wording removed.
 - Confirm the ₦5,000 price, pack contents and fulfilment before publishing any offer post.
-- Regenerate with `/home/user/.venv/bin/python marketing/build-assets.py` after `npm run content:build`. Fonts live in `~/.cache/easywurld-fonts`.
+- Regenerate with `bash marketing/setup-env.sh && EASYWURLD_FONT_DIR=/tmp/easywurld-env/fonts /tmp/easywurld-env/venv/bin/python marketing/build-assets.py` after `npm run content:build`.

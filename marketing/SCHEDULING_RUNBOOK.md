@@ -1,6 +1,6 @@
 # Scheduling runbook — the order to schedule November in
 
-**Plan:** 11 posts + 2 stories a day on TikTok, Instagram and Facebook, plus 6 LinkedIn posts a week.
+**Plan:** 11 posts + 2 stories a day on TikTok, Instagram and Facebook, plus **7 LinkedIn posts a day** — four on the Easywurld company page and three on Abu Israel's personal profile (210 across the month).
 **All assets:** rendered. See `assets/ASSET_MANIFEST.csv` for the file behind every item.
 **Everything starts Draft.** Nothing in this repo publishes anything by itself.
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | TikTok (official in-app scheduler) | ~15 minutes to **10 days** ahead | You cannot schedule all 30 days tonight. Schedule in **rolling 10-day windows**, then refill. |
 | Meta Business Suite (Facebook + Instagram) | Weeks ahead, limits vary by account | Schedule the whole month or in weekly blocks, whichever your account allows. |
-| LinkedIn | Native scheduling, days-to-weeks ahead | Six posts a week at 09:00; schedule weekly. |
+| LinkedIn | Native scheduling, days-to-weeks ahead | Seven posts a day (4 company + 3 personal). Schedule a week at a time; the personal profile posts first-person and never the same text as the page. |
 
 So "schedule it all tonight" really means: **Meta = the whole month, LinkedIn = the month, TikTok = the next 10 days**.
 
@@ -48,10 +48,12 @@ Open `launch-content/social-command/EASYWURLD_POST_COMMANDER.html` → **Daily c
 4. Photo carousels: upload the five slides as a photo post.
 5. Set a reminder to refill TikTok on day 9 — this is the one thing that must not slip.
 
-### Step 4 — LinkedIn
-1. Monday: upload `assets/carousels/EW-D01-S01_carousel.pdf` as a **document post** with the Monday LinkedIn copy.
-2. Tuesday–Thursday, Saturday: paste the text posts from the **LinkedIn** tab. Put the destination link in the **first comment**, not the body.
-3. Friday: post the week's strongest vertical clip, re-framed 4:5, with the AI label if there is a synthetic voice.
+### Step 4 — LinkedIn (seven posts a day)
+1. **Company page, 07:30** — upload `assets/linkedin/EW-LI-Dxx-CO1.pdf` as a **document post** with the CO1 body.
+2. **Company page, 10:30 / 13:30** — the myth text post, then the image post (attach the file named on the day sheet).
+3. **Company page, 17:00** — upload the finished MP4 named on the day sheet (captions and the AI label are already burned in). Where no finished video exists yet, post that slot's poster as an image post instead.
+4. **Personal profile, 08:15 / 12:45 / 19:45** — paste from `01_LINKEDIN.md`. Abu Israel's voice is first person; Monday's 08:15 also ships as a PDF document, Saturday's 12:45 is a native poll, Friday's 19:45 reuses the day's finished video.
+5. For every LinkedIn post, publish the **first comment immediately** afterwards — it is already written in `01_LINKEDIN.md` and carries the link. Never put a link in the body.
 
 ### Step 5 — Record what you did
 For each placement you schedule, set the status in the studio to **Scheduled**. After it goes live, paste the actual URL. Export a JSON backup when you finish the night.
@@ -76,16 +78,23 @@ The rule is **hold, do not stack**:
 3. Never publish two catch-up posts in the same hour.
 4. Never publish a trend post with live-trend language unless the verification row is filled.
 
+## 4b. The by-day packs and the finished videos
+
+`python marketing/build-day-packs.py` builds `marketing/render/packs/Day_XX/` — one folder per day holding the day sheet, the LinkedIn copy, the captions, the stories and every rendered file — then zips them in ten-day blocks for Google Drive (folder: **Easywurld — November 2026 (by day)**). Work from the day sheet top to bottom; it lists all 46 placements in time order with the exact file for each.
+
+`python marketing/build-video.py --day N` renders every video slot on a day that already has a narration file in `marketing/render/vo/`: the voiceover, an instrumental bed synthesised for the brand and ducked under the voice, burned-in captions, Ken Burns moves, dissolves, grain, a warm grade, the brand header, the AI disclosure chip and an end card with the CTA and WhatsApp keyword. The result needs no editing — upload it as is. Pipeline notes and the narration batching rule: `marketing/VIDEO_PIPELINE.md`.
+
 ## 5. What is genuinely ready vs still to produce
 
 | Ready now | Still to produce |
 |---|---|
-| 605 carousel slides | 141 vertical video clips (or use the posters) |
-| 60 memes, 8 statics | 5 LinkedIn PDFs are ready — but the Friday videos are clips |
-| 180 story frames | Sticker placement inside each app |
-| 141 video posters | Voice/avatar recording for the ~92 talking-head slots |
-| All 330 captions × 3 platforms | Actual post URLs after publishing |
-| 26 LinkedIn posts written | The Sunday siphon, if you prefer writing it fresh |
+| 605 carousel slides | 131 of the 141 vertical videos (Days 1–2 are finished) |
+| 60 memes, 8 statics | Sticker placement inside each app |
+| 180 story frames | Actual post URLs after publishing |
+| 35 LinkedIn document PDFs | The Easywurld company page URL (fill it into the plan) |
+| 210 LinkedIn posts written (4 + 3 a day) | Narration for Days 3–30, in ten-clip batches |
+| All 330 captions × 3 platforms | |
+| 10 finished ready-to-post MP4s (Days 1–2) | |
 
 ## 6. Two honest warnings
 

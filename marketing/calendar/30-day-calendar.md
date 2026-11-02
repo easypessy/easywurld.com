@@ -2,7 +2,7 @@
 
 **Monday 2 November–Tuesday 1 December 2026 · Africa/Lagos (WAT, UTC+1)**
 
-**330 core posts · 60 stories · 26 LinkedIn posts · 1196 platform placements.**
+**330 core posts · 60 stories · 210 LinkedIn posts · 1380 platform placements.**
 
 ## Strategy before production
 
@@ -517,6 +517,31 @@ After seven days, compare per series: saves (reciprocity, specificity), shares (
 
 > Sources are books and papers, cited by author and year. No framework here depends on a claim we cannot point to.
 
+## 7. How this file drives the build
+
+This is not a reference document that sits beside the calendar. It is the input that shapes every post.
+
+| Field | Written by | Where you see it |
+|---|---|---|
+| `psychology.principles[]` | this file | `marketing/series-plan.json` → the twelve principles, their source and their guardrail |
+| `psychology.seriesMap` | this file | the builder assigns a primary/secondary principle per series, alternating by day so the month does not lean on one lever |
+| `psych.name`, `psych.use`, `psych.guard` | generated | every post in `content-plan.json`, every brief in `marketing/briefs/`, the `Psychology move` column in the CSV, the post detail in the studio |
+| `Where it shows up here` | generated | the line in each brief that names the exact sentence or structural choice carrying the principle |
+
+If you edit a principle or a source here, change it in `series-plan.json → psychology` too, then run `npm run content:build`. Do not edit the generated files.
+
+## 8. Re-balancing after week one
+
+The month is tagged, not locked. After seven days:
+
+1. Export `marketing/MEASUREMENT.csv` with real numbers.
+2. Score each series on **saves** (reciprocity, specificity), **shares** (identity), **sticker taps** (commitment), **keyword enquiries** (anchoring, objection relief) and **comment quality** (curiosity gap).
+3. Change **one lever per series per week**: the hook, the length, or the ask. Never three at once, or you learn nothing.
+4. If a principle is consistently underperforming on a series, swap its primary to the secondary and run the next week as a test.
+5. Keep the 22:00 Operator slot for a full three weeks before judging it. The peak-end effect needs repetition to show up in follows.
+
+> A principle is validated by behaviour, not by how clever the line felt when you wrote it.
+
 
 ## The dated run
 
@@ -590,36 +615,230 @@ Eleven content slots a day on TikTok, Instagram and Facebook, plus two stories, 
 | 29 | 2026-11-30 | What happens after “I’ll get back to you”? | The city went quiet twenty minutes ago. |
 | 30 | 2026-12-01 | Next thirty days: what are you keeping? | Last coffee of the night. One thought before bed. |
 
-## LinkedIn pulls
+## LinkedIn — Easywurld company page (4 a day)
 
-| Date | Slot | Format | Source | Hook |
+| Date | Time | Format | Source | First line |
 |---|---|---|---|---|
-| 2026-11-02 · Monday | Carousel write-up (document post) | Document post (carousel write-up) | EW-D01-S01 | If I ran a fashion designer account in Lagos, this is what I would post this week. |
-| 2026-11-03 · Tuesday | Siphoned teach post | Text post | EW-D02-S07 | Steal this copy move from David Ogilvy: Headlines should do a job. |
-| 2026-11-04 · Wednesday | Siphoned show / demo post | Text post | EW-D03-S04 | One AI workflow to test: plan a follow-up sequence. |
-| 2026-11-05 · Thursday | Siphoned trust post | Text post | EW-D04-S08 | The chatbot is confident. The knowledge sheet is empty. |
-| 2026-11-06 · Friday | Repurposed vertical video | Vertical video | EW-D05-S02 | A myth worth testing: You need a website before you post |
-| 2026-11-07 · Saturday | Siphoned offer lesson | Text post | EW-D06-S06 | The offer sentence should survive the bio test. |
-| 2026-11-09 · Monday | Carousel write-up (document post) | Document post (carousel write-up) | EW-D08-S01 | If I ran a tutor account in Lagos, this is what I would post this week. |
-| 2026-11-10 · Tuesday | Siphoned teach post | Text post | EW-D09-S07 | Steal this copy move from Joe Sugarman: Answer objections as they arise. |
-| 2026-11-11 · Wednesday | Siphoned show / demo post | Text post | EW-D10-S04 | One AI workflow to test: audit local visibility basics. |
-| 2026-11-12 · Thursday | Siphoned trust post | Text post | EW-D11-S08 | The post is boosted. The reply is slow. |
-| 2026-11-13 · Friday | Repurposed vertical video | Vertical video | EW-D12-S02 | A myth worth testing: SEO works in a week |
-| 2026-11-14 · Saturday | Siphoned offer lesson | Text post | EW-D13-S06 | The HTML starter is a simple page, not a custom site. |
-| 2026-11-16 · Monday | Carousel write-up (document post) | Document post (carousel write-up) | EW-D15-S01 | If I ran a makeup artist account in Lagos, this is what I would post this week. |
-| 2026-11-17 · Tuesday | Siphoned teach post | Text post | EW-D16-S07 | Steal this copy move from John Caples: Self-interest in the headline. |
-| 2026-11-18 · Wednesday | Siphoned show / demo post | Text post | EW-D17-S04 | One AI workflow to test: draft a newsletter. |
-| 2026-11-19 · Thursday | Siphoned trust post | Text post | EW-D18-S08 | The trend report is from last month. The caption says 'now'. |
-| 2026-11-20 · Friday | Repurposed vertical video | Vertical video | EW-D19-S02 | A myth worth testing: Long copy always sells better |
-| 2026-11-21 · Saturday | Siphoned offer lesson | Text post | EW-D20-S06 | The content planner connects the week. |
-| 2026-11-23 · Monday | Carousel write-up (document post) | Document post (carousel write-up) | EW-D22-S01 | If I ran a interior designer account in Lagos, this is what I would post this week. |
-| 2026-11-24 · Tuesday | Siphoned teach post | Text post | EW-D23-S07 | Steal this copy move from Harry Dry: Make it falsifiable. |
-| 2026-11-25 · Wednesday | Siphoned show / demo post | Text post | EW-D24-S04 | One AI workflow to test: draft seo titles. |
-| 2026-11-26 · Thursday | Siphoned trust post | Text post | EW-D25-S08 | The customer wants more followers. The offer is unclear. |
-| 2026-11-27 · Friday | Repurposed vertical video | Vertical video | EW-D26-S02 | A myth worth testing: Behind-the-scenes content always builds trust |
-| 2026-11-28 · Saturday | Siphoned offer lesson | Text post | EW-D27-S06 | The hiring questions expose red flags. |
-| 2026-11-30 · Monday | Carousel write-up (document post) | Document post (carousel write-up) | EW-D29-S01 | If I ran a laundry service account in Lagos, this is what I would post this week. |
-| 2026-12-01 · Tuesday | Siphoned teach post | Text post | EW-D30-S07 | Steal this copy move from Robert Bly: Clear call to action. |
+| 2026-11-02 · Monday (day 1) | 07:30 | Document post (PDF) | EW-D01-S01 | Five pages. One week of posting for a fashion designer business. Steal the structure, not the words. |
+| 2026-11-02 · Monday (day 1) | 10:30 | Text post | EW-D01-S02 | Absolute advice is expensive. Take this one: "Posting every day guarantees growth." |
+| 2026-11-02 · Monday (day 1) | 13:30 | Image post | EW-D01-S05 | This is the part nobody posts about. |
+| 2026-11-02 · Monday (day 1) | 17:00 | Native video | EW-D01-S11 | Short version of a long lesson. |
+| 2026-11-03 · Tuesday (day 2) | 07:30 | Document post (PDF) | EW-D02-S07 | Most restaurant pages post the finished work and nothing else. That is the whole problem. |
+| 2026-11-03 · Tuesday (day 2) | 10:30 | Text post | EW-D02-S02 | Marketing myth: Hashtags are dead. |
+| 2026-11-03 · Tuesday (day 2) | 13:30 | Image post | EW-D02-S08 | One picture, one lesson. Read the second line twice. |
+| 2026-11-03 · Tuesday (day 2) | 17:00 | Native video | EW-D02-S02 | Forty seconds. One workflow you can copy today. |
+| 2026-11-04 · Wednesday (day 3) | 07:30 | Document post (PDF) | EW-D03-S01 | The principle is old. The example is ours. David Ogilvy: respect the reader's intelligence. |
+| 2026-11-04 · Wednesday (day 3) | 10:30 | Text post | EW-D03-S02 | Someone will tell you this week: "A viral video means customers." Here is the verdict. |
+| 2026-11-04 · Wednesday (day 3) | 13:30 | Image post | EW-D03-S10 | You have felt this week. That is why it is here. |
+| 2026-11-04 · Wednesday (day 3) | 17:00 | Native video | EW-D03-S03 | Watch this before you answer your next "how much?" |
+| 2026-11-05 · Thursday (day 4) | 07:30 | Document post (PDF) | EW-D04-S07 | If your page has gone quiet, it is rarely a lack of talent. It is a lack of a repeatable post. |
+| 2026-11-05 · Thursday (day 4) | 10:30 | Text post | EW-D04-S02 | More followers means more sales. We put it on trial. |
+| 2026-11-05 · Thursday (day 4) | 13:30 | Image post | EW-D04-S05 | Small-business life, photographed honestly. |
+| 2026-11-05 · Thursday (day 4) | 17:00 | Native video | EW-D04-S03 | Short version of a long lesson. |
+| 2026-11-06 · Friday (day 5) | 07:30 | Document post (PDF) | EW-D05-S01 | A real estate agent account in Lagos does not need more ideas. It needs three it can actually shoot this week. |
+| 2026-11-06 · Friday (day 5) | 10:30 | Text post | EW-D05-S02 | Absolute advice is expensive. Take this one: "You need a website before you post." |
+| 2026-11-06 · Friday (day 5) | 13:30 | Image post | EW-D05-S08 | This is the part nobody posts about. |
+| 2026-11-06 · Friday (day 5) | 17:00 | Native video | EW-D05-S09 | Forty seconds. One workflow you can copy today. |
+| 2026-11-07 · Saturday (day 6) | 07:30 | Document post (PDF) | EW-D06-S07 | Eugene Schwartz said it first: market sophistication. Here is what that looks like on a Nigerian small-business page. |
+| 2026-11-07 · Saturday (day 6) | 10:30 | Text post | EW-D06-S02 | Marketing myth: AI can replace marketing strategy. |
+| 2026-11-07 · Saturday (day 6) | 13:30 | Image post | EW-D06-S10 | One picture, one lesson. Read the second line twice. |
+| 2026-11-07 · Saturday (day 6) | 17:00 | Native video | EW-D06-S09 | Watch this before you answer your next "how much?" |
+| 2026-11-08 · Sunday (day 7) | 07:30 | Document post (PDF) | EW-D07-S01 | Five pages. One week of posting for a skincare brand business. Steal the structure, not the words. |
+| 2026-11-08 · Sunday (day 7) | 10:30 | Text post | EW-D07-S02 | Someone will tell you this week: "A free review means free custom work." Here is the verdict. |
+| 2026-11-08 · Sunday (day 7) | 13:30 | Image post | EW-D07-S05 | You have felt this week. That is why it is here. |
+| 2026-11-08 · Sunday (day 7) | 17:00 | Native video | EW-D07-S02 | Short version of a long lesson. |
+| 2026-11-09 · Monday (day 8) | 07:30 | Document post (PDF) | EW-D08-S07 | Most tutor pages post the finished work and nothing else. That is the whole problem. |
+| 2026-11-09 · Monday (day 8) | 10:30 | Text post | EW-D08-S02 | Discounts always increase sales. We put it on trial. |
+| 2026-11-09 · Monday (day 8) | 13:30 | Image post | EW-D08-S08 | Small-business life, photographed honestly. |
+| 2026-11-09 · Monday (day 8) | 17:00 | Native video | EW-D08-S03 | Forty seconds. One workflow you can copy today. |
+| 2026-11-10 · Tuesday (day 9) | 07:30 | Document post (PDF) | EW-D09-S01 | The principle is old. The example is ours. Joe Sugarman: answer objections as they arise. |
+| 2026-11-10 · Tuesday (day 9) | 10:30 | Text post | EW-D09-S02 | Absolute advice is expensive. Take this one: "You should be on every platform." |
+| 2026-11-10 · Tuesday (day 9) | 13:30 | Image post | EW-D09-S10 | This is the part nobody posts about. |
+| 2026-11-10 · Tuesday (day 9) | 17:00 | Native video | EW-D09-S04 | Watch this before you answer your next "how much?" |
+| 2026-11-11 · Wednesday (day 10) | 07:30 | Document post (PDF) | EW-D10-S07 | If your page has gone quiet, it is rarely a lack of talent. It is a lack of a repeatable post. |
+| 2026-11-11 · Wednesday (day 10) | 10:30 | Text post | EW-D10-S02 | Marketing myth: Only Reels work now. |
+| 2026-11-11 · Wednesday (day 10) | 13:30 | Image post | EW-D10-S05 | One picture, one lesson. Read the second line twice. |
+| 2026-11-11 · Wednesday (day 10) | 17:00 | Native video | EW-D10-S03 | Short version of a long lesson. |
+| 2026-11-12 · Thursday (day 11) | 07:30 | Document post (PDF) | EW-D11-S01 | A phone repair shop account in Lagos does not need more ideas. It needs three it can actually shoot this week. |
+| 2026-11-12 · Thursday (day 11) | 10:30 | Text post | EW-D11-S02 | Someone will tell you this week: "Carousels are dead." Here is the verdict. |
+| 2026-11-12 · Thursday (day 11) | 13:30 | Image post | EW-D11-S08 | You have felt this week. That is why it is here. |
+| 2026-11-12 · Thursday (day 11) | 17:00 | Native video | EW-D11-S11 | Forty seconds. One workflow you can copy today. |
+| 2026-11-13 · Friday (day 12) | 07:30 | Document post (PDF) | EW-D12-S07 | Gary Halbert said it first: write personally. Here is what that looks like on a Nigerian small-business page. |
+| 2026-11-13 · Friday (day 12) | 10:30 | Text post | EW-D12-S02 | SEO works in a week. We put it on trial. |
+| 2026-11-13 · Friday (day 12) | 13:30 | Image post | EW-D12-S10 | Small-business life, photographed honestly. |
+| 2026-11-13 · Friday (day 12) | 17:00 | Native video | EW-D12-S02 | Watch this before you answer your next "how much?" |
+| 2026-11-14 · Saturday (day 13) | 07:30 | Document post (PDF) | EW-D13-S01 | Five pages. One week of posting for a photographer business. Steal the structure, not the words. |
+| 2026-11-14 · Saturday (day 13) | 10:30 | Text post | EW-D13-S02 | Absolute advice is expensive. Take this one: "Email is dead for small business." |
+| 2026-11-14 · Saturday (day 13) | 13:30 | Image post | EW-D13-S05 | This is the part nobody posts about. |
+| 2026-11-14 · Saturday (day 13) | 17:00 | Native video | EW-D13-S02 | Short version of a long lesson. |
+| 2026-11-15 · Sunday (day 14) | 07:30 | Document post (PDF) | EW-D14-S07 | Most cleaning service pages post the finished work and nothing else. That is the whole problem. |
+| 2026-11-15 · Sunday (day 14) | 10:30 | Text post | EW-D14-S02 | Marketing myth: WhatsApp broadcast lists are spam. |
+| 2026-11-15 · Sunday (day 14) | 13:30 | Image post | EW-D14-S08 | One picture, one lesson. Read the second line twice. |
+| 2026-11-15 · Sunday (day 14) | 17:00 | Native video | EW-D14-S09 | Forty seconds. One workflow you can copy today. |
+| 2026-11-16 · Monday (day 15) | 07:30 | Document post (PDF) | EW-D15-S01 | The principle is old. The example is ours. Claude Hopkins: specifics beat generalities. |
+| 2026-11-16 · Monday (day 15) | 10:30 | Text post | EW-D15-S02 | Someone will tell you this week: "Paid ads will fix a weak offer." Here is the verdict. |
+| 2026-11-16 · Monday (day 15) | 13:30 | Image post | EW-D15-S10 | You have felt this week. That is why it is here. |
+| 2026-11-16 · Monday (day 15) | 17:00 | Native video | EW-D15-S09 | Watch this before you answer your next "how much?" |
+| 2026-11-17 · Tuesday (day 16) | 07:30 | Document post (PDF) | EW-D16-S07 | If your page has gone quiet, it is rarely a lack of talent. It is a lack of a repeatable post. |
+| 2026-11-17 · Tuesday (day 16) | 10:30 | Text post | EW-D16-S02 | Logo first, message later. We put it on trial. |
+| 2026-11-17 · Tuesday (day 16) | 13:30 | Image post | EW-D16-S05 | Small-business life, photographed honestly. |
+| 2026-11-17 · Tuesday (day 16) | 17:00 | Native video | EW-D16-S11 | Short version of a long lesson. |
+| 2026-11-18 · Wednesday (day 17) | 07:30 | Document post (PDF) | EW-D17-S01 | A catering company account in Lagos does not need more ideas. It needs three it can actually shoot this week. |
+| 2026-11-18 · Wednesday (day 17) | 10:30 | Text post | EW-D17-S02 | Absolute advice is expensive. Take this one: "Content must look expensive to work." |
+| 2026-11-18 · Wednesday (day 17) | 13:30 | Image post | EW-D17-S08 | This is the part nobody posts about. |
+| 2026-11-18 · Wednesday (day 17) | 17:00 | Native video | EW-D17-S02 | Forty seconds. One workflow you can copy today. |
+| 2026-11-19 · Thursday (day 18) | 07:30 | Document post (PDF) | EW-D18-S07 | John Caples said it first: curiosity needs substance. Here is what that looks like on a Nigerian small-business page. |
+| 2026-11-19 · Thursday (day 18) | 10:30 | Text post | EW-D18-S02 | Marketing myth: You must chase every trend. |
+| 2026-11-19 · Thursday (day 18) | 13:30 | Image post | EW-D18-S10 | One picture, one lesson. Read the second line twice. |
+| 2026-11-19 · Thursday (day 18) | 17:00 | Native video | EW-D18-S03 | Watch this before you answer your next "how much?" |
+| 2026-11-20 · Friday (day 19) | 07:30 | Document post (PDF) | EW-D19-S01 | Five pages. One week of posting for a travel agency business. Steal the structure, not the words. |
+| 2026-11-20 · Friday (day 19) | 10:30 | Text post | EW-D19-S02 | Someone will tell you this week: "Long copy always sells better." Here is the verdict. |
+| 2026-11-20 · Friday (day 19) | 13:30 | Image post | EW-D19-S05 | You have felt this week. That is why it is here. |
+| 2026-11-20 · Friday (day 19) | 17:00 | Native video | EW-D19-S09 | Short version of a long lesson. |
+| 2026-11-21 · Saturday (day 20) | 07:30 | Document post (PDF) | EW-D20-S07 | Most optician pages post the finished work and nothing else. That is the whole problem. |
+| 2026-11-21 · Saturday (day 20) | 10:30 | Text post | EW-D20-S02 | Short copy always wins. We put it on trial. |
+| 2026-11-21 · Saturday (day 20) | 13:30 | Image post | EW-D20-S08 | Small-business life, photographed honestly. |
+| 2026-11-21 · Saturday (day 20) | 17:00 | Native video | EW-D20-S11 | Forty seconds. One workflow you can copy today. |
+| 2026-11-22 · Sunday (day 21) | 07:30 | Document post (PDF) | EW-D21-S01 | The principle is old. The example is ours. Joanna Wiebe: one conversion goal. |
+| 2026-11-22 · Sunday (day 21) | 10:30 | Text post | EW-D21-S02 | Absolute advice is expensive. Take this one: "Testimonials are enough proof." |
+| 2026-11-22 · Sunday (day 21) | 13:30 | Image post | EW-D21-S10 | This is the part nobody posts about. |
+| 2026-11-22 · Sunday (day 21) | 17:00 | Native video | EW-D21-S02 | Watch this before you answer your next "how much?" |
+| 2026-11-23 · Monday (day 22) | 07:30 | Document post (PDF) | EW-D22-S07 | If your page has gone quiet, it is rarely a lack of talent. It is a lack of a repeatable post. |
+| 2026-11-23 · Monday (day 22) | 10:30 | Text post | EW-D22-S02 | Marketing myth: Hide the price until DM. |
+| 2026-11-23 · Monday (day 22) | 13:30 | Image post | EW-D22-S05 | One picture, one lesson. Read the second line twice. |
+| 2026-11-23 · Monday (day 22) | 17:00 | Native video | EW-D22-S03 | Short version of a long lesson. |
+| 2026-11-24 · Tuesday (day 23) | 07:30 | Document post (PDF) | EW-D23-S01 | A pet groomer account in Lagos does not need more ideas. It needs three it can actually shoot this week. |
+| 2026-11-24 · Tuesday (day 23) | 10:30 | Text post | EW-D23-S02 | Someone will tell you this week: "Automation can replace customer replies." Here is the verdict. |
+| 2026-11-24 · Tuesday (day 23) | 13:30 | Image post | EW-D23-S08 | You have felt this week. That is why it is here. |
+| 2026-11-24 · Tuesday (day 23) | 17:00 | Native video | EW-D23-S03 | Forty seconds. One workflow you can copy today. |
+| 2026-11-25 · Wednesday (day 24) | 07:30 | Document post (PDF) | EW-D24-S07 | Harry Dry said it first: make it unique. Here is what that looks like on a Nigerian small-business page. |
+| 2026-11-25 · Wednesday (day 24) | 10:30 | Text post | EW-D24-S02 | A chatbot knows your business automatically. We put it on trial. |
+| 2026-11-25 · Wednesday (day 24) | 13:30 | Image post | EW-D24-S10 | Small-business life, photographed honestly. |
+| 2026-11-25 · Wednesday (day 24) | 17:00 | Native video | EW-D24-S09 | Watch this before you answer your next "how much?" |
+| 2026-11-26 · Thursday (day 25) | 07:30 | Document post (PDF) | EW-D25-S01 | Five pages. One week of posting for a bookshop business. Steal the structure, not the words. |
+| 2026-11-26 · Thursday (day 25) | 10:30 | Text post | EW-D25-S02 | Absolute advice is expensive. Take this one: "A content calendar guarantees sales." |
+| 2026-11-26 · Thursday (day 25) | 13:30 | Image post | EW-D25-S05 | This is the part nobody posts about. |
+| 2026-11-26 · Thursday (day 25) | 17:00 | Native video | EW-D25-S02 | Short version of a long lesson. |
+| 2026-11-27 · Friday (day 26) | 07:30 | Document post (PDF) | EW-D26-S07 | Most solar installer pages post the finished work and nothing else. That is the whole problem. |
+| 2026-11-27 · Friday (day 26) | 10:30 | Text post | EW-D26-S02 | Marketing myth: Behind-the-scenes content always builds trust. |
+| 2026-11-27 · Friday (day 26) | 13:30 | Image post | EW-D26-S08 | One picture, one lesson. Read the second line twice. |
+| 2026-11-27 · Friday (day 26) | 17:00 | Native video | EW-D26-S03 | Forty seconds. One workflow you can copy today. |
+| 2026-11-28 · Saturday (day 27) | 07:30 | Document post (PDF) | EW-D27-S01 | The principle is old. The example is ours. Ann Handley: edit for the reader. |
+| 2026-11-28 · Saturday (day 27) | 10:30 | Text post | EW-D27-S02 | Someone will tell you this week: "Educational content should never sell." Here is the verdict. |
+| 2026-11-28 · Saturday (day 27) | 13:30 | Image post | EW-D27-S10 | You have felt this week. That is why it is here. |
+| 2026-11-28 · Saturday (day 27) | 17:00 | Native video | EW-D27-S02 | Watch this before you answer your next "how much?" |
+| 2026-11-29 · Sunday (day 28) | 07:30 | Document post (PDF) | EW-D28-S07 | If your page has gone quiet, it is rarely a lack of talent. It is a lack of a repeatable post. |
+| 2026-11-29 · Sunday (day 28) | 10:30 | Text post | EW-D28-S02 | Memes are unprofessional. We put it on trial. |
+| 2026-11-29 · Sunday (day 28) | 13:30 | Image post | EW-D28-S05 | Small-business life, photographed honestly. |
+| 2026-11-29 · Sunday (day 28) | 17:00 | Native video | EW-D28-S11 | Short version of a long lesson. |
+| 2026-11-30 · Monday (day 29) | 07:30 | Document post (PDF) | EW-D29-S01 | A laundry service account in Lagos does not need more ideas. It needs three it can actually shoot this week. |
+| 2026-11-30 · Monday (day 29) | 10:30 | Text post | EW-D29-S02 | Absolute advice is expensive. Take this one: "You can post the same file everywhere without changes." |
+| 2026-11-30 · Monday (day 29) | 13:30 | Image post | EW-D29-S08 | This is the part nobody posts about. |
+| 2026-11-30 · Monday (day 29) | 17:00 | Native video | EW-D29-S02 | Forty seconds. One workflow you can copy today. |
+| 2026-12-01 · Tuesday (day 30) | 07:30 | Document post (PDF) | EW-D30-S07 | Robert Bly said it first: clear call to action. Here is what that looks like on a Nigerian small-business page. |
+| 2026-12-01 · Tuesday (day 30) | 10:30 | Text post | EW-D30-S02 | Marketing myth: More posts will fix an unclear offer. |
+| 2026-12-01 · Tuesday (day 30) | 13:30 | Image post | EW-D30-S10 | One picture, one lesson. Read the second line twice. |
+| 2026-12-01 · Tuesday (day 30) | 17:00 | Native video | EW-D30-S03 | Watch this before you answer your next "how much?" |
+
+## LinkedIn — Abu Israel personal profile (3 a day)
+
+Profile: https://www.linkedin.com/in/abu-israel-495b09226
+
+| Date | Time | Format | Source | First line |
+|---|---|---|---|---|
+| 2026-11-02 · Monday (day 1) | 08:15 | Document post (PDF) | EW-D01-S04 | I keep a rule for this studio: nothing goes out that a person has not checked. |
+| 2026-11-02 · Monday (day 1) | 12:45 | Text post | EW-D01-S11 | The businesses that survive this year are not the loudest. |
+| 2026-11-02 · Monday (day 1) | 19:45 | Text post | EW-D01-S06 | Evening thought. The price reply is not the end of the conversation. |
+| 2026-11-03 · Tuesday (day 2) | 08:15 | Text post | EW-D02-S10 | Building a small studio in Lagos means the boring decisions matter most. |
+| 2026-11-03 · Tuesday (day 2) | 12:45 | Text post | EW-D02-S02 | Something I keep seeing in Nigerian small businesses: undefined. |
+| 2026-11-03 · Tuesday (day 2) | 19:45 | Text post | EW-D02-S09 | Somebody will disagree with this, and that is fine. |
+| 2026-11-04 · Wednesday (day 3) | 08:15 | Text post | EW-D03-S04 | Today I chose the slower option. Let me explain why. |
+| 2026-11-04 · Wednesday (day 3) | 12:45 | Text post | EW-D03-S11 | I have read enough "how much?" chats to know one thing. |
+| 2026-11-04 · Wednesday (day 3) | 19:45 | Text post | EW-D03-S07 | I changed my mind about this last month. |
+| 2026-11-05 · Thursday (day 4) | 08:15 | Text post | EW-D04-S10 | I am building Easywurld in public, and today's decision was meet Easywurld: Sample label explainer. |
+| 2026-11-05 · Thursday (day 4) | 12:45 | Text post | EW-D04-S02 | Not a hot take. Just a pattern I cannot unsee. |
+| 2026-11-05 · Thursday (day 4) | 19:45 | Text post | EW-D04-S06 | A question I asked five business owners this week. |
+| 2026-11-06 · Friday (day 5) | 08:15 | Text post | EW-D05-S04 | Three hours on aI Build: Prepare an after-hours message today. Here is what I got wrong first. |
+| 2026-11-06 · Friday (day 5) | 12:45 | Text post | EW-D05-S11 | The businesses that survive this year are not the loudest. |
+| 2026-11-06 · Friday (day 5) | 19:45 | Native video | EW-D05-S09 | Evening thought. Local visibility starts with accurate information. |
+| 2026-11-07 · Saturday (day 6) | 08:15 | Text post | EW-D06-S10 | I keep a rule for this studio: nothing goes out that a person has not checked. |
+| 2026-11-07 · Saturday (day 6) | 12:45 | Poll | EW-D06-S02 | Something I keep seeing in Nigerian small businesses: undefined. |
+| 2026-11-07 · Saturday (day 6) | 19:45 | Text post | EW-D06-S07 | Somebody will disagree with this, and that is fine. |
+| 2026-11-08 · Sunday (day 7) | 08:15 | Text post | EW-D07-S04 | Building a small studio in Lagos means the boring decisions matter most. |
+| 2026-11-08 · Sunday (day 7) | 12:45 | Text post | EW-D07-S11 | I have read enough "how much?" chats to know one thing. |
+| 2026-11-08 · Sunday (day 7) | 19:45 | Text post | EW-D07-S06 | I changed my mind about this last month. |
+| 2026-11-09 · Monday (day 8) | 08:15 | Document post (PDF) | EW-D08-S10 | Today I chose the slower option. Let me explain why. |
+| 2026-11-09 · Monday (day 8) | 12:45 | Text post | EW-D08-S02 | Not a hot take. Just a pattern I cannot unsee. |
+| 2026-11-09 · Monday (day 8) | 19:45 | Text post | EW-D08-S09 | A question I asked five business owners this week. |
+| 2026-11-10 · Tuesday (day 9) | 08:15 | Text post | EW-D09-S04 | I am building Easywurld in public, and today's decision was aI Build: Rewrite a homepage opening. |
+| 2026-11-10 · Tuesday (day 9) | 12:45 | Text post | EW-D09-S11 | The businesses that survive this year are not the loudest. |
+| 2026-11-10 · Tuesday (day 9) | 19:45 | Text post | EW-D09-S07 | Evening thought. Launch is a checklist, not a button. |
+| 2026-11-11 · Wednesday (day 10) | 08:15 | Text post | EW-D10-S10 | Three hours on meet Easywurld: Pricing philosophy today. Here is what I got wrong first. |
+| 2026-11-11 · Wednesday (day 10) | 12:45 | Text post | EW-D10-S02 | Something I keep seeing in Nigerian small businesses: undefined. |
+| 2026-11-11 · Wednesday (day 10) | 19:45 | Text post | EW-D10-S06 | Somebody will disagree with this, and that is fine. |
+| 2026-11-12 · Thursday (day 11) | 08:15 | Text post | EW-D11-S04 | I keep a rule for this studio: nothing goes out that a person has not checked. |
+| 2026-11-12 · Thursday (day 11) | 12:45 | Text post | EW-D11-S11 | I have read enough "how much?" chats to know one thing. |
+| 2026-11-12 · Thursday (day 11) | 19:45 | Text post | EW-D11-S09 | I changed my mind about this last month. |
+| 2026-11-13 · Friday (day 12) | 08:15 | Text post | EW-D12-S10 | Building a small studio in Lagos means the boring decisions matter most. |
+| 2026-11-13 · Friday (day 12) | 12:45 | Text post | EW-D12-S02 | Not a hot take. Just a pattern I cannot unsee. |
+| 2026-11-13 · Friday (day 12) | 19:45 | Native video | EW-D12-S07 | A question I asked five business owners this week. |
+| 2026-11-14 · Saturday (day 13) | 08:15 | Text post | EW-D13-S04 | Today I chose the slower option. Let me explain why. |
+| 2026-11-14 · Saturday (day 13) | 12:45 | Poll | EW-D13-S11 | The businesses that survive this year are not the loudest. |
+| 2026-11-14 · Saturday (day 13) | 19:45 | Text post | EW-D13-S06 | Evening thought. The HTML starter is a simple page, not a custom site. |
+| 2026-11-15 · Sunday (day 14) | 08:15 | Text post | EW-D14-S10 | I am building Easywurld in public, and today's decision was meet Easywurld: Sample tour. |
+| 2026-11-15 · Sunday (day 14) | 12:45 | Text post | EW-D14-S02 | Something I keep seeing in Nigerian small businesses: undefined. |
+| 2026-11-15 · Sunday (day 14) | 19:45 | Text post | EW-D14-S09 | Somebody will disagree with this, and that is fine. |
+| 2026-11-16 · Monday (day 15) | 08:15 | Document post (PDF) | EW-D15-S04 | Three hours on aI Build: Turn meeting notes into actions today. Here is what I got wrong first. |
+| 2026-11-16 · Monday (day 15) | 12:45 | Text post | EW-D15-S11 | I have read enough "how much?" chats to know one thing. |
+| 2026-11-16 · Monday (day 15) | 19:45 | Text post | EW-D15-S07 | I changed my mind about this last month. |
+| 2026-11-17 · Tuesday (day 16) | 08:15 | Text post | EW-D16-S10 | I keep a rule for this studio: nothing goes out that a person has not checked. |
+| 2026-11-17 · Tuesday (day 16) | 12:45 | Text post | EW-D16-S02 | Not a hot take. Just a pattern I cannot unsee. |
+| 2026-11-17 · Tuesday (day 16) | 19:45 | Text post | EW-D16-S06 | A question I asked five business owners this week. |
+| 2026-11-18 · Wednesday (day 17) | 08:15 | Text post | EW-D17-S04 | Building a small studio in Lagos means the boring decisions matter most. |
+| 2026-11-18 · Wednesday (day 17) | 12:45 | Text post | EW-D17-S11 | The businesses that survive this year are not the loudest. |
+| 2026-11-18 · Wednesday (day 17) | 19:45 | Text post | EW-D17-S09 | Evening thought. The quote workbook keeps the numbers visible. |
+| 2026-11-19 · Thursday (day 18) | 08:15 | Text post | EW-D18-S10 | Today I chose the slower option. Let me explain why. |
+| 2026-11-19 · Thursday (day 18) | 12:45 | Text post | EW-D18-S02 | Something I keep seeing in Nigerian small businesses: undefined. |
+| 2026-11-19 · Thursday (day 18) | 19:45 | Text post | EW-D18-S07 | Somebody will disagree with this, and that is fine. |
+| 2026-11-20 · Friday (day 19) | 08:15 | Text post | EW-D19-S04 | I am building Easywurld in public, and today's decision was aI Build: Prepare customer interview questions. |
+| 2026-11-20 · Friday (day 19) | 12:45 | Text post | EW-D19-S11 | I have read enough "how much?" chats to know one thing. |
+| 2026-11-20 · Friday (day 19) | 19:45 | Native video | EW-D19-S06 | I changed my mind about this last month. |
+| 2026-11-21 · Saturday (day 20) | 08:15 | Text post | EW-D20-S10 | Three hours on meet Easywurld: Message worksheet today. Here is what I got wrong first. |
+| 2026-11-21 · Saturday (day 20) | 12:45 | Poll | EW-D20-S02 | Not a hot take. Just a pattern I cannot unsee. |
+| 2026-11-21 · Saturday (day 20) | 19:45 | Text post | EW-D20-S09 | A question I asked five business owners this week. |
+| 2026-11-22 · Sunday (day 21) | 08:15 | Text post | EW-D21-S04 | I keep a rule for this studio: nothing goes out that a person has not checked. |
+| 2026-11-22 · Sunday (day 21) | 12:45 | Text post | EW-D21-S11 | The businesses that survive this year are not the loudest. |
+| 2026-11-22 · Sunday (day 21) | 19:45 | Text post | EW-D21-S07 | Evening thought. The hooks file is for adaptation, not copying. |
+| 2026-11-23 · Monday (day 22) | 08:15 | Document post (PDF) | EW-D22-S10 | Building a small studio in Lagos means the boring decisions matter most. |
+| 2026-11-23 · Monday (day 22) | 12:45 | Text post | EW-D22-S02 | Something I keep seeing in Nigerian small businesses: undefined. |
+| 2026-11-23 · Monday (day 22) | 19:45 | Text post | EW-D22-S06 | Somebody will disagree with this, and that is fine. |
+| 2026-11-24 · Tuesday (day 23) | 08:15 | Text post | EW-D23-S04 | Today I chose the slower option. Let me explain why. |
+| 2026-11-24 · Tuesday (day 23) | 12:45 | Text post | EW-D23-S11 | I have read enough "how much?" chats to know one thing. |
+| 2026-11-24 · Tuesday (day 23) | 19:45 | Text post | EW-D23-S09 | I changed my mind about this last month. |
+| 2026-11-25 · Wednesday (day 24) | 08:15 | Text post | EW-D24-S10 | I am building Easywurld in public, and today's decision was meet Easywurld: Homepage rewrite tour. |
+| 2026-11-25 · Wednesday (day 24) | 12:45 | Text post | EW-D24-S02 | Not a hot take. Just a pattern I cannot unsee. |
+| 2026-11-25 · Wednesday (day 24) | 19:45 | Text post | EW-D24-S07 | A question I asked five business owners this week. |
+| 2026-11-26 · Thursday (day 25) | 08:15 | Text post | EW-D25-S04 | Three hours on aI Build: Draft alt text today. Here is what I got wrong first. |
+| 2026-11-26 · Thursday (day 25) | 12:45 | Text post | EW-D25-S11 | The businesses that survive this year are not the loudest. |
+| 2026-11-26 · Thursday (day 25) | 19:45 | Text post | EW-D25-S06 | Evening thought. The safety checklist keeps a human in charge. |
+| 2026-11-27 · Friday (day 26) | 08:15 | Text post | EW-D26-S10 | I keep a rule for this studio: nothing goes out that a person has not checked. |
+| 2026-11-27 · Friday (day 26) | 12:45 | Text post | EW-D26-S02 | Something I keep seeing in Nigerian small businesses: undefined. |
+| 2026-11-27 · Friday (day 26) | 19:45 | Native video | EW-D26-S09 | Somebody will disagree with this, and that is fine. |
+| 2026-11-28 · Saturday (day 27) | 08:15 | Text post | EW-D27-S04 | Building a small studio in Lagos means the boring decisions matter most. |
+| 2026-11-28 · Saturday (day 27) | 12:45 | Poll | EW-D27-S11 | I have read enough "how much?" chats to know one thing. |
+| 2026-11-28 · Saturday (day 27) | 19:45 | Text post | EW-D27-S07 | I changed my mind about this last month. |
+| 2026-11-29 · Sunday (day 28) | 08:15 | Text post | EW-D28-S10 | Today I chose the slower option. Let me explain why. |
+| 2026-11-29 · Sunday (day 28) | 12:45 | Text post | EW-D28-S02 | Not a hot take. Just a pattern I cannot unsee. |
+| 2026-11-29 · Sunday (day 28) | 19:45 | Text post | EW-D28-S06 | A question I asked five business owners this week. |
+| 2026-11-30 · Monday (day 29) | 08:15 | Document post (PDF) | EW-D29-S04 | I am building Easywurld in public, and today's decision was aI Build: Build an assistant knowledge sheet. |
+| 2026-11-30 · Monday (day 29) | 12:45 | Text post | EW-D29-S11 | The businesses that survive this year are not the loudest. |
+| 2026-11-30 · Monday (day 29) | 19:45 | Text post | EW-D29-S09 | Evening thought. The copy templates need your facts. |
+| 2026-12-01 · Tuesday (day 30) | 08:15 | Text post | EW-D30-S10 | Three hours on meet Easywurld: Studio dictionary today. Here is what I got wrong first. |
+| 2026-12-01 · Tuesday (day 30) | 12:45 | Text post | EW-D30-S02 | Something I keep seeing in Nigerian small businesses: undefined. |
+| 2026-12-01 · Tuesday (day 30) | 19:45 | Text post | EW-D30-S07 | Somebody will disagree with this, and that is fine. |
+
+Seven LinkedIn posts a day, every day: 120 on the company page and 90 on the personal profile. The two accounts never post the same text. Links go in the first comment, never the body.
+
 
 ## Production briefs
 
@@ -734,6 +953,31 @@ Create a five-slide Easywurld carousel for a fashion designer business in Lagos.
 
 > Marketing myth: Posting every day guarantees growth Verdict: It depends. Frequency can create more chances to learn, but it does not fix an unclear offer or weak content. Ten useful series posts are different from ten random posts. Test it: Compare one week of consistent series posts with the previous week using saves, profile visits and relevant enquiries. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Marketing myth. People will tell you, "Posting every day guarantees growth." [pause] My verdict? It depends. Posting often can create more chances to learn, but it does not fix an unclear offer or weak content. Ten useful series posts are different from ten random posts. [pause] Here is a small test you can run this week. Compare one week of consistent series posts with the previous week using saves, profile visits and relevant messages. Oya. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Marketing myth
+2. People will tell you
+3. "Posting every day guarantees growth my verdict? It depends
+4. Posting often can create more chances to learn
+5. but it does not fix an unclear offer
+6. or weak content
+7. Ten useful series posts are different from ten random posts
+8. Here is a small test you can run this week
+9. Compare one week of consistent series posts with
+10. the previous week using saves
+11. profile visits and relevant messages oya
+12. Keep the useful part
+13. Drop the absolute
+14. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -819,6 +1063,34 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Brand Vibe. Drizzle Digital Vol. 40 reported it on 26 October 2026: a product front and center with four still shots that express the brand vibe. The business adaptation: Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Brand Vibe. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a product front and center with four still shots that express the brand vibe. Here is how a normal Nigerian business uses it. Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Take it one step at a time. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Brand Vibe
+3. Drizzle Digital Volume 40 reported it on 26
+4. October 2026: a product front and center with
+5. four still shots that express the brand vibe
+6. Here is how a normal Nigerian business uses it
+7. Use one real product or service outcome with
+8. four owned images that show the customer's world
+9. Do not invent a lifestyle
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim
+15. Take it one step at a time
+16. Save the filter
+17. Skip the hype
 
 ### Edit / shot order
 
@@ -908,6 +1180,29 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 ### Exact spoken script
 
 > This is a labelled concept workflow: draft a reply to a new enquiry. Input: an anonymised enquiry. AI drafts a reply with one clarifying question. A person checks price, availability, promise and tone. Output: an approved reply. Nothing is sent automatically. The sample shows the thinking, not a live client result. Save the workflow and test it with anonymised input.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let me show you one bounded AI job. Draft a reply to a new message. [pause] Step one. The input is an anonymised message. Step two. The AI writes a reply with one clarifying question. Step three, and this is the one people skip. A human checks price, availability, promise and tone. Step four. You send an approved reply. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Save it, then test it on your own message.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let me show you one bounded AI job
+2. Draft a reply to a new message step one
+3. The input is an anonymised message step two
+4. The AI writes a reply with one clarifying question
+5. Step three, and this is the one people skip
+6. A human checks price, availability, promise and tone step four
+7. You send an approved reply
+8. Nothing goes out on its own
+9. The human check is the feature
+10. This is a labelled sample build
+11. not a client result
+12. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -1324,6 +1619,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 > Does this automate my WhatsApp? No. It gives you scripts, a tracker and a routine. Nothing is auto-sent. The Chat-to-Customer Playbook is a ₦5,000 DIY pack. It includes Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. It is not custom work and it does not guarantee results. Message PLAYBOOK on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> The question I get most about this pack. "Does this automate my WhatsApp?" [pause] No. It gives you scripts, a tracker and a routine. Nothing is auto-sent. Let me be clear about what this is. The Chat-to-Customer Playbook is a five thousand naira DIY pack. Inside, you get Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. [pause] It is not custom work, and it does not promise you sales. Message PLAYBOOK on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. The question I get most about this pack
+2. Does this automate my WhatsApp? No
+3. It gives you scripts
+4. a tracker and a routine
+5. Nothing is auto-sent
+6. Let me be clear about what this is
+7. The Chat-to-Customer Playbook is a five thousand naira DIY pack
+8. Inside, you get Chat-to-Customer Playbook
+9. 36-Script Message Library, Lead & Follow-Up Tracker
+10. 7-Day Setup Checklist
+11. It is not custom work
+12. and it does not promise you sales
+13. Message PLAYBOOK on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -1489,6 +1809,25 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 > Nine out of ten businesses answer “how much?” with a number. The ones that survive answer with a decision: what is included, what is not, and what happens next. A price is not a defence. It is a boundary. Save this for your next price reply.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Nine out of ten businesses answer “how much?” with a number. [pause] The ones that survive answer with a decision: what is included, what is not, and what happens next. [pause] A price is not a defence. It is a boundary. No wahala. Save this for your next price reply.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Nine out of ten businesses answer “how much?”
+2. with a number
+3. The ones that survive answer with a decision:
+4. what is included, what is not
+5. and what happens next
+6. A price is not a defence
+7. It is a boundary no wahala
+8. Save this for your next price reply
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -1645,19 +1984,24 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W1-CAROUSEL · Carousel write-up (document post)
+## EW-LI-D01-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-02 · Monday · 09:00 WAT · Document post (carousel write-up)**
+**2026-11-02 · Monday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D01-S01 — If I ran a fashion designer account in Lagos
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D01-S01 (slot 1) — If I ran a fashion designer account in Lagos
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D01-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> If I ran a fashion designer account in Lagos, this is what I would post this week.
+> Five pages. One week of posting for a fashion designer business. Steal the structure, not the words.
 >
-> If I were running this account, I would test three posts this week:
+> Three posts I would test this week for a fashion designer business:
 >
 > 1. a fitting-room clip showing one garment on three body types
 > 2. a fabric-care answer customers can save
@@ -1667,19 +2011,337 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 >
 > First action: Show the fitting decision, not just the final dress.
 >
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — If I ran a fashion designer account in Lagos
+
+> Three posts I would test this week
+>
 > Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A fitting-room clip showing one garment on three body types
 >
-> Which one would you test first?
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A fabric-care answer customers can save
 >
-> (Full carousel on the feed. The document version is the same five slides as a PDF.)
+> Gives a customer something worth saving.
 
-## Notes
+**Page 4** — Post 3
 
-Upload the five-slide carousel as a PDF document post. Slide 1 is the cover image LinkedIn shows on mobile.
+> A made-to-order timeline with honest milestones
+>
+> Answers the question they were going to ask anyway.
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+**Page 5** — Avoid
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+> One mistake: posting only finished dresses
+>
+> First action: Show the fitting decision, not just the final dress.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D01-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D01-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-02 · Monday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D01-S02 (slot 2) — Myth Court: Posting every day guarantees growth.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Absolute advice is expensive. Take this one: "Posting every day guarantees growth."
+>
+> Verdict: It depends.
+>
+> Frequency can create more chances to learn, but it does not fix an unclear offer or weak content. Ten useful series posts are different from ten random posts.
+>
+> How we would test it:
+> Compare one week of consistent series posts with the previous week using saves, profile visits and relevant enquiries
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D01-CO3 · Image post — one rendered card from the day
+
+**2026-11-02 · Monday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D01-S05 (slot 5) — Client said 'I'll get back to you.'
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D01-S05.jpg`
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> This is the part nobody posts about.
+>
+> Client said 'I'll get back to you.'
+> The calendar also got back to nobody.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D01-S05.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D01-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-02 · Monday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D01-S11 (slot 11) — One Last Thought: The price reply
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save this for your next price reply
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D01-S11.mp4 (or the poster assets/fallbacks/EW-D01-S11.jpg)`
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Short version of a long lesson.
+>
+> Nine out of ten businesses answer “how much?” with a number.
+> The ones that survive answer with a decision: what is included, what is not, and what happens next.
+> A price is not a defence.
+> It is a boundary.
+> Save this for your next price reply.
+>
+> Save this for your next price reply.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D01-S11. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D01-S11.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D01-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-02 · Monday · 08:15 WAT · Document post (PDF)**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D01-S04 (slot 4) — AI Build: Draft a reply to a new enquiry
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D01-AB1.pdf`
+- **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
+
+### Post body (paste this)
+
+> I keep a rule for this studio: nothing goes out that a person has not checked.
+>
+> What I am testing in the studio this week: draft a reply to a new enquiry.
+>
+> → Input: an anonymised enquiry
+> → The draft: a reply with one clarifying question
+> → I check: price, availability, promise and tone
+> → Only then: an approved reply
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Document pages (rendered to PDF)
+
+**Page 1** — Build log · Easywurld
+
+> Draft a reply to a new enquiry
+>
+> What I am making this week, and the decision behind it.
+
+**Page 2** — The decision
+
+> Draft a reply to a new enquiry
+>
+> Input: an anonymised enquiry. Draft: a reply with one clarifying question.
+
+**Page 3** — The boundary
+
+> A person checks it before it goes out
+>
+> I check price, availability, promise and tone. Nothing is auto-sent.
+
+**Page 4** — Why it matters
+
+> The check is the product
+>
+> Convenience is easy to copy. Judgment is not.
+
+**Page 5** — Your turn
+
+> Where do you keep a human in the loop?
+>
+> One line is enough. I read them.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D01-AB1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D01-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-02 · Monday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D01-S11 (slot 11) — One Last Thought: The price reply
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> The businesses that survive this year are not the loudest.
+>
+> Nine out of ten businesses answer “how much?” with a number.
+>
+> The ones that survive answer with a decision: what is included, what is not, and what happens next.
+>
+> A price is not a defence. It is a boundary.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D01-AB3 · Evening take — an opinion and a question back
+
+**2026-11-02 · Monday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D01-S06 (slot 6) — PLAYBOOK Spotlight A: The price reply is not the end of the conversation.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What does your price reply say after the number?
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Evening thought. The price reply is not the end of the conversation.
+>
+> The price reply is not the end of the conversation.
+>
+> This is why The Chat-to-Customer Playbook exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What does your price reply say after the number?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=PLAYBOOK — I answer these myself. Message PLAYBOOK on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -1790,6 +2452,30 @@ Create a five-slide Easywurld carousel for a restaurant business in Lagos. Use t
 
 > Marketing myth: Hashtags are dead Verdict: Mostly false. Hashtags may still help categorise content, but they are not a distribution strategy by themselves. Clear hooks, searchable wording and useful content matter more than a large tag block. Test it: Use three to five specific tags and compare search/discovery insights where available. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let us put one piece of advice on trial. "Hashtags are dead." [pause] My verdict? Mostly false. Hashtags may still help categorise content, but they are not a distribution strategy by themselves. Clear hooks, searchable wording and useful content matter more than a large tag block. [pause] Here is a small test you can run this week. Use three to five specific tags and compare search/discovery insights where available. Take it one step at a time. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let us put one piece of advice on trial
+2. Hashtags are dead my verdict? Mostly false
+3. Hashtags may still help categorise content
+4. but they are not a distribution strategy by themselves
+5. Clear hooks, searchable wording and useful content matter
+6. more than a large tag block
+7. Here is a small test you can run this week
+8. Use three to five specific tags and compare
+9. search/discovery insights where available
+10. Take it one step at a time
+11. Keep the useful part
+12. Drop the absolute
+13. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -1875,6 +2561,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Pick Your Emoji. Drizzle Digital Vol. 40 reported it on 26 October 2026: a video carousel that starts with four emoji paths and ends with one CTA. The business adaptation: Adapt it to four customer problems, not four random products. End with one useful next step. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Pick Your Emoji. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a video carousel that starts with four emoji paths and ends with one CTA. Here is how a normal Nigerian business uses it. Adapt it to four customer problems, not four random products. End with one useful next step. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Pick Your Emoji
+3. Drizzle Digital Volume 40 reported it on 26
+4. October 2026: a video carousel that starts with
+5. four emoji paths and ends with one CTA
+6. Here is how a normal Nigerian business uses it
+7. Adapt it to four customer problems
+8. not four random products
+9. End with one useful next step
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -1964,6 +2677,31 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 ### Exact spoken script
 
 > This is a labelled concept workflow: qualify a property lead. Input: a fictional lead brief. AI drafts questions that separate budget, location and timeline. A person checks fair housing language and missing facts. Output: a human-reviewed qualification note. Nothing is sent automatically. The sample shows the thinking, not a live client result. Save the workflow and test it with anonymised input.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> One AI workflow you can copy this week. Qualify a property lead. [pause] Step one. The input is a fictional lead brief. Step two. The AI writes questions that separate budget, location and timeline. Step three, and this is the one people skip. A human checks fair housing language and missing facts. Step four. You send a human-reviewed qualification note. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Save it, then test it on your own message.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. One AI workflow you can copy this week
+2. Qualify a property lead step one
+3. The input is a fictional lead brief step two
+4. The AI writes questions that separate budget
+5. location and timeline
+6. Step three, and this is the one people skip
+7. A human checks fair housing language and missing facts
+8. Step four
+9. You send a human-reviewed qualification note
+10. Nothing goes out on its own
+11. The human check is the feature
+12. This is a labelled sample build
+13. not a client result
+14. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -2380,6 +3118,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 > Is this a website build? No. It is a DIY blueprint and templates, not a website build or personal page review. The Clear Homepage Blueprint is a ₦5,000 DIY pack. It includes Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. It is not custom work and it does not guarantee results. Message CLEAR on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Before you buy, you will ask this. "Is this a website build?" [pause] No. It is a DIY blueprint and templates, not a website build or personal page review. Let me be clear about what this is. The Clear Homepage Blueprint is a five thousand naira DIY pack. Inside, you get Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. [pause] It is not custom work, and it does not promise you sales. Message CLEAR on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Before you buy, you will ask this
+2. Is this a website build? No
+3. It is a DIY blueprint and templates
+4. not a website build or personal page review
+5. Let me be clear about what this is
+6. The Clear Homepage Blueprint is a five thousand
+7. naira DIY pack
+8. Inside, you get Clear Homepage Blueprint
+9. Homepage Copy Templates, Homepage Content Planner
+10. 20-Point Homepage Audit Scorecard
+11. It is not custom work
+12. and it does not promise you sales
+13. Message CLEAR on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -2539,6 +3302,23 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 > Ten posts a day is not a strategy. It is a multiplier. Point it at nothing and you get more nothing, faster. Fix the offer first. Then spend the attention. Save the checklist in today’s 07:00 post.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Ten posts a day is not a strategy. [pause] It is a multiplier. Point it at nothing and you get more nothing, faster. [pause] Fix the offer first. Then spend the attention. Oya. Save the checklist in today’s 07:00 post.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Ten posts a day is not a strategy
+2. It is a multiplier
+3. Point it at nothing and you get more nothing, faster
+4. Fix the offer first
+5. Then spend the attention oya
+6. Save the checklist in today’s 07:00 post
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -2695,35 +3475,326 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W1-TEACH · Siphoned teach post
+## EW-LI-D02-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-03 · Tuesday · 09:00 WAT · Text post**
+**2026-11-03 · Tuesday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D02-S07 — Steal This Copy Move: David Ogilvy — Headlines should do a job
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D02-S07 (slot 7) — Steal This Copy Move: David Ogilvy — Headlines should do a job
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D02-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> Steal this copy move from David Ogilvy: Headlines should do a job.
+> Most restaurant pages post the finished work and nothing else. That is the whole problem.
 >
-> The principle: A headline can select the audience and promise a useful reason to keep reading.
+> The move: Headlines should do a job.
 >
-> An original example, not theirs:
+> A headline can select the audience and promise a useful reason to keep reading.
 >
-> Before: 'Welcome to our studio.' After: 'Websites for Lagos businesses that need clearer enquiries.'
+> What that looks like on a Nigerian page:
 >
-> Do not steal the words. Steal the structure. Attribute the principle and write your own example.
+> Before: 'Welcome to our studio.'
+> After:  'Websites for Lagos businesses that need clearer enquiries.'
+>
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
+>
+> Source: Ogilvy on Advertising. Attributed, not quoted at length.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — Steal this copy move
+
+> David Ogilvy: Headlines should do a job
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> A headline can select the audience and promise a useful reason to keep reading
 >
 > Source: Ogilvy on Advertising.
 
-## Notes
+**Page 3** — Before
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> 'Welcome to our studio.' 
+>
+> Vague, category-level, forgettable.
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+**Page 4** — After
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+>  'Websites for Lagos businesses that need clearer enquiries.'
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D02-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D02-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-03 · Tuesday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D02-S02 (slot 2) — Myth Court: Hashtags are dead.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Marketing myth: Hashtags are dead.
+>
+> Verdict: Mostly false.
+>
+> Hashtags may still help categorise content, but they are not a distribution strategy by themselves. Clear hooks, searchable wording and useful content matter more than a large tag block.
+>
+> How we would test it:
+> Use three to five specific tags and compare search/discovery insights where available
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D02-CO3 · Image post — one rendered card from the day
+
+**2026-11-03 · Tuesday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D02-S08 (slot 8) — The algorithm changed. The customer question did not.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D02-S08.jpg`
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> One picture, one lesson. Read the second line twice.
+>
+> The algorithm changed. The customer question did not.
+> Answer the question clearly.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D02-S08.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D02-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-03 · Tuesday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D02-S02 (slot 2) — Myth Court: Hashtags are dead.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the test and run it on your own account
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D02-S02.mp4 (or the poster assets/fallbacks/EW-D02-S02.jpg)`
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Forty seconds. One workflow you can copy today.
+>
+> Myth: Hashtags are dead.
+> Verdict: Mostly false.
+>
+> Hashtags may still help categorise content, but they are not a distribution strategy by themselves. Clear hooks, searchable wording and useful content matter more than a large tag block
+>
+> The test: Use three to five specific tags and compare search/discovery insights where available
+>
+> Keep the useful part. Drop the absolute.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D02-S02. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D02-S02.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D02-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-03 · Tuesday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D02-S10 (slot 10) — Meet Easywurld: One-sentence studio
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> Building a small studio in Lagos means the boring decisions matter most.
+>
+> We help small businesses make the message, website, content and follow-up work together.
+> That's Easywurld.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D02-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-03 · Tuesday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D02-S02 (slot 2) — Myth Court: Hashtags are dead.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Which piece of advice has cost your business the most time?
+- **AI label:** Not required
+- **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
+
+### Post body (paste this)
+
+> Something I keep seeing in Nigerian small businesses: undefined.
+>
+> Myth I keep hearing: "Hashtags are dead."
+>
+> My verdict after running it: mostly false.
+>
+> Hashtags may still help categorise content, but they are not a distribution strategy by themselves. Clear hooks, searchable wording and useful content matter more than a large tag block.
+>
+> What I would actually do: use three to five specific tags and compare search/discovery insights where available
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D02-AB3 · Evening take — an opinion and a question back
+
+**2026-11-03 · Tuesday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D02-S09 (slot 9) — CLEAR Spotlight B: Is this a website build?
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the question customers ask you that you dread answering?
+- **AI label:** Not required
+- **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
+
+### Post body (paste this)
+
+> Somebody will disagree with this, and that is fine.
+>
+> Is this a website build? No. It is a DIY blueprint and templates, not a website build or personal page review.
+>
+> This is why The Clear Homepage Blueprint exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What is the question customers ask you that you dread answering?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=CLEAR — I answer these myself. Message CLEAR on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -2834,6 +3905,29 @@ Create a five-slide Easywurld carousel for a hair salon business in Lagos. Use t
 
 > Marketing myth: A viral video means customers Verdict: False. Attention is not the same as intent. A video can reach many people who will never buy. Track relevant enquiries and qualified briefs, not only views. Test it: Add one clear next step and compare enquiry quality across posts. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> You have heard this one before. "A viral video means customers." [pause] My verdict? False. Attention is not the same as intent. A video can reach many people who will never buy. Track relevant messages and qualified briefs, not only views. [pause] Here is a small test you can run this week. Add one clear next step and compare message quality across posts. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. You have heard this one before
+2. A viral video means customers my verdict? False
+3. Attention is not the same as intent
+4. A video can reach many people who will never buy
+5. Track relevant messages and qualified briefs
+6. not only views
+7. Here is a small test you can run this week
+8. Add one clear next step and compare message
+9. quality across posts
+10. Keep the useful part
+11. Drop the absolute
+12. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -2919,6 +4013,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Gold Star Behavior. SocialBee / Drizzle Digital reported it on 21 October 2026: a list of small habits that deserve a gold star. The business adaptation: Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Gold Star Behavior. [pause] SocialBee / Drizzle Digital reported it on 21 October 2026: a list of small habits that deserve a gold star. Here is how a normal Nigerian business uses it. Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Gold Star Behavior
+3. SocialBee / Drizzle Digital reported it on 21
+4. October 2026: a list of small habits that
+5. deserve a gold star
+6. Here is how a normal Nigerian business uses it
+7. Give stars to specific customer habits that reduce
+8. friction, such as sending measurements early
+9. Keep it kind
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -3008,6 +4129,31 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 ### Exact spoken script
 
 > This is a labelled concept workflow: plan a follow-up sequence. Input: a labelled sample lead. AI drafts day-2, day-6 and day-14 reminders with a stop rule. A person checks consent, timing and whether the lead already replied. Output: a follow-up task list. Nothing is sent automatically. The sample shows the thinking, not a live client result. Save the workflow and test it with anonymised input.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> This is the workflow I keep coming back to. Plan a follow-up sequence. [pause] Step one. The input is a labelled sample lead. Step two. The AI writes day-2, day-6 and day-14 reminders with a stop rule. Step three, and this is the one people skip. A human checks consent, timing and whether the lead already replied. Step four. You send a follow-up task list. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. No wahala. Save it, then test it on your own message.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. This is the workflow I keep coming back to
+2. Plan a follow-up sequence step one
+3. The input is a labelled sample lead step two
+4. The AI writes day-2
+5. day-6 and day-14 reminders with a stop rule
+6. Step three, and this is the one people skip
+7. A human checks consent
+8. timing and whether the lead already replied step four
+9. You send a follow-up task list
+10. Nothing goes out on its own
+11. The human check is the feature
+12. This is a labelled sample build
+13. not a client result no wahala
+14. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -3424,6 +4570,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 > Are these finished posts for my business? No. It is a planning system and idea bank. You still write and design the posts for your business. The 30-Day Content Engine is a ₦5,000 DIY pack. It includes 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. It is not custom work and it does not guarantee results. Message ENGINE on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Somebody will ask you this. "Are these finished posts for my business?" [pause] No. It is a planning system and idea bank. You still write and design the posts for your business. Let me be clear about what this is. The 30-Day Content Engine is a five thousand naira DIY pack. Inside, you get 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. [pause] It is not custom work, and it does not promise you sales. Message ENGINE on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Somebody will ask you this
+2. Are these finished posts for my business? No
+3. It is a planning system and idea bank
+4. You still write and design the posts for your business
+5. Let me be clear about what this is
+6. The 30-Day Content Engine is a five thousand
+7. naira DIY pack
+8. Inside, you get 30-Day Content Engine Guide
+9. 60-Idea Post Bank, 30-Day Content Calendar
+10. Hooks and Caption Swipe File
+11. It is not custom work
+12. and it does not promise you sales
+13. Message ENGINE on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -3589,6 +4760,25 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 > AI does not have a taste problem. It has a memory problem. It remembers the internet, not your prices, your promises or your limits. Let it draft. Never let it decide. Save this before your next automated reply.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> AI does not have a taste problem. It has a memory problem. [pause] It remembers the internet, not your prices, your promises or your limits. [pause] Let it draft. Never let it decide. Take it one step at a time. Save this before your next automated reply.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. AI does not have a taste problem
+2. It has a memory problem
+3. It remembers the internet
+4. not your prices, your promises or your limits
+5. Let it draft
+6. Never let it decide
+7. Take it one step at a time
+8. Save this before your next automated reply
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -3745,35 +4935,332 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W1-SHOW · Siphoned show / demo post
+## EW-LI-D03-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-04 · Wednesday · 09:00 WAT · Text post**
+**2026-11-04 · Wednesday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D03-S04 — AI Build: Plan a follow-up sequence
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D03-S01 (slot 1) — If I ran a hair salon account in Lagos
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D03-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> One AI workflow to test: plan a follow-up sequence.
+> The principle is old. The example is ours. David Ogilvy: respect the reader's intelligence.
 >
-> The workflow, in the order it has to happen:
+> Three posts I would test this week for a hair salon business:
 >
-> → Input: a labelled sample lead.
-> → AI drafts day-2, day-6 and day-14 reminders with a stop rule.
-> → A person checks consent, timing and whether the lead already replied.
+> 1. a consultation question that prevents a bad booking
+> 2. a maintenance routine for one style
+> 3. a stylist explaining who a style suits
 >
-> The boundary: Nothing is sent automatically; a person checks price, promise and tone.
+> The mistake to avoid: posting only transformations.
 >
-> If the draft cannot be checked by a person who knows the price, it is not ready to send.
+> First action: Answer one booking question on camera.
+>
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Document pages (rendered to PDF)
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+**Page 1** — If I ran a hair salon account in Lagos
+
+> Three posts I would test this week
+>
+> Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A consultation question that prevents a bad booking
+>
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A maintenance routine for one style
+>
+> Gives a customer something worth saving.
+
+**Page 4** — Post 3
+
+> A stylist explaining who a style suits
+>
+> Answers the question they were going to ask anyway.
+
+**Page 5** — Avoid
+
+> One mistake: posting only transformations
+>
+> First action: Answer one booking question on camera.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D03-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D03-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-04 · Wednesday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D03-S02 (slot 2) — Myth Court: A viral video means customers.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Someone will tell you this week: "A viral video means customers." Here is the verdict.
+>
+> Verdict: False.
+>
+> Attention is not the same as intent. A video can reach many people who will never buy. Track relevant enquiries and qualified briefs, not only views.
+>
+> How we would test it:
+> Add one clear next step and compare enquiry quality across posts
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D03-CO3 · Image post — one rendered card from the day
+
+**2026-11-04 · Wednesday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D03-S10 (slot 10) — Meet Easywurld: Process timeline
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/carousels/EW-D03-S10_slide-1.jpg`
+- **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
+
+### Post body (paste this)
+
+> You have felt this week. That is why it is here.
+>
+> Understand: the business, customer and problem.
+> Simplify: the message and next step.
+> Build: the page, content or system.
+> Optimize: review what the evidence says.
+> That is the Easywurld process.
+>
+> If your message, your website and your follow-up disagree, the customer feels it before they can name it.
+>
+> Which of the four is weakest in your business right now?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/carousels/EW-D03-S10_slide-1.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D03-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-04 · Wednesday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D03-S03 (slot 3) — Trend Desk: Gold Star Behavior
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the trend filter before your next post
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D03-S03.mp4 (or the poster assets/fallbacks/EW-D03-S03.jpg)`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> Watch this before you answer your next "how much?"
+>
+> Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind.
+>
+> Dated teardown, not a live trend claim. Verify a current example and the audio rights before you post it.
+>
+> Save the filter, not the hype.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D03-S03. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D03-S03.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D03-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-04 · Wednesday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D03-S04 (slot 4) — AI Build: Plan a follow-up sequence
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Today I chose the slower option. Let me explain why.
+>
+> What I am testing in the studio this week: plan a follow-up sequence.
+>
+> → Input: a labelled sample lead
+> → The draft: day-2, day-6 and day-14 reminders with a stop rule
+> → I check: consent, timing and whether the lead already replied
+> → Only then: a follow-up task list
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D03-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-04 · Wednesday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D03-S11 (slot 11) — One Last Thought: AI drafts
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
+
+### Post body (paste this)
+
+> I have read enough "how much?" chats to know one thing.
+>
+> AI does not have a taste problem. It has a memory problem.
+>
+> It remembers the internet, not your prices, your promises or your limits.
+>
+> Let it draft. Never let it decide.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D03-AB3 · Evening take — an opinion and a question back
+
+**2026-11-04 · Wednesday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D03-S07 (slot 7) — Steal This Copy Move: David Ogilvy — Respect the reader's intelligence
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> I changed my mind about this last month.
+>
+> The move: respect the reader's intelligence.
+>
+> Give facts and a clear proposition instead of empty superlatives.
+>
+> My own version, written for a Lagos customer:
+> Before: 'Best digital solutions.' After: 'A one-offer landing page kit with copy templates and a pre-launch checklist.'
+>
+> I am borrowing the structure from David Ogilvy, not the words. Credit where it is due: Ogilvy on Advertising.
+>
+> Oya — pick one headline on your page and rewrite it tonight. That is the whole homework.
+>
+> Paste your before and after in the comments if you want a second pair of eyes.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -3884,6 +5371,31 @@ Create a five-slide Easywurld carousel for a gym business in Lagos. Use the exac
 
 > Marketing myth: More followers means more sales Verdict: It depends. Followers can help reach, but sales need a relevant offer, trust and a clear route to buy. A smaller audience with the right problem can be more useful. Test it: Compare profile visits, offer clicks and confirmed sales per 1,000 views. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Marketing myth. People will tell you, "More followers means more sales." [pause] My verdict? It depends. Followers can help reach, but sales need a relevant offer, trust and a clear route to buy. A smaller audience with the right problem can be more useful. [pause] Here is a small test you can run this week. Compare profile visits, offer clicks and confirmed sales per 1,000 views. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Marketing myth
+2. People will tell you
+3. "More followers means more sales my verdict? It depends
+4. Followers can help reach
+5. but sales need a relevant offer
+6. trust and a clear route to buy
+7. A smaller audience with the right problem can
+8. be more useful
+9. Here is a small test you can run this week
+10. Compare profile visits, offer clicks and confirmed sales
+11. per 1,000 views
+12. Keep the useful part
+13. Drop the absolute
+14. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -3969,6 +5481,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Six-to-18-second proof Reel. Lightreel weekly report reported it on 24 October 2026: a short Reel that makes one claim and resolves it visually. The business adaptation: Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Six-to-18-second proof Reel. [pause] Lightreel weekly report reported it on 24 October 2026: a short Reel that makes one claim and resolves it visually. Here is how a normal Nigerian business uses it. Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. No wahala. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Six-to-18-second proof Reel
+3. Lightreel weekly report reported it on 24 October
+4. 2026: a short Reel that makes one claim
+5. and resolves it visually
+6. Here is how a normal Nigerian business uses it
+7. Show one labelled sample transformation
+8. such as a homepage toggle
+9. Do not claim performance results
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim no wahala
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -4058,6 +5597,31 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 ### Exact spoken script
 
 > This is a labelled concept workflow: draft an faq answer. Input: a real common question and approved facts. AI drafts a short answer with a source link. A person checks accuracy, tone and when to escalate. Output: a reviewed FAQ entry. Nothing is sent automatically. The sample shows the thinking, not a live client result. Save the workflow and test it with anonymised input.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let me show you one bounded AI job. Draft an FAQ answer. [pause] Step one. The input is a real common question and approved facts. Step two. The AI writes a short answer with a source link. Step three, and this is the one people skip. A human checks accuracy, tone and when to escalate. Step four. You send a reviewed FAQ entry. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Oya. Save it, then test it on your own message.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let me show you one bounded AI job
+2. Draft an FAQ answer step one
+3. The input is a real common question and approved facts
+4. Step two
+5. The AI writes a short answer with a source link
+6. Step three, and this is the one people skip
+7. A human checks accuracy
+8. tone and when to escalate step four
+9. You send a reviewed FAQ entry
+10. Nothing goes out on its own
+11. The human check is the feature
+12. This is a labelled sample build
+13. not a client result oya
+14. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -4474,6 +6038,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 > Do you host the page for me? No. Publishing, hosting and any domain are yours. The kit gives you a simple HTML starter. The One-Offer Landing Page Kit is a ₦5,000 DIY pack. It includes One-Offer Landing Page Guide, Landing Page Copy Template with Worked Example, Editable Landing Page Starter (HTML), Pre-Launch Checklist. It is not custom work and it does not guarantee results. Message PAGE on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> The question I get most about this pack. "Do you host the page for me?" [pause] No. Publishing, hosting and any domain are yours. The kit gives you a simple HTML starter. Let me be clear about what this is. The One-Offer Landing Page Kit is a five thousand naira DIY pack. Inside, you get One-Offer Landing Page Guide, Landing Page Copy Template with Worked Example, Editable Landing Page Starter (HTML), Pre-Launch Checklist. [pause] It is not custom work, and it does not promise you sales. Message PAGE on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. The question I get most about this pack
+2. Do you host the page for me? No
+3. Publishing, hosting and any domain are yours
+4. The kit gives you a simple HTML starter
+5. Let me be clear about what this is
+6. The One-Offer Landing Page Kit is a five
+7. thousand naira DIY pack
+8. Inside, you get One-Offer Landing Page Guide
+9. Landing Page Copy Template with Worked Example
+10. Editable Landing Page Starter (HTML) pre-Launch Checklist
+11. It is not custom work
+12. and it does not promise you sales
+13. Message PAGE on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -4561,6 +6150,23 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 ### Exact spoken script
 
 > Our portfolio is concept/sample work. We label it because thinking is not a client result. Here is what a sample can show: structure, tone and process. Here is what it cannot show: live performance. That boundary is part of the work.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Our portfolio is concept/sample work. We label it because thinking is not a client result. Here is what a sample can show: structure, tone and process. Here is what it cannot show: live performance. That boundary is part of the work.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Our portfolio is concept/sample work
+2. We label it because thinking is not a client result
+3. Here is what a sample can show:
+4. structure, tone and process
+5. Here is what it cannot show: live performance
+6. That boundary is part of the work
 
 ### Edit / shot order
 
@@ -4650,6 +6256,24 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 ### Exact spoken script
 
 > Nobody has ever bought from you because your logo was beautiful. They bought because your offer was easier to understand than the alternative. Craft the decision, not the decoration. Send this to the person redesigning their logo for the third time.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Nobody has ever bought from you because your logo was beautiful. [pause] They bought because your offer was easier to understand than the alternative. [pause] Craft the decision, not the decoration. Send this to the person redesigning their logo for the third time.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Nobody has ever bought from you because your
+2. logo was beautiful
+3. They bought because your offer was easier to
+4. understand than the alternative
+5. Craft the decision, not the decoration
+6. Send this to the person redesigning their logo
+7. for the third time
 
 ### Edit / shot order
 
@@ -4807,36 +6431,325 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W1-TRUST · Siphoned trust post
+## EW-LI-D04-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-05 · Thursday · 09:00 WAT · Text post**
+**2026-11-05 · Thursday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D04-S08 — The chatbot is confident. The knowledge sheet is empty.
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D04-S07 (slot 7) — Steal This Copy Move: Eugene Schwartz — Meet existing desire
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D04-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> The chatbot is confident. The knowledge sheet is empty.
+> If your page has gone quiet, it is rarely a lack of talent. It is a lack of a repeatable post.
 >
-> Give it boundaries and sources.
+> The move: Meet existing desire.
 >
-> The joke is the recognition. The caption is the fix.
+> Do not try to create desire from nothing. Connect the offer to what the buyer already wants.
 >
-> Two things I would change in a small business this week:
+> What that looks like on a Nigerian page:
 >
-> 1. Write the next step into the offer, not the caption.
+> Before: 'Buy our content engine.'
+> After:  'Stop staring at a blank calendar when you already have customer questions to answer.'
+>
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
+>
+> Source: Breakthrough Advertising. Attributed, not quoted at length.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — Steal this copy move
+
+> Eugene Schwartz: Meet existing desire
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> Do not try to create desire from nothing. Connect the offer to what the buyer already wants
+>
+> Source: Breakthrough Advertising.
+
+**Page 3** — Before
+
+> 'Buy our content engine.' 
+>
+> Vague, category-level, forgettable.
+
+**Page 4** — After
+
+>  'Stop staring at a blank calendar when you already have customer questions to answer.'
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D04-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D04-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-05 · Thursday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D04-S02 (slot 2) — Myth Court: More followers means more sales.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> More followers means more sales. We put it on trial.
+>
+> Verdict: It depends.
+>
+> Followers can help reach, but sales need a relevant offer, trust and a clear route to buy. A smaller audience with the right problem can be more useful.
+>
+> How we would test it:
+> Compare profile visits, offer clicks and confirmed sales per 1,000 views
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D04-CO3 · Image post — one rendered card from the day
+
+**2026-11-05 · Thursday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D04-S05 (slot 5) — Everyone wants viral. Nobody wants to answer the DMs.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D04-S05.jpg`
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> Small-business life, photographed honestly.
+>
+> Everyone wants viral. Nobody wants to answer the DMs.
+> Attention is the start of the work.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
 > 2. Put the price, the contents and the boundary in the same message.
 >
-> That is the whole post. No thread, no funnel.
+> No thread. No funnel. Just the next step made obvious.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Notes
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+Attach assets/memes/EW-D04-S05.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D04-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-05 · Thursday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D04-S03 (slot 3) — Trend Desk: Six-to-18-second proof Reel
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the trend filter before your next post
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D04-S03.mp4 (or the poster assets/fallbacks/EW-D04-S03.jpg)`
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Short version of a long lesson.
+>
+> Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results.
+>
+> Dated teardown, not a live trend claim. Verify a current example and the audio rights before you post it.
+>
+> Save the filter, not the hype.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D04-S03. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D04-S03.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D04-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-05 · Thursday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D04-S10 (slot 10) — Meet Easywurld: Sample label explainer
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
+
+### Post body (paste this)
+
+> I am building Easywurld in public, and today's decision was meet Easywurld: Sample label explainer.
+>
+> Our portfolio is concept/sample work.
+> We label it because thinking is not a client result.
+> Here is what a sample can show: structure, tone and process.
+> Here is what it cannot show: live performance.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D04-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-05 · Thursday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D04-S02 (slot 2) — Myth Court: More followers means more sales.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Which piece of advice has cost your business the most time?
+- **AI label:** Not required
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> Not a hot take. Just a pattern I cannot unsee.
+>
+> Myth I keep hearing: "More followers means more sales."
+>
+> My verdict after running it: it depends.
+>
+> Followers can help reach, but sales need a relevant offer, trust and a clear route to buy. A smaller audience with the right problem can be more useful.
+>
+> What I would actually do: compare profile visits, offer clicks and confirmed sales per 1,000 views
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D04-AB3 · Evening take — an opinion and a question back
+
+**2026-11-05 · Thursday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D04-S06 (slot 6) — PAGE Spotlight A: One offer needs one clear page.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What does your price reply say after the number?
+- **AI label:** Not required
+- **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Guard:** Answer honestly, including “no, it does not do that”.
+
+### Post body (paste this)
+
+> A question I asked five business owners this week.
+>
+> One offer needs one clear page.
+>
+> This is why The One-Offer Landing Page Kit exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What does your price reply say after the number?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=PAGE — I answer these myself. Message PAGE on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -4947,6 +6860,30 @@ Create a five-slide Easywurld carousel for a real estate agent business in Lagos
 
 > Marketing myth: You need a website before you post Verdict: It depends. A website helps, but a clear profile and contact route can start conversations. Do not wait for a perfect site to answer customer questions. Test it: Test the profile-to-WhatsApp journey today and fix broken links. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let us put one piece of advice on trial. "You need a website before you post." [pause] My verdict? It depends. A website helps, but a clear profile and contact route can start conversations. Do not wait for a perfect site to answer customer questions. [pause] Here is a small test you can run this week. Test the profile-to-WhatsApp journey today and fix broken links. No wahala. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let us put one piece of advice on trial
+2. You need a website before you post my verdict?
+3. It depends
+4. A website helps, but a clear profile and
+5. contact route can start conversations
+6. Do not wait for a perfect site to
+7. answer customer questions
+8. Here is a small test you can run this week
+9. Test the profile-to-WhatsApp journey today and fix broken links
+10. No wahala
+11. Keep the useful part
+12. Drop the absolute
+13. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -5032,6 +6969,31 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Native-interface tutorial. Lightreel weekly report reported it on 24 October 2026: a screen-recording aesthetic that shows the actual interface. The business adaptation: Record the real demo at a readable crop. Keep concept/sample labels visible. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Native-interface tutorial. [pause] Lightreel weekly report reported it on 24 October 2026: a screen-recording aesthetic that shows the actual interface. Here is how a normal Nigerian business uses it. Record the real demo at a readable crop. Keep concept/sample labels visible. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Oya. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Native-interface tutorial
+3. Lightreel weekly report reported it on 24 October
+4. 2026: a screen-recording aesthetic that shows the actual interface
+5. Here is how a normal Nigerian business uses it
+6. Record the real demo at a readable crop
+7. Keep concept/sample labels visible
+8. One thing before you copy it
+9. Check that it is still happening
+10. and check the audio rights
+11. This is a dated teardown
+12. not a live trend claim oya
+13. Save the filter
+14. Skip the hype
 
 ### Edit / shot order
 
@@ -5121,6 +7083,31 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 ### Exact spoken script
 
 > This is a labelled concept workflow: prepare an after-hours message. Input: business hours and service scope. AI drafts a calm message with the next available action. A person checks hours, emergency wording and promises. Output: an approved after-hours reply. Nothing is sent automatically. The sample shows the thinking, not a live client result. Save the workflow and test it with anonymised input.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> One AI workflow you can copy this week. Prepare an after-hours message. [pause] Step one. The input is business hours and service scope. Step two. The AI writes a calm message with the next available action. Step three, and this is the one people skip. A human checks hours, emergency wording and promises. Step four. You send an approved after-hours reply. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Take it one step at a time. Save it, then test it on your own message.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. One AI workflow you can copy this week
+2. Prepare an after-hours message step one
+3. The input is business hours and service scope step two
+4. The AI writes a calm message with the
+5. next available action
+6. Step three, and this is the one people skip
+7. A human checks hours, emergency wording and promises step four
+8. You send an approved after-hours reply
+9. Nothing goes out on its own
+10. The human check is the feature
+11. This is a labelled sample build
+12. not a client result
+13. Take it one step at a time
+14. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -5537,6 +7524,32 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 > Will this guarantee ranking? No. It helps you organise accurate local information. Rankings depend on many factors. The Lagos Local Visibility Starter is a ₦5,000 DIY pack. It includes Local Visibility Guide, Keyword and Page Title Worksheet, Google Business Profile Checklist and Review Scripts, 30-Day Local Visibility Tracker. It is not custom work and it does not guarantee results. Message LOCAL on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Before you buy, you will ask this. "Will this guarantee ranking?" [pause] No. It helps you organise accurate local information. Rankings depend on many factors. Let me be clear about what this is. The Lagos Local Visibility Starter is a five thousand naira DIY pack. Inside, you get Local Visibility Guide, Keyword and Page Title Worksheet, Google Business Profile Checklist and Review Scripts, 30-Day Local Visibility Tracker. [pause] It is not custom work, and it does not promise you sales. Message LOCAL on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Before you buy, you will ask this
+2. Will this guarantee ranking? No
+3. It helps you organise accurate local information
+4. Rankings depend on many factors
+5. Let me be clear about what this is
+6. The Lagos Local Visibility Starter is a five
+7. thousand naira DIY pack
+8. Inside, you get Local Visibility Guide
+9. Keyword and Page Title Worksheet
+10. Google Business Profile Checklist and Review Scripts
+11. 30-Day Local Visibility Tracker
+12. It is not custom work
+13. and it does not promise you sales
+14. Message LOCAL on WhatsApp and I will confirm
+15. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -5702,6 +7715,24 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 > Nothing is wrong with your content. You are talking to the room, not to the person. One customer, one problem, one next step. That is the whole brief. Write to one person and a thousand will feel seen. Save this for tomorrow’s caption.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Nothing is wrong with your content. You are talking to the room, not to the person. [pause] One customer, one problem, one next step. That is the whole brief. [pause] Write to one person and a thousand will feel seen. Save this for tomorrow’s caption.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Nothing is wrong with your content
+2. You are talking to the room
+3. not to the person
+4. One customer, one problem, one next step
+5. That is the whole brief
+6. Write to one person and a thousand will feel seen
+7. Save this for tomorrow’s caption
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -5858,33 +7889,330 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W1-VIDEO · Repurposed vertical video
+## EW-LI-D05-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-06 · Friday · 09:00 WAT · Vertical video**
+**2026-11-06 · Friday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D05-S02 — Myth Court: You need a website before you post.
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D05-S01 (slot 1) — If I ran a real estate agent account in Lagos
 - **Status:** Draft — not scheduled
-- **Single CTA:** Save the test and run it on your own account.
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D05-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> A myth worth testing: You need a website before you post
+> A real estate agent account in Lagos does not need more ideas. It needs three it can actually shoot this week.
 >
-> It depends.
+> Three posts I would test this week for a real estate agent business:
+>
+> 1. an area guide with verified local facts
+> 2. a cost breakdown buyers forget
+> 3. a listing tour that starts with the street
+>
+> The mistake to avoid: posting only room counts and price.
+>
+> First action: Record one verified area guide.
+>
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — If I ran a real estate agent account in Lagos
+
+> Three posts I would test this week
+>
+> Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> An area guide with verified local facts
+>
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A cost breakdown buyers forget
+>
+> Gives a customer something worth saving.
+
+**Page 4** — Post 3
+
+> A listing tour that starts with the street
+>
+> Answers the question they were going to ask anyway.
+
+**Page 5** — Avoid
+
+> One mistake: posting only room counts and price
+>
+> First action: Record one verified area guide.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D05-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D05-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-06 · Friday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D05-S02 (slot 2) — Myth Court: You need a website before you post.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Absolute advice is expensive. Take this one: "You need a website before you post."
+>
+> Verdict: It depends.
 >
 > A website helps, but a clear profile and contact route can start conversations. Do not wait for a perfect site to answer customer questions.
 >
-> How I would test it: Test the profile-to-WhatsApp journey today and fix broken links.
+> How we would test it:
+> Test the profile-to-WhatsApp journey today and fix broken links
 >
 > Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Reuse the vertical cut from the same day. Re-frame to 4:5 or 1:1 with captions burned in; keep the AI label.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Notes
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D05-CO3 · Image post — one rendered card from the day
+
+**2026-11-06 · Friday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D05-S08 (slot 8) — The caption has 30 hashtags. The hook has no point.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D05-S08.jpg`
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> This is the part nobody posts about.
+>
+> The caption has 30 hashtags. The hook has no point.
+> Spend the effort on the first sentence.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D05-S08.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D05-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-06 · Friday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D05-S09 (slot 9) — LOCAL Spotlight B: Will this guarantee ranking?
+- **Status:** Draft — not scheduled
+- **Single CTA:** Message LOCAL to confirm order details
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D05-S09.mp4 (or the poster assets/fallbacks/EW-D05-S09.jpg)`
+- **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Guard:** Answer honestly, including “no, it does not do that”.
+
+### Post body (paste this)
+
+> Forty seconds. One workflow you can copy today.
+>
+> Will this guarantee ranking?
+> No. It helps you organise accurate local information. Rankings depend on many factors.
+>
+> The Lagos Local Visibility Starter — ₦5,000 DIY pack. Not custom work, no results guaranteed.
+>
+> Message the keyword on WhatsApp to confirm current order details.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/offers/lagos-local-visibility-starter · or message LOCAL on WhatsApp: https://wa.me/2349050690837?text=LOCAL
+
+### Notes
+
+Upload the finished MP4 for EW-D05-S09. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D05-S09.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D05-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-06 · Friday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D05-S04 (slot 4) — AI Build: Prepare an after-hours message
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
+
+### Post body (paste this)
+
+> Three hours on aI Build: Prepare an after-hours message today. Here is what I got wrong first.
+>
+> What I am testing in the studio this week: prepare an after-hours message.
+>
+> → Input: business hours and service scope
+> → The draft: a calm message with the next available action
+> → I check: hours, emergency wording and promises
+> → Only then: an approved after-hours reply
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D05-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-06 · Friday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D05-S11 (slot 11) — One Last Thought: Content that does not sell
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> The businesses that survive this year are not the loudest.
+>
+> Nothing is wrong with your content. You are talking to the room, not to the person.
+>
+> One customer, one problem, one next step. That is the whole brief.
+>
+> Write to one person and a thousand will feel seen.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D05-AB3 · Evening take — an opinion and a question back
+
+**2026-11-06 · Friday · 19:45 WAT · Native video**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D05-S09 (slot 9) — LOCAL Spotlight B: Will this guarantee ranking?
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the question customers ask you that you dread answering?
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D05-S09.mp4 (or the poster assets/fallbacks/EW-D05-S09.jpg)`
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Evening thought. Local visibility starts with accurate information.
+>
+> Will this guarantee ranking? No. It helps you organise accurate local information. Rankings depend on many factors.
+>
+> This is why The Lagos Local Visibility Starter exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What is the question customers ask you that you dread answering?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=LOCAL — I answer these myself. Message LOCAL on WhatsApp.
+
+### Notes
+
+Upload the finished MP4 for EW-D05-S09. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D05-S09.jpg with the same caption as an image post.
 
 ---
 
@@ -5995,6 +8323,29 @@ Create a five-slide Easywurld carousel for a bakery business in Lagos. Use the e
 
 > Marketing myth: AI can replace marketing strategy Verdict: False. AI can draft and organise, but it does not know your customer, margins, capacity or promise unless you supply them. Strategy still needs human judgement. Test it: Write the offer, audience and proof first; then ask AI for drafts. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> You have heard this one before. "AI can replace marketing strategy." [pause] My verdict? False. AI can draft and organise, but it does not know your customer, margins, capacity or promise unless you supply them. Strategy still needs human judgement. [pause] Here is a small test you can run this week. Write the offer, audience and proof first; then ask AI for drafts. Oya. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. You have heard this one before
+2. AI can replace marketing strategy my verdict? False
+3. AI can draft and organise
+4. but it does not know your customer
+5. margins, capacity or promise unless you supply them
+6. Strategy still needs human judgement
+7. Here is a small test you can run this week
+8. Write the offer, audience and proof first;
+9. then ask AI for drafts oya
+10. Keep the useful part
+11. Drop the absolute
+12. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -6080,6 +8431,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Comment keyword to DM. Lightreel weekly report reported it on 24 October 2026: a comment keyword that triggers a DM workflow. The business adaptation: Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Comment keyword to DM. [pause] Lightreel weekly report reported it on 24 October 2026: a comment keyword that triggers a DM workflow. Here is how a normal Nigerian business uses it. Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Take it one step at a time. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Comment keyword to DM
+3. Lightreel weekly report reported it on 24 October
+4. 2026: a comment keyword that triggers a DM workflow
+5. Here is how a normal Nigerian business uses it
+6. Use one keyword for one pack and confirm
+7. the DM flow works
+8. Do not promise instant delivery if it is manual
+9. One thing before you copy it
+10. Check that it is still happening
+11. and check the audio rights
+12. This is a dated teardown
+13. not a live trend claim
+14. Take it one step at a time
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -6169,6 +8547,30 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 ### Exact spoken script
 
 > This is a labelled concept workflow: summarise a booking request. Input: a fictional booking form. AI drafts a summary with missing fields flagged. A person checks date, time, price and cancellation terms. Output: a human-confirmed booking note. Nothing is sent automatically. The sample shows the thinking, not a live client result. Save the workflow and test it with anonymised input.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> This is the workflow I keep coming back to. Summarise a booking request. [pause] Step one. The input is a fictional booking form. Step two. The AI writes a summary with missing fields flagged. Step three, and this is the one people skip. A human checks date, time, price and cancellation terms. Step four. You send a human-confirmed booking note. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Save it, then test it on your own message.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. This is the workflow I keep coming back to
+2. Summarise a booking request step one
+3. The input is a fictional booking form step two
+4. The AI writes a summary with missing fields flagged
+5. Step three, and this is the one people skip
+6. A human checks date
+7. time, price and cancellation terms step four
+8. You send a human-confirmed booking note
+9. Nothing goes out on its own
+10. The human check is the feature
+11. This is a labelled sample build
+12. not a client result
+13. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -6585,6 +8987,32 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 > Is this a consultation? No. It is a self-guided workbook. It does not include a consultation or review of your answers. The Clear Message Workbook is a ₦5,000 DIY pack. It includes Clear Message Workbook, Customer Interview Kit, Message Bank, One-Page Marketing Plan. It is not custom work and it does not guarantee results. Message MESSAGE on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Somebody will ask you this. "Is this a consultation?" [pause] No. It is a self-guided workbook. It does not include a consultation or review of your answers. Let me be clear about what this is. The Clear Message Workbook is a five thousand naira DIY pack. Inside, you get Clear Message Workbook, Customer Interview Kit, Message Bank, One-Page Marketing Plan. [pause] It is not custom work, and it does not promise you sales. Message MESSAGE on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Somebody will ask you this
+2. Is this a consultation? No
+3. It is a self-guided workbook
+4. It does not include a consultation or review
+5. of your answers
+6. Let me be clear about what this is
+7. The Clear Message Workbook is a five thousand
+8. naira DIY pack
+9. Inside, you get Clear Message Workbook
+10. Customer Interview Kit, Message Bank
+11. One-Page Marketing Plan
+12. It is not custom work
+13. and it does not promise you sales
+14. Message MESSAGE on WhatsApp and I will confirm
+15. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -6673,6 +9101,27 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 
 > Who do we serve? Owner-led small businesses. What do we do? Make the message, page, content and follow-up agree. Do we do custom work? Yes, as scoped projects. Are the ₦5,000 packs custom work? No, they are DIY resources. What is the next step? Send the link and the problem.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Who do we serve? Owner-led small businesses. What do we do? Make the message, page, content and follow-up agree. Do we do custom work? Yes, as scoped projects. Are the ₦5,000 packs custom work? No, they are DIY resources. What is the next step? Send the link and the problem.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Who do we serve?
+2. Owner-led small businesses
+3. What do we do?
+4. Make the message, page, content and follow-up agree
+5. Do we do custom work?
+6. Yes, as scoped projects
+7. Are the ₦5,000 packs custom work?
+8. No, they are DIY resources
+9. What is the next step?
+10. Send the link and the problem
+
 ### Edit / shot order
 
 - 0–3s: first line as hook.
@@ -6753,6 +9202,25 @@ Create an Easywurld introduction in the format AI talking head. Use the exact su
 ### Exact spoken script
 
 > Every unanswered message is a price you already agreed to pay. You did the advertising, then let the reply die in a list you never open. Answer five a day. The list is the calendar. Save this and clear five tonight.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Every unanswered message is a price you already agreed to pay. [pause] You did the advertising, then let the reply die in a list you never open. [pause] Answer five a day. The list is the calendar. No wahala. Save this and clear five tonight.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Every unanswered message is a price you already
+2. agreed to pay
+3. You did the advertising
+4. then let the reply die in a list
+5. you never open
+6. Answer five a day
+7. The list is the calendar no wahala
+8. Save this and clear five tonight
 
 ### Edit / shot order
 
@@ -6910,37 +9378,337 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W1-OFFER · Siphoned offer lesson
+## EW-LI-D06-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-07 · Saturday · 09:00 WAT · Text post**
+**2026-11-07 · Saturday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D06-S06 — MESSAGE Spotlight A: The offer sentence should survive the bio test.
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D06-S07 (slot 7) — Steal This Copy Move: Eugene Schwartz — Market sophistication
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D06-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> The offer sentence should survive the bio test.
+> Eugene Schwartz said it first: market sophistication. Here is what that looks like on a Nigerian small-business page.
 >
-> Slide 1: The offer sentence should survive the bio test.
-> Slide 2: The problem: You cannot explain your business in one sentence. Your website, Instagram bio and pitch all say different things, and customers cannot tell why to choose you.
-> Slide 3: Inside The Clear Message Workbook:
-> · Clear Message Workbook
-> · Customer Interview Kit
-> · Message Bank
-> · One-Page Marketing Plan
-> Slide 4: ₦5,000 DIY pack. Not custom work. This is a self-guided workbook. It does not include a consultation or review of your answers.
-> Slide 5: Message MESSAGE on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.
+> The move: Market sophistication.
 >
-> Message MESSAGE to confirm order details.
+> When every competitor makes the same claim, show a mechanism or specific difference.
+>
+> What that looks like on a Nigerian page:
+>
+> Before: 'We help you grow.'
+> After:  'We make the message, page, content and follow-up agree.'
+>
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
+>
+> Source: Breakthrough Advertising. Attributed, not quoted at length.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Document pages (rendered to PDF)
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+**Page 1** — Steal this copy move
+
+> Eugene Schwartz: Market sophistication
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> When every competitor makes the same claim, show a mechanism or specific difference
+>
+> Source: Breakthrough Advertising.
+
+**Page 3** — Before
+
+> 'We help you grow.' 
+>
+> Vague, category-level, forgettable.
+
+**Page 4** — After
+
+>  'We make the message, page, content and follow-up agree.'
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D06-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D06-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-07 · Saturday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D06-S02 (slot 2) — Myth Court: AI can replace marketing strategy.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Marketing myth: AI can replace marketing strategy.
+>
+> Verdict: False.
+>
+> AI can draft and organise, but it does not know your customer, margins, capacity or promise unless you supply them. Strategy still needs human judgement.
+>
+> How we would test it:
+> Write the offer, audience and proof first; then ask AI for drafts
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D06-CO3 · Image post — one rendered card from the day
+
+**2026-11-07 · Saturday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D06-S10 (slot 10) — Meet Easywurld: FAQ talking head
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/carousels/EW-D06-S10_slide-1.jpg`
+- **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
+
+### Post body (paste this)
+
+> One picture, one lesson. Read the second line twice.
+>
+> Who do we serve? Owner-led small businesses.
+> What do we do? Make the message, page, content and follow-up agree.
+> Do we do custom work? Yes, as scoped projects.
+> Are the ₦5,000 packs custom work? No, they are DIY resources.
+> What is the next step? Send the link and the problem.
+>
+> If your message, your website and your follow-up disagree, the customer feels it before they can name it.
+>
+> Which of the four is weakest in your business right now?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/carousels/EW-D06-S10_slide-1.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D06-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-07 · Saturday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D06-S09 (slot 9) — MESSAGE Spotlight B: Is this a consultation?
+- **Status:** Draft — not scheduled
+- **Single CTA:** Message MESSAGE to confirm order details
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D06-S09.mp4 (or the poster assets/fallbacks/EW-D06-S09.jpg)`
+- **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
+
+### Post body (paste this)
+
+> Watch this before you answer your next "how much?"
+>
+> Is this a consultation?
+> No. It is a self-guided workbook. It does not include a consultation or review of your answers.
+>
+> The Clear Message Workbook — ₦5,000 DIY pack. Not custom work, no results guaranteed.
+>
+> Message the keyword on WhatsApp to confirm current order details.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/offers/clear-message-workbook · or message MESSAGE on WhatsApp: https://wa.me/2349050690837?text=MESSAGE
+
+### Notes
+
+Upload the finished MP4 for EW-D06-S09. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D06-S09.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D06-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-07 · Saturday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D06-S10 (slot 10) — Meet Easywurld: FAQ talking head
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> I keep a rule for this studio: nothing goes out that a person has not checked.
+>
+> Who do we serve? Owner-led small businesses.
+> What do we do? Make the message, page, content and follow-up agree.
+> Do we do custom work? Yes, as scoped projects.
+> Are the ₦5,000 packs custom work? No, they are DIY resources.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D06-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-07 · Saturday · 12:45 WAT · Poll**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D06-S02 (slot 2) — Myth Court: AI can replace marketing strategy.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Vote, then tell me why in one line.
+- **AI label:** Not required
+- **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
+
+### Post body (paste this)
+
+> Something I keep seeing in Nigerian small businesses: undefined.
+>
+> Myth I keep hearing: "AI can replace marketing strategy."
+>
+> My verdict after running it: false.
+>
+> AI can draft and organise, but it does not know your customer, margins, capacity or promise unless you supply them. Strategy still needs human judgement.
+>
+> What I would actually do: write the offer, audience and proof first; then ask AI for drafts
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Poll
+
+- **Question:** A new customer’s first question is usually…
+- Option: “How much?”
+- Option: “What do you even do?”
+- **Answer to give in the comments:** If it is the second one, the bio is the problem.
+
+### Notes
+
+Native poll. 2 options. The lesson stays in the post body, not the poll.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish as a text post with the two options written as a question.
+
+---
+
+## EW-LI-D06-AB3 · Evening take — an opinion and a question back
+
+**2026-11-07 · Saturday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D06-S07 (slot 7) — Steal This Copy Move: Eugene Schwartz — Market sophistication
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
+
+### Post body (paste this)
+
+> Somebody will disagree with this, and that is fine.
+>
+> The move: market sophistication.
+>
+> When every competitor makes the same claim, show a mechanism or specific difference.
+>
+> My own version, written for a Lagos customer:
+> Before: 'We help you grow.' After: 'We make the message, page, content and follow-up agree.'
+>
+> I am borrowing the structure from Eugene Schwartz, not the words. Credit where it is due: Breakthrough Advertising.
+>
+> Oya — pick one headline on your page and rewrite it tonight. That is the whole homework.
+>
+> Paste your before and after in the comments if you want a second pair of eyes.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -7051,6 +9819,29 @@ Create a five-slide Easywurld carousel for a skincare brand business in Lagos. U
 
 > Marketing myth: A free review means free custom work Verdict: False. A review can identify a problem and next step. Building, writing or managing the solution is separate scoped work. Test it: State the review boundary before starting and send a written scope for extra work. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Marketing myth. People will tell you, "A free review means free custom work." [pause] My verdict? False. A review can identify a problem and next step. Building, writing or managing the solution is separate scoped work. [pause] Here is a small test you can run this week. State the review boundary before starting and send a written scope for extra work. Take it one step at a time. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Marketing myth
+2. People will tell you
+3. "A free review means free custom work my verdict? False
+4. A review can identify a problem and next step
+5. Building, writing or managing the solution is separate scoped work
+6. Here is a small test you can run this week
+7. State the review boundary before starting and send
+8. a written scope for extra work
+9. Take it one step at a time
+10. Keep the useful part
+11. Drop the absolute
+12. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -7136,6 +9927,34 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Why People Come, Why People Stay. Drizzle Digital Vol. 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. The business adaptation: Show the hook that brings an enquiry and the process that earns trust. Use real or labelled sample steps. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. Here is how a normal Nigerian business uses it. Show the hook that brings an message and the process that earns trust. Use real or labelled sample steps. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Why People Come
+3. Why People Stay
+4. Drizzle Digital Volume 38 reported it on 28
+5. September 2026: a contrast between what attracts customers
+6. and what keeps them
+7. Here is how a normal Nigerian business uses it
+8. Show the hook that brings an message and
+9. the process that earns trust
+10. Use real or labelled sample steps
+11. One thing before you copy it
+12. Check that it is still happening
+13. and check the audio rights
+14. This is a dated teardown
+15. not a live trend claim
+16. Save the filter
+17. Skip the hype
 
 ### Edit / shot order
 
@@ -7225,6 +10044,30 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 ### Exact spoken script
 
 > This is a labelled concept workflow: turn a market brief into a checklist. Input: a labelled sample brief. AI drafts a task list with owners and open questions. A person checks invented facts and missing approvals. Output: a reviewed production checklist. Nothing is sent automatically. The sample shows the thinking, not a live client result. Save the workflow and test it with anonymised input.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let me show you one bounded AI job. Turn a market brief into a checklist. [pause] Step one. The input is a labelled sample brief. Step two. The AI writes a task list with owners and open questions. Step three, and this is the one people skip. A human checks invented facts and missing approvals. Step four. You send a reviewed production checklist. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Save it, then test it on your own message.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let me show you one bounded AI job
+2. Turn a market brief into a checklist step one
+3. The input is a labelled sample brief step two
+4. The AI writes a task list with owners
+5. and open questions
+6. Step three, and this is the one people skip
+7. A human checks invented facts and missing approvals step four
+8. You send a reviewed production checklist
+9. Nothing goes out on its own
+10. The human check is the feature
+11. This is a labelled sample build
+12. not a client result
+13. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -7641,6 +10484,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 > Does this build a chatbot? No. The knowledge sheet is a design document. Building or installing an assistant is separate. The Everyday AI Prompt Desk is a ₦5,000 DIY pack. It includes AI Prompting Guide for Small Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template, AI Output Review and Safety Checklist. It is not custom work and it does not guarantee results. Message PROMPTS on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> The question I get most about this pack. "Does this build a chatbot?" [pause] No. The knowledge sheet is a design document. Building or installing an assistant is separate. Let me be clear about what this is. The Everyday AI Prompt Desk is a five thousand naira DIY pack. Inside, you get AI Prompting Guide for Small Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template, AI Output Review and Safety Checklist. [pause] It is not custom work, and it does not promise you sales. Message PROMPTS on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. The question I get most about this pack
+2. Does this build a chatbot? No
+3. The knowledge sheet is a design document
+4. Building or installing an assistant is separate
+5. Let me be clear about what this is
+6. The Everyday AI Prompt Desk is a five
+7. thousand naira DIY pack
+8. Inside, you get AI Prompting Guide for Small
+9. Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template
+10. AI Output Review and Safety Checklist
+11. It is not custom work
+12. and it does not promise you sales
+13. Message PROMPTS on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -7806,6 +10674,23 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 > Followers are not customers. They are strangers who agreed to keep looking. The business happens in the message, the call and the second visit. Count enquiries, not applause. Save this before you buy followers.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Followers are not customers. They are strangers who agreed to keep looking. [pause] The business happens in the message, the call and the second visit. [pause] Count messages, not applause. Oya. Save this before you buy followers.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Followers are not customers
+2. They are strangers who agreed to keep looking
+3. The business happens in the message
+4. the call and the second visit
+5. Count messages, not applause oya
+6. Save this before you buy followers
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -7962,6 +10847,334 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
+## EW-LI-D07-CO1 · Document post — the day's lesson as a PDF
+
+**2026-11-08 · Sunday · 07:30 WAT · Document post (PDF)**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D07-S01 (slot 1) — If I ran a skincare brand account in Lagos
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D07-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> Five pages. One week of posting for a skincare brand business. Steal the structure, not the words.
+>
+> Three posts I would test this week for a skincare brand business:
+>
+> 1. a routine order explained without medical claims
+> 2. an ingredient label read in plain language
+> 3. a customer question routed to a qualified professional when needed
+>
+> The mistake to avoid: making treatment claims.
+>
+> First action: Write one plain-language label answer.
+>
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — If I ran a skincare brand account in Lagos
+
+> Three posts I would test this week
+>
+> Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A routine order explained without medical claims
+>
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> An ingredient label read in plain language
+>
+> Gives a customer something worth saving.
+
+**Page 4** — Post 3
+
+> A customer question routed to a qualified professional when needed
+>
+> Answers the question they were going to ask anyway.
+
+**Page 5** — Avoid
+
+> One mistake: making treatment claims
+>
+> First action: Write one plain-language label answer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D07-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D07-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-08 · Sunday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D07-S02 (slot 2) — Myth Court: A free review means free custom work.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Someone will tell you this week: "A free review means free custom work." Here is the verdict.
+>
+> Verdict: False.
+>
+> A review can identify a problem and next step. Building, writing or managing the solution is separate scoped work.
+>
+> How we would test it:
+> State the review boundary before starting and send a written scope for extra work
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D07-CO3 · Image post — one rendered card from the day
+
+**2026-11-08 · Sunday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D07-S05 (slot 5) — The customer asked for price. We sent a novel.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D07-S05.jpg`
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> You have felt this week. That is why it is here.
+>
+> The customer asked for price. We sent a novel.
+> Answer the question, then add the next step.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D07-S05.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D07-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-08 · Sunday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D07-S02 (slot 2) — Myth Court: A free review means free custom work.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the test and run it on your own account
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D07-S02.mp4 (or the poster assets/fallbacks/EW-D07-S02.jpg)`
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Short version of a long lesson.
+>
+> Myth: A free review means free custom work.
+> Verdict: False.
+>
+> A review can identify a problem and next step. Building, writing or managing the solution is separate scoped work
+>
+> The test: State the review boundary before starting and send a written scope for extra work
+>
+> Keep the useful part. Drop the absolute.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D07-S02. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D07-S02.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D07-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-08 · Sunday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D07-S04 (slot 4) — AI Build: Turn a market brief into a checklist
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Building a small studio in Lagos means the boring decisions matter most.
+>
+> What I am testing in the studio this week: turn a market brief into a checklist.
+>
+> → Input: a labelled sample brief
+> → The draft: a task list with owners and open questions
+> → I check: invented facts and missing approvals
+> → Only then: a reviewed production checklist
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D07-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-08 · Sunday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D07-S11 (slot 11) — One Last Thought: Followers
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
+
+### Post body (paste this)
+
+> I have read enough "how much?" chats to know one thing.
+>
+> Followers are not customers. They are strangers who agreed to keep looking.
+>
+> The business happens in the message, the call and the second visit.
+>
+> Count enquiries, not applause.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D07-AB3 · Evening take — an opinion and a question back
+
+**2026-11-08 · Sunday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D07-S06 (slot 6) — PROMPTS Spotlight A: AI needs facts, voice and boundaries.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What does your price reply say after the number?
+- **AI label:** Not required
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> I changed my mind about this last month.
+>
+> AI needs facts, voice and boundaries.
+>
+> This is why The Everyday AI Prompt Desk exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What does your price reply say after the number?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=PROMPTS — I answer these myself. Message PROMPTS on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
 # Day 8 · 2026-11-09 · Monday · Offer: TEMPLATES
 
 ## EW-D08-S01 · If I ran a tutor account in Lagos
@@ -8069,6 +11282,27 @@ Create a five-slide Easywurld carousel for a tutor business in Lagos. Use the ex
 
 > Marketing myth: Discounts always increase sales Verdict: It depends. A discount can attract price-sensitive buyers and reduce margin. It can also train customers to wait. Test whether the offer is clear before reducing price. Test it: Run one non-discount offer post and compare qualified enquiries. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let us put one piece of advice on trial. "Discounts always increase sales." [pause] My verdict? It depends. A discount can attract price-sensitive buyers and reduce margin. It can also train customers to wait. Test whether the offer is clear before reducing price. [pause] Here is a small test you can run this week. Run one non-discount offer post and compare qualified messages. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let us put one piece of advice on trial
+2. Discounts always increase sales my verdict? It depends
+3. A discount can attract price-sensitive buyers and reduce margin
+4. It can also train customers to wait
+5. Test whether the offer is clear before reducing price
+6. Here is a small test you can run this week
+7. Run one non-discount offer post and compare qualified messages
+8. Keep the useful part
+9. Drop the absolute
+10. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -8154,6 +11388,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: I'm with Max. Drizzle Digital Vol. 40 reported it on 26 October 2026: a creator spotlighting the person or thing they are always with. The business adaptation: Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is I'm with Max. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a creator spotlighting the person or thing they are always with. Here is how a normal Nigerian business uses it. Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is I'm with Max
+3. Drizzle Digital Volume 40 reported it on 26
+4. October 2026: a creator spotlighting the person or
+5. thing they are always with
+6. Here is how a normal Nigerian business uses it
+7. Adapt only with owned/licensed audio and a real
+8. brand constant, such as the checklist
+9. Do not use a personal-account sound
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -8243,6 +11504,29 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 ### Exact spoken script
 
 > This is a labelled concept workflow: draft an internal assistant answer. Input: an approved knowledge sheet. AI drafts an answer with source and escalation note. A person checks medical/legal/financial boundaries. Output: a staff-reviewed answer. Nothing is sent automatically. The sample shows the thinking, not a live client result. Save the workflow and test it with anonymised input.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> One AI workflow you can copy this week. Draft an internal assistant answer. [pause] Step one. The input is an approved knowledge sheet. Step two. The AI writes an answer with source and escalation note. Step three, and this is the one people skip. A human checks medical/legal/financial boundaries. Step four. You send a staff-reviewed answer. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. No wahala. Save it, then test it on your own message.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. One AI workflow you can copy this week
+2. Draft an internal assistant answer step one
+3. The input is an approved knowledge sheet step two
+4. The AI writes an answer with source and escalation note
+5. Step three, and this is the one people skip
+6. A human checks medical/legal/financial boundaries step four
+7. You send a staff-reviewed answer
+8. Nothing goes out on its own
+9. The human check is the feature
+10. This is a labelled sample build
+11. not a client result no wahala
+12. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -8659,6 +11943,33 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 > Is this a legal contract? No. The templates are general business documents, not legal contracts. Have terms reviewed professionally. The Proposal & Report Template Pack is a ₦5,000 DIY pack. It includes Proposals and Reports Guide, Proposal Template with Worked Example, Report and Summary Templates, Quote and Invoice Workbook. It is not custom work and it does not guarantee results. Message TEMPLATES on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Before you buy, you will ask this. "Is this a legal contract?" [pause] No. The templates are general business documents, not legal contracts. Have terms reviewed professionally. Let me be clear about what this is. The Proposal & Report Template Pack is a five thousand naira DIY pack. Inside, you get Proposals and Reports Guide, Proposal Template with Worked Example, Report and Summary Templates, Quote and Invoice Workbook. [pause] It is not custom work, and it does not promise you sales. Message TEMPLATES on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Before you buy, you will ask this
+2. Is this a legal contract? No
+3. The templates are general business documents
+4. not legal contracts
+5. Have terms reviewed professionally
+6. Let me be clear about what this is
+7. The Proposal & Report Template Pack is a
+8. five thousand naira DIY pack
+9. Inside, you get Proposals and Reports Guide
+10. Proposal Template with Worked Example
+11. Report and Summary Templates
+12. Quote and Invoice Workbook
+13. It is not custom work
+14. and it does not promise you sales
+15. Message TEMPLATES on WhatsApp and I will confirm
+16. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -8824,6 +12135,24 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 > “We will go viral” is not a plan. It is a lottery ticket with a caption. Twelve useful posts a day beats one lucky one you cannot repeat. Build the repeatable thing. Save this for the next strategy meeting.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> “We will go viral” is not a plan. It is a lottery ticket with a caption. [pause] Twelve useful posts a day beats one lucky one you cannot repeat. [pause] Build the repeatable thing. Take it one step at a time. Save this for the next strategy meeting.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. We will go viral” is not a plan
+2. It is a lottery ticket with a caption
+3. Twelve useful posts a day beats one lucky
+4. one you cannot repeat
+5. Build the repeatable thing
+6. Take it one step at a time
+7. Save this for the next strategy meeting
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -8980,41 +12309,358 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W2-CAROUSEL · Carousel write-up (document post)
+## EW-LI-D08-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-09 · Monday · 09:00 WAT · Document post (carousel write-up)**
+**2026-11-09 · Monday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D08-S01 — If I ran a tutor account in Lagos
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D08-S07 (slot 7) — Steal This Copy Move: Joe Sugarman — Reading momentum
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D08-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> If I ran a tutor account in Lagos, this is what I would post this week.
+> Most tutor pages post the finished work and nothing else. That is the whole problem.
 >
-> If I were running this account, I would test three posts this week:
+> The move: Reading momentum.
 >
-> 1. a parent question answered in 30 seconds
-> 2. a study method shown with a fictional example
-> 3. a term schedule with clear enrolment steps
+> Each sentence should make the next one feel necessary.
 >
-> The mistake to avoid: posting only motivational quotes.
+> What that looks like on a Nigerian page:
 >
-> First action: Answer one real parent question.
+> Hook: 'The enquiry came in.' Next: 'The reply was slow.' Next: 'The customer bought elsewhere.'
 >
-> Planning example, not a claim that we manage this account.
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
 >
-> Which one would you test first?
+> Source: The Adweek Copywriting Handbook. Attributed, not quoted at length.
 >
-> (Full carousel on the feed. The document version is the same five slides as a PDF.)
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Upload the five-slide carousel as a PDF document post. Slide 1 is the cover image LinkedIn shows on mobile.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Document pages (rendered to PDF)
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+**Page 1** — Steal this copy move
+
+> Joe Sugarman: Reading momentum
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> Each sentence should make the next one feel necessary
+>
+> Source: The Adweek Copywriting Handbook.
+
+**Page 3** — Before
+
+> Hook: 'The enquiry came in.' Next: 'The reply was slow.' Next: 'The customer bought elsewhere.'
+>
+> Vague, category-level, forgettable.
+
+**Page 4** — After
+
+>
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D08-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D08-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-09 · Monday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D08-S02 (slot 2) — Myth Court: Discounts always increase sales.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Discounts always increase sales. We put it on trial.
+>
+> Verdict: It depends.
+>
+> A discount can attract price-sensitive buyers and reduce margin. It can also train customers to wait. Test whether the offer is clear before reducing price.
+>
+> How we would test it:
+> Run one non-discount offer post and compare qualified enquiries
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D08-CO3 · Image post — one rendered card from the day
+
+**2026-11-09 · Monday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D08-S08 (slot 8) — The carousel has 10 slides. Slide 1 is a paragraph.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D08-S08.jpg`
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Small-business life, photographed honestly.
+>
+> The carousel has 10 slides. Slide 1 is a paragraph.
+> One idea per slide.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D08-S08.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D08-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-09 · Monday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D08-S03 (slot 3) — Trend Desk: I'm with Max
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the trend filter before your next post
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D08-S03.mp4 (or the poster assets/fallbacks/EW-D08-S03.jpg)`
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Forty seconds. One workflow you can copy today.
+>
+> Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound.
+>
+> Dated teardown, not a live trend claim. Verify a current example and the audio rights before you post it.
+>
+> Save the filter, not the hype.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D08-S03. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D08-S03.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D08-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-09 · Monday · 08:15 WAT · Document post (PDF)**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D08-S10 (slot 10) — Meet Easywurld: AI policy card
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D08-AB1.pdf`
+- **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
+
+### Post body (paste this)
+
+> Today I chose the slower option. Let me explain why.
+>
+> AI can draft.
+> A person approves.
+> Realistic AI presenters and voices are disclosed.
+> Private customer data stays out of prompts.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Document pages (rendered to PDF)
+
+**Page 1** — Build log · Easywurld
+
+> AI policy card
+>
+> What I am making this week, and the decision behind it.
+
+**Page 2** — The decision
+
+> Make the pieces agree
+>
+> Message, website, content and follow-up, saying the same thing.
+
+**Page 3** — The boundary
+
+> A person checks it before it goes out
+>
+> No invented clients. No numbers I cannot defend.
+
+**Page 4** — Why it matters
+
+> The check is the product
+>
+> Convenience is easy to copy. Judgment is not.
+
+**Page 5** — Your turn
+
+> Where do you keep a human in the loop?
+>
+> One line is enough. I read them.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D08-AB1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D08-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-09 · Monday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D08-S02 (slot 2) — Myth Court: Discounts always increase sales.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Which piece of advice has cost your business the most time?
+- **AI label:** Not required
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> Not a hot take. Just a pattern I cannot unsee.
+>
+> Myth I keep hearing: "Discounts always increase sales."
+>
+> My verdict after running it: it depends.
+>
+> A discount can attract price-sensitive buyers and reduce margin. It can also train customers to wait. Test whether the offer is clear before reducing price.
+>
+> What I would actually do: run one non-discount offer post and compare qualified enquiries
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D08-AB3 · Evening take — an opinion and a question back
+
+**2026-11-09 · Monday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D08-S09 (slot 9) — TEMPLATES Spotlight B: Is this a legal contract?
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the question customers ask you that you dread answering?
+- **AI label:** Not required
+- **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Guard:** Answer honestly, including “no, it does not do that”.
+
+### Post body (paste this)
+
+> A question I asked five business owners this week.
+>
+> Is this a legal contract? No. The templates are general business documents, not legal contracts. Have terms reviewed professionally.
+>
+> This is why The Proposal & Report Template Pack exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What is the question customers ask you that you dread answering?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=TEMPLATES — I answer these myself. Message TEMPLATES on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -9125,6 +12771,28 @@ Create a five-slide Easywurld carousel for a event planner business in Lagos. Us
 
 > Marketing myth: You should be on every platform Verdict: Mostly false. Each platform needs adaptation and maintenance. It is better to publish consistently where your customers are than to abandon five accounts. Test it: Choose one primary platform and two adapted destinations for this test. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> You have heard this one before. "You should be on every platform." [pause] My verdict? Mostly false. Each platform needs adaptation and maintenance. It is better to publish consistently where your customers are than to abandon five accounts. [pause] Here is a small test you can run this week. Choose one primary platform and two adapted destinations for this test. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. You have heard this one before
+2. You should be on every platform my verdict? Mostly false
+3. Each platform needs adaptation and maintenance
+4. It is better to publish consistently where your
+5. customers are than to abandon five accounts
+6. Here is a small test you can run this week
+7. Choose one primary platform and two adapted destinations
+8. for this test
+9. Keep the useful part
+10. Drop the absolute
+11. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -9210,6 +12878,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: You Seem To Be Scrolling a Lot. Drizzle Digital Vol. 39 reported it on 14 October 2026: a playful nudge to stop scrolling and take an action. The business adaptation: Turn it into one useful action, such as testing the contact route. Avoid shaming the viewer. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is You Seem To Be Scrolling a Lot. [pause] Drizzle Digital Volume 39 reported it on 14 October 2026: a playful nudge to stop scrolling and take an action. Here is how a normal Nigerian business uses it. Turn it into one useful action, such as testing the contact route. Avoid shaming the viewer. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. No wahala. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is You Seem To Be Scrolling a Lot
+3. Drizzle Digital Volume 39 reported it on 14
+4. October 2026: a playful nudge to stop scrolling
+5. and take an action
+6. Here is how a normal Nigerian business uses it
+7. Turn it into one useful action
+8. such as testing the contact route
+9. Avoid shaming the viewer
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim no wahala
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -9299,6 +12994,29 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 ### Exact spoken script
 
 > This is a labelled concept workflow: rewrite a homepage opening. Input: a labelled before page. AI drafts three clearer opening options. A person checks claims, audience and proof. Output: a human-selected rewrite. Nothing is sent automatically. The sample shows the thinking, not a live client result. Save the workflow and test it with anonymised input.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> This is the workflow I keep coming back to. Rewrite a homepage opening. [pause] Step one. The input is a labelled before page. Step two. The AI writes three clearer opening options. Step three, and this is the one people skip. A human checks claims, audience and proof. Step four. You send a human-selected rewrite. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Oya. Save it, then test it on your own message.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. This is the workflow I keep coming back to
+2. Rewrite a homepage opening step one
+3. The input is a labelled before page step two
+4. The AI writes three clearer opening options
+5. Step three, and this is the one people skip
+6. A human checks claims, audience and proof step four
+7. You send a human-selected rewrite
+8. Nothing goes out on its own
+9. The human check is the feature
+10. This is a labelled sample build
+11. not a client result oya
+12. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -9715,6 +13433,33 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 > Do you maintain the site? No. It is a guide and workbook. Building, hosting or maintaining a site is separate. The Website Launch & Care Handbook is a ₦5,000 DIY pack. It includes Website Launch & Care Handbook, Website Planning Brief, Launch, Care and Accounts Workbook, Hiring a Web Designer: Questions and Red Flags. It is not custom work and it does not guarantee results. Message LAUNCH on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Somebody will ask you this. "Do you maintain the site?" [pause] No. It is a guide and workbook. Building, hosting or maintaining a site is separate. Let me be clear about what this is. The Website Launch & Care Handbook is a five thousand naira DIY pack. Inside, you get Website Launch & Care Handbook, Website Planning Brief, Launch, Care and Accounts Workbook, Hiring a Web Designer: Questions and Red Flags. [pause] It is not custom work, and it does not promise you sales. Message LAUNCH on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Somebody will ask you this
+2. Do you maintain the site? No
+3. It is a guide and workbook
+4. Building, hosting or maintaining a site is separate
+5. Let me be clear about what this is
+6. The Website Launch & Care Handbook is a
+7. five thousand naira DIY pack
+8. Inside, you get Website Launch & Care Handbook
+9. Website Planning Brief, Launch
+10. Care and Accounts Workbook
+11. Hiring a Web Designer:
+12. Questions and Red Flags
+13. It is not custom work
+14. and it does not promise you sales
+15. Message LAUNCH on WhatsApp and I will confirm
+16. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -9880,6 +13625,23 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 > A cheap price does not remove the risk. It moves it. It moves it to delivery, to quality, to the part you cannot refund. Charge for the outcome, not for the nerves. Send this to whoever is undercutting you.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> A cheap price does not remove the risk. It moves it. [pause] It moves it to delivery, to quality, to the part you cannot refund. [pause] Charge for the outcome, not for the nerves. Send this to whoever is undercutting you.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. A cheap price does not remove the risk
+2. It moves it
+3. It moves it to delivery
+4. to quality, to the part you cannot refund
+5. Charge for the outcome, not for the nerves
+6. Send this to whoever is undercutting you
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -10036,35 +13798,337 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W2-TEACH · Siphoned teach post
+## EW-LI-D09-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-10 · Tuesday · 09:00 WAT · Text post**
+**2026-11-10 · Tuesday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D09-S07 — Steal This Copy Move: Joe Sugarman — Answer objections as they arise
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D09-S01 (slot 1) — If I ran a event planner account in Lagos
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D09-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> Steal this copy move from Joe Sugarman: Answer objections as they arise.
+> The principle is old. The example is ours. Joe Sugarman: answer objections as they arise.
 >
-> The principle: Anticipate the buyer's question and answer it plainly.
+> Three posts I would test this week for a event planner business:
 >
-> An original example, not theirs:
+> 1. a budget trade-off explained with fictional numbers
+> 2. a vendor checklist couples can save
+> 3. a timeline from booking to event day
 >
+> The mistake to avoid: posting only decorated venues.
+>
+> First action: Publish one planning checklist.
+>
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — If I ran a event planner account in Lagos
+
+> Three posts I would test this week
+>
+> Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A budget trade-off explained with fictional numbers
+>
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A vendor checklist couples can save
+>
+> Gives a customer something worth saving.
+
+**Page 4** — Post 3
+
+> A timeline from booking to event day
+>
+> Answers the question they were going to ask anyway.
+
+**Page 5** — Avoid
+
+> One mistake: posting only decorated venues
+>
+> First action: Publish one planning checklist.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D09-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D09-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-10 · Tuesday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D09-S02 (slot 2) — Myth Court: You should be on every platform.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Absolute advice is expensive. Take this one: "You should be on every platform."
+>
+> Verdict: Mostly false.
+>
+> Each platform needs adaptation and maintenance. It is better to publish consistently where your customers are than to abandon five accounts.
+>
+> How we would test it:
+> Choose one primary platform and two adapted destinations for this test
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D09-CO3 · Image post — one rendered card from the day
+
+**2026-11-10 · Tuesday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D09-S10 (slot 10) — Meet Easywurld: Handover checklist
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/carousels/EW-D09-S10_slide-1.jpg`
+- **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
+
+### Post body (paste this)
+
+> This is the part nobody posts about.
+>
+> What you get: the agreed files.
+> What you need: access and content.
+> What we check: links, forms and mobile view.
+> What happens next: care and review.
+> A launch should not leave you guessing.
+>
+> If your message, your website and your follow-up disagree, the customer feels it before they can name it.
+>
+> Which of the four is weakest in your business right now?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/carousels/EW-D09-S10_slide-1.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D09-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-10 · Tuesday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D09-S04 (slot 4) — AI Build: Rewrite a homepage opening
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the workflow and test it with anonymised input
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D09-S04.mp4 (or the poster assets/fallbacks/EW-D09-S04.jpg)`
+- **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
+
+### Post body (paste this)
+
+> Watch this before you answer your next "how much?"
+>
+> Workflow: Rewrite a homepage opening.
+>
+> → Input: a labelled before page
+> → AI drafts: three clearer opening options
+> → A person checks: claims, audience and proof
+> → Output: a human-selected rewrite
+>
+> Nothing is sent automatically. The human check is the feature.
+>
+> Labelled concept project · sample build. No live client result is claimed.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D09-S04. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D09-S04.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D09-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-10 · Tuesday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D09-S04 (slot 4) — AI Build: Rewrite a homepage opening
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
+
+### Post body (paste this)
+
+> I am building Easywurld in public, and today's decision was aI Build: Rewrite a homepage opening.
+>
+> What I am testing in the studio this week: rewrite a homepage opening.
+>
+> → Input: a labelled before page
+> → The draft: three clearer opening options
+> → I check: claims, audience and proof
+> → Only then: a human-selected rewrite
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D09-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-10 · Tuesday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D09-S11 (slot 11) — One Last Thought: Cheap prices
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> The businesses that survive this year are not the loudest.
+>
+> A cheap price does not remove the risk. It moves it.
+>
+> It moves it to delivery, to quality, to the part you cannot refund.
+>
+> Charge for the outcome, not for the nerves.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D09-AB3 · Evening take — an opinion and a question back
+
+**2026-11-10 · Tuesday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D09-S07 (slot 7) — Steal This Copy Move: Joe Sugarman — Answer objections as they arise
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Evening thought. Launch is a checklist, not a button.
+>
+> The move: answer objections as they arise.
+>
+> Anticipate the buyer's question and answer it plainly.
+>
+> My own version, written for a Lagos customer:
 > 'Is this a custom website?' 'No. It is a DIY kit. Custom builds are separate.'
 >
-> Do not steal the words. Steal the structure. Attribute the principle and write your own example.
+> I am borrowing the structure from Joe Sugarman, not the words. Credit where it is due: The Adweek Copywriting Handbook.
 >
-> Source: The Adweek Copywriting Handbook.
+> Oya — pick one headline on your page and rewrite it tonight. That is the whole homework.
+>
+> Paste your before and after in the comments if you want a second pair of eyes.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Notes
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -10175,6 +14239,30 @@ Create a five-slide Easywurld carousel for a logistics company business in Lagos
 
 > Marketing myth: Only Reels work now Verdict: False. Short video is useful, but carousels and static posts can earn saves, shares and search visibility. Format should match the idea. Test it: Publish one idea as a Reel and a carousel, then compare saves and enquiries. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Marketing myth. People will tell you, "Only Reels work now." [pause] My verdict? False. Short video is useful, but carousels and static posts can earn saves, shares and search visibility. Format should match the idea. [pause] Here is a small test you can run this week. Publish one idea as a Reel and a carousel, then compare saves and messages. No wahala. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Marketing myth
+2. People will tell you, "Only Reels work now my verdict?
+3. False
+4. Short video is useful
+5. but carousels and static posts can earn saves
+6. shares and search visibility
+7. Format should match the idea
+8. Here is a small test you can run this week
+9. Publish one idea as a Reel and a
+10. carousel, then compare saves and messages no wahala
+11. Keep the useful part
+12. Drop the absolute
+13. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -10260,6 +14348,32 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Ghosts. Drizzle Digital Vol. 39 reported it on 14 October 2026: a spooky-season format showing what a brand is ready for. The business adaptation: Use only if seasonally relevant and owned/licensed. Adapt to 'ghosted enquiries' with a follow-up lesson. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Ghosts. [pause] Drizzle Digital Volume 39 reported it on 14 October 2026: a spooky-season format showing what a brand is ready for. Here is how a normal Nigerian business uses it. Use only if seasonally relevant and owned/licensed. Adapt to 'ghosted messages' with a follow-up lesson. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Oya. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Ghosts
+3. Drizzle Digital Volume 39 reported it on 14
+4. October 2026: a spooky-season format showing what a
+5. brand is ready for
+6. Here is how a normal Nigerian business uses it
+7. Use only if seasonally relevant and owned/licensed
+8. Adapt to 'ghosted messages' with a follow-up lesson
+9. One thing before you copy it
+10. Check that it is still happening
+11. and check the audio rights
+12. This is a dated teardown
+13. not a live trend claim oya
+14. Save the filter
+15. Skip the hype
 
 ### Edit / shot order
 
@@ -10349,6 +14463,31 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 ### Exact spoken script
 
 > This is a labelled concept workflow: audit local visibility basics. Input: a fictional business profile. AI drafts a checklist of name, address, hours and categories. A person checks real-world accuracy and ranking claims. Output: a correction list. Nothing is sent automatically. The sample shows the thinking, not a live client result. Save the workflow and test it with anonymised input.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let me show you one bounded AI job. Audit local visibility basics. [pause] Step one. The input is a fictional business profile. Step two. The AI writes a checklist of name, address, hours and categories. Step three, and this is the one people skip. A human checks real-world accuracy and ranking claims. Step four. You send a correction list. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Take it one step at a time. Save it, then test it on your own message.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let me show you one bounded AI job
+2. Audit local visibility basics step one
+3. The input is a fictional business profile step two
+4. The AI writes a checklist of name
+5. address, hours and categories
+6. Step three, and this is the one people skip
+7. A human checks real-world accuracy and ranking claims step four
+8. You send a correction list
+9. Nothing goes out on its own
+10. The human check is the feature
+11. This is a labelled sample build
+12. not a client result
+13. Take it one step at a time
+14. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -10765,6 +14904,30 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 > Will this generate leads? No. It helps you organise the enquiries you already get. It does not generate leads or guarantee sales. The Chat-to-Customer Playbook is a ₦5,000 DIY pack. It includes Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. It is not custom work and it does not guarantee results. Message PLAYBOOK on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> The question I get most about this pack. "Will this generate leads?" [pause] No. It helps you organise the messages you already get. It does not generate leads or guarantee sales. Let me be clear about what this is. The Chat-to-Customer Playbook is a five thousand naira DIY pack. Inside, you get Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. [pause] It is not custom work, and it does not promise you sales. Message PLAYBOOK on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. The question I get most about this pack
+2. Will this generate leads? No
+3. It helps you organise the messages you already get
+4. It does not generate leads or guarantee sales
+5. Let me be clear about what this is
+6. The Chat-to-Customer Playbook is a five thousand naira DIY pack
+7. Inside, you get Chat-to-Customer Playbook
+8. 36-Script Message Library, Lead & Follow-Up Tracker
+9. 7-Day Setup Checklist
+10. It is not custom work
+11. and it does not promise you sales
+12. Message PLAYBOOK on WhatsApp and I will confirm
+13. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -10853,6 +15016,23 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 
 > DIY packs and custom projects are different. The packs are self-guided resources. Custom work needs a written scope and quote. We do not pretend a ₦5,000 pack is a done-for-you build. Clear boundaries protect the work.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> DIY packs and custom projects are different. The packs are self-guided resources. Custom work needs a written scope and quote. We do not pretend a ₦5,000 pack is a done-for-you build. Clear boundaries protect the work.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. DIY packs and custom projects are different
+2. The packs are self-guided resources
+3. Custom work needs a written scope and quote
+4. We do not pretend a ₦5,000 pack is
+5. a done-for-you build
+6. Clear boundaries protect the work
+
 ### Edit / shot order
 
 - 0–3s: first line as hook.
@@ -10933,6 +15113,24 @@ Create an Easywurld introduction in the format AI talking head. Use the exact su
 ### Exact spoken script
 
 > A discount is a question. It asks the customer what they think your work is worth. Ask it often enough and you will not like the answer. Discount the bundle, never the standard. Save this before your next sale post.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> A discount is a question. It asks the customer what they think your work is worth. [pause] Ask it often enough and you will not like the answer. [pause] Discount the bundle, never the standard. Save this before your next sale post.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. A discount is a question
+2. It asks the customer what they think your
+3. work is worth
+4. Ask it often enough and you will not
+5. like the answer
+6. Discount the bundle, never the standard
+7. Save this before your next sale post
 
 ### Edit / shot order
 
@@ -11090,35 +15288,325 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W2-SHOW · Siphoned show / demo post
+## EW-LI-D10-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-11 · Wednesday · 09:00 WAT · Text post**
+**2026-11-11 · Wednesday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D10-S04 — AI Build: Audit local visibility basics
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D10-S07 (slot 7) — Steal This Copy Move: Gary Halbert — Find the hungry crowd
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D10-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> One AI workflow to test: audit local visibility basics.
+> If your page has gone quiet, it is rarely a lack of talent. It is a lack of a repeatable post.
 >
-> The workflow, in the order it has to happen:
+> The move: Find the hungry crowd.
 >
-> → Input: a fictional business profile.
-> → AI drafts a checklist of name, address, hours and categories.
-> → A person checks real-world accuracy and ranking claims.
+> A relevant audience with a real problem matters more than a broad audience.
 >
-> The boundary: Nothing is sent automatically; a person checks price, promise and tone.
+> What that looks like on a Nigerian page:
 >
-> If the draft cannot be checked by a person who knows the price, it is not ready to send.
+> Before: 'Marketing for everyone.'
+> After:  'For Lagos owners who sell by WhatsApp and lose track of follow-ups.'
+>
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
+>
+> Source: The Boron Letters. Attributed, not quoted at length.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Document pages (rendered to PDF)
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+**Page 1** — Steal this copy move
+
+> Gary Halbert: Find the hungry crowd
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> A relevant audience with a real problem matters more than a broad audience
+>
+> Source: The Boron Letters.
+
+**Page 3** — Before
+
+> 'Marketing for everyone.' 
+>
+> Vague, category-level, forgettable.
+
+**Page 4** — After
+
+>  'For Lagos owners who sell by WhatsApp and lose track of follow-ups.'
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D10-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D10-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-11 · Wednesday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D10-S02 (slot 2) — Myth Court: Only Reels work now.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Marketing myth: Only Reels work now.
+>
+> Verdict: False.
+>
+> Short video is useful, but carousels and static posts can earn saves, shares and search visibility. Format should match the idea.
+>
+> How we would test it:
+> Publish one idea as a Reel and a carousel, then compare saves and enquiries
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D10-CO3 · Image post — one rendered card from the day
+
+**2026-11-11 · Wednesday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D10-S05 (slot 5) — We need more content. We have no photos.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D10-S05.jpg`
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> One picture, one lesson. Read the second line twice.
+>
+> We need more content. We have no photos.
+> Start with the work you already do.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D10-S05.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D10-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-11 · Wednesday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D10-S03 (slot 3) — Trend Desk: Ghosts
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the trend filter before your next post
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D10-S03.mp4 (or the poster assets/fallbacks/EW-D10-S03.jpg)`
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Short version of a long lesson.
+>
+> Use only if seasonally relevant and owned/licensed. Adapt to 'ghosted enquiries' with a follow-up lesson.
+>
+> Dated teardown, not a live trend claim. Verify a current example and the audio rights before you post it.
+>
+> Save the filter, not the hype.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D10-S03. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D10-S03.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D10-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-11 · Wednesday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D10-S10 (slot 10) — Meet Easywurld: Pricing philosophy
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> Three hours on meet Easywurld: Pricing philosophy today. Here is what I got wrong first.
+>
+> DIY packs and custom projects are different.
+> The packs are self-guided resources.
+> Custom work needs a written scope and quote.
+> We do not pretend a ₦5,000 pack is a done-for-you build.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D10-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-11 · Wednesday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D10-S02 (slot 2) — Myth Court: Only Reels work now.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Which piece of advice has cost your business the most time?
+- **AI label:** Not required
+- **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
+
+### Post body (paste this)
+
+> Something I keep seeing in Nigerian small businesses: undefined.
+>
+> Myth I keep hearing: "Only Reels work now."
+>
+> My verdict after running it: false.
+>
+> Short video is useful, but carousels and static posts can earn saves, shares and search visibility. Format should match the idea.
+>
+> What I would actually do: publish one idea as a Reel and a carousel, then compare saves and enquiries
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D10-AB3 · Evening take — an opinion and a question back
+
+**2026-11-11 · Wednesday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D10-S06 (slot 6) — PLAYBOOK Spotlight A: Follow-up needs a stop rule.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What does your price reply say after the number?
+- **AI label:** Not required
+- **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
+
+### Post body (paste this)
+
+> Somebody will disagree with this, and that is fine.
+>
+> Follow-up needs a stop rule.
+>
+> This is why The Chat-to-Customer Playbook exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What does your price reply say after the number?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=PLAYBOOK — I answer these myself. Message PLAYBOOK on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -11229,6 +15717,27 @@ Create a five-slide Easywurld carousel for a phone repair shop business in Lagos
 
 > Marketing myth: Carousels are dead Verdict: False. Carousels can still work for checklists, comparisons and step-by-step explanations. They fail when every slide is a paragraph. Test it: Make one five-slide checklist with one idea per slide. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let us put one piece of advice on trial. "Carousels are dead." [pause] My verdict? False. Carousels can still work for checklists, comparisons and step-by-step explanations. They fail when every slide is a paragraph. [pause] Here is a small test you can run this week. Make one five-slide checklist with one idea per slide. Oya. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let us put one piece of advice on trial
+2. Carousels are dead my verdict? False
+3. Carousels can still work for checklists
+4. comparisons and step-by-step explanations
+5. They fail when every slide is a paragraph
+6. Here is a small test you can run this week
+7. Make one five-slide checklist with one idea per slide oya
+8. Keep the useful part
+9. Drop the absolute
+10. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -11314,6 +15823,34 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Four Walls. Drizzle Digital Vol. 38 reported it on 28 September 2026: a format built around four walls or four panels. The business adaptation: Use four panels for message, page, content and follow-up. Keep the structure, skip the sound if rights are unclear. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Four Walls. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a format built around four walls or four panels. Here is how a normal Nigerian business uses it. Use four panels for message, page, content and follow-up. Keep the structure, skip the sound if rights are unclear. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Take it one step at a time. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Four Walls
+3. Drizzle Digital Volume 38 reported it on 28
+4. September 2026: a format built around four walls
+5. or four panels
+6. Here is how a normal Nigerian business uses it
+7. Use four panels for message
+8. page, content and follow-up
+9. Keep the structure, skip the sound if rights are unclear
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim
+15. Take it one step at a time
+16. Save the filter
+17. Skip the hype
 
 ### Edit / shot order
 
@@ -11403,6 +15940,31 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 ### Exact spoken script
 
 > This is a labelled concept workflow: outline a proposal. Input: a labelled sample brief. AI drafts sections for scope, timeline, price and exclusions. A person checks invented parties, figures and legal terms. Output: a reviewed proposal draft. Nothing is sent automatically. The sample shows the thinking, not a live client result. Save the workflow and test it with anonymised input.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> One AI workflow you can copy this week. Outline a proposal. [pause] Step one. The input is a labelled sample brief. Step two. The AI writes sections for scope, timeline, price and exclusions. Step three, and this is the one people skip. A human checks invented parties, figures and legal terms. Step four. You send a reviewed proposal draft. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Save it, then test it on your own message.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. One AI workflow you can copy this week
+2. Outline a proposal step one
+3. The input is a labelled sample brief step two
+4. The AI writes sections for scope
+5. timeline, price and exclusions
+6. Step three, and this is the one people skip
+7. A human checks invented parties
+8. figures and legal terms step four
+9. You send a reviewed proposal draft
+10. Nothing goes out on its own
+11. The human check is the feature
+12. This is a labelled sample build
+13. not a client result
+14. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -11819,6 +16381,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 > Do you review my page? No. The scorecard helps you audit your own page. A personal review is not included. The Clear Homepage Blueprint is a ₦5,000 DIY pack. It includes Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. It is not custom work and it does not guarantee results. Message CLEAR on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Before you buy, you will ask this. "Do you review my page?" [pause] No. The scorecard helps you audit your own page. A personal review is not included. Let me be clear about what this is. The Clear Homepage Blueprint is a five thousand naira DIY pack. Inside, you get Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. [pause] It is not custom work, and it does not promise you sales. Message CLEAR on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Before you buy, you will ask this
+2. Do you review my page? No
+3. The scorecard helps you audit your own page
+4. A personal review is not included
+5. Let me be clear about what this is
+6. The Clear Homepage Blueprint is a five thousand
+7. naira DIY pack
+8. Inside, you get Clear Homepage Blueprint
+9. Homepage Copy Templates, Homepage Content Planner
+10. 20-Point Homepage Audit Scorecard
+11. It is not custom work
+12. and it does not promise you sales
+13. Message CLEAR on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -11984,6 +16571,22 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 > “We work with everyone” is not generous. It is invisible. The narrower the sentence, the louder it reads. Be specific enough to be chosen. Save this and rewrite your bio tonight.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> “We work with everyone” is not generous. It is invisible. [pause] The narrower the sentence, the louder it reads. [pause] Be specific enough to be chosen. No wahala. Save this and rewrite your bio tonight.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. We work with everyone” is not generous
+2. It is invisible
+3. The narrower the sentence, the louder it reads
+4. Be specific enough to be chosen no wahala
+5. Save this and rewrite your bio tonight
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -12140,36 +16743,330 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W2-TRUST · Siphoned trust post
+## EW-LI-D11-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-12 · Thursday · 09:00 WAT · Text post**
+**2026-11-12 · Thursday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D11-S08 — The post is boosted. The reply is slow.
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D11-S01 (slot 1) — If I ran a phone repair shop account in Lagos
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D11-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> The post is boosted. The reply is slow.
+> A phone repair shop account in Lagos does not need more ideas. It needs three it can actually shoot this week.
 >
+> Three posts I would test this week for a phone repair shop business:
+>
+> 1. a diagnostic question before quoting
+> 2. a repair timeline with parts availability
+> 3. a data-privacy promise explained plainly
+>
+> The mistake to avoid: posting only repaired screens.
+>
+> First action: Explain the diagnostic step.
+>
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — If I ran a phone repair shop account in Lagos
+
+> Three posts I would test this week
+>
+> Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A diagnostic question before quoting
+>
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A repair timeline with parts availability
+>
+> Gives a customer something worth saving.
+
+**Page 4** — Post 3
+
+> A data-privacy promise explained plainly
+>
+> Answers the question they were going to ask anyway.
+
+**Page 5** — Avoid
+
+> One mistake: posting only repaired screens
+>
+> First action: Explain the diagnostic step.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D11-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D11-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-12 · Thursday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D11-S02 (slot 2) — Myth Court: Carousels are dead.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Someone will tell you this week: "Carousels are dead." Here is the verdict.
+>
+> Verdict: False.
+>
+> Carousels can still work for checklists, comparisons and step-by-step explanations. They fail when every slide is a paragraph.
+>
+> How we would test it:
+> Make one five-slide checklist with one idea per slide
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D11-CO3 · Image post — one rendered card from the day
+
+**2026-11-12 · Thursday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D11-S08 (slot 8) — The post is boosted. The reply is slow.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D11-S08.jpg`
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> You have felt this week. That is why it is here.
+>
+> The post is boosted. The reply is slow.
 > Speed to lead is part of the campaign.
 >
-> The joke is the recognition. The caption is the fix.
->
-> Two things I would change in a small business this week:
->
-> 1. Write the next step into the offer, not the caption.
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
 > 2. Put the price, the contents and the boundary in the same message.
 >
-> That is the whole post. No thread, no funnel.
+> No thread. No funnel. Just the next step made obvious.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Notes
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+Attach assets/memes/EW-D11-S08.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D11-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-12 · Thursday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D11-S11 (slot 11) — One Last Thought: Niche
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save this and rewrite your bio tonight
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D11-S11.mp4 (or the poster assets/fallbacks/EW-D11-S11.jpg)`
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Forty seconds. One workflow you can copy today.
+>
+> “We work with everyone” is not generous.
+> It is invisible.
+> The narrower the sentence, the louder it reads.
+> Be specific enough to be chosen.
+> Save this and rewrite your bio tonight.
+>
+> Save this and rewrite your bio tonight.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D11-S11. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D11-S11.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D11-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-12 · Thursday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D11-S04 (slot 4) — AI Build: Outline a proposal
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> I keep a rule for this studio: nothing goes out that a person has not checked.
+>
+> What I am testing in the studio this week: outline a proposal.
+>
+> → Input: a labelled sample brief
+> → The draft: sections for scope, timeline, price and exclusions
+> → I check: invented parties, figures and legal terms
+> → Only then: a reviewed proposal draft
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D11-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-12 · Thursday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D11-S11 (slot 11) — One Last Thought: Niche
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
+
+### Post body (paste this)
+
+> I have read enough "how much?" chats to know one thing.
+>
+> “We work with everyone” is not generous. It is invisible.
+>
+> The narrower the sentence, the louder it reads.
+>
+> Be specific enough to be chosen.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D11-AB3 · Evening take — an opinion and a question back
+
+**2026-11-12 · Thursday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D11-S09 (slot 9) — CLEAR Spotlight B: Do you review my page?
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the question customers ask you that you dread answering?
+- **AI label:** Not required
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> I changed my mind about this last month.
+>
+> Do you review my page? No. The scorecard helps you audit your own page. A personal review is not included.
+>
+> This is why The Clear Homepage Blueprint exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What is the question customers ask you that you dread answering?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=CLEAR — I answer these myself. Message CLEAR on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -12280,6 +17177,29 @@ Create a five-slide Easywurld carousel for a thrift store business in Lagos. Use
 
 > Marketing myth: SEO works in a week Verdict: False. Search visibility depends on crawling, competition, content quality and time. A new page is not a ranking promise. Test it: Check indexing and query data after a reasonable period; do not invent rankings. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> You have heard this one before. "SEO works in a week." [pause] My verdict? False. Search visibility depends on crawling, competition, content quality and time. A new page is not a ranking promise. [pause] Here is a small test you can run this week. Check indexing and query data after a reasonable period; do not invent rankings. Take it one step at a time. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. You have heard this one before
+2. SEO works in a week my verdict? False
+3. Search visibility depends on crawling
+4. competition, content quality and time
+5. A new page is not a ranking promise
+6. Here is a small test you can run this week
+7. Check indexing and query data after a reasonable
+8. period; do not invent rankings
+9. Take it one step at a time
+10. Keep the useful part
+11. Drop the absolute
+12. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -12365,6 +17285,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Brand Vibe. Drizzle Digital Vol. 40 reported it on 26 October 2026: a product front and center with four still shots that express the brand vibe. The business adaptation: Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Brand Vibe. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a product front and center with four still shots that express the brand vibe. Here is how a normal Nigerian business uses it. Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Brand Vibe
+3. Drizzle Digital Volume 40 reported it on 26
+4. October 2026: a product front and center with
+5. four still shots that express the brand vibe
+6. Here is how a normal Nigerian business uses it
+7. Use one real product or service outcome with
+8. four owned images that show the customer's world
+9. Do not invent a lifestyle
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -12856,6 +17803,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 > Does it include design templates? No. It does not include design templates or scheduling software. You supply the real photos, facts and prices. The 30-Day Content Engine is a ₦5,000 DIY pack. It includes 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. It is not custom work and it does not guarantee results. Message ENGINE on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Somebody will ask you this. "Does it include design templates?" [pause] No. It does not include design templates or scheduling software. You supply the real photos, facts and prices. Let me be clear about what this is. The 30-Day Content Engine is a five thousand naira DIY pack. Inside, you get 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. [pause] It is not custom work, and it does not promise you sales. Message ENGINE on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Somebody will ask you this
+2. Does it include design templates? No
+3. It does not include design templates or scheduling software
+4. You supply the real photos, facts and prices
+5. Let me be clear about what this is
+6. The 30-Day Content Engine is a five thousand
+7. naira DIY pack
+8. Inside, you get 30-Day Content Engine Guide
+9. 60-Idea Post Bank, 30-Day Content Calendar
+10. Hooks and Caption Swipe File
+11. It is not custom work
+12. and it does not promise you sales
+13. Message ENGINE on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -12943,6 +17915,23 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 ### Exact spoken script
 
 > This is the contact route. Profile to link. Link to WhatsApp. WhatsApp to a clear brief. Test the journey before buying more traffic. A broken route wastes the attention you already paid for.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> This is the contact route. Profile to link. Link to WhatsApp. WhatsApp to a clear brief. Test the journey before buying more traffic. A broken route wastes the attention you already paid for.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. This is the contact route
+2. Profile to link
+3. Link to WhatsApp
+4. WhatsApp to a clear brief
+5. Test the journey before buying more traffic
+6. A broken route wastes the attention you already paid for
 
 ### Edit / shot order
 
@@ -13032,6 +18021,23 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 ### Exact spoken script
 
 > You do not need ten testimonials. You need one sentence a stranger can check. Show the work, name the process, say what you cannot promise. Evidence beats adjectives. Save this for your next portfolio post.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> You do not need ten testimonials. You need one sentence a stranger can check. [pause] Show the work, name the process, say what you cannot promise. [pause] Evidence beats adjectives. Oya. Save this for your next portfolio post.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. You do not need ten testimonials
+2. You need one sentence a stranger can check
+3. Show the work, name the process
+4. say what you cannot promise
+5. Evidence beats adjectives oya
+6. Save this for your next portfolio post
 
 ### Edit / shot order
 
@@ -13189,33 +18195,334 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W2-VIDEO · Repurposed vertical video
+## EW-LI-D12-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-13 · Friday · 09:00 WAT · Vertical video**
+**2026-11-13 · Friday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D12-S02 — Myth Court: SEO works in a week.
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D12-S07 (slot 7) — Steal This Copy Move: Gary Halbert — Write personally
 - **Status:** Draft — not scheduled
-- **Single CTA:** Save the test and run it on your own account.
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D12-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> A myth worth testing: SEO works in a week
+> Gary Halbert said it first: write personally. Here is what that looks like on a Nigerian small-business page.
 >
-> False.
+> The move: Write personally.
+>
+> Sound like one person helping another, not a committee.
+>
+> What that looks like on a Nigerian page:
+>
+> Before: 'Our organisation provides solutions.'
+> After:  'We help you make the next step clear.'
+>
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
+>
+> Source: The Boron Letters. Attributed, not quoted at length.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — Steal this copy move
+
+> Gary Halbert: Write personally
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> Sound like one person helping another, not a committee
+>
+> Source: The Boron Letters.
+
+**Page 3** — Before
+
+> 'Our organisation provides solutions.' 
+>
+> Vague, category-level, forgettable.
+
+**Page 4** — After
+
+>  'We help you make the next step clear.'
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D12-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D12-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-13 · Friday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D12-S02 (slot 2) — Myth Court: SEO works in a week.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> SEO works in a week. We put it on trial.
+>
+> Verdict: False.
 >
 > Search visibility depends on crawling, competition, content quality and time. A new page is not a ranking promise.
 >
-> How I would test it: Check indexing and query data after a reasonable period; do not invent rankings.
+> How we would test it:
+> Check indexing and query data after a reasonable period; do not invent rankings
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D12-CO3 · Image post — one rendered card from the day
+
+**2026-11-13 · Friday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D12-S10 (slot 10) — Meet Easywurld: Contact route demo
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/carousels/EW-D12-S10_slide-1.jpg`
+- **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
+
+### Post body (paste this)
+
+> Small-business life, photographed honestly.
+>
+> This is the contact route.
+> Profile to link.
+> Link to WhatsApp.
+> WhatsApp to a clear brief.
+> Test the journey before buying more traffic.
+> A broken route wastes the attention you already paid for.
+>
+> If your message, your website and your follow-up disagree, the customer feels it before they can name it.
+>
+> Which of the four is weakest in your business right now?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/carousels/EW-D12-S10_slide-1.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D12-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-13 · Friday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D12-S02 (slot 2) — Myth Court: SEO works in a week.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the test and run it on your own account
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D12-S02.mp4 (or the poster assets/fallbacks/EW-D12-S02.jpg)`
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Watch this before you answer your next "how much?"
+>
+> Myth: SEO works in a week.
+> Verdict: False.
+>
+> Search visibility depends on crawling, competition, content quality and time. A new page is not a ranking promise
+>
+> The test: Check indexing and query data after a reasonable period; do not invent rankings
 >
 > Keep the useful part. Drop the absolute.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Reuse the vertical cut from the same day. Re-frame to 4:5 or 1:1 with captions burned in; keep the AI label.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Notes
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+Upload the finished MP4 for EW-D12-S02. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D12-S02.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D12-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-13 · Friday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D12-S10 (slot 10) — Meet Easywurld: Contact route demo
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
+
+### Post body (paste this)
+
+> Building a small studio in Lagos means the boring decisions matter most.
+>
+> This is the contact route.
+> Profile to link.
+> Link to WhatsApp.
+> WhatsApp to a clear brief.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D12-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-13 · Friday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D12-S02 (slot 2) — Myth Court: SEO works in a week.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Which piece of advice has cost your business the most time?
+- **AI label:** Not required
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> Not a hot take. Just a pattern I cannot unsee.
+>
+> Myth I keep hearing: "SEO works in a week."
+>
+> My verdict after running it: false.
+>
+> Search visibility depends on crawling, competition, content quality and time. A new page is not a ranking promise.
+>
+> What I would actually do: check indexing and query data after a reasonable period; do not invent rankings
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D12-AB3 · Evening take — an opinion and a question back
+
+**2026-11-13 · Friday · 19:45 WAT · Native video**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D12-S07 (slot 7) — Steal This Copy Move: Gary Halbert — Write personally
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D12-S07.mp4 (or the poster assets/fallbacks/EW-D12-S07.jpg)`
+- **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Guard:** Answer honestly, including “no, it does not do that”.
+
+### Post body (paste this)
+
+> A question I asked five business owners this week.
+>
+> The move: write personally.
+>
+> Sound like one person helping another, not a committee.
+>
+> My own version, written for a Lagos customer:
+> Before: 'Our organisation provides solutions.' After: 'We help you make the next step clear.'
+>
+> I am borrowing the structure from Gary Halbert, not the words. Credit where it is due: The Boron Letters.
+>
+> Oya — pick one headline on your page and rewrite it tonight. That is the whole homework.
+>
+> Paste your before and after in the comments if you want a second pair of eyes.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Upload the finished MP4 for EW-D12-S07. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D12-S07.jpg with the same caption as an image post.
 
 ---
 
@@ -13326,6 +18633,29 @@ Create a five-slide Easywurld carousel for a photographer business in Lagos. Use
 
 > Marketing myth: Email is dead for small business Verdict: False. Email can still support follow-up and repeat customers when permission and relevance are handled well. It is not a replacement for every channel. Test it: Send one useful email to a permission-based list and track replies. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Marketing myth. People will tell you, "Email is dead for small business." [pause] My verdict? False. Email can still support follow-up and repeat customers when permission and relevance are handled well. It is not a replacement for every channel. [pause] Here is a small test you can run this week. Send one useful email to a permission-based list and track replies. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Marketing myth
+2. People will tell you
+3. "Email is dead for small business my verdict? False
+4. Email can still support follow-up and repeat customers
+5. when permission and relevance are handled well
+6. It is not a replacement for every channel
+7. Here is a small test you can run this week
+8. Send one useful email to a permission-based list
+9. and track replies
+10. Keep the useful part
+11. Drop the absolute
+12. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -13411,6 +18741,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Pick Your Emoji. Drizzle Digital Vol. 40 reported it on 26 October 2026: a video carousel that starts with four emoji paths and ends with one CTA. The business adaptation: Adapt it to four customer problems, not four random products. End with one useful next step. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Pick Your Emoji. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a video carousel that starts with four emoji paths and ends with one CTA. Here is how a normal Nigerian business uses it. Adapt it to four customer problems, not four random products. End with one useful next step. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Pick Your Emoji
+3. Drizzle Digital Volume 40 reported it on 26
+4. October 2026: a video carousel that starts with
+5. four emoji paths and ends with one CTA
+6. Here is how a normal Nigerian business uses it
+7. Adapt it to four customer problems
+8. not four random products
+9. End with one useful next step
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -13902,6 +19259,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 > Does it process payments? No. The starter uses WhatsApp or a link you provide. It has no payment processing. The One-Offer Landing Page Kit is a ₦5,000 DIY pack. It includes One-Offer Landing Page Guide, Landing Page Copy Template with Worked Example, Editable Landing Page Starter (HTML), Pre-Launch Checklist. It is not custom work and it does not guarantee results. Message PAGE on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> The question I get most about this pack. "Does it process payments?" [pause] No. The starter uses WhatsApp or a link you provide. It has no payment processing. Let me be clear about what this is. The One-Offer Landing Page Kit is a five thousand naira DIY pack. Inside, you get One-Offer Landing Page Guide, Landing Page Copy Template with Worked Example, Editable Landing Page Starter (HTML), Pre-Launch Checklist. [pause] It is not custom work, and it does not promise you sales. Message PAGE on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. The question I get most about this pack
+2. Does it process payments? No
+3. The starter uses WhatsApp or a link you provide
+4. It has no payment processing
+5. Let me be clear about what this is
+6. The One-Offer Landing Page Kit is a five
+7. thousand naira DIY pack
+8. Inside, you get One-Offer Landing Page Guide
+9. Landing Page Copy Template with Worked Example
+10. Editable Landing Page Starter (HTML) pre-Launch Checklist
+11. It is not custom work
+12. and it does not promise you sales
+13. Message PAGE on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -14065,6 +19447,26 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 > SEO is not a trick. It is the habit of being findable when someone already wants you. Answer the question people type, in the words they type it, on a page you own. Be the answer, not the advert. Save this for your next page rewrite.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> SEO is not a trick. It is the habit of being findable when someone already wants you. [pause] Answer the question people type, in the words they type it, on a page you own. [pause] Be the answer, not the advert. Take it one step at a time. Save this for your next page rewrite.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. SEO is not a trick
+2. It is the habit of being findable when
+3. someone already wants you
+4. Answer the question people type
+5. in the words they type it
+6. on a page you own
+7. Be the answer, not the advert
+8. Take it one step at a time
+9. Save this for your next page rewrite
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -14221,37 +19623,338 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W2-OFFER · Siphoned offer lesson
+## EW-LI-D13-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-14 · Saturday · 09:00 WAT · Text post**
+**2026-11-14 · Saturday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D13-S06 — PAGE Spotlight A: The HTML starter is a simple page, not a custom site.
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D13-S01 (slot 1) — If I ran a photographer account in Lagos
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D13-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
+> Five pages. One week of posting for a photographer business. Steal the structure, not the words.
+>
+> Three posts I would test this week for a photographer business:
+>
+> 1. a before-and-after of framing, not results
+> 2. a client prep checklist
+> 3. a location guide with permission notes
+>
+> The mistake to avoid: posting only final galleries.
+>
+> First action: Share one prep checklist.
+>
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — If I ran a photographer account in Lagos
+
+> Three posts I would test this week
+>
+> Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A before-and-after of framing, not results
+>
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A client prep checklist
+>
+> Gives a customer something worth saving.
+
+**Page 4** — Post 3
+
+> A location guide with permission notes
+>
+> Answers the question they were going to ask anyway.
+
+**Page 5** — Avoid
+
+> One mistake: posting only final galleries
+>
+> First action: Share one prep checklist.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D13-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D13-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-14 · Saturday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D13-S02 (slot 2) — Myth Court: Email is dead for small business.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Absolute advice is expensive. Take this one: "Email is dead for small business."
+>
+> Verdict: False.
+>
+> Email can still support follow-up and repeat customers when permission and relevance are handled well. It is not a replacement for every channel.
+>
+> How we would test it:
+> Send one useful email to a permission-based list and track replies
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D13-CO3 · Image post — one rendered card from the day
+
+**2026-11-14 · Saturday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D13-S05 (slot 5) — The website is live. The phone number is old.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D13-S05.jpg`
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> This is the part nobody posts about.
+>
+> The website is live. The phone number is old.
+> Launch is a checklist, not a button.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D13-S05.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D13-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-14 · Saturday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D13-S02 (slot 2) — Myth Court: Email is dead for small business.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the test and run it on your own account
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D13-S02.mp4 (or the poster assets/fallbacks/EW-D13-S02.jpg)`
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Short version of a long lesson.
+>
+> Myth: Email is dead for small business.
+> Verdict: False.
+>
+> Email can still support follow-up and repeat customers when permission and relevance are handled well. It is not a replacement for every channel
+>
+> The test: Send one useful email to a permission-based list and track replies
+>
+> Keep the useful part. Drop the absolute.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D13-S02. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D13-S02.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D13-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-14 · Saturday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D13-S04 (slot 4) — AI Build: Draft a review request
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
+
+### Post body (paste this)
+
+> Today I chose the slower option. Let me explain why.
+>
+> What I am testing in the studio this week: draft a review request.
+>
+> → Input: a completed service record
+> → The draft: a polite request with an opt-out
+> → I check: consent and incentive rules
+> → Only then: a human-sent request
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D13-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-14 · Saturday · 12:45 WAT · Poll**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D13-S11 (slot 11) — One Last Thought: SEO
+- **Status:** Draft — not scheduled
+- **Single CTA:** Vote, then tell me why in one line.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> The businesses that survive this year are not the loudest.
+>
+> SEO is not a trick. It is the habit of being findable when someone already wants you.
+>
+> Answer the question people type, in the words they type it, on a page you own.
+>
+> Be the answer, not the advert.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Poll
+
+- **Question:** What is your website actually doing?
+- Option: Bringing enquiries
+- Option: Existing
+- **Answer to give in the comments:** A page with no job is a business card with hosting fees.
+
+### Notes
+
+Native poll. 2 options. The lesson stays in the post body, not the poll.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish as a text post with the two options written as a question.
+
+---
+
+## EW-LI-D13-AB3 · Evening take — an opinion and a question back
+
+**2026-11-14 · Saturday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D13-S06 (slot 6) — PAGE Spotlight A: The HTML starter is a simple page, not a custom site.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What does your price reply say after the number?
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Evening thought. The HTML starter is a simple page, not a custom site.
+>
 > The HTML starter is a simple page, not a custom site.
 >
-> Slide 1: The HTML starter is a simple page, not a custom site.
-> Slide 2: The problem: You are launching something and sending people to an Instagram bio, a long website or a chat thread. There is no page that explains the offer and asks for one action.
-> Slide 3: Inside The One-Offer Landing Page Kit:
-> · One-Offer Landing Page Guide
-> · Landing Page Copy Template with Worked Example
-> · Editable Landing Page Starter (HTML)
-> · Pre-Launch Checklist
-> Slide 4: ₦5,000 DIY pack. Not custom work. This is a do-it-yourself kit. Publishing requires a host (several offer free plans) and, if you want your own address, a domain name. Those costs are yours.
-> Slide 5: Message PAGE on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.
+> This is why The One-Offer Landing Page Kit exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
 >
-> Message PAGE to confirm order details.
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What does your price reply say after the number?
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://wa.me/2349050690837?text=PAGE — I answer these myself. Message PAGE on WhatsApp.
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Notes
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -14362,6 +20065,27 @@ Create a five-slide Easywurld carousel for a cleaning service business in Lagos.
 
 > Marketing myth: WhatsApp broadcast lists are spam Verdict: It depends. Permission and relevance matter. A useful update to people who asked is different from bulk unsolicited messages. Test it: Ask before adding contacts and make opting out easy. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let us put one piece of advice on trial. "WhatsApp broadcast lists are spam." [pause] My verdict? It depends. Permission and relevance matter. A useful update to people who asked is different from bulk unsolicited messages. [pause] Here is a small test you can run this week. Ask before adding contacts and make opting out easy. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let us put one piece of advice on trial
+2. WhatsApp broadcast lists are spam my verdict? It depends
+3. Permission and relevance matter
+4. A useful update to people who asked is
+5. different from bulk unsolicited messages
+6. Here is a small test you can run this week
+7. Ask before adding contacts and make opting out easy
+8. Keep the useful part
+9. Drop the absolute
+10. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -14447,6 +20171,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Gold Star Behavior. SocialBee / Drizzle Digital reported it on 21 October 2026: a list of small habits that deserve a gold star. The business adaptation: Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Gold Star Behavior. [pause] SocialBee / Drizzle Digital reported it on 21 October 2026: a list of small habits that deserve a gold star. Here is how a normal Nigerian business uses it. Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. No wahala. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Gold Star Behavior
+3. SocialBee / Drizzle Digital reported it on 21
+4. October 2026: a list of small habits that
+5. deserve a gold star
+6. Here is how a normal Nigerian business uses it
+7. Give stars to specific customer habits that reduce
+8. friction, such as sending measurements early
+9. Keep it kind
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim no wahala
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -14938,6 +20689,32 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 > Do you do SEO for me? No. It is a DIY starter. Easywurld doing SEO work for you is a separate project. The Lagos Local Visibility Starter is a ₦5,000 DIY pack. It includes Local Visibility Guide, Keyword and Page Title Worksheet, Google Business Profile Checklist and Review Scripts, 30-Day Local Visibility Tracker. It is not custom work and it does not guarantee results. Message LOCAL on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Before you buy, you will ask this. "Do you do SEO for me?" [pause] No. It is a DIY starter. Easywurld doing SEO work for you is a separate project. Let me be clear about what this is. The Lagos Local Visibility Starter is a five thousand naira DIY pack. Inside, you get Local Visibility Guide, Keyword and Page Title Worksheet, Google Business Profile Checklist and Review Scripts, 30-Day Local Visibility Tracker. [pause] It is not custom work, and it does not promise you sales. Message LOCAL on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Before you buy, you will ask this
+2. Do you do SEO for me? No
+3. It is a DIY starter
+4. Easywurld doing SEO work for you is a separate project
+5. Let me be clear about what this is
+6. The Lagos Local Visibility Starter is a five
+7. thousand naira DIY pack
+8. Inside, you get Local Visibility Guide
+9. Keyword and Page Title Worksheet
+10. Google Business Profile Checklist and Review Scripts
+11. 30-Day Local Visibility Tracker
+12. It is not custom work
+13. and it does not promise you sales
+14. Message LOCAL on WhatsApp and I will confirm
+15. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -15025,6 +20802,22 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 ### Exact spoken script
 
 > This is a concept sample. Watch the structure, not invented results. The before version is vague. The after version gives a clearer starting point. Judge the thinking.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> This is a concept sample. Watch the structure, not invented results. The before version is vague. The after version gives a clearer starting point. Judge the thinking.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. This is a concept sample
+2. Watch the structure, not invented results
+3. The before version is vague
+4. The after version gives a clearer starting point
+5. Judge the thinking
 
 ### Edit / shot order
 
@@ -15114,6 +20907,23 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 ### Exact spoken script
 
 > Traffic is not a business. It is a queue outside a door you never opened. The page, the price and the reply have to work before the queue matters. Fix the door, then buy the queue. Save this before you boost anything.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Traffic is not a business. It is a queue outside a door you never opened. [pause] The page, the price and the reply have to work before the queue matters. [pause] Fix the door, then buy the queue. Save this before you boost anything.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Traffic is not a business
+2. It is a queue outside a door you never opened
+3. The page, the price and the reply have
+4. to work before the queue matters
+5. Fix the door, then buy the queue
+6. Save this before you boost anything
 
 ### Edit / shot order
 
@@ -15271,6 +21081,328 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
+## EW-LI-D14-CO1 · Document post — the day's lesson as a PDF
+
+**2026-11-15 · Sunday · 07:30 WAT · Document post (PDF)**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D14-S07 (slot 7) — Steal This Copy Move: Claude Hopkins — Test, do not guess
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D14-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> Most cleaning service pages post the finished work and nothing else. That is the whole problem.
+>
+> The move: Test, do not guess.
+>
+> Compare one variable and record the result instead of declaring a universal rule.
+>
+> What that looks like on a Nigerian page:
+>
+> Test two hooks for the same offer and compare relevant enquiries, not only views.
+>
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
+>
+> Source: Scientific Advertising. Attributed, not quoted at length.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — Steal this copy move
+
+> Claude Hopkins: Test, do not guess
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> Compare one variable and record the result instead of declaring a universal rule
+>
+> Source: Scientific Advertising.
+
+**Page 3** — Before
+
+> Test two hooks for the same offer and compare relevant enquiries, not only views.
+>
+> Vague, category-level, forgettable.
+
+**Page 4** — After
+
+>
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D14-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D14-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-15 · Sunday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D14-S02 (slot 2) — Myth Court: WhatsApp broadcast lists are spam.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Marketing myth: WhatsApp broadcast lists are spam.
+>
+> Verdict: It depends.
+>
+> Permission and relevance matter. A useful update to people who asked is different from bulk unsolicited messages.
+>
+> How we would test it:
+> Ask before adding contacts and make opting out easy
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D14-CO3 · Image post — one rendered card from the day
+
+**2026-11-15 · Sunday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D14-S08 (slot 8) — The meme mocks the customer.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D14-S08.jpg`
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> One picture, one lesson. Read the second line twice.
+>
+> The meme mocks the customer.
+> Joke about the work, not the person.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D14-S08.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D14-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-15 · Sunday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D14-S09 (slot 9) — LOCAL Spotlight B: Do you do SEO for me?
+- **Status:** Draft — not scheduled
+- **Single CTA:** Message LOCAL to confirm order details
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D14-S09.mp4 (or the poster assets/fallbacks/EW-D14-S09.jpg)`
+- **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
+
+### Post body (paste this)
+
+> Forty seconds. One workflow you can copy today.
+>
+> Do you do SEO for me?
+> No. It is a DIY starter. Easywurld doing SEO work for you is a separate project.
+>
+> The Lagos Local Visibility Starter — ₦5,000 DIY pack. Not custom work, no results guaranteed.
+>
+> Message the keyword on WhatsApp to confirm current order details.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/offers/lagos-local-visibility-starter · or message LOCAL on WhatsApp: https://wa.me/2349050690837?text=LOCAL
+
+### Notes
+
+Upload the finished MP4 for EW-D14-S09. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D14-S09.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D14-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-15 · Sunday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D14-S10 (slot 10) — Meet Easywurld: Sample tour
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> I am building Easywurld in public, and today's decision was meet Easywurld: Sample tour.
+>
+> This is a concept sample.
+> Watch the structure, not invented results.
+> The before version is vague.
+> The after version gives a clearer starting point.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D14-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-15 · Sunday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D14-S02 (slot 2) — Myth Court: WhatsApp broadcast lists are spam.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Which piece of advice has cost your business the most time?
+- **AI label:** Not required
+- **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
+
+### Post body (paste this)
+
+> Something I keep seeing in Nigerian small businesses: undefined.
+>
+> Myth I keep hearing: "WhatsApp broadcast lists are spam."
+>
+> My verdict after running it: it depends.
+>
+> Permission and relevance matter. A useful update to people who asked is different from bulk unsolicited messages.
+>
+> What I would actually do: ask before adding contacts and make opting out easy
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D14-AB3 · Evening take — an opinion and a question back
+
+**2026-11-15 · Sunday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D14-S09 (slot 9) — LOCAL Spotlight B: Do you do SEO for me?
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the question customers ask you that you dread answering?
+- **AI label:** Not required
+- **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
+
+### Post body (paste this)
+
+> Somebody will disagree with this, and that is fine.
+>
+> Do you do SEO for me? No. It is a DIY starter. Easywurld doing SEO work for you is a separate project.
+>
+> This is why The Lagos Local Visibility Starter exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What is the question customers ask you that you dread answering?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=LOCAL — I answer these myself. Message LOCAL on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
 # Day 15 · 2026-11-16 · Monday · Offer: MESSAGE
 
 ## EW-D15-S01 · If I ran a makeup artist account in Lagos
@@ -15378,6 +21510,28 @@ Create a five-slide Easywurld carousel for a makeup artist business in Lagos. Us
 
 > Marketing myth: Paid ads will fix a weak offer Verdict: False. Ads can amplify a message. If the offer, page or reply is unclear, more traffic can expose the problem faster. Test it: Fix the landing page and reply script before increasing spend. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> You have heard this one before. "Paid ads will fix a weak offer." [pause] My verdict? False. Ads can amplify a message. If the offer, page or reply is unclear, more traffic can expose the problem faster. [pause] Here is a small test you can run this week. Fix the landing page and reply script before increasing spend. No wahala. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. You have heard this one before
+2. Paid ads will fix a weak offer my verdict? False
+3. Ads can amplify a message
+4. If the offer, page or reply is unclear
+5. more traffic can expose the problem faster
+6. Here is a small test you can run this week
+7. Fix the landing page and reply script before increasing spend
+8. No wahala
+9. Keep the useful part
+10. Drop the absolute
+11. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -15463,6 +21617,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Six-to-18-second proof Reel. Lightreel weekly report reported it on 24 October 2026: a short Reel that makes one claim and resolves it visually. The business adaptation: Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Six-to-18-second proof Reel. [pause] Lightreel weekly report reported it on 24 October 2026: a short Reel that makes one claim and resolves it visually. Here is how a normal Nigerian business uses it. Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Oya. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Six-to-18-second proof Reel
+3. Lightreel weekly report reported it on 24 October
+4. 2026: a short Reel that makes one claim
+5. and resolves it visually
+6. Here is how a normal Nigerian business uses it
+7. Show one labelled sample transformation
+8. such as a homepage toggle
+9. Do not claim performance results
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim oya
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -15954,6 +22135,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 > Do you research my market? No. It shows you how to collect real input. It does not research your market for you. The Clear Message Workbook is a ₦5,000 DIY pack. It includes Clear Message Workbook, Customer Interview Kit, Message Bank, One-Page Marketing Plan. It is not custom work and it does not guarantee results. Message MESSAGE on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Somebody will ask you this. "Do you research my market?" [pause] No. It shows you how to collect real input. It does not research your market for you. Let me be clear about what this is. The Clear Message Workbook is a five thousand naira DIY pack. Inside, you get Clear Message Workbook, Customer Interview Kit, Message Bank, One-Page Marketing Plan. [pause] It is not custom work, and it does not promise you sales. Message MESSAGE on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Somebody will ask you this
+2. Do you research my market? No
+3. It shows you how to collect real input
+4. It does not research your market for you
+5. Let me be clear about what this is
+6. The Clear Message Workbook is a five thousand
+7. naira DIY pack
+8. Inside, you get Clear Message Workbook
+9. Customer Interview Kit, Message Bank
+10. One-Page Marketing Plan
+11. It is not custom work
+12. and it does not promise you sales
+13. Message MESSAGE on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -16119,6 +22325,23 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 > Busy is the most expensive way to avoid the one thing that pays. You can answer every message and still never send the invoice. Do the paid thing before the loud thing. Save this for Monday morning.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Busy is the most expensive way to avoid the one thing that pays. [pause] You can answer every message and still never send the invoice. [pause] Do the paid thing before the loud thing. Save this for Monday morning.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Busy is the most expensive way to avoid
+2. the one thing that pays
+3. You can answer every message and still never
+4. send the invoice
+5. Do the paid thing before the loud thing
+6. Save this for Monday morning
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -16275,19 +22498,24 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W3-CAROUSEL · Carousel write-up (document post)
+## EW-LI-D15-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-16 · Monday · 09:00 WAT · Document post (carousel write-up)**
+**2026-11-16 · Monday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D15-S01 — If I ran a makeup artist account in Lagos
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D15-S01 (slot 1) — If I ran a makeup artist account in Lagos
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D15-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> If I ran a makeup artist account in Lagos, this is what I would post this week.
+> The principle is old. The example is ours. Claude Hopkins: specifics beat generalities.
 >
-> If I were running this account, I would test three posts this week:
+> Three posts I would test this week for a makeup artist business:
 >
 > 1. a skin-prep question answered without medical claims
 > 2. a booking timeline for weddings
@@ -16297,19 +22525,340 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 >
 > First action: Explain the booking timeline.
 >
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — If I ran a makeup artist account in Lagos
+
+> Three posts I would test this week
+>
 > Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A skin-prep question answered without medical claims
 >
-> Which one would you test first?
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A booking timeline for weddings
 >
-> (Full carousel on the feed. The document version is the same five slides as a PDF.)
+> Gives a customer something worth saving.
 
-## Notes
+**Page 4** — Post 3
 
-Upload the five-slide carousel as a PDF document post. Slide 1 is the cover image LinkedIn shows on mobile.
+> A product list with shade ranges
+>
+> Answers the question they were going to ask anyway.
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+**Page 5** — Avoid
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+> One mistake: posting only flawless faces
+>
+> First action: Explain the booking timeline.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D15-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D15-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-16 · Monday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D15-S02 (slot 2) — Myth Court: Paid ads will fix a weak offer.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Someone will tell you this week: "Paid ads will fix a weak offer." Here is the verdict.
+>
+> Verdict: False.
+>
+> Ads can amplify a message. If the offer, page or reply is unclear, more traffic can expose the problem faster.
+>
+> How we would test it:
+> Fix the landing page and reply script before increasing spend
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D15-CO3 · Image post — one rendered card from the day
+
+**2026-11-16 · Monday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D15-S10 (slot 10) — Meet Easywurld: Content series map
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/carousels/EW-D15-S10_slide-1.jpg`
+- **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
+
+### Post body (paste this)
+
+> You have felt this week. That is why it is here.
+>
+> If I ran this account: niche ideas.
+> Myth Court: test the advice.
+> Trend Desk: verify before copying.
+> AI Build: one bounded workflow.
+> Plus memes, copy moves, offers and who we are.
+>
+> If your message, your website and your follow-up disagree, the customer feels it before they can name it.
+>
+> Which of the four is weakest in your business right now?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/carousels/EW-D15-S10_slide-1.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D15-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-16 · Monday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D15-S09 (slot 9) — MESSAGE Spotlight B: Do you research my market?
+- **Status:** Draft — not scheduled
+- **Single CTA:** Message MESSAGE to confirm order details
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D15-S09.mp4 (or the poster assets/fallbacks/EW-D15-S09.jpg)`
+- **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Guard:** Answer honestly, including “no, it does not do that”.
+
+### Post body (paste this)
+
+> Watch this before you answer your next "how much?"
+>
+> Do you research my market?
+> No. It shows you how to collect real input. It does not research your market for you.
+>
+> The Clear Message Workbook — ₦5,000 DIY pack. Not custom work, no results guaranteed.
+>
+> Message the keyword on WhatsApp to confirm current order details.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/offers/clear-message-workbook · or message MESSAGE on WhatsApp: https://wa.me/2349050690837?text=MESSAGE
+
+### Notes
+
+Upload the finished MP4 for EW-D15-S09. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D15-S09.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D15-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-16 · Monday · 08:15 WAT · Document post (PDF)**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D15-S04 (slot 4) — AI Build: Turn meeting notes into actions
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D15-AB1.pdf`
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Three hours on aI Build: Turn meeting notes into actions today. Here is what I got wrong first.
+>
+> What I am testing in the studio this week: turn meeting notes into actions.
+>
+> → Input: an anonymised note
+> → The draft: owners, deadlines and open questions
+> → I check: invented commitments
+> → Only then: a confirmed action list
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Document pages (rendered to PDF)
+
+**Page 1** — Build log · Easywurld
+
+> Turn meeting notes into actions
+>
+> What I am making this week, and the decision behind it.
+
+**Page 2** — The decision
+
+> Turn meeting notes into actions
+>
+> Input: an anonymised note. Draft: owners, deadlines and open questions.
+
+**Page 3** — The boundary
+
+> A person checks it before it goes out
+>
+> I check invented commitments. Nothing is auto-sent.
+
+**Page 4** — Why it matters
+
+> The check is the product
+>
+> Convenience is easy to copy. Judgment is not.
+
+**Page 5** — Your turn
+
+> Where do you keep a human in the loop?
+>
+> One line is enough. I read them.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D15-AB1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D15-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-16 · Monday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D15-S11 (slot 11) — One Last Thought: Busy
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
+
+### Post body (paste this)
+
+> I have read enough "how much?" chats to know one thing.
+>
+> Busy is the most expensive way to avoid the one thing that pays.
+>
+> You can answer every message and still never send the invoice.
+>
+> Do the paid thing before the loud thing.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D15-AB3 · Evening take — an opinion and a question back
+
+**2026-11-16 · Monday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D15-S07 (slot 7) — Steal This Copy Move: Claude Hopkins — Specifics beat generalities
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> I changed my mind about this last month.
+>
+> The move: specifics beat generalities.
+>
+> Concrete details are easier to believe than vague praise.
+>
+> My own version, written for a Lagos customer:
+> Before: 'Fast delivery.' After: 'Delivery zones and cutoffs are listed before you order.'
+>
+> I am borrowing the structure from Claude Hopkins, not the words. Credit where it is due: Scientific Advertising.
+>
+> Oya — pick one headline on your page and rewrite it tonight. That is the whole homework.
+>
+> Paste your before and after in the comments if you want a second pair of eyes.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -16420,6 +22969,29 @@ Create a five-slide Easywurld carousel for a furniture maker business in Lagos. 
 
 > Marketing myth: Logo first, message later Verdict: Mostly false. A logo matters, but customers first need to understand what you do, who it is for and what happens next. Clarity can precede polish. Test it: Write the one-sentence offer before redesigning the mark. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Marketing myth. People will tell you, "Logo first, message later." [pause] My verdict? Mostly false. A logo matters, but customers first need to understand what you do, who it is for and what happens next. Clarity can precede polish. [pause] Here is a small test you can run this week. Write the one-sentence offer before redesigning the mark. Oya. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Marketing myth
+2. People will tell you, "Logo first, message later my verdict?
+3. Mostly false
+4. A logo matters, but customers first need to
+5. understand what you do
+6. who it is for and what happens next
+7. Clarity can precede polish
+8. Here is a small test you can run this week
+9. Write the one-sentence offer before redesigning the mark oya
+10. Keep the useful part
+11. Drop the absolute
+12. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -16505,6 +23077,32 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Native-interface tutorial. Lightreel weekly report reported it on 24 October 2026: a screen-recording aesthetic that shows the actual interface. The business adaptation: Record the real demo at a readable crop. Keep concept/sample labels visible. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Native-interface tutorial. [pause] Lightreel weekly report reported it on 24 October 2026: a screen-recording aesthetic that shows the actual interface. Here is how a normal Nigerian business uses it. Record the real demo at a readable crop. Keep concept/sample labels visible. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Take it one step at a time. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Native-interface tutorial
+3. Lightreel weekly report reported it on 24 October
+4. 2026: a screen-recording aesthetic that shows the actual interface
+5. Here is how a normal Nigerian business uses it
+6. Record the real demo at a readable crop
+7. Keep concept/sample labels visible
+8. One thing before you copy it
+9. Check that it is still happening
+10. and check the audio rights
+11. This is a dated teardown
+12. not a live trend claim
+13. Take it one step at a time
+14. Save the filter
+15. Skip the hype
 
 ### Edit / shot order
 
@@ -16996,6 +23594,32 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 > Is the AI tool included? No. You need access to an AI chat tool. Some features may need a paid plan, and that cost is yours. The Everyday AI Prompt Desk is a ₦5,000 DIY pack. It includes AI Prompting Guide for Small Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template, AI Output Review and Safety Checklist. It is not custom work and it does not guarantee results. Message PROMPTS on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> The question I get most about this pack. "Is the AI tool included?" [pause] No. You need access to an AI chat tool. Some features may need a paid plan, and that cost is yours. Let me be clear about what this is. The Everyday AI Prompt Desk is a five thousand naira DIY pack. Inside, you get AI Prompting Guide for Small Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template, AI Output Review and Safety Checklist. [pause] It is not custom work, and it does not promise you sales. Message PROMPTS on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. The question I get most about this pack
+2. Is the AI tool included? No
+3. You need access to an AI chat tool
+4. Some features may need a paid plan
+5. and that cost is yours
+6. Let me be clear about what this is
+7. The Everyday AI Prompt Desk is a five
+8. thousand naira DIY pack
+9. Inside, you get AI Prompting Guide for Small
+10. Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template
+11. AI Output Review and Safety Checklist
+12. It is not custom work
+13. and it does not promise you sales
+14. Message PROMPTS on WhatsApp and I will confirm
+15. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -17161,6 +23785,24 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 > Everyone is guessing about the best time to post. So test it. One week at 07:00. One week at 20:30. Compare saves and enquiries, not vibes. Keep the slot that made someone message you. Save this and run the test.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Everyone is guessing about the best time to post. So test it. [pause] One week at 07:00. One week at 20:30. Compare saves and messages, not vibes. [pause] Keep the slot that made someone message you. No wahala. Save this and run the test.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Everyone is guessing about the best time to post
+2. So test it
+3. One week at 07:00
+4. One week at 20:30
+5. Compare saves and messages, not vibes
+6. Keep the slot that made someone message you no wahala
+7. Save this and run the test
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -17317,35 +23959,328 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W3-TEACH · Siphoned teach post
+## EW-LI-D16-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-17 · Tuesday · 09:00 WAT · Text post**
+**2026-11-17 · Tuesday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D16-S07 — Steal This Copy Move: John Caples — Self-interest in the headline
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D16-S07 (slot 7) — Steal This Copy Move: John Caples — Self-interest in the headline
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D16-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> Steal this copy move from John Caples: Self-interest in the headline.
+> If your page has gone quiet, it is rarely a lack of talent. It is a lack of a repeatable post.
 >
-> The principle: Show the reader why the message matters to them.
+> The move: Self-interest in the headline.
 >
-> An original example, not theirs:
+> Show the reader why the message matters to them.
 >
-> Before: 'Our new workbook.' After: 'Explain what you do in one sentence before you rebuild the website.'
+> What that looks like on a Nigerian page:
 >
-> Do not steal the words. Steal the structure. Attribute the principle and write your own example.
+> Before: 'Our new workbook.'
+> After:  'Explain what you do in one sentence before you rebuild the website.'
+>
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
+>
+> Source: Tested Advertising Methods. Attributed, not quoted at length.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — Steal this copy move
+
+> John Caples: Self-interest in the headline
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> Show the reader why the message matters to them
 >
 > Source: Tested Advertising Methods.
 
-## Notes
+**Page 3** — Before
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> 'Our new workbook.' 
+>
+> Vague, category-level, forgettable.
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+**Page 4** — After
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+>  'Explain what you do in one sentence before you rebuild the website.'
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D16-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D16-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-17 · Tuesday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D16-S02 (slot 2) — Myth Court: Logo first, message later.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Logo first, message later. We put it on trial.
+>
+> Verdict: Mostly false.
+>
+> A logo matters, but customers first need to understand what you do, who it is for and what happens next. Clarity can precede polish.
+>
+> How we would test it:
+> Write the one-sentence offer before redesigning the mark
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D16-CO3 · Image post — one rendered card from the day
+
+**2026-11-17 · Tuesday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D16-S05 (slot 5) — The grid looks perfect. The inbox is empty.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D16-S05.jpg`
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> Small-business life, photographed honestly.
+>
+> The grid looks perfect. The inbox is empty.
+> Pretty is not a route to buy.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D16-S05.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D16-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-17 · Tuesday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D16-S11 (slot 11) — One Last Thought: Posting time
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save this and run the test
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D16-S11.mp4 (or the poster assets/fallbacks/EW-D16-S11.jpg)`
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> Short version of a long lesson.
+>
+> Everyone is guessing about the best time to post.
+> So test it.
+> One week at 07:00.
+> One week at 20:30.
+> Compare saves and enquiries, not vibes.
+> Keep the slot that made someone message you.
+>
+> Save this and run the test.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D16-S11. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D16-S11.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D16-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-17 · Tuesday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D16-S10 (slot 10) — Meet Easywurld: Website anatomy
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
+
+### Post body (paste this)
+
+> I keep a rule for this studio: nothing goes out that a person has not checked.
+>
+> The message: what you do and for whom.
+> The page: where the next step happens.
+> The content: how people find and trust you.
+> The follow-up: what happens after the enquiry.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D16-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-17 · Tuesday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D16-S02 (slot 2) — Myth Court: Logo first, message later.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Which piece of advice has cost your business the most time?
+- **AI label:** Not required
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> Not a hot take. Just a pattern I cannot unsee.
+>
+> Myth I keep hearing: "Logo first, message later."
+>
+> My verdict after running it: mostly false.
+>
+> A logo matters, but customers first need to understand what you do, who it is for and what happens next. Clarity can precede polish.
+>
+> What I would actually do: write the one-sentence offer before redesigning the mark
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D16-AB3 · Evening take — an opinion and a question back
+
+**2026-11-17 · Tuesday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D16-S06 (slot 6) — PROMPTS Spotlight A: The knowledge sheet is the boundary.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What does your price reply say after the number?
+- **AI label:** Not required
+- **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Guard:** Answer honestly, including “no, it does not do that”.
+
+### Post body (paste this)
+
+> A question I asked five business owners this week.
+>
+> The knowledge sheet is the boundary.
+>
+> This is why The Everyday AI Prompt Desk exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What does your price reply say after the number?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=PROMPTS — I answer these myself. Message PROMPTS on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -17456,6 +24391,29 @@ Create a five-slide Easywurld carousel for a catering company business in Lagos.
 
 > Marketing myth: Content must look expensive to work Verdict: False. Readable, useful and honest content can outperform polished but vague posts. Production value should serve the idea. Test it: Record one clear answer on a phone and compare completion rate. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let us put one piece of advice on trial. "Content must look expensive to work." [pause] My verdict? False. Readable, useful and honest content can outperform polished but vague posts. Production value should serve the idea. [pause] Here is a small test you can run this week. Record one clear answer on a phone and compare completion rate. Take it one step at a time. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let us put one piece of advice on trial
+2. Content must look expensive to work my verdict? False
+3. Readable, useful and honest content can outperform polished
+4. but vague posts
+5. Production value should serve the idea
+6. Here is a small test you can run this week
+7. Record one clear answer on a phone and
+8. compare completion rate
+9. Take it one step at a time
+10. Keep the useful part
+11. Drop the absolute
+12. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -17541,6 +24499,32 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Comment keyword to DM. Lightreel weekly report reported it on 24 October 2026: a comment keyword that triggers a DM workflow. The business adaptation: Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Comment keyword to DM. [pause] Lightreel weekly report reported it on 24 October 2026: a comment keyword that triggers a DM workflow. Here is how a normal Nigerian business uses it. Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Comment keyword to DM
+3. Lightreel weekly report reported it on 24 October
+4. 2026: a comment keyword that triggers a DM workflow
+5. Here is how a normal Nigerian business uses it
+6. Use one keyword for one pack and confirm
+7. the DM flow works
+8. Do not promise instant delivery if it is manual
+9. One thing before you copy it
+10. Check that it is still happening
+11. and check the audio rights
+12. This is a dated teardown
+13. not a live trend claim
+14. Save the filter
+15. Skip the hype
 
 ### Edit / shot order
 
@@ -18032,6 +25016,33 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 > Is tax advice included? No. Tax rules vary. The workbook has an editable tax-rate cell; confirm what applies to you. The Proposal & Report Template Pack is a ₦5,000 DIY pack. It includes Proposals and Reports Guide, Proposal Template with Worked Example, Report and Summary Templates, Quote and Invoice Workbook. It is not custom work and it does not guarantee results. Message TEMPLATES on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Before you buy, you will ask this. "Is tax advice included?" [pause] No. Tax rules vary. The workbook has an editable tax-rate cell; confirm what applies to you. Let me be clear about what this is. The Proposal & Report Template Pack is a five thousand naira DIY pack. Inside, you get Proposals and Reports Guide, Proposal Template with Worked Example, Report and Summary Templates, Quote and Invoice Workbook. [pause] It is not custom work, and it does not promise you sales. Message TEMPLATES on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Before you buy, you will ask this
+2. Is tax advice included? No
+3. Tax rules vary
+4. The workbook has an editable tax-rate cell;
+5. confirm what applies to you
+6. Let me be clear about what this is
+7. The Proposal & Report Template Pack is a
+8. five thousand naira DIY pack
+9. Inside, you get Proposals and Reports Guide
+10. Proposal Template with Worked Example
+11. Report and Summary Templates
+12. Quote and Invoice Workbook
+13. It is not custom work
+14. and it does not promise you sales
+15. Message TEMPLATES on WhatsApp and I will confirm
+16. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -18119,6 +25130,23 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 ### Exact spoken script
 
 > An enquiry arrives. A clear reply goes out. A follow-up is scheduled. The sequence stops when it should. This is a labelled sample, not a live client result.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> An message arrives. A clear reply goes out. A follow-up is scheduled. The sequence stops when it should. This is a labelled sample, not a live client result.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. An message arrives
+2. A clear reply goes out
+3. A follow-up is scheduled
+4. The sequence stops when it should
+5. This is a labelled sample
+6. not a live client result
 
 ### Edit / shot order
 
@@ -18208,6 +25236,24 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 ### Exact spoken script
 
 > A trend is a borrowed room. You still have to say something worth hearing. Copy the structure, never the voice, and check the sound is cleared for business. Borrow the shape. Keep the meaning. Save this before your next trend post.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> A trend is a borrowed room. You still have to say something worth hearing. [pause] Copy the structure, never the voice, and check the sound is cleared for business. [pause] Borrow the shape. Keep the meaning. Oya. Save this before your next trend post.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. A trend is a borrowed room
+2. You still have to say something worth hearing
+3. Copy the structure, never the voice
+4. and check the sound is cleared for business
+5. Borrow the shape
+6. Keep the meaning oya
+7. Save this before your next trend post
 
 ### Edit / shot order
 
@@ -18365,35 +25411,331 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W3-SHOW · Siphoned show / demo post
+## EW-LI-D17-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-18 · Wednesday · 09:00 WAT · Text post**
+**2026-11-18 · Wednesday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D17-S04 — AI Build: Draft a newsletter
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D17-S01 (slot 1) — If I ran a catering company account in Lagos
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D17-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> One AI workflow to test: draft a newsletter.
+> A catering company account in Lagos does not need more ideas. It needs three it can actually shoot this week.
 >
-> The workflow, in the order it has to happen:
+> Three posts I would test this week for a catering company business:
 >
-> → Input: one useful lesson and one update.
-> → AI draft: a short email with one CTA.
-> → Human check: permission and accuracy.
+> 1. a menu tasting process
+> 2. a per-head cost breakdown with fictional numbers
+> 3. a dietary-requirement intake form explained
 >
-> The boundary: Output: an approved email. Nothing is sent automatically. Save the workflow and test it with anonymised input.
+> The mistake to avoid: posting only buffet tables.
 >
-> If the draft cannot be checked by a person who knows the price, it is not ready to send.
+> First action: Show the tasting process.
+>
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Document pages (rendered to PDF)
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+**Page 1** — If I ran a catering company account in Lagos
+
+> Three posts I would test this week
+>
+> Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A menu tasting process
+>
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A per-head cost breakdown with fictional numbers
+>
+> Gives a customer something worth saving.
+
+**Page 4** — Post 3
+
+> A dietary-requirement intake form explained
+>
+> Answers the question they were going to ask anyway.
+
+**Page 5** — Avoid
+
+> One mistake: posting only buffet tables
+>
+> First action: Show the tasting process.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D17-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D17-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-18 · Wednesday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D17-S02 (slot 2) — Myth Court: Content must look expensive to work.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Absolute advice is expensive. Take this one: "Content must look expensive to work."
+>
+> Verdict: False.
+>
+> Readable, useful and honest content can outperform polished but vague posts. Production value should serve the idea.
+>
+> How we would test it:
+> Record one clear answer on a phone and compare completion rate
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D17-CO3 · Image post — one rendered card from the day
+
+**2026-11-18 · Wednesday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D17-S08 (slot 8) — The offer is clear. The CTA is 'engage'.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D17-S08.jpg`
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> This is the part nobody posts about.
+>
+> The offer is clear. The CTA is 'engage'.
+> Name the next step.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D17-S08.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D17-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-18 · Wednesday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D17-S02 (slot 2) — Myth Court: Content must look expensive to work.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the test and run it on your own account
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D17-S02.mp4 (or the poster assets/fallbacks/EW-D17-S02.jpg)`
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Forty seconds. One workflow you can copy today.
+>
+> Myth: Content must look expensive to work.
+> Verdict: False.
+>
+> Readable, useful and honest content can outperform polished but vague posts. Production value should serve the idea
+>
+> The test: Record one clear answer on a phone and compare completion rate
+>
+> Keep the useful part. Drop the absolute.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D17-S02. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D17-S02.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D17-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-18 · Wednesday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D17-S04 (slot 4) — AI Build: Draft a newsletter
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
+
+### Post body (paste this)
+
+> Building a small studio in Lagos means the boring decisions matter most.
+>
+> What I am testing in the studio this week: draft a newsletter.
+>
+> → Input: one useful lesson and one update
+> → The draft: a short email with one CTA
+> → I check: permission and accuracy
+> → Only then: an approved email
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D17-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-18 · Wednesday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D17-S11 (slot 11) — One Last Thought: Trends
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> The businesses that survive this year are not the loudest.
+>
+> A trend is a borrowed room. You still have to say something worth hearing.
+>
+> Copy the structure, never the voice, and check the sound is cleared for business.
+>
+> Borrow the shape. Keep the meaning.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D17-AB3 · Evening take — an opinion and a question back
+
+**2026-11-18 · Wednesday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D17-S09 (slot 9) — TEMPLATES Spotlight B: Is tax advice included?
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the question customers ask you that you dread answering?
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Evening thought. The quote workbook keeps the numbers visible.
+>
+> Is tax advice included? No. Tax rules vary. The workbook has an editable tax-rate cell; confirm what applies to you.
+>
+> This is why The Proposal & Report Template Pack exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What is the question customers ask you that you dread answering?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=TEMPLATES — I answer these myself. Message TEMPLATES on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -18504,6 +25846,27 @@ Create a five-slide Easywurld carousel for a printing press business in Lagos. U
 
 > Marketing myth: You must chase every trend Verdict: False. A trend is useful only if it fits the audience, brand and rights. Forced participation can look confusing or unsafe. Test it: Use the trend filter: relevance, rights, capacity, proof. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> You have heard this one before. "You must chase every trend." [pause] My verdict? False. A trend is useful only if it fits the audience, brand and rights. Forced participation can look confusing or unsafe. [pause] Here is a small test you can run this week. Use the trend filter: relevance, rights, capacity, proof. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. You have heard this one before
+2. You must chase every trend my verdict? False
+3. A trend is useful only if it fits
+4. the audience, brand and rights
+5. Forced participation can look confusing or unsafe
+6. Here is a small test you can run this week
+7. Use the trend filter: relevance, rights, capacity, proof
+8. Keep the useful part
+9. Drop the absolute
+10. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -18589,6 +25952,34 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Why People Come, Why People Stay. Drizzle Digital Vol. 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. The business adaptation: Show the hook that brings an enquiry and the process that earns trust. Use real or labelled sample steps. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. Here is how a normal Nigerian business uses it. Show the hook that brings an message and the process that earns trust. Use real or labelled sample steps. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Why People Come
+3. Why People Stay
+4. Drizzle Digital Volume 38 reported it on 28
+5. September 2026: a contrast between what attracts customers
+6. and what keeps them
+7. Here is how a normal Nigerian business uses it
+8. Show the hook that brings an message and
+9. the process that earns trust
+10. Use real or labelled sample steps
+11. One thing before you copy it
+12. Check that it is still happening
+13. and check the audio rights
+14. This is a dated teardown
+15. not a live trend claim
+16. Save the filter
+17. Skip the hype
 
 ### Edit / shot order
 
@@ -19080,6 +26471,33 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 > Are hosting costs included? No. Domain, hosting, builder and email costs are separate and depend on providers. The Website Launch & Care Handbook is a ₦5,000 DIY pack. It includes Website Launch & Care Handbook, Website Planning Brief, Launch, Care and Accounts Workbook, Hiring a Web Designer: Questions and Red Flags. It is not custom work and it does not guarantee results. Message LAUNCH on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Somebody will ask you this. "Are hosting costs included?" [pause] No. Domain, hosting, builder and email costs are separate and depend on providers. Let me be clear about what this is. The Website Launch & Care Handbook is a five thousand naira DIY pack. Inside, you get Website Launch & Care Handbook, Website Planning Brief, Launch, Care and Accounts Workbook, Hiring a Web Designer: Questions and Red Flags. [pause] It is not custom work, and it does not promise you sales. Message LAUNCH on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Somebody will ask you this
+2. Are hosting costs included? No
+3. Domain, hosting, builder and email costs are separate
+4. and depend on providers
+5. Let me be clear about what this is
+6. The Website Launch & Care Handbook is a
+7. five thousand naira DIY pack
+8. Inside, you get Website Launch & Care Handbook
+9. Website Planning Brief, Launch
+10. Care and Accounts Workbook
+11. Hiring a Web Designer:
+12. Questions and Red Flags
+13. It is not custom work
+14. and it does not promise you sales
+15. Message LAUNCH on WhatsApp and I will confirm
+16. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -19245,6 +26663,25 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 > A template is not a shortcut. It is a decision someone already made well. What you add is the judgement: which line, which price, which customer. Buy the thinking. Do the typing. Save this if you keep starting from a blank page.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> A template is not a shortcut. It is a decision someone already made well. [pause] What you add is the judgement: which line, which price, which customer. [pause] Buy the thinking. Do the typing. Take it one step at a time. Save this if you keep starting from a blank page.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. A template is not a shortcut
+2. It is a decision someone already made well
+3. What you add is the judgement:
+4. which line, which price which customer
+5. Buy the thinking
+6. Do the typing
+7. Take it one step at a time
+8. Save this if you keep starting from a blank page
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -19401,36 +26838,328 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W3-TRUST · Siphoned trust post
+## EW-LI-D18-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-19 · Thursday · 09:00 WAT · Text post**
+**2026-11-19 · Thursday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D18-S08 — The trend report is from last month. The caption says 'now'.
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D18-S07 (slot 7) — Steal This Copy Move: John Caples — Curiosity needs substance
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D18-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> The trend report is from last month. The caption says 'now'.
+> John Caples said it first: curiosity needs substance. Here is what that looks like on a Nigerian small-business page.
 >
-> Date the source and verify.
+> The move: Curiosity needs substance.
 >
-> The joke is the recognition. The caption is the fix.
+> A curious opening should deliver a useful answer, not clickbait.
 >
-> Two things I would change in a small business this week:
+> What that looks like on a Nigerian page:
 >
-> 1. Write the next step into the offer, not the caption.
-> 2. Put the price, the contents and the boundary in the same message.
+> 'The post got shares. The offer got silence.' Then explain the missing next step.
 >
-> That is the whole post. No thread, no funnel.
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
+>
+> Source: Tested Advertising Methods. Attributed, not quoted at length.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Document pages (rendered to PDF)
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+**Page 1** — Steal this copy move
+
+> John Caples: Curiosity needs substance
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> A curious opening should deliver a useful answer, not clickbait
+>
+> Source: Tested Advertising Methods.
+
+**Page 3** — Before
+
+> 'The post got shares. The offer got silence.' Then explain the missing next step.
+>
+> Vague, category-level, forgettable.
+
+**Page 4** — After
+
+>
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D18-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D18-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-19 · Thursday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D18-S02 (slot 2) — Myth Court: You must chase every trend.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Marketing myth: You must chase every trend.
+>
+> Verdict: False.
+>
+> A trend is useful only if it fits the audience, brand and rights. Forced participation can look confusing or unsafe.
+>
+> How we would test it:
+> Use the trend filter: relevance, rights, capacity, proof
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D18-CO3 · Image post — one rendered card from the day
+
+**2026-11-19 · Thursday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D18-S10 (slot 10) — Meet Easywurld: Local visibility checklist
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/static/EW-D18-S10.jpg`
+- **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
+
+### Post body (paste this)
+
+> One picture, one lesson. Read the second line twice.
+>
+> Correct name.
+> Correct address.
+> Correct hours.
+> Correct categories.
+> Local visibility starts with accurate information.
+>
+> If your message, your website and your follow-up disagree, the customer feels it before they can name it.
+>
+> Which of the four is weakest in your business right now?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/static/EW-D18-S10.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D18-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-19 · Thursday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D18-S03 (slot 3) — Trend Desk: Why People Come, Why People Stay
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the trend filter before your next post
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D18-S03.mp4 (or the poster assets/fallbacks/EW-D18-S03.jpg)`
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Watch this before you answer your next "how much?"
+>
+> Show the hook that brings an enquiry and the process that earns trust. Use real or labelled sample steps.
+>
+> Dated teardown, not a live trend claim. Verify a current example and the audio rights before you post it.
+>
+> Save the filter, not the hype.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D18-S03. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D18-S03.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D18-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-19 · Thursday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D18-S10 (slot 10) — Meet Easywurld: Local visibility checklist
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> Today I chose the slower option. Let me explain why.
+>
+> Correct name.
+> Correct address.
+> Correct hours.
+> Correct categories.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D18-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-19 · Thursday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D18-S02 (slot 2) — Myth Court: You must chase every trend.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Which piece of advice has cost your business the most time?
+- **AI label:** Not required
+- **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
+
+### Post body (paste this)
+
+> Something I keep seeing in Nigerian small businesses: undefined.
+>
+> Myth I keep hearing: "You must chase every trend."
+>
+> My verdict after running it: false.
+>
+> A trend is useful only if it fits the audience, brand and rights. Forced participation can look confusing or unsafe.
+>
+> What I would actually do: use the trend filter: relevance, rights, capacity, proof
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D18-AB3 · Evening take — an opinion and a question back
+
+**2026-11-19 · Thursday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D18-S07 (slot 7) — Steal This Copy Move: John Caples — Curiosity needs substance
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
+
+### Post body (paste this)
+
+> Somebody will disagree with this, and that is fine.
+>
+> The move: curiosity needs substance.
+>
+> A curious opening should deliver a useful answer, not clickbait.
+>
+> My own version, written for a Lagos customer:
+> 'The post got shares. The offer got silence.' Then explain the missing next step.
+>
+> I am borrowing the structure from John Caples, not the words. Credit where it is due: Tested Advertising Methods.
+>
+> Oya — pick one headline on your page and rewrite it tonight. That is the whole homework.
+>
+> Paste your before and after in the comments if you want a second pair of eyes.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -19541,6 +27270,29 @@ Create a five-slide Easywurld carousel for a travel agency business in Lagos. Us
 
 > Marketing myth: Long copy always sells better Verdict: It depends. Copy should be long enough to answer the buyer's questions and short enough to keep attention. Awareness and price change the need. Test it: Match copy length to the buyer's stage and test one variable. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Marketing myth. People will tell you, "Long copy always sells better." [pause] My verdict? It depends. Copy should be long enough to answer the buyer's questions and short enough to keep attention. Awareness and price change the need. [pause] Here is a small test you can run this week. Match copy length to the buyer's stage and test one variable. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Marketing myth
+2. People will tell you
+3. "Long copy always sells better my verdict? It depends
+4. Copy should be long enough to answer the
+5. buyer's questions and short enough to keep attention
+6. Awareness and price change the need
+7. Here is a small test you can run this week
+8. Match copy length to the buyer's stage and
+9. test one variable
+10. Keep the useful part
+11. Drop the absolute
+12. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -19626,6 +27378,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: I'm with Max. Drizzle Digital Vol. 40 reported it on 26 October 2026: a creator spotlighting the person or thing they are always with. The business adaptation: Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is I'm with Max. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a creator spotlighting the person or thing they are always with. Here is how a normal Nigerian business uses it. Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. No wahala. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is I'm with Max
+3. Drizzle Digital Volume 40 reported it on 26
+4. October 2026: a creator spotlighting the person or
+5. thing they are always with
+6. Here is how a normal Nigerian business uses it
+7. Adapt only with owned/licensed audio and a real
+8. brand constant, such as the checklist
+9. Do not use a personal-account sound
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim no wahala
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -20117,6 +27896,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 > Can I use them in Pidgin? Yes. Adapt them into the language your customers use, including Pidgin or Yoruba. Keep the meaning and check the tone. The Chat-to-Customer Playbook is a ₦5,000 DIY pack. It includes Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. It is not custom work and it does not guarantee results. Message PLAYBOOK on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> The question I get most about this pack. "Can I use them in Pidgin?" [pause] Yes. Adapt them into the language your customers use, including Pidgin or Yoruba. Keep the meaning and check the tone. Let me be clear about what this is. The Chat-to-Customer Playbook is a five thousand naira DIY pack. Inside, you get Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. [pause] It is not custom work, and it does not promise you sales. Message PLAYBOOK on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. The question I get most about this pack
+2. Can I use them in Pidgin? Yes
+3. Adapt them into the language your customers use
+4. including Pidgin or Yoruba
+5. Keep the meaning and check the tone
+6. Let me be clear about what this is
+7. The Chat-to-Customer Playbook is a five thousand naira DIY pack
+8. Inside, you get Chat-to-Customer Playbook
+9. 36-Script Message Library, Lead & Follow-Up Tracker
+10. 7-Day Setup Checklist
+11. It is not custom work
+12. and it does not promise you sales
+13. Message PLAYBOOK on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -20204,6 +28008,22 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 ### Exact spoken script
 
 > Scope. Timeline. Price. Exclusions. A proposal should make the decision easier. This is a labelled sample. It should show what is included, what is not and how the decision gets made.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Scope. Timeline. Price. Exclusions. A proposal should make the decision easier. This is a labelled sample. It should show what is included, what is not and how the decision gets made.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Scope timeline price exclusions
+2. A proposal should make the decision easier
+3. This is a labelled sample
+4. It should show what is included
+5. what is not and how the decision gets made
 
 ### Edit / shot order
 
@@ -20293,6 +28113,24 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 ### Exact spoken script
 
 > Every great line you admire is a structure you can learn and a voice you cannot borrow. Steal the structure. Write your own sentence. Attribute the teacher. Learn the move, not the words. Save this for the 16:00 breakdown.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Every great line you admire is a structure you can learn and a voice you cannot borrow. [pause] Steal the structure. Write your own sentence. Attribute the teacher. [pause] Learn the move, not the words. Save this for the 16:00 breakdown.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Every great line you admire is a structure
+2. you can learn and a voice you cannot borrow
+3. Steal the structure
+4. Write your own sentence
+5. Attribute the teacher
+6. Learn the move, not the words
+7. Save this for the 16:00 breakdown
 
 ### Edit / shot order
 
@@ -20450,33 +28288,330 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W3-VIDEO · Repurposed vertical video
+## EW-LI-D19-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-20 · Friday · 09:00 WAT · Vertical video**
+**2026-11-20 · Friday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D19-S02 — Myth Court: Long copy always sells better.
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D19-S01 (slot 1) — If I ran a travel agency account in Lagos
 - **Status:** Draft — not scheduled
-- **Single CTA:** Save the test and run it on your own account.
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D19-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> A myth worth testing: Long copy always sells better
+> Five pages. One week of posting for a travel agency business. Steal the structure, not the words.
 >
-> It depends.
+> Three posts I would test this week for a travel agency business:
+>
+> 1. a visa-document checklist with official-source links
+> 2. a destination comparison based on verified facts
+> 3. a booking timeline with cancellation terms
+>
+> The mistake to avoid: posting only destination photos.
+>
+> First action: Publish one document checklist.
+>
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — If I ran a travel agency account in Lagos
+
+> Three posts I would test this week
+>
+> Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A visa-document checklist with official-source links
+>
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A destination comparison based on verified facts
+>
+> Gives a customer something worth saving.
+
+**Page 4** — Post 3
+
+> A booking timeline with cancellation terms
+>
+> Answers the question they were going to ask anyway.
+
+**Page 5** — Avoid
+
+> One mistake: posting only destination photos
+>
+> First action: Publish one document checklist.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D19-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D19-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-20 · Friday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D19-S02 (slot 2) — Myth Court: Long copy always sells better.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Someone will tell you this week: "Long copy always sells better." Here is the verdict.
+>
+> Verdict: It depends.
 >
 > Copy should be long enough to answer the buyer's questions and short enough to keep attention. Awareness and price change the need.
 >
-> How I would test it: Match copy length to the buyer's stage and test one variable.
+> How we would test it:
+> Match copy length to the buyer's stage and test one variable
 >
 > Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Reuse the vertical cut from the same day. Re-frame to 4:5 or 1:1 with captions burned in; keep the AI label.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Notes
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D19-CO3 · Image post — one rendered card from the day
+
+**2026-11-20 · Friday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D19-S05 (slot 5) — The discount worked. The margin cried.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D19-S05.jpg`
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> You have felt this week. That is why it is here.
+>
+> The discount worked. The margin cried.
+> Test clarity before price cuts.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D19-S05.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D19-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-20 · Friday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D19-S09 (slot 9) — PLAYBOOK Spotlight B: Can I use them in Pidgin?
+- **Status:** Draft — not scheduled
+- **Single CTA:** Message PLAYBOOK to confirm order details
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D19-S09.mp4 (or the poster assets/fallbacks/EW-D19-S09.jpg)`
+- **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Guard:** Answer honestly, including “no, it does not do that”.
+
+### Post body (paste this)
+
+> Short version of a long lesson.
+>
+> Can I use them in Pidgin?
+> Yes. Adapt them into the language your customers use, including Pidgin or Yoruba. Keep the meaning and check the tone.
+>
+> The Chat-to-Customer Playbook — ₦5,000 DIY pack. Not custom work, no results guaranteed.
+>
+> Message the keyword on WhatsApp to confirm current order details.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook · or message PLAYBOOK on WhatsApp: https://wa.me/2349050690837?text=PLAYBOOK
+
+### Notes
+
+Upload the finished MP4 for EW-D19-S09. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D19-S09.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D19-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-20 · Friday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D19-S04 (slot 4) — AI Build: Prepare customer interview questions
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> I am building Easywurld in public, and today's decision was aI Build: Prepare customer interview questions.
+>
+> What I am testing in the studio this week: prepare customer interview questions.
+>
+> → Input: the offer and audience
+> → The draft: ten open questions about problems and language
+> → I check: leading questions and privacy
+> → Only then: an approved interview kit
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D19-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-20 · Friday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D19-S11 (slot 11) — One Last Thought: Copywriters
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
+
+### Post body (paste this)
+
+> I have read enough "how much?" chats to know one thing.
+>
+> Every great line you admire is a structure you can learn and a voice you cannot borrow.
+>
+> Steal the structure. Write your own sentence. Attribute the teacher.
+>
+> Learn the move, not the words.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D19-AB3 · Evening take — an opinion and a question back
+
+**2026-11-20 · Friday · 19:45 WAT · Native video**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D19-S06 (slot 6) — PLAYBOOK Spotlight A: The scripts are starting points, not robots.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What does your price reply say after the number?
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D19-S06.mp4 (or the poster assets/fallbacks/EW-D19-S06.jpg)`
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> I changed my mind about this last month.
+>
+> The scripts are starting points, not robots.
+>
+> This is why The Chat-to-Customer Playbook exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What does your price reply say after the number?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=PLAYBOOK — I answer these myself. Message PLAYBOOK on WhatsApp.
+
+### Notes
+
+Upload the finished MP4 for EW-D19-S06. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D19-S06.jpg with the same caption as an image post.
 
 ---
 
@@ -20587,6 +28722,28 @@ Create a five-slide Easywurld carousel for a optician business in Lagos. Use the
 
 > Marketing myth: Short copy always wins Verdict: It depends. A short hook can earn attention, but a complex offer may need explanation. Brevity is not the same as clarity. Test it: Keep the hook short and give the offer enough detail to decide. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let us put one piece of advice on trial. "Short copy always wins." [pause] My verdict? It depends. A short hook can earn attention, but a complex offer may need explanation. Brevity is not the same as clarity. [pause] Here is a small test you can run this week. Keep the hook short and give the offer enough detail to decide. No wahala. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let us put one piece of advice on trial
+2. Short copy always wins my verdict? It depends
+3. A short hook can earn attention
+4. but a complex offer may need explanation
+5. Brevity is not the same as clarity
+6. Here is a small test you can run this week
+7. Keep the hook short and give the offer
+8. enough detail to decide no wahala
+9. Keep the useful part
+10. Drop the absolute
+11. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -20672,6 +28829,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: You Seem To Be Scrolling a Lot. Drizzle Digital Vol. 39 reported it on 14 October 2026: a playful nudge to stop scrolling and take an action. The business adaptation: Turn it into one useful action, such as testing the contact route. Avoid shaming the viewer. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is You Seem To Be Scrolling a Lot. [pause] Drizzle Digital Volume 39 reported it on 14 October 2026: a playful nudge to stop scrolling and take an action. Here is how a normal Nigerian business uses it. Turn it into one useful action, such as testing the contact route. Avoid shaming the viewer. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Oya. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is You Seem To Be Scrolling a Lot
+3. Drizzle Digital Volume 39 reported it on 14
+4. October 2026: a playful nudge to stop scrolling
+5. and take an action
+6. Here is how a normal Nigerian business uses it
+7. Turn it into one useful action
+8. such as testing the contact route
+9. Avoid shaming the viewer
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim oya
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -21163,6 +29347,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 > Does it guarantee reach? No. Platform features change, and no plan can guarantee reach, followers or sales. The Clear Homepage Blueprint is a ₦5,000 DIY pack. It includes Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. It is not custom work and it does not guarantee results. Message CLEAR on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Before you buy, you will ask this. "Does it guarantee reach?" [pause] No. Platform features change, and no plan can guarantee reach, followers or sales. Let me be clear about what this is. The Clear Homepage Blueprint is a five thousand naira DIY pack. Inside, you get Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. [pause] It is not custom work, and it does not promise you sales. Message CLEAR on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Before you buy, you will ask this
+2. Does it guarantee reach? No
+3. Platform features change, and no plan can guarantee
+4. reach, followers or sales
+5. Let me be clear about what this is
+6. The Clear Homepage Blueprint is a five thousand
+7. naira DIY pack
+8. Inside, you get Clear Homepage Blueprint
+9. Homepage Copy Templates, Homepage Content Planner
+10. 20-Point Homepage Audit Scorecard
+11. It is not custom work
+12. and it does not promise you sales
+13. Message CLEAR on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -21328,6 +29537,23 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 > Your bio is not an introduction. It is a filter. It should make the right person lean in and the wrong one leave quickly. Clarity is a kindness to both of you. Save this and read your bio out loud.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Your bio is not an introduction. It is a filter. [pause] It should make the right person lean in and the wrong one leave quickly. [pause] Clarity is a kindness to both of you. Save this and read your bio out loud.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Your bio is not an introduction
+2. It is a filter
+3. It should make the right person lean in
+4. and the wrong one leave quickly
+5. Clarity is a kindness to both of you
+6. Save this and read your bio out loud
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -21484,37 +29710,333 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W3-OFFER · Siphoned offer lesson
+## EW-LI-D20-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-21 · Saturday · 09:00 WAT · Text post**
+**2026-11-21 · Saturday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D20-S06 — CLEAR Spotlight A: The content planner connects the week.
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D20-S07 (slot 7) — Steal This Copy Move: Joanna Wiebe — Message mining
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D20-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> The content planner connects the week.
+> Most optician pages post the finished work and nothing else. That is the whole problem.
 >
-> Slide 1: The content planner connects the week.
-> Slide 2: The problem: The homepage talks about the business and not the visitor. Headlines are vague, the next step is hidden, and visitors leave without enquiring.
-> Slide 3: Inside The Clear Homepage Blueprint:
-> · Clear Homepage Blueprint
-> · Homepage Copy Templates
-> · Homepage Content Planner
-> · 20-Point Homepage Audit Scorecard
-> Slide 4: ₦5,000 DIY pack. Not custom work. This is a do-it-yourself resource. It does not include a website build or a personal review of your page.
-> Slide 5: Message CLEAR on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.
+> The move: Message mining.
 >
-> Message CLEAR to confirm order details.
+> Collect problems, objections and desired outcomes before writing headlines.
+>
+> What that looks like on a Nigerian page:
+>
+> Ask: 'What almost stopped you from booking?' Use the pattern, not private quotes.
+>
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
+>
+> Source: Copyhackers. Attributed, not quoted at length.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Document pages (rendered to PDF)
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+**Page 1** — Steal this copy move
+
+> Joanna Wiebe: Message mining
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> Collect problems, objections and desired outcomes before writing headlines
+>
+> Source: Copyhackers.
+
+**Page 3** — Before
+
+> Ask: 'What almost stopped you from booking?' Use the pattern, not private quotes.
+>
+> Vague, category-level, forgettable.
+
+**Page 4** — After
+
+>
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D20-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D20-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-21 · Saturday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D20-S02 (slot 2) — Myth Court: Short copy always wins.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Short copy always wins. We put it on trial.
+>
+> Verdict: It depends.
+>
+> A short hook can earn attention, but a complex offer may need explanation. Brevity is not the same as clarity.
+>
+> How we would test it:
+> Keep the hook short and give the offer enough detail to decide
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D20-CO3 · Image post — one rendered card from the day
+
+**2026-11-21 · Saturday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D20-S08 (slot 8) — The calendar is full. The review is empty.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D20-S08.jpg`
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Small-business life, photographed honestly.
+>
+> The calendar is full. The review is empty.
+> Schedule the review too.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D20-S08.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D20-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-21 · Saturday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D20-S11 (slot 11) — One Last Thought: Your bio
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save this and read your bio out loud
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D20-S11.mp4 (or the poster assets/fallbacks/EW-D20-S11.jpg)`
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> Forty seconds. One workflow you can copy today.
+>
+> Your bio is not an introduction.
+> It is a filter.
+> It should make the right person lean in and the wrong one leave quickly.
+> Clarity is a kindness to both of you.
+> Save this and read your bio out loud.
+>
+> Save this and read your bio out loud.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D20-S11. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D20-S11.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D20-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-21 · Saturday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D20-S10 (slot 10) — Meet Easywurld: Message worksheet
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
+
+### Post body (paste this)
+
+> Three hours on meet Easywurld: Message worksheet today. Here is what I got wrong first.
+>
+> I help a specific customer.
+> Get a useful result.
+> With what I actually sell.
+> Check the bio and the latest post.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D20-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-21 · Saturday · 12:45 WAT · Poll**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D20-S02 (slot 2) — Myth Court: Short copy always wins.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Vote, then tell me why in one line.
+- **AI label:** Not required
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> Not a hot take. Just a pattern I cannot unsee.
+>
+> Myth I keep hearing: "Short copy always wins."
+>
+> My verdict after running it: it depends.
+>
+> A short hook can earn attention, but a complex offer may need explanation. Brevity is not the same as clarity.
+>
+> What I would actually do: keep the hook short and give the offer enough detail to decide
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Poll
+
+- **Question:** What is inside your cheapest offer?
+- Option: I could list it
+- Option: Roughly…”
+- **Answer to give in the comments:** If you cannot list it, the price will always feel like too much.
+
+### Notes
+
+Native poll. 2 options. The lesson stays in the post body, not the poll.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish as a text post with the two options written as a question.
+
+---
+
+## EW-LI-D20-AB3 · Evening take — an opinion and a question back
+
+**2026-11-21 · Saturday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D20-S09 (slot 9) — CLEAR Spotlight B: Does it guarantee reach?
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the question customers ask you that you dread answering?
+- **AI label:** Not required
+- **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Guard:** Answer honestly, including “no, it does not do that”.
+
+### Post body (paste this)
+
+> A question I asked five business owners this week.
+>
+> Does it guarantee reach? No. Platform features change, and no plan can guarantee reach, followers or sales.
+>
+> This is why The Clear Homepage Blueprint exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What is the question customers ask you that you dread answering?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=CLEAR — I answer these myself. Message CLEAR on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -21625,6 +30147,29 @@ Create a five-slide Easywurld carousel for a auto mechanic business in Lagos. Us
 
 > Marketing myth: Testimonials are enough proof Verdict: It depends. Testimonials help when they are real, specific and permitted. They do not replace clear scope, samples or transparent process. Test it: Pair one permitted testimonial with a labelled sample and scope. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> You have heard this one before. "Testimonials are enough proof." [pause] My verdict? It depends. Testimonials help when they are real, specific and permitted. They do not replace clear scope, samples or transparent process. [pause] Here is a small test you can run this week. Pair one permitted testimonial with a labelled sample and scope. Oya. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. You have heard this one before
+2. Testimonials are enough proof my verdict? It depends
+3. Testimonials help when they are real
+4. specific and permitted
+5. They do not replace clear scope
+6. samples or transparent process
+7. Here is a small test you can run this week
+8. Pair one permitted testimonial with a labelled sample and scope
+9. Oya
+10. Keep the useful part
+11. Drop the absolute
+12. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -21710,6 +30255,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Ghosts. Drizzle Digital Vol. 39 reported it on 14 October 2026: a spooky-season format showing what a brand is ready for. The business adaptation: Use only if seasonally relevant and owned/licensed. Adapt to 'ghosted enquiries' with a follow-up lesson. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Ghosts. [pause] Drizzle Digital Volume 39 reported it on 14 October 2026: a spooky-season format showing what a brand is ready for. Here is how a normal Nigerian business uses it. Use only if seasonally relevant and owned/licensed. Adapt to 'ghosted messages' with a follow-up lesson. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Take it one step at a time. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Ghosts
+3. Drizzle Digital Volume 39 reported it on 14
+4. October 2026: a spooky-season format showing what a
+5. brand is ready for
+6. Here is how a normal Nigerian business uses it
+7. Use only if seasonally relevant and owned/licensed
+8. Adapt to 'ghosted messages' with a follow-up lesson
+9. One thing before you copy it
+10. Check that it is still happening
+11. and check the audio rights
+12. This is a dated teardown
+13. not a live trend claim
+14. Take it one step at a time
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -22201,6 +30773,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 > Do you write the posts? No. You write or design the content using the templates. The hooks are starting points, not finished posts. The 30-Day Content Engine is a ₦5,000 DIY pack. It includes 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. It is not custom work and it does not guarantee results. Message ENGINE on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Somebody will ask you this. "Do you write the posts?" [pause] No. You write or design the content using the templates. The hooks are starting points, not finished posts. Let me be clear about what this is. The 30-Day Content Engine is a five thousand naira DIY pack. Inside, you get 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. [pause] It is not custom work, and it does not promise you sales. Message ENGINE on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Somebody will ask you this
+2. Do you write the posts? No
+3. You write or design the content using the templates
+4. The hooks are starting points, not finished posts
+5. Let me be clear about what this is
+6. The 30-Day Content Engine is a five thousand
+7. naira DIY pack
+8. Inside, you get 30-Day Content Engine Guide
+9. 60-Idea Post Bank, 30-Day Content Calendar
+10. Hooks and Caption Swipe File
+11. It is not custom work
+12. and it does not promise you sales
+13. Message ENGINE on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -22366,6 +30963,22 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 > The first reply wins more work than the best portfolio. Not because speed is clever. Because attention moves on in minutes. Answer fast. Answer plainly. Answer once. Save this for your WhatsApp settings.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> The first reply wins more work than the best portfolio. [pause] Not because speed is clever. Because attention moves on in minutes. [pause] Answer fast. Answer plainly. Answer once. No wahala. Save this for your WhatsApp settings.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. The first reply wins more work than the best portfolio
+2. Not because speed is clever
+3. Because attention moves on in minutes answer fast answer plainly
+4. Answer once no wahala
+5. Save this for your WhatsApp settings
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -22522,6 +31135,338 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
+## EW-LI-D21-CO1 · Document post — the day's lesson as a PDF
+
+**2026-11-22 · Sunday · 07:30 WAT · Document post (PDF)**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D21-S01 (slot 1) — If I ran a auto mechanic account in Lagos
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D21-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> The principle is old. The example is ours. Joanna Wiebe: one conversion goal.
+>
+> Three posts I would test this week for a auto mechanic business:
+>
+> 1. a diagnostic question before quoting
+> 2. a maintenance interval from the vehicle manual
+> 3. a repair approval process explained
+>
+> The mistake to avoid: posting only engine bays.
+>
+> First action: Show the diagnostic question.
+>
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — If I ran a auto mechanic account in Lagos
+
+> Three posts I would test this week
+>
+> Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A diagnostic question before quoting
+>
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A maintenance interval from the vehicle manual
+>
+> Gives a customer something worth saving.
+
+**Page 4** — Post 3
+
+> A repair approval process explained
+>
+> Answers the question they were going to ask anyway.
+
+**Page 5** — Avoid
+
+> One mistake: posting only engine bays
+>
+> First action: Show the diagnostic question.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D21-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D21-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-22 · Sunday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D21-S02 (slot 2) — Myth Court: Testimonials are enough proof.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Absolute advice is expensive. Take this one: "Testimonials are enough proof."
+>
+> Verdict: It depends.
+>
+> Testimonials help when they are real, specific and permitted. They do not replace clear scope, samples or transparent process.
+>
+> How we would test it:
+> Pair one permitted testimonial with a labelled sample and scope
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D21-CO3 · Image post — one rendered card from the day
+
+**2026-11-22 · Sunday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D21-S10 (slot 10) — Meet Easywurld: Launch checklist
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/static/EW-D21-S10.jpg`
+- **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
+
+### Post body (paste this)
+
+> This is the part nobody posts about.
+>
+> Test the links.
+> Test the forms.
+> Test the contact route.
+> Check the mobile view.
+> Then launch.
+>
+> If your message, your website and your follow-up disagree, the customer feels it before they can name it.
+>
+> Which of the four is weakest in your business right now?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/static/EW-D21-S10.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D21-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-22 · Sunday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D21-S02 (slot 2) — Myth Court: Testimonials are enough proof.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the test and run it on your own account
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D21-S02.mp4 (or the poster assets/fallbacks/EW-D21-S02.jpg)`
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Watch this before you answer your next "how much?"
+>
+> Myth: Testimonials are enough proof.
+> Verdict: It depends.
+>
+> Testimonials help when they are real, specific and permitted. They do not replace clear scope, samples or transparent process
+>
+> The test: Pair one permitted testimonial with a labelled sample and scope
+>
+> Keep the useful part. Drop the absolute.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D21-S02. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D21-S02.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D21-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-22 · Sunday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D21-S04 (slot 4) — AI Build: Summarise a report
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
+
+### Post body (paste this)
+
+> I keep a rule for this studio: nothing goes out that a person has not checked.
+>
+> What I am testing in the studio this week: summarise a report.
+>
+> → Input: a labelled sample report
+> → The draft: a one-page summary with decisions needed
+> → I check: numbers and invented results
+> → Only then: a reviewed summary
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D21-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-22 · Sunday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D21-S11 (slot 11) — One Last Thought: Reply speed
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> The businesses that survive this year are not the loudest.
+>
+> The first reply wins more work than the best portfolio.
+>
+> Not because speed is clever. Because attention moves on in minutes.
+>
+> Answer fast. Answer plainly. Answer once.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D21-AB3 · Evening take — an opinion and a question back
+
+**2026-11-22 · Sunday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D21-S07 (slot 7) — Steal This Copy Move: Joanna Wiebe — One conversion goal
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Evening thought. The hooks file is for adaptation, not copying.
+>
+> The move: one conversion goal.
+>
+> A page or post should move one audience toward one meaningful action.
+>
+> My own version, written for a Lagos customer:
+> 'Message PLAYBOOK to confirm order details.' Not 'like, save, share, follow and buy.'
+>
+> I am borrowing the structure from Joanna Wiebe, not the words. Credit where it is due: Copyhackers.
+>
+> Oya — pick one headline on your page and rewrite it tonight. That is the whole homework.
+>
+> Paste your before and after in the comments if you want a second pair of eyes.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
 # Day 22 · 2026-11-23 · Monday · Offer: PAGE
 
 ## EW-D22-S01 · If I ran a interior designer account in Lagos
@@ -22629,6 +31574,30 @@ Create a five-slide Easywurld carousel for a interior designer business in Lagos
 
 > Marketing myth: Hide the price until DM Verdict: It depends. For simple DIY packs, a clear price can reduce friction. Custom projects may need a range or scoped quote. Hiding everything can waste time. Test it: Publish the pack price and explain what custom work requires. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Marketing myth. People will tell you, "Hide the price until DM." [pause] My verdict? It depends. For simple DIY packs, a clear price can reduce friction. Custom projects may need a range or scoped quote. Hiding everything can waste time. [pause] Here is a small test you can run this week. Publish the pack price and explain what custom work requires. Take it one step at a time. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Marketing myth
+2. People will tell you
+3. "Hide the price until DM my verdict? It depends
+4. For simple DIY packs
+5. a clear price can reduce friction
+6. Custom projects may need a range or scoped quote
+7. Hiding everything can waste time
+8. Here is a small test you can run this week
+9. Publish the pack price and explain what custom work requires
+10. Take it one step at a time
+11. Keep the useful part
+12. Drop the absolute
+13. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -22714,6 +31683,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Four Walls. Drizzle Digital Vol. 38 reported it on 28 September 2026: a format built around four walls or four panels. The business adaptation: Use four panels for message, page, content and follow-up. Keep the structure, skip the sound if rights are unclear. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Four Walls. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a format built around four walls or four panels. Here is how a normal Nigerian business uses it. Use four panels for message, page, content and follow-up. Keep the structure, skip the sound if rights are unclear. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Four Walls
+3. Drizzle Digital Volume 38 reported it on 28
+4. September 2026: a format built around four walls
+5. or four panels
+6. Here is how a normal Nigerian business uses it
+7. Use four panels for message
+8. page, content and follow-up
+9. Keep the structure, skip the sound if rights are unclear
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -23205,6 +32201,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 > Is custom design included? No. The HTML template is a simple starter page, not a custom-designed website. The One-Offer Landing Page Kit is a ₦5,000 DIY pack. It includes One-Offer Landing Page Guide, Landing Page Copy Template with Worked Example, Editable Landing Page Starter (HTML), Pre-Launch Checklist. It is not custom work and it does not guarantee results. Message PAGE on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> The question I get most about this pack. "Is custom design included?" [pause] No. The HTML template is a simple starter page, not a custom-designed website. Let me be clear about what this is. The One-Offer Landing Page Kit is a five thousand naira DIY pack. Inside, you get One-Offer Landing Page Guide, Landing Page Copy Template with Worked Example, Editable Landing Page Starter (HTML), Pre-Launch Checklist. [pause] It is not custom work, and it does not promise you sales. Message PAGE on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. The question I get most about this pack
+2. Is custom design included? No
+3. The HTML template is a simple starter page
+4. not a custom-designed website
+5. Let me be clear about what this is
+6. The One-Offer Landing Page Kit is a five
+7. thousand naira DIY pack
+8. Inside, you get One-Offer Landing Page Guide
+9. Landing Page Copy Template with Worked Example
+10. Editable Landing Page Starter (HTML) pre-Launch Checklist
+11. It is not custom work
+12. and it does not promise you sales
+13. Message PAGE on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -23370,6 +32391,23 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 > If you cannot say what is inside, the price will always feel like too much. Contents remove doubt. Doubt is what people are actually refusing to pay for. Sell the contents, then the price. Save this before your next quote.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> If you cannot say what is inside, the price will always feel like too much. [pause] Contents remove doubt. Doubt is what people are actually refusing to pay for. [pause] Sell the contents, then the price. Oya. Save this before your next quote.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. If you cannot say what is inside
+2. the price will always feel like too much
+3. Contents remove doubt
+4. Doubt is what people are actually refusing to pay for
+5. Sell the contents, then the price oya
+6. Save this before your next quote
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -23526,41 +32564,359 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W4-CAROUSEL · Carousel write-up (document post)
+## EW-LI-D22-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-23 · Monday · 09:00 WAT · Document post (carousel write-up)**
+**2026-11-23 · Monday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D22-S01 — If I ran a interior designer account in Lagos
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D22-S07 (slot 7) — Steal This Copy Move: Harry Dry — Make it visual
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D22-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> If I ran a interior designer account in Lagos, this is what I would post this week.
+> If your page has gone quiet, it is rarely a lack of talent. It is a lack of a repeatable post.
 >
-> If I were running this account, I would test three posts this week:
+> The move: Make it visual.
 >
-> 1. a moodboard-to-room process
-> 2. a budget trade-off with fictional numbers
-> 3. a measurement checklist before buying
+> Concrete language lets the reader picture the outcome.
 >
-> The mistake to avoid: posting only finished rooms.
+> What that looks like on a Nigerian page:
 >
-> First action: Show one measurement checklist.
+> Before: 'Improved efficiency.'
+> After:  'A reply draft ready for your approval before the customer waits another day.'
 >
-> Planning example, not a claim that we manage this account.
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
 >
-> Which one would you test first?
+> Source: Marketing Examples. Attributed, not quoted at length.
 >
-> (Full carousel on the feed. The document version is the same five slides as a PDF.)
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Upload the five-slide carousel as a PDF document post. Slide 1 is the cover image LinkedIn shows on mobile.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Document pages (rendered to PDF)
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+**Page 1** — Steal this copy move
+
+> Harry Dry: Make it visual
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> Concrete language lets the reader picture the outcome
+>
+> Source: Marketing Examples.
+
+**Page 3** — Before
+
+> 'Improved efficiency.' 
+>
+> Vague, category-level, forgettable.
+
+**Page 4** — After
+
+>  'A reply draft ready for your approval before the customer waits another day.'
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D22-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D22-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-23 · Monday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D22-S02 (slot 2) — Myth Court: Hide the price until DM.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Marketing myth: Hide the price until DM.
+>
+> Verdict: It depends.
+>
+> For simple DIY packs, a clear price can reduce friction. Custom projects may need a range or scoped quote. Hiding everything can waste time.
+>
+> How we would test it:
+> Publish the pack price and explain what custom work requires
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D22-CO3 · Image post — one rendered card from the day
+
+**2026-11-23 · Monday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D22-S05 (slot 5) — The content calendar is full. The offer is unclear.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D22-S05.jpg`
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> One picture, one lesson. Read the second line twice.
+>
+> The content calendar is full. The offer is unclear.
+> A schedule cannot fix a sentence.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D22-S05.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D22-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-23 · Monday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D22-S03 (slot 3) — Trend Desk: Four Walls
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the trend filter before your next post
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D22-S03.mp4 (or the poster assets/fallbacks/EW-D22-S03.jpg)`
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Short version of a long lesson.
+>
+> Use four panels for message, page, content and follow-up. Keep the structure, skip the sound if rights are unclear.
+>
+> Dated teardown, not a live trend claim. Verify a current example and the audio rights before you post it.
+>
+> Save the filter, not the hype.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D22-S03. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D22-S03.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D22-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-23 · Monday · 08:15 WAT · Document post (PDF)**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D22-S10 (slot 10) — Meet Easywurld: Tool stack card
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D22-AB1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> Building a small studio in Lagos means the boring decisions matter most.
+>
+> Design: templates and real assets.
+> Video: approved avatar or real recording.
+> Editing: CapCut-style workflow.
+> Planning: one canonical calendar.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Document pages (rendered to PDF)
+
+**Page 1** — Build log · Easywurld
+
+> Tool stack card
+>
+> What I am making this week, and the decision behind it.
+
+**Page 2** — The decision
+
+> Make the pieces agree
+>
+> Message, website, content and follow-up, saying the same thing.
+
+**Page 3** — The boundary
+
+> A person checks it before it goes out
+>
+> No invented clients. No numbers I cannot defend.
+
+**Page 4** — Why it matters
+
+> The check is the product
+>
+> Convenience is easy to copy. Judgment is not.
+
+**Page 5** — Your turn
+
+> Where do you keep a human in the loop?
+>
+> One line is enough. I read them.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D22-AB1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D22-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-23 · Monday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D22-S02 (slot 2) — Myth Court: Hide the price until DM.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Which piece of advice has cost your business the most time?
+- **AI label:** Not required
+- **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
+
+### Post body (paste this)
+
+> Something I keep seeing in Nigerian small businesses: undefined.
+>
+> Myth I keep hearing: "Hide the price until DM."
+>
+> My verdict after running it: it depends.
+>
+> For simple DIY packs, a clear price can reduce friction. Custom projects may need a range or scoped quote. Hiding everything can waste time.
+>
+> What I would actually do: publish the pack price and explain what custom work requires
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D22-AB3 · Evening take — an opinion and a question back
+
+**2026-11-23 · Monday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D22-S06 (slot 6) — PAGE Spotlight A: The pre-launch checklist tests the journey.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What does your price reply say after the number?
+- **AI label:** Not required
+- **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
+
+### Post body (paste this)
+
+> Somebody will disagree with this, and that is fine.
+>
+> The pre-launch checklist tests the journey.
+>
+> This is why The One-Offer Landing Page Kit exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What does your price reply say after the number?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=PAGE — I answer these myself. Message PAGE on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -23671,6 +33027,26 @@ Create a five-slide Easywurld carousel for a pet groomer business in Lagos. Use 
 
 > Marketing myth: Automation can replace customer replies Verdict: False. Automation can draft, route and remind. Sensitive answers, prices, promises and complaints need human review. Test it: Keep a human approval step for every customer-facing message. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let us put one piece of advice on trial. "Automation can replace customer replies." [pause] My verdict? False. Automation can draft, route and remind. Sensitive answers, prices, promises and complaints need human review. [pause] Here is a small test you can run this week. Keep a human approval step for every customer-facing message. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let us put one piece of advice on trial
+2. Automation can replace customer replies my verdict? False
+3. Automation can draft, route and remind
+4. Sensitive answers, prices, promises and complaints need human review
+5. Here is a small test you can run this week
+6. Keep a human approval step for every customer-facing message
+7. Keep the useful part
+8. Drop the absolute
+9. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -23756,6 +33132,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Brand Vibe. Drizzle Digital Vol. 40 reported it on 26 October 2026: a product front and center with four still shots that express the brand vibe. The business adaptation: Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Brand Vibe. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a product front and center with four still shots that express the brand vibe. Here is how a normal Nigerian business uses it. Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Brand Vibe
+3. Drizzle Digital Volume 40 reported it on 26
+4. October 2026: a product front and center with
+5. four still shots that express the brand vibe
+6. Here is how a normal Nigerian business uses it
+7. Use one real product or service outcome with
+8. four owned images that show the customer's world
+9. Do not invent a lifestyle
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -24247,6 +33650,32 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 > Can you guarantee reviews? No. Ask honestly and make it easy. Do not invent reviews or pressure customers. The Lagos Local Visibility Starter is a ₦5,000 DIY pack. It includes Local Visibility Guide, Keyword and Page Title Worksheet, Google Business Profile Checklist and Review Scripts, 30-Day Local Visibility Tracker. It is not custom work and it does not guarantee results. Message LOCAL on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Before you buy, you will ask this. "Can you guarantee reviews?" [pause] No. Ask honestly and make it easy. Do not invent reviews or pressure customers. Let me be clear about what this is. The Lagos Local Visibility Starter is a five thousand naira DIY pack. Inside, you get Local Visibility Guide, Keyword and Page Title Worksheet, Google Business Profile Checklist and Review Scripts, 30-Day Local Visibility Tracker. [pause] It is not custom work, and it does not promise you sales. Message LOCAL on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Before you buy, you will ask this
+2. Can you guarantee reviews? No
+3. Ask honestly and make it easy
+4. Do not invent reviews or pressure customers
+5. Let me be clear about what this is
+6. The Lagos Local Visibility Starter is a five
+7. thousand naira DIY pack
+8. Inside, you get Local Visibility Guide
+9. Keyword and Page Title Worksheet
+10. Google Business Profile Checklist and Review Scripts
+11. 30-Day Local Visibility Tracker
+12. It is not custom work
+13. and it does not promise you sales
+14. Message LOCAL on WhatsApp and I will confirm
+15. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -24334,6 +33763,24 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 ### Exact spoken script
 
 > This is the active content system. Ten series slots a day. Three platform adaptations. One offer a day. Draft until approved. It is a plan for human review, not an auto-publisher.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> This is the active content system. Ten series slots a day. Three platform adaptations. One offer a day. Draft until approved. It is a plan for human review, not an auto-publisher.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. This is the active content system
+2. Ten series slots a day
+3. Three platform adaptations
+4. One offer a day
+5. Draft until approved
+6. It is a plan for human review
+7. not an auto-publisher
 
 ### Edit / shot order
 
@@ -24423,6 +33870,23 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 ### Exact spoken script
 
 > Sunday night is the cheapest hour of your marketing week. One hour of decisions saves six hours of improvising. Plan the week. Then protect it. Save this for tonight.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Sunday night is the cheapest hour of your marketing week. [pause] One hour of decisions saves six hours of improvising. [pause] Plan the week. Then protect it. Take it one step at a time. Save this for tonight.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Sunday night is the cheapest hour of your marketing week
+2. One hour of decisions saves six hours of improvising
+3. Plan the week
+4. Then protect it
+5. Take it one step at a time
+6. Save this for tonight
 
 ### Edit / shot order
 
@@ -24580,35 +34044,328 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W4-TEACH · Siphoned teach post
+## EW-LI-D23-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-24 · Tuesday · 09:00 WAT · Text post**
+**2026-11-24 · Tuesday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D23-S07 — Steal This Copy Move: Harry Dry — Make it falsifiable
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D23-S01 (slot 1) — If I ran a pet groomer account in Lagos
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D23-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> Steal this copy move from Harry Dry: Make it falsifiable.
+> A pet groomer account in Lagos does not need more ideas. It needs three it can actually shoot this week.
 >
-> The principle: A claim should be checkable, not an unfalsifiable compliment.
+> Three posts I would test this week for a pet groomer business:
 >
-> An original example, not theirs:
+> 1. a coat-type guide
+> 2. a calm handling clip
+> 3. a booking policy for anxious pets
 >
-> Before: 'Customers love us.' After: 'The pack includes 36 scripts and a follow-up tracker.'
+> The mistake to avoid: posting only cute cuts.
 >
-> Do not steal the words. Steal the structure. Attribute the principle and write your own example.
+> First action: Explain one coat-type need.
 >
-> Source: Marketing Examples.
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Document pages (rendered to PDF)
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+**Page 1** — If I ran a pet groomer account in Lagos
+
+> Three posts I would test this week
+>
+> Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A coat-type guide
+>
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A calm handling clip
+>
+> Gives a customer something worth saving.
+
+**Page 4** — Post 3
+
+> A booking policy for anxious pets
+>
+> Answers the question they were going to ask anyway.
+
+**Page 5** — Avoid
+
+> One mistake: posting only cute cuts
+>
+> First action: Explain one coat-type need.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D23-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D23-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-24 · Tuesday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D23-S02 (slot 2) — Myth Court: Automation can replace customer replies.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Someone will tell you this week: "Automation can replace customer replies." Here is the verdict.
+>
+> Verdict: False.
+>
+> Automation can draft, route and remind. Sensitive answers, prices, promises and complaints need human review.
+>
+> How we would test it:
+> Keep a human approval step for every customer-facing message
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D23-CO3 · Image post — one rendered card from the day
+
+**2026-11-24 · Tuesday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D23-S08 (slot 8) — The AI summary missed the one decision needed.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D23-S08.jpg`
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> You have felt this week. That is why it is here.
+>
+> The AI summary missed the one decision needed.
+> Ask for decisions, not just summaries.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D23-S08.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D23-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-24 · Tuesday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D23-S03 (slot 3) — Trend Desk: Brand Vibe
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the trend filter before your next post
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D23-S03.mp4 (or the poster assets/fallbacks/EW-D23-S03.jpg)`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> Forty seconds. One workflow you can copy today.
+>
+> Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle.
+>
+> Dated teardown, not a live trend claim. Verify a current example and the audio rights before you post it.
+>
+> Save the filter, not the hype.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D23-S03. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D23-S03.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D23-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-24 · Tuesday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D23-S04 (slot 4) — AI Build: Create an onboarding checklist
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Today I chose the slower option. Let me explain why.
+>
+> What I am testing in the studio this week: create an onboarding checklist.
+>
+> → Input: the service scope
+> → The draft: steps for access, content and approvals
+> → I check: private credentials in prompts
+> → Only then: a secure checklist
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D23-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-24 · Tuesday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D23-S11 (slot 11) — One Last Thought: Weekly planning
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
+
+### Post body (paste this)
+
+> I have read enough "how much?" chats to know one thing.
+>
+> Sunday night is the cheapest hour of your marketing week.
+>
+> One hour of decisions saves six hours of improvising.
+>
+> Plan the week. Then protect it.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D23-AB3 · Evening take — an opinion and a question back
+
+**2026-11-24 · Tuesday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D23-S09 (slot 9) — LOCAL Spotlight B: Can you guarantee reviews?
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the question customers ask you that you dread answering?
+- **AI label:** Not required
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> I changed my mind about this last month.
+>
+> Can you guarantee reviews? No. Ask honestly and make it easy. Do not invent reviews or pressure customers.
+>
+> This is why The Lagos Local Visibility Starter exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What is the question customers ask you that you dread answering?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=LOCAL — I answer these myself. Message LOCAL on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -24719,6 +34476,27 @@ Create a five-slide Easywurld carousel for a juice bar business in Lagos. Use th
 
 > Marketing myth: A chatbot knows your business automatically Verdict: False. A chatbot needs a maintained knowledge sheet, boundaries and escalation. Without them it can invent answers. Test it: Write the knowledge sheet and test ten common questions. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> You have heard this one before. "A chatbot knows your business automatically." [pause] My verdict? False. A chatbot needs a maintained knowledge sheet, boundaries and escalation. Without them it can invent answers. [pause] Here is a small test you can run this week. Write the knowledge sheet and test ten common questions. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. You have heard this one before
+2. A chatbot knows your business automatically my verdict? False
+3. A chatbot needs a maintained knowledge sheet
+4. boundaries and escalation
+5. Without them it can invent answers
+6. Here is a small test you can run this week
+7. Write the knowledge sheet and test ten common questions
+8. Keep the useful part
+9. Drop the absolute
+10. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -24804,6 +34582,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Pick Your Emoji. Drizzle Digital Vol. 40 reported it on 26 October 2026: a video carousel that starts with four emoji paths and ends with one CTA. The business adaptation: Adapt it to four customer problems, not four random products. End with one useful next step. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Pick Your Emoji. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a video carousel that starts with four emoji paths and ends with one CTA. Here is how a normal Nigerian business uses it. Adapt it to four customer problems, not four random products. End with one useful next step. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. No wahala. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Pick Your Emoji
+3. Drizzle Digital Volume 40 reported it on 26
+4. October 2026: a video carousel that starts with
+5. four emoji paths and ends with one CTA
+6. Here is how a normal Nigerian business uses it
+7. Adapt it to four customer problems
+8. not four random products
+9. End with one useful next step
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim no wahala
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -25295,6 +35100,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 > Is the example a client? No. The worked example is fictional, for illustration. Use your own customer input. The Clear Message Workbook is a ₦5,000 DIY pack. It includes Clear Message Workbook, Customer Interview Kit, Message Bank, One-Page Marketing Plan. It is not custom work and it does not guarantee results. Message MESSAGE on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Somebody will ask you this. "Is the example a client?" [pause] No. The worked example is fictional, for illustration. Use your own customer input. Let me be clear about what this is. The Clear Message Workbook is a five thousand naira DIY pack. Inside, you get Clear Message Workbook, Customer Interview Kit, Message Bank, One-Page Marketing Plan. [pause] It is not custom work, and it does not promise you sales. Message MESSAGE on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Somebody will ask you this
+2. Is the example a client? No
+3. The worked example is fictional, for illustration
+4. Use your own customer input
+5. Let me be clear about what this is
+6. The Clear Message Workbook is a five thousand
+7. naira DIY pack
+8. Inside, you get Clear Message Workbook
+9. Customer Interview Kit, Message Bank
+10. One-Page Marketing Plan
+11. It is not custom work
+12. and it does not promise you sales
+13. Message MESSAGE on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -25382,6 +35212,23 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 ### Exact spoken script
 
 > A labelled before page. A clearer opening. One audience. One next step. Concept sample, no conversion claim. Open the sample and judge the thinking for yourself. Compare structure, not imagined conversion numbers.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> A labelled before page. A clearer opening. One audience. One next step. Concept sample, no turning chats into sales claim. Open the sample and judge the thinking for yourself. Compare structure, not imagined turning chats into sales numbers.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. A labelled before page
+2. A clearer opening one audience
+3. One next step
+4. Concept sample, no turning chats into sales claim
+5. Open the sample and judge the thinking for yourself
+6. Compare structure, not imagined turning chats into sales numbers
 
 ### Edit / shot order
 
@@ -25471,6 +35318,22 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 ### Exact spoken script
 
 > A number you do not act on is decoration. Pick one: saves, replies or enquiries. Then change one thing and look again. Measure what you will actually change. Save this before you open the dashboard.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> A number you do not act on is decoration. [pause] Pick one: saves, replies or messages. Then change one thing and look again. [pause] Measure what you will actually change. Save this before you open the dashboard.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. A number you do not act on is decoration
+2. Pick one: saves, replies or messages
+3. Then change one thing and look again
+4. Measure what you will actually change
+5. Save this before you open the dashboard
 
 ### Edit / shot order
 
@@ -25628,35 +35491,331 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W4-SHOW · Siphoned show / demo post
+## EW-LI-D24-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-25 · Wednesday · 09:00 WAT · Text post**
+**2026-11-25 · Wednesday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D24-S04 — AI Build: Draft SEO titles
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D24-S07 (slot 7) — Steal This Copy Move: Harry Dry — Make it unique
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D24-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> One AI workflow to test: draft seo titles.
+> Harry Dry said it first: make it unique. Here is what that looks like on a Nigerian small-business page.
 >
-> The workflow, in the order it has to happen:
+> The move: Make it unique.
 >
-> → Input: a page brief and verified keywords.
-> → AI draft: title options with intent notes.
-> → Human check: keyword stuffing and ranking promises.
+> If every competitor can say it, find the specific difference.
 >
-> The boundary: Output: a reviewed title. Nothing is sent automatically. Save the workflow and test it with anonymised input.
+> What that looks like on a Nigerian page:
 >
-> If the draft cannot be checked by a person who knows the price, it is not ready to send.
+> Before: 'We build websites.'
+> After:  'We make the message, page, content and follow-up agree.'
+>
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
+>
+> Source: Marketing Examples. Attributed, not quoted at length.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Document pages (rendered to PDF)
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+**Page 1** — Steal this copy move
+
+> Harry Dry: Make it unique
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> If every competitor can say it, find the specific difference
+>
+> Source: Marketing Examples.
+
+**Page 3** — Before
+
+> 'We build websites.' 
+>
+> Vague, category-level, forgettable.
+
+**Page 4** — After
+
+>  'We make the message, page, content and follow-up agree.'
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D24-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D24-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-25 · Wednesday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D24-S02 (slot 2) — Myth Court: A chatbot knows your business automatically.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> A chatbot knows your business automatically. We put it on trial.
+>
+> Verdict: False.
+>
+> A chatbot needs a maintained knowledge sheet, boundaries and escalation. Without them it can invent answers.
+>
+> How we would test it:
+> Write the knowledge sheet and test ten common questions
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D24-CO3 · Image post — one rendered card from the day
+
+**2026-11-25 · Wednesday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D24-S10 (slot 10) — Meet Easywurld: Homepage rewrite tour
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/carousels/EW-D24-S10_slide-1.jpg`
+- **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
+
+### Post body (paste this)
+
+> Small-business life, photographed honestly.
+>
+> A labelled before page.
+> A clearer opening.
+> One audience.
+> One next step.
+> Concept sample, no conversion claim.
+> Open the sample and judge the thinking for yourself. Compare structure, not imagined conversion numbers.
+>
+> If your message, your website and your follow-up disagree, the customer feels it before they can name it.
+>
+> Which of the four is weakest in your business right now?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/carousels/EW-D24-S10_slide-1.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D24-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-25 · Wednesday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D24-S09 (slot 9) — MESSAGE Spotlight B: Is the example a client?
+- **Status:** Draft — not scheduled
+- **Single CTA:** Message MESSAGE to confirm order details
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D24-S09.mp4 (or the poster assets/fallbacks/EW-D24-S09.jpg)`
+- **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
+
+### Post body (paste this)
+
+> Watch this before you answer your next "how much?"
+>
+> Is the example a client?
+> No. The worked example is fictional, for illustration. Use your own customer input.
+>
+> The Clear Message Workbook — ₦5,000 DIY pack. Not custom work, no results guaranteed.
+>
+> Message the keyword on WhatsApp to confirm current order details.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/offers/clear-message-workbook · or message MESSAGE on WhatsApp: https://wa.me/2349050690837?text=MESSAGE
+
+### Notes
+
+Upload the finished MP4 for EW-D24-S09. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D24-S09.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D24-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-25 · Wednesday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D24-S10 (slot 10) — Meet Easywurld: Homepage rewrite tour
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
+
+### Post body (paste this)
+
+> I am building Easywurld in public, and today's decision was meet Easywurld: Homepage rewrite tour.
+>
+> A labelled before page.
+> A clearer opening.
+> One audience.
+> One next step.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D24-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-25 · Wednesday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D24-S02 (slot 2) — Myth Court: A chatbot knows your business automatically.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Which piece of advice has cost your business the most time?
+- **AI label:** Not required
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> Not a hot take. Just a pattern I cannot unsee.
+>
+> Myth I keep hearing: "A chatbot knows your business automatically."
+>
+> My verdict after running it: false.
+>
+> A chatbot needs a maintained knowledge sheet, boundaries and escalation. Without them it can invent answers.
+>
+> What I would actually do: write the knowledge sheet and test ten common questions
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D24-AB3 · Evening take — an opinion and a question back
+
+**2026-11-25 · Wednesday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D24-S07 (slot 7) — Steal This Copy Move: Harry Dry — Make it unique
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Guard:** Answer honestly, including “no, it does not do that”.
+
+### Post body (paste this)
+
+> A question I asked five business owners this week.
+>
+> The move: make it unique.
+>
+> If every competitor can say it, find the specific difference.
+>
+> My own version, written for a Lagos customer:
+> Before: 'We build websites.' After: 'We make the message, page, content and follow-up agree.'
+>
+> I am borrowing the structure from Harry Dry, not the words. Credit where it is due: Marketing Examples.
+>
+> Oya — pick one headline on your page and rewrite it tonight. That is the whole homework.
+>
+> Paste your before and after in the comments if you want a second pair of eyes.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -25767,6 +35926,29 @@ Create a five-slide Easywurld carousel for a bookshop business in Lagos. Use the
 
 > Marketing myth: A content calendar guarantees sales Verdict: False. A calendar organises publishing. Sales still depend on offer, audience, trust and follow-up. Test it: Pair the calendar with one offer and one enquiry route. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Marketing myth. People will tell you, "A content calendar guarantees sales." [pause] My verdict? False. A calendar organises publishing. Sales still depend on offer, audience, trust and follow-up. [pause] Here is a small test you can run this week. Pair the calendar with one offer and one message route. No wahala. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Marketing myth
+2. People will tell you
+3. "A content calendar guarantees sales my verdict? False
+4. A calendar organises publishing
+5. Sales still depend on offer
+6. audience, trust and follow-up
+7. Here is a small test you can run this week
+8. Pair the calendar with one offer and one message route
+9. No wahala
+10. Keep the useful part
+11. Drop the absolute
+12. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -25852,6 +36034,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Gold Star Behavior. SocialBee / Drizzle Digital reported it on 21 October 2026: a list of small habits that deserve a gold star. The business adaptation: Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Gold Star Behavior. [pause] SocialBee / Drizzle Digital reported it on 21 October 2026: a list of small habits that deserve a gold star. Here is how a normal Nigerian business uses it. Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Oya. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Gold Star Behavior
+3. SocialBee / Drizzle Digital reported it on 21
+4. October 2026: a list of small habits that
+5. deserve a gold star
+6. Here is how a normal Nigerian business uses it
+7. Give stars to specific customer habits that reduce
+8. friction, such as sending measurements early
+9. Keep it kind
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim oya
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -26343,6 +36552,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 > Will every AI output be correct? No. AI tools make mistakes. Every output must be checked by a person before use. The Everyday AI Prompt Desk is a ₦5,000 DIY pack. It includes AI Prompting Guide for Small Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template, AI Output Review and Safety Checklist. It is not custom work and it does not guarantee results. Message PROMPTS on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> The question I get most about this pack. "Will every AI output be correct?" [pause] No. AI tools make mistakes. Every output must be checked by a person before use. Let me be clear about what this is. The Everyday AI Prompt Desk is a five thousand naira DIY pack. Inside, you get AI Prompting Guide for Small Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template, AI Output Review and Safety Checklist. [pause] It is not custom work, and it does not promise you sales. Message PROMPTS on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. The question I get most about this pack
+2. Will every AI output be correct? No
+3. AI tools make mistakes
+4. Every output must be checked by a person before use
+5. Let me be clear about what this is
+6. The Everyday AI Prompt Desk is a five
+7. thousand naira DIY pack
+8. Inside, you get AI Prompting Guide for Small
+9. Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template
+10. AI Output Review and Safety Checklist
+11. It is not custom work
+12. and it does not promise you sales
+13. Message PROMPTS on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -26508,6 +36742,24 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 > Custom work is not better than a product. It is a different promise. Products need boundaries. Projects need scope. Mixing the two is how both fail. Say which one you are selling. Save this before you take another “small job”.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Custom work is not better than a product. It is a different promise. [pause] Products need boundaries. Projects need scope. Mixing the two is how both fail. [pause] Say which one you are selling. Save this before you take another “small job”.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Custom work is not better than a product
+2. It is a different promise
+3. Products need boundaries
+4. Projects need scope
+5. Mixing the two is how both fail
+6. Say which one you are selling
+7. Save this before you take another “small job”
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -26664,36 +36916,331 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W4-TRUST · Siphoned trust post
+## EW-LI-D25-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-26 · Thursday · 09:00 WAT · Text post**
+**2026-11-26 · Thursday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D25-S08 — The customer wants more followers. The offer is unclear.
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D25-S01 (slot 1) — If I ran a bookshop account in Lagos
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D25-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> The customer wants more followers. The offer is unclear.
+> Five pages. One week of posting for a bookshop business. Steal the structure, not the words.
 >
-> Fix the route before the audience grows.
+> Three posts I would test this week for a bookshop business:
 >
-> The joke is the recognition. The caption is the fix.
+> 1. a staff pick with a one-sentence reason
+> 2. a reading-order guide for a series
+> 3. a customer question answered without spoilers
 >
-> Two things I would change in a small business this week:
+> The mistake to avoid: posting only covers.
 >
-> 1. Write the next step into the offer, not the caption.
+> First action: Record one staff pick.
+>
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — If I ran a bookshop account in Lagos
+
+> Three posts I would test this week
+>
+> Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A staff pick with a one-sentence reason
+>
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A reading-order guide for a series
+>
+> Gives a customer something worth saving.
+
+**Page 4** — Post 3
+
+> A customer question answered without spoilers
+>
+> Answers the question they were going to ask anyway.
+
+**Page 5** — Avoid
+
+> One mistake: posting only covers
+>
+> First action: Record one staff pick.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D25-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D25-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-26 · Thursday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D25-S02 (slot 2) — Myth Court: A content calendar guarantees sales.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Absolute advice is expensive. Take this one: "A content calendar guarantees sales."
+>
+> Verdict: False.
+>
+> A calendar organises publishing. Sales still depend on offer, audience, trust and follow-up.
+>
+> How we would test it:
+> Pair the calendar with one offer and one enquiry route
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D25-CO3 · Image post — one rendered card from the day
+
+**2026-11-26 · Thursday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D25-S05 (slot 5) — The sample looks real. The label is missing.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D25-S05.jpg`
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> This is the part nobody posts about.
+>
+> The sample looks real. The label is missing.
+> Label the sample before publishing.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
 > 2. Put the price, the contents and the boundary in the same message.
 >
-> That is the whole post. No thread, no funnel.
+> No thread. No funnel. Just the next step made obvious.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Notes
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+Attach assets/memes/EW-D25-S05.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D25-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-26 · Thursday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D25-S02 (slot 2) — Myth Court: A content calendar guarantees sales.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the test and run it on your own account
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D25-S02.mp4 (or the poster assets/fallbacks/EW-D25-S02.jpg)`
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Short version of a long lesson.
+>
+> Myth: A content calendar guarantees sales.
+> Verdict: False.
+>
+> A calendar organises publishing. Sales still depend on offer, audience, trust and follow-up
+>
+> The test: Pair the calendar with one offer and one enquiry route
+>
+> Keep the useful part. Drop the absolute.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D25-S02. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D25-S02.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D25-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-26 · Thursday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D25-S04 (slot 4) — AI Build: Draft alt text
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
+
+### Post body (paste this)
+
+> Three hours on aI Build: Draft alt text today. Here is what I got wrong first.
+>
+> What I am testing in the studio this week: draft alt text.
+>
+> → Input: an owned image
+> → The draft: a factual description of the image
+> → I check: decorative vs informative context
+> → Only then: a reviewed alt text
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D25-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-26 · Thursday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D25-S11 (slot 11) — One Last Thought: Custom work
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> The businesses that survive this year are not the loudest.
+>
+> Custom work is not better than a product. It is a different promise.
+>
+> Products need boundaries. Projects need scope. Mixing the two is how both fail.
+>
+> Say which one you are selling.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D25-AB3 · Evening take — an opinion and a question back
+
+**2026-11-26 · Thursday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D25-S06 (slot 6) — PROMPTS Spotlight A: The safety checklist keeps a human in charge.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What does your price reply say after the number?
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Evening thought. The safety checklist keeps a human in charge.
+>
+> The safety checklist keeps a human in charge.
+>
+> This is why The Everyday AI Prompt Desk exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What does your price reply say after the number?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=PROMPTS — I answer these myself. Message PROMPTS on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -26804,6 +37351,28 @@ Create a five-slide Easywurld carousel for a solar installer business in Lagos. 
 
 > Marketing myth: Behind-the-scenes content always builds trust Verdict: It depends. Process content helps when it shows competence, care or honesty. Chaotic or private footage can do the opposite. Test it: Show one process step with a clear lesson and no private data. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let us put one piece of advice on trial. "Behind-the-scenes content always builds trust." [pause] My verdict? It depends. Process content helps when it shows competence, care or honesty. Chaotic or private footage can do the opposite. [pause] Here is a small test you can run this week. Show one process step with a clear lesson and no private data. Oya. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let us put one piece of advice on trial
+2. Behind-the-scenes content always builds trust my verdict? It depends
+3. Process content helps when it shows competence
+4. care or honesty
+5. Chaotic or private footage can do the opposite
+6. Here is a small test you can run this week
+7. Show one process step with a clear lesson
+8. and no private data oya
+9. Keep the useful part
+10. Drop the absolute
+11. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -26889,6 +37458,34 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Six-to-18-second proof Reel. Lightreel weekly report reported it on 24 October 2026: a short Reel that makes one claim and resolves it visually. The business adaptation: Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Six-to-18-second proof Reel. [pause] Lightreel weekly report reported it on 24 October 2026: a short Reel that makes one claim and resolves it visually. Here is how a normal Nigerian business uses it. Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Take it one step at a time. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Six-to-18-second proof Reel
+3. Lightreel weekly report reported it on 24 October
+4. 2026: a short Reel that makes one claim
+5. and resolves it visually
+6. Here is how a normal Nigerian business uses it
+7. Show one labelled sample transformation
+8. such as a homepage toggle
+9. Do not claim performance results
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim
+15. Take it one step at a time
+16. Save the filter
+17. Skip the hype
 
 ### Edit / shot order
 
@@ -27380,6 +37977,32 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 > Do I need special software? You need Word or a compatible editor, and Excel or Google Sheets for the workbook. The Proposal & Report Template Pack is a ₦5,000 DIY pack. It includes Proposals and Reports Guide, Proposal Template with Worked Example, Report and Summary Templates, Quote and Invoice Workbook. It is not custom work and it does not guarantee results. Message TEMPLATES on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Before you buy, you will ask this. "Do I need special software?" [pause] You need Word or a compatible editor, and Excel or Google Sheets for the workbook. Let me be clear about what this is. The Proposal & Report Template Pack is a five thousand naira DIY pack. Inside, you get Proposals and Reports Guide, Proposal Template with Worked Example, Report and Summary Templates, Quote and Invoice Workbook. [pause] It is not custom work, and it does not promise you sales. Message TEMPLATES on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Before you buy, you will ask this
+2. Do I need special software?
+3. You need Word or a compatible editor
+4. and Excel or Google Sheets for the workbook
+5. Let me be clear about what this is
+6. The Proposal & Report Template Pack is a
+7. five thousand naira DIY pack
+8. Inside, you get Proposals and Reports Guide
+9. Proposal Template with Worked Example
+10. Report and Summary Templates
+11. Quote and Invoice Workbook
+12. It is not custom work
+13. and it does not promise you sales
+14. Message TEMPLATES on WhatsApp and I will confirm
+15. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -27545,6 +38168,23 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 > Doing it yourself is not the cheap option. It is the version where you keep the learning. Buy the structure, bring the judgement, keep the receipts. DIY is a skill purchase, not a discount. Save this for your next DIY decision.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Doing it yourself is not the cheap option. It is the version where you keep the learning. [pause] Buy the structure, bring the judgement, keep the receipts. [pause] DIY is a skill buy, not a discount. No wahala. Save this for your next DIY decision.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Doing it yourself is not the cheap option
+2. It is the version where you keep the learning
+3. Buy the structure, bring the judgement
+4. keep the receipts
+5. DIY is a skill buy, not a discount no wahala
+6. Save this for your next DIY decision
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -27701,33 +38341,325 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W4-VIDEO · Repurposed vertical video
+## EW-LI-D26-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-27 · Friday · 09:00 WAT · Vertical video**
+**2026-11-27 · Friday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D26-S02 — Myth Court: Behind-the-scenes content always builds trust.
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D26-S07 (slot 7) — Steal This Copy Move: Ann Handley — Voice consistent, tone flexible
 - **Status:** Draft — not scheduled
-- **Single CTA:** Save the test and run it on your own account.
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D26-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> A myth worth testing: Behind-the-scenes content always builds trust
+> Most solar installer pages post the finished work and nothing else. That is the whole problem.
 >
-> It depends.
+> The move: Voice consistent, tone flexible.
+>
+> Keep the brand's character while adjusting tone to the context.
+>
+> What that looks like on a Nigerian page:
+>
+> A meme can be dry; a complaint reply should be calm. Both can sound like Easywurld.
+>
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
+>
+> Source: Everybody Writes. Attributed, not quoted at length.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — Steal this copy move
+
+> Ann Handley: Voice consistent, tone flexible
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> Keep the brand's character while adjusting tone to the context
+>
+> Source: Everybody Writes.
+
+**Page 3** — Before
+
+> A meme can be dry; a complaint reply should be calm. Both can sound like Easywurld.
+>
+> Vague, category-level, forgettable.
+
+**Page 4** — After
+
+>
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D26-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D26-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-27 · Friday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D26-S02 (slot 2) — Myth Court: Behind-the-scenes content always builds trust.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Marketing myth: Behind-the-scenes content always builds trust.
+>
+> Verdict: It depends.
 >
 > Process content helps when it shows competence, care or honesty. Chaotic or private footage can do the opposite.
 >
-> How I would test it: Show one process step with a clear lesson and no private data.
+> How we would test it:
+> Show one process step with a clear lesson and no private data
 >
 > Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Reuse the vertical cut from the same day. Re-frame to 4:5 or 1:1 with captions burned in; keep the AI label.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Notes
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D26-CO3 · Image post — one rendered card from the day
+
+**2026-11-27 · Friday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D26-S08 (slot 8) — The screen demo is unreadable.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D26-S08.jpg`
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> One picture, one lesson. Read the second line twice.
+>
+> The screen demo is unreadable.
+> Crop for the phone.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D26-S08.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D26-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-27 · Friday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D26-S03 (slot 3) — Trend Desk: Six-to-18-second proof Reel
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the trend filter before your next post
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D26-S03.mp4 (or the poster assets/fallbacks/EW-D26-S03.jpg)`
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Forty seconds. One workflow you can copy today.
+>
+> Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results.
+>
+> Dated teardown, not a live trend claim. Verify a current example and the audio rights before you post it.
+>
+> Save the filter, not the hype.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D26-S03. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D26-S03.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D26-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-27 · Friday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D26-S10 (slot 10) — Meet Easywurld: Who we serve
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> I keep a rule for this studio: nothing goes out that a person has not checked.
+>
+> The owner who answers the DMs.
+> The team that needs a clearer page.
+> The business that has outgrown scattered content.
+> The founder who wants a system, not noise.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D26-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-27 · Friday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D26-S02 (slot 2) — Myth Court: Behind-the-scenes content always builds trust.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Which piece of advice has cost your business the most time?
+- **AI label:** Not required
+- **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
+
+### Post body (paste this)
+
+> Something I keep seeing in Nigerian small businesses: undefined.
+>
+> Myth I keep hearing: "Behind-the-scenes content always builds trust."
+>
+> My verdict after running it: it depends.
+>
+> Process content helps when it shows competence, care or honesty. Chaotic or private footage can do the opposite.
+>
+> What I would actually do: show one process step with a clear lesson and no private data
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D26-AB3 · Evening take — an opinion and a question back
+
+**2026-11-27 · Friday · 19:45 WAT · Native video**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D26-S09 (slot 9) — TEMPLATES Spotlight B: Do I need special software?
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the question customers ask you that you dread answering?
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D26-S09.mp4 (or the poster assets/fallbacks/EW-D26-S09.jpg)`
+- **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
+
+### Post body (paste this)
+
+> Somebody will disagree with this, and that is fine.
+>
+> Do I need special software? You need Word or a compatible editor, and Excel or Google Sheets for the workbook.
+>
+> This is why The Proposal & Report Template Pack exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What is the question customers ask you that you dread answering?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=TEMPLATES — I answer these myself. Message TEMPLATES on WhatsApp.
+
+### Notes
+
+Upload the finished MP4 for EW-D26-S09. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D26-S09.jpg with the same caption as an image post.
 
 ---
 
@@ -27838,6 +38770,28 @@ Create a five-slide Easywurld carousel for a tailoring school business in Lagos.
 
 > Marketing myth: Educational content should never sell Verdict: False. Useful content can lead to a relevant next step. The problem is forcing an unrelated pitch, not selling itself. Test it: End one teaching post with a matching offer or question. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> You have heard this one before. "Educational content should never sell." [pause] My verdict? False. Useful content can lead to a relevant next step. The problem is forcing an unrelated pitch, not selling itself. [pause] Here is a small test you can run this week. End one teaching post with a matching offer or question. Take it one step at a time. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. You have heard this one before
+2. Educational content should never sell my verdict? False
+3. Useful content can lead to a relevant next step
+4. The problem is forcing an unrelated pitch
+5. not selling itself
+6. Here is a small test you can run this week
+7. End one teaching post with a matching offer or question
+8. Take it one step at a time
+9. Keep the useful part
+10. Drop the absolute
+11. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -27923,6 +38877,31 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Native-interface tutorial. Lightreel weekly report reported it on 24 October 2026: a screen-recording aesthetic that shows the actual interface. The business adaptation: Record the real demo at a readable crop. Keep concept/sample labels visible. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Native-interface tutorial. [pause] Lightreel weekly report reported it on 24 October 2026: a screen-recording aesthetic that shows the actual interface. Here is how a normal Nigerian business uses it. Record the real demo at a readable crop. Keep concept/sample labels visible. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Native-interface tutorial
+3. Lightreel weekly report reported it on 24 October
+4. 2026: a screen-recording aesthetic that shows the actual interface
+5. Here is how a normal Nigerian business uses it
+6. Record the real demo at a readable crop
+7. Keep concept/sample labels visible
+8. One thing before you copy it
+9. Check that it is still happening
+10. and check the audio rights
+11. This is a dated teardown
+12. not a live trend claim
+13. Save the filter
+14. Skip the hype
 
 ### Edit / shot order
 
@@ -28414,6 +39393,33 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 > Is this legal advice? No. It is not legal, tax or data-protection advice. Check obligations with a qualified professional. The Website Launch & Care Handbook is a ₦5,000 DIY pack. It includes Website Launch & Care Handbook, Website Planning Brief, Launch, Care and Accounts Workbook, Hiring a Web Designer: Questions and Red Flags. It is not custom work and it does not guarantee results. Message LAUNCH on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Somebody will ask you this. "Is this legal advice?" [pause] No. It is not legal, tax or data-protection advice. Check obligations with a qualified professional. Let me be clear about what this is. The Website Launch & Care Handbook is a five thousand naira DIY pack. Inside, you get Website Launch & Care Handbook, Website Planning Brief, Launch, Care and Accounts Workbook, Hiring a Web Designer: Questions and Red Flags. [pause] It is not custom work, and it does not promise you sales. Message LAUNCH on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Somebody will ask you this
+2. Is this legal advice? No
+3. It is not legal, tax or data-protection advice
+4. Check obligations with a qualified professional
+5. Let me be clear about what this is
+6. The Website Launch & Care Handbook is a
+7. five thousand naira DIY pack
+8. Inside, you get Website Launch & Care Handbook
+9. Website Planning Brief, Launch
+10. Care and Accounts Workbook
+11. Hiring a Web Designer:
+12. Questions and Red Flags
+13. It is not custom work
+14. and it does not promise you sales
+15. Message LAUNCH on WhatsApp and I will confirm
+16. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -28502,6 +39508,20 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 
 > Send the business link. Tell us the problem. Say what you have tried. We will point to the next step. One clear brief is enough.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Send the business link. [pause] Send the business link and the problem you want to fix.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Send the business link
+2. Send the business link and the problem you
+3. want to fix
+
 ### Edit / shot order
 
 - 0–3s: first line as hook.
@@ -28576,6 +39596,22 @@ Create an Easywurld introduction in the format Text video. Use the exact supplie
 ### Exact spoken script
 
 > Consistency is not posting every day. It is being recognisable every time you do. Same voice, same promise, same next step. Be repetitive on purpose. Save this and pick your three repeating things.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Consistency is not posting every day. It is being recognisable every time you do. [pause] Same voice, same promise, same next step. [pause] Be repetitive on purpose. Oya. Save this and pick your three repeating things.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Consistency is not posting every day
+2. It is being recognisable every time you do
+3. Same voice, same promise, same next step
+4. Be repetitive on purpose oya
+5. Save this and pick your three repeating things
 
 ### Edit / shot order
 
@@ -28733,37 +39769,342 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W4-OFFER · Siphoned offer lesson
+## EW-LI-D27-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-28 · Saturday · 09:00 WAT · Text post**
+**2026-11-28 · Saturday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D27-S06 — LAUNCH Spotlight A: The hiring questions expose red flags.
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D27-S01 (slot 1) — If I ran a tailoring school account in Lagos
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D27-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> The hiring questions expose red flags.
+> The principle is old. The example is ours. Ann Handley: edit for the reader.
 >
-> Slide 1: The hiring questions expose red flags.
-> Slide 2: The problem: You do not know what to decide first, who should own the domain, how to compare quotes, or what has to happen after launch. Sites go live half-finished and then are never updated.
-> Slide 3: Inside The Website Launch & Care Handbook:
-> · Website Launch & Care Handbook
-> · Website Planning Brief
-> · Launch, Care and Accounts Workbook
-> · Hiring a Web Designer: Questions and Red Flags
-> Slide 4: ₦5,000 DIY pack. Not custom work. It is a guide and set of tools. It does not build, host or maintain a website.
-> Slide 5: Message LAUNCH on WhatsApp to confirm current price, payment and delivery. Custom projects are separate.
+> Three posts I would test this week for a tailoring school business:
 >
-> Message LAUNCH to confirm order details.
+> 1. a student progression clip with permission
+> 2. a course schedule with fees and duration
+> 3. a tools list beginners actually need
+>
+> The mistake to avoid: posting only graduation photos.
+>
+> First action: Show one beginner tool list.
+>
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
 
-## Notes
+### First comment (post immediately after publishing)
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> https://website-builder-portfolio.vercel.app/about
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+### Document pages (rendered to PDF)
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+**Page 1** — If I ran a tailoring school account in Lagos
+
+> Three posts I would test this week
+>
+> Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A student progression clip with permission
+>
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A course schedule with fees and duration
+>
+> Gives a customer something worth saving.
+
+**Page 4** — Post 3
+
+> A tools list beginners actually need
+>
+> Answers the question they were going to ask anyway.
+
+**Page 5** — Avoid
+
+> One mistake: posting only graduation photos
+>
+> First action: Show one beginner tool list.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D27-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D27-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-28 · Saturday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D27-S02 (slot 2) — Myth Court: Educational content should never sell.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Someone will tell you this week: "Educational content should never sell." Here is the verdict.
+>
+> Verdict: False.
+>
+> Useful content can lead to a relevant next step. The problem is forcing an unrelated pitch, not selling itself.
+>
+> How we would test it:
+> End one teaching post with a matching offer or question
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D27-CO3 · Image post — one rendered card from the day
+
+**2026-11-28 · Saturday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D27-S10 (slot 10) — Meet Easywurld: How to start
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/carousels/EW-D27-S10_slide-1.jpg`
+- **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
+
+### Post body (paste this)
+
+> You have felt this week. That is why it is here.
+>
+> Send the business link.
+> Tell us the problem.
+> Say what you have tried.
+> We will point to the next step.
+> One clear brief is enough.
+>
+> If your message, your website and your follow-up disagree, the customer feels it before they can name it.
+>
+> Which of the four is weakest in your business right now?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/carousels/EW-D27-S10_slide-1.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D27-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-28 · Saturday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D27-S02 (slot 2) — Myth Court: Educational content should never sell.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the test and run it on your own account
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D27-S02.mp4 (or the poster assets/fallbacks/EW-D27-S02.jpg)`
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Watch this before you answer your next "how much?"
+>
+> Myth: Educational content should never sell.
+> Verdict: False.
+>
+> Useful content can lead to a relevant next step. The problem is forcing an unrelated pitch, not selling itself
+>
+> The test: End one teaching post with a matching offer or question
+>
+> Keep the useful part. Drop the absolute.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D27-S02. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D27-S02.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D27-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-28 · Saturday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D27-S04 (slot 4) — AI Build: Draft comment moderation replies
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Building a small studio in Lagos means the boring decisions matter most.
+>
+> What I am testing in the studio this week: draft comment moderation replies.
+>
+> → Input: common public comments
+> → The draft: calm replies and escalation flags
+> → I check: arguments and private data
+> → Only then: a human-approved reply
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D27-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-28 · Saturday · 12:45 WAT · Poll**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D27-S11 (slot 11) — One Last Thought: Consistency
+- **Status:** Draft — not scheduled
+- **Single CTA:** Vote, then tell me why in one line.
+- **AI label:** Not required
+- **Psychology move:** Anchoring and boundaries — The first number sets the frame. State the price with its contents and its boundary.
+- **Guard:** No fake “was ₦X” pricing. No boundary-free promises.
+
+### Post body (paste this)
+
+> I have read enough "how much?" chats to know one thing.
+>
+> Consistency is not posting every day. It is being recognisable every time you do.
+>
+> Same voice, same promise, same next step.
+>
+> Be repetitive on purpose.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Poll
+
+- **Question:** What is your hook doing in the first two seconds?
+- Option: Naming the problem
+- Option: Introducing yourself
+- **Answer to give in the comments:** Lead with their problem, not your name.
+
+### Notes
+
+Native poll. 2 options. The lesson stays in the post body, not the poll.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish as a text post with the two options written as a question.
+
+---
+
+## EW-LI-D27-AB3 · Evening take — an opinion and a question back
+
+**2026-11-28 · Saturday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D27-S07 (slot 7) — Steal This Copy Move: Ann Handley — Edit for the reader
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> I changed my mind about this last month.
+>
+> The move: edit for the reader.
+>
+> Remove jargon and make every word earn its place.
+>
+> My own version, written for a Lagos customer:
+> Before: 'Leverage synergistic digital solutions.' After: 'Make the next step clear.'
+>
+> I am borrowing the structure from Ann Handley, not the words. Credit where it is due: Everybody Writes.
+>
+> Oya — pick one headline on your page and rewrite it tonight. That is the whole homework.
+>
+> Paste your before and after in the comments if you want a second pair of eyes.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -28874,6 +40215,28 @@ Create a five-slide Easywurld carousel for a event DJ business in Lagos. Use the
 
 > Marketing myth: Memes are unprofessional Verdict: It depends. Original, relevant humour can humanise a brand. Mocking customers or using unclear rights can damage trust. Test it: Use one original meme that jokes about the work, not the customer. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Marketing myth. People will tell you, "Memes are unprofessional." [pause] My verdict? It depends. Original, relevant humour can humanise a brand. Mocking customers or using unclear rights can damage trust. [pause] Here is a small test you can run this week. Use one original meme that jokes about the work, not the customer. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Marketing myth
+2. People will tell you, "Memes are unprofessional my verdict?
+3. It depends
+4. Original, relevant humour can humanise a brand
+5. Mocking customers or using unclear rights can damage trust
+6. Here is a small test you can run this week
+7. Use one original meme that jokes about the
+8. work, not the customer
+9. Keep the useful part
+10. Drop the absolute
+11. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -28959,6 +40322,32 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Comment keyword to DM. Lightreel weekly report reported it on 24 October 2026: a comment keyword that triggers a DM workflow. The business adaptation: Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Comment keyword to DM. [pause] Lightreel weekly report reported it on 24 October 2026: a comment keyword that triggers a DM workflow. Here is how a normal Nigerian business uses it. Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Comment keyword to DM
+3. Lightreel weekly report reported it on 24 October
+4. 2026: a comment keyword that triggers a DM workflow
+5. Here is how a normal Nigerian business uses it
+6. Use one keyword for one pack and confirm
+7. the DM flow works
+8. Do not promise instant delivery if it is manual
+9. One thing before you copy it
+10. Check that it is still happening
+11. and check the audio rights
+12. This is a dated teardown
+13. not a live trend claim
+14. Save the filter
+15. Skip the hype
 
 ### Edit / shot order
 
@@ -29450,6 +40839,30 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 > Is consultation included? No. Questions about the files can be sent on WhatsApp, but custom work is not part of the pack. The Chat-to-Customer Playbook is a ₦5,000 DIY pack. It includes Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. It is not custom work and it does not guarantee results. Message PLAYBOOK on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> The question I get most about this pack. "Is consultation included?" [pause] No. Questions about the files can be sent on WhatsApp, but custom work is not part of the pack. Let me be clear about what this is. The Chat-to-Customer Playbook is a five thousand naira DIY pack. Inside, you get Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. [pause] It is not custom work, and it does not promise you sales. Message PLAYBOOK on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. The question I get most about this pack
+2. Is consultation included? No
+3. Questions about the files can be sent on
+4. WhatsApp, but custom work is not part of the pack
+5. Let me be clear about what this is
+6. The Chat-to-Customer Playbook is a five thousand naira DIY pack
+7. Inside, you get Chat-to-Customer Playbook
+8. 36-Script Message Library, Lead & Follow-Up Tracker
+9. 7-Day Setup Checklist
+10. It is not custom work
+11. and it does not promise you sales
+12. Message PLAYBOOK on WhatsApp and I will confirm
+13. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -29615,6 +41028,25 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 > A referral is not luck. It is a sentence someone could repeat because you made it clear. Give customers the words to say about you. Most will use them. Write your own referral line. Save this and send it to your best customer.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> A referral is not luck. It is a sentence someone could repeat because you made it clear. [pause] Give customers the words to say about you. Most will use them. [pause] Write your own referral line. Take it one step at a time. Save this and send it to your best customer.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. A referral is not luck
+2. It is a sentence someone could repeat because
+3. you made it clear
+4. Give customers the words to say about you
+5. Most will use them
+6. Write your own referral line
+7. Take it one step at a time
+8. Save this and send it to your best customer
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -29771,6 +41203,331 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
+## EW-LI-D28-CO1 · Document post — the day's lesson as a PDF
+
+**2026-11-29 · Sunday · 07:30 WAT · Document post (PDF)**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D28-S07 (slot 7) — Steal This Copy Move: Robert Bly — Features to benefits
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D28-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> If your page has gone quiet, it is rarely a lack of talent. It is a lack of a repeatable post.
+>
+> The move: Features to benefits.
+>
+> Translate what something is into what it helps the buyer do.
+>
+> What that looks like on a Nigerian page:
+>
+> Before: 'XLSX tracker.'
+> After:  'See who to follow up with today.'
+>
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
+>
+> Source: The Copywriter's Handbook. Attributed, not quoted at length.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — Steal this copy move
+
+> Robert Bly: Features to benefits
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> Translate what something is into what it helps the buyer do
+>
+> Source: The Copywriter's Handbook.
+
+**Page 3** — Before
+
+> 'XLSX tracker.' 
+>
+> Vague, category-level, forgettable.
+
+**Page 4** — After
+
+>  'See who to follow up with today.'
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D28-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D28-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-29 · Sunday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D28-S02 (slot 2) — Myth Court: Memes are unprofessional.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Memes are unprofessional. We put it on trial.
+>
+> Verdict: It depends.
+>
+> Original, relevant humour can humanise a brand. Mocking customers or using unclear rights can damage trust.
+>
+> How we would test it:
+> Use one original meme that jokes about the work, not the customer
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D28-CO3 · Image post — one rendered card from the day
+
+**2026-11-29 · Sunday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D28-S05 (slot 5) — The customer asked for a logo. They needed a plan.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D28-S05.jpg`
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> Small-business life, photographed honestly.
+>
+> The customer asked for a logo. They needed a plan.
+> Ask what the mark must help people understand.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D28-S05.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D28-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-29 · Sunday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D28-S11 (slot 11) — One Last Thought: Referrals
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save this and send it to your best customer
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D28-S11.mp4 (or the poster assets/fallbacks/EW-D28-S11.jpg)`
+- **Psychology move:** Peak-end rule — People remember the strongest moment and the last one. So end the day with the sharpest line.
+- **Guard:** The last line must be true and actionable, not just a punchline.
+
+### Post body (paste this)
+
+> Short version of a long lesson.
+>
+> A referral is not luck.
+> It is a sentence someone could repeat because you made it clear.
+> Give customers the words to say about you.
+> Most will use them.
+> Write your own referral line.
+> Save this and send it to your best customer.
+>
+> Save this and send it to your best customer.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D28-S11. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D28-S11.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D28-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-29 · Sunday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D28-S10 (slot 10) — Meet Easywurld: Review rhythm
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Psychology move:** Mere exposure — Familiar shapes become liked shapes. Repeated frame, repeated voice, repeated slogan.
+- **Guard:** Repeat the format, not the same sentence. Familiarity needs fresh content inside it.
+
+### Post body (paste this)
+
+> Today I chose the slower option. Let me explain why.
+>
+> After 24 hours: record available metrics.
+> After seven days: compare similar formats.
+> After a month: review series and enquiries.
+> Change one variable.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D28-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-29 · Sunday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D28-S02 (slot 2) — Myth Court: Memes are unprofessional.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Which piece of advice has cost your business the most time?
+- **AI label:** Not required
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> Not a hot take. Just a pattern I cannot unsee.
+>
+> Myth I keep hearing: "Memes are unprofessional."
+>
+> My verdict after running it: it depends.
+>
+> Original, relevant humour can humanise a brand. Mocking customers or using unclear rights can damage trust.
+>
+> What I would actually do: use one original meme that jokes about the work, not the customer
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D28-AB3 · Evening take — an opinion and a question back
+
+**2026-11-29 · Sunday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D28-S06 (slot 6) — PLAYBOOK Spotlight A: The setup checklist makes the system usable.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What does your price reply say after the number?
+- **AI label:** Not required
+- **Psychology move:** Objection relief — Name the doubt before the buyer has to. The answer removes the reason to hesitate.
+- **Guard:** Answer honestly, including “no, it does not do that”.
+
+### Post body (paste this)
+
+> A question I asked five business owners this week.
+>
+> The setup checklist makes the system usable.
+>
+> This is why The Chat-to-Customer Playbook exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What does your price reply say after the number?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=PLAYBOOK — I answer these myself. Message PLAYBOOK on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
 # Day 29 · 2026-11-30 · Monday · Offer: CLEAR
 
 ## EW-D29-S01 · If I ran a laundry service account in Lagos
@@ -29878,6 +41635,28 @@ Create a five-slide Easywurld carousel for a laundry service business in Lagos. 
 
 > Marketing myth: You can post the same file everywhere without changes Verdict: Mostly false. Core ideas can travel, but captions, crops, audio rights and disclosure settings need platform adaptation. Test it: Create three captions and check each platform preview. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Let us put one piece of advice on trial. "You can post the same file everywhere without changes." [pause] My verdict? Mostly false. Core ideas can travel, but captions, crops, audio rights and disclosure settings need platform adaptation. [pause] Here is a small test you can run this week. Create three captions and check each platform preview. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Let us put one piece of advice on trial
+2. You can post the same file everywhere without changes
+3. My verdict? Mostly false
+4. Core ideas can travel
+5. but captions, crops, audio rights and disclosure settings
+6. need platform adaptation
+7. Here is a small test you can run this week
+8. Create three captions and check each platform preview
+9. Keep the useful part
+10. Drop the absolute
+11. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -29963,6 +41742,34 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: Why People Come, Why People Stay. Drizzle Digital Vol. 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. The business adaptation: Show the hook that brings an enquiry and the process that earns trust. Use real or labelled sample steps. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. Here is how a normal Nigerian business uses it. Show the hook that brings an message and the process that earns trust. Use real or labelled sample steps. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. No wahala. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is Why People Come
+3. Why People Stay
+4. Drizzle Digital Volume 38 reported it on 28
+5. September 2026: a contrast between what attracts customers
+6. and what keeps them
+7. Here is how a normal Nigerian business uses it
+8. Show the hook that brings an message and
+9. the process that earns trust
+10. Use real or labelled sample steps
+11. One thing before you copy it
+12. Check that it is still happening
+13. and check the audio rights
+14. This is a dated teardown
+15. not a live trend claim no wahala
+16. Save the filter
+17. Skip the hype
 
 ### Edit / shot order
 
@@ -30454,6 +42261,31 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 > Are the templates in every language? The templates are in English. Adapt them to your customers' language and check the meaning. The Clear Homepage Blueprint is a ₦5,000 DIY pack. It includes Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. It is not custom work and it does not guarantee results. Message CLEAR on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Before you buy, you will ask this. "Are the templates in every language?" [pause] The templates are in English. Adapt them to your customers' language and check the meaning. Let me be clear about what this is. The Clear Homepage Blueprint is a five thousand naira DIY pack. Inside, you get Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. [pause] It is not custom work, and it does not promise you sales. Message CLEAR on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Before you buy, you will ask this
+2. Are the templates in every language?
+3. The templates are in English
+4. Adapt them to your customers' language and check the meaning
+5. Let me be clear about what this is
+6. The Clear Homepage Blueprint is a five thousand
+7. naira DIY pack
+8. Inside, you get Clear Homepage Blueprint
+9. Homepage Copy Templates, Homepage Content Planner
+10. 20-Point Homepage Audit Scorecard
+11. It is not custom work
+12. and it does not promise you sales
+13. Message CLEAR on WhatsApp and I will confirm
+14. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -30613,6 +42445,22 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 > The month ends whether or not you look at it. Thirty minutes with three numbers is enough: enquiries, replies, sales. Count, then choose one change. Save this for the 30th.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> The month ends whether or not you look at it. [pause] Thirty minutes with three numbers is enough: messages, replies, sales. [pause] Count, then choose one change. Save this for the 30th.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. The month ends whether or not you look at it
+2. Thirty minutes with three numbers is enough:
+3. messages, replies, sales
+4. Count, then choose one change
+5. Save this for the 30th
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -30769,19 +42617,24 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W5-CAROUSEL · Carousel write-up (document post)
+## EW-LI-D29-CO1 · Document post — the day's lesson as a PDF
 
-**2026-11-30 · Monday · 09:00 WAT · Document post (carousel write-up)**
+**2026-11-30 · Monday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D29-S01 — If I ran a laundry service account in Lagos
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D29-S01 (slot 1) — If I ran a laundry service account in Lagos
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D29-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> If I ran a laundry service account in Lagos, this is what I would post this week.
+> A laundry service account in Lagos does not need more ideas. It needs three it can actually shoot this week.
 >
-> If I were running this account, I would test three posts this week:
+> Three posts I would test this week for a laundry service business:
 >
 > 1. a care-label guide
 > 2. a pickup-zone map
@@ -30791,19 +42644,338 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 >
 > First action: Publish the care-label guide.
 >
+> Why this works: a page that only shows finished work gives a new customer nothing to save and nothing to ask about. Process is what earns the message.
+>
+> This is a planning example, not a claim that Easywurld manages this account.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — If I ran a laundry service account in Lagos
+
+> Three posts I would test this week
+>
 > Planning example, not a claim that we manage this account.
+
+**Page 2** — Post 1
+
+> A care-label guide
 >
-> Which one would you test first?
+> Shows the decision, not just the result.
+
+**Page 3** — Post 2
+
+> A pickup-zone map
 >
-> (Full carousel on the feed. The document version is the same five slides as a PDF.)
+> Gives a customer something worth saving.
 
-## Notes
+**Page 4** — Post 3
 
-Upload the five-slide carousel as a PDF document post. Slide 1 is the cover image LinkedIn shows on mobile.
+> A turnaround promise with exceptions
+>
+> Answers the question they were going to ask anyway.
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+**Page 5** — Avoid
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+> One mistake: posting only folded clothes
+>
+> First action: Publish the care-label guide.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D29-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D29-CO2 · Text post — myth verdict, written to be read
+
+**2026-11-30 · Monday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D29-S02 (slot 2) — Myth Court: You can post the same file everywhere without changes.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Absolute advice is expensive. Take this one: "You can post the same file everywhere without changes."
+>
+> Verdict: Mostly false.
+>
+> Core ideas can travel, but captions, crops, audio rights and disclosure settings need platform adaptation.
+>
+> How we would test it:
+> Create three captions and check each platform preview
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D29-CO3 · Image post — one rendered card from the day
+
+**2026-11-30 · Monday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D29-S08 (slot 8) — The AI says it cannot browse. The caption says 'latest trend'.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/memes/EW-D29-S08.jpg`
+- **Psychology move:** Identity and in-group — People share what says something about them. Memes work when they describe the reader precisely.
+- **Guard:** Never punch down at customers, staff or other businesses.
+
+### Post body (paste this)
+
+> This is the part nobody posts about.
+>
+> The AI says it cannot browse. The caption says 'latest trend'.
+> Verify outside the model.
+>
+> Two things worth changing this week:
+> 1. Write the next step into the offer, not only the caption.
+> 2. Put the price, the contents and the boundary in the same message.
+>
+> No thread. No funnel. Just the next step made obvious.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/memes/EW-D29-S08.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D29-CO4 · Native video — the day's finished vertical cut
+
+**2026-11-30 · Monday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D29-S02 (slot 2) — Myth Court: You can post the same file everywhere without changes.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the test and run it on your own account
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D29-S02.mp4 (or the poster assets/fallbacks/EW-D29-S02.jpg)`
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Forty seconds. One workflow you can copy today.
+>
+> Myth: You can post the same file everywhere without changes.
+> Verdict: Mostly false.
+>
+> Core ideas can travel, but captions, crops, audio rights and disclosure settings need platform adaptation
+>
+> The test: Create three captions and check each platform preview
+>
+> Keep the useful part. Drop the absolute.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D29-S02. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D29-S02.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D29-AB1 · Build log — what I am making and the decision behind it
+
+**2026-11-30 · Monday · 08:15 WAT · Document post (PDF)**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D29-S04 (slot 4) — AI Build: Build an assistant knowledge sheet
+- **Status:** Draft — not scheduled
+- **Single CTA:** Where would you keep a human in the loop in your own business?
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D29-AB1.pdf`
+- **Psychology move:** Cognitive ease — Easy-to-read ideas feel truer and safer. Short sentences, one idea, generous space.
+- **Guard:** Never use simplicity to hide a limit. Say the limit in the same short sentence.
+
+### Post body (paste this)
+
+> I am building Easywurld in public, and today's decision was aI Build: Build an assistant knowledge sheet.
+>
+> What I am testing in the studio this week: build an assistant knowledge sheet.
+>
+> → Input: approved business facts
+> → The draft: structured Q&A with boundaries
+> → I check: outdated prices and sensitive data
+> → Only then: a maintained knowledge sheet
+>
+> The part I will not automate is the check. A machine can write a reply. It should not be allowed to promise a price, a date or a result on my behalf.
+>
+> That boundary is the product. Everything else is convenience.
+>
+> Labelled concept work — a sample build, not a client result.
+>
+> Where would you keep a human in the loop in your own business?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Document pages (rendered to PDF)
+
+**Page 1** — Build log · Easywurld
+
+> Build an assistant knowledge sheet
+>
+> What I am making this week, and the decision behind it.
+
+**Page 2** — The decision
+
+> Build an assistant knowledge sheet
+>
+> Input: approved business facts. Draft: structured Q&A with boundaries.
+
+**Page 3** — The boundary
+
+> A person checks it before it goes out
+>
+> I check outdated prices and sensitive data. Nothing is auto-sent.
+
+**Page 4** — Why it matters
+
+> The check is the product
+>
+> Convenience is easy to copy. Judgment is not.
+
+**Page 5** — Your turn
+
+> Where do you keep a human in the loop?
+>
+> One line is enough. I read them.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D29-AB1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D29-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-11-30 · Monday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D29-S11 (slot 11) — One Last Thought: Month end
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> The businesses that survive this year are not the loudest.
+>
+> The month ends whether or not you look at it.
+>
+> Thirty minutes with three numbers is enough: enquiries, replies, sales.
+>
+> Count, then choose one change.
+>
+> I am not saying this to sound clever. I have watched good businesses lose a sale in one chat because the reply was a bare number with no next step.
+>
+> If you sell by WhatsApp or DM, that reply is your shop counter.
+>
+> Save it for the next time somebody asks "how much?".
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D29-AB3 · Evening take — an opinion and a question back
+
+**2026-11-30 · Monday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D29-S09 (slot 9) — CLEAR Spotlight B: Are the templates in every language?
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the question customers ask you that you dread answering?
+- **AI label:** Not required
+- **Psychology move:** Curiosity gap — A specific open question pulls attention forward. Open the loop in the first line and close it in the last.
+- **Guard:** Close the loop inside the same post. No bait that never pays off.
+
+### Post body (paste this)
+
+> Evening thought. The copy templates need your facts.
+>
+> Are the templates in every language? The templates are in English. Adapt them to your customers' language and check the meaning.
+>
+> This is why The Clear Homepage Blueprint exists as a ₦5,000 DIY pack: most owners do not need an agency this month. They need the scripts, the tracker and the routine, and they need it before Friday.
+>
+> I am deliberate about the boundary. It is not custom work. It does not guarantee sales. It helps you convert more of the enquiries you already get.
+>
+> Saying the limit out loud has cost me nothing and saved a lot of awkward conversations.
+>
+> What is the question customers ask you that you dread answering?
+
+### First comment (post immediately after publishing)
+
+> https://wa.me/2349050690837?text=CLEAR — I answer these myself. Message CLEAR on WhatsApp.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---
 
@@ -30914,6 +43086,28 @@ Create a five-slide Easywurld carousel for a farm produce seller business in Lag
 
 > Marketing myth: More posts will fix an unclear offer Verdict: False. Volume can amplify confusion. The offer sentence, proof and next step need to be clear before scaling content. Test it: Write the offer sentence and test it with five customers. That is Myth Court: keep the useful part, drop the absolute.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> You have heard this one before. "More posts will fix an unclear offer." [pause] My verdict? False. Volume can amplify confusion. The offer sentence, proof and next step need to be clear before scaling content. [pause] Here is a small test you can run this week. Write the offer sentence and test it with five customers. No wahala. Keep the useful part. Drop the absolute. That is Myth Court.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. You have heard this one before
+2. More posts will fix an unclear offer my verdict? False
+3. Volume can amplify confusion
+4. The offer sentence, proof and next step need
+5. to be clear before scaling content
+6. Here is a small test you can run this week
+7. Write the offer sentence and test it with five customers
+8. No wahala
+9. Keep the useful part
+10. Drop the absolute
+11. That is Myth Court
+
 ### Edit / shot order
 
 - 0–3s: Operator, chest-up, myth on screen.
@@ -30999,6 +43193,33 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 ### Exact spoken script
 
 > Trend Desk: I'm with Max. Drizzle Digital Vol. 40 reported it on 26 October 2026: a creator spotlighting the person or thing they are always with. The business adaptation: Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound. Before posting, verify a current example and the audio rights. This is a dated teardown, not a live trend claim. Save the filter, not the hype.
+
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Trend Desk. Today it is I'm with Max. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a creator spotlighting the person or thing they are always with. Here is how a normal Nigerian business uses it. Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Oya. Save the filter. Skip the hype.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Trend Desk
+2. Today it is I'm with Max
+3. Drizzle Digital Volume 40 reported it on 26
+4. October 2026: a creator spotlighting the person or
+5. thing they are always with
+6. Here is how a normal Nigerian business uses it
+7. Adapt only with owned/licensed audio and a real
+8. brand constant, such as the checklist
+9. Do not use a personal-account sound
+10. One thing before you copy it
+11. Check that it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim oya
+15. Save the filter
+16. Skip the hype
 
 ### Edit / shot order
 
@@ -31490,6 +43711,32 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 > Does it include scheduling software? No. It does not include scheduling software. Native planners may be available, but you still produce and approve the posts. The 30-Day Content Engine is a ₦5,000 DIY pack. It includes 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. It is not custom work and it does not guarantee results. Message ENGINE on WhatsApp to confirm current order details.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Somebody will ask you this. "Does it include scheduling software?" [pause] No. It does not include scheduling software. Native planners may be available, but you still produce and approve the posts. Let me be clear about what this is. The 30-Day Content Engine is a five thousand naira DIY pack. Inside, you get 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. [pause] It is not custom work, and it does not promise you sales. Message ENGINE on WhatsApp and I will confirm the current details.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Somebody will ask you this
+2. Does it include scheduling software? No
+3. It does not include scheduling software
+4. Native planners may be available
+5. but you still produce and approve the posts
+6. Let me be clear about what this is
+7. The 30-Day Content Engine is a five thousand
+8. naira DIY pack
+9. Inside, you get 30-Day Content Engine Guide
+10. 60-Idea Post Bank, 30-Day Content Calendar
+11. Hooks and Caption Swipe File
+12. It is not custom work
+13. and it does not promise you sales
+14. Message ENGINE on WhatsApp and I will confirm
+15. the current details
+
 ### Edit / shot order
 
 - 0–3s: the objection on screen.
@@ -31655,6 +43902,24 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 > Nothing you did this month was wasted. But nothing repeats by itself. Decide what stays, what stops and what gets one more test. Keep the slot that worked. Cut the one you avoided. Save this and write tomorrow’s first line tonight.
 
+### Voiceover script — plain Nigerian English
+
+This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
+
+> Nothing you did this month was wasted. But nothing repeats by itself. [pause] Decide what stays, what stops and what gets one more test. [pause] Keep the slot that worked. Cut the one you avoided. Save this and write tomorrow’s first line tonight.
+
+### Burned-in caption chunks
+
+Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
+
+1. Nothing you did this month was wasted
+2. But nothing repeats by itself
+3. Decide what stays, what stops and what gets
+4. one more test
+5. Keep the slot that worked
+6. Cut the one you avoided
+7. Save this and write tomorrow’s first line tonight
+
 ### Edit / shot order
 
 - 0–2s: cold line, no greeting, no logo.
@@ -31811,34 +44076,327 @@ Compose three vertical 1080×1920 behind-the-desk story frames for Easywurld usi
 
 ---
 
-## EW-LI-W5-TEACH · Siphoned teach post
+## EW-LI-D30-CO1 · Document post — the day's lesson as a PDF
 
-**2026-12-01 · Tuesday · 09:00 WAT · Text post**
+**2026-12-01 · Tuesday · 07:30 WAT · Document post (PDF)**
 
-- **Siphoned from:** EW-D30-S07 — Steal This Copy Move: Robert Bly — Clear call to action
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D30-S07 (slot 7) — Steal This Copy Move: Robert Bly — Clear call to action
 - **Status:** Draft — not scheduled
 - **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/linkedin/EW-LI-D30-CO1.pdf`
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
 
-## Post copy
+### Post body (paste this)
 
-> Steal this copy move from Robert Bly: Clear call to action.
+> Robert Bly said it first: clear call to action. Here is what that looks like on a Nigerian small-business page.
 >
-> The principle: Tell the reader exactly what to do next without ambiguity.
+> The move: Clear call to action.
 >
-> An original example, not theirs:
+> Tell the reader exactly what to do next without ambiguity.
+>
+> What that looks like on a Nigerian page:
 >
 > 'Open the sample and judge the thinking.' 'Message CLEAR to confirm order details.'
 >
-> Do not steal the words. Steal the structure. Attribute the principle and write your own example.
+> The part most people skip: do not steal the words. Steal the structure, then write your own example from your own customer.
+>
+> Source: The Copywriter's Handbook. Attributed, not quoted at length.
+>
+> The five pages are attached as a document. Page one is the cover LinkedIn shows on mobile.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Document pages (rendered to PDF)
+
+**Page 1** — Steal this copy move
+
+> Robert Bly: Clear call to action
+>
+> Attributed, then rebuilt with an original Easywurld example.
+
+**Page 2** — The principle
+
+> Tell the reader exactly what to do next without ambiguity
 >
 > Source: The Copywriter's Handbook.
 
-## Notes
+**Page 3** — Before
 
-Native text post. No external link in the body; the destination goes in the first comment.
+> 'Open the sample and judge the thinking.' 'Message CLEAR to confirm order details.'
+>
+> Vague, category-level, forgettable.
 
-Read it aloud before posting. If a sentence needs a second breath, split it. First comment carries the link.
+**Page 4** — After
 
-**Fallback:** Publish the first three paragraphs as a plain text post without the document.
+>
+>
+> Named customer, named situation, named next step.
+
+**Page 5** — Your turn
+
+> Rewrite one headline today
+>
+> Steal the structure, not the words. Then write your own example from your own customer.
+
+
+### Notes
+
+Upload assets/linkedin/EW-LI-D30-CO1.pdf as a document post. Page one is the cover LinkedIn shows on mobile. Keep it under 100 pages and under 100 MB.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first three paragraphs as a plain text post and drop the document.
+
+---
+
+## EW-LI-D30-CO2 · Text post — myth verdict, written to be read
+
+**2026-12-01 · Tuesday · 10:30 WAT · Text post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D30-S02 (slot 2) — Myth Court: More posts will fix an unclear offer.
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Loss aversion — People move faster to stop a loss than to chase a gain. Name the cost of waiting, without inventing urgency.
+- **Guard:** No fake countdowns, no invented scarcity. The loss must be real and checkable.
+
+### Post body (paste this)
+
+> Marketing myth: More posts will fix an unclear offer.
+>
+> Verdict: False.
+>
+> Volume can amplify confusion. The offer sentence, proof and next step need to be clear before scaling content.
+>
+> How we would test it:
+> Write the offer sentence and test it with five customers
+>
+> Keep the useful part. Drop the absolute.
+>
+> That is the whole method: one claim, one verdict, one test small enough to run this week.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D30-CO3 · Image post — one rendered card from the day
+
+**2026-12-01 · Tuesday · 13:30 WAT · Image post**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D30-S10 (slot 10) — Meet Easywurld: Studio dictionary
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Asset:** `assets/carousels/EW-D30-S10_slide-1.jpg`
+- **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
+
+### Post body (paste this)
+
+> One picture, one lesson. Read the second line twice.
+>
+> Simplify: make the next step clear.
+> Optimize: improve what the evidence supports.
+> Grow: build from a working system.
+> That is the slogan, explained.
+> Easywurld. Simplify. Optimize. Grow.
+>
+> If your message, your website and your follow-up disagree, the customer feels it before they can name it.
+>
+> Which of the four is weakest in your business right now?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Attach assets/carousels/EW-D30-S10_slide-1.jpg. One image only; let the caption carry the rest.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D30-CO4 · Native video — the day's finished vertical cut
+
+**2026-12-01 · Tuesday · 17:00 WAT · Native video**
+
+- **Account:** Easywurld (Company page)
+- **Siphoned from:** EW-D30-S03 (slot 3) — Trend Desk: I'm with Max
+- **Status:** Draft — not scheduled
+- **Single CTA:** Save the trend filter before your next post
+- **AI label:** Yes — enable the platform AI setting
+- **Asset:** `assets/video-ready/EW-D30-S03.mp4 (or the poster assets/fallbacks/EW-D30-S03.jpg)`
+- **Psychology move:** Authority through restraint — Calm, unhurried, well-sourced statements read as authority. Hype reads as need.
+- **Guard:** Never claim credentials, awards or expertise we do not hold.
+
+### Post body (paste this)
+
+> Watch this before you answer your next "how much?"
+>
+> Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound.
+>
+> Dated teardown, not a live trend claim. Verify a current example and the audio rights before you post it.
+>
+> Save the filter, not the hype.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about
+
+### Notes
+
+Upload the finished MP4 for EW-D30-S03. Captions and the AI label are already burned in; do not re-edit.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the poster assets/fallbacks/EW-D30-S03.jpg with the same caption as an image post.
+
+---
+
+## EW-LI-D30-AB1 · Build log — what I am making and the decision behind it
+
+**2026-12-01 · Tuesday · 08:15 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D30-S10 (slot 10) — Meet Easywurld: Studio dictionary
+- **Status:** Draft — not scheduled
+- **Single CTA:** What is the one thing in your business that keeps disagreeing with itself?
+- **AI label:** Not required
+- **Psychology move:** Specificity — Numbers, names and dates are processed as evidence; adjectives are processed as noise.
+- **Guard:** Only use numbers we can defend. No invented metrics.
+
+### Post body (paste this)
+
+> Three hours on meet Easywurld: Studio dictionary today. Here is what I got wrong first.
+>
+> Simplify: make the next step clear.
+> Optimize: improve what the evidence supports.
+> Grow: build from a working system.
+> That is the slogan, explained.
+>
+> What I have learned building it: the work is rarely the hard part. The hard part is making the message, the website, the content and the follow-up say the same thing.
+>
+> When they disagree, the customer does not argue. They just go quiet.
+>
+> So I am posting the process here, including the parts that are still unfinished. No wahala — that is the point of building in public.
+>
+> What is the one thing in your business that keeps disagreeing with itself?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D30-AB2 · Operator's note — one lesson from what I keep seeing
+
+**2026-12-01 · Tuesday · 12:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D30-S02 (slot 2) — Myth Court: More posts will fix an unclear offer.
+- **Status:** Draft — not scheduled
+- **Single CTA:** Which piece of advice has cost your business the most time?
+- **AI label:** Not required
+- **Psychology move:** Honest social proof — Behaviour follows behaviour. Show the work, the process, the questions other owners ask.
+- **Guard:** Never invent clients, testimonials or results. A labelled sample is not proof of sales.
+
+### Post body (paste this)
+
+> Something I keep seeing in Nigerian small businesses: undefined.
+>
+> Myth I keep hearing: "More posts will fix an unclear offer."
+>
+> My verdict after running it: false.
+>
+> Volume can amplify confusion. The offer sentence, proof and next step need to be clear before scaling content.
+>
+> What I would actually do: write the offer sentence and test it with five customers
+>
+> I am not against posting often. I am against posting often with nothing to say.
+>
+> Which piece of advice has cost your business the most time?
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
+
+---
+
+## EW-LI-D30-AB3 · Evening take — an opinion and a question back
+
+**2026-12-01 · Tuesday · 19:45 WAT · Text post**
+
+- **Account:** Abu Israel (Personal profile) · https://www.linkedin.com/in/abu-israel-495b09226
+- **Siphoned from:** EW-D30-S07 (slot 7) — Steal This Copy Move: Robert Bly — Clear call to action
+- **Status:** Draft — not scheduled
+- **Single CTA:** What would you add? One line is enough.
+- **AI label:** Not required
+- **Psychology move:** Reciprocity — Give the useful structure before asking for anything. The save is the thank-you.
+- **Guard:** Give enough to be genuinely useful alone. Do not withhold the point to force a purchase.
+
+### Post body (paste this)
+
+> Somebody will disagree with this, and that is fine.
+>
+> The move: clear call to action.
+>
+> Tell the reader exactly what to do next without ambiguity.
+>
+> My own version, written for a Lagos customer:
+> 'Open the sample and judge the thinking.' 'Message CLEAR to confirm order details.'
+>
+> I am borrowing the structure from Robert Bly, not the words. Credit where it is due: The Copywriter's Handbook.
+>
+> Oya — pick one headline on your page and rewrite it tonight. That is the whole homework.
+>
+> Paste your before and after in the comments if you want a second pair of eyes.
+
+### First comment (post immediately after publishing)
+
+> https://website-builder-portfolio.vercel.app/about — I answer these myself.
+
+### Notes
+
+Native text post. No image, no external link in the body.
+
+Read it aloud once. If a sentence needs a second breath, split it. Post the first comment immediately after publishing — LinkedIn shows the post before the comment.
+
+**Fallback:** Publish the first two paragraphs only.
 
 ---

@@ -16,7 +16,8 @@ ROOT=Path(__file__).resolve().parent.parent
 D=json.loads((ROOT/'marketing/content-plan.json').read_text())
 OUT=ROOT/'marketing/CONTENT_PLAN.pdf'
 GREEN=colors.HexColor('#0A4937'); LEAF=colors.HexColor('#27473A'); CREAM=colors.HexColor('#FAE7C7'); TERRA=colors.HexColor('#9E4E2C'); INK=colors.HexColor('#14170F'); PAPER=colors.HexColor('#FBF9F4'); LINE=colors.HexColor('#D8D5C5')
-FONT_DIR=Path.home()/'.cache/easywurld-fonts'
+import os
+FONT_DIR=Path(os.environ.get('EASYWURLD_FONT_DIR', Path.home()/'.cache/easywurld-fonts'))
 try:
     pdfmetrics.registerFont(TTFont('InterPDF',str(FONT_DIR/'Inter[opsz,wght].ttf')))
     pdfmetrics.registerFont(TTFont('MonoPDF',str(FONT_DIR/'JetBrainsMono[wght].ttf')))
@@ -52,16 +53,16 @@ class NumberedCanvas(canvas.Canvas):
         for state in self._saved:
             self.__dict__.update(state)
             self.setFillColor(LEAF);self.setFont(BODY,6.5)
-            self.drawString(36,22,'EASYWURLD  /  11 POSTS + 2 STORIES A DAY  /  1,196 PLACEMENTS')
+            self.drawString(36,22,'EASYWURLD  /  11 POSTS + 2 STORIES A DAY  /  7 LINKEDIN A DAY  /  1,380 PLACEMENTS')
             self.drawRightString(A4[0]-36,22,f'{self._pageNumber} / {total}')
             super().showPage()
         super().save()
 story=[]
 counts=D['counts'];formats=counts['formats']
-story += [Spacer(1,38),p('SERIES-LED CONTENT SYSTEM','h3'),p('Eleven posts, two stories, one voice.','title'),p('Easywurld · Monday 2 November–Tuesday 1 December 2026','h2'),p('330 content posts. 60 stories. 26 LinkedIn posts. 1,196 platform placements across TikTok, Instagram, Facebook and LinkedIn. One offer each day. Two scene-led memes. Every row starts Draft.','body'),Spacer(1,14)]
+story += [Spacer(1,38),p('SERIES-LED CONTENT SYSTEM','h3'),p('Eleven posts, two stories, one voice.','title'),p('Easywurld · Monday 2 November–Tuesday 1 December 2026','h2'),p(f"{counts['corePosts']} content posts. {counts['stories']} stories. {counts['linkedin']} LinkedIn posts — {counts['linkedinCompany']} on the company page and {counts['linkedinPersonal']} on Abu Israel's personal profile. {counts['placements']} platform placements across TikTok, Instagram, Facebook and LinkedIn. One offer each day. Two scene-led memes. Every row starts Draft.",'body'),Spacer(1,14)]
 story += [table([['At a glance','Active system'],
  ['Owner brief','11 posts and 2 stories a day on Facebook, TikTok and Instagram, plus LinkedIn pulls; the daily series plus memes, offers, copy breakdowns, an Easywurld introduction and the Operator close'],
- ['Volume','11 posts + 2 stories per day × 3 platforms = 39 placements/day, plus 26 LinkedIn posts = 1,196 placements across 30 days'],
+ ['Volume',f"11 posts + 2 stories per day × 3 platforms = 39 placements/day, plus {counts['linkedin']} LinkedIn posts ({counts['linkedinPerDay']} a day: 4 company + 3 personal) = {counts['placements']} placements across 30 days"],
  ['Daily series','Niche plan · Myth Court · Trend Desk · AI Build · owner meme · Offer A · Copy Move · industry meme · Offer B · Meet Easywurld · One Last Thought'],
  ['Stories','12:30 poll or quiz · 21:00 behind the desk · Instagram, Facebook (+5) and TikTok (+10)'],
  ['Psychology','One persuasion principle per post, tagged with its guardrail (marketing/PSYCHOLOGY_PLAYBOOK.md)'],
@@ -95,7 +96,9 @@ for week in range(5):
         rows.append([f"{d['day']:02d} · {d['iso']}",d['offerKeyword'],left,right])
     story += [p(f'Week {week+1}', 'h2') if week else Spacer(1,0),table(rows,[68,55,190,209])]
 story += [p('The stories','h2'),table([['Day / date','12:30 poll or quiz','21:00 behind the desk'],*[[f"{d['day']:02d} · {d['iso']}",next(s['frames'][0] for s in D['stories'] if s['day']==d['day'] and s['slot']=='A'),next(s['frames'][0] for s in D['stories'] if s['day']==d['day'] and s['slot']=='B')] for d in D['days']]],[58,232,232])]
-story += [p('LinkedIn pulls','h2'),table([['Date','Slot','Format','Siphoned from'],*[[f"{l['date']}",l['label'],l['format'],l['sourcePostId']] for l in D['linkedin']]],[70,140,120,192])]
+for acct,title in (('company','LinkedIn — Easywurld company page (4 a day)'),('personal','LinkedIn — Abu Israel personal profile (3 a day)')):
+    rowsL=[l for l in D['linkedin'] if l['account']==acct]
+    story += [p(title,'h2'),table([['Date','Time','Format','Siphoned from','First line'],*[[f"{l['date']} · {l['weekday'][:3]}",l['time'],l['format'],l['sourcePostId'],l['hook'].split('\n')[0][:78]] for l in rowsL]],[62,34,96,66,264])]
 story += [PageBreak()]
 # Briefs
 story += [p('03 / Complete production briefs','h3'),p('All 330 posts, with the stories and LinkedIn set.','h1'),p('Each card includes the hook, exact core copy, CTA, visual/edit direction and trend/offer gate. The CSV and offline app add the three platform captions, per-platform status, QA checks and actual URLs. Nothing is scheduled.','body'),Spacer(1,5)]
@@ -114,7 +117,7 @@ for d in D['days']:
     for s in [x for x in D['stories'] if x['day']==d['day']]:
         story.append(KeepTogether([p(f"{s['id']} · STORY {s['slot']} · {s['time']} WAT · {s['series']}",'small'),p(s['sticker'],'cardtitle'),p(' · '.join(f"Frame {i+1}: {f}" for i,f in enumerate(s['frames'])),'body'),p('CTA: '+s['cta']+' · '+s['duration'],'small'),HRFlowable(width='100%',thickness=.5,color=LINE,spaceBefore=3,spaceAfter=7)]))
     for l in [x for x in D['linkedin'] if x['day']==d['day']]:
-        story.append(KeepTogether([p(f"{l['id']} · LINKEDIN · {l['time']} WAT · {l['format']}",'small'),p(l['label'],'cardtitle'),p(l['body'][:900],'body'),p('Link goes in the first comment. Two tags maximum.','small'),HRFlowable(width='100%',thickness=.5,color=LINE,spaceBefore=3,spaceAfter=7)]))
+        story.append(KeepTogether([p(f"{l['id']} · LINKEDIN · {l['accountName'].upper()} · {l['time']} WAT · {l['format']}",'small'),p(l['label'],'cardtitle'),p(l['body'][:900],'body'),p('First comment: '+l['firstComment'],'small'),p('Link goes in the first comment, never the body. Two tags maximum.','small'),HRFlowable(width='100%',thickness=.5,color=LINE,spaceBefore=3,spaceAfter=7)]))
 story += [PageBreak(),p('04 / Production and publishing','h3'),p('Batch by series. Verify trends. Schedule only after QA.','h1')]
 story += [p('Weekly batch rhythm','h2'),table([['Block','Output','Rule'],['Trend verification','7 gates','Log current example, relevance, rights and reviewer'],['Scripts/offers','70 scripts','Confirm facts, price, sample labels and one CTA'],['Talking heads','21+ videos','Approved likeness/voice or static fallback'],['Screen demos','7–14 videos','Real demo or storyboard; concept/sample label'],['Graphics','40–50 assets','Carousels, 14 memes, offer/copy/intro statics'],['Captions','210 placements','Three platform captions; human check each'],['Scheduling','210 placements','Confirm queue; paste actual URL/status']],[100,65,357])]
 story += [p('Trend Desk gate','h2'),p('Trend posts are held until the production log contains a current example URL, platform, date checked, rights check, relevance note and reviewer. If no current example is verified, publish only as a dated teardown. Do not claim “trending now” from an old report. Do not use a personal-account sound for a brand unless the rights are cleared.','body')]
@@ -123,8 +126,8 @@ story += [p('Scheduling reality','h2'),p('TikTok’s official scheduler announce
 story += [p('Memes and stories','h2'),p('Memes are scene-led: a real photograph of the moment, a small two-line caption in the lower third, eight rotating scene plates, no wall of text. Stories are three frames at 1080×1920 with captions burned in; the poll story never carries a link, the desk story never carries an unverified trend claim, and both expire in 24 hours so they are checked before posting.','body')]
 story += [p('QA per placement','h2'),p('Facts, price, offer and sample labels checked · trend verification or live-trend wording removed · Operator disclosure or fallback · captions, crop and disclosure checked · one CTA/destination tested on a phone · human approval recorded. Offer placements add: price, payment and fulfilment confirmed.','body')]
 story += [p('Measurement','h2'),p('Record only available metrics: 24-hour and 7-day views/plays, average watch time, completion, saves, shares, profile visits, relevant comments, WhatsApp keyword enquiries, qualified briefs and confirmed sales. Compare by series after seven days. Change one variable at a time. Do not publish an invented success story.','body')]
-story += [p('Scheduling order','h2'),p('Meta Business Suite can carry the whole month. TikTok’s own scheduler runs roughly 15 minutes to 10 days ahead, so TikTok is refilled in rolling 10-day windows on day 1, 8, 15 and 22. LinkedIn takes six posts a week at 09:00, with the Monday carousel uploaded as a document PDF and the link in the first comment. If a slot cannot be produced, post the rendered poster instead of stacking a catch-up post. Full click-order: marketing/SCHEDULING_RUNBOOK.md.','body')]
-story += [p('Files and source','h2'),p('Canonical editorial source: marketing/series-plan.json. Generated: marketing/content-plan.json, content-calendar.csv, MEASUREMENT.csv, TREND_VERIFICATION.csv, 416 briefs, the calendar, the offline Series Studio and the full-month asset kit (605 carousel slides, 180 story frames, 60 memes, 141 video posters, 5 LinkedIn PDFs) with assets/ASSET_MANIFEST.csv. Commands: npm run content:build; npm run content:check; python marketing/build-pdf.py; python marketing/build-assets.py.','body')]
+story += [p('Scheduling order','h2'),p('Meta Business Suite can carry the whole month. TikTok’s own scheduler runs roughly 15 minutes to 10 days ahead, so TikTok is refilled in rolling 10-day windows on day 1, 8, 15 and 22. LinkedIn takes seven posts a day: four on the Easywurld company page (07:30 document post, 10:30 text, 13:30 image, 17:00 native video) and three on Abu Israel's personal profile (08:15 build log, 12:45 operator's note, 19:45 evening take). Every link goes in the first comment. If a slot cannot be produced, post the rendered poster instead of stacking a catch-up post. Full click-order: marketing/SCHEDULING_RUNBOOK.md.','body')]
+story += [p('Files and source','h2'),p('Canonical editorial source: marketing/series-plan.json. Generated: marketing/content-plan.json, content-calendar.csv, MEASUREMENT.csv, TREND_VERIFICATION.csv, 600 briefs, the calendar, the offline Series Studio and the full-month asset kit (605 carousel slides, 180 story frames, 60 memes, 141 video posters, 35 LinkedIn document PDFs) with assets/ASSET_MANIFEST.csv. Commands: npm run content:build; npm run content:check; python marketing/build-pdf.py; python marketing/build-assets.py.','body')]
 doc=SimpleDocTemplate(str(OUT),pagesize=A4,leftMargin=36,rightMargin=36,topMargin=36,bottomMargin=38,title='Easywurld 11-posts and 2-stories content plan',author='Easywurld')
 doc.build(story,canvasmaker=NumberedCanvas)
 print('Built',OUT)

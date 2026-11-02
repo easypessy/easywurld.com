@@ -159,6 +159,30 @@ def carousel_pdf(post):
     (CAR/'_tmp.jpg').unlink(missing_ok=True)
     return pdf
 
+# ---------------------------------------------------------------- LinkedIn documents
+LI = OUT/'linkedin'
+
+def linkedin_pdf(item):
+    """A 1080x1350 PDF per LinkedIn document post, built from the authored docPages.
+
+    The company page and the personal profile each get their own document, so the
+    two accounts never upload the same file on the same day."""
+    pages=item.get('docPages') or []
+    if not pages: return None
+    LI.mkdir(parents=True,exist_ok=True)
+    pdf=LI/f"{item['id']}.pdf"
+    label=item['accountName']+' · '+item['label']
+    c=pdfcanvas.Canvas(str(pdf),pagesize=(1080,1350))
+    tmp=LI/'_tmp.jpg'
+    for i,pg in enumerate(pages,1):
+        text=f"{pg['kicker']}: {pg['title']}"
+        if pg.get('body'): text+='\n'+pg['body']
+        im=text_card(item['id'],text,label,f'{i:02d} / {len(pages):02d}',series=item['accountName'])
+        im.convert('RGB').save(tmp,quality=90,optimize=True)
+        c.drawImage(str(tmp),0,0,1080,1350); c.showPage()
+    c.save(); tmp.unlink(missing_ok=True)
+    return pdf
+
 # ---------------------------------------------------------------- single statics
 STATIC = OUT/'static'
 
@@ -343,22 +367,49 @@ def manifest(carousel_files, story_files, extra_pdfs):
         else:
             poster=f'assets/fallbacks/{p["id"]}.jpg'
             held=' — TREND HOLD: verify before use' if p['seriesKey']=='trend' else ''
-            rows.append(['Content',p['date'],p['time'],p['id'],p['format'],
-                         f'assets/video-ready/{p["id"]}.mp4 (record) | {poster} (poster, ready)',
-                         'poster' if (OUT/'fallbacks'/f'{p["id"]}.jpg').exists() else 'no',
-                         'Record/edit the clip, or post the poster as a static fallback'+held,plats])
+            mp4=OUT/'video-ready'/f'{p["id"]}.mp4'
+            if mp4.exists():
+                rows.append(['Content',p['date'],p['time'],p['id'],p['format'],
+                             f'assets/video-ready/{p["id"]}.mp4',
+                             'yes','Nothing — finished video: voiceover, music bed, captions and effects already combined'+held,plats])
+            else:
+                rows.append(['Content',p['date'],p['time'],p['id'],p['format'],
+                             f'assets/video-ready/{p["id"]}.mp4 (not rendered yet) | {poster} (poster, ready)',
+                             'poster','Post the poster, or run marketing/build-video.py for this slot'+held,plats])
     for s in PLAN['stories']:
         files=[f'assets/stories/{s["id"]}_frame-{i}.jpg' for i in (1,2,3)]
         rendered=all((OUT/'stories'/f'{s["id"]}_frame-{i}.jpg').exists() for i in (1,2,3))
         rows.append(['Story',s['date'],s['time'],s['id'],s['series'],' '.join(files),'yes' if rendered else 'no','Nothing — upload three frames, add the sticker','Instagram + Facebook + TikTok'])
     for l in PLAN['linkedin']:
+        acct=f"{l['accountName']} ({l['accountType']})"
+        note=f"{acct} · {l['label']} · link goes in the first comment"
         if l['format'].startswith('Document'):
-            pdf=f'assets/carousels/{l["sourcePostId"]}_carousel.pdf'
-            rows.append(['LinkedIn',l['date'],l['time'],l['id'],l['format'],pdf,'yes' if (OUT/'carousels'/f'{l["sourcePostId"]}_carousel.pdf').exists() else 'no','Upload the PDF as a document post',l['label']])
-        elif l['format']=='Vertical video':
-            rows.append(['LinkedIn',l['date'],l['time'],l['id'],l['format'],f'assets/video-ready/{l["sourcePostId"]}.mp4 (record)','no','Re-frame the same clip to 4:5',l['label']])
+            f=f'assets/linkedin/{l["id"]}.pdf'
+            rows.append(['LinkedIn',l['date'],l['time'],l['id'],l['format'],f,
+                         'yes' if (OUT/'linkedin'/f'{l["id"]}.pdf').exists() else 'no',
+                         'Upload the PDF as a document post, then post the first comment',note])
+        elif l['format']=='Native video':
+            mp4=OUT/'video-ready'/f'{l["sourcePostId"]}.mp4'
+            if mp4.exists():
+                rows.append(['LinkedIn',l['date'],l['time'],l['id'],l['format'],
+                             f'assets/video-ready/{l["sourcePostId"]}.mp4','yes',
+                             'Nothing — upload the finished MP4; captions and the AI label are burned in',note])
+            else:
+                rows.append(['LinkedIn',l['date'],l['time'],l['id'],l['format'],
+                             f'assets/video-ready/{l["sourcePostId"]}.mp4 (not rendered yet) | assets/fallbacks/{l["sourcePostId"]}.jpg (poster, ready)',
+                             'poster','Post the poster as an image post, or run marketing/build-video.py for that slot',note])
+        elif l['format']=='Image post':
+            asset=l['asset'].replace('assets/','assets/')
+            rendered=(OUT/Path(asset).relative_to('assets')).exists() if asset.startswith('assets/') else False
+            rows.append(['LinkedIn',l['date'],l['time'],l['id'],l['format'],asset,
+                         'yes' if rendered else 'no','Attach the image, paste the body, then post the first comment',note])
+        elif l['format']=='Poll':
+            opts=' / '.join(l.get('poll',{}).get('options',[]))
+            rows.append(['LinkedIn',l['date'],l['time'],l['id'],l['format'],f'— native poll · {opts} —','n/a',
+                         'Create the poll in LinkedIn, paste the body, add the options, then post the first comment',note])
         else:
-            rows.append(['LinkedIn',l['date'],l['time'],l['id'],l['format'],'— text only —','n/a','Paste the copy from the brief',l['label']])
+            rows.append(['LinkedIn',l['date'],l['time'],l['id'],l['format'],'— text only —','n/a',
+                         'Paste the body, then post the first comment',note])
     with open(OUT/'ASSET_MANIFEST.csv','w',newline='',encoding='utf-8') as fh:
         csv.writer(fh,lineterminator='\n').writerows(rows)
     return len(rows)-1
@@ -367,7 +418,9 @@ def readme(carousel_count, story_count, fallback_count, static_count, pdf_count)
     lines=['# Full-month asset kit','',
       'Rendered from `marketing/series-plan.json` → `content-plan.json`. Every image is a production graphic, not a published post: every CSV/app placement still starts Draft.','',
       '## What is rendered','',
-      f'- `carousels/`: {carousel_count} carousels as five 1080×1350 JPEGs each, uploaded in slide order. `{pdf_count}` Monday carousels also have a PDF for the LinkedIn document post.',
+      f'- `carousels/`: {carousel_count} carousels as five 1080×1350 JPEGs each, uploaded in slide order.',
+      f'- `linkedin/`: {pdf_count} LinkedIn document-post PDFs — four a day on the Easywurld company page, three a day on Abu Israel\'s personal profile.',
+      '- `video-ready/`: finished vertical MP4s (voiceover + music bed + burned captions + effects). Anything not here yet has a poster in `fallbacks/`.',
       f'- `stories/`: {story_count} stories × 3 frames at 1080×1920 (Instagram, then Facebook +5 min, TikTok +10 min).',
       '- `memes/`: 60 scene-led meme JPEGs — photograph first, small two-line caption in the lower third.',
       '- `meme-scenes/`: the eight 4:5 photograph plates the memes and desk scenes are built from.',
@@ -382,7 +435,7 @@ def readme(carousel_count, story_count, fallback_count, static_count, pdf_count)
       '- Every clip with a synthetic presenter or voice carries `AI presenter · Easywurld` and the platform AI setting.',
       '- Trend Desk posters say **HOLD**: complete `marketing/TREND_VERIFICATION.csv` or publish only as a dated teardown with live-trend wording removed.',
       '- Confirm the ₦5,000 price, pack contents and fulfilment before publishing any offer post.',
-      '- Regenerate with `/home/user/.venv/bin/python marketing/build-assets.py` after `npm run content:build`. Fonts live in `~/.cache/easywurld-fonts`.','']
+      '- Regenerate with `bash marketing/setup-env.sh && EASYWURLD_FONT_DIR=/tmp/easywurld-env/fonts /tmp/easywurld-env/venv/bin/python marketing/build-assets.py` after `npm run content:build`.','']
     (OUT/'README.md').write_text('\n'.join(lines))
 
 # ---------------------------------------------------------------- run
@@ -396,9 +449,15 @@ for s in PLAN['series']: series_cover(s)
 
 carousel_posts=[p for p in PLAN['posts'] if p.get('slides')]
 for p in carousel_posts: carousel(p)
+# Legacy: a carousel PDF for any document post whose source is a five-slide carousel.
+# The personal-profile documents are authored separately (linkedin_pdf below), and their
+# sources are not always carousels, so this step is guarded.
 pdf_posts=[l['sourcePostId'] for l in PLAN['linkedin'] if l['format'].startswith('Document')]
-for pid in pdf_posts:
-    if pid in POSTS: carousel_pdf(POSTS[pid])
+for pid in set(pdf_posts):
+    if pid in POSTS and POSTS[pid].get('slides'): carousel_pdf(POSTS[pid])
+li_docs=[l for l in PLAN['linkedin'] if l['format'].startswith('Document')]
+for item in li_docs: linkedin_pdf(item)
+(OUT/'video-ready').mkdir(parents=True,exist_ok=True)
 
 meme_count=static_count=fallback_count=0
 for p in PLAN['posts']:
@@ -417,6 +476,7 @@ for s in PLAN['stories']:
 
 video_guides()
 rows=manifest(carousel_posts,story_count,pdf_posts)
-readme(len(carousel_posts),story_count,fallback_count,static_count,len(pdf_posts))
+readme(len(carousel_posts),story_count,fallback_count,static_count,len(li_docs))
 print(f'Rendered {len(carousel_posts)} carousels ({len(carousel_posts)*5} slides, {len(pdf_posts)} PDFs), {meme_count} memes, {static_count} statics, {fallback_count} video posters, {story_count} stories ({story_count*3} frames), 11 series covers.')
+print(f'LinkedIn documents: {len(li_docs)} PDFs -> marketing/assets/linkedin/')
 print(f'Manifest: {rows} rows -> marketing/assets/ASSET_MANIFEST.csv')
