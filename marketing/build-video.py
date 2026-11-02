@@ -487,6 +487,7 @@ def main():
     ap.add_argument('--all', action='store_true')
     ap.add_argument('--limit', type=int, default=0)
     ap.add_argument('--missing', action='store_true', help='list slots with no narration yet')
+    ap.add_argument('--pending', action='store_true', help='render every slot whose narration is newer than its MP4 (or has none)')
     ap.add_argument('--keep-work', action='store_true')
     args = ap.parse_args()
 
@@ -498,7 +499,13 @@ def main():
         if len(miss) > 40: print(f'  …and {len(miss)-40} more')
         return
 
-    if args.only: posts = [p for p in posts if p['id'] == args.only]
+    if args.pending:
+        keep = []
+        for p in posts:
+            vo = VO_DIR / f"{p['id']}.mp3"; mp4 = OUT / f"{p['id']}.mp4"
+            if vo.exists() and (not mp4.exists() or mp4.stat().st_mtime < vo.stat().st_mtime): keep.append(p)
+        posts = keep
+    elif args.only: posts = [p for p in posts if p['id'] in [x.strip() for x in args.only.split(',')]]
     elif args.day: posts = [p for p in posts if p['day'] == args.day]
     elif args.days:
         a, b = (int(x) for x in args.days.split('-')); posts = [p for p in posts if a <= p['day'] <= b]

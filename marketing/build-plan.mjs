@@ -94,7 +94,7 @@ function makePost(day, series, editorial) {
         cta: 'Save the test and run it on your own account.', ctaType: 'Save', aiDisclosure: true,
         visual: 'Operator persona: `assets/avatar/operator-hero.jpg` as the scene reference. Chest-up from behind or in silhouette, plain warm night-desk background. Verdict card + test checklist inserted.',
         edit: 'Target 30–40 seconds. Open on the verdict card, not a logo. One meaningful cutaway. Correct captions, AI label visible.',
-        duration: '30–40s', fallback: 'Publish the verdict and test as a five-slide carousel or text post.',
+        duration: '35–50s', fallback: 'Publish the verdict and test as a five-slide carousel or text post.',
         prompt: 'Create a vertical 9:16 talking-head video for Easywurld using the supplied anonymous Operator scene plate and the locked voice. Deliver the exact script conversationally: low, slow, unhurried. No face, no eyes, no stock person. Leave space for editor captions and the AI disclosure.' };
       break;
     }
@@ -187,7 +187,7 @@ function makePost(day, series, editorial) {
         cta: `Message ${offer.keyword} to confirm order details.`,
         visual: 'Operator persona: `assets/avatar/operator-hero.jpg`. Insert a clean contents card and the DIY boundary. No fake testimonials.',
         edit: 'Target 30–40 seconds. Keep the answer direct. Correct captions, AI label visible.',
-        duration: '30–40s', fallback: 'Publish the objection and answer as a static FAQ card.',
+        duration: '35–50s', fallback: 'Publish the objection and answer as a static FAQ card.',
         prompt: 'Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plate and the locked voice. Deliver the exact script. Show the pack contents and the DIY boundary. No guaranteed results, fake scarcity or invented testimonials.' };
       break;
     }

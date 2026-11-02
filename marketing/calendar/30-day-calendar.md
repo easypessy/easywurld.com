@@ -935,7 +935,7 @@ Create a five-slide Easywurld carousel for a fashion designer business in Lagos.
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D01-S02.mp4 (record) or assets/fallbacks/EW-D01-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -957,7 +957,7 @@ Create a five-slide Easywurld carousel for a fashion designer business in Lagos.
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Marketing myth. People will tell you, "Posting every day guarantees growth." [pause] My verdict? It depends. Posting often can create more chances to learn, but it does not fix an unclear offer or weak content. Ten useful series posts are different from ten random posts. [pause] Here is a small test you can run this week. Compare one week of consistent series posts with the previous week using saves, profile visits and relevant messages. Oya. Keep the useful part. Drop the absolute. That is Myth Court.
+> Marketing myth. People will tell you, "Posting every day guarantees growth." [pause] My verdict? It depends. Posting often can create more chances to learn, but it does not fix an unclear offer or weak content. Ten useful series posts are different from ten random posts. [pause] Your page looks like everybody else's, so nobody believes you are better. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Compare one week of consistent series posts with the previous week using saves, profile visits and relevant messages. Oya. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -970,13 +970,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 5. but it does not fix an unclear offer
 6. or weak content
 7. Ten useful series posts are different from ten random posts
-8. Here is a small test you can run this week
-9. Compare one week of consistent series posts with
-10. the previous week using saves
-11. profile visits and relevant messages oya
-12. Keep the useful part
-13. Drop the absolute
-14. That is Myth Court
+8. Your page looks like everybody else's
+9. so nobody believes you are better
+10. That is the fight Easywurld picks every day
+11. But we cannot win it alone
+12. Run this small test this week
+13. Compare one week of consistent series posts with
+14. the previous week using saves
+15. profile visits and relevant messages oya
+16. Your yes is the turning point
+17. Keep the useful part
+18. Drop the absolute
 
 ### Edit / shot order
 
@@ -1068,7 +1072,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Brand Vibe. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a product front and center with four still shots that express the brand vibe. Here is how a normal Nigerian business uses it. Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Take it one step at a time. Save the filter. Skip the hype.
+> Trend Desk. Today it is Brand Vibe. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a product front and center with four still shots that express the brand vibe. People see "DM for price" and just pass, money in hand. Here is how we adapt it. Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We bring the map. You bring the business. That is the alliance. Take it one step at a time. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -1079,18 +1083,23 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 40 reported it on 26
 4. October 2026: a product front and center with
 5. four still shots that express the brand vibe
-6. Here is how a normal Nigerian business uses it
-7. Use one real product or service outcome with
-8. four owned images that show the customer's world
-9. Do not invent a lifestyle
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim
-15. Take it one step at a time
-16. Save the filter
-17. Skip the hype
+6. People see "DM for price" and just pass
+7. money in hand
+8. Here is how we adapt it
+9. Use one real product or service outcome with
+10. four owned images that show the customer's world
+11. Do not invent a lifestyle
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. We bring the map
+18. You bring the business
+19. That is the alliance
+20. Take it one step at a time
+21. Save the filter
+22. Skip the hype
 
 ### Edit / shot order
 
@@ -1185,24 +1194,27 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let me show you one bounded AI job. Draft a reply to a new message. [pause] Step one. The input is an anonymised message. Step two. The AI writes a reply with one clarifying question. Step three, and this is the one people skip. A human checks price, availability, promise and tone. Step four. You send an approved reply. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Save it, then test it on your own message.
+> Let me show you one bounded job, done properly. Draft a reply to a new message. [pause] Step one. The input is an anonymised message. Step two. The drafting tool writes a reply with one clarifying question. Step three, and this is the one people skip. A person checks price, availability, promise and tone. Step four. You send an approved reply. [pause] Nothing goes out on its own. The human check is the feature, because trust is the product. Referrals dry up, and the only new customer this month is your cousin. This is a labelled sample build, not a client result. Save it, then test it on your own message.
 
 ### Burned-in caption chunks
 
 Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
 
-1. Let me show you one bounded AI job
+1. Let me show you one bounded job done properly
 2. Draft a reply to a new message step one
 3. The input is an anonymised message step two
-4. The AI writes a reply with one clarifying question
+4. The drafting tool writes a reply with one clarifying question
 5. Step three, and this is the one people skip
-6. A human checks price, availability, promise and tone step four
+6. A person checks price, availability, promise and tone step four
 7. You send an approved reply
 8. Nothing goes out on its own
 9. The human check is the feature
-10. This is a labelled sample build
-11. not a client result
-12. Save it, then test it on your own message
+10. because trust is the product
+11. Referrals dry up, and the only new customer
+12. this month is your cousin
+13. This is a labelled sample build
+14. not a client result
+15. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -1599,7 +1611,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message PLAYBOOK to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D01-S09.mp4 (record) or assets/fallbacks/EW-D01-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
@@ -1623,7 +1635,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> The question I get most about this pack. "Does this automate my WhatsApp?" [pause] No. It gives you scripts, a tracker and a routine. Nothing is auto-sent. Let me be clear about what this is. The Chat-to-Customer Playbook is a five thousand naira DIY pack. Inside, you get Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. [pause] It is not custom work, and it does not promise you sales. Message PLAYBOOK on WhatsApp and I will confirm the current details.
+> The question I get most about this pack. "Does this automate my WhatsApp?" [pause] No. It gives you scripts, a tracker and a routine. Nothing is auto-sent. That villain is what The Chat-to-Customer Playbook fights. It is a five thousand naira DIY pack. Inside, you get Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message PLAYBOOK on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -1634,15 +1646,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. It gives you scripts
 4. a tracker and a routine
 5. Nothing is auto-sent
-6. Let me be clear about what this is
-7. The Chat-to-Customer Playbook is a five thousand naira DIY pack
+6. That villain is what The Chat-to-Customer Playbook fights
+7. It is a five thousand naira DIY pack
 8. Inside, you get Chat-to-Customer Playbook
 9. 36-Script Message Library, Lead & Follow-Up Tracker
 10. 7-Day Setup Checklist
 11. It is not custom work
 12. and it does not promise you sales
-13. Message PLAYBOOK on WhatsApp and I will confirm
-14. the current details
+13. We hand you the map
+14. You walk it
+15. Message PLAYBOOK on WhatsApp and I will confirm
+16. the current details
 
 ### Edit / shot order
 
@@ -1813,7 +1827,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Nine out of ten businesses answer “how much?” with a number. [pause] The ones that survive answer with a decision: what is included, what is not, and what happens next. [pause] A price is not a defence. It is a boundary. No wahala. Save this for your next price reply.
+> Nine out of ten businesses answer “how much?” with a number. [pause] The ones that survive answer with a decision: what is included, what is not, and what happens next. A customer searches, sees your competitor first, and calls them. Your phone stays quiet. [pause] A price is not a defence. It is a boundary. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. No wahala. Save this for your next price reply.
 
 ### Burned-in caption chunks
 
@@ -1824,9 +1838,15 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. The ones that survive answer with a decision:
 4. what is included, what is not
 5. and what happens next
-6. A price is not a defence
-7. It is a boundary no wahala
-8. Save this for your next price reply
+6. A customer searches, sees your competitor first
+7. and calls them
+8. Your phone stays quiet
+9. A price is not a defence
+10. It is a boundary
+11. We fight this every day at Easywurld
+12. and we are honest about it:
+13. we cannot win it alone no wahala
+14. Save this for your next price reply
 
 ### Edit / shot order
 
@@ -2434,7 +2454,7 @@ Create a five-slide Easywurld carousel for a restaurant business in Lagos. Use t
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D02-S02.mp4 (record) or assets/fallbacks/EW-D02-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -2456,7 +2476,7 @@ Create a five-slide Easywurld carousel for a restaurant business in Lagos. Use t
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let us put one piece of advice on trial. "Hashtags are dead." [pause] My verdict? Mostly false. Hashtags may still help categorise content, but they are not a distribution strategy by themselves. Clear hooks, searchable wording and useful content matter more than a large tag block. [pause] Here is a small test you can run this week. Use three to five specific tags and compare search/discovery insights where available. Take it one step at a time. Keep the useful part. Drop the absolute. That is Myth Court.
+> Let us put one piece of advice on trial. "Hashtags are dead." [pause] My verdict? Mostly false. Hashtags may still help categorise content, but they are not a distribution strategy by themselves. Clear hooks, searchable wording and useful content matter more than a large tag block. [pause] People see "DM for price" and just pass, money in hand. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Use three to five specific tags and compare search/discovery insights where available. Take it one step at a time. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -2468,13 +2488,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 4. but they are not a distribution strategy by themselves
 5. Clear hooks, searchable wording and useful content matter
 6. more than a large tag block
-7. Here is a small test you can run this week
-8. Use three to five specific tags and compare
-9. search/discovery insights where available
-10. Take it one step at a time
-11. Keep the useful part
-12. Drop the absolute
-13. That is Myth Court
+7. People see "DM for price" and just pass
+8. money in hand
+9. That is the fight Easywurld picks every day
+10. But we cannot win it alone
+11. Run this small test this week
+12. Use three to five specific tags and compare
+13. search/discovery insights where available
+14. Take it one step at a time
+15. Your yes is the turning point
+16. Keep the useful part
+17. Drop the absolute
 
 ### Edit / shot order
 
@@ -2566,7 +2590,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Pick Your Emoji. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a video carousel that starts with four emoji paths and ends with one CTA. Here is how a normal Nigerian business uses it. Adapt it to four customer problems, not four random products. End with one useful next step. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+> Trend Desk. Today it is Pick Your Emoji. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a video carousel that starts with four emoji paths and ends with one CTA. Referrals dry up, and the only new customer this month is your cousin. Here is how we adapt it. Adapt it to four customer problems, not four random products. End with one useful next step. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Not a service you buy. A fight you join, and your trust is the weapon. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -2577,17 +2601,22 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 40 reported it on 26
 4. October 2026: a video carousel that starts with
 5. four emoji paths and ends with one CTA
-6. Here is how a normal Nigerian business uses it
-7. Adapt it to four customer problems
-8. not four random products
-9. End with one useful next step
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim
-15. Save the filter
-16. Skip the hype
+6. Referrals dry up, and the only new customer
+7. this month is your cousin
+8. Here is how we adapt it
+9. Adapt it to four customer problems
+10. not four random products
+11. End with one useful next step
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. Not a service you buy
+18. A fight you join
+19. and your trust is the weapon
+20. Save the filter
+21. Skip the hype
 
 ### Edit / shot order
 
@@ -2682,26 +2711,31 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> One AI workflow you can copy this week. Qualify a property lead. [pause] Step one. The input is a fictional lead brief. Step two. The AI writes questions that separate budget, location and timeline. Step three, and this is the one people skip. A human checks fair housing language and missing facts. Step four. You send a human-reviewed qualification note. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Save it, then test it on your own message.
+> One workflow we run at Easywurld, and you can copy it. Qualify a property lead. [pause] Step one. The input is a fictional lead brief. Step two. The drafting tool writes questions that separate budget, location and timeline. Step three, and this is the one people skip. A person checks fair housing language and missing facts. Step four. You send a human-reviewed qualification note. [pause] Nothing goes out on its own. The human check is the feature, because trust is the product. A customer searches, sees your competitor first, and calls them. Your phone stays quiet. This is a labelled sample build, not a client result. Save it, then test it on your own message.
 
 ### Burned-in caption chunks
 
 Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
 
-1. One AI workflow you can copy this week
-2. Qualify a property lead step one
-3. The input is a fictional lead brief step two
-4. The AI writes questions that separate budget
-5. location and timeline
-6. Step three, and this is the one people skip
-7. A human checks fair housing language and missing facts
-8. Step four
-9. You send a human-reviewed qualification note
-10. Nothing goes out on its own
-11. The human check is the feature
-12. This is a labelled sample build
-13. not a client result
-14. Save it, then test it on your own message
+1. One workflow we run at Easywurld
+2. and you can copy it
+3. Qualify a property lead step one
+4. The input is a fictional lead brief step two
+5. The drafting tool writes questions that separate budget
+6. location and timeline
+7. Step three, and this is the one people skip
+8. A person checks fair housing language and missing facts
+9. Step four
+10. You send a human-reviewed qualification note
+11. Nothing goes out on its own
+12. The human check is the feature
+13. because trust is the product
+14. A customer searches, sees your competitor first
+15. and calls them
+16. Your phone stays quiet
+17. This is a labelled sample build
+18. not a client result
+19. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -3098,7 +3132,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message CLEAR to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D02-S09.mp4 (record) or assets/fallbacks/EW-D02-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
@@ -3122,7 +3156,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Before you buy, you will ask this. "Is this a website build?" [pause] No. It is a DIY blueprint and templates, not a website build or personal page review. Let me be clear about what this is. The Clear Homepage Blueprint is a five thousand naira DIY pack. Inside, you get Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. [pause] It is not custom work, and it does not promise you sales. Message CLEAR on WhatsApp and I will confirm the current details.
+> Before you buy, you will ask this. "Is this a website build?" [pause] No. It is a DIY blueprint and templates, not a website build or personal page review. That villain is what The Clear Homepage Blueprint fights. It is a five thousand naira DIY pack. Inside, you get Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message CLEAR on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -3132,16 +3166,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Is this a website build? No
 3. It is a DIY blueprint and templates
 4. not a website build or personal page review
-5. Let me be clear about what this is
-6. The Clear Homepage Blueprint is a five thousand
-7. naira DIY pack
-8. Inside, you get Clear Homepage Blueprint
-9. Homepage Copy Templates, Homepage Content Planner
-10. 20-Point Homepage Audit Scorecard
-11. It is not custom work
-12. and it does not promise you sales
-13. Message CLEAR on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The Clear Homepage Blueprint fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get Clear Homepage Blueprint
+8. Homepage Copy Templates, Homepage Content Planner
+9. 20-Point Homepage Audit Scorecard
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message CLEAR on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -3306,7 +3341,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Ten posts a day is not a strategy. [pause] It is a multiplier. Point it at nothing and you get more nothing, faster. [pause] Fix the offer first. Then spend the attention. Oya. Save the checklist in today’s 07:00 post.
+> Ten posts a day is not a strategy. [pause] It is a multiplier. Point it at nothing and you get more nothing, faster. Somebody types your own business name into Google and finds nothing. Then they find somebody else. [pause] Fix the offer first. Then spend the attention. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Oya. Save the checklist in today’s 07:00 post.
 
 ### Burned-in caption chunks
 
@@ -3315,9 +3350,15 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 1. Ten posts a day is not a strategy
 2. It is a multiplier
 3. Point it at nothing and you get more nothing, faster
-4. Fix the offer first
-5. Then spend the attention oya
-6. Save the checklist in today’s 07:00 post
+4. Somebody types your own business name into Google
+5. and finds nothing
+6. Then they find somebody else
+7. Fix the offer first
+8. Then spend the attention
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone oya
+12. Save the checklist in today’s 07:00 post
 
 ### Edit / shot order
 
@@ -3887,7 +3928,7 @@ Create a five-slide Easywurld carousel for a hair salon business in Lagos. Use t
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D03-S02.mp4 (record) or assets/fallbacks/EW-D03-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -3909,7 +3950,7 @@ Create a five-slide Easywurld carousel for a hair salon business in Lagos. Use t
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> You have heard this one before. "A viral video means customers." [pause] My verdict? False. Attention is not the same as intent. A video can reach many people who will never buy. Track relevant messages and qualified briefs, not only views. [pause] Here is a small test you can run this week. Add one clear next step and compare message quality across posts. Keep the useful part. Drop the absolute. That is Myth Court.
+> You have heard this one before. "A viral video means customers." [pause] My verdict? False. Attention is not the same as intent. A video can reach many people who will never buy. [pause] Referrals dry up, and the only new customer this month is your cousin. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Add one clear next step and compare message quality across posts. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -3919,14 +3960,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. A viral video means customers my verdict? False
 3. Attention is not the same as intent
 4. A video can reach many people who will never buy
-5. Track relevant messages and qualified briefs
-6. not only views
-7. Here is a small test you can run this week
-8. Add one clear next step and compare message
-9. quality across posts
-10. Keep the useful part
-11. Drop the absolute
-12. That is Myth Court
+5. Referrals dry up, and the only new customer
+6. this month is your cousin
+7. That is the fight Easywurld picks every day
+8. But we cannot win it alone
+9. Run this small test this week
+10. Add one clear next step and compare message
+11. quality across posts
+12. Your yes is the turning point
+13. Keep the useful part
+14. Drop the absolute
 
 ### Edit / shot order
 
@@ -4018,7 +4061,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Gold Star Behavior. [pause] SocialBee / Drizzle Digital reported it on 21 October 2026: a list of small habits that deserve a gold star. Here is how a normal Nigerian business uses it. Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+> Trend Desk. Today it is Gold Star Behavior. [pause] SocialBee / Drizzle Digital reported it on 21 October 2026: a list of small habits that deserve a gold star. A customer searches, sees your competitor first, and calls them. Your phone stays quiet. Here is how we adapt it. Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We do our half honestly. Your half is the yes. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -4029,17 +4072,22 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. SocialBee / Drizzle Digital reported it on 21
 4. October 2026: a list of small habits that
 5. deserve a gold star
-6. Here is how a normal Nigerian business uses it
-7. Give stars to specific customer habits that reduce
-8. friction, such as sending measurements early
-9. Keep it kind
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim
-15. Save the filter
-16. Skip the hype
+6. A customer searches, sees your competitor first
+7. and calls them
+8. Your phone stays quiet
+9. Here is how we adapt it
+10. Give stars to specific customer habits that reduce
+11. friction, such as sending measurements early
+12. Keep it kind
+13. Before you copy it:
+14. check it is still happening
+15. and check the audio rights
+16. This is a dated teardown
+17. not a live trend claim
+18. We do our half honestly
+19. Your half is the yes
+20. Save the filter
+21. Skip the hype
 
 ### Edit / shot order
 
@@ -4134,7 +4182,7 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> This is the workflow I keep coming back to. Plan a follow-up sequence. [pause] Step one. The input is a labelled sample lead. Step two. The AI writes day-2, day-6 and day-14 reminders with a stop rule. Step three, and this is the one people skip. A human checks consent, timing and whether the lead already replied. Step four. You send a follow-up task list. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. No wahala. Save it, then test it on your own message.
+> This is the workflow I keep coming back to. Plan a follow-up sequence. [pause] Step one. The input is a labelled sample lead. Step two. The drafting tool writes day-2, day-6 and day-14 reminders with a stop rule. Step three, and this is the one people skip. A person checks consent, timing and whether the lead already replied. Step four. You send a follow-up task list. [pause] Nothing goes out on its own. The human check is the feature, because trust is the product. Somebody types your own business name into Google and finds nothing. Then they find somebody else. This is a labelled sample build, not a client result. No wahala. Save it, then test it on your own message.
 
 ### Burned-in caption chunks
 
@@ -4143,17 +4191,21 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 1. This is the workflow I keep coming back to
 2. Plan a follow-up sequence step one
 3. The input is a labelled sample lead step two
-4. The AI writes day-2
+4. The drafting tool writes day-2
 5. day-6 and day-14 reminders with a stop rule
 6. Step three, and this is the one people skip
-7. A human checks consent
+7. A person checks consent
 8. timing and whether the lead already replied step four
 9. You send a follow-up task list
 10. Nothing goes out on its own
 11. The human check is the feature
-12. This is a labelled sample build
-13. not a client result no wahala
-14. Save it, then test it on your own message
+12. because trust is the product
+13. Somebody types your own business name into Google
+14. and finds nothing
+15. Then they find somebody else
+16. This is a labelled sample build
+17. not a client result no wahala
+18. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -4550,7 +4602,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message ENGINE to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D03-S09.mp4 (record) or assets/fallbacks/EW-D03-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
@@ -4574,7 +4626,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Somebody will ask you this. "Are these finished posts for my business?" [pause] No. It is a planning system and idea bank. You still write and design the posts for your business. Let me be clear about what this is. The 30-Day Content Engine is a five thousand naira DIY pack. Inside, you get 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. [pause] It is not custom work, and it does not promise you sales. Message ENGINE on WhatsApp and I will confirm the current details.
+> Somebody will ask you this. "Are these finished posts for my business?" [pause] No. It is a planning system and idea bank. You still write and design the posts for your business. That villain is what The 30-Day Content Engine fights. It is a five thousand naira DIY pack. Inside, you get 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message ENGINE on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -4584,16 +4636,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Are these finished posts for my business? No
 3. It is a planning system and idea bank
 4. You still write and design the posts for your business
-5. Let me be clear about what this is
-6. The 30-Day Content Engine is a five thousand
-7. naira DIY pack
-8. Inside, you get 30-Day Content Engine Guide
-9. 60-Idea Post Bank, 30-Day Content Calendar
-10. Hooks and Caption Swipe File
-11. It is not custom work
-12. and it does not promise you sales
-13. Message ENGINE on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The 30-Day Content Engine fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get 30-Day Content Engine Guide
+8. 60-Idea Post Bank, 30-Day Content Calendar
+9. Hooks and Caption Swipe File
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message ENGINE on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -4764,7 +4817,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> AI does not have a taste problem. It has a memory problem. [pause] It remembers the internet, not your prices, your promises or your limits. [pause] Let it draft. Never let it decide. Take it one step at a time. Save this before your next automated reply.
+> AI does not have a taste problem. It has a memory problem. [pause] It remembers the internet, not your prices, your promises or your limits. "How much?" becomes "I will get back to you", and that becomes silence. [pause] Let it draft. Never let it decide. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Take it one step at a time. Save this before your next automated reply.
 
 ### Burned-in caption chunks
 
@@ -4774,10 +4827,15 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. It has a memory problem
 3. It remembers the internet
 4. not your prices, your promises or your limits
-5. Let it draft
-6. Never let it decide
-7. Take it one step at a time
-8. Save this before your next automated reply
+5. How much?" becomes "I will get back to
+6. you", and that becomes silence
+7. Let it draft
+8. Never let it decide
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone
+12. Take it one step at a time
+13. Save this before your next automated reply
 
 ### Edit / shot order
 
@@ -5353,7 +5411,7 @@ Create a five-slide Easywurld carousel for a gym business in Lagos. Use the exac
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D04-S02.mp4 (record) or assets/fallbacks/EW-D04-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -5375,7 +5433,7 @@ Create a five-slide Easywurld carousel for a gym business in Lagos. Use the exac
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Marketing myth. People will tell you, "More followers means more sales." [pause] My verdict? It depends. Followers can help reach, but sales need a relevant offer, trust and a clear route to buy. A smaller audience with the right problem can be more useful. [pause] Here is a small test you can run this week. Compare profile visits, offer clicks and confirmed sales per 1,000 views. Keep the useful part. Drop the absolute. That is Myth Court.
+> Marketing myth. People will tell you, "More followers means more sales." [pause] My verdict? It depends. Followers can help reach, but sales need a relevant offer, trust and a clear route to buy. A smaller audience with the right problem can be more useful. [pause] A customer searches, sees your competitor first, and calls them. Your phone stays quiet. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Compare profile visits, offer clicks and confirmed sales per 1,000 views. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -5389,12 +5447,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 6. trust and a clear route to buy
 7. A smaller audience with the right problem can
 8. be more useful
-9. Here is a small test you can run this week
-10. Compare profile visits, offer clicks and confirmed sales
-11. per 1,000 views
-12. Keep the useful part
-13. Drop the absolute
-14. That is Myth Court
+9. A customer searches, sees your competitor first
+10. and calls them
+11. Your phone stays quiet
+12. That is the fight Easywurld picks every day
+13. But we cannot win it alone
+14. Run this small test this week
+15. Compare profile visits, offer clicks and confirmed sales
+16. per 1,000 views
+17. Your yes is the turning point
+18. Keep the useful part
+19. Drop the absolute
 
 ### Edit / shot order
 
@@ -5486,7 +5549,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Six-to-18-second proof Reel. [pause] Lightreel weekly report reported it on 24 October 2026: a short Reel that makes one claim and resolves it visually. Here is how a normal Nigerian business uses it. Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. No wahala. Save the filter. Skip the hype.
+> Trend Desk. Today it is Six-to-18-second proof Reel. [pause] Lightreel weekly report reported it on 24 October 2026: a short Reel that makes one claim and resolves it visually. Somebody types your own business name into Google and finds nothing. Then they find somebody else. Here is how we adapt it. Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We can build the fix, but we cannot win it alone. Your yes is the turning point. No wahala. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -5497,17 +5560,23 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Lightreel weekly report reported it on 24 October
 4. 2026: a short Reel that makes one claim
 5. and resolves it visually
-6. Here is how a normal Nigerian business uses it
-7. Show one labelled sample transformation
-8. such as a homepage toggle
-9. Do not claim performance results
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim no wahala
-15. Save the filter
-16. Skip the hype
+6. Somebody types your own business name into Google
+7. and finds nothing
+8. Then they find somebody else
+9. Here is how we adapt it
+10. Show one labelled sample transformation
+11. such as a homepage toggle
+12. Do not claim performance results
+13. Before you copy it:
+14. check it is still happening
+15. and check the audio rights
+16. This is a dated teardown
+17. not a live trend claim
+18. We can build the fix
+19. but we cannot win it alone
+20. Your yes is the turning point no wahala
+21. Save the filter
+22. Skip the hype
 
 ### Edit / shot order
 
@@ -5602,26 +5671,30 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let me show you one bounded AI job. Draft an FAQ answer. [pause] Step one. The input is a real common question and approved facts. Step two. The AI writes a short answer with a source link. Step three, and this is the one people skip. A human checks accuracy, tone and when to escalate. Step four. You send a reviewed FAQ entry. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Oya. Save it, then test it on your own message.
+> Let me show you one bounded job, done properly. Draft an FAQ answer. [pause] Step one. The input is a real common question and approved facts. Step two. The drafting tool writes a short answer with a source link. Step three, and this is the one people skip. A person checks accuracy, tone and when to escalate. Step four. You send a reviewed FAQ entry. [pause] Nothing goes out on its own. The human check is the feature, because trust is the product. "How much?" becomes "I will get back to you", and that becomes silence. This is a labelled sample build, not a client result. Oya. Save it, then test it on your own message.
 
 ### Burned-in caption chunks
 
 Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
 
-1. Let me show you one bounded AI job
+1. Let me show you one bounded job done properly
 2. Draft an FAQ answer step one
 3. The input is a real common question and approved facts
 4. Step two
-5. The AI writes a short answer with a source link
-6. Step three, and this is the one people skip
-7. A human checks accuracy
-8. tone and when to escalate step four
-9. You send a reviewed FAQ entry
-10. Nothing goes out on its own
-11. The human check is the feature
-12. This is a labelled sample build
-13. not a client result oya
-14. Save it, then test it on your own message
+5. The drafting tool writes a short answer with
+6. a source link
+7. Step three, and this is the one people skip
+8. A person checks accuracy
+9. tone and when to escalate step four
+10. You send a reviewed FAQ entry
+11. Nothing goes out on its own
+12. The human check is the feature
+13. because trust is the product
+14. How much?" becomes "I will get back to
+15. you", and that becomes silence
+16. This is a labelled sample build
+17. not a client result oya
+18. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -6018,7 +6091,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message PAGE to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D04-S09.mp4 (record) or assets/fallbacks/EW-D04-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/one-offer-landing-page-kit
@@ -6042,7 +6115,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> The question I get most about this pack. "Do you host the page for me?" [pause] No. Publishing, hosting and any domain are yours. The kit gives you a simple HTML starter. Let me be clear about what this is. The One-Offer Landing Page Kit is a five thousand naira DIY pack. Inside, you get One-Offer Landing Page Guide, Landing Page Copy Template with Worked Example, Editable Landing Page Starter (HTML), Pre-Launch Checklist. [pause] It is not custom work, and it does not promise you sales. Message PAGE on WhatsApp and I will confirm the current details.
+> The question I get most about this pack. "Do you host the page for me?" [pause] No. Publishing, hosting and any domain are yours. The kit gives you a simple HTML starter. That villain is what The One-Offer Landing Page Kit fights. It is a five thousand naira DIY pack. Inside, you get One-Offer Landing Page Guide, Landing Page Copy Template with Worked Example, Editable Landing Page Starter (HTML), Pre-Launch Checklist. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message PAGE on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -6052,16 +6125,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Do you host the page for me? No
 3. Publishing, hosting and any domain are yours
 4. The kit gives you a simple HTML starter
-5. Let me be clear about what this is
-6. The One-Offer Landing Page Kit is a five
-7. thousand naira DIY pack
-8. Inside, you get One-Offer Landing Page Guide
-9. Landing Page Copy Template with Worked Example
-10. Editable Landing Page Starter (HTML) pre-Launch Checklist
-11. It is not custom work
-12. and it does not promise you sales
-13. Message PAGE on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The One-Offer Landing Page kit fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get One-Offer Landing Page Guide
+8. Landing Page Copy Template with Worked Example
+9. Editable Landing Page Starter (HTML) pre-Launch Checklist
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message PAGE on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -6261,7 +6335,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Nobody has ever bought from you because your logo was beautiful. [pause] They bought because your offer was easier to understand than the alternative. [pause] Craft the decision, not the decoration. Send this to the person redesigning their logo for the third time.
+> Nobody has ever bought from you because your logo was beautiful. [pause] They bought because your offer was easier to understand than the alternative. Your page looks like everybody else's, so nobody believes you are better. [pause] Craft the decision, not the decoration. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Send this to the person redesigning their logo for the third time.
 
 ### Burned-in caption chunks
 
@@ -6271,9 +6345,14 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. logo was beautiful
 3. They bought because your offer was easier to
 4. understand than the alternative
-5. Craft the decision, not the decoration
-6. Send this to the person redesigning their logo
-7. for the third time
+5. Your page looks like everybody else's
+6. so nobody believes you are better
+7. Craft the decision, not the decoration
+8. We fight this every day at Easywurld
+9. and we are honest about it:
+10. we cannot win it alone
+11. Send this to the person redesigning their logo
+12. for the third time
 
 ### Edit / shot order
 
@@ -6842,7 +6921,7 @@ Create a five-slide Easywurld carousel for a real estate agent business in Lagos
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D05-S02.mp4 (record) or assets/fallbacks/EW-D05-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -6864,7 +6943,7 @@ Create a five-slide Easywurld carousel for a real estate agent business in Lagos
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let us put one piece of advice on trial. "You need a website before you post." [pause] My verdict? It depends. A website helps, but a clear profile and contact route can start conversations. Do not wait for a perfect site to answer customer questions. [pause] Here is a small test you can run this week. Test the profile-to-WhatsApp journey today and fix broken links. No wahala. Keep the useful part. Drop the absolute. That is Myth Court.
+> Let us put one piece of advice on trial. "You need a website before you post." [pause] My verdict? It depends. A website helps, but a clear profile and contact route can start conversations. Do not wait for a perfect site to answer customer questions. [pause] Somebody types your own business name into Google and finds nothing. Then they find somebody else. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Test the profile-to-WhatsApp journey today and fix broken links. No wahala. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -6877,12 +6956,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 5. contact route can start conversations
 6. Do not wait for a perfect site to
 7. answer customer questions
-8. Here is a small test you can run this week
-9. Test the profile-to-WhatsApp journey today and fix broken links
-10. No wahala
-11. Keep the useful part
-12. Drop the absolute
-13. That is Myth Court
+8. Somebody types your own business name into Google
+9. and finds nothing
+10. Then they find somebody else
+11. That is the fight Easywurld picks every day
+12. But we cannot win it alone
+13. Run this small test this week
+14. Test the profile-to-WhatsApp journey today and fix broken links
+15. No wahala
+16. Your yes is the turning point
+17. Keep the useful part
+18. Drop the absolute
 
 ### Edit / shot order
 
@@ -6974,7 +7058,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Native-interface tutorial. [pause] Lightreel weekly report reported it on 24 October 2026: a screen-recording aesthetic that shows the actual interface. Here is how a normal Nigerian business uses it. Record the real demo at a readable crop. Keep concept/sample labels visible. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Oya. Save the filter. Skip the hype.
+> Trend Desk. Today it is Native-interface tutorial. [pause] Lightreel weekly report reported it on 24 October 2026: a screen-recording aesthetic that shows the actual interface. "How much?" becomes "I will get back to you", and that becomes silence. Here is how we adapt it. Record the real demo at a readable crop. Keep concept/sample labels visible. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Easywurld fights this every day. The win only happens with your business in it. Oya. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -6984,16 +7068,20 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Today it is Native-interface tutorial
 3. Lightreel weekly report reported it on 24 October
 4. 2026: a screen-recording aesthetic that shows the actual interface
-5. Here is how a normal Nigerian business uses it
-6. Record the real demo at a readable crop
-7. Keep concept/sample labels visible
-8. One thing before you copy it
-9. Check that it is still happening
-10. and check the audio rights
-11. This is a dated teardown
-12. not a live trend claim oya
-13. Save the filter
-14. Skip the hype
+5. How much?" becomes "I will get back to
+6. you", and that becomes silence
+7. Here is how we adapt it
+8. Record the real demo at a readable crop
+9. Keep concept/sample labels visible
+10. Before you copy it:
+11. check it is still happening
+12. and check the audio rights
+13. This is a dated teardown
+14. not a live trend claim
+15. Easywurld fights this every day
+16. The win only happens with your business in it oya
+17. Save the filter
+18. Skip the hype
 
 ### Edit / shot order
 
@@ -7088,26 +7176,30 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> One AI workflow you can copy this week. Prepare an after-hours message. [pause] Step one. The input is business hours and service scope. Step two. The AI writes a calm message with the next available action. Step three, and this is the one people skip. A human checks hours, emergency wording and promises. Step four. You send an approved after-hours reply. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Take it one step at a time. Save it, then test it on your own message.
+> One workflow we run at Easywurld, and you can copy it. Prepare an after-hours message. [pause] Step one. The input is business hours and service scope. Step two. The drafting tool writes a calm message with the next available action. Step three, and this is the one people skip. A person checks hours, emergency wording and promises. Step four. You send an approved after-hours reply. [pause] Nothing goes out on its own. The human check is the feature, because trust is the product. Your page looks like everybody else's, so nobody believes you are better. This is a labelled sample build, not a client result. Take it one step at a time. Save it, then test it on your own message.
 
 ### Burned-in caption chunks
 
 Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
 
-1. One AI workflow you can copy this week
-2. Prepare an after-hours message step one
-3. The input is business hours and service scope step two
-4. The AI writes a calm message with the
-5. next available action
-6. Step three, and this is the one people skip
-7. A human checks hours, emergency wording and promises step four
-8. You send an approved after-hours reply
-9. Nothing goes out on its own
-10. The human check is the feature
-11. This is a labelled sample build
-12. not a client result
-13. Take it one step at a time
-14. Save it, then test it on your own message
+1. One workflow we run at Easywurld
+2. and you can copy it
+3. Prepare an after-hours message step one
+4. The input is business hours and service scope step two
+5. The drafting tool writes a calm message with
+6. the next available action
+7. Step three, and this is the one people skip
+8. A person checks hours, emergency wording and promises step four
+9. You send an approved after-hours reply
+10. Nothing goes out on its own
+11. The human check is the feature
+12. because trust is the product
+13. Your page looks like everybody else's
+14. so nobody believes you are better
+15. This is a labelled sample build
+16. not a client result
+17. Take it one step at a time
+18. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -7504,7 +7596,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message LOCAL to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D05-S09.mp4 (record) or assets/fallbacks/EW-D05-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/lagos-local-visibility-starter
@@ -7528,7 +7620,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Before you buy, you will ask this. "Will this guarantee ranking?" [pause] No. It helps you organise accurate local information. Rankings depend on many factors. Let me be clear about what this is. The Lagos Local Visibility Starter is a five thousand naira DIY pack. Inside, you get Local Visibility Guide, Keyword and Page Title Worksheet, Google Business Profile Checklist and Review Scripts, 30-Day Local Visibility Tracker. [pause] It is not custom work, and it does not promise you sales. Message LOCAL on WhatsApp and I will confirm the current details.
+> Before you buy, you will ask this. "Will this guarantee ranking?" [pause] No. It helps you organise accurate local information. Rankings depend on many factors. That villain is what The Lagos Local Visibility Starter fights. It is a five thousand naira DIY pack. Inside, you get Local Visibility Guide, Keyword and Page Title Worksheet, Google Business Profile Checklist and Review Scripts, 30-Day Local Visibility Tracker. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message LOCAL on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -7538,17 +7630,18 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Will this guarantee ranking? No
 3. It helps you organise accurate local information
 4. Rankings depend on many factors
-5. Let me be clear about what this is
-6. The Lagos Local Visibility Starter is a five
-7. thousand naira DIY pack
-8. Inside, you get Local Visibility Guide
-9. Keyword and Page Title Worksheet
-10. Google Business Profile Checklist and Review Scripts
-11. 30-Day Local Visibility Tracker
-12. It is not custom work
-13. and it does not promise you sales
-14. Message LOCAL on WhatsApp and I will confirm
-15. the current details
+5. That villain is what The Lagos Local Visibility starter fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get Local Visibility Guide
+8. Keyword and Page Title Worksheet
+9. Google Business Profile Checklist and Review Scripts
+10. 30-Day Local Visibility Tracker
+11. It is not custom work
+12. and it does not promise you sales
+13. We hand you the map
+14. You walk it
+15. Message LOCAL on WhatsApp and I will confirm
+16. the current details
 
 ### Edit / shot order
 
@@ -7719,7 +7812,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Nothing is wrong with your content. You are talking to the room, not to the person. [pause] One customer, one problem, one next step. That is the whole brief. [pause] Write to one person and a thousand will feel seen. Save this for tomorrow’s caption.
+> Nothing is wrong with your content. You are talking to the room, not to the person. [pause] One customer, one problem, one next step. That is the whole brief. People see "DM for price" and just pass, money in hand. [pause] Write to one person and a thousand will feel seen. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Save this for tomorrow’s caption.
 
 ### Burned-in caption chunks
 
@@ -7730,8 +7823,13 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. not to the person
 4. One customer, one problem, one next step
 5. That is the whole brief
-6. Write to one person and a thousand will feel seen
-7. Save this for tomorrow’s caption
+6. People see "DM for price" and just pass
+7. money in hand
+8. Write to one person and a thousand will feel seen
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone
+12. Save this for tomorrow’s caption
 
 ### Edit / shot order
 
@@ -8305,7 +8403,7 @@ Create a five-slide Easywurld carousel for a bakery business in Lagos. Use the e
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D06-S02.mp4 (record) or assets/fallbacks/EW-D06-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -8327,7 +8425,7 @@ Create a five-slide Easywurld carousel for a bakery business in Lagos. Use the e
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> You have heard this one before. "AI can replace marketing strategy." [pause] My verdict? False. AI can draft and organise, but it does not know your customer, margins, capacity or promise unless you supply them. Strategy still needs human judgement. [pause] Here is a small test you can run this week. Write the offer, audience and proof first; then ask AI for drafts. Oya. Keep the useful part. Drop the absolute. That is Myth Court.
+> You have heard this one before. "AI can replace marketing strategy." [pause] My verdict? False. AI can draft and organise, but it does not know your customer, margins, capacity or promise unless you supply them. Strategy still needs human judgement. [pause] "How much?" becomes "I will get back to you", and that becomes silence. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Write the offer, audience and proof first; then ask AI for drafts. Oya. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -8339,12 +8437,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 4. but it does not know your customer
 5. margins, capacity or promise unless you supply them
 6. Strategy still needs human judgement
-7. Here is a small test you can run this week
-8. Write the offer, audience and proof first;
-9. then ask AI for drafts oya
-10. Keep the useful part
-11. Drop the absolute
-12. That is Myth Court
+7. How much?" becomes "I will get back to
+8. you", and that becomes silence
+9. That is the fight Easywurld picks every day
+10. But we cannot win it alone
+11. Run this small test this week
+12. Write the offer, audience and proof first;
+13. then ask AI for drafts oya
+14. Your yes is the turning point
+15. Keep the useful part
+16. Drop the absolute
 
 ### Edit / shot order
 
@@ -8436,7 +8538,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Comment keyword to DM. [pause] Lightreel weekly report reported it on 24 October 2026: a comment keyword that triggers a DM workflow. Here is how a normal Nigerian business uses it. Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Take it one step at a time. Save the filter. Skip the hype.
+> Trend Desk. Today it is Comment keyword to DM. [pause] Lightreel weekly report reported it on 24 October 2026: a comment keyword that triggers a DM workflow. Your page looks like everybody else's, so nobody believes you are better. Here is how we adapt it. Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We bring the map. You bring the business. That is the alliance. Take it one step at a time. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -8446,18 +8548,23 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Today it is Comment keyword to DM
 3. Lightreel weekly report reported it on 24 October
 4. 2026: a comment keyword that triggers a DM workflow
-5. Here is how a normal Nigerian business uses it
-6. Use one keyword for one pack and confirm
-7. the DM flow works
-8. Do not promise instant delivery if it is manual
-9. One thing before you copy it
-10. Check that it is still happening
-11. and check the audio rights
-12. This is a dated teardown
-13. not a live trend claim
-14. Take it one step at a time
-15. Save the filter
-16. Skip the hype
+5. Your page looks like everybody else's
+6. so nobody believes you are better
+7. Here is how we adapt it
+8. Use one keyword for one pack and confirm
+9. the DM flow works
+10. Do not promise instant delivery if it is manual
+11. Before you copy it:
+12. check it is still happening
+13. and check the audio rights
+14. This is a dated teardown
+15. not a live trend claim
+16. We bring the map
+17. You bring the business
+18. That is the alliance
+19. Take it one step at a time
+20. Save the filter
+21. Skip the hype
 
 ### Edit / shot order
 
@@ -8552,7 +8659,7 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> This is the workflow I keep coming back to. Summarise a booking request. [pause] Step one. The input is a fictional booking form. Step two. The AI writes a summary with missing fields flagged. Step three, and this is the one people skip. A human checks date, time, price and cancellation terms. Step four. You send a human-confirmed booking note. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Save it, then test it on your own message.
+> This is the workflow I keep coming back to. Summarise a booking request. [pause] Step one. The input is a fictional booking form. Step two. The drafting tool writes a summary with missing fields flagged. Step three, and this is the one people skip. A person checks date, time, price and cancellation terms. Step four. You send a human-confirmed booking note. [pause] Nothing goes out on its own. The human check is the feature, because trust is the product. People see "DM for price" and just pass, money in hand. This is a labelled sample build, not a client result. Save it, then test it on your own message.
 
 ### Burned-in caption chunks
 
@@ -8561,16 +8668,19 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 1. This is the workflow I keep coming back to
 2. Summarise a booking request step one
 3. The input is a fictional booking form step two
-4. The AI writes a summary with missing fields flagged
+4. The drafting tool writes a summary with missing fields flagged
 5. Step three, and this is the one people skip
-6. A human checks date
+6. A person checks date
 7. time, price and cancellation terms step four
 8. You send a human-confirmed booking note
 9. Nothing goes out on its own
 10. The human check is the feature
-11. This is a labelled sample build
-12. not a client result
-13. Save it, then test it on your own message
+11. because trust is the product
+12. People see "DM for price" and just pass
+13. money in hand
+14. This is a labelled sample build
+15. not a client result
+16. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -8967,7 +9077,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message MESSAGE to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D06-S09.mp4 (record) or assets/fallbacks/EW-D06-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-message-workbook
@@ -8991,7 +9101,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Somebody will ask you this. "Is this a consultation?" [pause] No. It is a self-guided workbook. It does not include a consultation or review of your answers. Let me be clear about what this is. The Clear Message Workbook is a five thousand naira DIY pack. Inside, you get Clear Message Workbook, Customer Interview Kit, Message Bank, One-Page Marketing Plan. [pause] It is not custom work, and it does not promise you sales. Message MESSAGE on WhatsApp and I will confirm the current details.
+> Somebody will ask you this. "Is this a consultation?" [pause] No. It is a self-guided workbook. It does not include a consultation or review of your answers. That villain is what The Clear Message Workbook fights. It is a five thousand naira DIY pack. Inside, you get Clear Message Workbook, Customer Interview Kit, Message Bank, One-Page Marketing Plan. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message MESSAGE on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -9002,16 +9112,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. It is a self-guided workbook
 4. It does not include a consultation or review
 5. of your answers
-6. Let me be clear about what this is
-7. The Clear Message Workbook is a five thousand
-8. naira DIY pack
-9. Inside, you get Clear Message Workbook
-10. Customer Interview Kit, Message Bank
-11. One-Page Marketing Plan
-12. It is not custom work
-13. and it does not promise you sales
-14. Message MESSAGE on WhatsApp and I will confirm
-15. the current details
+6. That villain is what The Clear Message Workbook fights
+7. It is a five thousand naira DIY pack
+8. Inside, you get Clear Message Workbook
+9. Customer Interview Kit, Message Bank
+10. One-Page Marketing Plan
+11. It is not custom work
+12. and it does not promise you sales
+13. We hand you the map
+14. You walk it
+15. Message MESSAGE on WhatsApp and I will confirm
+16. the current details
 
 ### Edit / shot order
 
@@ -9207,7 +9318,7 @@ Create an Easywurld introduction in the format AI talking head. Use the exact su
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Every unanswered message is a price you already agreed to pay. [pause] You did the advertising, then let the reply die in a list you never open. [pause] Answer five a day. The list is the calendar. No wahala. Save this and clear five tonight.
+> Every unanswered message is a price you already agreed to pay. [pause] You did the advertising, then let the reply die in a list you never open. Referrals dry up, and the only new customer this month is your cousin. [pause] Answer five a day. The list is the calendar. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. No wahala. Save this and clear five tonight.
 
 ### Burned-in caption chunks
 
@@ -9218,9 +9329,14 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. You did the advertising
 4. then let the reply die in a list
 5. you never open
-6. Answer five a day
-7. The list is the calendar no wahala
-8. Save this and clear five tonight
+6. Referrals dry up, and the only new customer
+7. this month is your cousin
+8. Answer five a day
+9. The list is the calendar
+10. We fight this every day at Easywurld
+11. and we are honest about it:
+12. we cannot win it alone no wahala
+13. Save this and clear five tonight
 
 ### Edit / shot order
 
@@ -9801,7 +9917,7 @@ Create a five-slide Easywurld carousel for a skincare brand business in Lagos. U
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D07-S02.mp4 (record) or assets/fallbacks/EW-D07-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -9823,7 +9939,7 @@ Create a five-slide Easywurld carousel for a skincare brand business in Lagos. U
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Marketing myth. People will tell you, "A free review means free custom work." [pause] My verdict? False. A review can identify a problem and next step. Building, writing or managing the solution is separate scoped work. [pause] Here is a small test you can run this week. State the review boundary before starting and send a written scope for extra work. Take it one step at a time. Keep the useful part. Drop the absolute. That is Myth Court.
+> Marketing myth. People will tell you, "A free review means free custom work." [pause] My verdict? False. A review can identify a problem and next step. Building, writing or managing the solution is separate scoped work. [pause] Your page looks like everybody else's, so nobody believes you are better. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. State the review boundary before starting and send a written scope for extra work. Take it one step at a time. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -9834,13 +9950,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. "A free review means free custom work my verdict? False
 4. A review can identify a problem and next step
 5. Building, writing or managing the solution is separate scoped work
-6. Here is a small test you can run this week
-7. State the review boundary before starting and send
-8. a written scope for extra work
-9. Take it one step at a time
-10. Keep the useful part
-11. Drop the absolute
-12. That is Myth Court
+6. Your page looks like everybody else's
+7. so nobody believes you are better
+8. That is the fight Easywurld picks every day
+9. But we cannot win it alone
+10. Run this small test this week
+11. State the review boundary before starting and send
+12. a written scope for extra work
+13. Take it one step at a time
+14. Your yes is the turning point
+15. Keep the useful part
+16. Drop the absolute
 
 ### Edit / shot order
 
@@ -9932,7 +10052,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. Here is how a normal Nigerian business uses it. Show the hook that brings an message and the process that earns trust. Use real or labelled sample steps. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. People see "DM for price" and just pass, money in hand. Here is how we adapt it. Show the hook that brings an message and the process that earns trust. Use real or labelled sample steps. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Not a service you buy. A fight you join, and your trust is the weapon. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -9944,17 +10064,22 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 4. Drizzle Digital Volume 38 reported it on 28
 5. September 2026: a contrast between what attracts customers
 6. and what keeps them
-7. Here is how a normal Nigerian business uses it
-8. Show the hook that brings an message and
-9. the process that earns trust
-10. Use real or labelled sample steps
-11. One thing before you copy it
-12. Check that it is still happening
-13. and check the audio rights
-14. This is a dated teardown
-15. not a live trend claim
-16. Save the filter
-17. Skip the hype
+7. People see "DM for price" and just pass
+8. money in hand
+9. Here is how we adapt it
+10. Show the hook that brings an message and
+11. the process that earns trust
+12. Use real or labelled sample steps
+13. Before you copy it:
+14. check it is still happening
+15. and check the audio rights
+16. This is a dated teardown
+17. not a live trend claim
+18. Not a service you buy
+19. A fight you join
+20. and your trust is the weapon
+21. Save the filter
+22. Skip the hype
 
 ### Edit / shot order
 
@@ -10049,25 +10174,28 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let me show you one bounded AI job. Turn a market brief into a checklist. [pause] Step one. The input is a labelled sample brief. Step two. The AI writes a task list with owners and open questions. Step three, and this is the one people skip. A human checks invented facts and missing approvals. Step four. You send a reviewed production checklist. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Save it, then test it on your own message.
+> Let me show you one bounded job, done properly. Turn a market brief into a checklist. [pause] Step one. The input is a labelled sample brief. Step two. The drafting tool writes a task list with owners and open questions. Step three, and this is the one people skip. A person checks invented facts and missing approvals. Step four. You send a reviewed production checklist. [pause] Nothing goes out on its own. The human check is the feature, because trust is the product. Referrals dry up, and the only new customer this month is your cousin. This is a labelled sample build, not a client result. Save it, then test it on your own message.
 
 ### Burned-in caption chunks
 
 Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
 
-1. Let me show you one bounded AI job
+1. Let me show you one bounded job done properly
 2. Turn a market brief into a checklist step one
 3. The input is a labelled sample brief step two
-4. The AI writes a task list with owners
-5. and open questions
+4. The drafting tool writes a task list with
+5. owners and open questions
 6. Step three, and this is the one people skip
-7. A human checks invented facts and missing approvals step four
+7. A person checks invented facts and missing approvals step four
 8. You send a reviewed production checklist
 9. Nothing goes out on its own
 10. The human check is the feature
-11. This is a labelled sample build
-12. not a client result
-13. Save it, then test it on your own message
+11. because trust is the product
+12. Referrals dry up, and the only new customer
+13. this month is your cousin
+14. This is a labelled sample build
+15. not a client result
+16. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -10464,7 +10592,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message PROMPTS to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D07-S09.mp4 (record) or assets/fallbacks/EW-D07-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/everyday-ai-prompt-desk
@@ -10488,7 +10616,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> The question I get most about this pack. "Does this build a chatbot?" [pause] No. The knowledge sheet is a design document. Building or installing an assistant is separate. Let me be clear about what this is. The Everyday AI Prompt Desk is a five thousand naira DIY pack. Inside, you get AI Prompting Guide for Small Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template, AI Output Review and Safety Checklist. [pause] It is not custom work, and it does not promise you sales. Message PROMPTS on WhatsApp and I will confirm the current details.
+> The question I get most about this pack. "Does this build a chatbot?" [pause] No. The knowledge sheet is a design document. Building or installing an assistant is separate. That villain is what The Everyday AI Prompt Desk fights. It is a five thousand naira DIY pack. Inside, you get AI Prompting Guide for Small Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template, AI Output Review and Safety Checklist. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message PROMPTS on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -10498,16 +10626,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Does this build a chatbot? No
 3. The knowledge sheet is a design document
 4. Building or installing an assistant is separate
-5. Let me be clear about what this is
-6. The Everyday AI Prompt Desk is a five
-7. thousand naira DIY pack
-8. Inside, you get AI Prompting Guide for Small
-9. Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template
-10. AI Output Review and Safety Checklist
-11. It is not custom work
-12. and it does not promise you sales
-13. Message PROMPTS on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The Everyday AI Prompt desk fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get AI Prompting Guide for Small
+8. Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template
+9. AI Output Review and Safety Checklist
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message PROMPTS on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -10678,7 +10807,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Followers are not customers. They are strangers who agreed to keep looking. [pause] The business happens in the message, the call and the second visit. [pause] Count messages, not applause. Oya. Save this before you buy followers.
+> Followers are not customers. They are strangers who agreed to keep looking. [pause] The business happens in the message, the call and the second visit. A customer searches, sees your competitor first, and calls them. Your phone stays quiet. [pause] Count messages, not applause. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Oya. Save this before you buy followers.
 
 ### Burned-in caption chunks
 
@@ -10688,8 +10817,14 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. They are strangers who agreed to keep looking
 3. The business happens in the message
 4. the call and the second visit
-5. Count messages, not applause oya
-6. Save this before you buy followers
+5. A customer searches, sees your competitor first
+6. and calls them
+7. Your phone stays quiet
+8. Count messages, not applause
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone oya
+12. Save this before you buy followers
 
 ### Edit / shot order
 
@@ -11264,7 +11399,7 @@ Create a five-slide Easywurld carousel for a tutor business in Lagos. Use the ex
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D08-S02.mp4 (record) or assets/fallbacks/EW-D08-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -11286,7 +11421,7 @@ Create a five-slide Easywurld carousel for a tutor business in Lagos. Use the ex
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let us put one piece of advice on trial. "Discounts always increase sales." [pause] My verdict? It depends. A discount can attract price-sensitive buyers and reduce margin. It can also train customers to wait. Test whether the offer is clear before reducing price. [pause] Here is a small test you can run this week. Run one non-discount offer post and compare qualified messages. Keep the useful part. Drop the absolute. That is Myth Court.
+> Let us put one piece of advice on trial. "Discounts always increase sales." [pause] My verdict? It depends. A discount can attract price-sensitive buyers and reduce margin. It can also train customers to wait. [pause] People see "DM for price" and just pass, money in hand. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Run one non-discount offer post and compare qualified messages. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -11296,12 +11431,15 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Discounts always increase sales my verdict? It depends
 3. A discount can attract price-sensitive buyers and reduce margin
 4. It can also train customers to wait
-5. Test whether the offer is clear before reducing price
-6. Here is a small test you can run this week
-7. Run one non-discount offer post and compare qualified messages
-8. Keep the useful part
-9. Drop the absolute
-10. That is Myth Court
+5. People see "DM for price" and just pass
+6. money in hand
+7. That is the fight Easywurld picks every day
+8. But we cannot win it alone
+9. Run this small test this week
+10. Run one non-discount offer post and compare qualified messages
+11. Your yes is the turning point
+12. Keep the useful part
+13. Drop the absolute
 
 ### Edit / shot order
 
@@ -11393,7 +11531,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is I'm with Max. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a creator spotlighting the person or thing they are always with. Here is how a normal Nigerian business uses it. Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+> Trend Desk. Today it is I'm with Max. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a creator spotlighting the person or thing they are always with. Referrals dry up, and the only new customer this month is your cousin. Here is how we adapt it. Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We do our half honestly. Your half is the yes. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -11404,17 +11542,21 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 40 reported it on 26
 4. October 2026: a creator spotlighting the person or
 5. thing they are always with
-6. Here is how a normal Nigerian business uses it
-7. Adapt only with owned/licensed audio and a real
-8. brand constant, such as the checklist
-9. Do not use a personal-account sound
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim
-15. Save the filter
-16. Skip the hype
+6. Referrals dry up, and the only new customer
+7. this month is your cousin
+8. Here is how we adapt it
+9. Adapt only with owned/licensed audio and a real
+10. brand constant, such as the checklist
+11. Do not use a personal-account sound
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. We do our half honestly
+18. Your half is the yes
+19. Save the filter
+20. Skip the hype
 
 ### Edit / shot order
 
@@ -11509,24 +11651,30 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> One AI workflow you can copy this week. Draft an internal assistant answer. [pause] Step one. The input is an approved knowledge sheet. Step two. The AI writes an answer with source and escalation note. Step three, and this is the one people skip. A human checks medical/legal/financial boundaries. Step four. You send a staff-reviewed answer. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. No wahala. Save it, then test it on your own message.
+> One workflow we run at Easywurld, and you can copy it. Draft an internal assistant answer. [pause] Step one. The input is an approved knowledge sheet. Step two. The drafting tool writes an answer with source and escalation note. Step three, and this is the one people skip. A person checks medical/legal/financial boundaries. Step four. You send a staff-reviewed answer. [pause] Nothing goes out on its own. The human check is the feature, because trust is the product. A customer searches, sees your competitor first, and calls them. Your phone stays quiet. This is a labelled sample build, not a client result. No wahala. Save it, then test it on your own message.
 
 ### Burned-in caption chunks
 
 Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
 
-1. One AI workflow you can copy this week
-2. Draft an internal assistant answer step one
-3. The input is an approved knowledge sheet step two
-4. The AI writes an answer with source and escalation note
-5. Step three, and this is the one people skip
-6. A human checks medical/legal/financial boundaries step four
-7. You send a staff-reviewed answer
-8. Nothing goes out on its own
-9. The human check is the feature
-10. This is a labelled sample build
-11. not a client result no wahala
-12. Save it, then test it on your own message
+1. One workflow we run at Easywurld
+2. and you can copy it
+3. Draft an internal assistant answer step one
+4. The input is an approved knowledge sheet step two
+5. The drafting tool writes an answer with source
+6. and escalation note
+7. Step three, and this is the one people skip
+8. A person checks medical/legal/financial boundaries step four
+9. You send a staff-reviewed answer
+10. Nothing goes out on its own
+11. The human check is the feature
+12. because trust is the product
+13. A customer searches, sees your competitor first
+14. and calls them
+15. Your phone stays quiet
+16. This is a labelled sample build
+17. not a client result no wahala
+18. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -11923,7 +12071,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message TEMPLATES to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D08-S09.mp4 (record) or assets/fallbacks/EW-D08-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/proposal-and-report-template-pack
@@ -11947,7 +12095,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Before you buy, you will ask this. "Is this a legal contract?" [pause] No. The templates are general business documents, not legal contracts. Have terms reviewed professionally. Let me be clear about what this is. The Proposal & Report Template Pack is a five thousand naira DIY pack. Inside, you get Proposals and Reports Guide, Proposal Template with Worked Example, Report and Summary Templates, Quote and Invoice Workbook. [pause] It is not custom work, and it does not promise you sales. Message TEMPLATES on WhatsApp and I will confirm the current details.
+> Before you buy, you will ask this. "Is this a legal contract?" [pause] No. The templates are general business documents, not legal contracts. Have terms reviewed professionally. That villain is what The Proposal & Report Template Pack fights. It is a five thousand naira DIY pack. Inside, you get Proposals and Reports Guide, Proposal Template with Worked Example, Report and Summary Templates, Quote and Invoice Workbook. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message TEMPLATES on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -11958,17 +12106,19 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. The templates are general business documents
 4. not legal contracts
 5. Have terms reviewed professionally
-6. Let me be clear about what this is
-7. The Proposal & Report Template Pack is a
-8. five thousand naira DIY pack
+6. That villain is what The Proposal & Report
+7. Template Pack fights
+8. It is a five thousand naira DIY pack
 9. Inside, you get Proposals and Reports Guide
 10. Proposal Template with Worked Example
 11. Report and Summary Templates
 12. Quote and Invoice Workbook
 13. It is not custom work
 14. and it does not promise you sales
-15. Message TEMPLATES on WhatsApp and I will confirm
-16. the current details
+15. We hand you the map
+16. You walk it
+17. Message TEMPLATES on WhatsApp and I will confirm
+18. the current details
 
 ### Edit / shot order
 
@@ -12139,7 +12289,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> “We will go viral” is not a plan. It is a lottery ticket with a caption. [pause] Twelve useful posts a day beats one lucky one you cannot repeat. [pause] Build the repeatable thing. Take it one step at a time. Save this for the next strategy meeting.
+> “We will go viral” is not a plan. It is a lottery ticket with a caption. [pause] Twelve useful posts a day beats one lucky one you cannot repeat. Somebody types your own business name into Google and finds nothing. Then they find somebody else. [pause] Build the repeatable thing. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Take it one step at a time. Save this for the next strategy meeting.
 
 ### Burned-in caption chunks
 
@@ -12149,9 +12299,15 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. It is a lottery ticket with a caption
 3. Twelve useful posts a day beats one lucky
 4. one you cannot repeat
-5. Build the repeatable thing
-6. Take it one step at a time
-7. Save this for the next strategy meeting
+5. Somebody types your own business name into Google
+6. and finds nothing
+7. Then they find somebody else
+8. Build the repeatable thing
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone
+12. Take it one step at a time
+13. Save this for the next strategy meeting
 
 ### Edit / shot order
 
@@ -12753,7 +12909,7 @@ Create a five-slide Easywurld carousel for a event planner business in Lagos. Us
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D09-S02.mp4 (record) or assets/fallbacks/EW-D09-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -12775,7 +12931,7 @@ Create a five-slide Easywurld carousel for a event planner business in Lagos. Us
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> You have heard this one before. "You should be on every platform." [pause] My verdict? Mostly false. Each platform needs adaptation and maintenance. It is better to publish consistently where your customers are than to abandon five accounts. [pause] Here is a small test you can run this week. Choose one primary platform and two adapted destinations for this test. Keep the useful part. Drop the absolute. That is Myth Court.
+> You have heard this one before. "You should be on every platform." [pause] My verdict? Mostly false. Each platform needs adaptation and maintenance. It is better to publish consistently where your customers are than to abandon five accounts. [pause] Referrals dry up, and the only new customer this month is your cousin. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Choose one primary platform and two adapted destinations for this test. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -12786,12 +12942,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Each platform needs adaptation and maintenance
 4. It is better to publish consistently where your
 5. customers are than to abandon five accounts
-6. Here is a small test you can run this week
-7. Choose one primary platform and two adapted destinations
-8. for this test
-9. Keep the useful part
-10. Drop the absolute
-11. That is Myth Court
+6. Referrals dry up, and the only new customer
+7. this month is your cousin
+8. That is the fight Easywurld picks every day
+9. But we cannot win it alone
+10. Run this small test this week
+11. Choose one primary platform and two adapted destinations
+12. for this test
+13. Your yes is the turning point
+14. Keep the useful part
+15. Drop the absolute
 
 ### Edit / shot order
 
@@ -12883,7 +13043,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is You Seem To Be Scrolling a Lot. [pause] Drizzle Digital Volume 39 reported it on 14 October 2026: a playful nudge to stop scrolling and take an action. Here is how a normal Nigerian business uses it. Turn it into one useful action, such as testing the contact route. Avoid shaming the viewer. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. No wahala. Save the filter. Skip the hype.
+> Trend Desk. Today it is You Seem To Be Scrolling a Lot. [pause] Drizzle Digital Volume 39 reported it on 14 October 2026: a playful nudge to stop scrolling and take an action. A customer searches, sees your competitor first, and calls them. Your phone stays quiet. Here is how we adapt it. Turn it into one useful action, such as testing the contact route. Avoid shaming the viewer. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We can build the fix, but we cannot win it alone. Your yes is the turning point. No wahala. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -12894,17 +13054,23 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 39 reported it on 14
 4. October 2026: a playful nudge to stop scrolling
 5. and take an action
-6. Here is how a normal Nigerian business uses it
-7. Turn it into one useful action
-8. such as testing the contact route
-9. Avoid shaming the viewer
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim no wahala
-15. Save the filter
-16. Skip the hype
+6. A customer searches, sees your competitor first
+7. and calls them
+8. Your phone stays quiet
+9. Here is how we adapt it
+10. Turn it into one useful action
+11. such as testing the contact route
+12. Avoid shaming the viewer
+13. Before you copy it:
+14. check it is still happening
+15. and check the audio rights
+16. This is a dated teardown
+17. not a live trend claim
+18. We can build the fix
+19. but we cannot win it alone
+20. Your yes is the turning point no wahala
+21. Save the filter
+22. Skip the hype
 
 ### Edit / shot order
 
@@ -12999,7 +13165,7 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> This is the workflow I keep coming back to. Rewrite a homepage opening. [pause] Step one. The input is a labelled before page. Step two. The AI writes three clearer opening options. Step three, and this is the one people skip. A human checks claims, audience and proof. Step four. You send a human-selected rewrite. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Oya. Save it, then test it on your own message.
+> This is the workflow I keep coming back to. Rewrite a homepage opening. [pause] Step one. The input is a labelled before page. Step two. The drafting tool writes three clearer opening options. Step three, and this is the one people skip. A person checks claims, audience and proof. Step four. You send a human-selected rewrite. [pause] Nothing goes out on its own. The human check is the feature, because trust is the product. Somebody types your own business name into Google and finds nothing. Then they find somebody else. This is a labelled sample build, not a client result. Oya. Save it, then test it on your own message.
 
 ### Burned-in caption chunks
 
@@ -13008,15 +13174,19 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 1. This is the workflow I keep coming back to
 2. Rewrite a homepage opening step one
 3. The input is a labelled before page step two
-4. The AI writes three clearer opening options
+4. The drafting tool writes three clearer opening options
 5. Step three, and this is the one people skip
-6. A human checks claims, audience and proof step four
+6. A person checks claims, audience and proof step four
 7. You send a human-selected rewrite
 8. Nothing goes out on its own
 9. The human check is the feature
-10. This is a labelled sample build
-11. not a client result oya
-12. Save it, then test it on your own message
+10. because trust is the product
+11. Somebody types your own business name into Google
+12. and finds nothing
+13. Then they find somebody else
+14. This is a labelled sample build
+15. not a client result oya
+16. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -13413,7 +13583,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message LAUNCH to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D09-S09.mp4 (record) or assets/fallbacks/EW-D09-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/website-launch-and-care-handbook
@@ -13437,7 +13607,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Somebody will ask you this. "Do you maintain the site?" [pause] No. It is a guide and workbook. Building, hosting or maintaining a site is separate. Let me be clear about what this is. The Website Launch & Care Handbook is a five thousand naira DIY pack. Inside, you get Website Launch & Care Handbook, Website Planning Brief, Launch, Care and Accounts Workbook, Hiring a Web Designer: Questions and Red Flags. [pause] It is not custom work, and it does not promise you sales. Message LAUNCH on WhatsApp and I will confirm the current details.
+> Somebody will ask you this. "Do you maintain the site?" [pause] No. It is a guide and workbook. Building, hosting or maintaining a site is separate. That villain is what The Website Launch & Care Handbook fights. It is a five thousand naira DIY pack. Inside, you get Website Launch & Care Handbook, Website Planning Brief, Launch, Care and Accounts Workbook, Hiring a Web Designer: Questions and Red Flags. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message LAUNCH on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -13447,9 +13617,9 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Do you maintain the site? No
 3. It is a guide and workbook
 4. Building, hosting or maintaining a site is separate
-5. Let me be clear about what this is
-6. The Website Launch & Care Handbook is a
-7. five thousand naira DIY pack
+5. That villain is what The Website Launch &
+6. Care Handbook fights
+7. It is a five thousand naira DIY pack
 8. Inside, you get Website Launch & Care Handbook
 9. Website Planning Brief, Launch
 10. Care and Accounts Workbook
@@ -13457,8 +13627,10 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 12. Questions and Red Flags
 13. It is not custom work
 14. and it does not promise you sales
-15. Message LAUNCH on WhatsApp and I will confirm
-16. the current details
+15. We hand you the map
+16. You walk it
+17. Message LAUNCH on WhatsApp and I will confirm
+18. the current details
 
 ### Edit / shot order
 
@@ -13629,7 +13801,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> A cheap price does not remove the risk. It moves it. [pause] It moves it to delivery, to quality, to the part you cannot refund. [pause] Charge for the outcome, not for the nerves. Send this to whoever is undercutting you.
+> A cheap price does not remove the risk. It moves it. [pause] It moves it to delivery, to quality, to the part you cannot refund. "How much?" becomes "I will get back to you", and that becomes silence. [pause] Charge for the outcome, not for the nerves. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Send this to whoever is undercutting you.
 
 ### Burned-in caption chunks
 
@@ -13639,8 +13811,13 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. It moves it
 3. It moves it to delivery
 4. to quality, to the part you cannot refund
-5. Charge for the outcome, not for the nerves
-6. Send this to whoever is undercutting you
+5. How much?" becomes "I will get back to
+6. you", and that becomes silence
+7. Charge for the outcome, not for the nerves
+8. We fight this every day at Easywurld
+9. and we are honest about it:
+10. we cannot win it alone
+11. Send this to whoever is undercutting you
 
 ### Edit / shot order
 
@@ -14221,7 +14398,7 @@ Create a five-slide Easywurld carousel for a logistics company business in Lagos
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D10-S02.mp4 (record) or assets/fallbacks/EW-D10-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -14243,7 +14420,7 @@ Create a five-slide Easywurld carousel for a logistics company business in Lagos
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Marketing myth. People will tell you, "Only Reels work now." [pause] My verdict? False. Short video is useful, but carousels and static posts can earn saves, shares and search visibility. Format should match the idea. [pause] Here is a small test you can run this week. Publish one idea as a Reel and a carousel, then compare saves and messages. No wahala. Keep the useful part. Drop the absolute. That is Myth Court.
+> Marketing myth. People will tell you, "Only Reels work now." [pause] My verdict? False. Short video is useful, but carousels and static posts can earn saves, shares and search visibility. Format should match the idea. [pause] A customer searches, sees your competitor first, and calls them. Your phone stays quiet. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Publish one idea as a Reel and a carousel, then compare saves and messages. No wahala. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -14256,12 +14433,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 5. but carousels and static posts can earn saves
 6. shares and search visibility
 7. Format should match the idea
-8. Here is a small test you can run this week
-9. Publish one idea as a Reel and a
-10. carousel, then compare saves and messages no wahala
-11. Keep the useful part
-12. Drop the absolute
-13. That is Myth Court
+8. A customer searches, sees your competitor first
+9. and calls them
+10. Your phone stays quiet
+11. That is the fight Easywurld picks every day
+12. But we cannot win it alone
+13. Run this small test this week
+14. Publish one idea as a Reel and a
+15. carousel, then compare saves and messages no wahala
+16. Your yes is the turning point
+17. Keep the useful part
+18. Drop the absolute
 
 ### Edit / shot order
 
@@ -14353,7 +14535,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Ghosts. [pause] Drizzle Digital Volume 39 reported it on 14 October 2026: a spooky-season format showing what a brand is ready for. Here is how a normal Nigerian business uses it. Use only if seasonally relevant and owned/licensed. Adapt to 'ghosted messages' with a follow-up lesson. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Oya. Save the filter. Skip the hype.
+> Trend Desk. Today it is Ghosts. [pause] Drizzle Digital Volume 39 reported it on 14 October 2026: a spooky-season format showing what a brand is ready for. Somebody types your own business name into Google and finds nothing. Then they find somebody else. Here is how we adapt it. Use only if seasonally relevant and owned/licensed. Adapt to 'ghosted messages' with a follow-up lesson. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Easywurld fights this every day. The win only happens with your business in it. Oya. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -14364,16 +14546,21 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 39 reported it on 14
 4. October 2026: a spooky-season format showing what a
 5. brand is ready for
-6. Here is how a normal Nigerian business uses it
-7. Use only if seasonally relevant and owned/licensed
-8. Adapt to 'ghosted messages' with a follow-up lesson
-9. One thing before you copy it
-10. Check that it is still happening
-11. and check the audio rights
-12. This is a dated teardown
-13. not a live trend claim oya
-14. Save the filter
-15. Skip the hype
+6. Somebody types your own business name into Google
+7. and finds nothing
+8. Then they find somebody else
+9. Here is how we adapt it
+10. Use only if seasonally relevant and owned/licensed
+11. Adapt to 'ghosted messages' with a follow-up lesson
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. Easywurld fights this every day
+18. The win only happens with your business in it oya
+19. Save the filter
+20. Skip the hype
 
 ### Edit / shot order
 
@@ -14468,26 +14655,29 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let me show you one bounded AI job. Audit local visibility basics. [pause] Step one. The input is a fictional business profile. Step two. The AI writes a checklist of name, address, hours and categories. Step three, and this is the one people skip. A human checks real-world accuracy and ranking claims. Step four. You send a correction list. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Take it one step at a time. Save it, then test it on your own message.
+> Let me show you one bounded job, done properly. Audit local visibility basics. [pause] Step one. The input is a fictional business profile. Step two. The drafting tool writes a checklist of name, address, hours and categories. Step three, and this is the one people skip. A person checks real-world accuracy and ranking claims. Step four. You send a correction list. [pause] Nothing goes out on its own. The human check is the feature, because trust is the product. "How much?" becomes "I will get back to you", and that becomes silence. This is a labelled sample build, not a client result. Take it one step at a time. Save it, then test it on your own message.
 
 ### Burned-in caption chunks
 
 Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
 
-1. Let me show you one bounded AI job
+1. Let me show you one bounded job done properly
 2. Audit local visibility basics step one
 3. The input is a fictional business profile step two
-4. The AI writes a checklist of name
+4. The drafting tool writes a checklist of name
 5. address, hours and categories
 6. Step three, and this is the one people skip
-7. A human checks real-world accuracy and ranking claims step four
+7. A person checks real-world accuracy and ranking claims step four
 8. You send a correction list
 9. Nothing goes out on its own
 10. The human check is the feature
-11. This is a labelled sample build
-12. not a client result
-13. Take it one step at a time
-14. Save it, then test it on your own message
+11. because trust is the product
+12. How much?" becomes "I will get back to
+13. you", and that becomes silence
+14. This is a labelled sample build
+15. not a client result
+16. Take it one step at a time
+17. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -14884,7 +15074,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message PLAYBOOK to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D10-S09.mp4 (record) or assets/fallbacks/EW-D10-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
@@ -14908,7 +15098,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> The question I get most about this pack. "Will this generate leads?" [pause] No. It helps you organise the messages you already get. It does not generate leads or guarantee sales. Let me be clear about what this is. The Chat-to-Customer Playbook is a five thousand naira DIY pack. Inside, you get Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. [pause] It is not custom work, and it does not promise you sales. Message PLAYBOOK on WhatsApp and I will confirm the current details.
+> The question I get most about this pack. "Will this generate leads?" [pause] No. It helps you organise the messages you already get. It does not generate leads or guarantee sales. That villain is what The Chat-to-Customer Playbook fights. It is a five thousand naira DIY pack. Inside, you get Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message PLAYBOOK on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -14918,15 +15108,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Will this generate leads? No
 3. It helps you organise the messages you already get
 4. It does not generate leads or guarantee sales
-5. Let me be clear about what this is
-6. The Chat-to-Customer Playbook is a five thousand naira DIY pack
+5. That villain is what The Chat-to-Customer Playbook fights
+6. It is a five thousand naira DIY pack
 7. Inside, you get Chat-to-Customer Playbook
 8. 36-Script Message Library, Lead & Follow-Up Tracker
 9. 7-Day Setup Checklist
 10. It is not custom work
 11. and it does not promise you sales
-12. Message PLAYBOOK on WhatsApp and I will confirm
-13. the current details
+12. We hand you the map
+13. You walk it
+14. Message PLAYBOOK on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -15118,7 +15310,7 @@ Create an Easywurld introduction in the format AI talking head. Use the exact su
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> A discount is a question. It asks the customer what they think your work is worth. [pause] Ask it often enough and you will not like the answer. [pause] Discount the bundle, never the standard. Save this before your next sale post.
+> A discount is a question. It asks the customer what they think your work is worth. [pause] Ask it often enough and you will not like the answer. Your page looks like everybody else's, so nobody believes you are better. [pause] Discount the bundle, never the standard. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Save this before your next sale post.
 
 ### Burned-in caption chunks
 
@@ -15129,8 +15321,13 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. work is worth
 4. Ask it often enough and you will not
 5. like the answer
-6. Discount the bundle, never the standard
-7. Save this before your next sale post
+6. Your page looks like everybody else's
+7. so nobody believes you are better
+8. Discount the bundle, never the standard
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone
+12. Save this before your next sale post
 
 ### Edit / shot order
 
@@ -15699,7 +15896,7 @@ Create a five-slide Easywurld carousel for a phone repair shop business in Lagos
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D11-S02.mp4 (record) or assets/fallbacks/EW-D11-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -15721,7 +15918,7 @@ Create a five-slide Easywurld carousel for a phone repair shop business in Lagos
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let us put one piece of advice on trial. "Carousels are dead." [pause] My verdict? False. Carousels can still work for checklists, comparisons and step-by-step explanations. They fail when every slide is a paragraph. [pause] Here is a small test you can run this week. Make one five-slide checklist with one idea per slide. Oya. Keep the useful part. Drop the absolute. That is Myth Court.
+> Let us put one piece of advice on trial. "Carousels are dead." [pause] My verdict? False. Carousels can still work for checklists, comparisons and step-by-step explanations. They fail when every slide is a paragraph. [pause] Somebody types your own business name into Google and finds nothing. Then they find somebody else. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Make one five-slide checklist with one idea per slide. Oya. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -15732,11 +15929,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Carousels can still work for checklists
 4. comparisons and step-by-step explanations
 5. They fail when every slide is a paragraph
-6. Here is a small test you can run this week
-7. Make one five-slide checklist with one idea per slide oya
-8. Keep the useful part
-9. Drop the absolute
-10. That is Myth Court
+6. Somebody types your own business name into Google
+7. and finds nothing
+8. Then they find somebody else
+9. That is the fight Easywurld picks every day
+10. But we cannot win it alone
+11. Run this small test this week
+12. Make one five-slide checklist with one idea per slide oya
+13. Your yes is the turning point
+14. Keep the useful part
+15. Drop the absolute
 
 ### Edit / shot order
 
@@ -15828,7 +16030,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Four Walls. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a format built around four walls or four panels. Here is how a normal Nigerian business uses it. Use four panels for message, page, content and follow-up. Keep the structure, skip the sound if rights are unclear. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Take it one step at a time. Save the filter. Skip the hype.
+> Trend Desk. Today it is Four Walls. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a format built around four walls or four panels. "How much?" becomes "I will get back to you", and that becomes silence. Here is how we adapt it. Use four panels for message, page, content and follow-up. Keep the structure, skip the sound if rights are unclear. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We bring the map. You bring the business. That is the alliance. Take it one step at a time. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -15839,18 +16041,23 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 38 reported it on 28
 4. September 2026: a format built around four walls
 5. or four panels
-6. Here is how a normal Nigerian business uses it
-7. Use four panels for message
-8. page, content and follow-up
-9. Keep the structure, skip the sound if rights are unclear
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim
-15. Take it one step at a time
-16. Save the filter
-17. Skip the hype
+6. How much?" becomes "I will get back to
+7. you", and that becomes silence
+8. Here is how we adapt it
+9. Use four panels for message
+10. page, content and follow-up
+11. Keep the structure, skip the sound if rights are unclear
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. We bring the map
+18. You bring the business
+19. That is the alliance
+20. Take it one step at a time
+21. Save the filter
+22. Skip the hype
 
 ### Edit / shot order
 
@@ -15945,26 +16152,30 @@ Edit a 9:16 Trend Desk teardown from the supplied dated source and original stor
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> One AI workflow you can copy this week. Outline a proposal. [pause] Step one. The input is a labelled sample brief. Step two. The AI writes sections for scope, timeline, price and exclusions. Step three, and this is the one people skip. A human checks invented parties, figures and legal terms. Step four. You send a reviewed proposal draft. [pause] Nothing goes out on its own. The human check is the feature. This is a labelled sample build, not a client result. Save it, then test it on your own message.
+> One workflow we run at Easywurld, and you can copy it. Outline a proposal. [pause] Step one. The input is a labelled sample brief. Step two. The drafting tool writes sections for scope, timeline, price and exclusions. Step three, and this is the one people skip. A person checks invented parties, figures and legal terms. Step four. You send a reviewed proposal draft. [pause] Nothing goes out on its own. The human check is the feature, because trust is the product. Your page looks like everybody else's, so nobody believes you are better. This is a labelled sample build, not a client result. Save it, then test it on your own message.
 
 ### Burned-in caption chunks
 
 Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
 
-1. One AI workflow you can copy this week
-2. Outline a proposal step one
-3. The input is a labelled sample brief step two
-4. The AI writes sections for scope
-5. timeline, price and exclusions
-6. Step three, and this is the one people skip
-7. A human checks invented parties
-8. figures and legal terms step four
-9. You send a reviewed proposal draft
-10. Nothing goes out on its own
-11. The human check is the feature
-12. This is a labelled sample build
-13. not a client result
-14. Save it, then test it on your own message
+1. One workflow we run at Easywurld
+2. and you can copy it
+3. Outline a proposal step one
+4. The input is a labelled sample brief step two
+5. The drafting tool writes sections for scope
+6. timeline, price and exclusions
+7. Step three, and this is the one people skip
+8. A person checks invented parties
+9. figures and legal terms step four
+10. You send a reviewed proposal draft
+11. Nothing goes out on its own
+12. The human check is the feature
+13. because trust is the product
+14. Your page looks like everybody else's
+15. so nobody believes you are better
+16. This is a labelled sample build
+17. not a client result
+18. Save it, then test it on your own message
 
 ### Edit / shot order
 
@@ -16361,7 +16572,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message CLEAR to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D11-S09.mp4 (record) or assets/fallbacks/EW-D11-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
@@ -16385,7 +16596,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Before you buy, you will ask this. "Do you review my page?" [pause] No. The scorecard helps you audit your own page. A personal review is not included. Let me be clear about what this is. The Clear Homepage Blueprint is a five thousand naira DIY pack. Inside, you get Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. [pause] It is not custom work, and it does not promise you sales. Message CLEAR on WhatsApp and I will confirm the current details.
+> Before you buy, you will ask this. "Do you review my page?" [pause] No. The scorecard helps you audit your own page. A personal review is not included. That villain is what The Clear Homepage Blueprint fights. It is a five thousand naira DIY pack. Inside, you get Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message CLEAR on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -16395,16 +16606,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Do you review my page? No
 3. The scorecard helps you audit your own page
 4. A personal review is not included
-5. Let me be clear about what this is
-6. The Clear Homepage Blueprint is a five thousand
-7. naira DIY pack
-8. Inside, you get Clear Homepage Blueprint
-9. Homepage Copy Templates, Homepage Content Planner
-10. 20-Point Homepage Audit Scorecard
-11. It is not custom work
-12. and it does not promise you sales
-13. Message CLEAR on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The Clear Homepage Blueprint fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get Clear Homepage Blueprint
+8. Homepage Copy Templates, Homepage Content Planner
+9. 20-Point Homepage Audit Scorecard
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message CLEAR on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -16575,7 +16787,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> “We work with everyone” is not generous. It is invisible. [pause] The narrower the sentence, the louder it reads. [pause] Be specific enough to be chosen. No wahala. Save this and rewrite your bio tonight.
+> “We work with everyone” is not generous. It is invisible. [pause] The narrower the sentence, the louder it reads. People see "DM for price" and just pass, money in hand. [pause] Be specific enough to be chosen. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. No wahala. Save this and rewrite your bio tonight.
 
 ### Burned-in caption chunks
 
@@ -16584,8 +16796,13 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 1. We work with everyone” is not generous
 2. It is invisible
 3. The narrower the sentence, the louder it reads
-4. Be specific enough to be chosen no wahala
-5. Save this and rewrite your bio tonight
+4. People see "DM for price" and just pass
+5. money in hand
+6. Be specific enough to be chosen
+7. We fight this every day at Easywurld
+8. and we are honest about it:
+9. we cannot win it alone no wahala
+10. Save this and rewrite your bio tonight
 
 ### Edit / shot order
 
@@ -17159,7 +17376,7 @@ Create a five-slide Easywurld carousel for a thrift store business in Lagos. Use
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D12-S02.mp4 (record) or assets/fallbacks/EW-D12-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -17181,7 +17398,7 @@ Create a five-slide Easywurld carousel for a thrift store business in Lagos. Use
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> You have heard this one before. "SEO works in a week." [pause] My verdict? False. Search visibility depends on crawling, competition, content quality and time. A new page is not a ranking promise. [pause] Here is a small test you can run this week. Check indexing and query data after a reasonable period; do not invent rankings. Take it one step at a time. Keep the useful part. Drop the absolute. That is Myth Court.
+> You have heard this one before. "SEO works in a week." [pause] My verdict? False. Search visibility depends on crawling, competition, content quality and time. A new page is not a ranking promise. [pause] "How much?" becomes "I will get back to you", and that becomes silence. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Check indexing and query data after a reasonable period; do not invent rankings. Take it one step at a time. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -17192,13 +17409,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Search visibility depends on crawling
 4. competition, content quality and time
 5. A new page is not a ranking promise
-6. Here is a small test you can run this week
-7. Check indexing and query data after a reasonable
-8. period; do not invent rankings
-9. Take it one step at a time
-10. Keep the useful part
-11. Drop the absolute
-12. That is Myth Court
+6. How much?" becomes "I will get back to
+7. you", and that becomes silence
+8. That is the fight Easywurld picks every day
+9. But we cannot win it alone
+10. Run this small test this week
+11. Check indexing and query data after a reasonable
+12. period; do not invent rankings
+13. Take it one step at a time
+14. Your yes is the turning point
+15. Keep the useful part
+16. Drop the absolute
 
 ### Edit / shot order
 
@@ -17290,7 +17511,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Brand Vibe. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a product front and center with four still shots that express the brand vibe. Here is how a normal Nigerian business uses it. Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+> Trend Desk. Today it is Brand Vibe. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a product front and center with four still shots that express the brand vibe. Your page looks like everybody else's, so nobody believes you are better. Here is how we adapt it. Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Not a service you buy. A fight you join, and your trust is the weapon. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -17301,17 +17522,22 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 40 reported it on 26
 4. October 2026: a product front and center with
 5. four still shots that express the brand vibe
-6. Here is how a normal Nigerian business uses it
-7. Use one real product or service outcome with
-8. four owned images that show the customer's world
-9. Do not invent a lifestyle
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim
-15. Save the filter
-16. Skip the hype
+6. Your page looks like everybody else's
+7. so nobody believes you are better
+8. Here is how we adapt it
+9. Use one real product or service outcome with
+10. four owned images that show the customer's world
+11. Do not invent a lifestyle
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. Not a service you buy
+18. A fight you join
+19. and your trust is the weapon
+20. Save the filter
+21. Skip the hype
 
 ### Edit / shot order
 
@@ -17783,7 +18009,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message ENGINE to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D12-S09.mp4 (record) or assets/fallbacks/EW-D12-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
@@ -17807,7 +18033,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Somebody will ask you this. "Does it include design templates?" [pause] No. It does not include design templates or scheduling software. You supply the real photos, facts and prices. Let me be clear about what this is. The 30-Day Content Engine is a five thousand naira DIY pack. Inside, you get 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. [pause] It is not custom work, and it does not promise you sales. Message ENGINE on WhatsApp and I will confirm the current details.
+> Somebody will ask you this. "Does it include design templates?" [pause] No. It does not include design templates or scheduling software. You supply the real photos, facts and prices. That villain is what The 30-Day Content Engine fights. It is a five thousand naira DIY pack. Inside, you get 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message ENGINE on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -17817,16 +18043,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Does it include design templates? No
 3. It does not include design templates or scheduling software
 4. You supply the real photos, facts and prices
-5. Let me be clear about what this is
-6. The 30-Day Content Engine is a five thousand
-7. naira DIY pack
-8. Inside, you get 30-Day Content Engine Guide
-9. 60-Idea Post Bank, 30-Day Content Calendar
-10. Hooks and Caption Swipe File
-11. It is not custom work
-12. and it does not promise you sales
-13. Message ENGINE on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The 30-Day Content Engine fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get 30-Day Content Engine Guide
+8. 60-Idea Post Bank, 30-Day Content Calendar
+9. Hooks and Caption Swipe File
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message ENGINE on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -18026,7 +18253,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> You do not need ten testimonials. You need one sentence a stranger can check. [pause] Show the work, name the process, say what you cannot promise. [pause] Evidence beats adjectives. Oya. Save this for your next portfolio post.
+> You do not need ten testimonials. You need one sentence a stranger can check. [pause] Show the work, name the process, say what you cannot promise. Referrals dry up, and the only new customer this month is your cousin. [pause] Evidence beats adjectives. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Oya. Save this for your next portfolio post.
 
 ### Burned-in caption chunks
 
@@ -18036,8 +18263,13 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. You need one sentence a stranger can check
 3. Show the work, name the process
 4. say what you cannot promise
-5. Evidence beats adjectives oya
-6. Save this for your next portfolio post
+5. Referrals dry up, and the only new customer
+6. this month is your cousin
+7. Evidence beats adjectives
+8. We fight this every day at Easywurld
+9. and we are honest about it:
+10. we cannot win it alone oya
+11. Save this for your next portfolio post
 
 ### Edit / shot order
 
@@ -18615,7 +18847,7 @@ Create a five-slide Easywurld carousel for a photographer business in Lagos. Use
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D13-S02.mp4 (record) or assets/fallbacks/EW-D13-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -18637,7 +18869,7 @@ Create a five-slide Easywurld carousel for a photographer business in Lagos. Use
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Marketing myth. People will tell you, "Email is dead for small business." [pause] My verdict? False. Email can still support follow-up and repeat customers when permission and relevance are handled well. It is not a replacement for every channel. [pause] Here is a small test you can run this week. Send one useful email to a permission-based list and track replies. Keep the useful part. Drop the absolute. That is Myth Court.
+> Marketing myth. People will tell you, "Email is dead for small business." [pause] My verdict? False. Email can still support follow-up and repeat customers when permission and relevance are handled well. It is not a replacement for every channel. [pause] Your page looks like everybody else's, so nobody believes you are better. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Send one useful email to a permission-based list and track replies. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -18649,12 +18881,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 4. Email can still support follow-up and repeat customers
 5. when permission and relevance are handled well
 6. It is not a replacement for every channel
-7. Here is a small test you can run this week
-8. Send one useful email to a permission-based list
-9. and track replies
-10. Keep the useful part
-11. Drop the absolute
-12. That is Myth Court
+7. Your page looks like everybody else's
+8. so nobody believes you are better
+9. That is the fight Easywurld picks every day
+10. But we cannot win it alone
+11. Run this small test this week
+12. Send one useful email to a permission-based list
+13. and track replies
+14. Your yes is the turning point
+15. Keep the useful part
+16. Drop the absolute
 
 ### Edit / shot order
 
@@ -18746,7 +18982,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Pick Your Emoji. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a video carousel that starts with four emoji paths and ends with one CTA. Here is how a normal Nigerian business uses it. Adapt it to four customer problems, not four random products. End with one useful next step. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+> Trend Desk. Today it is Pick Your Emoji. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a video carousel that starts with four emoji paths and ends with one CTA. People see "DM for price" and just pass, money in hand. Here is how we adapt it. Adapt it to four customer problems, not four random products. End with one useful next step. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We do our half honestly. Your half is the yes. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -18757,17 +18993,21 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 40 reported it on 26
 4. October 2026: a video carousel that starts with
 5. four emoji paths and ends with one CTA
-6. Here is how a normal Nigerian business uses it
-7. Adapt it to four customer problems
-8. not four random products
-9. End with one useful next step
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim
-15. Save the filter
-16. Skip the hype
+6. People see "DM for price" and just pass
+7. money in hand
+8. Here is how we adapt it
+9. Adapt it to four customer problems
+10. not four random products
+11. End with one useful next step
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. We do our half honestly
+18. Your half is the yes
+19. Save the filter
+20. Skip the hype
 
 ### Edit / shot order
 
@@ -19239,7 +19479,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message PAGE to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D13-S09.mp4 (record) or assets/fallbacks/EW-D13-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/one-offer-landing-page-kit
@@ -19263,7 +19503,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> The question I get most about this pack. "Does it process payments?" [pause] No. The starter uses WhatsApp or a link you provide. It has no payment processing. Let me be clear about what this is. The One-Offer Landing Page Kit is a five thousand naira DIY pack. Inside, you get One-Offer Landing Page Guide, Landing Page Copy Template with Worked Example, Editable Landing Page Starter (HTML), Pre-Launch Checklist. [pause] It is not custom work, and it does not promise you sales. Message PAGE on WhatsApp and I will confirm the current details.
+> The question I get most about this pack. "Does it process payments?" [pause] No. The starter uses WhatsApp or a link you provide. It has no payment processing. That villain is what The One-Offer Landing Page Kit fights. It is a five thousand naira DIY pack. Inside, you get One-Offer Landing Page Guide, Landing Page Copy Template with Worked Example, Editable Landing Page Starter (HTML), Pre-Launch Checklist. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message PAGE on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -19273,16 +19513,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Does it process payments? No
 3. The starter uses WhatsApp or a link you provide
 4. It has no payment processing
-5. Let me be clear about what this is
-6. The One-Offer Landing Page Kit is a five
-7. thousand naira DIY pack
-8. Inside, you get One-Offer Landing Page Guide
-9. Landing Page Copy Template with Worked Example
-10. Editable Landing Page Starter (HTML) pre-Launch Checklist
-11. It is not custom work
-12. and it does not promise you sales
-13. Message PAGE on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The One-Offer Landing Page kit fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get One-Offer Landing Page Guide
+8. Landing Page Copy Template with Worked Example
+9. Editable Landing Page Starter (HTML) pre-Launch Checklist
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message PAGE on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -19451,7 +19692,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> SEO is not a trick. It is the habit of being findable when someone already wants you. [pause] Answer the question people type, in the words they type it, on a page you own. [pause] Be the answer, not the advert. Take it one step at a time. Save this for your next page rewrite.
+> SEO is not a trick. It is the habit of being findable when someone already wants you. [pause] Answer the question people type, in the words they type it, on a page you own. A customer searches, sees your competitor first, and calls them. Your phone stays quiet. [pause] Be the answer, not the advert. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Take it one step at a time. Save this for your next page rewrite.
 
 ### Burned-in caption chunks
 
@@ -19463,9 +19704,15 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 4. Answer the question people type
 5. in the words they type it
 6. on a page you own
-7. Be the answer, not the advert
-8. Take it one step at a time
-9. Save this for your next page rewrite
+7. A customer searches, sees your competitor first
+8. and calls them
+9. Your phone stays quiet
+10. Be the answer, not the advert
+11. We fight this every day at Easywurld
+12. and we are honest about it:
+13. we cannot win it alone
+14. Take it one step at a time
+15. Save this for your next page rewrite
 
 ### Edit / shot order
 
@@ -20047,7 +20294,7 @@ Create a five-slide Easywurld carousel for a cleaning service business in Lagos.
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D14-S02.mp4 (record) or assets/fallbacks/EW-D14-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -20069,7 +20316,7 @@ Create a five-slide Easywurld carousel for a cleaning service business in Lagos.
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let us put one piece of advice on trial. "WhatsApp broadcast lists are spam." [pause] My verdict? It depends. Permission and relevance matter. A useful update to people who asked is different from bulk unsolicited messages. [pause] Here is a small test you can run this week. Ask before adding contacts and make opting out easy. Keep the useful part. Drop the absolute. That is Myth Court.
+> Let us put one piece of advice on trial. "WhatsApp broadcast lists are spam." [pause] My verdict? It depends. Permission and relevance matter. A useful update to people who asked is different from bulk unsolicited messages. [pause] People see "DM for price" and just pass, money in hand. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Ask before adding contacts and make opting out easy. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -20080,11 +20327,15 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Permission and relevance matter
 4. A useful update to people who asked is
 5. different from bulk unsolicited messages
-6. Here is a small test you can run this week
-7. Ask before adding contacts and make opting out easy
-8. Keep the useful part
-9. Drop the absolute
-10. That is Myth Court
+6. People see "DM for price" and just pass
+7. money in hand
+8. That is the fight Easywurld picks every day
+9. But we cannot win it alone
+10. Run this small test this week
+11. Ask before adding contacts and make opting out easy
+12. Your yes is the turning point
+13. Keep the useful part
+14. Drop the absolute
 
 ### Edit / shot order
 
@@ -20176,7 +20427,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Gold Star Behavior. [pause] SocialBee / Drizzle Digital reported it on 21 October 2026: a list of small habits that deserve a gold star. Here is how a normal Nigerian business uses it. Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. No wahala. Save the filter. Skip the hype.
+> Trend Desk. Today it is Gold Star Behavior. [pause] SocialBee / Drizzle Digital reported it on 21 October 2026: a list of small habits that deserve a gold star. Referrals dry up, and the only new customer this month is your cousin. Here is how we adapt it. Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We can build the fix, but we cannot win it alone. Your yes is the turning point. No wahala. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -20187,17 +20438,22 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. SocialBee / Drizzle Digital reported it on 21
 4. October 2026: a list of small habits that
 5. deserve a gold star
-6. Here is how a normal Nigerian business uses it
-7. Give stars to specific customer habits that reduce
-8. friction, such as sending measurements early
-9. Keep it kind
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim no wahala
-15. Save the filter
-16. Skip the hype
+6. Referrals dry up, and the only new customer
+7. this month is your cousin
+8. Here is how we adapt it
+9. Give stars to specific customer habits that reduce
+10. friction, such as sending measurements early
+11. Keep it kind
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. We can build the fix
+18. but we cannot win it alone
+19. Your yes is the turning point no wahala
+20. Save the filter
+21. Skip the hype
 
 ### Edit / shot order
 
@@ -20669,7 +20925,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message LOCAL to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D14-S09.mp4 (record) or assets/fallbacks/EW-D14-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/lagos-local-visibility-starter
@@ -20693,7 +20949,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Before you buy, you will ask this. "Do you do SEO for me?" [pause] No. It is a DIY starter. Easywurld doing SEO work for you is a separate project. Let me be clear about what this is. The Lagos Local Visibility Starter is a five thousand naira DIY pack. Inside, you get Local Visibility Guide, Keyword and Page Title Worksheet, Google Business Profile Checklist and Review Scripts, 30-Day Local Visibility Tracker. [pause] It is not custom work, and it does not promise you sales. Message LOCAL on WhatsApp and I will confirm the current details.
+> Before you buy, you will ask this. "Do you do SEO for me?" [pause] No. It is a DIY starter. Easywurld doing SEO work for you is a separate project. That villain is what The Lagos Local Visibility Starter fights. It is a five thousand naira DIY pack. Inside, you get Local Visibility Guide, Keyword and Page Title Worksheet, Google Business Profile Checklist and Review Scripts, 30-Day Local Visibility Tracker. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message LOCAL on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -20703,17 +20959,18 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Do you do SEO for me? No
 3. It is a DIY starter
 4. Easywurld doing SEO work for you is a separate project
-5. Let me be clear about what this is
-6. The Lagos Local Visibility Starter is a five
-7. thousand naira DIY pack
-8. Inside, you get Local Visibility Guide
-9. Keyword and Page Title Worksheet
-10. Google Business Profile Checklist and Review Scripts
-11. 30-Day Local Visibility Tracker
-12. It is not custom work
-13. and it does not promise you sales
-14. Message LOCAL on WhatsApp and I will confirm
-15. the current details
+5. That villain is what The Lagos Local Visibility starter fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get Local Visibility Guide
+8. Keyword and Page Title Worksheet
+9. Google Business Profile Checklist and Review Scripts
+10. 30-Day Local Visibility Tracker
+11. It is not custom work
+12. and it does not promise you sales
+13. We hand you the map
+14. You walk it
+15. Message LOCAL on WhatsApp and I will confirm
+16. the current details
 
 ### Edit / shot order
 
@@ -20912,7 +21169,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Traffic is not a business. It is a queue outside a door you never opened. [pause] The page, the price and the reply have to work before the queue matters. [pause] Fix the door, then buy the queue. Save this before you boost anything.
+> Traffic is not a business. It is a queue outside a door you never opened. [pause] The page, the price and the reply have to work before the queue matters. Somebody types your own business name into Google and finds nothing. Then they find somebody else. [pause] Fix the door, then buy the queue. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Save this before you boost anything.
 
 ### Burned-in caption chunks
 
@@ -20922,8 +21179,14 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. It is a queue outside a door you never opened
 3. The page, the price and the reply have
 4. to work before the queue matters
-5. Fix the door, then buy the queue
-6. Save this before you boost anything
+5. Somebody types your own business name into Google
+6. and finds nothing
+7. Then they find somebody else
+8. Fix the door, then buy the queue
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone
+12. Save this before you boost anything
 
 ### Edit / shot order
 
@@ -21492,7 +21755,7 @@ Create a five-slide Easywurld carousel for a makeup artist business in Lagos. Us
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D15-S02.mp4 (record) or assets/fallbacks/EW-D15-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -21514,7 +21777,7 @@ Create a five-slide Easywurld carousel for a makeup artist business in Lagos. Us
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> You have heard this one before. "Paid ads will fix a weak offer." [pause] My verdict? False. Ads can amplify a message. If the offer, page or reply is unclear, more traffic can expose the problem faster. [pause] Here is a small test you can run this week. Fix the landing page and reply script before increasing spend. No wahala. Keep the useful part. Drop the absolute. That is Myth Court.
+> You have heard this one before. "Paid ads will fix a weak offer." [pause] My verdict? False. Ads can amplify a message. If the offer, page or reply is unclear, more traffic can expose the problem faster. [pause] Referrals dry up, and the only new customer this month is your cousin. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Fix the landing page and reply script before increasing spend. No wahala. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -21525,12 +21788,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Ads can amplify a message
 4. If the offer, page or reply is unclear
 5. more traffic can expose the problem faster
-6. Here is a small test you can run this week
-7. Fix the landing page and reply script before increasing spend
-8. No wahala
-9. Keep the useful part
-10. Drop the absolute
-11. That is Myth Court
+6. Referrals dry up, and the only new customer
+7. this month is your cousin
+8. That is the fight Easywurld picks every day
+9. But we cannot win it alone
+10. Run this small test this week
+11. Fix the landing page and reply script before increasing spend
+12. No wahala
+13. Your yes is the turning point
+14. Keep the useful part
+15. Drop the absolute
 
 ### Edit / shot order
 
@@ -21622,7 +21889,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Six-to-18-second proof Reel. [pause] Lightreel weekly report reported it on 24 October 2026: a short Reel that makes one claim and resolves it visually. Here is how a normal Nigerian business uses it. Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Oya. Save the filter. Skip the hype.
+> Trend Desk. Today it is Six-to-18-second proof Reel. [pause] Lightreel weekly report reported it on 24 October 2026: a short Reel that makes one claim and resolves it visually. A customer searches, sees your competitor first, and calls them. Your phone stays quiet. Here is how we adapt it. Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Easywurld fights this every day. The win only happens with your business in it. Oya. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -21633,17 +21900,22 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Lightreel weekly report reported it on 24 October
 4. 2026: a short Reel that makes one claim
 5. and resolves it visually
-6. Here is how a normal Nigerian business uses it
-7. Show one labelled sample transformation
-8. such as a homepage toggle
-9. Do not claim performance results
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim oya
-15. Save the filter
-16. Skip the hype
+6. A customer searches, sees your competitor first
+7. and calls them
+8. Your phone stays quiet
+9. Here is how we adapt it
+10. Show one labelled sample transformation
+11. such as a homepage toggle
+12. Do not claim performance results
+13. Before you copy it:
+14. check it is still happening
+15. and check the audio rights
+16. This is a dated teardown
+17. not a live trend claim
+18. Easywurld fights this every day
+19. The win only happens with your business in it oya
+20. Save the filter
+21. Skip the hype
 
 ### Edit / shot order
 
@@ -22115,7 +22387,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message MESSAGE to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D15-S09.mp4 (record) or assets/fallbacks/EW-D15-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-message-workbook
@@ -22139,7 +22411,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Somebody will ask you this. "Do you research my market?" [pause] No. It shows you how to collect real input. It does not research your market for you. Let me be clear about what this is. The Clear Message Workbook is a five thousand naira DIY pack. Inside, you get Clear Message Workbook, Customer Interview Kit, Message Bank, One-Page Marketing Plan. [pause] It is not custom work, and it does not promise you sales. Message MESSAGE on WhatsApp and I will confirm the current details.
+> Somebody will ask you this. "Do you research my market?" [pause] No. It shows you how to collect real input. It does not research your market for you. That villain is what The Clear Message Workbook fights. It is a five thousand naira DIY pack. Inside, you get Clear Message Workbook, Customer Interview Kit, Message Bank, One-Page Marketing Plan. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message MESSAGE on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -22149,16 +22421,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Do you research my market? No
 3. It shows you how to collect real input
 4. It does not research your market for you
-5. Let me be clear about what this is
-6. The Clear Message Workbook is a five thousand
-7. naira DIY pack
-8. Inside, you get Clear Message Workbook
-9. Customer Interview Kit, Message Bank
-10. One-Page Marketing Plan
-11. It is not custom work
-12. and it does not promise you sales
-13. Message MESSAGE on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The Clear Message Workbook fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get Clear Message Workbook
+8. Customer Interview Kit, Message Bank
+9. One-Page Marketing Plan
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message MESSAGE on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -22329,7 +22602,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Busy is the most expensive way to avoid the one thing that pays. [pause] You can answer every message and still never send the invoice. [pause] Do the paid thing before the loud thing. Save this for Monday morning.
+> Busy is the most expensive way to avoid the one thing that pays. [pause] You can answer every message and still never send the invoice. "How much?" becomes "I will get back to you", and that becomes silence. [pause] Do the paid thing before the loud thing. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Save this for Monday morning.
 
 ### Burned-in caption chunks
 
@@ -22339,8 +22612,13 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. the one thing that pays
 3. You can answer every message and still never
 4. send the invoice
-5. Do the paid thing before the loud thing
-6. Save this for Monday morning
+5. How much?" becomes "I will get back to
+6. you", and that becomes silence
+7. Do the paid thing before the loud thing
+8. We fight this every day at Easywurld
+9. and we are honest about it:
+10. we cannot win it alone
+11. Save this for Monday morning
 
 ### Edit / shot order
 
@@ -22951,7 +23229,7 @@ Create a five-slide Easywurld carousel for a furniture maker business in Lagos. 
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D16-S02.mp4 (record) or assets/fallbacks/EW-D16-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -22973,7 +23251,7 @@ Create a five-slide Easywurld carousel for a furniture maker business in Lagos. 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Marketing myth. People will tell you, "Logo first, message later." [pause] My verdict? Mostly false. A logo matters, but customers first need to understand what you do, who it is for and what happens next. Clarity can precede polish. [pause] Here is a small test you can run this week. Write the one-sentence offer before redesigning the mark. Oya. Keep the useful part. Drop the absolute. That is Myth Court.
+> Marketing myth. People will tell you, "Logo first, message later." [pause] My verdict? Mostly false. A logo matters, but customers first need to understand what you do, who it is for and what happens next. Clarity can precede polish. [pause] A customer searches, sees your competitor first, and calls them. Your phone stays quiet. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Write the one-sentence offer before redesigning the mark. Oya. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -22986,11 +23264,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 5. understand what you do
 6. who it is for and what happens next
 7. Clarity can precede polish
-8. Here is a small test you can run this week
-9. Write the one-sentence offer before redesigning the mark oya
-10. Keep the useful part
-11. Drop the absolute
-12. That is Myth Court
+8. A customer searches, sees your competitor first
+9. and calls them
+10. Your phone stays quiet
+11. That is the fight Easywurld picks every day
+12. But we cannot win it alone
+13. Run this small test this week
+14. Write the one-sentence offer before redesigning the mark oya
+15. Your yes is the turning point
+16. Keep the useful part
+17. Drop the absolute
 
 ### Edit / shot order
 
@@ -23082,7 +23365,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Native-interface tutorial. [pause] Lightreel weekly report reported it on 24 October 2026: a screen-recording aesthetic that shows the actual interface. Here is how a normal Nigerian business uses it. Record the real demo at a readable crop. Keep concept/sample labels visible. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Take it one step at a time. Save the filter. Skip the hype.
+> Trend Desk. Today it is Native-interface tutorial. [pause] Lightreel weekly report reported it on 24 October 2026: a screen-recording aesthetic that shows the actual interface. Somebody types your own business name into Google and finds nothing. Then they find somebody else. Here is how we adapt it. Record the real demo at a readable crop. Keep concept/sample labels visible. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We bring the map. You bring the business. That is the alliance. Take it one step at a time. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -23092,17 +23375,23 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Today it is Native-interface tutorial
 3. Lightreel weekly report reported it on 24 October
 4. 2026: a screen-recording aesthetic that shows the actual interface
-5. Here is how a normal Nigerian business uses it
-6. Record the real demo at a readable crop
-7. Keep concept/sample labels visible
-8. One thing before you copy it
-9. Check that it is still happening
-10. and check the audio rights
-11. This is a dated teardown
-12. not a live trend claim
-13. Take it one step at a time
-14. Save the filter
-15. Skip the hype
+5. Somebody types your own business name into Google
+6. and finds nothing
+7. Then they find somebody else
+8. Here is how we adapt it
+9. Record the real demo at a readable crop
+10. Keep concept/sample labels visible
+11. Before you copy it:
+12. check it is still happening
+13. and check the audio rights
+14. This is a dated teardown
+15. not a live trend claim
+16. We bring the map
+17. You bring the business
+18. That is the alliance
+19. Take it one step at a time
+20. Save the filter
+21. Skip the hype
 
 ### Edit / shot order
 
@@ -23574,7 +23863,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message PROMPTS to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D16-S09.mp4 (record) or assets/fallbacks/EW-D16-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/everyday-ai-prompt-desk
@@ -23598,7 +23887,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> The question I get most about this pack. "Is the AI tool included?" [pause] No. You need access to an AI chat tool. Some features may need a paid plan, and that cost is yours. Let me be clear about what this is. The Everyday AI Prompt Desk is a five thousand naira DIY pack. Inside, you get AI Prompting Guide for Small Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template, AI Output Review and Safety Checklist. [pause] It is not custom work, and it does not promise you sales. Message PROMPTS on WhatsApp and I will confirm the current details.
+> The question I get most about this pack. "Is the AI tool included?" [pause] No. You need access to an AI chat tool. Some features may need a paid plan, and that cost is yours. That villain is what The Everyday AI Prompt Desk fights. It is a five thousand naira DIY pack. Inside, you get AI Prompting Guide for Small Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template, AI Output Review and Safety Checklist. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message PROMPTS on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -23609,16 +23898,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. You need access to an AI chat tool
 4. Some features may need a paid plan
 5. and that cost is yours
-6. Let me be clear about what this is
-7. The Everyday AI Prompt Desk is a five
-8. thousand naira DIY pack
-9. Inside, you get AI Prompting Guide for Small
-10. Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template
-11. AI Output Review and Safety Checklist
-12. It is not custom work
-13. and it does not promise you sales
-14. Message PROMPTS on WhatsApp and I will confirm
-15. the current details
+6. That villain is what The Everyday AI Prompt desk fights
+7. It is a five thousand naira DIY pack
+8. Inside, you get AI Prompting Guide for Small
+9. Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template
+10. AI Output Review and Safety Checklist
+11. It is not custom work
+12. and it does not promise you sales
+13. We hand you the map
+14. You walk it
+15. Message PROMPTS on WhatsApp and I will confirm
+16. the current details
 
 ### Edit / shot order
 
@@ -23789,7 +24079,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Everyone is guessing about the best time to post. So test it. [pause] One week at 07:00. One week at 20:30. Compare saves and messages, not vibes. [pause] Keep the slot that made someone message you. No wahala. Save this and run the test.
+> Everyone is guessing about the best time to post. So test it. [pause] One week at 07:00. One week at 20:30. Compare saves and messages, not vibes. Your page looks like everybody else's, so nobody believes you are better. [pause] Keep the slot that made someone message you. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. No wahala. Save this and run the test.
 
 ### Burned-in caption chunks
 
@@ -23800,8 +24090,13 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. One week at 07:00
 4. One week at 20:30
 5. Compare saves and messages, not vibes
-6. Keep the slot that made someone message you no wahala
-7. Save this and run the test
+6. Your page looks like everybody else's
+7. so nobody believes you are better
+8. Keep the slot that made someone message you
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone no wahala
+12. Save this and run the test
 
 ### Edit / shot order
 
@@ -24373,7 +24668,7 @@ Create a five-slide Easywurld carousel for a catering company business in Lagos.
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D17-S02.mp4 (record) or assets/fallbacks/EW-D17-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -24395,7 +24690,7 @@ Create a five-slide Easywurld carousel for a catering company business in Lagos.
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let us put one piece of advice on trial. "Content must look expensive to work." [pause] My verdict? False. Readable, useful and honest content can outperform polished but vague posts. Production value should serve the idea. [pause] Here is a small test you can run this week. Record one clear answer on a phone and compare completion rate. Take it one step at a time. Keep the useful part. Drop the absolute. That is Myth Court.
+> Let us put one piece of advice on trial. "Content must look expensive to work." [pause] My verdict? False. Readable, useful and honest content can outperform polished but vague posts. Production value should serve the idea. [pause] Somebody types your own business name into Google and finds nothing. Then they find somebody else. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Record one clear answer on a phone and compare completion rate. Take it one step at a time. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -24406,13 +24701,18 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Readable, useful and honest content can outperform polished
 4. but vague posts
 5. Production value should serve the idea
-6. Here is a small test you can run this week
-7. Record one clear answer on a phone and
-8. compare completion rate
-9. Take it one step at a time
-10. Keep the useful part
-11. Drop the absolute
-12. That is Myth Court
+6. Somebody types your own business name into Google
+7. and finds nothing
+8. Then they find somebody else
+9. That is the fight Easywurld picks every day
+10. But we cannot win it alone
+11. Run this small test this week
+12. Record one clear answer on a phone and
+13. compare completion rate
+14. Take it one step at a time
+15. Your yes is the turning point
+16. Keep the useful part
+17. Drop the absolute
 
 ### Edit / shot order
 
@@ -24504,7 +24804,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Comment keyword to DM. [pause] Lightreel weekly report reported it on 24 October 2026: a comment keyword that triggers a DM workflow. Here is how a normal Nigerian business uses it. Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+> Trend Desk. Today it is Comment keyword to DM. [pause] Lightreel weekly report reported it on 24 October 2026: a comment keyword that triggers a DM workflow. "How much?" becomes "I will get back to you", and that becomes silence. Here is how we adapt it. Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Not a service you buy. A fight you join, and your trust is the weapon. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -24514,17 +24814,22 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Today it is Comment keyword to DM
 3. Lightreel weekly report reported it on 24 October
 4. 2026: a comment keyword that triggers a DM workflow
-5. Here is how a normal Nigerian business uses it
-6. Use one keyword for one pack and confirm
-7. the DM flow works
-8. Do not promise instant delivery if it is manual
-9. One thing before you copy it
-10. Check that it is still happening
-11. and check the audio rights
-12. This is a dated teardown
-13. not a live trend claim
-14. Save the filter
-15. Skip the hype
+5. How much?" becomes "I will get back to
+6. you", and that becomes silence
+7. Here is how we adapt it
+8. Use one keyword for one pack and confirm
+9. the DM flow works
+10. Do not promise instant delivery if it is manual
+11. Before you copy it:
+12. check it is still happening
+13. and check the audio rights
+14. This is a dated teardown
+15. not a live trend claim
+16. Not a service you buy
+17. A fight you join
+18. and your trust is the weapon
+19. Save the filter
+20. Skip the hype
 
 ### Edit / shot order
 
@@ -24996,7 +25301,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message TEMPLATES to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D17-S09.mp4 (record) or assets/fallbacks/EW-D17-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/proposal-and-report-template-pack
@@ -25020,7 +25325,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Before you buy, you will ask this. "Is tax advice included?" [pause] No. Tax rules vary. The workbook has an editable tax-rate cell; confirm what applies to you. Let me be clear about what this is. The Proposal & Report Template Pack is a five thousand naira DIY pack. Inside, you get Proposals and Reports Guide, Proposal Template with Worked Example, Report and Summary Templates, Quote and Invoice Workbook. [pause] It is not custom work, and it does not promise you sales. Message TEMPLATES on WhatsApp and I will confirm the current details.
+> Before you buy, you will ask this. "Is tax advice included?" [pause] No. Tax rules vary. The workbook has an editable tax-rate cell; confirm what applies to you. That villain is what The Proposal & Report Template Pack fights. It is a five thousand naira DIY pack. Inside, you get Proposals and Reports Guide, Proposal Template with Worked Example, Report and Summary Templates, Quote and Invoice Workbook. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message TEMPLATES on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -25031,17 +25336,19 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Tax rules vary
 4. The workbook has an editable tax-rate cell;
 5. confirm what applies to you
-6. Let me be clear about what this is
-7. The Proposal & Report Template Pack is a
-8. five thousand naira DIY pack
+6. That villain is what The Proposal & Report
+7. Template Pack fights
+8. It is a five thousand naira DIY pack
 9. Inside, you get Proposals and Reports Guide
 10. Proposal Template with Worked Example
 11. Report and Summary Templates
 12. Quote and Invoice Workbook
 13. It is not custom work
 14. and it does not promise you sales
-15. Message TEMPLATES on WhatsApp and I will confirm
-16. the current details
+15. We hand you the map
+16. You walk it
+17. Message TEMPLATES on WhatsApp and I will confirm
+18. the current details
 
 ### Edit / shot order
 
@@ -25241,7 +25548,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> A trend is a borrowed room. You still have to say something worth hearing. [pause] Copy the structure, never the voice, and check the sound is cleared for business. [pause] Borrow the shape. Keep the meaning. Oya. Save this before your next trend post.
+> A trend is a borrowed room. You still have to say something worth hearing. [pause] Copy the structure, never the voice, and check the sound is cleared for business. People see "DM for price" and just pass, money in hand. [pause] Borrow the shape. Keep the meaning. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Oya. Save this before your next trend post.
 
 ### Burned-in caption chunks
 
@@ -25251,9 +25558,14 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. You still have to say something worth hearing
 3. Copy the structure, never the voice
 4. and check the sound is cleared for business
-5. Borrow the shape
-6. Keep the meaning oya
-7. Save this before your next trend post
+5. People see "DM for price" and just pass
+6. money in hand
+7. Borrow the shape
+8. Keep the meaning
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone oya
+12. Save this before your next trend post
 
 ### Edit / shot order
 
@@ -25828,7 +26140,7 @@ Create a five-slide Easywurld carousel for a printing press business in Lagos. U
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D18-S02.mp4 (record) or assets/fallbacks/EW-D18-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -25850,7 +26162,7 @@ Create a five-slide Easywurld carousel for a printing press business in Lagos. U
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> You have heard this one before. "You must chase every trend." [pause] My verdict? False. A trend is useful only if it fits the audience, brand and rights. Forced participation can look confusing or unsafe. [pause] Here is a small test you can run this week. Use the trend filter: relevance, rights, capacity, proof. Keep the useful part. Drop the absolute. That is Myth Court.
+> You have heard this one before. "You must chase every trend." [pause] My verdict? False. A trend is useful only if it fits the audience, brand and rights. Forced participation can look confusing or unsafe. [pause] "How much?" becomes "I will get back to you", and that becomes silence. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Use the trend filter: relevance, rights, capacity, proof. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -25861,11 +26173,15 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. A trend is useful only if it fits
 4. the audience, brand and rights
 5. Forced participation can look confusing or unsafe
-6. Here is a small test you can run this week
-7. Use the trend filter: relevance, rights, capacity, proof
-8. Keep the useful part
-9. Drop the absolute
-10. That is Myth Court
+6. How much?" becomes "I will get back to
+7. you", and that becomes silence
+8. That is the fight Easywurld picks every day
+9. But we cannot win it alone
+10. Run this small test this week
+11. Use the trend filter: relevance, rights, capacity, proof
+12. Your yes is the turning point
+13. Keep the useful part
+14. Drop the absolute
 
 ### Edit / shot order
 
@@ -25957,7 +26273,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. Here is how a normal Nigerian business uses it. Show the hook that brings an message and the process that earns trust. Use real or labelled sample steps. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. Your page looks like everybody else's, so nobody believes you are better. Here is how we adapt it. Show the hook that brings an message and the process that earns trust. Use real or labelled sample steps. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We do our half honestly. Your half is the yes. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -25969,17 +26285,21 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 4. Drizzle Digital Volume 38 reported it on 28
 5. September 2026: a contrast between what attracts customers
 6. and what keeps them
-7. Here is how a normal Nigerian business uses it
-8. Show the hook that brings an message and
-9. the process that earns trust
-10. Use real or labelled sample steps
-11. One thing before you copy it
-12. Check that it is still happening
-13. and check the audio rights
-14. This is a dated teardown
-15. not a live trend claim
-16. Save the filter
-17. Skip the hype
+7. Your page looks like everybody else's
+8. so nobody believes you are better
+9. Here is how we adapt it
+10. Show the hook that brings an message and
+11. the process that earns trust
+12. Use real or labelled sample steps
+13. Before you copy it:
+14. check it is still happening
+15. and check the audio rights
+16. This is a dated teardown
+17. not a live trend claim
+18. We do our half honestly
+19. Your half is the yes
+20. Save the filter
+21. Skip the hype
 
 ### Edit / shot order
 
@@ -26451,7 +26771,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message LAUNCH to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D18-S09.mp4 (record) or assets/fallbacks/EW-D18-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/website-launch-and-care-handbook
@@ -26475,7 +26795,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Somebody will ask you this. "Are hosting costs included?" [pause] No. Domain, hosting, builder and email costs are separate and depend on providers. Let me be clear about what this is. The Website Launch & Care Handbook is a five thousand naira DIY pack. Inside, you get Website Launch & Care Handbook, Website Planning Brief, Launch, Care and Accounts Workbook, Hiring a Web Designer: Questions and Red Flags. [pause] It is not custom work, and it does not promise you sales. Message LAUNCH on WhatsApp and I will confirm the current details.
+> Somebody will ask you this. "Are hosting costs included?" [pause] No. Domain, hosting, builder and email costs are separate and depend on providers. That villain is what The Website Launch & Care Handbook fights. It is a five thousand naira DIY pack. Inside, you get Website Launch & Care Handbook, Website Planning Brief, Launch, Care and Accounts Workbook, Hiring a Web Designer: Questions and Red Flags. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message LAUNCH on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -26485,9 +26805,9 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Are hosting costs included? No
 3. Domain, hosting, builder and email costs are separate
 4. and depend on providers
-5. Let me be clear about what this is
-6. The Website Launch & Care Handbook is a
-7. five thousand naira DIY pack
+5. That villain is what The Website Launch &
+6. Care Handbook fights
+7. It is a five thousand naira DIY pack
 8. Inside, you get Website Launch & Care Handbook
 9. Website Planning Brief, Launch
 10. Care and Accounts Workbook
@@ -26495,8 +26815,10 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 12. Questions and Red Flags
 13. It is not custom work
 14. and it does not promise you sales
-15. Message LAUNCH on WhatsApp and I will confirm
-16. the current details
+15. We hand you the map
+16. You walk it
+17. Message LAUNCH on WhatsApp and I will confirm
+18. the current details
 
 ### Edit / shot order
 
@@ -26667,7 +26989,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> A template is not a shortcut. It is a decision someone already made well. [pause] What you add is the judgement: which line, which price, which customer. [pause] Buy the thinking. Do the typing. Take it one step at a time. Save this if you keep starting from a blank page.
+> A template is not a shortcut. It is a decision someone already made well. [pause] What you add is the judgement: which line, which price, which customer. Referrals dry up, and the only new customer this month is your cousin. [pause] Buy the thinking. Do the typing. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Take it one step at a time. Save this if you keep starting from a blank page.
 
 ### Burned-in caption chunks
 
@@ -26677,10 +26999,15 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. It is a decision someone already made well
 3. What you add is the judgement:
 4. which line, which price which customer
-5. Buy the thinking
-6. Do the typing
-7. Take it one step at a time
-8. Save this if you keep starting from a blank page
+5. Referrals dry up, and the only new customer
+6. this month is your cousin
+7. Buy the thinking
+8. Do the typing
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone
+12. Take it one step at a time
+13. Save this if you keep starting from a blank page
 
 ### Edit / shot order
 
@@ -27252,7 +27579,7 @@ Create a five-slide Easywurld carousel for a travel agency business in Lagos. Us
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D19-S02.mp4 (record) or assets/fallbacks/EW-D19-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -27274,7 +27601,7 @@ Create a five-slide Easywurld carousel for a travel agency business in Lagos. Us
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Marketing myth. People will tell you, "Long copy always sells better." [pause] My verdict? It depends. Copy should be long enough to answer the buyer's questions and short enough to keep attention. Awareness and price change the need. [pause] Here is a small test you can run this week. Match copy length to the buyer's stage and test one variable. Keep the useful part. Drop the absolute. That is Myth Court.
+> Marketing myth. People will tell you, "Long copy always sells better." [pause] My verdict? It depends. Copy should be long enough to answer the buyer's questions and short enough to keep attention. Awareness and price change the need. [pause] Your page looks like everybody else's, so nobody believes you are better. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Match copy length to the buyer's stage and test one variable. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -27286,12 +27613,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 4. Copy should be long enough to answer the
 5. buyer's questions and short enough to keep attention
 6. Awareness and price change the need
-7. Here is a small test you can run this week
-8. Match copy length to the buyer's stage and
-9. test one variable
-10. Keep the useful part
-11. Drop the absolute
-12. That is Myth Court
+7. Your page looks like everybody else's
+8. so nobody believes you are better
+9. That is the fight Easywurld picks every day
+10. But we cannot win it alone
+11. Run this small test this week
+12. Match copy length to the buyer's stage and
+13. test one variable
+14. Your yes is the turning point
+15. Keep the useful part
+16. Drop the absolute
 
 ### Edit / shot order
 
@@ -27383,7 +27714,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is I'm with Max. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a creator spotlighting the person or thing they are always with. Here is how a normal Nigerian business uses it. Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. No wahala. Save the filter. Skip the hype.
+> Trend Desk. Today it is I'm with Max. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a creator spotlighting the person or thing they are always with. People see "DM for price" and just pass, money in hand. Here is how we adapt it. Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We can build the fix, but we cannot win it alone. Your yes is the turning point. No wahala. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -27394,17 +27725,22 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 40 reported it on 26
 4. October 2026: a creator spotlighting the person or
 5. thing they are always with
-6. Here is how a normal Nigerian business uses it
-7. Adapt only with owned/licensed audio and a real
-8. brand constant, such as the checklist
-9. Do not use a personal-account sound
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim no wahala
-15. Save the filter
-16. Skip the hype
+6. People see "DM for price" and just pass
+7. money in hand
+8. Here is how we adapt it
+9. Adapt only with owned/licensed audio and a real
+10. brand constant, such as the checklist
+11. Do not use a personal-account sound
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. We can build the fix
+18. but we cannot win it alone
+19. Your yes is the turning point no wahala
+20. Save the filter
+21. Skip the hype
 
 ### Edit / shot order
 
@@ -27876,7 +28212,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message PLAYBOOK to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D19-S09.mp4 (record) or assets/fallbacks/EW-D19-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
@@ -27900,7 +28236,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> The question I get most about this pack. "Can I use them in Pidgin?" [pause] Yes. Adapt them into the language your customers use, including Pidgin or Yoruba. Keep the meaning and check the tone. Let me be clear about what this is. The Chat-to-Customer Playbook is a five thousand naira DIY pack. Inside, you get Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. [pause] It is not custom work, and it does not promise you sales. Message PLAYBOOK on WhatsApp and I will confirm the current details.
+> The question I get most about this pack. "Can I use them in Pidgin?" [pause] Yes. Adapt them into the language your customers use, including Pidgin or Yoruba. Keep the meaning and check the tone. That villain is what The Chat-to-Customer Playbook fights. It is a five thousand naira DIY pack. Inside, you get Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message PLAYBOOK on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -27911,15 +28247,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Adapt them into the language your customers use
 4. including Pidgin or Yoruba
 5. Keep the meaning and check the tone
-6. Let me be clear about what this is
-7. The Chat-to-Customer Playbook is a five thousand naira DIY pack
+6. That villain is what The Chat-to-Customer Playbook fights
+7. It is a five thousand naira DIY pack
 8. Inside, you get Chat-to-Customer Playbook
 9. 36-Script Message Library, Lead & Follow-Up Tracker
 10. 7-Day Setup Checklist
 11. It is not custom work
 12. and it does not promise you sales
-13. Message PLAYBOOK on WhatsApp and I will confirm
-14. the current details
+13. We hand you the map
+14. You walk it
+15. Message PLAYBOOK on WhatsApp and I will confirm
+16. the current details
 
 ### Edit / shot order
 
@@ -28118,7 +28456,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Every great line you admire is a structure you can learn and a voice you cannot borrow. [pause] Steal the structure. Write your own sentence. Attribute the teacher. [pause] Learn the move, not the words. Save this for the 16:00 breakdown.
+> Every great line you admire is a structure you can learn and a voice you cannot borrow. [pause] Steal the structure. Write your own sentence. Attribute the teacher. A customer searches, sees your competitor first, and calls them. Your phone stays quiet. [pause] Learn the move, not the words. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Save this for the 16:00 breakdown.
 
 ### Burned-in caption chunks
 
@@ -28129,8 +28467,14 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Steal the structure
 4. Write your own sentence
 5. Attribute the teacher
-6. Learn the move, not the words
-7. Save this for the 16:00 breakdown
+6. A customer searches, sees your competitor first
+7. and calls them
+8. Your phone stays quiet
+9. Learn the move, not the words
+10. We fight this every day at Easywurld
+11. and we are honest about it:
+12. we cannot win it alone
+13. Save this for the 16:00 breakdown
 
 ### Edit / shot order
 
@@ -28704,7 +29048,7 @@ Create a five-slide Easywurld carousel for a optician business in Lagos. Use the
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D20-S02.mp4 (record) or assets/fallbacks/EW-D20-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -28726,7 +29070,7 @@ Create a five-slide Easywurld carousel for a optician business in Lagos. Use the
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let us put one piece of advice on trial. "Short copy always wins." [pause] My verdict? It depends. A short hook can earn attention, but a complex offer may need explanation. Brevity is not the same as clarity. [pause] Here is a small test you can run this week. Keep the hook short and give the offer enough detail to decide. No wahala. Keep the useful part. Drop the absolute. That is Myth Court.
+> Let us put one piece of advice on trial. "Short copy always wins." [pause] My verdict? It depends. A short hook can earn attention, but a complex offer may need explanation. Brevity is not the same as clarity. [pause] People see "DM for price" and just pass, money in hand. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Keep the hook short and give the offer enough detail to decide. No wahala. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -28737,12 +29081,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. A short hook can earn attention
 4. but a complex offer may need explanation
 5. Brevity is not the same as clarity
-6. Here is a small test you can run this week
-7. Keep the hook short and give the offer
-8. enough detail to decide no wahala
-9. Keep the useful part
-10. Drop the absolute
-11. That is Myth Court
+6. People see "DM for price" and just pass
+7. money in hand
+8. That is the fight Easywurld picks every day
+9. But we cannot win it alone
+10. Run this small test this week
+11. Keep the hook short and give the offer
+12. enough detail to decide no wahala
+13. Your yes is the turning point
+14. Keep the useful part
+15. Drop the absolute
 
 ### Edit / shot order
 
@@ -28834,7 +29182,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is You Seem To Be Scrolling a Lot. [pause] Drizzle Digital Volume 39 reported it on 14 October 2026: a playful nudge to stop scrolling and take an action. Here is how a normal Nigerian business uses it. Turn it into one useful action, such as testing the contact route. Avoid shaming the viewer. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Oya. Save the filter. Skip the hype.
+> Trend Desk. Today it is You Seem To Be Scrolling a Lot. [pause] Drizzle Digital Volume 39 reported it on 14 October 2026: a playful nudge to stop scrolling and take an action. Referrals dry up, and the only new customer this month is your cousin. Here is how we adapt it. Turn it into one useful action, such as testing the contact route. Avoid shaming the viewer. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Easywurld fights this every day. The win only happens with your business in it. Oya. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -28845,17 +29193,21 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 39 reported it on 14
 4. October 2026: a playful nudge to stop scrolling
 5. and take an action
-6. Here is how a normal Nigerian business uses it
-7. Turn it into one useful action
-8. such as testing the contact route
-9. Avoid shaming the viewer
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim oya
-15. Save the filter
-16. Skip the hype
+6. Referrals dry up, and the only new customer
+7. this month is your cousin
+8. Here is how we adapt it
+9. Turn it into one useful action
+10. such as testing the contact route
+11. Avoid shaming the viewer
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. Easywurld fights this every day
+18. The win only happens with your business in it oya
+19. Save the filter
+20. Skip the hype
 
 ### Edit / shot order
 
@@ -29327,7 +29679,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message CLEAR to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D20-S09.mp4 (record) or assets/fallbacks/EW-D20-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
@@ -29351,7 +29703,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Before you buy, you will ask this. "Does it guarantee reach?" [pause] No. Platform features change, and no plan can guarantee reach, followers or sales. Let me be clear about what this is. The Clear Homepage Blueprint is a five thousand naira DIY pack. Inside, you get Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. [pause] It is not custom work, and it does not promise you sales. Message CLEAR on WhatsApp and I will confirm the current details.
+> Before you buy, you will ask this. "Does it guarantee reach?" [pause] No. Platform features change, and no plan can guarantee reach, followers or sales. That villain is what The Clear Homepage Blueprint fights. It is a five thousand naira DIY pack. Inside, you get Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message CLEAR on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -29361,16 +29713,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Does it guarantee reach? No
 3. Platform features change, and no plan can guarantee
 4. reach, followers or sales
-5. Let me be clear about what this is
-6. The Clear Homepage Blueprint is a five thousand
-7. naira DIY pack
-8. Inside, you get Clear Homepage Blueprint
-9. Homepage Copy Templates, Homepage Content Planner
-10. 20-Point Homepage Audit Scorecard
-11. It is not custom work
-12. and it does not promise you sales
-13. Message CLEAR on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The Clear Homepage Blueprint fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get Clear Homepage Blueprint
+8. Homepage Copy Templates, Homepage Content Planner
+9. 20-Point Homepage Audit Scorecard
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message CLEAR on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -29541,7 +29894,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Your bio is not an introduction. It is a filter. [pause] It should make the right person lean in and the wrong one leave quickly. [pause] Clarity is a kindness to both of you. Save this and read your bio out loud.
+> Your bio is not an introduction. It is a filter. [pause] It should make the right person lean in and the wrong one leave quickly. Somebody types your own business name into Google and finds nothing. Then they find somebody else. [pause] Clarity is a kindness to both of you. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Save this and read your bio out loud.
 
 ### Burned-in caption chunks
 
@@ -29551,8 +29904,14 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. It is a filter
 3. It should make the right person lean in
 4. and the wrong one leave quickly
-5. Clarity is a kindness to both of you
-6. Save this and read your bio out loud
+5. Somebody types your own business name into Google
+6. and finds nothing
+7. Then they find somebody else
+8. Clarity is a kindness to both of you
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone
+12. Save this and read your bio out loud
 
 ### Edit / shot order
 
@@ -30129,7 +30488,7 @@ Create a five-slide Easywurld carousel for a auto mechanic business in Lagos. Us
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D21-S02.mp4 (record) or assets/fallbacks/EW-D21-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -30151,7 +30510,7 @@ Create a five-slide Easywurld carousel for a auto mechanic business in Lagos. Us
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> You have heard this one before. "Testimonials are enough proof." [pause] My verdict? It depends. Testimonials help when they are real, specific and permitted. They do not replace clear scope, samples or transparent process. [pause] Here is a small test you can run this week. Pair one permitted testimonial with a labelled sample and scope. Oya. Keep the useful part. Drop the absolute. That is Myth Court.
+> You have heard this one before. "Testimonials are enough proof." [pause] My verdict? It depends. Testimonials help when they are real, specific and permitted. They do not replace clear scope, samples or transparent process. [pause] Referrals dry up, and the only new customer this month is your cousin. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Pair one permitted testimonial with a labelled sample and scope. Oya. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -30163,12 +30522,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 4. specific and permitted
 5. They do not replace clear scope
 6. samples or transparent process
-7. Here is a small test you can run this week
-8. Pair one permitted testimonial with a labelled sample and scope
-9. Oya
-10. Keep the useful part
-11. Drop the absolute
-12. That is Myth Court
+7. Referrals dry up, and the only new customer
+8. this month is your cousin
+9. That is the fight Easywurld picks every day
+10. But we cannot win it alone
+11. Run this small test this week
+12. Pair one permitted testimonial with a labelled sample and scope
+13. Oya
+14. Your yes is the turning point
+15. Keep the useful part
+16. Drop the absolute
 
 ### Edit / shot order
 
@@ -30260,7 +30623,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Ghosts. [pause] Drizzle Digital Volume 39 reported it on 14 October 2026: a spooky-season format showing what a brand is ready for. Here is how a normal Nigerian business uses it. Use only if seasonally relevant and owned/licensed. Adapt to 'ghosted messages' with a follow-up lesson. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Take it one step at a time. Save the filter. Skip the hype.
+> Trend Desk. Today it is Ghosts. [pause] Drizzle Digital Volume 39 reported it on 14 October 2026: a spooky-season format showing what a brand is ready for. A customer searches, sees your competitor first, and calls them. Your phone stays quiet. Here is how we adapt it. Use only if seasonally relevant and owned/licensed. Adapt to 'ghosted messages' with a follow-up lesson. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We bring the map. You bring the business. That is the alliance. Take it one step at a time. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -30271,17 +30634,23 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 39 reported it on 14
 4. October 2026: a spooky-season format showing what a
 5. brand is ready for
-6. Here is how a normal Nigerian business uses it
-7. Use only if seasonally relevant and owned/licensed
-8. Adapt to 'ghosted messages' with a follow-up lesson
-9. One thing before you copy it
-10. Check that it is still happening
-11. and check the audio rights
-12. This is a dated teardown
-13. not a live trend claim
-14. Take it one step at a time
-15. Save the filter
-16. Skip the hype
+6. A customer searches, sees your competitor first
+7. and calls them
+8. Your phone stays quiet
+9. Here is how we adapt it
+10. Use only if seasonally relevant and owned/licensed
+11. Adapt to 'ghosted messages' with a follow-up lesson
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. We bring the map
+18. You bring the business
+19. That is the alliance
+20. Take it one step at a time
+21. Save the filter
+22. Skip the hype
 
 ### Edit / shot order
 
@@ -30753,7 +31122,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message ENGINE to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D21-S09.mp4 (record) or assets/fallbacks/EW-D21-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
@@ -30777,7 +31146,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Somebody will ask you this. "Do you write the posts?" [pause] No. You write or design the content using the templates. The hooks are starting points, not finished posts. Let me be clear about what this is. The 30-Day Content Engine is a five thousand naira DIY pack. Inside, you get 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. [pause] It is not custom work, and it does not promise you sales. Message ENGINE on WhatsApp and I will confirm the current details.
+> Somebody will ask you this. "Do you write the posts?" [pause] No. You write or design the content using the templates. The hooks are starting points, not finished posts. That villain is what The 30-Day Content Engine fights. It is a five thousand naira DIY pack. Inside, you get 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message ENGINE on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -30787,16 +31156,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Do you write the posts? No
 3. You write or design the content using the templates
 4. The hooks are starting points, not finished posts
-5. Let me be clear about what this is
-6. The 30-Day Content Engine is a five thousand
-7. naira DIY pack
-8. Inside, you get 30-Day Content Engine Guide
-9. 60-Idea Post Bank, 30-Day Content Calendar
-10. Hooks and Caption Swipe File
-11. It is not custom work
-12. and it does not promise you sales
-13. Message ENGINE on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The 30-Day Content Engine fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get 30-Day Content Engine Guide
+8. 60-Idea Post Bank, 30-Day Content Calendar
+9. Hooks and Caption Swipe File
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message ENGINE on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -30967,7 +31337,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> The first reply wins more work than the best portfolio. [pause] Not because speed is clever. Because attention moves on in minutes. [pause] Answer fast. Answer plainly. Answer once. No wahala. Save this for your WhatsApp settings.
+> The first reply wins more work than the best portfolio. [pause] Not because speed is clever. Because attention moves on in minutes. "How much?" becomes "I will get back to you", and that becomes silence. [pause] Answer fast. Answer plainly. Answer once. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. No wahala. Save this for your WhatsApp settings.
 
 ### Burned-in caption chunks
 
@@ -30975,9 +31345,14 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 
 1. The first reply wins more work than the best portfolio
 2. Not because speed is clever
-3. Because attention moves on in minutes answer fast answer plainly
-4. Answer once no wahala
-5. Save this for your WhatsApp settings
+3. Because attention moves on in minutes
+4. How much?" becomes "I will get back to
+5. you", and that becomes silence answer fast answer plainly
+6. Answer once
+7. We fight this every day at Easywurld
+8. and we are honest about it:
+9. we cannot win it alone no wahala
+10. Save this for your WhatsApp settings
 
 ### Edit / shot order
 
@@ -31556,7 +31931,7 @@ Create a five-slide Easywurld carousel for a interior designer business in Lagos
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D22-S02.mp4 (record) or assets/fallbacks/EW-D22-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -31578,7 +31953,7 @@ Create a five-slide Easywurld carousel for a interior designer business in Lagos
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Marketing myth. People will tell you, "Hide the price until DM." [pause] My verdict? It depends. For simple DIY packs, a clear price can reduce friction. Custom projects may need a range or scoped quote. Hiding everything can waste time. [pause] Here is a small test you can run this week. Publish the pack price and explain what custom work requires. Take it one step at a time. Keep the useful part. Drop the absolute. That is Myth Court.
+> Marketing myth. People will tell you, "Hide the price until DM." [pause] My verdict? It depends. For simple DIY packs, a clear price can reduce friction. Custom projects may need a range or scoped quote. [pause] A customer searches, sees your competitor first, and calls them. Your phone stays quiet. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Publish the pack price and explain what custom work requires. Take it one step at a time. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -31590,13 +31965,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 4. For simple DIY packs
 5. a clear price can reduce friction
 6. Custom projects may need a range or scoped quote
-7. Hiding everything can waste time
-8. Here is a small test you can run this week
-9. Publish the pack price and explain what custom work requires
-10. Take it one step at a time
-11. Keep the useful part
-12. Drop the absolute
-13. That is Myth Court
+7. A customer searches, sees your competitor first
+8. and calls them
+9. Your phone stays quiet
+10. That is the fight Easywurld picks every day
+11. But we cannot win it alone
+12. Run this small test this week
+13. Publish the pack price and explain what custom work requires
+14. Take it one step at a time
+15. Your yes is the turning point
+16. Keep the useful part
+17. Drop the absolute
 
 ### Edit / shot order
 
@@ -31688,7 +32067,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Four Walls. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a format built around four walls or four panels. Here is how a normal Nigerian business uses it. Use four panels for message, page, content and follow-up. Keep the structure, skip the sound if rights are unclear. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+> Trend Desk. Today it is Four Walls. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a format built around four walls or four panels. Somebody types your own business name into Google and finds nothing. Then they find somebody else. Here is how we adapt it. Use four panels for message, page, content and follow-up. Keep the structure, skip the sound if rights are unclear. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Not a service you buy. A fight you join, and your trust is the weapon. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -31699,17 +32078,23 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 38 reported it on 28
 4. September 2026: a format built around four walls
 5. or four panels
-6. Here is how a normal Nigerian business uses it
-7. Use four panels for message
-8. page, content and follow-up
-9. Keep the structure, skip the sound if rights are unclear
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim
-15. Save the filter
-16. Skip the hype
+6. Somebody types your own business name into Google
+7. and finds nothing
+8. Then they find somebody else
+9. Here is how we adapt it
+10. Use four panels for message
+11. page, content and follow-up
+12. Keep the structure, skip the sound if rights are unclear
+13. Before you copy it:
+14. check it is still happening
+15. and check the audio rights
+16. This is a dated teardown
+17. not a live trend claim
+18. Not a service you buy
+19. A fight you join
+20. and your trust is the weapon
+21. Save the filter
+22. Skip the hype
 
 ### Edit / shot order
 
@@ -32181,7 +32566,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message PAGE to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D22-S09.mp4 (record) or assets/fallbacks/EW-D22-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/one-offer-landing-page-kit
@@ -32205,7 +32590,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> The question I get most about this pack. "Is custom design included?" [pause] No. The HTML template is a simple starter page, not a custom-designed website. Let me be clear about what this is. The One-Offer Landing Page Kit is a five thousand naira DIY pack. Inside, you get One-Offer Landing Page Guide, Landing Page Copy Template with Worked Example, Editable Landing Page Starter (HTML), Pre-Launch Checklist. [pause] It is not custom work, and it does not promise you sales. Message PAGE on WhatsApp and I will confirm the current details.
+> The question I get most about this pack. "Is custom design included?" [pause] No. The HTML template is a simple starter page, not a custom-designed website. That villain is what The One-Offer Landing Page Kit fights. It is a five thousand naira DIY pack. Inside, you get One-Offer Landing Page Guide, Landing Page Copy Template with Worked Example, Editable Landing Page Starter (HTML), Pre-Launch Checklist. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message PAGE on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -32215,16 +32600,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Is custom design included? No
 3. The HTML template is a simple starter page
 4. not a custom-designed website
-5. Let me be clear about what this is
-6. The One-Offer Landing Page Kit is a five
-7. thousand naira DIY pack
-8. Inside, you get One-Offer Landing Page Guide
-9. Landing Page Copy Template with Worked Example
-10. Editable Landing Page Starter (HTML) pre-Launch Checklist
-11. It is not custom work
-12. and it does not promise you sales
-13. Message PAGE on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The One-Offer Landing Page kit fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get One-Offer Landing Page Guide
+8. Landing Page Copy Template with Worked Example
+9. Editable Landing Page Starter (HTML) pre-Launch Checklist
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message PAGE on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -32395,7 +32781,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> If you cannot say what is inside, the price will always feel like too much. [pause] Contents remove doubt. Doubt is what people are actually refusing to pay for. [pause] Sell the contents, then the price. Oya. Save this before your next quote.
+> If you cannot say what is inside, the price will always feel like too much. [pause] Contents remove doubt. Doubt is what people are actually refusing to pay for. Your page looks like everybody else's, so nobody believes you are better. [pause] Sell the contents, then the price. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Oya. Save this before your next quote.
 
 ### Burned-in caption chunks
 
@@ -32405,8 +32791,13 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. the price will always feel like too much
 3. Contents remove doubt
 4. Doubt is what people are actually refusing to pay for
-5. Sell the contents, then the price oya
-6. Save this before your next quote
+5. Your page looks like everybody else's
+6. so nobody believes you are better
+7. Sell the contents, then the price
+8. We fight this every day at Easywurld
+9. and we are honest about it:
+10. we cannot win it alone oya
+11. Save this before your next quote
 
 ### Edit / shot order
 
@@ -33009,7 +33400,7 @@ Create a five-slide Easywurld carousel for a pet groomer business in Lagos. Use 
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D23-S02.mp4 (record) or assets/fallbacks/EW-D23-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -33031,7 +33422,7 @@ Create a five-slide Easywurld carousel for a pet groomer business in Lagos. Use 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let us put one piece of advice on trial. "Automation can replace customer replies." [pause] My verdict? False. Automation can draft, route and remind. Sensitive answers, prices, promises and complaints need human review. [pause] Here is a small test you can run this week. Keep a human approval step for every customer-facing message. Keep the useful part. Drop the absolute. That is Myth Court.
+> Let us put one piece of advice on trial. "Automation can replace customer replies." [pause] My verdict? False. Automation can draft, route and remind. Sensitive answers, prices, promises and complaints need human review. [pause] Somebody types your own business name into Google and finds nothing. Then they find somebody else. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Keep a human approval step for every customer-facing message. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -33041,11 +33432,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Automation can replace customer replies my verdict? False
 3. Automation can draft, route and remind
 4. Sensitive answers, prices, promises and complaints need human review
-5. Here is a small test you can run this week
-6. Keep a human approval step for every customer-facing message
-7. Keep the useful part
-8. Drop the absolute
-9. That is Myth Court
+5. Somebody types your own business name into Google
+6. and finds nothing
+7. Then they find somebody else
+8. That is the fight Easywurld picks every day
+9. But we cannot win it alone
+10. Run this small test this week
+11. Keep a human approval step for every customer-facing message
+12. Your yes is the turning point
+13. Keep the useful part
+14. Drop the absolute
 
 ### Edit / shot order
 
@@ -33137,7 +33533,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Brand Vibe. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a product front and center with four still shots that express the brand vibe. Here is how a normal Nigerian business uses it. Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+> Trend Desk. Today it is Brand Vibe. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a product front and center with four still shots that express the brand vibe. "How much?" becomes "I will get back to you", and that becomes silence. Here is how we adapt it. Use one real product or service outcome with four owned images that show the customer's world. Do not invent a lifestyle. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We do our half honestly. Your half is the yes. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -33148,17 +33544,21 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 40 reported it on 26
 4. October 2026: a product front and center with
 5. four still shots that express the brand vibe
-6. Here is how a normal Nigerian business uses it
-7. Use one real product or service outcome with
-8. four owned images that show the customer's world
-9. Do not invent a lifestyle
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim
-15. Save the filter
-16. Skip the hype
+6. How much?" becomes "I will get back to
+7. you", and that becomes silence
+8. Here is how we adapt it
+9. Use one real product or service outcome with
+10. four owned images that show the customer's world
+11. Do not invent a lifestyle
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. We do our half honestly
+18. Your half is the yes
+19. Save the filter
+20. Skip the hype
 
 ### Edit / shot order
 
@@ -33630,7 +34030,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message LOCAL to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D23-S09.mp4 (record) or assets/fallbacks/EW-D23-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/lagos-local-visibility-starter
@@ -33654,7 +34054,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with a
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Before you buy, you will ask this. "Can you guarantee reviews?" [pause] No. Ask honestly and make it easy. Do not invent reviews or pressure customers. Let me be clear about what this is. The Lagos Local Visibility Starter is a five thousand naira DIY pack. Inside, you get Local Visibility Guide, Keyword and Page Title Worksheet, Google Business Profile Checklist and Review Scripts, 30-Day Local Visibility Tracker. [pause] It is not custom work, and it does not promise you sales. Message LOCAL on WhatsApp and I will confirm the current details.
+> Before you buy, you will ask this. "Can you guarantee reviews?" [pause] No. Ask honestly and make it easy. Do not invent reviews or pressure customers. That villain is what The Lagos Local Visibility Starter fights. It is a five thousand naira DIY pack. Inside, you get Local Visibility Guide, Keyword and Page Title Worksheet, Google Business Profile Checklist and Review Scripts, 30-Day Local Visibility Tracker. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message LOCAL on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -33664,17 +34064,18 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Can you guarantee reviews? No
 3. Ask honestly and make it easy
 4. Do not invent reviews or pressure customers
-5. Let me be clear about what this is
-6. The Lagos Local Visibility Starter is a five
-7. thousand naira DIY pack
-8. Inside, you get Local Visibility Guide
-9. Keyword and Page Title Worksheet
-10. Google Business Profile Checklist and Review Scripts
-11. 30-Day Local Visibility Tracker
-12. It is not custom work
-13. and it does not promise you sales
-14. Message LOCAL on WhatsApp and I will confirm
-15. the current details
+5. That villain is what The Lagos Local Visibility starter fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get Local Visibility Guide
+8. Keyword and Page Title Worksheet
+9. Google Business Profile Checklist and Review Scripts
+10. 30-Day Local Visibility Tracker
+11. It is not custom work
+12. and it does not promise you sales
+13. We hand you the map
+14. You walk it
+15. Message LOCAL on WhatsApp and I will confirm
+16. the current details
 
 ### Edit / shot order
 
@@ -33875,7 +34276,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Sunday night is the cheapest hour of your marketing week. [pause] One hour of decisions saves six hours of improvising. [pause] Plan the week. Then protect it. Take it one step at a time. Save this for tonight.
+> Sunday night is the cheapest hour of your marketing week. [pause] One hour of decisions saves six hours of improvising. People see "DM for price" and just pass, money in hand. [pause] Plan the week. Then protect it. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Take it one step at a time. Save this for tonight.
 
 ### Burned-in caption chunks
 
@@ -33883,10 +34284,15 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 
 1. Sunday night is the cheapest hour of your marketing week
 2. One hour of decisions saves six hours of improvising
-3. Plan the week
-4. Then protect it
-5. Take it one step at a time
-6. Save this for tonight
+3. People see "DM for price" and just pass
+4. money in hand
+5. Plan the week
+6. Then protect it
+7. We fight this every day at Easywurld
+8. and we are honest about it:
+9. we cannot win it alone
+10. Take it one step at a time
+11. Save this for tonight
 
 ### Edit / shot order
 
@@ -34458,7 +34864,7 @@ Create a five-slide Easywurld carousel for a juice bar business in Lagos. Use th
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D24-S02.mp4 (record) or assets/fallbacks/EW-D24-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -34480,7 +34886,7 @@ Create a five-slide Easywurld carousel for a juice bar business in Lagos. Use th
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> You have heard this one before. "A chatbot knows your business automatically." [pause] My verdict? False. A chatbot needs a maintained knowledge sheet, boundaries and escalation. Without them it can invent answers. [pause] Here is a small test you can run this week. Write the knowledge sheet and test ten common questions. Keep the useful part. Drop the absolute. That is Myth Court.
+> You have heard this one before. "A chatbot knows your business automatically." [pause] My verdict? False. A chatbot needs a maintained knowledge sheet, boundaries and escalation. Without them it can invent answers. [pause] "How much?" becomes "I will get back to you", and that becomes silence. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Write the knowledge sheet and test ten common questions. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -34491,11 +34897,15 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. A chatbot needs a maintained knowledge sheet
 4. boundaries and escalation
 5. Without them it can invent answers
-6. Here is a small test you can run this week
-7. Write the knowledge sheet and test ten common questions
-8. Keep the useful part
-9. Drop the absolute
-10. That is Myth Court
+6. How much?" becomes "I will get back to
+7. you", and that becomes silence
+8. That is the fight Easywurld picks every day
+9. But we cannot win it alone
+10. Run this small test this week
+11. Write the knowledge sheet and test ten common questions
+12. Your yes is the turning point
+13. Keep the useful part
+14. Drop the absolute
 
 ### Edit / shot order
 
@@ -34587,7 +34997,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Pick Your Emoji. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a video carousel that starts with four emoji paths and ends with one CTA. Here is how a normal Nigerian business uses it. Adapt it to four customer problems, not four random products. End with one useful next step. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. No wahala. Save the filter. Skip the hype.
+> Trend Desk. Today it is Pick Your Emoji. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a video carousel that starts with four emoji paths and ends with one CTA. Your page looks like everybody else's, so nobody believes you are better. Here is how we adapt it. Adapt it to four customer problems, not four random products. End with one useful next step. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We can build the fix, but we cannot win it alone. Your yes is the turning point. No wahala. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -34598,17 +35008,22 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 40 reported it on 26
 4. October 2026: a video carousel that starts with
 5. four emoji paths and ends with one CTA
-6. Here is how a normal Nigerian business uses it
-7. Adapt it to four customer problems
-8. not four random products
-9. End with one useful next step
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim no wahala
-15. Save the filter
-16. Skip the hype
+6. Your page looks like everybody else's
+7. so nobody believes you are better
+8. Here is how we adapt it
+9. Adapt it to four customer problems
+10. not four random products
+11. End with one useful next step
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. We can build the fix
+18. but we cannot win it alone
+19. Your yes is the turning point no wahala
+20. Save the filter
+21. Skip the hype
 
 ### Edit / shot order
 
@@ -35080,7 +35495,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message MESSAGE to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D24-S09.mp4 (record) or assets/fallbacks/EW-D24-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-message-workbook
@@ -35104,7 +35519,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: an open noteboo
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Somebody will ask you this. "Is the example a client?" [pause] No. The worked example is fictional, for illustration. Use your own customer input. Let me be clear about what this is. The Clear Message Workbook is a five thousand naira DIY pack. Inside, you get Clear Message Workbook, Customer Interview Kit, Message Bank, One-Page Marketing Plan. [pause] It is not custom work, and it does not promise you sales. Message MESSAGE on WhatsApp and I will confirm the current details.
+> Somebody will ask you this. "Is the example a client?" [pause] No. The worked example is fictional, for illustration. Use your own customer input. That villain is what The Clear Message Workbook fights. It is a five thousand naira DIY pack. Inside, you get Clear Message Workbook, Customer Interview Kit, Message Bank, One-Page Marketing Plan. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message MESSAGE on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -35114,16 +35529,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Is the example a client? No
 3. The worked example is fictional, for illustration
 4. Use your own customer input
-5. Let me be clear about what this is
-6. The Clear Message Workbook is a five thousand
-7. naira DIY pack
-8. Inside, you get Clear Message Workbook
-9. Customer Interview Kit, Message Bank
-10. One-Page Marketing Plan
-11. It is not custom work
-12. and it does not promise you sales
-13. Message MESSAGE on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The Clear Message Workbook fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get Clear Message Workbook
+8. Customer Interview Kit, Message Bank
+9. One-Page Marketing Plan
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message MESSAGE on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -35323,7 +35739,7 @@ Create an Easywurld introduction in the format Screen demo. Use the exact suppli
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> A number you do not act on is decoration. [pause] Pick one: saves, replies or messages. Then change one thing and look again. [pause] Measure what you will actually change. Save this before you open the dashboard.
+> A number you do not act on is decoration. [pause] Pick one: saves, replies or messages. Then change one thing and look again. Referrals dry up, and the only new customer this month is your cousin. [pause] Measure what you will actually change. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Save this before you open the dashboard.
 
 ### Burned-in caption chunks
 
@@ -35332,8 +35748,13 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 1. A number you do not act on is decoration
 2. Pick one: saves, replies or messages
 3. Then change one thing and look again
-4. Measure what you will actually change
-5. Save this before you open the dashboard
+4. Referrals dry up, and the only new customer
+5. this month is your cousin
+6. Measure what you will actually change
+7. We fight this every day at Easywurld
+8. and we are honest about it:
+9. we cannot win it alone
+10. Save this before you open the dashboard
 
 ### Edit / shot order
 
@@ -35908,7 +36329,7 @@ Create a five-slide Easywurld carousel for a bookshop business in Lagos. Use the
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D25-S02.mp4 (record) or assets/fallbacks/EW-D25-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -35930,7 +36351,7 @@ Create a five-slide Easywurld carousel for a bookshop business in Lagos. Use the
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Marketing myth. People will tell you, "A content calendar guarantees sales." [pause] My verdict? False. A calendar organises publishing. Sales still depend on offer, audience, trust and follow-up. [pause] Here is a small test you can run this week. Pair the calendar with one offer and one message route. No wahala. Keep the useful part. Drop the absolute. That is Myth Court.
+> Marketing myth. People will tell you, "A content calendar guarantees sales." [pause] My verdict? False. A calendar organises publishing. Sales still depend on offer, audience, trust and follow-up. [pause] Your page looks like everybody else's, so nobody believes you are better. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Pair the calendar with one offer and one message route. No wahala. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -35942,12 +36363,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 4. A calendar organises publishing
 5. Sales still depend on offer
 6. audience, trust and follow-up
-7. Here is a small test you can run this week
-8. Pair the calendar with one offer and one message route
-9. No wahala
-10. Keep the useful part
-11. Drop the absolute
-12. That is Myth Court
+7. Your page looks like everybody else's
+8. so nobody believes you are better
+9. That is the fight Easywurld picks every day
+10. But we cannot win it alone
+11. Run this small test this week
+12. Pair the calendar with one offer and one message route
+13. No wahala
+14. Your yes is the turning point
+15. Keep the useful part
+16. Drop the absolute
 
 ### Edit / shot order
 
@@ -36039,7 +36464,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Gold Star Behavior. [pause] SocialBee / Drizzle Digital reported it on 21 October 2026: a list of small habits that deserve a gold star. Here is how a normal Nigerian business uses it. Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Oya. Save the filter. Skip the hype.
+> Trend Desk. Today it is Gold Star Behavior. [pause] SocialBee / Drizzle Digital reported it on 21 October 2026: a list of small habits that deserve a gold star. People see "DM for price" and just pass, money in hand. Here is how we adapt it. Give stars to specific customer habits that reduce friction, such as sending measurements early. Keep it kind. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Easywurld fights this every day. The win only happens with your business in it. Oya. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -36050,17 +36475,21 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. SocialBee / Drizzle Digital reported it on 21
 4. October 2026: a list of small habits that
 5. deserve a gold star
-6. Here is how a normal Nigerian business uses it
-7. Give stars to specific customer habits that reduce
-8. friction, such as sending measurements early
-9. Keep it kind
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim oya
-15. Save the filter
-16. Skip the hype
+6. People see "DM for price" and just pass
+7. money in hand
+8. Here is how we adapt it
+9. Give stars to specific customer habits that reduce
+10. friction, such as sending measurements early
+11. Keep it kind
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. Easywurld fights this every day
+18. The win only happens with your business in it oya
+19. Save the filter
+20. Skip the hype
 
 ### Edit / shot order
 
@@ -36532,7 +36961,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message PROMPTS to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D25-S09.mp4 (record) or assets/fallbacks/EW-D25-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/everyday-ai-prompt-desk
@@ -36556,7 +36985,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> The question I get most about this pack. "Will every AI output be correct?" [pause] No. AI tools make mistakes. Every output must be checked by a person before use. Let me be clear about what this is. The Everyday AI Prompt Desk is a five thousand naira DIY pack. Inside, you get AI Prompting Guide for Small Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template, AI Output Review and Safety Checklist. [pause] It is not custom work, and it does not promise you sales. Message PROMPTS on WhatsApp and I will confirm the current details.
+> The question I get most about this pack. "Will every AI output be correct?" [pause] No. AI tools make mistakes. Every output must be checked by a person before use. That villain is what The Everyday AI Prompt Desk fights. It is a five thousand naira DIY pack. Inside, you get AI Prompting Guide for Small Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template, AI Output Review and Safety Checklist. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message PROMPTS on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -36566,16 +36995,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Will every AI output be correct? No
 3. AI tools make mistakes
 4. Every output must be checked by a person before use
-5. Let me be clear about what this is
-6. The Everyday AI Prompt Desk is a five
-7. thousand naira DIY pack
-8. Inside, you get AI Prompting Guide for Small
-9. Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template
-10. AI Output Review and Safety Checklist
-11. It is not custom work
-12. and it does not promise you sales
-13. Message PROMPTS on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The Everyday AI Prompt desk fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get AI Prompting Guide for Small
+8. Business, 60-Prompt Library, Enquiry Assistant Knowledge Sheet Template
+9. AI Output Review and Safety Checklist
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message PROMPTS on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -36746,7 +37176,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Custom work is not better than a product. It is a different promise. [pause] Products need boundaries. Projects need scope. Mixing the two is how both fail. [pause] Say which one you are selling. Save this before you take another “small job”.
+> Custom work is not better than a product. It is a different promise. [pause] Products need boundaries. Projects need scope. Mixing the two is how both fail. A customer searches, sees your competitor first, and calls them. Your phone stays quiet. [pause] Say which one you are selling. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Save this before you take another “small job”.
 
 ### Burned-in caption chunks
 
@@ -36757,8 +37187,14 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Products need boundaries
 4. Projects need scope
 5. Mixing the two is how both fail
-6. Say which one you are selling
-7. Save this before you take another “small job”
+6. A customer searches, sees your competitor first
+7. and calls them
+8. Your phone stays quiet
+9. Say which one you are selling
+10. We fight this every day at Easywurld
+11. and we are honest about it:
+12. we cannot win it alone
+13. Save this before you take another “small job”
 
 ### Edit / shot order
 
@@ -37333,7 +37769,7 @@ Create a five-slide Easywurld carousel for a solar installer business in Lagos. 
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D26-S02.mp4 (record) or assets/fallbacks/EW-D26-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -37355,7 +37791,7 @@ Create a five-slide Easywurld carousel for a solar installer business in Lagos. 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let us put one piece of advice on trial. "Behind-the-scenes content always builds trust." [pause] My verdict? It depends. Process content helps when it shows competence, care or honesty. Chaotic or private footage can do the opposite. [pause] Here is a small test you can run this week. Show one process step with a clear lesson and no private data. Oya. Keep the useful part. Drop the absolute. That is Myth Court.
+> Let us put one piece of advice on trial. "Behind-the-scenes content always builds trust." [pause] My verdict? It depends. Process content helps when it shows competence, care or honesty. Chaotic or private footage can do the opposite. [pause] People see "DM for price" and just pass, money in hand. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Show one process step with a clear lesson and no private data. Oya. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -37366,12 +37802,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Process content helps when it shows competence
 4. care or honesty
 5. Chaotic or private footage can do the opposite
-6. Here is a small test you can run this week
-7. Show one process step with a clear lesson
-8. and no private data oya
-9. Keep the useful part
-10. Drop the absolute
-11. That is Myth Court
+6. People see "DM for price" and just pass
+7. money in hand
+8. That is the fight Easywurld picks every day
+9. But we cannot win it alone
+10. Run this small test this week
+11. Show one process step with a clear lesson
+12. and no private data oya
+13. Your yes is the turning point
+14. Keep the useful part
+15. Drop the absolute
 
 ### Edit / shot order
 
@@ -37463,7 +37903,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Six-to-18-second proof Reel. [pause] Lightreel weekly report reported it on 24 October 2026: a short Reel that makes one claim and resolves it visually. Here is how a normal Nigerian business uses it. Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Take it one step at a time. Save the filter. Skip the hype.
+> Trend Desk. Today it is Six-to-18-second proof Reel. [pause] Lightreel weekly report reported it on 24 October 2026: a short Reel that makes one claim and resolves it visually. Referrals dry up, and the only new customer this month is your cousin. Here is how we adapt it. Show one labelled sample transformation, such as a homepage toggle. Do not claim performance results. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We bring the map. You bring the business. That is the alliance. Take it one step at a time. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -37474,18 +37914,23 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Lightreel weekly report reported it on 24 October
 4. 2026: a short Reel that makes one claim
 5. and resolves it visually
-6. Here is how a normal Nigerian business uses it
-7. Show one labelled sample transformation
-8. such as a homepage toggle
-9. Do not claim performance results
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim
-15. Take it one step at a time
-16. Save the filter
-17. Skip the hype
+6. Referrals dry up, and the only new customer
+7. this month is your cousin
+8. Here is how we adapt it
+9. Show one labelled sample transformation
+10. such as a homepage toggle
+11. Do not claim performance results
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. We bring the map
+18. You bring the business
+19. That is the alliance
+20. Take it one step at a time
+21. Save the filter
+22. Skip the hype
 
 ### Edit / shot order
 
@@ -37957,7 +38402,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message TEMPLATES to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D26-S09.mp4 (record) or assets/fallbacks/EW-D26-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/proposal-and-report-template-pack
@@ -37981,7 +38426,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos ma
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Before you buy, you will ask this. "Do I need special software?" [pause] You need Word or a compatible editor, and Excel or Google Sheets for the workbook. Let me be clear about what this is. The Proposal & Report Template Pack is a five thousand naira DIY pack. Inside, you get Proposals and Reports Guide, Proposal Template with Worked Example, Report and Summary Templates, Quote and Invoice Workbook. [pause] It is not custom work, and it does not promise you sales. Message TEMPLATES on WhatsApp and I will confirm the current details.
+> Before you buy, you will ask this. "Do I need special software?" [pause] You need Word or a compatible editor, and Excel or Google Sheets for the workbook. That villain is what The Proposal & Report Template Pack fights. It is a five thousand naira DIY pack. Inside, you get Proposals and Reports Guide, Proposal Template with Worked Example, Report and Summary Templates, Quote and Invoice Workbook. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message TEMPLATES on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -37991,17 +38436,19 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Do I need special software?
 3. You need Word or a compatible editor
 4. and Excel or Google Sheets for the workbook
-5. Let me be clear about what this is
-6. The Proposal & Report Template Pack is a
-7. five thousand naira DIY pack
+5. That villain is what The Proposal & Report
+6. Template Pack fights
+7. It is a five thousand naira DIY pack
 8. Inside, you get Proposals and Reports Guide
 9. Proposal Template with Worked Example
 10. Report and Summary Templates
 11. Quote and Invoice Workbook
 12. It is not custom work
 13. and it does not promise you sales
-14. Message TEMPLATES on WhatsApp and I will confirm
-15. the current details
+14. We hand you the map
+15. You walk it
+16. Message TEMPLATES on WhatsApp and I will confirm
+17. the current details
 
 ### Edit / shot order
 
@@ -38172,7 +38619,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Doing it yourself is not the cheap option. It is the version where you keep the learning. [pause] Buy the structure, bring the judgement, keep the receipts. [pause] DIY is a skill buy, not a discount. No wahala. Save this for your next DIY decision.
+> Doing it yourself is not the cheap option. It is the version where you keep the learning. [pause] Buy the structure, bring the judgement, keep the receipts. Somebody types your own business name into Google and finds nothing. Then they find somebody else. [pause] DIY is a skill buy, not a discount. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. No wahala. Save this for your next DIY decision.
 
 ### Burned-in caption chunks
 
@@ -38182,8 +38629,14 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. It is the version where you keep the learning
 3. Buy the structure, bring the judgement
 4. keep the receipts
-5. DIY is a skill buy, not a discount no wahala
-6. Save this for your next DIY decision
+5. Somebody types your own business name into Google
+6. and finds nothing
+7. Then they find somebody else
+8. DIY is a skill buy, not a discount
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone no wahala
+12. Save this for your next DIY decision
 
 ### Edit / shot order
 
@@ -38752,7 +39205,7 @@ Create a five-slide Easywurld carousel for a tailoring school business in Lagos.
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D27-S02.mp4 (record) or assets/fallbacks/EW-D27-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -38774,7 +39227,7 @@ Create a five-slide Easywurld carousel for a tailoring school business in Lagos.
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> You have heard this one before. "Educational content should never sell." [pause] My verdict? False. Useful content can lead to a relevant next step. The problem is forcing an unrelated pitch, not selling itself. [pause] Here is a small test you can run this week. End one teaching post with a matching offer or question. Take it one step at a time. Keep the useful part. Drop the absolute. That is Myth Court.
+> You have heard this one before. "Educational content should never sell." [pause] My verdict? False. Useful content can lead to a relevant next step. The problem is forcing an unrelated pitch, not selling itself. [pause] Referrals dry up, and the only new customer this month is your cousin. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. End one teaching post with a matching offer or question. Take it one step at a time. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -38785,12 +39238,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Useful content can lead to a relevant next step
 4. The problem is forcing an unrelated pitch
 5. not selling itself
-6. Here is a small test you can run this week
-7. End one teaching post with a matching offer or question
-8. Take it one step at a time
-9. Keep the useful part
-10. Drop the absolute
-11. That is Myth Court
+6. Referrals dry up, and the only new customer
+7. this month is your cousin
+8. That is the fight Easywurld picks every day
+9. But we cannot win it alone
+10. Run this small test this week
+11. End one teaching post with a matching offer or question
+12. Take it one step at a time
+13. Your yes is the turning point
+14. Keep the useful part
+15. Drop the absolute
 
 ### Edit / shot order
 
@@ -38882,7 +39339,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Native-interface tutorial. [pause] Lightreel weekly report reported it on 24 October 2026: a screen-recording aesthetic that shows the actual interface. Here is how a normal Nigerian business uses it. Record the real demo at a readable crop. Keep concept/sample labels visible. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+> Trend Desk. Today it is Native-interface tutorial. [pause] Lightreel weekly report reported it on 24 October 2026: a screen-recording aesthetic that shows the actual interface. A customer searches, sees your competitor first, and calls them. Your phone stays quiet. Here is how we adapt it. Record the real demo at a readable crop. Keep concept/sample labels visible. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Not a service you buy. A fight you join, and your trust is the weapon. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -38892,16 +39349,22 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Today it is Native-interface tutorial
 3. Lightreel weekly report reported it on 24 October
 4. 2026: a screen-recording aesthetic that shows the actual interface
-5. Here is how a normal Nigerian business uses it
-6. Record the real demo at a readable crop
-7. Keep concept/sample labels visible
-8. One thing before you copy it
-9. Check that it is still happening
-10. and check the audio rights
-11. This is a dated teardown
-12. not a live trend claim
-13. Save the filter
-14. Skip the hype
+5. A customer searches, sees your competitor first
+6. and calls them
+7. Your phone stays quiet
+8. Here is how we adapt it
+9. Record the real demo at a readable crop
+10. Keep concept/sample labels visible
+11. Before you copy it:
+12. check it is still happening
+13. and check the audio rights
+14. This is a dated teardown
+15. not a live trend claim
+16. Not a service you buy
+17. A fight you join
+18. and your trust is the weapon
+19. Save the filter
+20. Skip the hype
 
 ### Edit / shot order
 
@@ -39373,7 +39836,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message LAUNCH to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D27-S09.mp4 (record) or assets/fallbacks/EW-D27-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/website-launch-and-care-handbook
@@ -39397,7 +39860,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book,
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Somebody will ask you this. "Is this legal advice?" [pause] No. It is not legal, tax or data-protection advice. Check obligations with a qualified professional. Let me be clear about what this is. The Website Launch & Care Handbook is a five thousand naira DIY pack. Inside, you get Website Launch & Care Handbook, Website Planning Brief, Launch, Care and Accounts Workbook, Hiring a Web Designer: Questions and Red Flags. [pause] It is not custom work, and it does not promise you sales. Message LAUNCH on WhatsApp and I will confirm the current details.
+> Somebody will ask you this. "Is this legal advice?" [pause] No. It is not legal, tax or data-protection advice. Check obligations with a qualified professional. That villain is what The Website Launch & Care Handbook fights. It is a five thousand naira DIY pack. Inside, you get Website Launch & Care Handbook, Website Planning Brief, Launch, Care and Accounts Workbook, Hiring a Web Designer: Questions and Red Flags. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message LAUNCH on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -39407,9 +39870,9 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Is this legal advice? No
 3. It is not legal, tax or data-protection advice
 4. Check obligations with a qualified professional
-5. Let me be clear about what this is
-6. The Website Launch & Care Handbook is a
-7. five thousand naira DIY pack
+5. That villain is what The Website Launch &
+6. Care Handbook fights
+7. It is a five thousand naira DIY pack
 8. Inside, you get Website Launch & Care Handbook
 9. Website Planning Brief, Launch
 10. Care and Accounts Workbook
@@ -39417,8 +39880,10 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 12. Questions and Red Flags
 13. It is not custom work
 14. and it does not promise you sales
-15. Message LAUNCH on WhatsApp and I will confirm
-16. the current details
+15. We hand you the map
+16. You walk it
+17. Message LAUNCH on WhatsApp and I will confirm
+18. the current details
 
 ### Edit / shot order
 
@@ -39512,15 +39977,17 @@ Create a vertical 9:16 offer FAQ with the supplied anonymous Operator scene plat
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Send the business link. [pause] Send the business link and the problem you want to fix.
+> Send the business link. [pause] "How much?" becomes "I will get back to you", and that becomes silence. Send the business link and the problem you want to fix.
 
 ### Burned-in caption chunks
 
 Already timed and rendered into the finished MP4. Fix a word here and re-run `python marketing/build-video.py --only ${p.id}`.
 
 1. Send the business link
-2. Send the business link and the problem you
-3. want to fix
+2. How much?" becomes "I will get back to
+3. you", and that becomes silence
+4. Send the business link and the problem you
+5. want to fix
 
 ### Edit / shot order
 
@@ -39601,7 +40068,7 @@ Create an Easywurld introduction in the format Text video. Use the exact supplie
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Consistency is not posting every day. It is being recognisable every time you do. [pause] Same voice, same promise, same next step. [pause] Be repetitive on purpose. Oya. Save this and pick your three repeating things.
+> Consistency is not posting every day. It is being recognisable every time you do. [pause] Same voice, same promise, same next step. "How much?" becomes "I will get back to you", and that becomes silence. [pause] Be repetitive on purpose. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Oya. Save this and pick your three repeating things.
 
 ### Burned-in caption chunks
 
@@ -39610,8 +40077,13 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 1. Consistency is not posting every day
 2. It is being recognisable every time you do
 3. Same voice, same promise, same next step
-4. Be repetitive on purpose oya
-5. Save this and pick your three repeating things
+4. How much?" becomes "I will get back to
+5. you", and that becomes silence
+6. Be repetitive on purpose
+7. We fight this every day at Easywurld
+8. and we are honest about it:
+9. we cannot win it alone oya
+10. Save this and pick your three repeating things
 
 ### Edit / shot order
 
@@ -40197,7 +40669,7 @@ Create a five-slide Easywurld carousel for a event DJ business in Lagos. Use the
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D28-S02.mp4 (record) or assets/fallbacks/EW-D28-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -40219,7 +40691,7 @@ Create a five-slide Easywurld carousel for a event DJ business in Lagos. Use the
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Marketing myth. People will tell you, "Memes are unprofessional." [pause] My verdict? It depends. Original, relevant humour can humanise a brand. Mocking customers or using unclear rights can damage trust. [pause] Here is a small test you can run this week. Use one original meme that jokes about the work, not the customer. Keep the useful part. Drop the absolute. That is Myth Court.
+> Marketing myth. People will tell you, "Memes are unprofessional." [pause] My verdict? It depends. Original, relevant humour can humanise a brand. Mocking customers or using unclear rights can damage trust. [pause] A customer searches, sees your competitor first, and calls them. Your phone stays quiet. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Use one original meme that jokes about the work, not the customer. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -40230,12 +40702,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. It depends
 4. Original, relevant humour can humanise a brand
 5. Mocking customers or using unclear rights can damage trust
-6. Here is a small test you can run this week
-7. Use one original meme that jokes about the
-8. work, not the customer
-9. Keep the useful part
-10. Drop the absolute
-11. That is Myth Court
+6. A customer searches, sees your competitor first
+7. and calls them
+8. Your phone stays quiet
+9. That is the fight Easywurld picks every day
+10. But we cannot win it alone
+11. Run this small test this week
+12. Use one original meme that jokes about the
+13. work, not the customer
+14. Your yes is the turning point
+15. Keep the useful part
+16. Drop the absolute
 
 ### Edit / shot order
 
@@ -40327,7 +40804,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Comment keyword to DM. [pause] Lightreel weekly report reported it on 24 October 2026: a comment keyword that triggers a DM workflow. Here is how a normal Nigerian business uses it. Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Save the filter. Skip the hype.
+> Trend Desk. Today it is Comment keyword to DM. [pause] Lightreel weekly report reported it on 24 October 2026: a comment keyword that triggers a DM workflow. Somebody types your own business name into Google and finds nothing. Then they find somebody else. Here is how we adapt it. Use one keyword for one pack and confirm the DM flow works. Do not promise instant delivery if it is manual. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We do our half honestly. Your half is the yes. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -40337,17 +40814,22 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Today it is Comment keyword to DM
 3. Lightreel weekly report reported it on 24 October
 4. 2026: a comment keyword that triggers a DM workflow
-5. Here is how a normal Nigerian business uses it
-6. Use one keyword for one pack and confirm
-7. the DM flow works
-8. Do not promise instant delivery if it is manual
-9. One thing before you copy it
-10. Check that it is still happening
-11. and check the audio rights
-12. This is a dated teardown
-13. not a live trend claim
-14. Save the filter
-15. Skip the hype
+5. Somebody types your own business name into Google
+6. and finds nothing
+7. Then they find somebody else
+8. Here is how we adapt it
+9. Use one keyword for one pack and confirm
+10. the DM flow works
+11. Do not promise instant delivery if it is manual
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. We do our half honestly
+18. Your half is the yes
+19. Save the filter
+20. Skip the hype
 
 ### Edit / shot order
 
@@ -40819,7 +41301,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message PLAYBOOK to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D28-S09.mp4 (record) or assets/fallbacks/EW-D28-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/chat-to-customer-playbook
@@ -40843,7 +41325,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> The question I get most about this pack. "Is consultation included?" [pause] No. Questions about the files can be sent on WhatsApp, but custom work is not part of the pack. Let me be clear about what this is. The Chat-to-Customer Playbook is a five thousand naira DIY pack. Inside, you get Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. [pause] It is not custom work, and it does not promise you sales. Message PLAYBOOK on WhatsApp and I will confirm the current details.
+> The question I get most about this pack. "Is consultation included?" [pause] No. Questions about the files can be sent on WhatsApp, but custom work is not part of the pack. That villain is what The Chat-to-Customer Playbook fights. It is a five thousand naira DIY pack. Inside, you get Chat-to-Customer Playbook, 36-Script Message Library, Lead & Follow-Up Tracker, 7-Day Setup Checklist. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message PLAYBOOK on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -40853,15 +41335,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Is consultation included? No
 3. Questions about the files can be sent on
 4. WhatsApp, but custom work is not part of the pack
-5. Let me be clear about what this is
-6. The Chat-to-Customer Playbook is a five thousand naira DIY pack
+5. That villain is what The Chat-to-Customer Playbook fights
+6. It is a five thousand naira DIY pack
 7. Inside, you get Chat-to-Customer Playbook
 8. 36-Script Message Library, Lead & Follow-Up Tracker
 9. 7-Day Setup Checklist
 10. It is not custom work
 11. and it does not promise you sales
-12. Message PLAYBOOK on WhatsApp and I will confirm
-13. the current details
+12. We hand you the map
+13. You walk it
+14. Message PLAYBOOK on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -41032,7 +41516,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> A referral is not luck. It is a sentence someone could repeat because you made it clear. [pause] Give customers the words to say about you. Most will use them. [pause] Write your own referral line. Take it one step at a time. Save this and send it to your best customer.
+> A referral is not luck. It is a sentence someone could repeat because you made it clear. [pause] Give customers the words to say about you. Most will use them. Your page looks like everybody else's, so nobody believes you are better. [pause] Write your own referral line. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Take it one step at a time. Save this and send it to your best customer.
 
 ### Burned-in caption chunks
 
@@ -41043,9 +41527,14 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. you made it clear
 4. Give customers the words to say about you
 5. Most will use them
-6. Write your own referral line
-7. Take it one step at a time
-8. Save this and send it to your best customer
+6. Your page looks like everybody else's
+7. so nobody believes you are better
+8. Write your own referral line
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone
+12. Take it one step at a time
+13. Save this and send it to your best customer
 
 ### Edit / shot order
 
@@ -41617,7 +42106,7 @@ Create a five-slide Easywurld carousel for a laundry service business in Lagos. 
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D29-S02.mp4 (record) or assets/fallbacks/EW-D29-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -41639,7 +42128,7 @@ Create a five-slide Easywurld carousel for a laundry service business in Lagos. 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Let us put one piece of advice on trial. "You can post the same file everywhere without changes." [pause] My verdict? Mostly false. Core ideas can travel, but captions, crops, audio rights and disclosure settings need platform adaptation. [pause] Here is a small test you can run this week. Create three captions and check each platform preview. Keep the useful part. Drop the absolute. That is Myth Court.
+> Let us put one piece of advice on trial. "You can post the same file everywhere without changes." [pause] My verdict? Mostly false. Core ideas can travel, but captions, crops, audio rights and disclosure settings need platform adaptation. [pause] Somebody types your own business name into Google and finds nothing. Then they find somebody else. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Create three captions and check each platform preview. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -41651,11 +42140,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 4. Core ideas can travel
 5. but captions, crops, audio rights and disclosure settings
 6. need platform adaptation
-7. Here is a small test you can run this week
-8. Create three captions and check each platform preview
-9. Keep the useful part
-10. Drop the absolute
-11. That is Myth Court
+7. Somebody types your own business name into Google
+8. and finds nothing
+9. Then they find somebody else
+10. That is the fight Easywurld picks every day
+11. But we cannot win it alone
+12. Run this small test this week
+13. Create three captions and check each platform preview
+14. Your yes is the turning point
+15. Keep the useful part
+16. Drop the absolute
 
 ### Edit / shot order
 
@@ -41747,7 +42241,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. Here is how a normal Nigerian business uses it. Show the hook that brings an message and the process that earns trust. Use real or labelled sample steps. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. No wahala. Save the filter. Skip the hype.
+> Trend Desk. Today it is Why People Come, Why People Stay. [pause] Drizzle Digital Volume 38 reported it on 28 September 2026: a contrast between what attracts customers and what keeps them. "How much?" becomes "I will get back to you", and that becomes silence. Here is how we adapt it. Show the hook that brings an message and the process that earns trust. Use real or labelled sample steps. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. We can build the fix, but we cannot win it alone. Your yes is the turning point. No wahala. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -41759,17 +42253,22 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 4. Drizzle Digital Volume 38 reported it on 28
 5. September 2026: a contrast between what attracts customers
 6. and what keeps them
-7. Here is how a normal Nigerian business uses it
-8. Show the hook that brings an message and
-9. the process that earns trust
-10. Use real or labelled sample steps
-11. One thing before you copy it
-12. Check that it is still happening
-13. and check the audio rights
-14. This is a dated teardown
-15. not a live trend claim no wahala
-16. Save the filter
-17. Skip the hype
+7. How much?" becomes "I will get back to
+8. you", and that becomes silence
+9. Here is how we adapt it
+10. Show the hook that brings an message and
+11. the process that earns trust
+12. Use real or labelled sample steps
+13. Before you copy it:
+14. check it is still happening
+15. and check the audio rights
+16. This is a dated teardown
+17. not a live trend claim
+18. We can build the fix
+19. but we cannot win it alone
+20. Your yes is the turning point no wahala
+21. Save the filter
+22. Skip the hype
 
 ### Edit / shot order
 
@@ -42241,7 +42740,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message CLEAR to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D29-S09.mp4 (record) or assets/fallbacks/EW-D29-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/clear-homepage-blueprint
@@ -42265,7 +42764,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden d
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Before you buy, you will ask this. "Are the templates in every language?" [pause] The templates are in English. Adapt them to your customers' language and check the meaning. Let me be clear about what this is. The Clear Homepage Blueprint is a five thousand naira DIY pack. Inside, you get Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. [pause] It is not custom work, and it does not promise you sales. Message CLEAR on WhatsApp and I will confirm the current details.
+> Before you buy, you will ask this. "Are the templates in every language?" [pause] The templates are in English. Adapt them to your customers' language and check the meaning. That villain is what The Clear Homepage Blueprint fights. It is a five thousand naira DIY pack. Inside, you get Clear Homepage Blueprint, Homepage Copy Templates, Homepage Content Planner, 20-Point Homepage Audit Scorecard. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message CLEAR on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -42275,16 +42774,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. Are the templates in every language?
 3. The templates are in English
 4. Adapt them to your customers' language and check the meaning
-5. Let me be clear about what this is
-6. The Clear Homepage Blueprint is a five thousand
-7. naira DIY pack
-8. Inside, you get Clear Homepage Blueprint
-9. Homepage Copy Templates, Homepage Content Planner
-10. 20-Point Homepage Audit Scorecard
-11. It is not custom work
-12. and it does not promise you sales
-13. Message CLEAR on WhatsApp and I will confirm
-14. the current details
+5. That villain is what The Clear Homepage Blueprint fights
+6. It is a five thousand naira DIY pack
+7. Inside, you get Clear Homepage Blueprint
+8. Homepage Copy Templates, Homepage Content Planner
+9. 20-Point Homepage Audit Scorecard
+10. It is not custom work
+11. and it does not promise you sales
+12. We hand you the map
+13. You walk it
+14. Message CLEAR on WhatsApp and I will confirm
+15. the current details
 
 ### Edit / shot order
 
@@ -42449,7 +42949,7 @@ Create an Easywurld introduction in the format Relatable static. Use the exact s
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> The month ends whether or not you look at it. [pause] Thirty minutes with three numbers is enough: messages, replies, sales. [pause] Count, then choose one change. Save this for the 30th.
+> The month ends whether or not you look at it. [pause] Thirty minutes with three numbers is enough: messages, replies, sales. People see "DM for price" and just pass, money in hand. [pause] Count, then choose one change. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Save this for the 30th.
 
 ### Burned-in caption chunks
 
@@ -42458,8 +42958,13 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 1. The month ends whether or not you look at it
 2. Thirty minutes with three numbers is enough:
 3. messages, replies, sales
-4. Count, then choose one change
-5. Save this for the 30th
+4. People see "DM for price" and just pass
+5. money in hand
+6. Count, then choose one change
+7. We fight this every day at Easywurld
+8. and we are honest about it:
+9. we cannot win it alone
+10. Save this for the 30th
 
 ### Edit / shot order
 
@@ -43068,7 +43573,7 @@ Create a five-slide Easywurld carousel for a farm produce seller business in Lag
 - **Pillar:** Trust
 - **Objective:** Replace absolute marketing advice with a verdict and a small test.
 - **Single CTA:** Save the test and run it on your own account.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D30-S02.mp4 (record) or assets/fallbacks/EW-D30-S02.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/about
@@ -43090,7 +43595,7 @@ Create a five-slide Easywurld carousel for a farm produce seller business in Lag
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> You have heard this one before. "More posts will fix an unclear offer." [pause] My verdict? False. Volume can amplify confusion. The offer sentence, proof and next step need to be clear before scaling content. [pause] Here is a small test you can run this week. Write the offer sentence and test it with five customers. No wahala. Keep the useful part. Drop the absolute. That is Myth Court.
+> You have heard this one before. "More posts will fix an unclear offer." [pause] My verdict? False. Volume can amplify confusion. The offer sentence, proof and next step need to be clear before scaling content. [pause] "How much?" becomes "I will get back to you", and that becomes silence. That is the fight Easywurld picks every day. But we cannot win it alone. Run this small test this week. Write the offer sentence and test it with five customers. No wahala. Your yes is the turning point. Keep the useful part. Drop the absolute.
 
 ### Burned-in caption chunks
 
@@ -43101,12 +43606,16 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Volume can amplify confusion
 4. The offer sentence, proof and next step need
 5. to be clear before scaling content
-6. Here is a small test you can run this week
-7. Write the offer sentence and test it with five customers
-8. No wahala
-9. Keep the useful part
-10. Drop the absolute
-11. That is Myth Court
+6. How much?" becomes "I will get back to
+7. you", and that becomes silence
+8. That is the fight Easywurld picks every day
+9. But we cannot win it alone
+10. Run this small test this week
+11. Write the offer sentence and test it with five customers
+12. No wahala
+13. Your yes is the turning point
+14. Keep the useful part
+15. Drop the absolute
 
 ### Edit / shot order
 
@@ -43198,7 +43707,7 @@ Create a vertical 9:16 talking-head video for Easywurld using the supplied anony
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Trend Desk. Today it is I'm with Max. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a creator spotlighting the person or thing they are always with. Here is how a normal Nigerian business uses it. Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound. [pause] One thing before you copy it. Check that it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Oya. Save the filter. Skip the hype.
+> Trend Desk. Today it is I'm with Max. [pause] Drizzle Digital Volume 40 reported it on 26 October 2026: a creator spotlighting the person or thing they are always with. Your page looks like everybody else's, so nobody believes you are better. Here is how we adapt it. Adapt only with owned/licensed audio and a real brand constant, such as the checklist. Do not use a personal-account sound. [pause] Before you copy it: check it is still happening, and check the audio rights. This is a dated teardown, not a live trend claim. Easywurld fights this every day. The win only happens with your business in it. Oya. Save the filter. Skip the hype.
 
 ### Burned-in caption chunks
 
@@ -43209,17 +43718,21 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. Drizzle Digital Volume 40 reported it on 26
 4. October 2026: a creator spotlighting the person or
 5. thing they are always with
-6. Here is how a normal Nigerian business uses it
-7. Adapt only with owned/licensed audio and a real
-8. brand constant, such as the checklist
-9. Do not use a personal-account sound
-10. One thing before you copy it
-11. Check that it is still happening
-12. and check the audio rights
-13. This is a dated teardown
-14. not a live trend claim oya
-15. Save the filter
-16. Skip the hype
+6. Your page looks like everybody else's
+7. so nobody believes you are better
+8. Here is how we adapt it
+9. Adapt only with owned/licensed audio and a real
+10. brand constant, such as the checklist
+11. Do not use a personal-account sound
+12. Before you copy it:
+13. check it is still happening
+14. and check the audio rights
+15. This is a dated teardown
+16. not a live trend claim
+17. Easywurld fights this every day
+18. The win only happens with your business in it oya
+19. Save the filter
+20. Skip the hype
 
 ### Edit / shot order
 
@@ -43691,7 +44204,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 - **Pillar:** Offer
 - **Objective:** Handle one objection or limitation for the same daily offer.
 - **Single CTA:** Message ENGINE to confirm order details.
-- **Target length:** 30–40s
+- **Target length:** 35–50s
 - **Status:** Draft — not scheduled
 - **Expected asset:** `assets/video-ready/EW-D30-S09.mp4 (record) or assets/fallbacks/EW-D30-S09.jpg (poster)`
 - **Destination to verify:** https://website-builder-portfolio.vercel.app/offers/30-day-content-engine
@@ -43715,7 +44228,7 @@ Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Somebody will ask you this. "Does it include scheduling software?" [pause] No. It does not include scheduling software. Native planners may be available, but you still produce and approve the posts. Let me be clear about what this is. The 30-Day Content Engine is a five thousand naira DIY pack. Inside, you get 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. [pause] It is not custom work, and it does not promise you sales. Message ENGINE on WhatsApp and I will confirm the current details.
+> Somebody will ask you this. "Does it include scheduling software?" [pause] No. It does not include scheduling software. Native planners may be available, but you still produce and approve the posts. That villain is what The 30-Day Content Engine fights. It is a five thousand naira DIY pack. Inside, you get 30-Day Content Engine Guide, 60-Idea Post Bank, 30-Day Content Calendar, Hooks and Caption Swipe File. [pause] It is not custom work, and it does not promise you sales. We hand you the map. You walk it. Message ENGINE on WhatsApp and I will confirm the current details.
 
 ### Burned-in caption chunks
 
@@ -43726,16 +44239,17 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 3. It does not include scheduling software
 4. Native planners may be available
 5. but you still produce and approve the posts
-6. Let me be clear about what this is
-7. The 30-Day Content Engine is a five thousand
-8. naira DIY pack
-9. Inside, you get 30-Day Content Engine Guide
-10. 60-Idea Post Bank, 30-Day Content Calendar
-11. Hooks and Caption Swipe File
-12. It is not custom work
-13. and it does not promise you sales
-14. Message ENGINE on WhatsApp and I will confirm
-15. the current details
+6. That villain is what The 30-Day Content Engine fights
+7. It is a five thousand naira DIY pack
+8. Inside, you get 30-Day Content Engine Guide
+9. 60-Idea Post Bank, 30-Day Content Calendar
+10. Hooks and Caption Swipe File
+11. It is not custom work
+12. and it does not promise you sales
+13. We hand you the map
+14. You walk it
+15. Message ENGINE on WhatsApp and I will confirm
+16. the current details
 
 ### Edit / shot order
 
@@ -43906,7 +44420,7 @@ Create an Easywurld introduction in the format Carousel. Use the exact supplied 
 
 This is what the voice says. `[pause]` means let the idea land for about a second. Read the words exactly as written; do not formalise them.
 
-> Nothing you did this month was wasted. But nothing repeats by itself. [pause] Decide what stays, what stops and what gets one more test. [pause] Keep the slot that worked. Cut the one you avoided. Save this and write tomorrow’s first line tonight.
+> Nothing you did this month was wasted. But nothing repeats by itself. [pause] Decide what stays, what stops and what gets one more test. Referrals dry up, and the only new customer this month is your cousin. [pause] Keep the slot that worked. Cut the one you avoided. We fight this every day at Easywurld, and we are honest about it: we cannot win it alone. Save this and write tomorrow’s first line tonight.
 
 ### Burned-in caption chunks
 
@@ -43916,9 +44430,14 @@ Already timed and rendered into the finished MP4. Fix a word here and re-run `py
 2. But nothing repeats by itself
 3. Decide what stays, what stops and what gets
 4. one more test
-5. Keep the slot that worked
-6. Cut the one you avoided
-7. Save this and write tomorrow’s first line tonight
+5. Referrals dry up, and the only new customer
+6. this month is your cousin
+7. Keep the slot that worked
+8. Cut the one you avoided
+9. We fight this every day at Easywurld
+10. and we are honest about it:
+11. we cannot win it alone
+12. Save this and write tomorrow’s first line tonight
 
 ### Edit / shot order
 
