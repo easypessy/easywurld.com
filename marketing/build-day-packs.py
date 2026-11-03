@@ -251,6 +251,7 @@ def build_day(day):
            '- **LinkedIn:** one PDF per document post; the native video slot uses the same MP4 as the feed.', '',
            '## Copy, in one place', '',
            '- `00_START_HERE.md` — read first: what to do today in plain words, with a worked example from this day.',
+           '- `00_POST_NOW.md` — **the working file:** every post in click order with its caption already in place, files in attach order, time and AI label per block.',
            '- `01_LINKEDIN.md` — the seven LinkedIn posts, bodies and first comments.',
            '- `02_CAPTIONS.md` — the eleven feed posts with all three platform captions.',
            '- `03_STORIES.md` — story frames in order, sticker and caption.',
@@ -387,8 +388,8 @@ def build_day(day):
            ('The slots listed under "waits for its video" below are posters; post the rest as normal and come back to those when the day is re-uploaded.' if held else '')), '',
           '## Do today in this order', '',
           '1. Open `assets/` and sort by name. File names start with the posting time and end with the position — the folder is already in order.',
-          '2. Open `00_DAY_SHEET.md` and work top to bottom. It is in click order.',
-          '3. For each row: attach the file it names, paste the caption from `02_CAPTIONS.md`, set the time, and switch on the AI label where the sheet says YES.',
+          '2. Open `00_POST_NOW.md` and schedule top to bottom: each block gives you the caption to copy, the files to attach in order, the time and the AI label. Nothing to look for.',
+          '3. If you want the reference table instead, `00_DAY_SHEET.md` lists the same 46 placements with captions pointed to by name.',
           '4. Carousels: select `_1of5` first, then `_2of5`, and so on. Check `04_CAROUSELS.md` for what each slide says, and `05_CONTACT_SHEETS.pdf` to see the order with your eyes.',
           '5. LinkedIn last, from `01_LINKEDIN.md`: body in the post, link in the first comment.', '',
           '## Worked example from today', '']
@@ -426,6 +427,34 @@ def build_day(day):
             co.append('    AI label: YES — switch on the platform AI setting')
         co.append('')
     (folder / '06_CLICK_ORDER.txt').write_text('\n'.join(co) + '\n')
+
+    # ---- 00_POST_NOW.md  (the day as you actually post it: caption, then files)
+    pn = [f'# Post now · Day {day["day"]:02d} · {day["iso"]} · {day["weekday"]}', '',
+          'Every post for today, in the order you schedule them. For each one: copy the '
+          'caption box, attach the files listed under it in that order, set the time, set '
+          'the AI label. Nothing you need lives in another file.', '',
+          'Times are WAT. Three captions exist per feed post on purpose — TikTok, Instagram '
+          'and Facebook each get their own block and their own words.', '']
+    for i, row in enumerate(sorted(placements, key=lambda r: r[0]), 1):
+        t, platform, fmt, item, files, dn, cap, label = row
+        pn.append('---')
+        pn.append(f'## {i} · {t} · {platform} · {fmt} · {item["id"]}')
+        if platform == 'LinkedIn':
+            pn += ['', 'COPY AS THE POST:', '', '```', cap, '```', '',
+                   'THEN POST AS THE FIRST COMMENT:', '', '```', item.get('firstComment', ''), '```']
+        else:
+            pn += ['', 'COPY AS THE CAPTION:', '', '```', cap, '```']
+        if len(dn) > 1:
+            pn += ['', 'ATTACH IN THIS ORDER:', '', *[f'- `assets/{n}`' for n in dn]]
+        elif dn:
+            pn += ['', f'ATTACH: `assets/{dn[0]}`']
+        else:
+            pn += ['', 'ATTACH: nothing — this one is text only.']
+        pn += ['', f'AI LABEL: {"ON — switch on the platform AI setting" if item.get("aiDisclosure") else "off"}']
+        if label == 'story frames':
+            pn += [f'STICKER: {item["sticker"]}   ·   CTA: {item["cta"]}']
+        pn.append('')
+    (folder / '00_POST_NOW.md').write_text('\n'.join(pn) + '\n')
 
     # ---- assets, copied under their ordered names
     seen = set()
