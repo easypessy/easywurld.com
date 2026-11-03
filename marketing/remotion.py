@@ -17,7 +17,7 @@ Usage
   python marketing/remotion.py --only EW-D01-S02
 """
 from __future__ import annotations
-import argparse, importlib.util, os, sys
+import argparse, importlib.util, json, os, sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -33,9 +33,22 @@ def video_posts():
         yield p
 
 
+DONE_JSON = HERE / 'ALIVE2.json'
+
+
+def done_set():
+    """Markers live in the gitignored render dir; the committed json mirror is what
+    survives a workspace rollback, so a restart never re-shoots delivered days."""
+    base = set(json.loads(DONE_JSON.read_text())) if DONE_JSON.exists() else set()
+    if bv.ALIVE2.exists():
+        base |= {f.stem for f in bv.ALIVE2.glob('*.ok')}
+    return base
+
+
 def pending():
+    done = done_set()
     return [p for p in video_posts()
-            if (bv.OUT / f"{p['id']}.mp4").exists() and not (bv.ALIVE / f"{p['id']}.ok").exists()]
+            if (bv.OUT / f"{p['id']}.mp4").exists() and p['id'] not in done]
 
 
 def remotion(post):
@@ -49,7 +62,7 @@ def remotion(post):
     video = bv.picture(post, total, groups, work)
 
     timings = bv.time_chunks(flat, groups, total, bv.LEAD_IN)
-    ass = bv.build_ass(flat, timings, work / 'captions.ass')
+    ass = bv.build_ass(flat, timings, work / 'captions.ass', events=bv.beat_events(flat, timings))
     audio = work / 'audio.m4a'
     bv.run([bv.FFMPEG, '-y', '-loglevel', 'error', '-i', str(dest), '-vn', '-c:a', 'copy', str(audio)])
 
@@ -61,8 +74,8 @@ def remotion(post):
             '-r', str(bv.FPS), '-c:a', 'copy', '-t', f'{total:.2f}',
             '-movflags', '+faststart', str(tmp)], quiet=False)
     os.replace(tmp, dest)
-    bv.ALIVE.mkdir(parents=True, exist_ok=True)
-    (bv.ALIVE / f"{post['id']}.ok").write_text('alive\n')
+    bv.ALIVE2.mkdir(parents=True, exist_ok=True)
+    (bv.ALIVE2 / f"{post['id']}.ok").write_text('alive2\n')
     for f in work.glob('scene-*.png'):
         f.unlink()
     print(f"  ✔ re-shot {post['id']}  {total:.1f}s  -> {dest.name}", flush=True)

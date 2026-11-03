@@ -64,6 +64,7 @@ TERRA = (158, 78, 44); INK = (20, 23, 15); PAPER = (251, 249, 244)
 SERIF = 'Fraunces[SOFT,WONK,opsz,wght].ttf'; SANS = 'Inter[opsz,wght].ttf'; MONO = 'JetBrainsMono[wght].ttf'
 LEAD_IN, TAIL_OUT, END_CARD = 0.85, 1.35, 2.1
 ALIVE = Path(__file__).resolve().parent / 'render' / 'alive'
+ALIVE2 = Path(__file__).resolve().parent / 'render' / 'alive2'
 
 
 def rng_uniform(r, a, b):
@@ -313,7 +314,34 @@ def write_wav(path, data, sr):
 
 
 # --------------------------------------------------------------------- captions
-def build_ass(lines, timings, out_path, hook_pop=True):
+def beat_events(flat, timings):
+    """Something new on screen roughly every two seconds.
+
+    The owner's note: if the screen is holding an image, it must change or pop
+    about every 2s. The punch-in lives in the zoompan expression; this is the
+    pop-up half — a keyword chip in the brand mono face, or a punctuation punch
+    for questions and exclamations — placed clear of the caption band.
+    """
+    ev = []
+    for (a, b), text in zip(timings, flat):
+        words = [w for w in re.split(r'[^A-Za-z0-9]+', text) if len(w) >= 6]
+        kw = max(words, key=len)[:16].upper() if words else ''
+        t = a + 0.5
+        n = 0
+        while t < b - 0.45 and n < 4:
+            if n % 2 == 0 and kw:
+                tag = r'{\pos(540,170)\fad(70,120)\fscx60\fscy60\t(0,110,\fscx100\fscy100)}'
+                ev.append((t, min(t + 1.6, b), 'Chip', tag, kw))
+            else:
+                glyph = '?' if '?' in text else '!'
+                tag = r'{\pos(860,520)\fad(60,140)\fscx70\fscy70\t(0,120,\fscx108\fscy108)\t(120,240,\fscx100\fscy100)}'
+                ev.append((t, min(t + 1.2, b), 'Pop', tag, glyph))
+            t += 2.0
+            n += 1
+    return ev
+
+
+def build_ass(lines, timings, out_path, hook_pop=True, events=None):
     def stamp(t):
         h = int(t // 3600); m = int((t % 3600) // 60); s = t % 60
         return f'{h}:{m:02d}:{s:05.2f}'
@@ -324,6 +352,8 @@ def build_ass(lines, timings, out_path, hook_pop=True):
             'Alignment, MarginL, MarginR, MarginV, Encoding',
             'Style: Cap,Inter,62,&H00FFFFFF,&H00FFFFFF,&H000E1210,&HA0000000,-1,0,0,0,100,100,0.4,0,1,3.6,1.7,2,70,70,430,1',
             'Style: Kicker,JetBrains Mono,30,&H00C7E3FA,&H00C7E3FA,&H000E1210,&H80000000,0,0,0,0,100,100,2.2,0,1,2.4,1.2,2,70,70,250,1',
+            'Style: Chip,JetBrains Mono,40,&H0037490A,&H0037490A,&H00C7E3FA,&H00C7E3FA,-1,0,0,0,100,100,1.5,0,3,6,0,8,60,60,170,1',
+            'Style: Pop,Fraunces,96,&H00C7E3FA,&H00C7E3FA,&H000E1210,&H000E1210,-1,0,0,0,100,100,0,0,1,7,0,5,540,540,560,1',
             '', '[Events]',
             'Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text']
     ev = []
@@ -335,6 +365,8 @@ def build_ass(lines, timings, out_path, hook_pop=True):
         safe = text.replace('\n', ' ').replace('{', '(').replace('}', ')')
         safe = safe[:1].upper() + safe[1:]
         ev.append(f'Dialogue: 0,{stamp(a)},{stamp(b)},Cap,,0,0,0,,{tag}{safe}')
+    for (a, b, style, tag, text) in (events or []):
+        ev.append(f'Dialogue: 1,{stamp(a)},{stamp(b)},{style},,0,0,0,,{tag}{text}')
     out_path.write_text('\n'.join(head + ev) + '\n', encoding='utf-8')
     return out_path
 
@@ -403,7 +435,7 @@ def render(post, keep_work=False):
 
     # captions + audio
     timings = time_chunks(flat, groups, total, LEAD_IN)
-    ass = build_ass(flat, timings, work / 'captions.ass')
+    ass = build_ass(flat, timings, work / 'captions.ass', events=beat_events(flat, timings))
     music = write_wav(work / 'bed.wav', *music_bed(total + 0.4, seed=(post['day'] * 11 + post['slot']) % 977))
     dest = OUT / f"{post['id']}.mp4"
     dest.parent.mkdir(parents=True, exist_ok=True)
@@ -420,8 +452,8 @@ def render(post, keep_work=False):
          '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '23', '-pix_fmt', 'yuv420p', '-r', str(FPS),
          '-c:a', 'aac', '-b:a', '192k', '-ar', '44100', '-t', f'{total:.2f}',
          '-movflags', '+faststart', str(dest)], quiet=False)
-    ALIVE.mkdir(parents=True, exist_ok=True)
-    (ALIVE / f"{post['id']}.ok").write_text('alive\n')
+    ALIVE2.mkdir(parents=True, exist_ok=True)
+    (ALIVE2 / f"{post['id']}.ok").write_text('alive2\n')
     if not keep_work:
         for f in work.glob('scene-*.png'): f.unlink()
     return dest, total
@@ -469,6 +501,12 @@ def picture(post, total, groups, work):
         zexpr = f"({z0}+({z1}-{z0})*{ease})"
         xexpr = f"iw/2-(iw/zoom/2)+({ax:.4f}*iw)*sin(PI*on/{{f}})"
         yexpr = f"ih/2-(ih/zoom/2)+({ay:.4f}*ih)*sin(PI*on/{{f}})"
+        # a punch-in every two seconds: the screen never sits still
+        pulses = ''.join(
+            f"+0.06*gt(on,{k})*lt(on,{k + 9})"
+            for k in range(int(FPS * 2), max(0, frames - int(FPS * 0.6)), int(FPS * 2)))
+        if pulses and i < len(durs) - 1:
+            zexpr = f"({zexpr}{pulses})"
         # on longer shots, one hard reframe mid-shot: an editor's cut, not a slide
         if d > 6.5 and i < len(durs) - 1:
             midf = int(frames * rng_uniform(shot, 0.45, 0.60))
