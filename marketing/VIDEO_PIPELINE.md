@@ -76,6 +76,17 @@ batches; nothing about a finished file changes except which narration it carries
   branch tip (`.gitignore` + `git rm --cached`) so the merged history does not carry ~700 MB
   of binary for no editorial benefit. The day packs and the Drive zips are rebuilt from
   `marketing/render/packs/` either way.
+- **Delivery home is GitHub (3 November, owner's instruction).** Drive's intake refuses any
+  single upload above 100 MB and the month is ~1,300 MB, so one-zip delivery is impossible
+  there (verified: the connector rejected the master zip with that limit; GitHub's release
+  upload host is not routable from this sandbox). The pack tree is committed to this branch
+  and served as a single zip by
+  `https://codeload.github.com/easypessy/easywurld.com/zip/refs/heads/arena/f8342c52-easywurld-com`.
+  The delivery loop per wave is therefore: re-shoot/render → `build-day-packs` for the
+  completed days → commit the pack tree → push. The codeload link then serves the updated
+  month; Drive keeps its already-delivered zips as an untouched archive/mirror.
+  `marketing/assets/video-ready/` was pruned from the index at the same time (the packs
+  carry the same blobs), which also halved the download size.
 - **Batch shape follows the day, not a fixed count.** A day carries five or six video slots
   (the sixth is the Meet Easywurld intro on some days), and the narration tool allows ten
   clips per turn — so a batch is normally one full day plus most of the next, and the

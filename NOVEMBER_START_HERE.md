@@ -1,30 +1,52 @@
 # EASYWURLD — NOVEMBER 2026: START HERE
 
-**The whole month is one download.** Open this link and you get everything, unpacked in folders:
+**Delivery lives on GitHub now.** One link, one zip, the whole month:
 
 ```
 https://codeload.github.com/easypessy/easywurld.com/zip/refs/heads/arena/f8342c52-easywurld-com
 ```
 
-Inside the zip, go straight to:
+Download it, unzip it ONCE, and go straight to:
 
 ```
 marketing/render/packs/Day_01 … Day_30
 ```
 
-Each day folder is ready to schedule from:
+Thirty day folders, already unpacked — no zips inside. Each day folder is
+ready to schedule from:
 
-1. `00_POST_NOW.md` — every post for that day in click order: the caption to copy (in a box), the files to attach in order, the time, the AI label. Work top to bottom; nothing lives in another file.
-2. `assets/` — every file the runbook names, already sorted into posting order by file name (`0700_…_1of5.jpg` = the 07:00 post, slide 1 of 5).
-3. `00_START_HERE.md` — the one-page summary for the day (offer, finished-video count, worked example).
-4. `05_CONTACT_SHEETS.pdf` — every carousel and story as numbered thumbnails, to check the order with your eyes.
+1. `00_POST_NOW.md` — every post for that day in click order: the caption to
+   copy (in a box), the files to attach in order, the time, the AI label.
+   Work top to bottom; nothing lives in another file.
+2. `assets/` — every file the runbook names, already sorted into posting
+   order by file name (`0700_…_1of5.jpg` = the 07:00 post, slide 1 of 5).
+3. `00_START_HERE.md` — the one-page summary for the day (offer, finished-video
+   count, worked example).
+4. `05_CONTACT_SHEETS.pdf` — every carousel and story as numbered thumbnails,
+   to check the order with your eyes.
 
-A day's runbook says exactly which video slots are finished. Anything marked
-`POSTER ONLY — hold this slot` waits for its finished video; everything else in
-that day posts as normal. The same link always serves the newest version —
-re-download it any time and held slots will have filled in.
+Prefer clicking to downloading? Browse the same folders file by file:
 
-Google Drive (`SET_B__Upgraded_content_PER_DAY`) keeps one zip per day for
-phone-sized updates, and `SET_A` keeps the original first delivery untouched.
-The single-zip link above exists because Drive's upload path refuses any file
-over 100 MB and the month is ~1 GB — one zip would not fit there.
+```
+https://github.com/easypessy/easywurld.com/tree/arena/f8342c52-easywurld-com/marketing/render/packs
+```
+
+## How updates reach you
+
+The link always serves the newest commit of this branch. Videos that are still
+rendering are marked inside the day (`POSTER ONLY — hold this slot`); when a
+day's last video finishes, the day is committed and the SAME link serves the
+finished month — re-download and the held slots have filled in.
+
+## What happened to Drive
+
+Google Drive (`SET_B__Upgraded_content_PER_DAY`) keeps the copies already
+delivered there, and `SET_A` keeps the original first delivery. Drive refused
+single files above 100 MB while the month is ~1,300 MB, so GitHub is the
+delivery home from now on; Drive stays as your archive and phone-sized
+day-zip mirror, unchanged.
+
+A day's runbook always says exactly which video slots are finished. Anything
+marked hold waits for its finished video; everything else in that day posts
+as normal. Nothing publishes itself — every row stays Draft until you
+schedule it.
