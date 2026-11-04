@@ -31,7 +31,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 ASSETS = ROOT / 'marketing/assets'
-PACKS = ROOT / 'marketing/render/packs'
+PACKS = ROOT / 'NOVEMBER_DELIVERY'          # the delivered month, tracked in git, served as one zip
+BUILDS = ROOT / 'marketing/render'          # gitignored scratch: day zips, decade zips
 PLAN = json.loads((ROOT / 'marketing/content-plan.json').read_text())
 POSTS = {p['id']: p for p in PLAN['posts']}
 PRICE = 5000
@@ -435,10 +436,17 @@ def build_day(day):
           'the AI label. Nothing you need lives in another file.', '',
           'Times are WAT. Three captions exist per feed post on purpose — TikTok, Instagram '
           'and Facebook each get their own block and their own words.', '']
+    blocks = []
     for i, row in enumerate(sorted(placements, key=lambda r: r[0]), 1):
         t, platform, fmt, item, files, dn, cap, label = row
+        head = f'{i} · {t} · {platform} · {fmt} · {item["id"]}'
+        ai = 'ON — switch on the platform AI setting' if item.get('aiDisclosure') else 'off'
+        extra = f'STICKER: {item["sticker"]}   ·   CTA: {item["cta"]}' if label == 'story frames' else None
+        blocks.append({'head': head, 'cap': cap, 'is_li': platform == 'LinkedIn',
+                       'comment': item.get('firstComment') if platform == 'LinkedIn' else None,
+                       'attach': list(dn), 'ai': ai, 'extra': extra})
         pn.append('---')
-        pn.append(f'## {i} · {t} · {platform} · {fmt} · {item["id"]}')
+        pn.append(f'## {head}')
         if platform == 'LinkedIn':
             pn += ['', 'COPY AS THE POST:', '', '```', cap, '```', '',
                    'THEN POST AS THE FIRST COMMENT:', '', '```', item.get('firstComment', ''), '```']
@@ -450,11 +458,13 @@ def build_day(day):
             pn += ['', f'ATTACH: `assets/{dn[0]}`']
         else:
             pn += ['', 'ATTACH: nothing — this one is text only.']
-        pn += ['', f'AI LABEL: {"ON — switch on the platform AI setting" if item.get("aiDisclosure") else "off"}']
-        if label == 'story frames':
-            pn += [f'STICKER: {item["sticker"]}   ·   CTA: {item["cta"]}']
+        pn += ['', f'AI LABEL: {ai}']
+        if extra:
+            pn += [extra]
         pn.append('')
     (folder / '00_POST_NOW.md').write_text('\n'.join(pn) + '\n')
+    (folder / '00_POST_NOW.txt').write_text('\n'.join(pn) + '\n')
+    write_post_now_pdf(folder, day, blocks)
 
     # ---- assets, copied under their ordered names
     seen = set()
@@ -467,6 +477,86 @@ def build_day(day):
             shutil.copy2(src, assets / name)
             copied.append(name)
     return folder, len(placements), copied
+
+
+def write_post_now_pdf(folder, day, blocks):
+    """The runbook as a PDF: opens on any phone or computer, no code tools, no markdown."""
+    from xml.sax.saxutils import escape
+    from reportlab.lib.pagesizes import A4
+    from reportlab.lib.units import mm
+    from reportlab.lib import colors
+    from reportlab.lib.styles import ParagraphStyle
+    from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle
+    CREAM = colors.HexColor('#FAE7C7'); GREEN = colors.HexColor('#0A4937'); INK = colors.HexColor('#14170F')
+    st_title = ParagraphStyle('t', fontName='Helvetica-Bold', fontSize=16, textColor=GREEN, spaceAfter=6)
+    st_head = ParagraphStyle('h', fontName='Helvetica-Bold', fontSize=12, textColor=GREEN, spaceBefore=12, spaceAfter=4)
+    st_lab = ParagraphStyle('l', fontName='Helvetica-Bold', fontSize=9, textColor=INK, spaceBefore=4, spaceAfter=2)
+    st_cap = ParagraphStyle('c', fontName='Courier', fontSize=9.5, leading=13.5, textColor=INK)
+    st_sm = ParagraphStyle('s', fontName='Helvetica', fontSize=10, leading=14, textColor=INK)
+    story = [Paragraph(f'POST NOW — Day {day["day"]:02d} — {day["iso"]} — work top to bottom', st_title),
+             Paragraph('Each block below is one post. Copy the caption in the shaded box, attach the '
+                       'files listed under it in that order, set the time, set the AI label. '
+                       'The files live in the assets/ folder next to this PDF.', st_sm),
+             Spacer(1, 6)]
+    for b in blocks:
+        story.append(Paragraph(escape(b['head']), st_head))
+        story.append(Paragraph('COPY AS THE POST:' if b['is_li'] else 'COPY AS THE CAPTION:', st_lab))
+        box = Table([[Paragraph(escape(b['cap']).replace('\n', '<br/>'), st_cap)]], colWidths=[168 * mm])
+        box.setStyle(TableStyle([('BACKGROUND', (0, 0), (-1, -1), CREAM), ('BOX', (0, 0), (-1, -1), 0.8, GREEN),
+                                 ('LEFTPADDING', (0, 0), (-1, -1), 8), ('RIGHTPADDING', (0, 0), (-1, -1), 8),
+                                 ('TOPPADDING', (0, 0), (-1, -1), 6), ('BOTTOMPADDING', (0, 0), (-1, -1), 6)]))
+        story.append(box)
+        if b['comment']:
+            story.append(Paragraph('THEN POST AS THE FIRST COMMENT:', st_lab))
+            box2 = Table([[Paragraph(escape(b['comment']).replace('\n', '<br/>'), st_cap)]], colWidths=[168 * mm])
+            box2.setStyle(TableStyle([('BOX', (0, 0), (-1, -1), 0.8, GREEN),
+                                      ('LEFTPADDING', (0, 0), (-1, -1), 8), ('RIGHTPADDING', (0, 0), (-1, -1), 8),
+                                      ('TOPPADDING', (0, 0), (-1, -1), 6), ('BOTTOMPADDING', (0, 0), (-1, -1), 6)]))
+            story.append(box2)
+        if len(b['attach']) > 1:
+            story.append(Paragraph('ATTACH IN THIS ORDER: ' + escape(' → '.join(b['attach'])), st_sm))
+        elif b['attach']:
+            story.append(Paragraph('ATTACH: ' + escape(b['attach'][0]), st_sm))
+        else:
+            story.append(Paragraph('ATTACH: nothing — this one is text only.', st_sm))
+        story.append(Paragraph(f'AI LABEL: {escape(b["ai"])}', st_lab))
+        if b['extra']:
+            story.append(Paragraph(escape(b['extra']), st_sm))
+    SimpleDocTemplate(str(folder / '00_POST_NOW.pdf'), pagesize=A4,
+                      title=f'Easywurld Day {day["day"]:02d} — post now').build(story)
+
+
+def make_open_me(root):
+    """One page at the top of the download: where the month is and how to work a day."""
+    from reportlab.lib.pagesizes import A4
+    from reportlab.lib import colors
+    from reportlab.lib.styles import ParagraphStyle
+    from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
+    GREEN = colors.HexColor('#0A4937'); INK = colors.HexColor('#14170F')
+    st_t = ParagraphStyle('t', fontName='Helvetica-Bold', fontSize=22, textColor=GREEN, spaceAfter=10)
+    st_h = ParagraphStyle('h', fontName='Helvetica-Bold', fontSize=13, textColor=GREEN, spaceBefore=10, spaceAfter=4)
+    st_b = ParagraphStyle('b', fontName='Helvetica', fontSize=12, leading=17, textColor=INK)
+    story = [Paragraph('EASYWURLD — NOVEMBER 2026', st_t),
+             Paragraph('Open this first. You do not need any code tool for anything in here.', st_b),
+             Paragraph('Where the month is', st_h),
+             Paragraph('In this same folder you downloaded, open <b>NOVEMBER_DELIVERY</b>. Inside it are '
+                       'thirty folders: Day_01 to Day_30. Everything else in this download is the studio’s '
+                       'working code — ignore it completely.', st_b),
+             Paragraph('How to work a day', st_h),
+             Paragraph('1. Open the day folder (Day_02 is Tuesday 3 November, and so on).<br/>'
+                       '2. Open <b>00_POST_NOW.pdf</b> — it opens like any document, on phone or computer.<br/>'
+                       '3. Work top to bottom. Each block is one post: copy the caption in the shaded box, '
+                       'attach the files it lists (they sit in that day’s assets/ folder, already in posting '
+                       'order), set the time, set the AI label.<br/>'
+                       '4. If a block’s video is not ready yet, the day’s sheet says “POSTER ONLY — hold this '
+                       'slot”; post the rest and come back when the folder is updated.', st_b),
+             Paragraph('What the file names mean', st_h),
+             Paragraph('assets/ files are named HHMM_POSTID_position-of-total. 0700_…_3of5.jpg is the 07:00 '
+                       'post, slide 3 of 5 — attach in that numbered order. Videos are single .mp4 files: '
+                       'upload as they are.', st_b),
+             Paragraph('Nothing publishes itself. Every post stays Draft until you schedule it.', st_b)]
+    SimpleDocTemplate(str(root / '00_OPEN_ME_FIRST.pdf'), pagesize=A4,
+                      title='Easywurld November 2026 — open me first').build(story)
 
 
 def zip_day(day_num, out_dir):
@@ -520,16 +610,17 @@ def main(argv=None):
         total += n
         print(f'  Day {d["day"]:02d}: {n} placements · {len(copied)} files')
 
-    dayz = PACKS / 'day-zips'
-    dayz.mkdir(exist_ok=True)
+    dayz = BUILDS / 'day-zips'
+    dayz.mkdir(parents=True, exist_ok=True)
     for d in days:
         zp = zip_day(d['day'], dayz)
         print(f'  day-zip {zp.name}  {zp.stat().st_size/1e6:.1f} MB')
+    make_open_me(ROOT)
 
     # ten-day blocks kept for bulk download; no block exceeds Drive's 100 MB per-file limit
     if not args.no_decade and not only:
-        out = PACKS / 'zips'
-        out.mkdir(exist_ok=True)
+        out = BUILDS / 'zips'
+        out.mkdir(parents=True, exist_ok=True)
         import zipfile
         for a in (1, 11, 21):
             b = a + 9

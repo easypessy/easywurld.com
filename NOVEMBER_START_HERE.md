@@ -9,13 +9,13 @@ https://codeload.github.com/easypessy/easywurld.com/zip/refs/heads/arena/f8342c5
 Download it, unzip it ONCE, and go straight to:
 
 ```
-marketing/render/packs/Day_01 … Day_30
+NOVEMBER_DELIVERY/Day_01 … Day_30
 ```
 
 Thirty day folders, already unpacked — no zips inside. Each day folder is
 ready to schedule from:
 
-1. `00_POST_NOW.md` — every post for that day in click order: the caption to
+1. `00_POST_NOW.pdf` — every post (opens like any document; .md and .txt twins sit beside it) for that day in click order: the caption to
    copy (in a box), the files to attach in order, the time, the AI label.
    Work top to bottom; nothing lives in another file.
 2. `assets/` — every file the runbook names, already sorted into posting
@@ -28,7 +28,7 @@ ready to schedule from:
 Prefer clicking to downloading? Browse the same folders file by file:
 
 ```
-https://github.com/easypessy/easywurld.com/tree/arena/f8342c52-easywurld-com/marketing/render/packs
+https://github.com/easypessy/easywurld.com/tree/arena/f8342c52-easywurld-com/NOVEMBER_DELIVERY
 ```
 
 ## How updates reach you
