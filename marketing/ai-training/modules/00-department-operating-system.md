@@ -33,7 +33,7 @@ Learners can: (1) translate a request into an outcome and audience; (2) identify
 - Message: insight, promise, proof, qualification, objection addressed, CTA and destination.
 - Channel, format, market/locale, timing, budget/resources and production constraints.
 - Baseline, KPI(s), event definitions, source of data, observation period and attribution limits.
-- Brand rules and client-approved assets; rights/consent status; privacy and regulatory questions.
+- Brand profile ID/version and authorized approver; brand-specific rules and client-approved assets; rights/consent status; privacy and regulatory questions. For non-Easywurld work, attach the completed module 12 profile; do not infer a client's palette, voice, character, proof or market from Easywurld defaults.
 - Assumptions, unknowns, alternatives considered, risks, exclusions and approval history.
 
 ## Handoff protocol: BLUF + evidence + next action

@@ -8,6 +8,8 @@ This capability covers synthetic or AI-assisted human imagery, character continu
 
 ## Easywurld anonymous character bible
 
+This specific anonymous-silhouette character is an **Easywurld brand rule**, not a default mascot for client work. For another brand, follow its separately approved character/likeness policy and consent record. Do not introduce Easywurld's silhouette into client assets unless Easywurld is explicitly part of the commissioned work and the brand owners approve it.
+
 - **Identity principle:** an intentionally anonymous, realistic human silhouette; the character represents a point of view, not a secretly identifiable real person.
 - **Allowed framings:** back view; hands; shoulders; torso; cropped silhouette; shadow; controlled profile only if no identifying facial detail is visible; reflections only when they do not reveal a face or identifying feature.
 - **Forbidden:** direct face, clear profile identity, face-shaped reflection, identifiable personal details, face swaps, resemblance to an unconsenting real person, deceptive documentary framing or model output that accidentally reveals a face. Reject/regenerate/crop only if this preserves truthful context and does not conceal a material defect.
