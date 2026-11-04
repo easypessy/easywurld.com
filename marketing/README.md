@@ -1,3 +1,8 @@
+# Easywurld Marketing
+
+- **AI Marketing Intelligence System curriculum:** [`ai-training/README.md`](./ai-training/README.md) — structured training and operating standards for research, strategy, persuasion, copy, design, film, synthetic identity, distribution, measurement and governance. This is the current curriculum requested for the Easywurld AI marketing system.
+- **Existing content engine:** [`calendar/30-day-calendar.md`](./calendar/30-day-calendar.md) and [`brand-prompt.md`](./brand-prompt.md). These are earlier working materials and contain brand details that may conflict with the current AI curriculum brief; reconcile them with the brand owner before production.
+
 # Easywurld — 30-Day Content Engine
 
 A ready-to-produce schedule of **120 social posts**: 30 days × 4 posts per day, with carousel slide copy, short-video scripts, visual directions and captions. Generate the assets in one batch, then schedule them.
