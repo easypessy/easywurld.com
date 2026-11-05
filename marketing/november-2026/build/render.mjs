@@ -195,14 +195,14 @@ const ART = {
     </g>`;
   },
 
-  clock() {
+  clock({ label = "10 SECONDS" } = {}) {
     return `
     <g>
       <circle cx="140" cy="140" r="128" fill="${C.paper}" stroke="${C.deep}" stroke-width="3"/>
       <circle cx="140" cy="140" r="8" fill="${C.terra}"/>
       <line x1="140" y1="140" x2="140" y2="58" stroke="${C.deep}" stroke-width="7" stroke-linecap="round"/>
       <line x1="140" y1="140" x2="196" y2="168" stroke="${C.terra}" stroke-width="7" stroke-linecap="round"/>
-      <text x="140" y="330" font-family="JetBrains Mono" font-size="26" fill="${C.muted}" text-anchor="middle">10 SECONDS</text>
+      <text x="140" y="330" font-family="JetBrains Mono" font-size="24" letter-spacing="2" fill="${C.muted}" text-anchor="middle">${esc(label)}</text>
     </g>`;
   },
 
@@ -244,6 +244,20 @@ const ART = {
       <rect x="${600 - Math.round(tag.length * 9.6) - 34}" y="16" width="${Math.round(tag.length * 9.6) + 34}" height="30" rx="15" fill="${C.terra}"/>
       <text x="${600 - (Math.round(tag.length * 9.6) + 34) / 2}" y="37" font-family="JetBrains Mono" font-size="15" letter-spacing="2" fill="${C.paper}" text-anchor="middle">${esc(tag.toUpperCase())}</text>
       ${label ? `<text x="0" y="446" font-family="JetBrains Mono" font-size="19" letter-spacing="2.2" fill="${C.muted}">${esc(label.toUpperCase())}</text>` : ""}
+    </g>`;
+  },
+
+  /** Location: a pin on a hand-drawn map, no stock photography. */
+  pin({ label = "LAGOS, NIGERIA" } = {}) {
+    return `
+    <g>
+      <rect x="0" y="0" width="420" height="300" rx="18" fill="${C.paper}" stroke="${C.line}"/>
+      <path d="M40 60 H380 M40 140 H380 M40 220 H380" stroke="${C.line}" stroke-width="1.5" stroke-dasharray="6 8"/>
+      <path d="M110 20 V280 M230 20 V280 M330 20 V280" stroke="${C.line}" stroke-width="1.5" stroke-dasharray="6 8"/>
+      <circle cx="210" cy="132" r="52" fill="${C.terra}" opacity="0.14"/>
+      <path d="M210 92 c-20 0 -34 15 -34 34 0 24 34 54 34 54 s34 -30 34 -54 c0 -19 -14 -34 -34 -34 z" fill="${C.deep}"/>
+      <circle cx="210" cy="126" r="12" fill="${C.cream}"/>
+      <text x="0" y="336" font-family="JetBrains Mono" font-size="20" letter-spacing="2.4" fill="${C.muted}">${esc(label.toUpperCase())}</text>
     </g>`;
   },
 
@@ -357,7 +371,7 @@ function slideSvg({ slide, index, total, format }) {
     const availH = H - y - (tall ? 300 : 250);
     const art = ART[artType](slide.art ?? {});
     const natural =
-      { browser: [560, 360], phone: [270, 430], quote: [400, 200], list: [420, 230], split: [550, 300], clock: [280, 360], steps: [560, 70], seal: [260, 260], shot: [600, 460], none: [1, 1] }[artType] ?? [400, 300];
+      { browser: [560, 360], phone: [270, 430], quote: [400, 200], list: [420, 230], split: [550, 300], clock: [280, 360], steps: [560, 70], seal: [260, 260], pin: [420, 352], shot: [600, 460], none: [1, 1] }[artType] ?? [400, 300];
     const quote = artType === "quote";
     const seal = artType === "seal";
     const maxW = quote ? boxWidth * 0.5 : seal ? 340 : boxWidth;

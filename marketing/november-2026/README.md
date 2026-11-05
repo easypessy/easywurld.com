@@ -22,6 +22,9 @@ where.
 
 ## Two ways to read this pack
 
+- **`TIMETABLE.md`** — the hour-by-hour posting grid: 11 feed posts across
+  TikTok / Instagram / Facebook, 3 stories, 1 LinkedIn post, and why people look
+  at each hour.
 - **`DAILY-SYSTEM.md`** — the structure: eleven carousel slots per day, what each
   one is about, the angle bank, posting times, and why the website + copywriting
   doors lead to SMM and automation work.
@@ -43,6 +46,7 @@ where.
 | 9 | Wed 25 Nov | I almost quit in month three | Personal carousel | `day-09-…-pricing` |
 | 10 | Fri 27 Nov | Drop your link. I'll tell you the first thing I'd fix | LinkedIn carousel | `day-10-…-reply-bait` |
 | 11 | pinned | We are Easywurld. Here is exactly what that means | Easywurld intro | `day-11-easywurld-introduction` |
+| 12 | Wed slot 11 | The story behind Easywurld, and where it lives | Easywurld story | `day-12-easywurld-story-and-location` |
 
 Post between **07:00 and 09:00 WAT** for LinkedIn (Lagos commute + early desk),
 **19:00–21:00 WAT** for Instagram and WhatsApp status. Reply to comments within

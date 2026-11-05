@@ -4,7 +4,7 @@ Paste this at the top of any AI chat that writes, designs or plans for Easywurld
 It is the single source of truth: brand, voice, structure, funnel and the rules
 that keep us honest. Updated as we learn.
 
-_Last updated: 4 November 2026 · version 2_
+_Last updated: 5 November 2026 · version 3_
 
 ---
 
@@ -80,29 +80,52 @@ Audit (free or ₦15k) → Door (website or copywriting) → Retainer (SMM) → 
 
 ---
 
-## 5. The eleven slots a day
+## 5. The publishing model (as of 5 Nov 2026)
 
-Every day: **5 business · 3 personal · 2 status · 1 Easywurld.**
+**15 touches a day, not 11.** This is what actually gets posted:
 
-| # | Slot | Platform | Job |
+| Channel | Posts/day | Best times (WAT) | Job |
 |---|---|---|---|
-| 1 | Diagnose | LinkedIn | They recognise themselves in a mistake |
-| 2 | Teach | LinkedIn | One method they can use today (copywriting door) |
-| 3 | Personal — story | IG + LinkedIn | A real moment, a mistake, what it cost |
-| 4 | Proof | LinkedIn | Real work, screenshotted and annotated |
-| 5 | Status — lesson | WhatsApp + Stories | One idea in 20 seconds, ends "message CLEAR" |
-| 6 | Opinion | IG + LinkedIn | The contrarian take that sets our standard |
-| 7 | Personal — belief | IG | What we refuse to do |
-| 8 | Status — proof | WhatsApp + Stories | A screenshot, one line, one ask |
-| 9 | Invitation | LinkedIn | Useful reply-bait — the soft sell |
-| 10 | Personal — behind the scenes | IG + TikTok | Work in progress, a boring truth |
-| 11 | Easywurld | LinkedIn, pinned | Who we are, how we work, price, handover |
+| **TikTok** | 4 | 09:00 · 13:00 · 17:00 · 21:00 | Reach strangers; photo-mode carousels + trending audio |
+| **Instagram** | 4 | 08:00 · 12:00 · 19:00 · 22:00 | Saves and shares; carousels + collab-able proof |
+| **Facebook** | 3 | 10:00 · 15:00 · 20:00 | Older owners, local groups, price-aware buyers |
+| **Stories** (IG + FB) | 3 | 07:30 · 12:30 · 18:00 | Reminders, polls, screenshots — 24-hour urgency |
+| **LinkedIn** | 1 | 07:45 | Decision-makers; the business argument |
 
-LinkedIn gets **two** of the five business posts a day, not five: more than that
-splits reach and looks automated. The other three go to Instagram, Facebook and
-TikTok photo-mode with native captions.
+**Total: 11 feed posts + 3 stories + 1 LinkedIn.** Same eleven carousels rotate
+across the channels — one asset per slot, published to its first platform at its
+time, cross-posted to the other two that evening with a native caption.
 
----
+### Why people look at each hour
+
+| Hour | What the audience is doing | What they will accept |
+|---|---|---|
+| 07:30–08:00 | Commute, queue, first scroll | A short, uncomfortable truth (they have no patience yet) |
+| 09:00 | Settling into work, avoiding email | A method they can act on today |
+| 10:00 | Working; phone face-up | Proof — a screenshot does the talking |
+| 12:00–13:00 | Lunch, relaxed | Saves: checklists, teardowns, before/after |
+| 15:00 | Afternoon dip, bored | Opinion and mild argument |
+| 17:00 | Closing the day, unfinished tasks | A fix they can do tonight |
+| 18:00–19:00 | Home, scrolling in bed-adjacent chair | Story, feeling, personal |
+| 20:00–21:00 | Long scroll, guard down | Beliefs, behind the scenes, confessions |
+| 22:00 | Last scroll before sleep | Reply-bait, a question they can answer in one word |
+
+### The rule about Easywurld itself
+
+**At least one post a week is directly about the studio** — the story behind the
+business, where it is, who runs it, what it refuses. Pages that talk about their
+own marketing business get leads; pages that only give advice get followed and
+never hired. Slot 11 of every day's plan is reserved for Easywurld, and it
+alternates between:
+
+1. **The story** — how it started, why the name, where it operates *(built:
+   `day-12-easywurld-story-and-location`)*
+2. **What "digital studio" means** — the intro *(built: `day-11…`)*
+3. **The process** — understand, simplify, build, optimize
+4. **The price** — ranges and what moves them
+5. **The handover** — what the client owns at the end
+6. **The refusal** — the work we turn down
+7. **The first 14 days** — what happens after payment
 
 ## 6. Hook formulas
 
@@ -186,6 +209,10 @@ Return: headline, body, one-line art direction.
 
 ## 11. Change log
 
+- **v3 · 5 Nov 2026** — publishing model confirmed: 11 feed posts across TikTok
+  (4), Instagram (4) and Facebook (3), 3 stories, 1 LinkedIn post; hour-by-hour
+  audience states; the rule that one post a week is directly about Easywurld
+  (story, location, price, handover).
 - **v2 · 4 Nov 2026** — eleven-slot daily system; the two-door funnel; real
   screenshots in proof slides; rule that LinkedIn gets 2 of the 5 business posts;
   angle banks for all eleven slots.
