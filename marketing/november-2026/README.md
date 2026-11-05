@@ -20,6 +20,14 @@ marketing/november-2026/
 Every caption is split by platform, so you never have to guess which one goes
 where.
 
+## Two ways to read this pack
+
+- **`DAILY-SYSTEM.md`** — the structure: eleven carousel slots per day, what each
+  one is about, the angle bank, posting times, and why the website + copywriting
+  doors lead to SMM and automation work.
+- **`MASTER-PROMPT.md`** — the living brand/voice/structure prompt (also saved in
+  Google Drive: *EASYWURLD — Master Content Prompt*).
+
 ## The schedule
 
 | Day | Date | Post | Format | Folder |
@@ -34,6 +42,7 @@ where.
 | 8 | Mon 23 Nov | Same business. Same products. Two homepages | LinkedIn carousel | `day-08-…-before-after` |
 | 9 | Wed 25 Nov | I almost quit in month three | Personal carousel | `day-09-…-pricing` |
 | 10 | Fri 27 Nov | Drop your link. I'll tell you the first thing I'd fix | LinkedIn carousel | `day-10-…-reply-bait` |
+| 11 | pinned | We are Easywurld. Here is exactly what that means | Easywurld intro | `day-11-easywurld-introduction` |
 
 Post between **07:00 and 09:00 WAT** for LinkedIn (Lagos commute + early desk),
 **19:00–21:00 WAT** for Instagram and WhatsApp status. Reply to comments within

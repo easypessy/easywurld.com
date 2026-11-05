@@ -21,6 +21,18 @@ import { posts } from "../posts.mjs";
 const here = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(here, "..");
 const fontDir = path.join(root, "assets", "fonts");
+const repoRoot = path.resolve(root, "..", "..");
+const shotCache = new Map();
+
+/** Real work, embedded as a data URI so the render is self-contained. */
+function shot(pathInRepo) {
+  if (!shotCache.has(pathInRepo)) {
+    const abs = path.resolve(repoRoot, pathInRepo);
+    if (!fs.existsSync(abs)) throw new Error(`Screenshot not found: ${pathInRepo}`);
+    shotCache.set(pathInRepo, `data:image/jpeg;base64,${fs.readFileSync(abs).toString("base64")}`);
+  }
+  return shotCache.get(pathInRepo);
+}
 
 const C = {
   cream: "#FAE7C7",
@@ -217,6 +229,24 @@ const ART = {
     </g>`;
   },
 
+  shot({ img, tag = "CONCEPT BUILD", label = "", cropTop = 0.085 } = {}) {
+    if (!img) return "";
+    const crop = Math.round(336 * cropTop);
+    return `
+    <g>
+      <rect x="0" y="10" width="600" height="400" rx="16" fill="${C.paper}" stroke="${C.line}"/>
+      <rect x="0" y="10" width="600" height="42" rx="16" fill="${C.creamSoft}"/>
+      <rect x="0" y="36" width="600" height="16" fill="${C.creamSoft}"/>
+      <circle cx="26" cy="31" r="5" fill="${C.terra}"/><circle cx="44" cy="31" r="5" fill="${C.line}"/><circle cx="62" cy="31" r="5" fill="${C.line}"/>
+      <rect x="86" y="22" width="220" height="18" rx="9" fill="${C.paper}"/>
+      <defs><clipPath id="shotclip"><rect x="10" y="60" width="580" height="336" rx="8"/></clipPath></defs>
+      <image href="${shot(img)}" x="10" y="${60 - crop}" width="580" height="${336 + crop}" preserveAspectRatio="xMidYMid slice" clip-path="url(#shotclip)"/>
+      <rect x="${600 - Math.round(tag.length * 9.6) - 34}" y="16" width="${Math.round(tag.length * 9.6) + 34}" height="30" rx="15" fill="${C.terra}"/>
+      <text x="${600 - (Math.round(tag.length * 9.6) + 34) / 2}" y="37" font-family="JetBrains Mono" font-size="15" letter-spacing="2" fill="${C.paper}" text-anchor="middle">${esc(tag.toUpperCase())}</text>
+      ${label ? `<text x="0" y="446" font-family="JetBrains Mono" font-size="19" letter-spacing="2.2" fill="${C.muted}">${esc(label.toUpperCase())}</text>` : ""}
+    </g>`;
+  },
+
   none() {
     return "";
   },
@@ -327,11 +357,12 @@ function slideSvg({ slide, index, total, format }) {
     const availH = H - y - (tall ? 300 : 250);
     const art = ART[artType](slide.art ?? {});
     const natural =
-      { browser: [560, 360], phone: [270, 430], quote: [400, 200], list: [420, 230], split: [550, 300], clock: [280, 360], steps: [560, 70], seal: [260, 260], none: [1, 1] }[artType] ?? [400, 300];
+      { browser: [560, 360], phone: [270, 430], quote: [400, 200], list: [420, 230], split: [550, 300], clock: [280, 360], steps: [560, 70], seal: [260, 260], shot: [600, 460], none: [1, 1] }[artType] ?? [400, 300];
     const quote = artType === "quote";
     const seal = artType === "seal";
     const maxW = quote ? boxWidth * 0.5 : seal ? 340 : boxWidth;
-    const scale = Math.min(2.4, availH / natural[1], maxW / natural[0]);
+    const cap = artType === "shot" ? 1.45 : 2.4;
+    const scale = Math.min(cap, availH / natural[1], maxW / natural[0]);
     const artW = natural[0] * scale;
     const artH = natural[1] * scale;
     const left = quote ? W - M - artW : seal ? W - M - artW : M + (boxWidth - artW) / 2;
