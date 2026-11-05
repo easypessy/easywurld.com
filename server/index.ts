@@ -1,33 +1,37 @@
-import express from "express";
-import { createServer } from "http";
-import path from "path";
-import { fileURLToPath } from "url";
+import { createApp } from "./app.ts";
+import { config, ensureDirs } from "./config.ts";
+import { seedTemplates } from "./services/templates.ts";
+import { dispatchPending } from "./services/notifications.ts";
+import { logEvent } from "./services/automation.ts";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+ensureDirs();
+seedTemplates();
 
-async function startServer() {
-  const app = express();
-  const server = createServer(app);
+const app = createApp();
+const server = app.listen(config.port, "0.0.0.0", () => {
+  console.log(`Easywurld ops API listening on http://0.0.0.0:${config.port}`);
+  console.log(`  database : ${config.dbFile}`);
+  console.log(`  storage  : ${config.storage.provider} (${config.storageDir})`);
+  console.log(`  env      : ${config.env}`);
+});
 
-  // Serve static files from dist/public in production
-  const staticPath =
-    process.env.NODE_ENV === "production"
-      ? path.resolve(__dirname, "public")
-      : path.resolve(__dirname, "..", "dist", "public");
+/* Notification retries: every minute, deliver anything still queued. */
+const timer = setInterval(() => {
+  dispatchPending(25)
+    .then((res) => {
+      if (res.sent || res.failed || res.logged) {
+        console.log(`[notifications] sent=${res.sent} failed=${res.failed} logged=${res.logged}`);
+      }
+    })
+    .catch((err) => logEvent({ event: "notification.dispatch_failed", status: "failed", error: err }));
+}, 60_000);
+timer.unref?.();
 
-  app.use(express.static(staticPath));
-
-  // Handle client-side routing - serve index.html for all routes
-  app.get("*", (_req, res) => {
-    res.sendFile(path.join(staticPath, "index.html"));
-  });
-
-  const port = process.env.PORT || 3000;
-
-  server.listen(port, () => {
-    console.log(`Server running on http://localhost:${port}/`);
-  });
+function shutdown(signal: string) {
+  console.log(`\n${signal} received — closing`);
+  clearInterval(timer);
+  server.close(() => process.exit(0));
+  setTimeout(() => process.exit(0), 5000).unref();
 }
-
-startServer().catch(console.error);
+process.on("SIGINT", () => shutdown("SIGINT"));
+process.on("SIGTERM", () => shutdown("SIGTERM"));

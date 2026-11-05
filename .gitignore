@@ -122,3 +122,6 @@ client/public/__manus__/version.json
 /Easywurld-Offers-Deliverables.zip
 /offers-summary.md
 /tools/packkit/
+
+# Easywurld ops runtime data (SQLite database, uploaded files, backups)
+/data/

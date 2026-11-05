@@ -247,5 +247,13 @@ export default defineConfig({
       strict: true,
       deny: ["**/.*"],
     },
+    // The ops API runs separately (npm run dev:api). The browser only ever
+    // talks to this origin, so no localhost URLs are exposed to the client.
+    proxy: {
+      "/api": {
+        target: process.env.API_TARGET || "http://127.0.0.1:3001",
+        changeOrigin: false,
+      },
+    },
   },
 });

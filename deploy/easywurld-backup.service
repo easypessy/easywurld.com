@@ -1,0 +1,11 @@
+[Unit]
+Description=Easywurld nightly backup (database + upload manifest)
+
+[Service]
+Type=oneshot
+User=easywurld
+Group=easywurld
+WorkingDirectory=/opt/easywurld
+EnvironmentFile=/etc/easywurld.env
+ExecStart=/usr/bin/node --disable-warning=ExperimentalWarning --import tsx server/scripts/backup.ts
+ReadWritePaths=/var/lib/easywurld

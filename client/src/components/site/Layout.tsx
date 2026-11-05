@@ -169,6 +169,7 @@ function Footer() {
               <Link href="/free-review">Free website review</Link>
               <Link href="/contact">Start a project</Link>
               <Link href="/about">About Easywurld</Link>
+              <Link href="/login">Client login</Link>
             </div>
           </div>
         </div>

@@ -1,0 +1,27 @@
+[Unit]
+Description=Easywurld client operations (API + client portal)
+Documentation=https://github.com/easypessy/easywurld.com
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=easywurld
+Group=easywurld
+WorkingDirectory=/opt/easywurld
+EnvironmentFile=/etc/easywurld.env
+ExecStart=/usr/bin/node --disable-warning=ExperimentalWarning --import tsx server/index.ts
+Restart=always
+RestartSec=3
+# The database and uploads live here — this is the thing to back up.
+ReadWritePaths=/var/lib/easywurld
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=easywurld
+
+[Install]
+WantedBy=multi-user.target

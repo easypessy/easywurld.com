@@ -4,10 +4,8 @@ import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Layout from "./components/site/Layout";
 import Home from "./pages/Home";
-/* Route-level splitting: Home stays in the critical bundle; every other route
-   loads on demand. Toaster/TooltipProvider were removed — no toast() call and
-   no <Tooltip> exist anywhere in the app (verified), so this drops sonner,
-   next-themes and @radix-ui tooltip/popper from the homepage bundle. */
+
+/* Marketing — unchanged behaviour, route-level splitting. */
 const Work = lazy(() => import("./pages/Work"));
 const CaseStudy = lazy(() => import("./pages/CaseStudy"));
 const Services = lazy(() => import("./pages/Services"));
@@ -18,7 +16,18 @@ const Contact = lazy(() => import("./pages/Contact"));
 const FreeReview = lazy(() => import("./pages/FreeReview"));
 const NotFound = lazy(() => import("./pages/NotFound"));
 
-function Router() {
+/* Client operations — client portal, administrator dashboard, auth. */
+const Login = lazy(() => import("./pages/Login"));
+const PortalHome = lazy(() => import("./pages/portal/Home"));
+const PortalProject = lazy(() => import("./pages/portal/Project"));
+const AdminHome = lazy(() => import("./pages/admin/Home"));
+const AdminProjects = lazy(() => import("./pages/admin/Projects"));
+const AdminProject = lazy(() => import("./pages/admin/Project"));
+const AdminClients = lazy(() => import("./pages/admin/Clients"));
+const AdminTemplates = lazy(() => import("./pages/admin/Templates"));
+const AdminAutomation = lazy(() => import("./pages/admin/Automation"));
+
+function Marketing() {
   return (
     <Suspense fallback={null}>
       <Switch>
@@ -44,9 +53,25 @@ function App() {
   return (
     <ErrorBoundary>
       <ThemeProvider defaultTheme="light">
-        <Layout>
-          <Router />
-        </Layout>
+        <Suspense fallback={null}>
+          <Switch>
+            {/* Ops screens use their own shell, not the marketing header/footer. */}
+            <Route path="/login" component={Login} />
+            <Route path="/portal" component={PortalHome} />
+            <Route path="/portal/projects/:id" component={PortalProject} />
+            <Route path="/admin" component={AdminHome} />
+            <Route path="/admin/projects" component={AdminProjects} />
+            <Route path="/admin/projects/:id" component={AdminProject} />
+            <Route path="/admin/clients" component={AdminClients} />
+            <Route path="/admin/templates" component={AdminTemplates} />
+            <Route path="/admin/automation" component={AdminAutomation} />
+            <Route>
+              <Layout>
+                <Marketing />
+              </Layout>
+            </Route>
+          </Switch>
+        </Suspense>
       </ThemeProvider>
     </ErrorBoundary>
   );

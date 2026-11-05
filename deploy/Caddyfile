@@ -1,0 +1,31 @@
+# Easywurld — automatic HTTPS in front of the app on port 3001.
+# Replace easywurld.com with your domain (and set the same value in
+# /etc/easywurld.env as SITE_URL=https://easywurld.com).
+
+easywurld.com, www.easywurld.com {
+	encode zstd gzip
+
+	# Uploads can be up to MAX_UPLOAD_MB (25 MB by default).
+	request_body {
+		max_size 30MB
+	}
+
+	reverse_proxy 127.0.0.1:3001 {
+		header_up X-Forwarded-For {remote_host}
+		header_up X-Forwarded-Proto {scheme}
+	}
+
+	header {
+		Strict-Transport-Security "max-age=31536000; includeSubDomains"
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		-Server
+	}
+
+	log {
+		output file /var/log/caddy/easywurld.log {
+			roll_size 20MB
+			roll_keep 5
+		}
+	}
+}
