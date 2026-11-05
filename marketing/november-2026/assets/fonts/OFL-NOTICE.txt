@@ -1,0 +1,10 @@
+Fraunces, Inter and JetBrains Mono are licensed under the SIL Open Font License 1.1.
+They are included here (instanced to the weights used by build/render.mjs) so the
+carousel renderer produces identical output on any machine.
+
+Sources:
+  Fraunces       https://github.com/google/fonts/tree/main/ofl/fraunces
+  Inter          https://github.com/google/fonts/tree/main/ofl/inter
+  JetBrains Mono https://github.com/google/fonts/tree/main/ofl/jetbrainsmono
+
+OFL 1.1: https://openfontlicense.org
