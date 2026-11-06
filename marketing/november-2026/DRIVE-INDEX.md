@@ -10,6 +10,15 @@ https://github.com/easypessy/easywurld.com/blob/arena/b13f4015-easywurld-com/nov
 
 (Click **Download** in GitHub. On a phone, use "Desktop site" if the button hides.)
 
+## Captions as Word documents
+
+Every caption now exists as a **.docx** — opens on any phone (Word, WPS, Google
+Docs) where a .md file usually opens as nothing at all.
+
+- `ALL-CAPTIONS-november-2026.docx` — the whole month in one document
+- `days/day-NN/day-NN-captions.docx` — one document per day, 11 posts each
+- `<post folder>/CAPTION.docx` — a single post, if you prefer one file at a time
+
 ## What is inside
 
 | Folder / file | What it is |
