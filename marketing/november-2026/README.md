@@ -20,6 +20,16 @@ marketing/november-2026/
 Every caption is split by platform, so you never have to guess which one goes
 where.
 
+## The 30-day build
+
+- **`STRATEGY.md`** — why the month is shaped this way: platform roles, the
+  four-week arc, the slot funnel, the testing protocol, the conversion path.
+- **`PLAN-30-DAYS.md`** — all 30 days × 11 slots, generated from `plan.mjs`:
+  every angle, every sector, every platform, every time.
+- **`days/day-02/`** — the second day written and rendered in full (11 carousels,
+  59 slides) as a model for days 3–30.
+- **`days.mjs`** — the copy for every built day.
+
 ## Two ways to read this pack
 
 - **`TIMETABLE.md`** — the hour-by-hour posting grid: 11 feed posts across

@@ -16,7 +16,17 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import * as fontkit from "fontkit";
 import { Resvg } from "@resvg/resvg-js";
-import { posts } from "../posts.mjs";
+import { posts as flagshipPosts } from "../posts.mjs";
+
+/** Day packs live in days.mjs and are merged in when present. */
+let dayPosts = [];
+try {
+  const mod = await import("../days.mjs");
+  dayPosts = mod.dayPosts ?? [];
+} catch {
+  dayPosts = [];
+}
+const posts = [...flagshipPosts, ...dayPosts];
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(here, "..");
@@ -229,9 +239,13 @@ const ART = {
     </g>`;
   },
 
-  shot({ img, tag = "CONCEPT BUILD", label = "", cropTop = 0.085 } = {}) {
+  shot({ img, tag = "CONCEPT BUILD", label = "", cropTop = 0.085, zoom = 1, focusX = 0.5 } = {}) {
     if (!img) return "";
     const crop = Math.round(336 * cropTop);
+    const zoomW = Math.round(580 * zoom);
+    const zoomH = Math.round((336 + crop) * zoom);
+    const imgX = 10 - Math.round((zoomW - 580) * focusX);
+    const imgY = 60 - crop - Math.round(((zoomH - (336 + crop)) * 0.45));
     return `
     <g>
       <rect x="0" y="10" width="600" height="400" rx="16" fill="${C.paper}" stroke="${C.line}"/>
@@ -240,7 +254,7 @@ const ART = {
       <circle cx="26" cy="31" r="5" fill="${C.terra}"/><circle cx="44" cy="31" r="5" fill="${C.line}"/><circle cx="62" cy="31" r="5" fill="${C.line}"/>
       <rect x="86" y="22" width="220" height="18" rx="9" fill="${C.paper}"/>
       <defs><clipPath id="shotclip"><rect x="10" y="60" width="580" height="336" rx="8"/></clipPath></defs>
-      <image href="${shot(img)}" x="10" y="${60 - crop}" width="580" height="${336 + crop}" preserveAspectRatio="xMidYMid slice" clip-path="url(#shotclip)"/>
+      <image href="${shot(img)}" x="${imgX}" y="${imgY}" width="${zoomW}" height="${zoomH}" preserveAspectRatio="xMidYMid slice" clip-path="url(#shotclip)"/>
       <rect x="${600 - Math.round(tag.length * 9.6) - 34}" y="16" width="${Math.round(tag.length * 9.6) + 34}" height="30" rx="15" fill="${C.terra}"/>
       <text x="${600 - (Math.round(tag.length * 9.6) + 34) / 2}" y="37" font-family="JetBrains Mono" font-size="15" letter-spacing="2" fill="${C.paper}" text-anchor="middle">${esc(tag.toUpperCase())}</text>
       ${label ? `<text x="0" y="446" font-family="JetBrains Mono" font-size="19" letter-spacing="2.2" fill="${C.muted}">${esc(label.toUpperCase())}</text>` : ""}
