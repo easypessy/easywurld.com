@@ -4,7 +4,7 @@ Paste this at the top of any AI chat that writes, designs or plans for Easywurld
 It is the single source of truth: brand, voice, structure, funnel and the rules
 that keep us honest. Updated as we learn.
 
-_Last updated: 5 November 2026 · version 3_
+_Last updated: 6 November 2026 · version 4_
 
 ---
 
@@ -209,6 +209,11 @@ Return: headline, body, one-line art direction.
 
 ## 11. Change log
 
+- **v4 · 6 Nov 2026** — the 30-day production system (§12): plan × angles ×
+  sectors, 95 authored angles, 331 posts / 1,344 slides rendered; render one day
+  per process; palette-compressed output; proof slides must match their
+  screenshot.
+
 - **v3 · 5 Nov 2026** — publishing model confirmed: 11 feed posts across TikTok
   (4), Instagram (4) and Facebook (3), 3 stories, 1 LinkedIn post; hour-by-hour
   audience states; the rule that one post a week is directly about Easywurld
@@ -218,3 +223,47 @@ Return: headline, body, one-line art direction.
   angle banks for all eleven slots.
 - **v1 · 4 Nov 2026** — brand card, visual rules, hook formulas, carousel
   structure, caption lengths, the "no invented proof" rule.
+
+---
+
+## 12. The 30-day production system
+
+The month is not written post by post. It is built from three layers, and the
+layers are what make 331 posts possible without the writing turning to soup.
+
+**Layer 1 — the plan (`plan.mjs`).** Eleven fixed slots per day. Each slot has a
+job, a platform, a time and a bank of ten angles. The plan decides *what each day
+argues*; it is generated into `PLAN-30-DAYS.md` so the whole month is readable
+in one file before a single slide exists.
+
+**Layer 2 — the angles (`content/angles-*.mjs`).** Ninety-five fully written
+angles: a hook, two points and a close each. These are the sentences. They are
+authored by hand, never templated, because the hook is where the post lives or
+dies.
+
+**Layer 3 — the sectors (`content/sectors.mjs`).** Ten kinds of Lagos business,
+each with a business noun, a customer noun, an example figure and the friction
+that business actually has. The composer swaps the sector into the angle, so the
+same argument is retold for a bakery, then a clinic, then a logistics company —
+specific every time, never the identical sentence twice.
+
+**Why this beats a calendar of 330 unique ideas:** the argument stays coherent
+while the example stays fresh. A follower sees the principle once and the
+evidence ten times. That is how a page becomes known for one thing.
+
+**Production rules learned the hard way**
+
+- Render **one day per process**. A single run for the whole month runs out of
+  memory around day 14 and dies silently.
+- Generated PNGs are palette-compressed (128 colours, ~26 KB). The slides are
+  flat brand colours, so nothing visibly changes and the month stays inside the
+  repo's size budget.
+- A proof slide must *match* its screenshot. If the image shows a report, the
+  copy talks about the report — otherwise the reader sees the seam.
+- Sector figures are illustrative. Mark them, or replace them, before posting.
+
+**What is honest about generated copy:** the captions are expanded from the
+post's own slide text, so a caption can never claim something the carousel does
+not say. The sector examples are labelled as examples. Nothing about results,
+rankings or clients is invented.
+
