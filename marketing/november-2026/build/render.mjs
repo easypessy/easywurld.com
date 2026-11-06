@@ -26,7 +26,9 @@ try {
 } catch {
   dayPosts = [];
 }
-const posts = [...flagshipPosts, ...dayPosts];
+import { generatedPosts } from "../content/compose.mjs";
+
+const posts = [...flagshipPosts, ...dayPosts, ...generatedPosts];
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(here, "..");
@@ -487,6 +489,7 @@ function main() {
       made += 1;
     });
     fs.writeFileSync(path.join(dir, "CAPTION.md"), captionDoc(post));
+    if (shotCache.size > 10) shotCache.clear(); // keep memory flat across a long run
   }
   console.log(`Rendered ${made} slide${made === 1 ? "" : "s"} across ${only ? "1 post" : `${posts.length} posts`}.`);
 }

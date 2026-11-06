@@ -28,7 +28,34 @@ where.
   every angle, every sector, every platform, every time.
 - **`days/day-02/`** — the second day written and rendered in full (11 carousels,
   59 slides) as a model for days 3–30.
-- **`days.mjs`** — the copy for every built day.
+- **`days.mjs`** — the hand-written copy for Day 2.
+- **`content/`** — the authored angle bank (`angles-*.mjs`), the ten sector
+  profiles (`sectors.mjs`) and the composer (`compose.mjs`) that builds Days
+  3–30. **331 posts / 1,343 slides in total.**
+
+### Regenerating
+
+```bash
+node marketing/november-2026/build/build-plan.mjs   # rebuild PLAN-30-DAYS.md
+node marketing/november-2026/build/render.mjs       # render everything (~90 s)
+node marketing/november-2026/build/render.mjs days/day-12   # one day
+```
+
+Rendering a day at a time keeps memory flat — one process for the whole month
+gets killed halfway through. Generated PNGs are palette-compressed (128 colours,
+~26 KB each) with `mogrify -colors 128`; the slides are flat brand colours, so
+nothing visibly changes and the whole month stays inside the repo's size budget.
+
+### Where the words come from
+
+- Days 1–2: written by hand, one post at a time (`posts.mjs`, `days.mjs`).
+- Days 3–30: `content/angles-*.mjs` holds **95 fully written angles** — one per
+  angle per slot. `plan.mjs` rotates angle × sector, so the same argument is
+  retold for a different business, never with identical sentences.
+- Captions are expanded from the post's own slide copy, so nothing is invented
+  in the caption that is not on the slide.
+- Sector figures are **illustrative examples**. Replace them with real numbers
+  from your market before posting.
 
 ## Two ways to read this pack
 
