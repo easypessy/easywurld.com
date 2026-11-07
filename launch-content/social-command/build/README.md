@@ -1,58 +1,43 @@
-# Social kit — build scripts
+# Social Command build files
 
-These are the generators for the Easywurld content kit. They are source code,
-not build output, so `.gitignore` has a rule that keeps this folder tracked.
+`marketing/series-plan.json` is the canonical editorial source. `marketing/build-plan.mjs` expands it into 300 core posts and 900 placements, then writes:
 
-Everything is driven by `content/days-*.json`, which is the source of truth for
-the words. Edit the JSON, run the generator, and every output stays in step.
+- `marketing/content-plan.json` (generated data)
+- `marketing/calendar/30-day-calendar.md` and `content-calendar.csv`
+- `marketing/briefs/EW-Dxx-Sxx.md`
+- `marketing/MEASUREMENT.csv` and `TREND_VERIFICATION.csv`
+- `../content_calendar.csv`, `../MONTH_POSTS.md`
+- `../EASYWURLD_POST_COMMANDER.html`
 
-## The scripts
+## Files
 
-| Script | What it does | Writes |
-|---|---|---|
-| `kit-dates.mjs` | The shared calendar. One `START_DATE` drives everything. | — |
-| `build-kit.mjs` | The main generator. | `EASYWURLD_POST_COMMANDER.html`, `MONTH_POSTS.md`, `content_calendar.csv` |
-| `build-meme-bank.mjs` | Collects every Meme post into one file. | `MEME_BANK.md` |
-| `build-offers.mjs` | Turns the offers markdown into the branded A4 document. | `EASYWURLD_OFFERS_MASTER.html` |
-| `md-to-html.mjs` | Markdown to the HTML that uploads cleanly into Google Docs. | every `*.doc.html` |
-| `validate.mjs` | Checks the plan before it ships. | — |
+| File | Purpose |
+|---|---|
+| `shell.html` | Offline app shell and styling |
+| `app-script.js` | Series Studio: day calendar, filters, briefs, per-platform status/QA, weekly batches, CSV/backup export |
+| `build-kit.mjs` | Compatibility wrapper that runs the active marketing builder |
+| `build-meme-bank.mjs` | Generates `MEME_BANK.md` from the 60 meme posts |
+| `validate.mjs` | Compatibility wrapper that runs the active marketing validator |
+| `kit-dates.mjs` | Compatibility date helpers for older scripts |
+| `md-to-html.mjs` | Converts kit Markdown to Google-Docs-friendly HTML |
 
-`app-script.js` and `shell.html` are the phone app itself, kept separate so
-the app logic can be edited without touching the layout.
-
-## Running them
-
-From the repo root:
+## Commands
 
 ```bash
-node launch-content/social-command/build/build-kit.mjs
+npm run content:build
+npm run content:check
 node launch-content/social-command/build/build-meme-bank.mjs
-node launch-content/social-command/build/build-offers.mjs
-node launch-content/social-command/build/md-to-html.mjs
-node launch-content/social-command/build/validate.mjs
+node launch-content/social-command/build/md-to-html.mjs launch-content/social-command/README.md
 ```
 
-`validate.mjs` prints `ALL CHECKS PASS` and exits 0 when the plan is sound. It
-fails on a wrong day count, a missing platform version, banned AI wording,
-invented proof, a wrong WhatsApp link or price, and a built app that does not
-parse.
+## App behaviour
 
-## Changing the start date
+- State key: `easywurld-series-v4`, scoped to the campaign start date.
+- Per-placement status/QA/notes; not one status for all three platforms.
+- Export/import backup contains no credentials.
+- No network request, social API, analytics connection or auto-publishing.
+- The app is generated with the plan embedded; rebuild it after changing the source.
 
-`START_DATE` in `kit-dates.mjs` is the Monday the plan begins. Change it and
-rebuild: the app, the month document and the calendar CSV all shift together.
-The dates in `content/days-*.json` are not stored — they are computed, so
-nothing can fall out of step.
+## Tests
 
-## Adding a day
-
-1. Add the day's posts to a `content/days-XX-YY.json` file, or create a new
-   one. The filename pattern is `days-<first>-<last>.json` or `days-<n>.json`.
-2. Each post needs `id`, `type`, `topic`, `why`, and the platform versions
-   `tiktok`, `instagram`, `facebook`, `linkedin`.
-3. Run `build-kit.mjs` and then `validate.mjs`.
-
-The validator expects 11 posts a day and 5 LinkedIn posts a day (4 fixed slots
-plus one optional). The slot times are assigned by the order of the posts in
-the day, so the `fmt` string inside each LinkedIn version has to match the
-slot it lands in.
+The repository’s validation checks the source syntax, embedded data, counts, captions and documented deliverables. Do not claim analytics or scheduling results based on this offline app.

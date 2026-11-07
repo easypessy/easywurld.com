@@ -1,401 +1,440 @@
+/* Easywurld Series Studio v5 — offline planning only; no publishing API. */
+var DATA = /*__DATA__*/ null;
+(function () {
+  'use strict';
+  var KEY = 'easywurld-series-v5';
+  var VERSION = 5;
+  var STATUSES = ['Draft', 'Script approved', 'Asset produced', 'QA approved', 'Scheduled', 'Published', 'Reviewed'];
+  var content = document.getElementById('content');
 
-/* Easywurld Post Commander — app logic.
-   The data block below is injected by build/build-kit.mjs from content/days-*.json. */
-var DATA = /*__DATA__*/;
+  var state = load();
+  var view = 'strategy';
+  var selected = DATA.posts[0].id;
+  var selectedPlatform = 'TikTok';
+  var selectedDay = 1;
+  var seriesFilter = 'all';
+  var query = '';
 
-/* ---------------- state ---------------- */
-var KEY_DONE = "eww_done_v2", KEY_NOTE = "eww_note_v2", KEY_DAY = "eww_day_v2",
-    KEY_OPEN = "eww_open_v2", KEY_START = "eww_start_v2";
-var done = {}, notes = {}, open = {}, dayIdx = 0, filter = "all", startDate = "";
-
-var PLAT = {
-  tiktok: { label: "TikTok", cls: "tt" },
-  instagram: { label: "Instagram", cls: "ig" },
-  facebook: { label: "Facebook", cls: "fb" },
-  linkedin: { label: "LinkedIn", cls: "li" }
-};
-var WD = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
-var WD_LONG = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
-var MO = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-
-function load() {
-  try { done = JSON.parse(localStorage.getItem(KEY_DONE) || "{}"); } catch (e) { done = {}; }
-  try { notes = JSON.parse(localStorage.getItem(KEY_NOTE) || "{}"); } catch (e) { notes = {}; }
-  try { open = JSON.parse(localStorage.getItem(KEY_OPEN) || "{}"); } catch (e) { open = {}; }
-  try { var d = parseInt(localStorage.getItem(KEY_DAY), 10); if (!isNaN(d)) dayIdx = d; } catch (e) {}
-  startDate = localStorage.getItem(KEY_START) || (DATA.meta && DATA.meta.startDate) || "2026-10-19";
-  if (dayIdx < 0 || dayIdx >= DATA.days.length) dayIdx = 0;
-}
-function save() {
-  localStorage.setItem(KEY_DONE, JSON.stringify(done));
-  localStorage.setItem(KEY_NOTE, JSON.stringify(notes));
-  localStorage.setItem(KEY_OPEN, JSON.stringify(open));
-  localStorage.setItem(KEY_DAY, String(dayIdx));
-  localStorage.setItem(KEY_START, startDate);
-}
-function esc(s) {
-  return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
-}
-function toast(msg) {
-  var t = document.getElementById("toast");
-  t.textContent = msg; t.classList.add("show");
-  clearTimeout(t._t); t._t = setTimeout(function () { t.classList.remove("show"); }, 1700);
-}
-
-/* ---------------- dates ---------------- */
-function parseISO(s) { var p = String(s).split("-"); return new Date(+p[0], +p[1] - 1, +p[2]); }
-function addDays(d, n) { var x = new Date(d.getTime()); x.setDate(x.getDate() + n); return x; }
-function dateFor(i) { return addDays(parseISO(startDate), i); }
-function dateLabel(d) { return WD_LONG[(d.getDay() + 6) % 7] + " " + d.getDate() + " " + MO[d.getMonth()] + " " + d.getFullYear(); }
-function dateShort(d) { return d.getDate() + " " + MO[d.getMonth()]; }
-function isoOf(d) {
-  return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
-}
-function todayIndex() {
-  var t = new Date(); t.setHours(0, 0, 0, 0);
-  for (var i = 0; i < DATA.days.length; i++) {
-    if (dateFor(i).getTime() === t.getTime()) return i;
-  }
-  return -1;
-}
-
-/* ---------------- schedule ---------------- */
-function slotsForDay(d) {
-  var out = [], p, i, times = DATA.times;
-  for (p in PLAT) {
-    if (!PLAT.hasOwnProperty(p)) continue;
-    var list = [];
-    for (i = 0; i < d.posts.length; i++) if (d.posts[i][p]) list.push(d.posts[i]);
-    list.forEach(function (post, idx) {
-      var t = (times[p] && times[p][idx]) ? times[p][idx] : "";
-      if (p === "linkedin" && post.liBonus) t = post.liBonus;
-      out.push({ time: t, platform: p, post: post, key: post.id + ":" + p });
+  var esc = function (s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
     });
-  }
-  out.sort(function (a, b) {
-    return a.time < b.time ? -1 : a.time > b.time ? 1 : (a.platform < b.platform ? -1 : 1);
-  });
-  return out;
-}
-function minutes(t) { var a = t.split(":"); return (+a[0]) * 60 + (+a[1]); }
-function nextUp(slots) {
-  var now = new Date(), n = now.getHours() * 60 + now.getMinutes();
-  for (var i = 0; i < slots.length; i++) if (!done[slots[i].key] && minutes(slots[i].time) >= n) return slots[i];
-  for (var j = 0; j < slots.length; j++) if (!done[slots[j].key]) return slots[j];
-  return null;
-}
-
-/* ---------------- copy ---------------- */
-function copyText(text, label) {
-  if (!text) { toast("Nothing to copy"); return; }
-  var t = String(text);
-  if (navigator.clipboard && navigator.clipboard.writeText) {
-    navigator.clipboard.writeText(t).then(
-      function () { toast("Copied: " + label); },
-      function () { fallbackCopy(t, label); }
-    );
-  } else fallbackCopy(t, label);
-}
-function fallbackCopy(t, label) {
-  var ta = document.createElement("textarea");
-  ta.value = t; ta.setAttribute("readonly", "");
-  ta.style.position = "fixed"; ta.style.top = "0"; ta.style.left = "0"; ta.style.opacity = "0";
-  document.body.appendChild(ta); ta.focus(); ta.select(); ta.setSelectionRange(0, ta.value.length);
-  var ok = false;
-  try { ok = document.execCommand("copy"); } catch (e) {}
-  document.body.removeChild(ta);
-  if (ok) { toast("Copied: " + label); }
-  else {
-    document.getElementById("dlgTitle").textContent = label;
-    document.getElementById("dlgText").value = t;
-    var d = document.getElementById("dlg");
-    if (d.showModal) d.showModal(); else d.setAttribute("open", "");
-  }
-}
-function fullText(s) {
-  var p = s.post, out = [];
-  if (s.platform === "tiktok") {
-    out.push(p.tiktok.hook, "---", p.tiktok.beats.join("\n"), "", "VOICEOVER:", p.tiktok.vo, "", "CAPTION:", p.tiktok.cap, p.tiktok.tags.join(" "));
-  } else if (s.platform === "instagram") {
-    out.push(p.instagram.slides.join("\n"), "", "CAPTION:", p.instagram.cap, p.instagram.tags.join(" "));
-  } else if (s.platform === "facebook") {
-    out.push(p.facebook.body);
-  } else {
-    out.push(p.linkedin.body);
-  }
-  return out.join("\n");
-}
-function copyPost(key) { var s = findSlot(key); if (s) copyText(fullText(s), PLAT[s.platform].label); }
-function copyField(key, field) {
-  var s = findSlot(key); if (!s) return;
-  var p = s.post, v = "";
-  if (field === "vo") v = p.tiktok.vo;
-  else if (field === "cap") v = s.platform === "tiktok" ? p.tiktok.cap : p.instagram.cap;
-  else if (field === "body") v = s.platform === "facebook" ? p.facebook.body : p.linkedin.body;
-  else if (field === "slides") v = p.instagram.slides.join("\n\n");
-  copyText(v, field);
-}
-function findSlot(key) {
-  var slots = slotsForDay(DATA.days[dayIdx]);
-  for (var i = 0; i < slots.length; i++) if (slots[i].key === key) return slots[i];
-  return null;
-}
-
-/* ---------------- render: day ---------------- */
-function renderToday() {
-  var d = DATA.days[dayIdx], slots = slotsForDay(d), dt = dateFor(dayIdx);
-  var doneCount = slots.filter(function (s) { return done[s.key]; }).length;
-  document.getElementById("bar").style.width = (slots.length ? doneCount / slots.length * 100 : 0) + "%";
-  document.getElementById("progTxt").textContent = doneCount + " of " + slots.length + " done";
-  document.getElementById("dayTxt").textContent = dateLabel(dt);
-
-  var h = "";
-  h += '<div class="dayscroll">';
-  var ti = todayIndex();
-  DATA.days.forEach(function (dd, i) {
-    var s = slotsForDay(dd), c = s.filter(function (x) { return done[x.key]; }).length;
-    var cls = "daybtn" + (i === dayIdx ? " today" : "") + (c === s.length && s.length ? " done" : "");
-    h += '<button class="' + cls + '" onclick="setDay(' + i + ')"><b>' + dateShort(dateFor(i)) + '</b>' +
-      WD[(dateFor(i).getDay() + 6) % 7] + (i === ti ? ' <span class="dot"></span>' : "") +
-      (c === s.length && s.length ? "<br>" + c + "/" + s.length : "") + "</button>";
-  });
-  h += "</div>";
-
-  h += '<div class="chips">';
-  ["all", "tiktok", "instagram", "facebook", "linkedin", "left"].forEach(function (f) {
-    var nm = f === "all" ? "All " + slots.length : f === "left" ? "Not done" : PLAT[f].label;
-    h += '<button class="chip' + (filter === f ? " on" : "") + '" onclick="setFilter(\'' + f + '\')">' + nm + "</button>";
-  });
-  h += "</div>";
-
-  var nu = nextUp(slots);
-  if (nu) {
-    h += '<h2 class="sechead">Next up <small>' + nu.time + " · " + PLAT[nu.platform].label + "</small></h2>";
-    h += cardHTML(nu);
-  }
-  h += '<h2 class="sechead">' + esc(d.theme) + " <small>" + esc(d.offer) + "</small></h2>";
-  var shown = 0;
-  slots.forEach(function (s) {
-    if (filter !== "all" && filter !== "left" && s.platform !== filter) return;
-    if (filter === "left" && done[s.key]) return;
-    shown++; h += cardHTML(s);
-  });
-  if (!shown) h += '<p class="mini">Nothing here. Tap All to see everything for this day.</p>';
-  document.getElementById("viewToday").innerHTML = h;
-  bindNotes();
-}
-
-function cardHTML(s) {
-  var p = s.post, isOpen = !!open[s.key], isDone = !!done[s.key];
-  var h = '<div class="card' + (isOpen ? " open" : "") + (isDone ? " done" : "") + '" id="c_' + s.key.replace(/[^a-z0-9]/gi, "") + '">';
-  h += '<div class="chead" onclick="toggleCard(\'' + s.key + '\')">';
-  h += '<div style="min-width:0;flex:1">';
-  h += '<div><span class="badge ' + PLAT[s.platform].cls + '">' + PLAT[s.platform].label + "</span> <span class=\"time\">" + s.time + (p.liOpt ? " · optional" : "") + "</span></div>";
-  h += '<div class="ctitle">' + esc(p.topic) + "</div>";
-  h += '<div class="ctype">' + esc(p.type) + " · post " + p.id.split("-")[1] + "</div>";
-  h += "</div>";
-  h += '<button class="tick' + (isDone ? " on" : "") + '" onclick="event.stopPropagation();toggleDone(\'' + s.key + '\')">' + (isDone ? "✓" : "") + "</button>";
-  h += "</div>";
-  if (isOpen) {
-    h += '<div class="cbody">';
-    h += '<div class="blk"><h4>Why this works</h4><p>' + esc(p.why) + "</p></div>";
-    if (s.platform === "tiktok") {
-      var t = p.tiktok;
-      h += '<div class="blk"><h4>Format</h4><p>' + esc(t.fmt) + "</p></div>";
-      h += '<div class="blk"><h4>Hook (0-3s)</h4><p>' + esc(t.hook) + "</p></div>";
-      h += '<div class="blk"><h4>On-screen beats</h4><ul class="beats">' + t.beats.map(function (b) { return "<li>" + esc(b) + "</li>"; }).join("") + "</ul></div>";
-      h += '<div class="blk"><h4>Voiceover script</h4><p>' + esc(t.vo) + "</p></div>";
-      h += '<div class="blk"><h4>Caption</h4><p>' + esc(t.cap) + "</p></div>";
-      h += '<div class="blk"><h4>Hashtags</h4><p class="tags">' + esc(t.tags.join(" ")) + "</p></div>";
-      h += '<div class="blk"><h4>Visual</h4><p>' + esc(t.asset) + "</p></div>";
-    } else if (s.platform === "instagram") {
-      var g = p.instagram;
-      h += '<div class="blk"><h4>Format</h4><p>' + esc(g.fmt) + "</p></div>";
-      h += '<div class="blk"><h4>' + (/reel/i.test(g.fmt) ? "Script slides" : "Slide copy") + '</h4><ul class="beats">' + g.slides.map(function (b) { return "<li>" + esc(b) + "</li>"; }).join("") + "</ul></div>";
-      h += '<div class="blk"><h4>Caption</h4><p>' + esc(g.cap) + "</p></div>";
-      h += '<div class="blk"><h4>Hashtags</h4><p class="tags">' + esc(g.tags.join(" ")) + "</p></div>";
-      h += '<div class="blk"><h4>Visual</h4><p>' + esc(g.asset) + "</p></div>";
-    } else if (s.platform === "facebook") {
-      var f = p.facebook;
-      h += '<div class="blk"><h4>Format</h4><p>' + esc(f.fmt) + "</p></div>";
-      h += '<div class="blk"><h4>Post</h4><p>' + esc(f.body) + "</p></div>";
-    } else {
-      var l = p.linkedin;
-      h += '<div class="blk"><h4>Format</h4><p>' + esc(l.fmt) + "</p></div>";
-      h += '<div class="blk"><h4>Post</h4><p>' + esc(l.body) + "</p></div>";
-    }
-    h += '<div class="copyrow">';
-    h += '<button class="btn" onclick="copyPost(\'' + s.key + '\')">Copy all for ' + PLAT[s.platform].label + "</button>";
-    if (s.platform === "tiktok") h += '<button class="btn ghost" onclick="copyField(\'' + s.key + '\',\'vo\')">Copy voiceover</button>';
-    if (s.platform === "tiktok" || s.platform === "instagram") h += '<button class="btn ghost" onclick="copyField(\'' + s.key + '\',\'cap\')">Copy caption</button>';
-    if (s.platform === "facebook" || s.platform === "linkedin") h += '<button class="btn ghost" onclick="copyField(\'' + s.key + '\',\'body\')">Copy post</button>';
-    if (s.platform === "instagram") h += '<button class="btn ghost" onclick="copyField(\'' + s.key + '\',\'slides\')">Copy slides</button>';
-    h += "</div>";
-    h += '<div class="blk"><h4>Your note</h4><textarea class="note" data-note="' + s.key + '" placeholder="e.g. record this at 3pm, use the shop photo">' + esc(notes[s.key] || "") + "</textarea></div>";
-    h += "</div>";
-  }
-  h += "</div>";
-  return h;
-}
-function bindNotes() {
-  var tas = document.querySelectorAll("textarea[data-note]");
-  for (var i = 0; i < tas.length; i++) {
-    tas[i].addEventListener("change", function (e) {
-      notes[e.target.getAttribute("data-note")] = e.target.value;
-      save(); toast("Note saved");
-    });
-  }
-}
-function toggleCard(key) {
-  open[key] = !open[key]; save(); renderToday();
-  setTimeout(function () {
-    var el = document.getElementById("c_" + key.replace(/[^a-z0-9]/gi, ""));
-    if (el) el.scrollIntoView({ block: "start" });
-  }, 20);
-}
-function toggleDone(key) { if (done[key]) delete done[key]; else done[key] = 1; save(); renderToday(); }
-function setDay(i) { dayIdx = i; save(); renderToday(); window.scrollTo(0, 0); }
-function setFilter(f) { filter = f; renderToday(); }
-
-/* ---------------- render: month ---------------- */
-function renderMonth() {
-  var tot = 0, td = 0, h = "";
-  var daySlots = slotsForDay(DATA.days[0]).length;
-  h += '<h2 class="sechead">The month <small>' + DATA.days.length + " days · " + DATA.days.length * daySlots + " posts</small></h2>";
-  h += '<div class="monthgrid">';
-  DATA.days.forEach(function (dd, i) {
-    var s = slotsForDay(dd), c = s.filter(function (x) { return done[x.key]; }).length;
-    tot += s.length; td += c;
-    var dt = dateFor(i);
-    var pct = s.length ? Math.round(c / s.length * 100) : 0;
-    h += '<button class="mcell' + (i === dayIdx ? " on" : "") + '" onclick="setDay(' + i + ')">';
-    h += '<span class="md">' + dateShort(dt) + "</span>";
-    h += '<span class="mw">' + WD[(dt.getDay() + 6) % 7] + "</span>";
-    h += '<span class="mbar"><i style="width:' + pct + '%"></i></span>';
-    h += '<span class="mn">' + c + "/" + s.length + "</span>";
-    h += "</button>";
-  });
-  h += "</div>";
-  h += '<h2 class="sechead">Totals</h2><div class="grid2">';
-  h += '<div class="tile"><b>' + td + "</b><span>posted</span></div>";
-  h += '<div class="tile"><b>' + (tot - td) + "</b><span>left</span></div>";
-  h += "</div>";
-
-  h += '<h2 class="sechead">Plan start date <small>move the whole plan</small></h2>';
-  h += '<div class="copyrow"><input type="date" class="datein" value="' + startDate + '" onchange="setStart(this.value)"></div>';
-  h += '<p class="mini">Every day in the app and in the sheet shifts with this date. Set it to the Monday you want to start posting.</p>';
-
-  h += '<h2 class="sechead">Backup <small>save or move your progress</small></h2>';
-  h += '<div class="copyrow"><button class="btn" onclick="exportData()">Export progress (file)</button>';
-  h += '<button class="btn ghost" onclick="document.getElementById(\'importFile\').click()">Import progress</button></div>';
-  h += '<input type="file" id="importFile" class="hide" accept=".json" onchange="importData(this)">';
-  h += '<p class="mini">Export writes a small JSON file. Save it to Google Drive so a new phone can pick up where this one stopped.</p>';
-  h += '<h2 class="sechead">Reset</h2>';
-  h += '<div class="copyrow"><button class="btn ghost" onclick="resetAll()">Clear all tick marks and notes</button></div>';
-  document.getElementById("viewMonth").innerHTML = h;
-}
-function setStart(v) {
-  if (!v) return;
-  startDate = v; save(); renderMonth(); renderToday();
-  toast("Plan now starts " + dateLabel(parseISO(v)));
-}
-function exportData() {
-  var payload = { app: "easywurld-post-commander", v: 2, saved: new Date().toISOString(), done: done, notes: notes, day: dayIdx, start: startDate };
-  var blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
-  var a = document.createElement("a");
-  a.href = URL.createObjectURL(blob);
-  a.download = "easywurld-progress-" + isoOf(new Date()) + ".json";
-  document.body.appendChild(a); a.click(); document.body.removeChild(a);
-  toast("Exported. Save it to Drive.");
-}
-function importData(inp) {
-  var f = inp.files && inp.files[0]; if (!f) return;
-  var rd = new FileReader();
-  rd.onload = function () {
-    try {
-      var j = JSON.parse(rd.result);
-      if (j.done) done = j.done;
-      if (j.notes) notes = j.notes;
-      if (j.start) startDate = j.start;
-      save(); renderToday(); renderMonth(); toast("Progress imported");
-    } catch (e) { toast("That file did not work"); }
   };
-  rd.readAsText(f); inp.value = "";
-}
-function resetAll() {
-  if (!confirm("Clear every tick mark and note on this phone?")) return;
-  done = {}; notes = {}; save(); renderToday(); renderMonth(); toast("Cleared");
-}
+  var nl = function (s) { return esc(s).replace(/\n/g, '<br>'); };
 
-/* ---------------- render: help ---------------- */
-function renderHelp() {
-  var h = "";
-  h += '<h2 class="sechead">How to use this</h2>';
-  h += '<ol class="helplist">';
-  h += "<li>Open this file on your phone. Add it to your home screen and it opens like an app.</li>";
-  h += "<li>It opens on today's day of the week, with the next post due at the top.</li>";
-  h += "<li>The <b>Month</b> tab shows the whole 30-day run on a grid, so you can see a fortnight ahead instead of reacting to today.</li>";
-  h += "<li>Tap a post to open it. Everything is inside: hook, beats, voiceover, caption, hashtags, visual direction.</li>";
-  h += "<li>Hit Copy, paste into the app, and tick it off. The tick marks save on the phone.</li>";
-  h += "<li>Use the notes box for the small things: which photo, which price, who to tag.</li>";
-  h += "</ol>";
-
-  h += '<h2 class="sechead">Scheduling a month ahead</h2>';
-  h += "<p class=\"mini\">Everything in this plan is dated, so you can schedule the whole month in one sitting and stop thinking about it.</p>";
-  h += '<ul class="helplist">';
-  h += "<li><b>Open the sheet.</b> <code>content_calendar.csv</code> is in Google Drive as a Google Sheet. Sort by date. Every row has the time, the format and the full copy.</li>";
-  h += "<li><b>Instagram and Facebook:</b> Meta Business Suite (free). Set the timezone to Africa/Lagos. Paste each row's caption and upload the matching asset.</li>";
-  h += "<li><b>TikTok:</b> the app itself has a schedule option for business accounts. Upload the video, set the date and time, done.</li>";
-  h += "<li><b>LinkedIn:</b> the native schedule button in the post composer. The morning ones can be set the night before.</li>";
-  h += "<li><b>First Sunday of the month, 30 minutes.</b> The whole month is already dated, so set it all in one sitting. After that it is 20 minutes a week. Leave two slots a week open for anything that needs a real reply.</li>";
-  h += "<li><b>Keep the assets in Drive.</b> Name each file with the post ID and date, for example <code>D12-03_tiktok_04112026</code>. Then finding the right video takes ten seconds.</li>";
-  h += "</ul>";
-
-  h += '<h2 class="sechead">About phone storage</h2>';
-  h += '<p class="mini">This file is text only, about a megabyte. It will not fill your phone. The images and videos are what fill a phone, so keep those in Google Drive and open them from there when you need them. Delete them from the phone once they are posted.</p>';
-
-  h += '<h2 class="sechead">Times</h2>';
-  h += '<p class="mini">All times are Lagos time (WAT, UTC+1). They are based on when Nigerian audiences are actually on their phones: mornings 6-10am, lunch 12-2pm, and the evening peak 7-10pm. LinkedIn sits in the morning and early afternoon, because that is when Nigerian professionals are online.</p>';
-
-  h += '<h2 class="sechead">Rules that keep it honest</h2>';
-  h += '<ul class="helplist">';
-  h += "<li>Never post a client result, ranking, rating or testimonial you cannot evidence.</li>";
-  h += "<li>Demo project names are labelled concept project / sample build.</li>";
-  h += "<li>Value numbers are hours x &#8358;5,000, described as an estimate, never as a former price.</li>";
-  h += "<li>Say plainly what a pack does not do. Trust comes from the honest post.</li>";
-  h += "<li>Memes are 2 of the 11 a day. Keep the other nine useful.</li>";
-  h += "<li>Reply to people faster than you post to them.</li>";
-  h += "</ul>";
-
-  h += '<h2 class="sechead">Contact</h2>';
-  h += '<p class="mini">WhatsApp 0905 069 0837 · <a href="https://wa.me/2349050690837">wa.me/2349050690837</a><br>Site: <a href="https://website-builder-portfolio.vercel.app">website-builder-portfolio.vercel.app</a></p>';
-  h += '<div class="copyrow"><a class="btn" href="https://wa.me/2349050690837">Message on WhatsApp</a></div>';
-  document.getElementById("viewHelp").innerHTML = h;
-}
-
-/* ---------------- nav ---------------- */
-function setView(v) {
-  ["Today", "Month", "Help"].forEach(function (x) {
-    document.getElementById("view" + x).classList.toggle("hide", x.toLowerCase() !== v);
-  });
-  var bs = document.querySelectorAll("nav.tabs button");
-  for (var i = 0; i < bs.length; i++) bs[i].classList.toggle("on", bs[i].getAttribute("data-v") === v);
-  document.getElementById("hdRight").textContent =
-    v === "today" ? "POST COMMANDER" : v === "month" ? "THE MONTH" : "HOW TO USE";
-  if (v === "month") renderMonth();
-  if (v === "help") renderHelp();
-  window.scrollTo(0, 0);
-}
-document.addEventListener("DOMContentLoaded", function () {
-  load();
-  var ti = todayIndex();
-  if (ti >= 0) dayIdx = ti;
-  var bs = document.querySelectorAll("nav.tabs button");
-  for (var i = 0; i < bs.length; i++) {
-    (function (b) { b.addEventListener("click", function () { setView(b.getAttribute("data-v")); }); })(bs[i]);
+  function load() {
+    try {
+      var j = JSON.parse(localStorage.getItem(KEY) || 'null');
+      if (j && j.version === VERSION && j.campaign === DATA.startDate) {
+        return { placements: j.placements || {}, notes: j.notes || {} };
+      }
+    } catch (e) {}
+    return { placements: {}, notes: {} };
   }
-  renderToday(); renderMonth(); renderHelp();
-  setView("today");
-});
+  function save() {
+    try { localStorage.setItem(KEY, JSON.stringify({ version: VERSION, campaign: DATA.startDate, placements: state.placements, notes: state.notes })); }
+    catch (e) { toast('Browser storage unavailable. Export a backup.'); }
+  }
+  function toast(text) {
+    var t = document.getElementById('toast');
+    t.textContent = text; t.style.display = 'block';
+    clearTimeout(t.timer); t.timer = setTimeout(function () { t.style.display = 'none'; }, 2800);
+  }
+  async function copy(text) {
+    try {
+      if (!navigator.clipboard) throw Error();
+      await navigator.clipboard.writeText(text); toast('Copied');
+    } catch (e) {
+      document.getElementById('copyText').value = text;
+      document.getElementById('copyDialog').showModal();
+      document.getElementById('copyText').select();
+    }
+  }
 
+  /* ---------------- data helpers ---------------- */
+  var post = function (id) { return DATA.posts.find(function (p) { return p.id === id; }); };
+  var story = function (id) { return DATA.stories.find(function (s) { return s.id === id; }); };
+  var linkedin = function (id) { return DATA.linkedin.find(function (l) { return l.id === id; }); };
+  var placementsOf = function (postId) { return DATA.placements.filter(function (x) { return x.postId === postId; }); };
+  var pstate = function (placementId) {
+    if (!state.placements[placementId]) state.placements[placementId] = { status: 'Draft', checks: {}, note: '', actualUrl: '' };
+    return state.placements[placementId];
+  };
+  var platformsFor = function (postId) {
+    var seen = [];
+    placementsOf(postId).forEach(function (x) { if (seen.indexOf(x.platform) < 0) seen.push(x.platform); });
+    return seen;
+  };
+  var placementOf = function (postId, platform) {
+    return DATA.placements.find(function (x) { return x.postId === postId && x.platform === platform; });
+  };
+  var dateLabel = function (iso) { return new Date(iso + 'T00:00:00Z').toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short', timeZone: 'UTC' }); };
+  var dayObj = function (n) { return DATA.days[n - 1]; };
+  var bodyOf = function (p) { return p.script || (p.slides || []).map(function (s, i) { return 'Slide ' + (i + 1) + ': ' + s; }).join('\n\n') || p.staticCopy || p.body || ''; };
+
+  function checksFor(kind, item) {
+    var base = [
+      'Facts, price, offer and sample labels checked',
+      item.verification ? 'Trend verification logged, or live-trend wording removed' : 'No trend/source claim left unverified',
+      'Disclosure or fallback confirmed for this asset',
+      'Captions, pronunciation and crop checked',
+      'One CTA and destination tested on a phone',
+      'Human approval recorded before scheduling'
+    ];
+    if (kind === 'story') base[3] = 'Frames, safe areas and sticker placement checked';
+    if (kind === 'linkedin') base[3] = 'Read aloud, paragraphs split, link in first comment';
+    if (item.offerKeyword) base.push('Current price, payment and fulfilment confirmed');
+    return base;
+  }
+  function checkState(placementId, item) {
+    pstate(placementId);
+    return checksFor(item.type === 'Story' ? 'story' : item.type === 'LinkedIn' ? 'linkedin' : 'content', item).map(function (_, i) {
+      return !!state.placements[placementId].checks[i];
+    });
+  }
+  function ready(placementId, item) {
+    return checkState(placementId, item).filter(Boolean).length === checksFor(item.type === 'Story' ? 'story' : item.type === 'LinkedIn' ? 'linkedin' : 'content', item).length;
+  }
+
+  function counts() {
+    var totals = { placements: 0, qa: 0, scheduled: 0, published: 0, draft: 0, posted: 0, total: DATA.placements.length };
+    DATA.placements.forEach(function (pl) {
+      var st = pstate(pl.placementId).status;
+      totals.placements++;
+      if (ready(pl.placementId, pl)) totals.qa++;
+      if (st === 'Scheduled') totals.scheduled++;
+      if (st === 'Published' || st === 'Reviewed') totals.published++;
+      if (st === 'Draft') totals.draft++;
+    });
+    totals.posted = totals.scheduled + totals.published;
+    return totals;
+  }
+
+  /* ---------------- views ---------------- */
+  function render() {
+    document.querySelectorAll('nav button').forEach(function (b) {
+      b.classList.toggle('active', b.dataset.view === view);
+      b.setAttribute('aria-current', b.dataset.view === view ? 'page' : 'false');
+    });
+    if (view === 'strategy') renderStrategy();
+    if (view === 'plan') renderPlan();
+    if (view === 'stories') renderStories();
+    if (view === 'linkedin') renderLinkedIn();
+    if (view === 'briefs') renderBriefs();
+    if (view === 'batches') renderBatches();
+    if (view === 'tools') renderTools();
+  }
+
+  function renderStrategy() {
+    var c = counts();
+    var seriesRows = DATA.series.map(function (s) {
+      var n = DATA.posts.filter(function (p) { return p.seriesKey === s.key; }).length;
+      return '<li><strong>' + esc(s.name) + '</strong> · ' + esc(s.time) + ' · ' + esc(s.defaultFormat) + ' · ' + n + ' posts<br><span class="muted small">' + esc(s.objective) + '</span></li>';
+    }).join('');
+    content.innerHTML =
+      '<p class="eyebrow" style="margin-top:28px">11 posts + 2 stories a day · 3 platforms · LinkedIn pulls</p>' +
+      '<h1>Thirty days, eleven slots, two stories, one voice.</h1>' +
+      '<p class="muted">' + DATA.counts.corePosts + ' core posts across 30 days on TikTok, Instagram and Facebook. ' + DATA.counts.stories +
+      ' stories. ' + DATA.counts.linkedin + ' LinkedIn pulls siphoned from the same work. ' + DATA.counts.placements +
+      ' platform placements in total. Every placement starts Draft.</p>' +
+      '<div class="stats"><div class="stat"><strong>' + DATA.counts.corePosts + '</strong>core posts</div>' +
+      '<div class="stat"><strong>' + DATA.counts.stories + '</strong>stories</div>' +
+      '<div class="stat"><strong>' + DATA.counts.linkedin + '</strong>LinkedIn</div>' +
+      '<div class="stat"><strong>' + DATA.counts.placements + '</strong> total placements</div>' +
+      '<div class="stat"><strong>' + c.qa + '</strong>fully checked</div>' +
+      '<div class="stat"><strong>' + c.posted + '</strong>scheduled or published</div></div>' +
+      '<div class="notice">Draft copy. Nothing here is scheduled or published. Trend slots stay HOLD until the verification log is complete. ' +
+      'The AI presenter is the anonymous Operator persona: never described as a real face, always disclosed.</div>' +
+      '<div class="card"><h2>The daily spine</h2><ul>' + seriesRows + '</ul>' +
+      '<p class="small muted">Platform offsets: TikTok at the slot time, Instagram +10 minutes, Facebook +20 minutes. Stories: Instagram 12:30 and 21:00, Facebook +5, TikTok +10.</p></div>' +
+      '<div class="card"><h2>Two story slots</h2>' + DATA.storiesMeta.slots.map(function (s) {
+        return '<p><strong>' + esc(s.time) + ' · ' + esc(s.type) + '</strong><br><span class="muted small">' + esc(s.objective) + '</span></p>';
+      }).join('') + '</div>' +
+      '<div class="card"><h2>LinkedIn</h2><p class="small">' + esc(DATA.linkedinMeta.cadence) + '</p><p class="small muted">' + DATA.linkedinMeta.rules.map(esc).join(' · ') + '</p></div>';
+  }
+
+  function statusPills(item, platform) {
+    var pl = placementOf(item.id, platform);
+    var st = pstate(pl.placementId).status;
+    return '<button class="platbtn" data-post="' + esc(item.id) + '" data-platform="' + esc(platform) + '">' +
+      '<strong>' + esc(platform) + '</strong><span class="small">' + esc(pl.time) + ' · ' + esc(pl.format || '') + '</span>' +
+      '<span class="statuspill status-' + st.toLowerCase().replace(/ /g, '-') + '">' + esc(st) + '</span></button>';
+  }
+
+  function slotRow(p) {
+    var plats = ['TikTok', 'Instagram', 'Facebook'];
+    return '<div class="slotrow"><div class="slottime"><span class="eyebrow">S' + p.slot + '</span><strong>' + esc(p.time) + '</strong>' +
+      '<div class="small muted">' + esc(p.series) + '</div></div><div class="slotmain">' +
+      '<button class="slotlink" data-post="' + esc(p.id) + '">' + esc(p.topic) + '</button>' +
+      '<p class="small muted">' + esc(p.format) + ' · ' + esc(p.cta) + (p.verification ? ' · <span class="badge hold">HOLD · trend gate</span>' : '') + '</p></div>' +
+      '<div class="slotplatforms">' + plats.map(function (x) { return statusPills(p, x); }).join('') + '</div></div>';
+  }
+
+  function storyRow(s) {
+    return '<div class="slotrow"><div class="slottime"><span class="eyebrow">' + esc(s.slot) + '</span><strong>' + esc(s.time) + '</strong>' +
+      '<div class="small muted">' + esc(s.series) + '</div></div><div class="slotmain">' +
+      '<button class="slotlink" data-post="' + esc(s.id) + '">' + esc(s.frames[0]) + '</button>' +
+      '<p class="small muted">' + esc(s.sticker) + ' · ' + esc(s.duration) + '</p></div>' +
+      '<div class="slotplatforms">' + ['Instagram', 'Facebook', 'TikTok'].map(function (x) { return statusPills(s, x); }).join('') + '</div></div>';
+  }
+
+  function renderPlan() {
+    var d = dayObj(selectedDay);
+    var dayPosts = DATA.posts.filter(function (p) { return p.day === selectedDay; });
+    var dayStories = DATA.stories.filter(function (s) { return s.day === selectedDay; });
+    var done = DATA.placements.filter(function (pl) { return pl.day === selectedDay && pstate(pl.placementId).status !== 'Draft'; }).length;
+    var total = DATA.placements.filter(function (pl) { return pl.day === selectedDay; }).length;
+    content.innerHTML =
+      '<div class="dayhead"><div><p class="eyebrow">Day ' + d.day + ' · ' + dateLabel(d.iso) + '</p>' +
+      '<h2>11 posts · 2 stories · ' + total + ' placements</h2></div>' +
+      '<div class="actions"><button class="btn secondary" id="prevDay">← Previous</button>' +
+      '<button class="btn secondary" id="nextDay">Next →</button>' +
+      '<button class="btn" id="copyDay">Copy this day</button></div></div>' +
+      '<p class="small muted">' + done + ' of ' + total + ' placements moved past Draft. Offer today: ' + esc(d.offerKeyword) + '.</p>' +
+      dayPosts.map(slotRow).join('') +
+      '<h3 style="margin-top:26px">Stories</h3>' + dayStories.map(storyRow).join('') +
+      '<div class="actions"><button class="btn secondary" data-view="stories">All stories →</button>' +
+      '<button class="btn secondary" data-view="briefs">Search briefs →</button></div>';
+    document.getElementById('prevDay').onclick = function () { selectedDay = Math.max(1, selectedDay - 1); render(); };
+    document.getElementById('nextDay').onclick = function () { selectedDay = Math.min(DATA.days.length, selectedDay + 1); render(); };
+    document.getElementById('copyDay').onclick = function () {
+      var lines = dayPosts.map(function (p) {
+        return p.time + ' S' + p.slot + ' — ' + p.topic + '\n' + p.cta;
+      }).concat(dayStories.map(function (s) { return s.time + ' STORY — ' + s.frames[0]; }));
+      copy('Day ' + d.day + ' · ' + d.iso + '\n\n' + lines.join('\n\n'));
+    };
+    bindRows();
+  }
+
+  function renderStories() {
+    var rows = DATA.days.map(function (d) {
+      var ss = DATA.stories.filter(function (s) { return s.day === d.day; });
+      return '<div class="card"><div class="card-head"><div><p class="eyebrow">Day ' + d.day + ' · ' + dateLabel(d.iso) + '</p>' +
+        '<h3>' + esc(ss[0].frames[0]) + '</h3></div><span class="badge">' + ss.length + ' stories</span></div>' +
+        ss.map(function (s) {
+          return '<div class="block"><h4>' + esc(s.time) + ' · ' + esc(s.series) + '</h4>' +
+            s.frames.map(function (f, i) { return '<p><strong>Frame ' + (i + 1) + '.</strong> ' + nl(f) + '</p>'; }).join('') +
+            '<p class="small muted">Sticker: ' + esc(s.sticker) + ' · CTA: ' + esc(s.cta) + '</p>' +
+            '<div class="slotplatforms">' + ['Instagram', 'Facebook', 'TikTok'].map(function (x) { return statusPills(s, x); }).join('') + '</div>' +
+            '<div class="actions"><button class="btn secondary" data-copy="' + esc(s.frames.join('\n\n')) + '">Copy frames</button></div></div>';
+        }).join('') + '</div>';
+    }).join('');
+    content.innerHTML = '<p class="eyebrow" style="margin-top:28px">Two stories a day · three platforms</p>' +
+      '<h1>' + DATA.counts.stories + ' stories, one habit.</h1>' +
+      '<p class="muted">12:30 is a one-tap poll. 21:00 is the Operator teasing tomorrow. Same asset on Instagram, Facebook and TikTok within the hour.</p>' +
+      DATA.storiesMeta.rules.map(function (r) { return '<div class="notice">' + esc(r) + '</div>'; }).join('') + rows;
+    bindRows();
+  }
+
+  function renderLinkedIn() {
+    var rows = DATA.linkedin.map(function (l) {
+      return '<div class="card"><div class="card-head"><div><p class="eyebrow">' + dateLabel(l.date) + ' · ' + esc(l.time) + ' · ' + esc(l.format) + '</p>' +
+        '<h3>' + esc(l.label) + '</h3></div><span class="badge">' + esc(l.sourcePostId) + '</span></div>' +
+        '<div class="block"><h4>Post copy</h4><p>' + nl(l.body) + '</p></div>' +
+        '<p class="small muted">' + esc(l.edit) + '</p>' +
+        '<div class="slotplatforms">' + statusPills(l, 'LinkedIn') + '</div>' +
+        '<div class="actions"><button class="btn secondary" data-copy="' + esc(l.body) + '">Copy post</button></div></div>';
+    }).join('');
+    content.innerHTML = '<p class="eyebrow" style="margin-top:28px">Siphoned, not duplicated</p>' +
+      '<h1>' + DATA.counts.linkedin + ' LinkedIn posts from work already made.</h1>' +
+      '<p class="muted">' + esc(DATA.linkedinMeta.cadence) + '</p>' +
+      DATA.linkedinMeta.rules.map(function (r) { return '<div class="notice">' + esc(r) + '</div>'; }).join('') + rows;
+    bindRows();
+  }
+
+  function detail(item) {
+    var plats = platformsFor(item.id);
+    var isStory = item.type === 'Story';
+    var isLI = item.type === 'LinkedIn';
+    var h = '<p class="eyebrow">' + esc(item.date) + ' · ' + esc(item.time) + ' WAT · ' + esc(item.id) + '</p>' +
+      '<h1>' + esc(item.topic || item.label || item.series) + '</h1>' +
+      '<p class="small muted">' + esc(item.series || '') + ' · ' + esc(item.format || '') + (item.psych ? ' · Psychology: ' + esc(item.psych.name) : '') + '</p>' +
+      '<div class="card"><div class="block"><h4>' + (isStory ? 'Frames' : isLI ? 'Post copy' : 'Exact copy') + '</h4><p>' + nl(isStory ? item.frames.join('\n\n') : isLI ? item.body : bodyOf(item)) + '</p></div>' +
+      '<div class="block"><h4>Single CTA</h4><p>' + esc(item.cta) + '</p></div>' +
+      (item.psych ? '<div class="block"><h4>Psychology move</h4><p>' + esc(item.psych.use) + '<br><span class="small muted">Guard: ' + esc(item.psych.guard) + '</span></p></div>' : '') +
+      (item.visual ? '<div class="block"><h4>Visual and edit</h4><p>' + nl(item.visual) + '</p><p>' + nl(item.edit || '') + '</p></div>' : '') +
+      (item.prompt ? '<details><summary>Filled production prompt</summary><div class="prompt">' + esc(item.prompt) + '</div></details>' : '') +
+      (item.fallback ? '<details><summary>Fallback</summary><p>' + esc(item.fallback) + '</p></details>' : '') +
+      '</div>' +
+      '<h3>Platforms</h3>' + plats.map(function (platform) {
+        var pl = placementOf(item.id, platform);
+        var ps = pstate(pl.placementId);
+        var checks = checkState(pl.placementId, item);
+        var labels = checksFor(isStory ? 'story' : isLI ? 'linkedin' : 'content', item);
+        return '<div class="card"><div class="card-head"><div><h3>' + esc(platform) + '</h3><p class="small muted">' + esc(pl.time) + ' WAT · ' + esc(pl.format || '') + '</p></div>' +
+          '<select data-status="' + esc(pl.placementId) + '">' + STATUSES.map(function (s) { return '<option' + (ps.status === s ? ' selected' : '') + '>' + esc(s) + '</option>'; }).join('') + '</select></div>' +
+          '<div class="block"><h4>Caption</h4><p>' + nl(pl.caption) + '</p></div>' +
+          '<div class="actions"><button class="btn secondary" data-copy="' + esc(pl.caption) + '">Copy caption</button>' +
+          '<button class="btn secondary" data-copy="' + esc(pl.caption + '\n\n' + (item.hook || '')) + '">Copy with hook</button></div>' +
+          '<div class="block"><h4>QA</h4>' + labels.map(function (lab, i) {
+            return '<label class="check"><input type="checkbox" data-check="' + esc(pl.placementId) + '" data-index="' + i + '"' + (checks[i] ? ' checked' : '') + '><span>' + esc(lab) + '</span></label>';
+          }).join('') + '</div>' +
+          '<div class="block"><h4>Notes</h4><textarea data-note="' + esc(pl.placementId) + '">' + esc(ps.note) + '</textarea></div>' +
+          '<div class="block"><h4>Actual post URL</h4><input data-url="' + esc(pl.placementId) + '" value="' + esc(ps.actualUrl) + '" placeholder="Paste after publishing" style="width:100%"></div>' +
+          '</div>';
+      }).join('') +
+      '<div class="actions"><button class="btn secondary" id="closeDetail">← Back</button></div>';
+    content.innerHTML = h;
+    document.querySelectorAll('[data-status]').forEach(function (el) {
+      el.onchange = function () { pstate(el.dataset.status).status = el.value; save(); toast('Status saved'); };
+    });
+    document.querySelectorAll('[data-check]').forEach(function (el) {
+      el.onchange = function () { pstate(el.dataset.check).checks[el.dataset.index] = el.checked; save(); };
+    });
+    document.querySelectorAll('[data-note]').forEach(function (el) {
+      el.onchange = function () { pstate(el.dataset.note).note = el.value; save(); };
+    });
+    document.querySelectorAll('[data-url]').forEach(function (el) {
+      el.onchange = function () { pstate(el.dataset.url).actualUrl = el.value; save(); };
+    });
+    document.querySelectorAll('[data-copy]').forEach(function (el) {
+      el.onclick = function () { copy(el.dataset.copy); };
+    });
+    document.getElementById('closeDetail').onclick = function () { render(); };
+  }
+
+  function openItem(id) {
+    var item = post(id) || story(id) || linkedin(id);
+    if (item) detail(item);
+  }
+
+  function bindRows() {
+    document.querySelectorAll('[data-post]').forEach(function (el) {
+      el.onclick = function () { openItem(el.dataset.post); };
+    });
+    document.querySelectorAll('[data-copy]').forEach(function (el) {
+      el.onclick = function (e) { e.stopPropagation(); copy(el.dataset.copy); };
+    });
+    document.querySelectorAll('[data-view]').forEach(function (el) {
+      el.onclick = function () { view = el.dataset.view; render(); };
+    });
+  }
+
+  function renderBriefs() {
+    var all = DATA.posts.concat(DATA.stories, DATA.linkedin);
+    var list = all.filter(function (p) {
+      if (seriesFilter !== 'all' && p.seriesKey !== seriesFilter) return false;
+      if (!query) return true;
+      return (JSON.stringify(p).toLowerCase().indexOf(query.toLowerCase()) >= 0);
+    }).slice(0, 60);
+    content.innerHTML = '<p class="eyebrow" style="margin-top:28px">Search every brief</p>' +
+      '<h1>' + all.length + ' items, one index.</h1>' +
+      '<div class="filters"><input id="q" placeholder="Search topic, offer, myth, scene…" value="' + esc(query) + '" style="min-width:240px">' +
+      '<select id="seriesFilter"><option value="all">All series</option>' + DATA.series.map(function (s) {
+        return '<option value="' + esc(s.key) + '"' + (seriesFilter === s.key ? ' selected' : '') + '>' + esc(s.name) + '</option>';
+      }).join('') + '</select></div>' +
+      '<div class="searchlist">' + list.map(function (p) {
+        return '<button class="btn secondary" data-post="' + esc(p.id) + '">' + esc(p.id) + ' · ' + esc((p.topic || p.label || p.series).slice(0, 44)) + '</button>';
+      }).join('') + '</div>' +
+      '<p class="small muted" style="margin-top:14px">Showing ' + list.length + ' of ' + all.length + '.</p>';
+    var q = document.getElementById('q');
+    q.oninput = function () { query = q.value; renderBriefs(); };
+    var sf = document.getElementById('seriesFilter');
+    sf.onchange = function () { seriesFilter = sf.value; renderBriefs(); };
+    bindRows();
+  }
+
+  function renderBatches() {
+    var weeks = [];
+    for (var i = 0; i < DATA.days.length; i += 7) weeks.push(DATA.days.slice(i, i + 7));
+    var rows = weeks.map(function (week, wi) {
+      var ids = week.reduce(function (acc, d) {
+        return acc.concat(DATA.placements.filter(function (pl) { return pl.day === d.day; }).map(function (pl) { return pl.placementId; }));
+      }, []);
+      var moved = ids.filter(function (id) { return state.placements[id] && state.placements[id].status !== 'Draft'; }).length;
+      return '<div class="card"><div class="card-head"><div><p class="eyebrow">Week ' + (wi + 1) + '</p><h3>' +
+        dateLabel(week[0].iso) + ' – ' + dateLabel(week[week.length - 1].iso) + '</h3></div><span class="badge">' + moved + '/' + ids.length + '</span></div>' +
+        '<div class="progressrow"><span>Content posts</span><span>' + (week.length * 11) + '</span></div>' +
+        '<div class="progressrow"><span>Stories</span><span>' + (week.length * 2) + '</span></div>' +
+        '<div class="progressrow"><span>LinkedIn pulls</span><span>' + DATA.linkedin.filter(function (l) { return l.day >= week[0].day && l.day <= week[week.length - 1].day; }).length + '</span></div>' +
+        '<div class="progressrow"><span>Placements moved past Draft</span><span>' + moved + ' of ' + ids.length + '</span></div>' +
+        '<div class="actions"><button class="btn secondary" data-week="' + wi + '">Open week</button>' +
+        '<button class="btn secondary" data-export-week="' + wi + '">Export week CSV</button></div></div>';
+    }).join('');
+    content.innerHTML = '<p class="eyebrow" style="margin-top:28px">Batch by week, not by panic</p><h1>Five weeks, planned backwards.</h1>' +
+      '<p class="muted">Produce one week at a time. Hold failed slots instead of stacking catch-up posts.</p>' + rows;
+    document.querySelectorAll('[data-week]').forEach(function (el) {
+      el.onclick = function () { selectedDay = weeks[Number(el.dataset.week)][0].day; view = 'plan'; render(); };
+    });
+    document.querySelectorAll('[data-export-week]').forEach(function (el) {
+      el.onclick = function () { exportCSV(weeks[Number(el.dataset.exportWeek)]); };
+    });
+  }
+
+  function renderTools() {
+    content.innerHTML = '<p class="eyebrow" style="margin-top:28px">Exports and backups</p><h1>Take the work with you.</h1>' +
+      '<p class="muted">Statuses, QA checks, notes and URLs live in this browser only. Export a backup before changing devices.</p>' +
+      '<div class="card"><h3>Exports</h3><div class="actions">' +
+      '<button class="btn" id="expAll">Export all placements CSV</button>' +
+      '<button class="btn secondary" id="expW1">Export week 1</button>' +
+      '<button class="btn secondary" id="expContent">Export 330 post copy</button>' +
+      '<button class="btn secondary" id="expStories">Export 60 stories</button>' +
+      '<button class="btn secondary" id="expLinkedIn">Export LinkedIn set</button></div></div>' +
+      '<div class="card"><h3>Backup</h3><div class="actions">' +
+      '<button class="btn" id="expJson">Export JSON backup</button>' +
+      '<label class="btn secondary" style="cursor:pointer">Import JSON<input type="file" id="impJson" accept="application/json" class="hide"></label>' +
+      '<button class="btn danger" id="reset">Reset all progress</button></div></div>' +
+      '<div class="card"><h3>Rules</h3><p class="small">Trend Desk stays HOLD until verified. Offers need price, contents and DIY boundary confirmed. The AI presenter is anonymised and disclosed. One CTA per placement.</p></div>';
+    document.getElementById('expAll').onclick = function () { exportCSV(DATA.days); };
+    document.getElementById('expW1').onclick = function () { exportCSV(DATA.days.slice(0, 7)); };
+    document.getElementById('expContent').onclick = function () { exportItems(DATA.posts, 'easywurld-330-posts.csv'); };
+    document.getElementById('expStories').onclick = function () { exportItems(DATA.stories, 'easywurld-60-stories.csv'); };
+    document.getElementById('expLinkedIn').onclick = function () { exportItems(DATA.linkedin, 'easywurld-linkedin.csv'); };
+    document.getElementById('expJson').onclick = function () {
+      download(JSON.stringify({ version: VERSION, campaign: DATA.startDate, placements: state.placements, notes: state.notes }, null, 2), 'easywurld-progress.json', 'application/json');
+    };
+    document.getElementById('impJson').onchange = function (e) {
+      var file = e.target.files[0]; if (!file) return;
+      var r = new FileReader();
+      r.onload = function () {
+        try {
+          var j = JSON.parse(r.result);
+          state.placements = j.placements || {}; state.notes = j.notes || {};
+          save(); toast('Backup imported'); render();
+        } catch (err) { toast('That file is not a valid backup'); }
+      };
+      r.readAsText(file);
+    };
+    document.getElementById('reset').onclick = function () {
+      if (!confirm('Clear every status, check, note and URL?')) return;
+      state = { placements: {}, notes: {} }; save(); toast('Progress cleared'); render();
+    };
+  }
+
+  /* ---------------- exports ---------------- */
+  function download(text, name, type) {
+    var blob = new Blob([text], { type: type || 'text/csv;charset=utf-8' });
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(blob); a.download = name; document.body.appendChild(a); a.click();
+    setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+    toast('Downloaded ' + name);
+  }
+  function csvCell(v) { return '"' + String(v == null ? '' : v).replace(/"/g, '""') + '"'; }
+  function exportCSV(days) {
+    var rows = [['Type', 'Date', 'Platform', 'Time', 'Post ID', 'Placement ID', 'Series', 'Topic', 'Caption', 'CTA', 'Status', 'Checks complete', 'Notes', 'Actual URL']];
+    var ids = days.map(function (d) { return d.day; });
+    DATA.placements.filter(function (pl) { return ids.indexOf(pl.day) >= 0; }).forEach(function (pl) {
+      var ps = pstate(pl.placementId);
+      var item = post(pl.postId) || story(pl.postId) || linkedin(pl.postId);
+      var checks = checksFor(pl.type === 'Story' ? 'story' : pl.type === 'LinkedIn' ? 'linkedin' : 'content', item);
+      var done = Object.keys(ps.checks || {}).filter(function (k) { return ps.checks[k]; }).length;
+      rows.push([pl.type, pl.date, pl.platform, pl.time, pl.postId, pl.placementId, pl.series, pl.topic, pl.caption, pl.cta, ps.status, done + '/' + checks.length, ps.note, ps.actualUrl]);
+    });
+    download(rows.map(function (r) { return r.map(csvCell).join(','); }).join('\n'), 'easywurld-placements.csv');
+  }
+  function exportItems(items, name) {
+    var rows = [['ID', 'Type', 'Date', 'Time', 'Series', 'Format', 'Topic', 'Copy', 'CTA', 'Platforms', 'Status']];
+    items.forEach(function (it) {
+      var plats = platformsFor(it.id);
+      var status = plats.map(function (p) { return p + ':' + pstate(placementOf(it.id, p).placementId).status; }).join(' | ');
+      rows.push([it.id, it.type || 'Content', it.date, it.time, it.series, it.format || '', it.topic || it.label || '', bodyOf(it), it.cta, plats.join(' + '), status]);
+    });
+    download(rows.map(function (r) { return r.map(csvCell).join(','); }).join('\n'), name);
+  }
+
+  /* ---------------- boot ---------------- */
+  document.querySelectorAll('nav button').forEach(function (b) {
+    b.onclick = function () { view = b.dataset.view; render(); };
+  });
+  render();
+})();

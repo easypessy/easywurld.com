@@ -1,529 +1,3367 @@
-# Easywurld — Meme Bank
+# Easywurld — original meme bank
+
+**60 scheduled meme slots in the active 1,196-placement campaign.**
+
+Two scene-led memes a day, 2 November–1 December 2026. Each one is a real photograph of the moment — the empty plastic chairs, the face-down phone, the blank screen — with a small two-line caption in the lower third. Not a wall of text, not a borrowed template, not a customer screenshot. The caption under the post carries the useful resolution.
+
+| Date | Slot | Post | Scene plate | On-image line | Asset |
+|---|---:|---|---|---|---|
+| 2026-11-02 | S5 | EW-D01-S05 | empty-shop | Client said 'I'll get back to you.' | `marketing/assets/memes/EW-D01-S05.jpg` |
+| 2026-11-02 | S8 | EW-D01-S08 | inbox | AI: I can automate that. Also AI: invents the price. | `marketing/assets/memes/EW-D01-S08.jpg` |
+| 2026-11-03 | S5 | EW-D02-S05 | blank-screen | 27 tabs open. Still no post. | `marketing/assets/memes/EW-D02-S05.jpg` |
+| 2026-11-03 | S8 | EW-D02-S08 | market | The algorithm changed. The customer question did not. | `marketing/assets/memes/EW-D02-S08.jpg` |
+| 2026-11-04 | S5 | EW-D03-S05 | notebook | The content plan said 9am. The generator said otherwise. | `marketing/assets/memes/EW-D03-S05.jpg` |
+| 2026-11-04 | S8 | EW-D03-S08 | ledger | Marketing guru: post 10 times a day. Also: never repeat yourself. | `marketing/assets/memes/EW-D03-S08.jpg` |
+| 2026-11-05 | S5 | EW-D04-S05 | inbox | Everyone wants viral. Nobody wants to answer the DMs. | `marketing/assets/memes/EW-D04-S05.jpg` |
+| 2026-11-05 | S8 | EW-D04-S08 | rain-window | The chatbot is confident. The knowledge sheet is empty. | `marketing/assets/memes/EW-D04-S08.jpg` |
+| 2026-11-06 | S5 | EW-D05-S05 | market | The brief: 'make it simple.' The reference: 47 slides. | `marketing/assets/memes/EW-D05-S05.jpg` |
+| 2026-11-06 | S8 | EW-D05-S08 | desk-phone | The caption has 30 hashtags. The hook has no point. | `marketing/assets/memes/EW-D05-S08.jpg` |
+| 2026-11-07 | S5 | EW-D06-S05 | ledger | Posted at the perfect time. Forgot the link. | `marketing/assets/memes/EW-D06-S05.jpg` |
+| 2026-11-07 | S8 | EW-D06-S08 | empty-shop | The client wants authentic. The script sounds like a press release. | `marketing/assets/memes/EW-D06-S08.jpg` |
+| 2026-11-08 | S5 | EW-D07-S05 | rain-window | The customer asked for price. We sent a novel. | `marketing/assets/memes/EW-D07-S05.jpg` |
+| 2026-11-08 | S8 | EW-D07-S08 | blank-screen | The trend is funny. The brand has no connection. | `marketing/assets/memes/EW-D07-S08.jpg` |
+| 2026-11-09 | S5 | EW-D08-S05 | desk-phone | New month. New niche. Same confused bio. | `marketing/assets/memes/EW-D08-S05.jpg` |
+| 2026-11-09 | S8 | EW-D08-S08 | notebook | The carousel has 10 slides. Slide 1 is a paragraph. | `marketing/assets/memes/EW-D08-S08.jpg` |
+| 2026-11-10 | S5 | EW-D09-S05 | empty-shop | The camera is ready. The script is 'vibes'. | `marketing/assets/memes/EW-D09-S05.jpg` |
+| 2026-11-10 | S8 | EW-D09-S08 | inbox | The AI voice says 'Easy-world'. | `marketing/assets/memes/EW-D09-S08.jpg` |
+| 2026-11-11 | S5 | EW-D10-S05 | blank-screen | We need more content. We have no photos. | `marketing/assets/memes/EW-D10-S05.jpg` |
+| 2026-11-11 | S8 | EW-D10-S08 | market | The scheduler is connected. The disclosure is missing. | `marketing/assets/memes/EW-D10-S08.jpg` |
+| 2026-11-12 | S5 | EW-D11-S05 | notebook | The client wants organic growth. By Friday. | `marketing/assets/memes/EW-D11-S05.jpg` |
+| 2026-11-12 | S8 | EW-D11-S08 | ledger | The post is boosted. The reply is slow. | `marketing/assets/memes/EW-D11-S08.jpg` |
+| 2026-11-13 | S5 | EW-D12-S05 | inbox | The meme got shares. The offer got silence. | `marketing/assets/memes/EW-D12-S05.jpg` |
+| 2026-11-13 | S8 | EW-D12-S08 | rain-window | The brief says target everyone. | `marketing/assets/memes/EW-D12-S08.jpg` |
+| 2026-11-14 | S5 | EW-D13-S05 | market | The website is live. The phone number is old. | `marketing/assets/memes/EW-D13-S05.jpg` |
+| 2026-11-14 | S8 | EW-D13-S08 | desk-phone | The sample has fake metrics. | `marketing/assets/memes/EW-D13-S08.jpg` |
+| 2026-11-15 | S5 | EW-D14-S05 | ledger | The AI wrote 30 posts. All 30 sound like a brochure. | `marketing/assets/memes/EW-D14-S05.jpg` |
+| 2026-11-15 | S8 | EW-D14-S08 | empty-shop | The meme mocks the customer. | `marketing/assets/memes/EW-D14-S08.jpg` |
+| 2026-11-16 | S5 | EW-D15-S05 | rain-window | The customer said 'quick one'. It has been 40 minutes. | `marketing/assets/memes/EW-D15-S05.jpg` |
+| 2026-11-16 | S8 | EW-D15-S08 | blank-screen | The content is repurposed. The crop is wrong. | `marketing/assets/memes/EW-D15-S08.jpg` |
+| 2026-11-17 | S5 | EW-D16-S05 | desk-phone | The grid looks perfect. The inbox is empty. | `marketing/assets/memes/EW-D16-S05.jpg` |
+| 2026-11-17 | S8 | EW-D16-S08 | notebook | The AI wrote a testimonial. | `marketing/assets/memes/EW-D16-S08.jpg` |
+| 2026-11-18 | S5 | EW-D17-S05 | empty-shop | The trend expired while we were approving it. | `marketing/assets/memes/EW-D17-S05.jpg` |
+| 2026-11-18 | S8 | EW-D17-S08 | inbox | The offer is clear. The CTA is 'engage'. | `marketing/assets/memes/EW-D17-S08.jpg` |
+| 2026-11-19 | S5 | EW-D18-S05 | blank-screen | The founder is the brand. The founder is tired. | `marketing/assets/memes/EW-D18-S05.jpg` |
+| 2026-11-19 | S8 | EW-D18-S08 | market | The trend report is from last month. The caption says 'now'. | `marketing/assets/memes/EW-D18-S08.jpg` |
+| 2026-11-20 | S5 | EW-D19-S05 | notebook | The discount worked. The margin cried. | `marketing/assets/memes/EW-D19-S05.jpg` |
+| 2026-11-20 | S8 | EW-D19-S08 | ledger | The expert said steal this copy. | `marketing/assets/memes/EW-D19-S08.jpg` |
+| 2026-11-21 | S5 | EW-D20-S05 | inbox | The client sent a voice note. It is 11 minutes. | `marketing/assets/memes/EW-D20-S05.jpg` |
+| 2026-11-21 | S8 | EW-D20-S08 | rain-window | The calendar is full. The review is empty. | `marketing/assets/memes/EW-D20-S08.jpg` |
+| 2026-11-22 | S5 | EW-D21-S05 | market | The post says DM us. The DMs are off. | `marketing/assets/memes/EW-D21-S05.jpg` |
+| 2026-11-22 | S8 | EW-D21-S08 | desk-phone | The avatar looks human. The consent is missing. | `marketing/assets/memes/EW-D21-S08.jpg` |
+| 2026-11-23 | S5 | EW-D22-S05 | ledger | The content calendar is full. The offer is unclear. | `marketing/assets/memes/EW-D22-S05.jpg` |
+| 2026-11-23 | S8 | EW-D22-S08 | empty-shop | The post says limited time. The offer is always available. | `marketing/assets/memes/EW-D22-S08.jpg` |
+| 2026-11-24 | S5 | EW-D23-S05 | rain-window | The customer wants a website. They need a message. | `marketing/assets/memes/EW-D23-S05.jpg` |
+| 2026-11-24 | S8 | EW-D23-S08 | blank-screen | The AI summary missed the one decision needed. | `marketing/assets/memes/EW-D23-S08.jpg` |
+| 2026-11-25 | S5 | EW-D24-S05 | desk-phone | The reel is 15 seconds. The explanation is 90. | `marketing/assets/memes/EW-D24-S05.jpg` |
+| 2026-11-25 | S8 | EW-D24-S08 | notebook | The brand voice is 'professional'. The examples are robotic. | `marketing/assets/memes/EW-D24-S08.jpg` |
+| 2026-11-26 | S5 | EW-D25-S05 | empty-shop | The sample looks real. The label is missing. | `marketing/assets/memes/EW-D25-S05.jpg` |
+| 2026-11-26 | S8 | EW-D25-S08 | inbox | The customer wants more followers. The offer is unclear. | `marketing/assets/memes/EW-D25-S08.jpg` |
+| 2026-11-27 | S5 | EW-D26-S05 | blank-screen | The team is waiting for inspiration. The deadline is not. | `marketing/assets/memes/EW-D26-S05.jpg` |
+| 2026-11-27 | S8 | EW-D26-S08 | market | The screen demo is unreadable. | `marketing/assets/memes/EW-D26-S08.jpg` |
+| 2026-11-28 | S5 | EW-D27-S05 | notebook | The ad is running. The page is confusing. | `marketing/assets/memes/EW-D27-S05.jpg` |
+| 2026-11-28 | S8 | EW-D27-S08 | ledger | The post is scheduled. The price changed. | `marketing/assets/memes/EW-D27-S08.jpg` |
+| 2026-11-29 | S5 | EW-D28-S05 | inbox | The customer asked for a logo. They needed a plan. | `marketing/assets/memes/EW-D28-S05.jpg` |
+| 2026-11-29 | S8 | EW-D28-S08 | rain-window | The content is useful. The follow-up is missing. | `marketing/assets/memes/EW-D28-S08.jpg` |
+| 2026-11-30 | S5 | EW-D29-S05 | market | The post is educational. The CTA is unrelated. | `marketing/assets/memes/EW-D29-S05.jpg` |
+| 2026-11-30 | S8 | EW-D29-S08 | desk-phone | The AI says it cannot browse. The caption says 'latest trend'. | `marketing/assets/memes/EW-D29-S08.jpg` |
+| 2026-12-01 | S5 | EW-D30-S05 | ledger | Month end. We need a success story. | `marketing/assets/memes/EW-D30-S05.jpg` |
+| 2026-12-01 | S8 | EW-D30-S08 | empty-shop | The campaign ended. The learning did not. | `marketing/assets/memes/EW-D30-S08.jpg` |
 
-**30 days, 37 memes, every one of them already scheduled.**
+## EW-D01-S05 · Client said 'I'll get back to you.'
 
-This is not a list of ideas. Every meme below is a post that is in the calendar, with
-the words to type on it. If you build the meme on this page, the day is done.
+**2026-11-02 · 13:00 WAT · Meme: owner life · scene empty-shop**
 
-**A meme is not a caption with a font. It is a picture and a reaction.**
+**On-image copy (small, lower third)**
 
-**How to build one in 10 minutes**
-
-1. Open the day in the Post Commander app and tap the meme post.
-2. Use any free meme generator, or Canva. Type the text exactly as written here.
-3. Keep the Easywurld colours: cream `#FAE7C7` background, deep green `#0A4937` text,
-   one terracotta `#9E4E2C` accent if you want it. No gradients, no stock photos, no
-   drop shadows.
-4. Post it as a plain image. Do not put a logo on it. Let the joke carry it.
-5. Do not add a sales pitch to a meme. The morning meme is context, the evening meme
-   is the share.
-
-**Before you post it, check three things**
-
-- Would a customer find this funny? If it is only funny to other marketers, skip it.
-- Is it a punch down at a customer, a competitor or a country? Skip it.
-- Is the joke obvious in two seconds? If you had to think, it is a caption, not a meme.
-
-**Formats used below**
-
-- *one panel*: a single line of big text on cream. Use this for the industry-insider ones.
-- *two panel*: classic, top text and bottom text.
-- *multi panel*: three or more beats, each one a short line.
-- *chat panel*: a fake chat window. Use this for customer conversations.
-
----
-
-## The bank
-
-### Day 1 · Monday 19 Oct
-
-**1. The 'okay thanks' that is not 'okay thanks'** · chat panel
-1. `Customer: 'how much?'`
-2. `Me: '₦15,000, ready in 5 days'`
-3. `Customer: 'okay, thanks'`
-4. `Me: *seen at 2:14am*`
-5. `We both know how this ends.
-One extra line fixes it.`
-
-### Day 2 · Tuesday 20 Oct
-
-**2. The homepage that says we are passionate about solutions** · multi panel
-1. `Welcome to our website, where we are passionate about delivering cutting-edge solutions`
-2. `Scroll down`
-3. `Our mission is to be your one-stop shop`
-4. `Book a consultation below`
-5. `There is no button.`
-
-### Day 3 · Wednesday 21 Oct
-
-**3. The business with no Google profile, only WhatsApp** · multi panel
-1. `My business online: one WhatsApp number and prayer`
-2. `Customer: 'are you on Google?'`
-3. `Me: 'WhatsApp is better'`
-4. `Customer: 'I found 3 others'`
-5. `Also my profile has no photos`
-
-### Day 4 · Thursday 22 Oct
-
-**4. Opening the app to post and closing it again** · chat panel
-1. `Me: I should post today`
-2. `Also me: *opens app* *stares* *closes app*`
-3. `Draft: 'Good morning everyone'`
-4. `Draft: '🙌🙌'`
-5. `Posted: nothing. Again tomorrow.`
-
-### Day 5 · Friday 23 Oct
-
-**5. The 47 services on one page** · multi panel
-1. `My services page: 47 things`
-2. `My customer: 'I need one of them'`
-3. `Brand strategy. Social media. SEO. SEM. Email.`
-4. `Also I do birthdays`
-5. `Nobody knows what you do now`
-
-### Day 6 · Saturday 24 Oct
-
-**6. Changing your business name every quarter** · multi panel
-1. `Me changing my business name again`
-2. `NEW NAME, SAME BUSINESS`
-3. `January: new logo`
-4. `April: new name`
-5. `October: back to the first name`
-
-### Day 7 · Sunday 25 Oct
-
-**7. Asking AI to write your whole business for you** · chat panel
-1. `Me: 'write my entire business strategy'`
-2. `AI: here is a 12 point plan`
-3. `Point 4: 'establish your brand identity'`
-4. `I still do not know who my customer is`
-5. `The blank page is still mine`
-
-### Day 8 · Monday 26 Oct
-
-**8. The About Us page that tells nobody anything** · multi panel
-1. `Our About Us page:`
-2. `Founded with a passion for excellence`
-3. `Leading provider of innovative solutions`
-4. `Your trusted partner since 2019`
-5. `Customer: so what do you actually do?`
-6. `Say what you do, for whom,
-and what happens next.`
-
-**9. The website feedback thread that is just vibes** · multi panel
-1. `My cousin looked at my site and said:`
-2. `Make it pop more`
-3. `The colour is a bit too... you know`
-4. `Can we add a pop-up?`
-5. `Me: what should it say?`
-6. `Feedback without a question
-attached is noise with confidence.`
-
-### Day 9 · Tuesday 27 Oct
-
-**10. Seven agencies, seven invoices, one business** · multi panel
-1. `One business. Seven suppliers.`
-2. `The designer never speaks
-to the copywriter.`
-3. `The copywriter does not
-know the price.`
-4. `The ads person used
-last year's logo.`
-5. `And nobody owns the result.`
-
-### Day 10 · Wednesday 28 Oct
-
-**11. The customer who says it is too expensive** · chat panel
-1. `Customer: it is too expensive`
-2. `Me: how much were you
-hoping to spend?`
-3. `Customer: I do not know`
-4. `Me: it is ₦18,000`
-5. `Customer: that is fine`
-6. `The price was never the problem.
-Nobody asked.`
-
-**12. Group chat math versus actual business math** · chat panel
-1. `Me: the business needs
-a website`
-2. `Group chat: "make it pop"`
-3. `Also group chat: "add a pop-up"`
-4. `Also group chat: "but cheaper"`
-5. `Me, quietly: a website`
-
-### Day 11 · Thursday 29 Oct
-
-**13. Just checking in** · multi panel
-1. `Hi, I am just checking in
-on my previous message`
-2. `Sent on day 4. Day 9.
-Day 16. Day 23.`
-3. `Read: day 24`
-4. `Checking in is not a message.`
-5. `It is a reminder that you exist,
-sent to somebody who is busy.`
-
-**14. The customer who says call me** · chat panel
-1. `Customer: call me`
-2. `Me: I am at the shop`
-3. `Customer: okay, call me`
-4. `Me: when are you free?`
-5. `Customer: also call me`
-6. `Give two time slots, not a range.
-Nobody can reply to a range.`
-
-### Day 12 · Friday 30 Oct
-
-**15. The quick question that is not quick** · chat panel
-1. `Customer: quick question`
-2. `Me: sure`
-3. `Me: 4 hours later, still typing`
-4. `Me: it is not quick`
-5. `Ask one question early.
-A buyer answers fast.
-A browser goes quiet.`
-
-**16. The neighbour who wants to be your business partner** · multi panel
-1. `Neighbour: I have an idea,
-let us partner`
-2. `Me: what is the idea?`
-3. `Neighbour: we will do what
-you do, but with my logo`
-4. `And I take 40%`
-5. `Write the terms down before
-the first cup of coffee.
-Especially with your neighbour.`
-
-**17. The free design advice from a relative** · multi panel
-1. `My brother, who has never run
-a business, has feedback:`
-2. `It is nice but`
-3. `Maybe more like...`
-4. `He cannot say what.`
-5. `Feedback with a feeling
-is not information.
-Feedback with a reason
-is a specification.`
-
-### Day 13 · Saturday 31 Oct
-
-**18. Saturday mood versus Monday mood** · multi panel
-1. `Saturday, 6pm:
-the shop is closed`
-2. `Me: the work is done
-I am free
-I will rest`
-3. `Monday, 7am:`
-4. `Me: what is the plan`
-5. `The plan has to exist
-before you need it,
-on a Saturday.`
-
-**19. Explaining your business to someone who asked about your hobby** · multi panel
-1. `So what do you do?`
-2. `Me: I run a small business`
-3. `Them: like, what?`
-4. `Me: I make things and sell them`
-5. `Them: so it is like a hobby`
-6. `No. A hobby does not have a customer,
-a price, a delivery and a return.`
-
-### Day 14 · Sunday 1 Nov
-
-**20. The content calendar I built and then ignored** · multi panel
-1. `My content calendar, week one:`
-2. `Monday: good idea`
-3. `Wednesday: good idea`
-4. `Friday: good idea`
-5. `Saturday: good idea`
-6. `Sunday: posted at 11pm, badly`
-7. `A calendar full of ideas
-is not a plan.`
-
-### Day 15 · Monday 2 Nov
-
-**21. November me versus December me** · multi panel
-1. `November me:
-let us plan`
-2. `we will start early
-this year`
-3. `December me:`
-4. `is anybody else doing this
-or is it just me`
-5. `Every year.
-
-The only fix is doing
-the November thing
-in October.`
-
-### Day 16 · Tuesday 3 Nov
-
-**22. I am the manager** · chat panel
-1. `Customer: I want to speak
-to the manager`
-2. `Me, in the back room,
-alone, holding the phone:`
-3. `Yes. Hello.
-I am the manager.`
-4. `Also me, three months ago,
-claiming to be the owner`
-5. `The role of manager in a small
-business is mostly sounding
-like you have a plan.`
-
-### Day 17 · Wednesday 4 Nov
-
-**23. Asking AI to write your bio** · chat panel
-1. `Me: write a professional bio
-for my business`
-2. `AI: "Passionate about
-delivering excellence"`
-3. `Me: please, less brochure`
-4. `AI: "Passionate about
-delivering good stuff"`
-5. `The problem was never the tool.
-I had not written down what
-my business actually does.`
-
-**24. My business page after one AI afternoon** · multi panel
-1. `My business page after
-one AI afternoon:`
-2. `Welcome to our world of...`
-3. `We are not just a business,
-we are a family`
-4. `Let's dive into...`
-5. `My actual business:
-I sell jollof rice and I am
-very good at it.`
-
-### Day 18 · Thursday 5 Nov
-
-**25. We offer quality services for all your needs** · multi panel
-1. `Our About Us section:`
-2. `We offer quality solutions`
-3. `Tailored to your needs`
-4. `With a customer-first approach`
-5. `Customer: but what do you sell`
-6. `The owner knows exactly.
-The page filled up with the
-words that sound professional.`
-
-### Day 19 · Friday 6 Nov
-
-**26. Tell somebody about my business** · multi panel
-1. `Someone asked for
-a recommendation`
-2. `Me, thinking: my business
-is the obvious answer`
-3. `Me, out loud:
-"there is this place..."`
-4. `Them: what does it do`
-5. `Me: ...it is nice`
-6. `You are not competing for
-the recommendation.
-You are hoping somebody
-remembers you.`
-
-### Day 20 · Saturday 7 Nov
-
-**27. My business partner, according to me in 2019** · multi panel
-1. `My business partner,
-according to me in 2019:`
-2. `We will split everything
-50/50`
-3. `That was the plan.`
-4. `That was the whole plan.`
-5. `There was no second part.`
-6. `Every partnership that worked
-had one page, written down,
-while they were still friends.`
-
-### Day 21 · Sunday 8 Nov
-
-**28. My content plan versus my energy** · multi panel
-1. `My content plan:
-4 posts a day`
-2. `My actual energy:`
-3. `One good post and
-something that is not
-a good post`
-4. `Every plan is written
-on a good day.`
-5. `The ones that survive December
-assume one good day and
-one bad day, and put the
-good one first.`
-
-### Day 22 · Monday 9 Nov
-
-**29. Me choosing between nine downloads** · multi panel
-1. `Me choosing between
-nine downloads
-at ₦5,000 each:`
-2. `I only need one`
-3. `Two hours later:`
-4. `Four tabs open,
-two carts, and
-no idea where
-I started`
-5. `The person with the least
-time is the one most likely
-to buy the wrong thing.`
-
-### Day 23 · Tuesday 10 Nov
-
-**30. Every bio I have ever written** · multi panel
-1. `Every bio I have ever
-written, in order:`
-2. `We offer quality services`
-3. `Your satisfaction is our
-priority`
-4. `Empowering brands to unlock
-their potential`
-5. `And the one that worked:`
-6. `"We fix phones in Yaba,
-same day while you wait"
-
-Same business, same price.
-Only the words changed.`
-
-### Day 24 · Wednesday 11 Nov
-
-**31. My proposal is forty pages** · chat panel
-1. `Me: my proposal is
-forty pages.`
-2. `Also me: nobody has
-read past page two.`
-3. `Table of contents
-Team structure
-Our values
-Eight case studies`
-4. `And then, eventually,
-the price`
-5. `on page nineteen,
-formatted as an image so it
-cannot be copied`
-6. `I am not blaming anybody.
-I am blaming the order.`
-
-### Day 25 · Thursday 12 Nov
-
-**32. Let me think about it** · multi panel
-1. `The five stages of a chat,
-and the one sentence that
-skips to the end:`
-2. `Let me think about it`
-3. `Translation:`
-4. `I have two other people
-and I am waiting to see
-who replies first`
-5. `And then silence,
-from both sides`
-6. `The fix is not a discount.
-The fix is a next step with
-a time in it, so silence has
-a shape.`
-
-### Day 26 · Friday 13 Nov
-
-**33. Asking AI to write a caption** · multi panel
-1. `Asking AI to write a caption
-for my business`
-2. `Write a caption for my
-business`
-3. `AI: "Unlock the power of your
-brand with our unparalleled
-solutions"`
-4. `Me: yes, exactly, that is
-what I meant`
-5. `It is not`
-6. `I gave it a task and no context.
-The moment I tell it who the
-customer is and what she already
-knows, it writes like a person.`
-
-### Day 27 · Saturday 14 Nov
-
-**34. My homepage, according to the logo** · multi panel
-1. `My homepage,
-according to the logo:`
-2. `Hero image, 2.4MB,
-of a laptop on a desk`
-3. `Innovating tomorrow's
-solutions`
-4. `Three paragraphs
-of nothing`
-5. `And a contact form
-that goes nowhere`
-6. `We are not laughing at the design.
-We are laughing at the order.`
-
-### Day 28 · Sunday 15 Nov
-
-**35. My Google Business Profile** · multi panel
-1. `My Google Business Profile,
-since 2021`
-2. `Hours: "Call for info"`
-3. `Photos: one, taken in 2019,
-in the rain`
-4. `Description: "We provide
-quality services"`
-5. `And the reviews are from one
-guy who bought shoes in 2022`
-6. `A listing that is technically
-complete and practically
-invisible.`
-
-### Day 29 · Monday 16 Nov
-
-**36. November, technically** · multi panel
-1. `Me in November,
-technically`
-2. `The month that is not
-December but also not
-the year-end yet`
-3. `The month where the
-"last minute" people
-start panicking`
-4. `And the month where
-everybody says
-"next year, definitely"`
-5. `Next year is in six weeks.
-
-The people who will be ready in
-December started in October.
-The people who will start in
-December will say next year.`
-
-### Day 30 · Tuesday 17 Nov
-
-**37. Me on day 31** · multi panel
-1. `Me on day 31, having posted
-every day like a normal person`
-2. `The last two posts are just
-a photo of the shopfront,`
-3. `and a "thank you"`
-4. `And honestly?`
-5. `I might do it again
-tomorrow`
-6. `Thirty days of showing up is
-not a sprint, it is what you do on
-a day when you do not feel like
-it, and that day comes twice
-a month.`
-
----
-
-## Notes on the daily slots
-
-**Morning meme.** Keep it light. It is context, and it earns you the reach.
-
-**Evening meme.** This is the one that gets shared, because people share at night when
-they are relaxed. Put the sharpest joke here.
-
-**Never put the same meme on two platforms on the same day.** Rewrite the bottom line for
-each platform, and never crop a meme differently on two platforms, because the same
-person follows you on both.
-
-**On the days with two memes,** the first one is the morning slot and the second is the
-evening slot. The order in this file is the order in the day.
+```text
+Client said 'I'll get back to you.'
+
+The calendar also got back to nobody.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-empty-shop.png`
+
+**Caption**
+
+Client said 'I'll get back to you.'
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Overlay a small two-line caption in Inter: “Client said 'I'll get back to you.'” / “The calendar also got back to nobody.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+Client said 'I'll get back to you.'
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+Client said 'I'll get back to you.'
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+Client said 'I'll get back to you.'
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D01-S08 · AI: I can automate that. Also AI: invents the price.
+
+**2026-11-02 · 17:30 WAT · Meme: marketing / AI / clients · scene inbox**
+
+**On-image copy (small, lower third)**
+
+```text
+AI: I can automate that. Also AI: invents the price.
+
+Human review is the feature.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-inbox.png`
+
+**Caption**
+
+AI: I can automate that. Also AI: invents the price.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Overlay a small two-line caption in Inter: “AI: I can automate that. Also AI: invents the price.” / “Human review is the feature.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+AI: I can automate that. Also AI: invents the price.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+AI: I can automate that. Also AI: invents the price.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+AI: I can automate that. Also AI: invents the price.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D02-S05 · 27 tabs open. Still no post.
+
+**2026-11-03 · 13:00 WAT · Meme: owner life · scene blank-screen**
+
+**On-image copy (small, lower third)**
+
+```text
+27 tabs open. Still no post.
+
+Close 26. Answer one customer question.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-blank-screen.png`
+
+**Caption**
+
+27 tabs open. Still no post.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Overlay a small two-line caption in Inter: “27 tabs open. Still no post.” / “Close 26. Answer one customer question.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+27 tabs open. Still no post.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+27 tabs open. Still no post.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+27 tabs open. Still no post.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D02-S08 · The algorithm changed. The customer question did not.
+
+**2026-11-03 · 17:30 WAT · Meme: marketing / AI / clients · scene market**
+
+**On-image copy (small, lower third)**
+
+```text
+The algorithm changed. The customer question did not.
+
+Answer the question clearly.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-market.png`
+
+**Caption**
+
+The algorithm changed. The customer question did not.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Overlay a small two-line caption in Inter: “The algorithm changed. The customer question did not.” / “Answer the question clearly.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The algorithm changed. The customer question did not.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The algorithm changed. The customer question did not.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The algorithm changed. The customer question did not.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D03-S05 · The content plan said 9am. The generator said otherwise.
+
+**2026-11-04 · 13:00 WAT · Meme: owner life · scene notebook**
+
+**On-image copy (small, lower third)**
+
+```text
+The content plan said 9am. The generator said otherwise.
+
+Plan the workflow, not just the caption.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-notebook.png`
+
+**Caption**
+
+The content plan said 9am. The generator said otherwise.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Overlay a small two-line caption in Inter: “The content plan said 9am. The generator said otherwise.” / “Plan the workflow, not just the caption.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The content plan said 9am. The generator said otherwise.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The content plan said 9am. The generator said otherwise.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The content plan said 9am. The generator said otherwise.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D03-S08 · Marketing guru: post 10 times a day. Also: never repeat yourself.
+
+**2026-11-04 · 17:30 WAT · Meme: marketing / AI / clients · scene ledger**
+
+**On-image copy (small, lower third)**
+
+```text
+Marketing guru: post 10 times a day. Also: never repeat yourself.
+
+Series are the answer.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-ledger.png`
+
+**Caption**
+
+Marketing guru: post 10 times a day. Also: never repeat yourself.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Overlay a small two-line caption in Inter: “Marketing guru: post 10 times a day. Also: never repeat yourself.” / “Series are the answer.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+Marketing guru: post 10 times a day. Also: never repeat yourself.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+Marketing guru: post 10 times a day. Also: never repeat yourself.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+Marketing guru: post 10 times a day. Also: never repeat yourself.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D04-S05 · Everyone wants viral. Nobody wants to answer the DMs.
+
+**2026-11-05 · 13:00 WAT · Meme: owner life · scene inbox**
+
+**On-image copy (small, lower third)**
+
+```text
+Everyone wants viral. Nobody wants to answer the DMs.
+
+Attention is the start of the work.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-inbox.png`
+
+**Caption**
+
+Everyone wants viral. Nobody wants to answer the DMs.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Overlay a small two-line caption in Inter: “Everyone wants viral. Nobody wants to answer the DMs.” / “Attention is the start of the work.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+Everyone wants viral. Nobody wants to answer the DMs.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+Everyone wants viral. Nobody wants to answer the DMs.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+Everyone wants viral. Nobody wants to answer the DMs.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D04-S08 · The chatbot is confident. The knowledge sheet is empty.
+
+**2026-11-05 · 17:30 WAT · Meme: marketing / AI / clients · scene rain-window**
+
+**On-image copy (small, lower third)**
+
+```text
+The chatbot is confident. The knowledge sheet is empty.
+
+Give it boundaries and sources.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-rain-window.png`
+
+**Caption**
+
+The chatbot is confident. The knowledge sheet is empty.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Overlay a small two-line caption in Inter: “The chatbot is confident. The knowledge sheet is empty.” / “Give it boundaries and sources.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The chatbot is confident. The knowledge sheet is empty.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The chatbot is confident. The knowledge sheet is empty.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The chatbot is confident. The knowledge sheet is empty.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D05-S05 · The brief: 'make it simple.' The reference: 47 slides.
+
+**2026-11-06 · 13:00 WAT · Meme: owner life · scene market**
+
+**On-image copy (small, lower third)**
+
+```text
+The brief: 'make it simple.' The reference: 47 slides.
+
+Simple is a decision, not a font.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-market.png`
+
+**Caption**
+
+The brief: 'make it simple.' The reference: 47 slides.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Overlay a small two-line caption in Inter: “The brief: 'make it simple.' The reference: 47 slides.” / “Simple is a decision, not a font.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The brief: 'make it simple.' The reference: 47 slides.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The brief: 'make it simple.' The reference: 47 slides.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The brief: 'make it simple.' The reference: 47 slides.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D05-S08 · The caption has 30 hashtags. The hook has no point.
+
+**2026-11-06 · 17:30 WAT · Meme: marketing / AI / clients · scene desk-phone**
+
+**On-image copy (small, lower third)**
+
+```text
+The caption has 30 hashtags. The hook has no point.
+
+Spend the effort on the first sentence.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-desk-phone.png`
+
+**Caption**
+
+The caption has 30 hashtags. The hook has no point.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Overlay a small two-line caption in Inter: “The caption has 30 hashtags. The hook has no point.” / “Spend the effort on the first sentence.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The caption has 30 hashtags. The hook has no point.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The caption has 30 hashtags. The hook has no point.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The caption has 30 hashtags. The hook has no point.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D06-S05 · Posted at the perfect time. Forgot the link.
+
+**2026-11-07 · 13:00 WAT · Meme: owner life · scene ledger**
+
+**On-image copy (small, lower third)**
+
+```text
+Posted at the perfect time. Forgot the link.
+
+The journey matters more than the minute.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-ledger.png`
+
+**Caption**
+
+Posted at the perfect time. Forgot the link.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Overlay a small two-line caption in Inter: “Posted at the perfect time. Forgot the link.” / “The journey matters more than the minute.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+Posted at the perfect time. Forgot the link.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+Posted at the perfect time. Forgot the link.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+Posted at the perfect time. Forgot the link.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D06-S08 · The client wants authentic. The script sounds like a press release.
+
+**2026-11-07 · 17:30 WAT · Meme: marketing / AI / clients · scene empty-shop**
+
+**On-image copy (small, lower third)**
+
+```text
+The client wants authentic. The script sounds like a press release.
+
+Write like a person with facts.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-empty-shop.png`
+
+**Caption**
+
+The client wants authentic. The script sounds like a press release.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Overlay a small two-line caption in Inter: “The client wants authentic. The script sounds like a press release.” / “Write like a person with facts.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The client wants authentic. The script sounds like a press release.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The client wants authentic. The script sounds like a press release.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The client wants authentic. The script sounds like a press release.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D07-S05 · The customer asked for price. We sent a novel.
+
+**2026-11-08 · 13:00 WAT · Meme: owner life · scene rain-window**
+
+**On-image copy (small, lower third)**
+
+```text
+The customer asked for price. We sent a novel.
+
+Answer the question, then add the next step.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-rain-window.png`
+
+**Caption**
+
+The customer asked for price. We sent a novel.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Overlay a small two-line caption in Inter: “The customer asked for price. We sent a novel.” / “Answer the question, then add the next step.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The customer asked for price. We sent a novel.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The customer asked for price. We sent a novel.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The customer asked for price. We sent a novel.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D07-S08 · The trend is funny. The brand has no connection.
+
+**2026-11-08 · 17:30 WAT · Meme: marketing / AI / clients · scene blank-screen**
+
+**On-image copy (small, lower third)**
+
+```text
+The trend is funny. The brand has no connection.
+
+Skip it or adapt the structure.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-blank-screen.png`
+
+**Caption**
+
+The trend is funny. The brand has no connection.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Overlay a small two-line caption in Inter: “The trend is funny. The brand has no connection.” / “Skip it or adapt the structure.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The trend is funny. The brand has no connection.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The trend is funny. The brand has no connection.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The trend is funny. The brand has no connection.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D08-S05 · New month. New niche. Same confused bio.
+
+**2026-11-09 · 13:00 WAT · Meme: owner life · scene desk-phone**
+
+**On-image copy (small, lower third)**
+
+```text
+New month. New niche. Same confused bio.
+
+Consistency beats reinvention.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-desk-phone.png`
+
+**Caption**
+
+New month. New niche. Same confused bio.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Overlay a small two-line caption in Inter: “New month. New niche. Same confused bio.” / “Consistency beats reinvention.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+New month. New niche. Same confused bio.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+New month. New niche. Same confused bio.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+New month. New niche. Same confused bio.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D08-S08 · The carousel has 10 slides. Slide 1 is a paragraph.
+
+**2026-11-09 · 17:30 WAT · Meme: marketing / AI / clients · scene notebook**
+
+**On-image copy (small, lower third)**
+
+```text
+The carousel has 10 slides. Slide 1 is a paragraph.
+
+One idea per slide.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-notebook.png`
+
+**Caption**
+
+The carousel has 10 slides. Slide 1 is a paragraph.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Overlay a small two-line caption in Inter: “The carousel has 10 slides. Slide 1 is a paragraph.” / “One idea per slide.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The carousel has 10 slides. Slide 1 is a paragraph.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The carousel has 10 slides. Slide 1 is a paragraph.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The carousel has 10 slides. Slide 1 is a paragraph.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D09-S05 · The camera is ready. The script is 'vibes'.
+
+**2026-11-10 · 13:00 WAT · Meme: owner life · scene empty-shop**
+
+**On-image copy (small, lower third)**
+
+```text
+The camera is ready. The script is 'vibes'.
+
+Write the first sentence before recording.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-empty-shop.png`
+
+**Caption**
+
+The camera is ready. The script is 'vibes'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Overlay a small two-line caption in Inter: “The camera is ready. The script is 'vibes'.” / “Write the first sentence before recording.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The camera is ready. The script is 'vibes'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The camera is ready. The script is 'vibes'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The camera is ready. The script is 'vibes'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D09-S08 · The AI voice says 'Easy-world'.
+
+**2026-11-10 · 17:30 WAT · Meme: marketing / AI / clients · scene inbox**
+
+**On-image copy (small, lower third)**
+
+```text
+The AI voice says 'Easy-world'.
+
+Test pronunciation before the batch.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-inbox.png`
+
+**Caption**
+
+The AI voice says 'Easy-world'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Overlay a small two-line caption in Inter: “The AI voice says 'Easy-world'.” / “Test pronunciation before the batch.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The AI voice says 'Easy-world'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The AI voice says 'Easy-world'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The AI voice says 'Easy-world'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D10-S05 · We need more content. We have no photos.
+
+**2026-11-11 · 13:00 WAT · Meme: owner life · scene blank-screen**
+
+**On-image copy (small, lower third)**
+
+```text
+We need more content. We have no photos.
+
+Start with the work you already do.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-blank-screen.png`
+
+**Caption**
+
+We need more content. We have no photos.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Overlay a small two-line caption in Inter: “We need more content. We have no photos.” / “Start with the work you already do.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+We need more content. We have no photos.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+We need more content. We have no photos.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+We need more content. We have no photos.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D10-S08 · The scheduler is connected. The disclosure is missing.
+
+**2026-11-11 · 17:30 WAT · Meme: marketing / AI / clients · scene market**
+
+**On-image copy (small, lower third)**
+
+```text
+The scheduler is connected. The disclosure is missing.
+
+Do not publish undisclosed realistic AI.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-market.png`
+
+**Caption**
+
+The scheduler is connected. The disclosure is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Overlay a small two-line caption in Inter: “The scheduler is connected. The disclosure is missing.” / “Do not publish undisclosed realistic AI.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The scheduler is connected. The disclosure is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The scheduler is connected. The disclosure is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The scheduler is connected. The disclosure is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D11-S05 · The client wants organic growth. By Friday.
+
+**2026-11-12 · 13:00 WAT · Meme: owner life · scene notebook**
+
+**On-image copy (small, lower third)**
+
+```text
+The client wants organic growth. By Friday.
+
+Set a test window, not a miracle date.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-notebook.png`
+
+**Caption**
+
+The client wants organic growth. By Friday.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Overlay a small two-line caption in Inter: “The client wants organic growth. By Friday.” / “Set a test window, not a miracle date.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The client wants organic growth. By Friday.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The client wants organic growth. By Friday.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The client wants organic growth. By Friday.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D11-S08 · The post is boosted. The reply is slow.
+
+**2026-11-12 · 17:30 WAT · Meme: marketing / AI / clients · scene ledger**
+
+**On-image copy (small, lower third)**
+
+```text
+The post is boosted. The reply is slow.
+
+Speed to lead is part of the campaign.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-ledger.png`
+
+**Caption**
+
+The post is boosted. The reply is slow.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Overlay a small two-line caption in Inter: “The post is boosted. The reply is slow.” / “Speed to lead is part of the campaign.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The post is boosted. The reply is slow.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The post is boosted. The reply is slow.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The post is boosted. The reply is slow.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D12-S05 · The meme got shares. The offer got silence.
+
+**2026-11-13 · 13:00 WAT · Meme: owner life · scene inbox**
+
+**On-image copy (small, lower third)**
+
+```text
+The meme got shares. The offer got silence.
+
+Humour should open the door, not hide the room.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-inbox.png`
+
+**Caption**
+
+The meme got shares. The offer got silence.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Overlay a small two-line caption in Inter: “The meme got shares. The offer got silence.” / “Humour should open the door, not hide the room.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The meme got shares. The offer got silence.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The meme got shares. The offer got silence.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The meme got shares. The offer got silence.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D12-S08 · The brief says target everyone.
+
+**2026-11-13 · 17:30 WAT · Meme: marketing / AI / clients · scene rain-window**
+
+**On-image copy (small, lower third)**
+
+```text
+The brief says target everyone.
+
+Choose one owner with one problem.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-rain-window.png`
+
+**Caption**
+
+The brief says target everyone.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Overlay a small two-line caption in Inter: “The brief says target everyone.” / “Choose one owner with one problem.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The brief says target everyone.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The brief says target everyone.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The brief says target everyone.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D13-S05 · The website is live. The phone number is old.
+
+**2026-11-14 · 13:00 WAT · Meme: owner life · scene market**
+
+**On-image copy (small, lower third)**
+
+```text
+The website is live. The phone number is old.
+
+Launch is a checklist, not a button.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-market.png`
+
+**Caption**
+
+The website is live. The phone number is old.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Overlay a small two-line caption in Inter: “The website is live. The phone number is old.” / “Launch is a checklist, not a button.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The website is live. The phone number is old.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The website is live. The phone number is old.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The website is live. The phone number is old.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D13-S08 · The sample has fake metrics.
+
+**2026-11-14 · 17:30 WAT · Meme: marketing / AI / clients · scene desk-phone**
+
+**On-image copy (small, lower third)**
+
+```text
+The sample has fake metrics.
+
+Label it or remove it.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-desk-phone.png`
+
+**Caption**
+
+The sample has fake metrics.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Overlay a small two-line caption in Inter: “The sample has fake metrics.” / “Label it or remove it.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The sample has fake metrics.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The sample has fake metrics.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The sample has fake metrics.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D14-S05 · The AI wrote 30 posts. All 30 sound like a brochure.
+
+**2026-11-15 · 13:00 WAT · Meme: owner life · scene ledger**
+
+**On-image copy (small, lower third)**
+
+```text
+The AI wrote 30 posts. All 30 sound like a brochure.
+
+Give it facts, voice and boundaries.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-ledger.png`
+
+**Caption**
+
+The AI wrote 30 posts. All 30 sound like a brochure.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Overlay a small two-line caption in Inter: “The AI wrote 30 posts. All 30 sound like a brochure.” / “Give it facts, voice and boundaries.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The AI wrote 30 posts. All 30 sound like a brochure.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The AI wrote 30 posts. All 30 sound like a brochure.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The AI wrote 30 posts. All 30 sound like a brochure.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D14-S08 · The meme mocks the customer.
+
+**2026-11-15 · 17:30 WAT · Meme: marketing / AI / clients · scene empty-shop**
+
+**On-image copy (small, lower third)**
+
+```text
+The meme mocks the customer.
+
+Joke about the work, not the person.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-empty-shop.png`
+
+**Caption**
+
+The meme mocks the customer.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Overlay a small two-line caption in Inter: “The meme mocks the customer.” / “Joke about the work, not the person.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The meme mocks the customer.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The meme mocks the customer.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The meme mocks the customer.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D15-S05 · The customer said 'quick one'. It has been 40 minutes.
+
+**2026-11-16 · 13:00 WAT · Meme: owner life · scene rain-window**
+
+**On-image copy (small, lower third)**
+
+```text
+The customer said 'quick one'. It has been 40 minutes.
+
+Scope the quick one.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-rain-window.png`
+
+**Caption**
+
+The customer said 'quick one'. It has been 40 minutes.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Overlay a small two-line caption in Inter: “The customer said 'quick one'. It has been 40 minutes.” / “Scope the quick one.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The customer said 'quick one'. It has been 40 minutes.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The customer said 'quick one'. It has been 40 minutes.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The customer said 'quick one'. It has been 40 minutes.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D15-S08 · The content is repurposed. The crop is wrong.
+
+**2026-11-16 · 17:30 WAT · Meme: marketing / AI / clients · scene blank-screen**
+
+**On-image copy (small, lower third)**
+
+```text
+The content is repurposed. The crop is wrong.
+
+Adapt, do not just repost.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-blank-screen.png`
+
+**Caption**
+
+The content is repurposed. The crop is wrong.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Overlay a small two-line caption in Inter: “The content is repurposed. The crop is wrong.” / “Adapt, do not just repost.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The content is repurposed. The crop is wrong.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The content is repurposed. The crop is wrong.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The content is repurposed. The crop is wrong.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D16-S05 · The grid looks perfect. The inbox is empty.
+
+**2026-11-17 · 13:00 WAT · Meme: owner life · scene desk-phone**
+
+**On-image copy (small, lower third)**
+
+```text
+The grid looks perfect. The inbox is empty.
+
+Pretty is not a route to buy.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-desk-phone.png`
+
+**Caption**
+
+The grid looks perfect. The inbox is empty.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Overlay a small two-line caption in Inter: “The grid looks perfect. The inbox is empty.” / “Pretty is not a route to buy.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The grid looks perfect. The inbox is empty.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The grid looks perfect. The inbox is empty.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The grid looks perfect. The inbox is empty.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D16-S08 · The AI wrote a testimonial.
+
+**2026-11-17 · 17:30 WAT · Meme: marketing / AI / clients · scene notebook**
+
+**On-image copy (small, lower third)**
+
+```text
+The AI wrote a testimonial.
+
+Delete it.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-notebook.png`
+
+**Caption**
+
+The AI wrote a testimonial.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Overlay a small two-line caption in Inter: “The AI wrote a testimonial.” / “Delete it.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The AI wrote a testimonial.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The AI wrote a testimonial.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The AI wrote a testimonial.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D17-S05 · The trend expired while we were approving it.
+
+**2026-11-18 · 13:00 WAT · Meme: owner life · scene empty-shop**
+
+**On-image copy (small, lower third)**
+
+```text
+The trend expired while we were approving it.
+
+Keep a trend gate and an evergreen fallback.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-empty-shop.png`
+
+**Caption**
+
+The trend expired while we were approving it.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Overlay a small two-line caption in Inter: “The trend expired while we were approving it.” / “Keep a trend gate and an evergreen fallback.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The trend expired while we were approving it.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The trend expired while we were approving it.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The trend expired while we were approving it.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D17-S08 · The offer is clear. The CTA is 'engage'.
+
+**2026-11-18 · 17:30 WAT · Meme: marketing / AI / clients · scene inbox**
+
+**On-image copy (small, lower third)**
+
+```text
+The offer is clear. The CTA is 'engage'.
+
+Name the next step.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-inbox.png`
+
+**Caption**
+
+The offer is clear. The CTA is 'engage'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Overlay a small two-line caption in Inter: “The offer is clear. The CTA is 'engage'.” / “Name the next step.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The offer is clear. The CTA is 'engage'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The offer is clear. The CTA is 'engage'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The offer is clear. The CTA is 'engage'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D18-S05 · The founder is the brand. The founder is tired.
+
+**2026-11-19 · 13:00 WAT · Meme: owner life · scene blank-screen**
+
+**On-image copy (small, lower third)**
+
+```text
+The founder is the brand. The founder is tired.
+
+Build a system that survives a busy week.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-blank-screen.png`
+
+**Caption**
+
+The founder is the brand. The founder is tired.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Overlay a small two-line caption in Inter: “The founder is the brand. The founder is tired.” / “Build a system that survives a busy week.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The founder is the brand. The founder is tired.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The founder is the brand. The founder is tired.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The founder is the brand. The founder is tired.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D18-S08 · The trend report is from last month. The caption says 'now'.
+
+**2026-11-19 · 17:30 WAT · Meme: marketing / AI / clients · scene market**
+
+**On-image copy (small, lower third)**
+
+```text
+The trend report is from last month. The caption says 'now'.
+
+Date the source and verify.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-market.png`
+
+**Caption**
+
+The trend report is from last month. The caption says 'now'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Overlay a small two-line caption in Inter: “The trend report is from last month. The caption says 'now'.” / “Date the source and verify.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The trend report is from last month. The caption says 'now'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The trend report is from last month. The caption says 'now'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The trend report is from last month. The caption says 'now'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D19-S05 · The discount worked. The margin cried.
+
+**2026-11-20 · 13:00 WAT · Meme: owner life · scene notebook**
+
+**On-image copy (small, lower third)**
+
+```text
+The discount worked. The margin cried.
+
+Test clarity before price cuts.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-notebook.png`
+
+**Caption**
+
+The discount worked. The margin cried.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Overlay a small two-line caption in Inter: “The discount worked. The margin cried.” / “Test clarity before price cuts.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The discount worked. The margin cried.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The discount worked. The margin cried.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The discount worked. The margin cried.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D19-S08 · The expert said steal this copy.
+
+**2026-11-20 · 17:30 WAT · Meme: marketing / AI / clients · scene ledger**
+
+**On-image copy (small, lower third)**
+
+```text
+The expert said steal this copy.
+
+Steal the structure, not the words.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-ledger.png`
+
+**Caption**
+
+The expert said steal this copy.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Overlay a small two-line caption in Inter: “The expert said steal this copy.” / “Steal the structure, not the words.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The expert said steal this copy.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The expert said steal this copy.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The expert said steal this copy.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D20-S05 · The client sent a voice note. It is 11 minutes.
+
+**2026-11-21 · 13:00 WAT · Meme: owner life · scene inbox**
+
+**On-image copy (small, lower third)**
+
+```text
+The client sent a voice note. It is 11 minutes.
+
+Summarise, confirm, then act.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-inbox.png`
+
+**Caption**
+
+The client sent a voice note. It is 11 minutes.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Overlay a small two-line caption in Inter: “The client sent a voice note. It is 11 minutes.” / “Summarise, confirm, then act.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The client sent a voice note. It is 11 minutes.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The client sent a voice note. It is 11 minutes.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The client sent a voice note. It is 11 minutes.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D20-S08 · The calendar is full. The review is empty.
+
+**2026-11-21 · 17:30 WAT · Meme: marketing / AI / clients · scene rain-window**
+
+**On-image copy (small, lower third)**
+
+```text
+The calendar is full. The review is empty.
+
+Schedule the review too.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-rain-window.png`
+
+**Caption**
+
+The calendar is full. The review is empty.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Overlay a small two-line caption in Inter: “The calendar is full. The review is empty.” / “Schedule the review too.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The calendar is full. The review is empty.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The calendar is full. The review is empty.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The calendar is full. The review is empty.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D21-S05 · The post says DM us. The DMs are off.
+
+**2026-11-22 · 13:00 WAT · Meme: owner life · scene market**
+
+**On-image copy (small, lower third)**
+
+```text
+The post says DM us. The DMs are off.
+
+Check the door before inviting people.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-market.png`
+
+**Caption**
+
+The post says DM us. The DMs are off.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Overlay a small two-line caption in Inter: “The post says DM us. The DMs are off.” / “Check the door before inviting people.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The post says DM us. The DMs are off.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The post says DM us. The DMs are off.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The post says DM us. The DMs are off.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D21-S08 · The avatar looks human. The consent is missing.
+
+**2026-11-22 · 17:30 WAT · Meme: marketing / AI / clients · scene desk-phone**
+
+**On-image copy (small, lower third)**
+
+```text
+The avatar looks human. The consent is missing.
+
+Stop and get permission.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-desk-phone.png`
+
+**Caption**
+
+The avatar looks human. The consent is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Overlay a small two-line caption in Inter: “The avatar looks human. The consent is missing.” / “Stop and get permission.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The avatar looks human. The consent is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The avatar looks human. The consent is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The avatar looks human. The consent is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D22-S05 · The content calendar is full. The offer is unclear.
+
+**2026-11-23 · 13:00 WAT · Meme: owner life · scene ledger**
+
+**On-image copy (small, lower third)**
+
+```text
+The content calendar is full. The offer is unclear.
+
+A schedule cannot fix a sentence.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-ledger.png`
+
+**Caption**
+
+The content calendar is full. The offer is unclear.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Overlay a small two-line caption in Inter: “The content calendar is full. The offer is unclear.” / “A schedule cannot fix a sentence.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The content calendar is full. The offer is unclear.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The content calendar is full. The offer is unclear.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The content calendar is full. The offer is unclear.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D22-S08 · The post says limited time. The offer is always available.
+
+**2026-11-23 · 17:30 WAT · Meme: marketing / AI / clients · scene empty-shop**
+
+**On-image copy (small, lower third)**
+
+```text
+The post says limited time. The offer is always available.
+
+Do not invent scarcity.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-empty-shop.png`
+
+**Caption**
+
+The post says limited time. The offer is always available.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Overlay a small two-line caption in Inter: “The post says limited time. The offer is always available.” / “Do not invent scarcity.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The post says limited time. The offer is always available.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The post says limited time. The offer is always available.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The post says limited time. The offer is always available.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D23-S05 · The customer wants a website. They need a message.
+
+**2026-11-24 · 13:00 WAT · Meme: owner life · scene rain-window**
+
+**On-image copy (small, lower third)**
+
+```text
+The customer wants a website. They need a message.
+
+Fix the sentence before the sitemap.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-rain-window.png`
+
+**Caption**
+
+The customer wants a website. They need a message.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Overlay a small two-line caption in Inter: “The customer wants a website. They need a message.” / “Fix the sentence before the sitemap.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The customer wants a website. They need a message.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The customer wants a website. They need a message.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The customer wants a website. They need a message.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D23-S08 · The AI summary missed the one decision needed.
+
+**2026-11-24 · 17:30 WAT · Meme: marketing / AI / clients · scene blank-screen**
+
+**On-image copy (small, lower third)**
+
+```text
+The AI summary missed the one decision needed.
+
+Ask for decisions, not just summaries.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-blank-screen.png`
+
+**Caption**
+
+The AI summary missed the one decision needed.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Overlay a small two-line caption in Inter: “The AI summary missed the one decision needed.” / “Ask for decisions, not just summaries.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The AI summary missed the one decision needed.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The AI summary missed the one decision needed.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The AI summary missed the one decision needed.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D24-S05 · The reel is 15 seconds. The explanation is 90.
+
+**2026-11-25 · 13:00 WAT · Meme: owner life · scene desk-phone**
+
+**On-image copy (small, lower third)**
+
+```text
+The reel is 15 seconds. The explanation is 90.
+
+Match length to the question.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-desk-phone.png`
+
+**Caption**
+
+The reel is 15 seconds. The explanation is 90.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Overlay a small two-line caption in Inter: “The reel is 15 seconds. The explanation is 90.” / “Match length to the question.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The reel is 15 seconds. The explanation is 90.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The reel is 15 seconds. The explanation is 90.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The reel is 15 seconds. The explanation is 90.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D24-S08 · The brand voice is 'professional'. The examples are robotic.
+
+**2026-11-25 · 17:30 WAT · Meme: marketing / AI / clients · scene notebook**
+
+**On-image copy (small, lower third)**
+
+```text
+The brand voice is 'professional'. The examples are robotic.
+
+Define voice with do/don't examples.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-notebook.png`
+
+**Caption**
+
+The brand voice is 'professional'. The examples are robotic.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Overlay a small two-line caption in Inter: “The brand voice is 'professional'. The examples are robotic.” / “Define voice with do/don't examples.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The brand voice is 'professional'. The examples are robotic.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The brand voice is 'professional'. The examples are robotic.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The brand voice is 'professional'. The examples are robotic.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D25-S05 · The sample looks real. The label is missing.
+
+**2026-11-26 · 13:00 WAT · Meme: owner life · scene empty-shop**
+
+**On-image copy (small, lower third)**
+
+```text
+The sample looks real. The label is missing.
+
+Label the sample before publishing.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-empty-shop.png`
+
+**Caption**
+
+The sample looks real. The label is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Overlay a small two-line caption in Inter: “The sample looks real. The label is missing.” / “Label the sample before publishing.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The sample looks real. The label is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The sample looks real. The label is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The sample looks real. The label is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D25-S08 · The customer wants more followers. The offer is unclear.
+
+**2026-11-26 · 17:30 WAT · Meme: marketing / AI / clients · scene inbox**
+
+**On-image copy (small, lower third)**
+
+```text
+The customer wants more followers. The offer is unclear.
+
+Fix the route before the audience grows.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-inbox.png`
+
+**Caption**
+
+The customer wants more followers. The offer is unclear.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Overlay a small two-line caption in Inter: “The customer wants more followers. The offer is unclear.” / “Fix the route before the audience grows.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The customer wants more followers. The offer is unclear.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The customer wants more followers. The offer is unclear.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The customer wants more followers. The offer is unclear.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D26-S05 · The team is waiting for inspiration. The deadline is not.
+
+**2026-11-27 · 13:00 WAT · Meme: owner life · scene blank-screen**
+
+**On-image copy (small, lower third)**
+
+```text
+The team is waiting for inspiration. The deadline is not.
+
+Use a series template.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-blank-screen.png`
+
+**Caption**
+
+The team is waiting for inspiration. The deadline is not.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a laptop with an empty “new post” composer, cursor blinking, someone’s hand resting beside it. Overlay a small two-line caption in Inter: “The team is waiting for inspiration. The deadline is not.” / “Use a series template.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The team is waiting for inspiration. The deadline is not.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The team is waiting for inspiration. The deadline is not.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The team is waiting for inspiration. The deadline is not.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D26-S08 · The screen demo is unreadable.
+
+**2026-11-27 · 17:30 WAT · Meme: marketing / AI / clients · scene market**
+
+**On-image copy (small, lower third)**
+
+```text
+The screen demo is unreadable.
+
+Crop for the phone.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-market.png`
+
+**Caption**
+
+The screen demo is unreadable.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Overlay a small two-line caption in Inter: “The screen demo is unreadable.” / “Crop for the phone.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The screen demo is unreadable.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The screen demo is unreadable.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The screen demo is unreadable.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D27-S05 · The ad is running. The page is confusing.
+
+**2026-11-28 · 13:00 WAT · Meme: owner life · scene notebook**
+
+**On-image copy (small, lower third)**
+
+```text
+The ad is running. The page is confusing.
+
+Fix the destination before spending more.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-notebook.png`
+
+**Caption**
+
+The ad is running. The page is confusing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: an open notebook with three crossed-out lines and one circled, a pen resting on the page, warm lamp light. Overlay a small two-line caption in Inter: “The ad is running. The page is confusing.” / “Fix the destination before spending more.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The ad is running. The page is confusing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The ad is running. The page is confusing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The ad is running. The page is confusing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D27-S08 · The post is scheduled. The price changed.
+
+**2026-11-28 · 17:30 WAT · Meme: marketing / AI / clients · scene ledger**
+
+**On-image copy (small, lower third)**
+
+```text
+The post is scheduled. The price changed.
+
+Hold and update before publishing.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-ledger.png`
+
+**Caption**
+
+The post is scheduled. The price changed.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Overlay a small two-line caption in Inter: “The post is scheduled. The price changed.” / “Hold and update before publishing.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The post is scheduled. The price changed.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The post is scheduled. The price changed.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The post is scheduled. The price changed.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D28-S05 · The customer asked for a logo. They needed a plan.
+
+**2026-11-29 · 13:00 WAT · Meme: owner life · scene inbox**
+
+**On-image copy (small, lower third)**
+
+```text
+The customer asked for a logo. They needed a plan.
+
+Ask what the mark must help people understand.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-inbox.png`
+
+**Caption**
+
+The customer asked for a logo. They needed a plan.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a phone held in one hand at night showing a long list of chats, thumb hovering, no faces visible. Overlay a small two-line caption in Inter: “The customer asked for a logo. They needed a plan.” / “Ask what the mark must help people understand.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The customer asked for a logo. They needed a plan.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The customer asked for a logo. They needed a plan.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The customer asked for a logo. They needed a plan.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D28-S08 · The content is useful. The follow-up is missing.
+
+**2026-11-29 · 17:30 WAT · Meme: marketing / AI / clients · scene rain-window**
+
+**On-image copy (small, lower third)**
+
+```text
+The content is useful. The follow-up is missing.
+
+Connect the lesson to the next step.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-rain-window.png`
+
+**Caption**
+
+The content is useful. The follow-up is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a rain-streaked window at night with city bokeh and a single notebook page in the foreground. Overlay a small two-line caption in Inter: “The content is useful. The follow-up is missing.” / “Connect the lesson to the next step.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The content is useful. The follow-up is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The content is useful. The follow-up is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The content is useful. The follow-up is missing.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D29-S05 · The post is educational. The CTA is unrelated.
+
+**2026-11-30 · 13:00 WAT · Meme: owner life · scene market**
+
+**On-image copy (small, lower third)**
+
+```text
+The post is educational. The CTA is unrelated.
+
+Match the next step to the lesson.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-market.png`
+
+**Caption**
+
+The post is educational. The CTA is unrelated.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a busy Lagos market aisle from waist height, fabric and produce, motion blur, no clear faces. Overlay a small two-line caption in Inter: “The post is educational. The CTA is unrelated.” / “Match the next step to the lesson.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+The post is educational. The CTA is unrelated.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+The post is educational. The CTA is unrelated.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+The post is educational. The CTA is unrelated.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D29-S08 · The AI says it cannot browse. The caption says 'latest trend'.
+
+**2026-11-30 · 17:30 WAT · Meme: marketing / AI / clients · scene desk-phone**
+
+**On-image copy (small, lower third)**
+
+```text
+The AI says it cannot browse. The caption says 'latest trend'.
+
+Verify outside the model.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-desk-phone.png`
+
+**Caption**
+
+The AI says it cannot browse. The caption says 'latest trend'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a dark wooden desk at night with a phone face-down beside a cold cup of tea and an open laptop. Overlay a small two-line caption in Inter: “The AI says it cannot browse. The caption says 'latest trend'.” / “Verify outside the model.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The AI says it cannot browse. The caption says 'latest trend'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The AI says it cannot browse. The caption says 'latest trend'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The AI says it cannot browse. The caption says 'latest trend'.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D30-S05 · Month end. We need a success story.
+
+**2026-12-01 · 13:00 WAT · Meme: owner life · scene ledger**
+
+**On-image copy (small, lower third)**
+
+```text
+Month end. We need a success story.
+
+Report what the data actually says.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-ledger.png`
+
+**Caption**
+
+Month end. We need a success story.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a receipt book, a calculator and a fan blade blurring in the heat on a shop counter. Overlay a small two-line caption in Inter: “Month end. We need a success story.” / “Report what the data actually says.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 13:00 WAT
+
+Month end. We need a success story.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 13:10 WAT
+
+Month end. We need a success story.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 13:20 WAT
+
+Month end. We need a success story.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness
+
+
+## EW-D30-S08 · The campaign ended. The learning did not.
+
+**2026-12-01 · 17:30 WAT · Meme: marketing / AI / clients · scene empty-shop**
+
+**On-image copy (small, lower third)**
+
+```text
+The campaign ended. The learning did not.
+
+Write the next test.
+```
+
+**Scene plate:** `marketing/assets/meme-scenes/scene-empty-shop.png`
+
+**Caption**
+
+The campaign ended. The learning did not.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+**Visual:** Scene-led meme. Photo: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Small caption in the lower third, Easywurld mark bottom-left. The joke lives in the photograph, not in a wall of text.
+
+**Edit:** Keep the caption under 12 words. No emoji spam, no borrowed meme face, no fake notification. Caption under the post carries the useful lesson.
+
+**Prompt:** Compose one 4:5 scene-led social meme for Easywurld. Base image: a small shop at 3pm with two plastic chairs outside, one empty, and a hand-painted sign in soft afternoon light. Overlay a small two-line caption in Inter: “The campaign ended. The learning did not.” / “Write the next test.”. Keep type small and human, cream on the image bottom third, real logo bottom-left. Not a giant text card. No copied meme, no stock face, no fake UI.
+
+**Platform times and captions**
+
+- TikTok 17:30 WAT
+
+The campaign ended. The learning did not.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Instagram 17:40 WAT
+
+The campaign ended. The learning did not.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #SmallBusinessNigeria #LagosBusiness
+
+- Facebook 17:50 WAT
+
+The campaign ended. The learning did not.
+
+Share it with the owner who needs the reminder.
+
+#Easywurld #LagosBusiness

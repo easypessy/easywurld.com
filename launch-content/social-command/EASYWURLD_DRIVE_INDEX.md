@@ -1,101 +1,82 @@
-# EASYWURLD — Drive Index
+# Easywurld content file index
 
-**Everything for Easywurld lives in one Drive folder.** One page, so nothing gets lost.
-WhatsApp: 0905 069 0837 · Site: website-builder-portfolio.vercel.app
+**Repository index only.** This update does not upload to or verify Google Drive. Copy the active files to your production storage if that is your workflow; do not assume an existing Drive folder is in sync.
 
----
+## Active campaign
 
-## 1. Open this first — the Post Commander
+Monday 2 November–Tuesday 1 December 2026. **330 content posts, 60 stories, 26 LinkedIn posts and 1,196 platform placements — 11 posts and 2 stories a day on TikTok, Instagram and Facebook.**
 
-**Easywurld — Post Commander (open this on your phone)**
-https://drive.google.com/file/d/1dfm4aknO2iWxWk0uQR4T6fzH0byASyDT/view
+| Need | Repository file |
+|---|---|
+| Strategy | `marketing/STRATEGY.md` |
+| Series rules | `marketing/SERIES_PLAYBOOK.md` |
+| Psychology layer | `marketing/PSYCHOLOGY_PLAYBOOK.md` |
+| The Operator (AI presenter) | `marketing/AVATAR_OPERATOR.md` |
+| Readable full plan | `marketing/CONTENT_PLAN.pdf` |
+| Editable calendar | `marketing/calendar/30-day-calendar.md` |
+| Production/distribution sheet | `launch-content/social-command/content_calendar.csv` |
+| Offline Series Studio | `launch-content/social-command/EASYWURLD_POST_COMMANDER.html` |
+| Individual briefs | `marketing/briefs/` — 330 posts, 60 stories, 26 LinkedIn posts |
+| Story frames (week 1) | `marketing/assets/stories/` |
+| Meme scene plates | `marketing/assets/meme-scenes/` |
+| Operator plates and voice | `marketing/assets/avatar/` |
+| AI/master prompts | `marketing/brand-prompt.md` |
+| Editing and scheduling | `marketing/PRODUCTION.md` |
+| Source and attributions | `marketing/SOURCES.md` |
+| 60 memes | `marketing/assets/memes/` |
+| Carousels (all month) | `marketing/assets/carousels/` — 605 JPEG slides + 5 LinkedIn PDFs |
+| Story frames (all month) | `marketing/assets/stories/` — 180 frames |
+| Video posters (fallbacks) | `marketing/assets/fallbacks/` |
+| Intro statics | `marketing/assets/static/` |
+| Every asset, item by item | `marketing/assets/ASSET_MANIFEST.csv` |
+| Scheduling runbook | `marketing/SCHEDULING_RUNBOOK.md` |
+| Series covers | `marketing/assets/series/` |
+| Video layout guides | `marketing/assets/video/` |
+| Trend verification log | `marketing/TREND_VERIFICATION.csv` |
+| Blank metrics | `marketing/MEASUREMENT.csv` |
+| Canonical editorial source | `marketing/series-plan.json` |
+| Expanded generated plan | `marketing/content-plan.json` |
 
-This is the tool. One file. It has all 30 days of posts, dated, with a copy button on every
-block and tick marks that save on your phone. It works with no internet.
+## Keep private
 
-**On the phone:** open the file, then use your phone's browser menu and choose "Add to Home
-Screen". It will then open like an app, with no Drive in the way.
+Owner identity sources, CVs, consent records, payment details and customer messages do not belong in this public repo. No verified owner portrait was found; no avatar or voice clone has been generated.
 
-**Three taps is the whole routine.** Tap the day. Tap the post. Hit Copy. Paste into the app
-you are posting in.
+## Archived, not active
 
----
+- `marketing/archive/22-post-2026-11/`: the superseded 22-post weekday plan and its starter assets.
+- `launch-content/archive/2026-10/`: old daily scripts, posting ZIP, launch PDFs and spreadsheet.
+- `launch-content/social-command/archive/2026-10/content/`: old 1,140-row source plan.
 
-## 2. The three other things
+The existing offers prompt and offer booklet remain in `launch-content/social-command/`. They are product reference materials, not a second active calendar.
 
-| What | Where | What it is for |
-|---|---|---|
-| **30 Day Social Plan** | https://docs.google.com/document/d/1AhRhGGl3Ir-nEwyhOlTfNq7CO3SnKtj8_cKn2DViSjY/edit | Every post written out long, for all four platforms. Read it, print it, or copy from it. |
-| **Content Calendar (Sheet)** | https://docs.google.com/spreadsheets/d/14fuVWINNu4K1NmAaRH3bRD336lPjJKmbndNTpme1dZc/edit | One row per post, dated, sortable. This is what you schedule the month from. |
-| **Offers Master (PDF)** | https://drive.google.com/file/d/1YtkN5S9Xf_E7ELpgAKPwxkl1ylqdxoCY/view | The 9 packs, what Easywurld does, and how to start. Send this to customers. |
+## November by-day packs (added 2 November 2026, restructured to per-day delivery)
 
----
+Google Drive folder: **Easywurld — November 2026 (by day)** now holds **two sets**:
 
-## 3. The month, already dated
+- **`SET_A__Original_November_content`** — the first delivery, kept as it was: three ten-day
+  zips (`..._Days_01-10/11-20/21-30_SET-A-ORIGINAL.zip`) with first-generation assets and
+  posters. Nothing here is replaced or deleted.
+- **`SET_B__Upgraded_content_PER_DAY`** — the working delivery: **`Day_01.zip` … `Day_30.zip`,
+  one zip per day**, plus the upgraded ten-day bulk zip. Each day zip holds the day sheet, the
+  seven LinkedIn posts, the 33 feed captions, the two stories and every rendered file for that
+  day. A day is re-uploaded on its own when its finished videos land.
 
-**Monday 19 October 2026 → Tuesday 17 November 2026.** 30 days.
+Built by `python marketing/build-day-packs.py` (per-day zips + ten-day blocks;
+`--days 3-4` rebuilds only those days after a render batch). Index: `marketing/DRIVE_INDEX.md`,
+mirrored as the `READ_ME` Google Doc in the folder.
 
-- 11 core posts a day
-- 11 TikTok + 11 Instagram + 11 Facebook + 4 LinkedIn = **37 required posts a day**, plus 1 optional LinkedIn = **38 slots a day**
-- **1,140 scheduled posts for the month** — 1,110 required, plus 30 optional LinkedIn slots
-- Every day has a theme, an offer in focus, and every post carries its own time in Lagos time
+LinkedIn is now **seven posts a day** — four on the Easywurld company page (07:30 document,
+10:30 text, 13:30 image, 17:00 native video) and three on Abu Israel's personal profile
+(08:15 build log, 12:45 operator's note, 19:45 evening take; Monday document, Saturday
+poll, Friday video). 210 posts across the month, copy in `marketing/linkedin.mjs`.
 
-**Scheduling the whole month:** open the Content Calendar, sort by date, and schedule in one
-sitting. Meta Business Suite for Instagram and Facebook, the native scheduler for TikTok and
-LinkedIn. All free. Set the timezone to Africa/Lagos.
+Finished videos: `marketing/assets/video-ready/` — **Days 1-4 are complete** (voiceover,
+synthesised music bed, burned captions, effects, end card; upload as is), narrated to the
+villain / hero / ally structure with the audience's own words rewritten
+(`marketing/AUDIENCE_PHRASES.md`). Two more days are added per production batch because the
+narration tool allows ten clips per turn. Pipeline and batching rule:
+`marketing/VIDEO_PIPELINE.md`.
 
-**If you want to start on a different Monday**, the Post Commander has a start-date box in
-the Month tab. Change it and every date moves with it.
-
----
-
-## 4. The nine packs — ₦5,000 each
-
-| # | Pack | Message this word on WhatsApp | Est. value |
-|---|---|---|---|
-| 1 | The Chat-to-Customer Playbook | `PLAYBOOK` | ₦35,000 |
-| 2 | The Clear Homepage Blueprint | `CLEAR` | ₦32,500 |
-| 3 | The 30-Day Content Engine | `ENGINE` | ₦32,500 |
-| 4 | The One-Offer Landing Page Kit | `PAGE` | ₦32,500 |
-| 5 | The Lagos Local Visibility Starter | `LOCAL` | ₦32,500 |
-| 6 | The Clear Message Workbook | `MESSAGE` | ₦32,500 |
-| 7 | The Everyday AI Prompt Desk | `PROMPTS` | ₦35,000 |
-| 8 | The Proposal & Report Template Pack | `TEMPLATES` | ₦32,500 |
-| 9 | The Website Launch & Care Handbook | `LAUNCH` | ₦32,500 |
-| | | **Total estimated value** | **₦297,500** |
-
-Est. value = hours × ₦5,000 per hour. It is an estimate of the work, not a previous price.
-
----
-
-## 5. Everything else in the folder
-
-| File | Where | Notes |
-|---|---|---|
-| How To Post & Schedule A Month Ahead | https://docs.google.com/document/d/1YYO7evwSxRCiC_YrtLzyD1HmqkIDpjn7F19SyaaUXC0/edit | Times, batching, phone storage. |
-| Meme Bank (all 37 memes) | https://docs.google.com/document/d/1aVRWS3G9AKA61rXlLGHJB93ggJfGbhEafVdUnIPDAEM/edit | Every meme in the month, with the exact words to type. |
-| Start Here | https://docs.google.com/document/d/1sTnUxtGtBlmTxRsYHweDz4FqABPDXIkV7c-lSv2qgHE/edit | One page. Read it once. |
-| Offers Master (editable) | https://docs.google.com/document/d/1O567RH0kw_088UfNQO176I5RtiO4rc6-IoIa21bSYxA/edit | Same content as the PDF, editable. |
-| Prompt to rebuild the offers PDF | https://docs.google.com/document/d/1uIVd7WSkfVQT-176FN0X7fQnzZFeeMkA-gBTGOodATw/edit | Paste into Claude to regenerate the PDF. |
-| Launch Content (original pack) | https://drive.google.com/drive/folders/1e4XGkhIoHx_zQoJ-fV2JQBtsHSp7-UCL | The first pack, kept as it was. |
-| Easywurld Brand Identity Guide | https://drive.google.com/file/d/16Q-AePfxC0jQGv20GIF0sIm-IDqPkTqh2O1GSExt9rQ/view | Colours, type, logo rules. |
-
----
-
-## 6. Folder map
-
-- **EASYWURLD — Social Kit, Offers & Phone Planner** — this folder
-  - **Social Kit** — the Post Commander, the 30 day plan, the calendar, memes, how to post
-  - **Offers** — the offers PDF, the editable version, the rebuild prompt
-  - **Launch Content (original pack)** — the earlier WhatsApp-first pack, unchanged
-
----
-
-## 7. Three rules that keep it honest
-
-1. No result, rating, testimonial or ranking we cannot evidence. Ever.
-2. Portfolio work is a concept project or sample build. It is labelled as such on the site.
-3. Value numbers are hours × ₦5,000, always described as an estimate.
-
-**WhatsApp: 0905 069 0837** · https://wa.me/2349050690837
-**Site:** https://website-builder-portfolio.vercel.app
+Outreach (copywriting first, most-needing to least): `marketing/outreach/` — risk ladder,
+lead-finding routine, WhatsApp and call scripts, the three-layer auto-response system and
+the lead log.

@@ -1,0 +1,207 @@
+EASYWURLD · DAY 04 · 2026-11-05 · CLICK ORDER
+
+Work top to bottom. Each block is one placement: when, where, what to attach, where the caption is.
+
+01. 07:00  TikTok  ·  Photo carousel / text video  ·  EW-D04-S01
+    attach: 0700_EW-D04-S01_1of5.jpg, 0700_EW-D04-S01_2of5.jpg, 0700_EW-D04-S01_3of5.jpg, 0700_EW-D04-S01_4of5.jpg, 0700_EW-D04-S01_5of5.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S01 (TikTok)
+
+02. 07:10  Instagram  ·  Carousel  ·  EW-D04-S01
+    attach: 0700_EW-D04-S01_1of5.jpg, 0700_EW-D04-S01_2of5.jpg, 0700_EW-D04-S01_3of5.jpg, 0700_EW-D04-S01_4of5.jpg, 0700_EW-D04-S01_5of5.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S01 (Instagram)
+
+03. 07:20  Facebook  ·  Photo album / video  ·  EW-D04-S01
+    attach: 0700_EW-D04-S01_1of5.jpg, 0700_EW-D04-S01_2of5.jpg, 0700_EW-D04-S01_3of5.jpg, 0700_EW-D04-S01_4of5.jpg, 0700_EW-D04-S01_5of5.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S01 (Facebook)
+
+04. 07:30  LinkedIn  ·  Document post (PDF)  ·  EW-LI-D04-CO1
+    attach: 0730_EW-LI-D04-CO1.pdf
+    caption: 01_LINKEDIN.md -> EW-LI-D04-CO1 (LinkedIn)
+
+05. 08:15  LinkedIn  ·  Text post  ·  EW-LI-D04-AB1
+    attach: text only — see 01_LINKEDIN.md
+    caption: 01_LINKEDIN.md -> EW-LI-D04-AB1 (LinkedIn)
+
+06. 08:30  TikTok  ·  Vertical video  ·  EW-D04-S02
+    attach: 0830_EW-D04-S02.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S02 (TikTok)
+    AI label: YES — switch on the platform AI setting
+
+07. 08:40  Instagram  ·  Vertical video  ·  EW-D04-S02
+    attach: 0830_EW-D04-S02.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S02 (Instagram)
+    AI label: YES — switch on the platform AI setting
+
+08. 08:50  Facebook  ·  Vertical video  ·  EW-D04-S02
+    attach: 0830_EW-D04-S02.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S02 (Facebook)
+    AI label: YES — switch on the platform AI setting
+
+09. 10:00  TikTok  ·  Vertical video  ·  EW-D04-S03
+    attach: 1000_EW-D04-S03.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S03 (TikTok)
+    AI label: YES — switch on the platform AI setting
+
+10. 10:10  Instagram  ·  Vertical video  ·  EW-D04-S03
+    attach: 1000_EW-D04-S03.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S03 (Instagram)
+    AI label: YES — switch on the platform AI setting
+
+11. 10:20  Facebook  ·  Vertical video  ·  EW-D04-S03
+    attach: 1000_EW-D04-S03.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S03 (Facebook)
+    AI label: YES — switch on the platform AI setting
+
+12. 10:30  LinkedIn  ·  Text post  ·  EW-LI-D04-CO2
+    attach: text only — see 01_LINKEDIN.md
+    caption: 01_LINKEDIN.md -> EW-LI-D04-CO2 (LinkedIn)
+
+13. 11:30  TikTok  ·  Vertical video  ·  EW-D04-S04
+    attach: 1130_EW-D04-S04.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S04 (TikTok)
+    AI label: YES — switch on the platform AI setting
+
+14. 11:40  Instagram  ·  Vertical video  ·  EW-D04-S04
+    attach: 1130_EW-D04-S04.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S04 (Instagram)
+    AI label: YES — switch on the platform AI setting
+
+15. 11:50  Facebook  ·  Vertical video  ·  EW-D04-S04
+    attach: 1130_EW-D04-S04.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S04 (Facebook)
+    AI label: YES — switch on the platform AI setting
+
+16. 12:30  Instagram  ·  Instagram Story  ·  EW-D04-STA
+    attach: 1230_EW-D04-STA_1of3.jpg, 1230_EW-D04-STA_2of3.jpg, 1230_EW-D04-STA_3of3.jpg
+    caption: 03_STORIES.md -> EW-D04-STA (Instagram)
+
+17. 12:35  Facebook  ·  Facebook Story  ·  EW-D04-STA
+    attach: 1230_EW-D04-STA_1of3.jpg, 1230_EW-D04-STA_2of3.jpg, 1230_EW-D04-STA_3of3.jpg
+    caption: 03_STORIES.md -> EW-D04-STA (Facebook)
+
+18. 12:40  TikTok  ·  TikTok Story  ·  EW-D04-STA
+    attach: 1230_EW-D04-STA_1of3.jpg, 1230_EW-D04-STA_2of3.jpg, 1230_EW-D04-STA_3of3.jpg
+    caption: 03_STORIES.md -> EW-D04-STA (TikTok)
+
+19. 12:45  LinkedIn  ·  Text post  ·  EW-LI-D04-AB2
+    attach: text only — see 01_LINKEDIN.md
+    caption: 01_LINKEDIN.md -> EW-LI-D04-AB2 (LinkedIn)
+
+20. 13:00  TikTok  ·  Photo post / text video  ·  EW-D04-S05
+    attach: 1300_EW-D04-S05.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S05 (TikTok)
+
+21. 13:10  Instagram  ·  Static image  ·  EW-D04-S05
+    attach: 1300_EW-D04-S05.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S05 (Instagram)
+
+22. 13:20  Facebook  ·  Static image  ·  EW-D04-S05
+    attach: 1300_EW-D04-S05.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S05 (Facebook)
+
+23. 13:30  LinkedIn  ·  Image post  ·  EW-LI-D04-CO3
+    attach: 1330_EW-LI-D04-CO3.jpg
+    caption: 01_LINKEDIN.md -> EW-LI-D04-CO3 (LinkedIn)
+
+24. 14:30  TikTok  ·  Photo carousel / text video  ·  EW-D04-S06
+    attach: 1430_EW-D04-S06_1of5.jpg, 1430_EW-D04-S06_2of5.jpg, 1430_EW-D04-S06_3of5.jpg, 1430_EW-D04-S06_4of5.jpg, 1430_EW-D04-S06_5of5.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S06 (TikTok)
+
+25. 14:40  Instagram  ·  Carousel  ·  EW-D04-S06
+    attach: 1430_EW-D04-S06_1of5.jpg, 1430_EW-D04-S06_2of5.jpg, 1430_EW-D04-S06_3of5.jpg, 1430_EW-D04-S06_4of5.jpg, 1430_EW-D04-S06_5of5.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S06 (Instagram)
+
+26. 14:50  Facebook  ·  Photo album / video  ·  EW-D04-S06
+    attach: 1430_EW-D04-S06_1of5.jpg, 1430_EW-D04-S06_2of5.jpg, 1430_EW-D04-S06_3of5.jpg, 1430_EW-D04-S06_4of5.jpg, 1430_EW-D04-S06_5of5.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S06 (Facebook)
+
+27. 16:00  TikTok  ·  Photo carousel / text video  ·  EW-D04-S07
+    attach: 1600_EW-D04-S07_1of5.jpg, 1600_EW-D04-S07_2of5.jpg, 1600_EW-D04-S07_3of5.jpg, 1600_EW-D04-S07_4of5.jpg, 1600_EW-D04-S07_5of5.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S07 (TikTok)
+
+28. 16:10  Instagram  ·  Carousel  ·  EW-D04-S07
+    attach: 1600_EW-D04-S07_1of5.jpg, 1600_EW-D04-S07_2of5.jpg, 1600_EW-D04-S07_3of5.jpg, 1600_EW-D04-S07_4of5.jpg, 1600_EW-D04-S07_5of5.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S07 (Instagram)
+
+29. 16:20  Facebook  ·  Photo album / video  ·  EW-D04-S07
+    attach: 1600_EW-D04-S07_1of5.jpg, 1600_EW-D04-S07_2of5.jpg, 1600_EW-D04-S07_3of5.jpg, 1600_EW-D04-S07_4of5.jpg, 1600_EW-D04-S07_5of5.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S07 (Facebook)
+
+30. 17:00  LinkedIn  ·  Native video  ·  EW-LI-D04-CO4
+    attach: 1700_EW-LI-D04-CO4.mp4
+    caption: 01_LINKEDIN.md -> EW-LI-D04-CO4 (LinkedIn)
+    AI label: YES — switch on the platform AI setting
+
+31. 17:30  TikTok  ·  Photo post / text video  ·  EW-D04-S08
+    attach: 1730_EW-D04-S08.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S08 (TikTok)
+
+32. 17:40  Instagram  ·  Static image  ·  EW-D04-S08
+    attach: 1730_EW-D04-S08.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S08 (Instagram)
+
+33. 17:50  Facebook  ·  Static image  ·  EW-D04-S08
+    attach: 1730_EW-D04-S08.jpg
+    caption: 02_CAPTIONS.md -> EW-D04-S08 (Facebook)
+
+34. 19:00  TikTok  ·  Vertical video  ·  EW-D04-S09
+    attach: 1900_EW-D04-S09.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S09 (TikTok)
+    AI label: YES — switch on the platform AI setting
+
+35. 19:10  Instagram  ·  Vertical video  ·  EW-D04-S09
+    attach: 1900_EW-D04-S09.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S09 (Instagram)
+    AI label: YES — switch on the platform AI setting
+
+36. 19:20  Facebook  ·  Vertical video  ·  EW-D04-S09
+    attach: 1900_EW-D04-S09.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S09 (Facebook)
+    AI label: YES — switch on the platform AI setting
+
+37. 19:45  LinkedIn  ·  Text post  ·  EW-LI-D04-AB3
+    attach: text only — see 01_LINKEDIN.md
+    caption: 01_LINKEDIN.md -> EW-LI-D04-AB3 (LinkedIn)
+
+38. 20:30  TikTok  ·  Vertical video  ·  EW-D04-S10
+    attach: 2030_EW-D04-S10.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S10 (TikTok)
+    AI label: YES — switch on the platform AI setting
+
+39. 20:40  Instagram  ·  Vertical video  ·  EW-D04-S10
+    attach: 2030_EW-D04-S10.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S10 (Instagram)
+    AI label: YES — switch on the platform AI setting
+
+40. 20:50  Facebook  ·  Vertical video  ·  EW-D04-S10
+    attach: 2030_EW-D04-S10.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S10 (Facebook)
+    AI label: YES — switch on the platform AI setting
+
+41. 21:00  Instagram  ·  Instagram Story  ·  EW-D04-STB
+    attach: 2100_EW-D04-STB_1of3.jpg, 2100_EW-D04-STB_2of3.jpg, 2100_EW-D04-STB_3of3.jpg
+    caption: 03_STORIES.md -> EW-D04-STB (Instagram)
+
+42. 21:05  Facebook  ·  Facebook Story  ·  EW-D04-STB
+    attach: 2100_EW-D04-STB_1of3.jpg, 2100_EW-D04-STB_2of3.jpg, 2100_EW-D04-STB_3of3.jpg
+    caption: 03_STORIES.md -> EW-D04-STB (Facebook)
+
+43. 21:10  TikTok  ·  TikTok Story  ·  EW-D04-STB
+    attach: 2100_EW-D04-STB_1of3.jpg, 2100_EW-D04-STB_2of3.jpg, 2100_EW-D04-STB_3of3.jpg
+    caption: 03_STORIES.md -> EW-D04-STB (TikTok)
+
+44. 22:00  TikTok  ·  Vertical video  ·  EW-D04-S11
+    attach: 2200_EW-D04-S11.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S11 (TikTok)
+    AI label: YES — switch on the platform AI setting
+
+45. 22:10  Instagram  ·  Vertical video  ·  EW-D04-S11
+    attach: 2200_EW-D04-S11.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S11 (Instagram)
+    AI label: YES — switch on the platform AI setting
+
+46. 22:20  Facebook  ·  Vertical video  ·  EW-D04-S11
+    attach: 2200_EW-D04-S11.mp4
+    caption: 02_CAPTIONS.md -> EW-D04-S11 (Facebook)
+    AI label: YES — switch on the platform AI setting
+
