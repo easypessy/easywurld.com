@@ -1,0 +1,712 @@
+{
+  "day": "2026-11-13",
+  "niche": "Fictional independent alteration studio",
+  "buyer_question": "What does an alteration appointment include?",
+  "editorial_note": "All tailor service, fitting, timing and booking descriptions below are illustrative and require actual owner verification.",
+  "twelfth_rationale": "S12 is a second RELATABLE carousel about collection-date pressure and honest deadline language, separate from the appointment-scope question. Selected for expectation management, not a rotation.",
+  "posts": [
+    {
+      "id": "EW-20261113-C01",
+      "series": 1,
+      "hook": "“Book an alteration” is not enough information.",
+      "objective": "Appointment-scope diagnosis",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "“Book an alteration” is not enough information.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "ILLUSTRATIVE buyer question: “Will you alter the garment at that visit?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "The page offers “appointments” but does not describe the first step.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "An enquiry must now clarify fitting, quote and work separately.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Audit the actual process: what happens first, what may need a return?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Explain the first visit before asking someone to reserve it.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/conclusion.svg"
+        }
+      ],
+      "caption": "This fictional tailor example diagnoses a scope question, not a real business. An appointment, a quote and a finished alteration are different things. The actual studio must confirm what happens at each stage before the page makes any promise.",
+      "cta": "Explain the first visit before asking someone to reserve it.",
+      "risk": "No real studio workflow verified.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "This fictional tailor example diagnoses a scope question, not a real business. An appointment, a quote and a finished alteration are different things. The actual studio must confirm what happens at each stage before the page makes any promise.\n\nExplain the first visit before asking someone to reserve it.",
+      "facebook": "“Book an alteration” is not enough information.\n\nThis fictional tailor example diagnoses a scope question, not a real business. An appointment, a quote and a finished alteration are different things. The actual studio must confirm what happens at each stage before the page makes any promise.\n\nExplain the first visit before asking someone to reserve it.",
+      "tiktok_photo": "“Book an alteration” is not enough information.\n\nExplain the first visit before asking someone to reserve it.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261113-C02",
+      "series": 2,
+      "hook": "Write an appointment description that answers three questions.",
+      "objective": "Practical education",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Write an appointment description that answers three questions.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "ONE: what should the customer bring, if anything?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "TWO: what will be checked or discussed at the first visit?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "THREE: when is a quote or next step actually confirmed?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Include what the appointment does NOT guarantee.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Ask the operator to approve every line before it goes live.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/conclusion.svg"
+        }
+      ],
+      "caption": "A first-visit description is a promise about process, not a decorative booking label. Use these questions to interview the actual studio. Do not assume a fitting, on-the-spot quote or completion time without a verified policy.",
+      "cta": "Ask the operator to approve every line before it goes live.",
+      "risk": "Booking requirements and quote timing unknown.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "A first-visit description is a promise about process, not a decorative booking label. Use these questions to interview the actual studio. Do not assume a fitting, on-the-spot quote or completion time without a verified policy.\n\nAsk the operator to approve every line before it goes live.",
+      "facebook": "Write an appointment description that answers three questions.\n\nA first-visit description is a promise about process, not a decorative booking label. Use these questions to interview the actual studio. Do not assume a fitting, on-the-spot quote or completion time without a verified policy.\n\nAsk the operator to approve every line before it goes live.",
+      "tiktok_photo": "Write an appointment description that answers three questions.\n\nAsk the operator to approve every line before it goes live.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261113-C03",
+      "series": 3,
+      "hook": "Myth: “Same-day” is always the best way to sell an alteration.",
+      "objective": "Claim qualification",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Myth: “Same-day” is always the best way to sell an alteration.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Speed may matter to the buyer, but it is a specific operating claim.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "The work, materials and queue can change what is possible.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "If timing is not confirmed, a generic speed promise misleads.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Better: explain how an actual completion date is agreed.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Verdict: only advertise a turnaround the studio has verified.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/conclusion.svg"
+        }
+      ],
+      "caption": "This is not a claim that tailoring turnaround is always slow or fast. “Same-day” is a commercial promise, and the studio would need to validate its scope and capacity before using it. A clear decision path is stronger than an unsupported deadline.",
+      "cta": "Verdict: only advertise a turnaround the studio has verified.",
+      "risk": "No actual turnaround or materials availability verified.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "This is not a claim that tailoring turnaround is always slow or fast. “Same-day” is a commercial promise, and the studio would need to validate its scope and capacity before using it. A clear decision path is stronger than an unsupported deadline.\n\nVerdict: only advertise a turnaround the studio has verified.",
+      "facebook": "Myth: “Same-day” is always the best way to sell an alteration.\n\nThis is not a claim that tailoring turnaround is always slow or fast. “Same-day” is a commercial promise, and the studio would need to validate its scope and capacity before using it. A clear decision path is stronger than an unsupported deadline.\n\nVerdict: only advertise a turnaround the studio has verified.",
+      "tiktok_photo": "Myth: “Same-day” is always the best way to sell an alteration.\n\nVerdict: only advertise a turnaround the studio has verified.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261113-C04",
+      "series": 4,
+      "hook": "You brought the garment. Now what happens?",
+      "objective": "Shared frustration",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "You brought the garment. Now what happens?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "The customer may expect the work to begin immediately.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "The studio may need to inspect fit and discuss options first.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Neither person is unreasonable; the booking label is incomplete.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Name the first step and explain what follows if work is agreed.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "What appointment detail do you wish you knew in advance?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/conclusion.svg"
+        }
+      ],
+      "caption": "Expectation gaps can start before the first fitting. In this imagined studio, the fix is not to blame the customer or the maker; it is to say what the appointment is for. Have the operator confirm the real steps.",
+      "cta": "What appointment detail do you wish you knew in advance?",
+      "risk": "Illustrative dialogue, not a customer complaint.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "Expectation gaps can start before the first fitting. In this imagined studio, the fix is not to blame the customer or the maker; it is to say what the appointment is for. Have the operator confirm the real steps.\n\nWhat appointment detail do you wish you knew in advance?",
+      "facebook": "You brought the garment. Now what happens?\n\nExpectation gaps can start before the first fitting. In this imagined studio, the fix is not to blame the customer or the maker; it is to say what the appointment is for. Have the operator confirm the real steps.\n\nWhat appointment detail do you wish you knew in advance?",
+      "tiktok_photo": "You brought the garment. Now what happens?\n\nWhat appointment detail do you wish you knew in advance?",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261113-C05",
+      "series": 5,
+      "hook": "If I took a tailor brief, I would follow the first visit.",
+      "objective": "Hypothetical strategy",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "If I took a tailor brief, I would follow the first visit.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "HYPOTHETICAL: a visitor books without knowing what is included.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "First ask the maker to describe the actual visit from arrival to exit.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Mark where options, price and timing are confirmed—not assumed.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Rewrite the booking page around those decision points.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Test it with someone who has never used the studio.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/conclusion.svg"
+        }
+      ],
+      "caption": "This is a hypothetical strategy exercise, not a claim of having worked with a tailoring client. I would interview the operator and review the real appointment path before making a booking promise. The page should describe reality rather than invent a more convenient journey.",
+      "cta": "Test it with someone who has never used the studio.",
+      "risk": "No real studio involvement or process verified.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "This is a hypothetical strategy exercise, not a claim of having worked with a tailoring client. I would interview the operator and review the real appointment path before making a booking promise. The page should describe reality rather than invent a more convenient journey.\n\nTest it with someone who has never used the studio.",
+      "facebook": "If I took a tailor brief, I would follow the first visit.\n\nThis is a hypothetical strategy exercise, not a claim of having worked with a tailoring client. I would interview the operator and review the real appointment path before making a booking promise. The page should describe reality rather than invent a more convenient journey.\n\nTest it with someone who has never used the studio.",
+      "tiktok_photo": "If I took a tailor brief, I would follow the first visit.\n\nTest it with someone who has never used the studio.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261113-C06",
+      "series": 6,
+      "hook": "A booking page cannot approve its own claims.",
+      "objective": "Accountable process",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "A booking page cannot approve its own claims.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "LISTEN: capture the question behind “What happens at the visit?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "DIAGNOSE: compare booking copy against the real service sequence.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "DECIDE: owner confirms scope, exclusions and quote process.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "CREATE + CHECK: write, then test the first-time-reader interpretation.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "DISTRIBUTE after rights, accuracy and final visual checks.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/conclusion.svg"
+        }
+      ],
+      "caption": "This is an accountable editorial process: the writer proposes, the studio owner verifies, the approver releases. The example is fictional, and the sequence does not imply that Easywurld has completed this work for a client.",
+      "cta": "DISTRIBUTE after rights, accuracy and final visual checks.",
+      "risk": "Named studio owner and confirmed terms absent.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "This is an accountable editorial process: the writer proposes, the studio owner verifies, the approver releases. The example is fictional, and the sequence does not imply that Easywurld has completed this work for a client.\n\nDISTRIBUTE after rights, accuracy and final visual checks.",
+      "facebook": "A booking page cannot approve its own claims.\n\nThis is an accountable editorial process: the writer proposes, the studio owner verifies, the approver releases. The example is fictional, and the sequence does not imply that Easywurld has completed this work for a client.\n\nDISTRIBUTE after rights, accuracy and final visual checks.",
+      "tiktok_photo": "A booking page cannot approve its own claims.\n\nDISTRIBUTE after rights, accuracy and final visual checks.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261113-C07",
+      "series": 7,
+      "hook": "What does “alterations appointment” leave unsaid?",
+      "objective": "Sample copy proof",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "What does “alterations appointment” leave unsaid?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "SAMPLE BEFORE: “Book your alterations appointment.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "A buyer still cannot tell whether it is a fitting or a handoff.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "SAMPLE AFTER: “At the visit, we discuss the garment and next step.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "The operator must approve the exact activities and quote timing.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "A more explicit sentence is a demonstration, not a measured result.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/conclusion.svg"
+        }
+      ],
+      "caption": "The before/after lines are fictional copy specimens, not screenshots of an actual studio. The proposed after line describes a possible first visit and needs verification before use. No lift, appointment count or client win is claimed.",
+      "cta": "A more explicit sentence is a demonstration, not a measured result.",
+      "risk": "The sample process may not match a real studio.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "The before/after lines are fictional copy specimens, not screenshots of an actual studio. The proposed after line describes a possible first visit and needs verification before use. No lift, appointment count or client win is claimed.\n\nA more explicit sentence is a demonstration, not a measured result.",
+      "facebook": "What does “alterations appointment” leave unsaid?\n\nThe before/after lines are fictional copy specimens, not screenshots of an actual studio. The proposed after line describes a possible first visit and needs verification before use. No lift, appointment count or client win is claimed.\n\nA more explicit sentence is a demonstration, not a measured result.",
+      "tiktok_photo": "What does “alterations appointment” leave unsaid?\n\nA more explicit sentence is a demonstration, not a measured result.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261113-C08",
+      "series": 8,
+      "hook": "Write the booking CTA for the right next step.",
+      "objective": "Line-level CTA edit",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Write the booking CTA for the right next step.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "VAGUE: “Book now for your alteration.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Question: does booking mean consultation, fitting or confirmed work?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "STRUCTURE: “Request a [verified visit type] to discuss [scope].”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Add the real decision point for price and completion date.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Remove every bracket before any approved public version.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/conclusion.svg"
+        }
+      ],
+      "caption": "A CTA should not promise finished work when the booking is only an initial discussion. This is a skeleton, not ready-to-publish service copy. Confirm the type of visit, price path, destination and operating availability first.",
+      "cta": "Remove every bracket before any approved public version.",
+      "risk": "Booking flow, service type and terms not confirmed.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "A CTA should not promise finished work when the booking is only an initial discussion. This is a skeleton, not ready-to-publish service copy. Confirm the type of visit, price path, destination and operating availability first.\n\nRemove every bracket before any approved public version.",
+      "facebook": "Write the booking CTA for the right next step.\n\nA CTA should not promise finished work when the booking is only an initial discussion. This is a skeleton, not ready-to-publish service copy. Confirm the type of visit, price path, destination and operating availability first.\n\nRemove every bracket before any approved public version.",
+      "tiktok_photo": "Write the booking CTA for the right next step.\n\nRemove every bracket before any approved public version.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261113-C09",
+      "series": 9,
+      "hook": "An assistant cannot inspect a garment through a vague DM.",
+      "objective": "Bounded automation",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "An assistant cannot inspect a garment through a vague DM.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "INPUT: the customer asks for an alteration quote.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "RULE: share only owner-approved first-visit information.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "STOP: do not guarantee price, fit or completion from a message.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "HUMAN: refer garment-specific questions to the maker privately.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Test the stop rule before any proposed reply is deployed.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/conclusion.svg"
+        }
+      ],
+      "caption": "A hypothetical FAQ assistant can explain the process if that process is verified. It should not claim to assess a garment it has not seen or collect unnecessary photos. Nothing here describes a live Easywurld system.",
+      "cta": "Test the stop rule before any proposed reply is deployed.",
+      "risk": "No deployment, privacy approval or service terms.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "A hypothetical FAQ assistant can explain the process if that process is verified. It should not claim to assess a garment it has not seen or collect unnecessary photos. Nothing here describes a live Easywurld system.\n\nTest the stop rule before any proposed reply is deployed.",
+      "facebook": "An assistant cannot inspect a garment through a vague DM.\n\nA hypothetical FAQ assistant can explain the process if that process is verified. It should not claim to assess a garment it has not seen or collect unnecessary photos. Nothing here describes a live Easywurld system.\n\nTest the stop rule before any proposed reply is deployed.",
+      "tiktok_photo": "An assistant cannot inspect a garment through a vague DM.\n\nTest the stop rule before any proposed reply is deployed.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261113-C10",
+      "series": 10,
+      "hook": "What is the right project when appointments confuse buyers?",
+      "objective": "Commercial fit — HOLD",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "What is the right project when appointments confuse buyers?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "First confirm whether the actual issue is copy, process or both.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Possible scope: booking explainer and enquiry-field review.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "A new booking platform, fitting or production capacity is NOT assumed.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Easywurld offer terms and fulfilment remain unverified.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "HOLD this commercial concept until a real service is confirmed.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/conclusion.svg"
+        }
+      ],
+      "caption": "This is an internal commercial-fit draft, not a currently available Easywurld service offer. A live claim needs verified inclusions, exclusions, responsible team, price if applicable and a working contact destination. Do not publish this frame as-is.",
+      "cta": "HOLD this commercial concept until a real service is confirmed.",
+      "risk": "G1 HOLD: Easywurld current offer unverified.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "This is an internal commercial-fit draft, not a currently available Easywurld service offer. A live claim needs verified inclusions, exclusions, responsible team, price if applicable and a working contact destination. Do not publish this frame as-is.\n\nHOLD this commercial concept until a real service is confirmed.",
+      "facebook": "What is the right project when appointments confuse buyers?\n\nThis is an internal commercial-fit draft, not a currently available Easywurld service offer. A live claim needs verified inclusions, exclusions, responsible team, price if applicable and a working contact destination. Do not publish this frame as-is.\n\nHOLD this commercial concept until a real service is confirmed.",
+      "tiktok_photo": "What is the right project when appointments confuse buyers?\n\nHOLD this commercial concept until a real service is confirmed.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261113-C11",
+      "series": 11,
+      "hook": "An honest first step is part of good service.",
+      "objective": "Brand principle",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "An honest first step is part of good service.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Simplify: describe the first visit in plain language.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Optimize: decide who confirms scope, quote and timeframe.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Grow: let the right buyer choose the next step with context.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "In this fictional tailor example, process clarity comes first.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Simplify. Optimize. Grow.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/conclusion.svg"
+        }
+      ],
+      "caption": "The brand direction is “Simplify. Optimize. Grow.” The tailoring scenario is hypothetical; it is here to show how the principles could guide a page, not to assert any engagement or result.",
+      "cta": "Simplify. Optimize. Grow.",
+      "risk": "No Easywurld service delivery proof implied.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "The brand direction is “Simplify. Optimize. Grow.” The tailoring scenario is hypothetical; it is here to show how the principles could guide a page, not to assert any engagement or result.\n\nSimplify. Optimize. Grow.",
+      "facebook": "An honest first step is part of good service.\n\nThe brand direction is “Simplify. Optimize. Grow.” The tailoring scenario is hypothetical; it is here to show how the principles could guide a page, not to assert any engagement or result.\n\nSimplify. Optimize. Grow.",
+      "tiktok_photo": "An honest first step is part of good service.\n\nSimplify. Optimize. Grow.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261113-C12",
+      "series": 4,
+      "hook": "A deadline question is not pressure to make a promise.",
+      "objective": "Distinct timing expectation",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "A deadline question is not pressure to make a promise.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Different problem: collection timing, not the appointment’s scope.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "“Can it be ready by Friday?” deserves an honest process answer.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "The maker may need to see the garment and current work queue.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Say when a collection date can be confirmed—never invent one.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "How do you explain timing without overpromising?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/conclusion.svg"
+        }
+      ],
+      "caption": "A customer with an event date needs clarity; a studio needs time to assess the actual work. This second common-ground post addresses deadline pressure, not what the first appointment includes. There is no verified turnaround in this hypothetical example.",
+      "cta": "How do you explain timing without overpromising?",
+      "risk": "No actual delivery date or tailoring promise verified.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "A customer with an event date needs clarity; a studio needs time to assess the actual work. This second common-ground post addresses deadline pressure, not what the first appointment includes. There is no verified turnaround in this hypothetical example.\n\nHow do you explain timing without overpromising?",
+      "facebook": "A deadline question is not pressure to make a promise.\n\nA customer with an event date needs clarity; a studio needs time to assess the actual work. This second common-ground post addresses deadline pressure, not what the first appointment includes. There is no verified turnaround in this hypothetical example.\n\nHow do you explain timing without overpromising?",
+      "tiktok_photo": "A deadline question is not pressure to make a promise.\n\nHow do you explain timing without overpromising?",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    }
+  ],
+  "stories": [
+    {
+      "id": "EW-20261113-ST1",
+      "kind": "Engagement",
+      "copy": "Before booking a fitting, what would you want to know?\nWhat to bring / Quote timing / Completion timing / Something else",
+      "interaction": "Native poll or question sticker if available; never a drawn button",
+      "cta": "Reply without garment photos or personal details.",
+      "visual": "TEMPLATE_LIBRARY/STORIES/ENGAGEMENT/02_question.svg",
+      "gate": "G1–G4 pending",
+      "publication": "not scheduled"
+    },
+    {
+      "id": "EW-20261113-ST2",
+      "kind": "Education",
+      "copy": "An appointment, a quote and completed work are separate steps. Ask the studio to name when each is confirmed.",
+      "interaction": "No interaction required",
+      "cta": "Save this three-step check.",
+      "visual": "TEMPLATE_LIBRARY/STORIES/EDUCATION/02_tip.svg",
+      "gate": "G1–G4 pending",
+      "publication": "not scheduled"
+    },
+    {
+      "id": "EW-20261113-ST3",
+      "kind": "Conversion HOLD",
+      "copy": "Could a clearer first-visit explanation help a buyer decide? Possible project discussion only; Easywurld offer terms unverified.",
+      "interaction": "No link/contact sticker until destination verified",
+      "cta": "Hold commercial story before G1 approval.",
+      "visual": "TEMPLATE_LIBRARY/STORIES/CONVERSION/04_direct_enquiry.svg",
+      "gate": "G1–G4 pending",
+      "publication": "not scheduled"
+    }
+  ],
+  "linkedin": {
+    "company": [
+      {
+        "id": "EW-20261113-LC1",
+        "topic": "Name the first visit",
+        "hook": "A booking button is not an explanation of an appointment.",
+        "body": "Consider a fictional alteration studio. “Book an appointment” does not say whether the first visit is a fitting, consultation or work handoff. A better service page explains what the customer needs to bring, what the maker will assess and when a quote or date can be confirmed. The real studio must approve those terms. This is not an account of a client project.",
+        "cta": "What would a first-time visitor need to know?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/01_insight.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261113-LC2",
+        "topic": "The truth of turnaround",
+        "hook": "“Same-day” should be a verified service condition, not a flourish.",
+        "body": "If a garment-specific quote or finish date depends on inspection and capacity, public copy should say how that decision is made. That does not mean a studio cannot ever offer quick work. It means the condition, exclusions and availability must be checked before any speed claim is published.",
+        "cta": "Which timing promise has an owner?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/02_education_document.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261113-LC3",
+        "topic": "A sample edit with a hold",
+        "hook": "A clearer CTA can still be wrong if the workflow is imaginary.",
+        "body": "SAMPLE BEFORE: “Book your alteration now.” SAMPLE AFTER: “Request a [confirmed visit type] to discuss [confirmed scope].” Brackets are deliberate. The maker needs to confirm the real visit type, booking route, quote step and availability before this becomes public copy. There is no claimed conversion result here.",
+        "cta": "What would you verify before removing the brackets?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/03_diagnosis.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261113-LC4",
+        "topic": "Scope versus tool",
+        "hook": "Not every booking problem needs a new booking platform.",
+        "body": "If the calendar works but the offer is ambiguous, the first test could be a clearer description of the actual visit. If the workflow itself is broken, copy cannot repair operational gaps. Diagnose which step fails before proposing technology. This is an editorial hypothesis about a fictional studio.",
+        "cta": "Is the gap in the words or the service path?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/04_strategy_framework.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261113-LC5",
+        "topic": "Useful evidence for the next review",
+        "hook": "Review what buyers ask after reading the page.",
+        "body": "A better first-visit explainer is a hypothesis until buyers use it. Collect real, consented questions; check whether the new wording answers them; note where garment-specific judgement still needs a person. We have no data or measured result from this fictional example.",
+        "cta": "What question would you look for after the change?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/07_principle.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      }
+    ],
+    "personal": [
+      {
+        "id": "EW-20261113-LP1",
+        "topic": "A booking promise I would test",
+        "hook": "I would not write “fitting included” before asking the maker.",
+        "body": "For a hypothetical studio I would walk through the actual first visit and ask when price and completion are decided. Then I would write the appointment description from that sequence. It is a method I would propose, not an account of an alteration client or result.",
+        "cta": "Which step would you put on the booking page?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/01_observation.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261113-LP2",
+        "topic": "The distinction that matters",
+        "hook": "A request for an appointment is not agreement to every alteration.",
+        "body": "I would want a page to leave room for the maker to assess feasibility and for the customer to choose whether to proceed. That is my proposed editorial view, not an assertion about any specific studio’s policies. Clarity protects both sides of the conversation.",
+        "cta": "Where does your process invite a decision?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/03_industry_opinion.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261113-LP3",
+        "topic": "Why I would hold the promise",
+        "hook": "I would rather leave a deadline blank than invent Friday.",
+        "body": "A finished-by date depends on the actual garment, work queue and maker. I can draft a respectful timing explanation, but only the operator can confirm a service promise. This is not a personal tale of a deadline I delivered; it is a proposed guardrail for copy.",
+        "cta": "How do you phrase an honest timing answer?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/05_educational_breakdown.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      }
+    ]
+  },
+  "source": "new authored first-batch source; art directions from approved-for-drafting visual library"
+}

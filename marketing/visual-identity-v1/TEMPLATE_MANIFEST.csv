@@ -1,0 +1,86 @@
+index,file_path,family,role,format,size,essential_safe_x1_y1_x2_y2,status
+1,TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/cover.svg,Marketing Diagnosis,cover,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+2,TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg,Marketing Diagnosis,interior-a,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+3,TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-b.svg,Marketing Diagnosis,interior-b,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+4,TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/conclusion.svg,Marketing Diagnosis,conclusion,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+5,TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/tiktok-photo-cover.svg,Marketing Diagnosis,cover,TikTok photo reflow,1080x1920,110 300 850 1460,editable sample / font & platform checks pending
+6,TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/cover.svg,Marketing Education,cover,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+7,TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg,Marketing Education,interior-a,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+8,TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg,Marketing Education,interior-b,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+9,TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/conclusion.svg,Marketing Education,conclusion,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+10,TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/tiktok-photo-cover.svg,Marketing Education,cover,TikTok photo reflow,1080x1920,110 300 850 1460,editable sample / font & platform checks pending
+11,TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/cover.svg,Marketing Myths and Truths,cover,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+12,TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-a.svg,Marketing Myths and Truths,interior-a,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+13,TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-b.svg,Marketing Myths and Truths,interior-b,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+14,TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/conclusion.svg,Marketing Myths and Truths,conclusion,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+15,TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/tiktok-photo-cover.svg,Marketing Myths and Truths,cover,TikTok photo reflow,1080x1920,110 300 850 1460,editable sample / font & platform checks pending
+16,TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/cover.svg,Relatable Enemy / Common Ground,cover,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+17,TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-a.svg,Relatable Enemy / Common Ground,interior-a,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+18,TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-b.svg,Relatable Enemy / Common Ground,interior-b,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+19,TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/conclusion.svg,Relatable Enemy / Common Ground,conclusion,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+20,TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/tiktok-photo-cover.svg,Relatable Enemy / Common Ground,cover,TikTok photo reflow,1080x1920,110 300 850 1460,editable sample / font & platform checks pending
+21,TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/cover.svg,If I Were Hired Today,cover,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+22,TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-a.svg,If I Were Hired Today,interior-a,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+23,TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-b.svg,If I Were Hired Today,interior-b,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+24,TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/conclusion.svg,If I Were Hired Today,conclusion,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+25,TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/tiktok-photo-cover.svg,If I Were Hired Today,cover,TikTok photo reflow,1080x1920,110 300 850 1460,editable sample / font & platform checks pending
+26,TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/cover.svg,Easywurld Client Process,cover,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+27,TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-a.svg,Easywurld Client Process,interior-a,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+28,TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-b.svg,Easywurld Client Process,interior-b,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+29,TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/conclusion.svg,Easywurld Client Process,conclusion,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+30,TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/tiktok-photo-cover.svg,Easywurld Client Process,cover,TikTok photo reflow,1080x1920,110 300 850 1460,editable sample / font & platform checks pending
+31,TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/cover.svg,Proof and Practical Demonstration,cover,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+32,TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-a.svg,Proof and Practical Demonstration,interior-a,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+33,TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-b.svg,Proof and Practical Demonstration,interior-b,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+34,TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/conclusion.svg,Proof and Practical Demonstration,conclusion,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+35,TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/tiktok-photo-cover.svg,Proof and Practical Demonstration,cover,TikTok photo reflow,1080x1920,110 300 850 1460,editable sample / font & platform checks pending
+36,TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/cover.svg,Growth Strategy and Copywriting,cover,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+37,TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-a.svg,Growth Strategy and Copywriting,interior-a,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+38,TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-b.svg,Growth Strategy and Copywriting,interior-b,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+39,TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/conclusion.svg,Growth Strategy and Copywriting,conclusion,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+40,TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/tiktok-photo-cover.svg,Growth Strategy and Copywriting,cover,TikTok photo reflow,1080x1920,110 300 850 1460,editable sample / font & platform checks pending
+41,TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/cover.svg,AI and Business Automation,cover,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+42,TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-a.svg,AI and Business Automation,interior-a,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+43,TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-b.svg,AI and Business Automation,interior-b,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+44,TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/conclusion.svg,AI and Business Automation,conclusion,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+45,TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/tiktok-photo-cover.svg,AI and Business Automation,cover,TikTok photo reflow,1080x1920,110 300 850 1460,editable sample / font & platform checks pending
+46,TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/cover.svg,Offer and Solution,cover,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+47,TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-a.svg,Offer and Solution,interior-a,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+48,TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-b.svg,Offer and Solution,interior-b,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+49,TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/conclusion.svg,Offer and Solution,conclusion,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+50,TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/tiktok-photo-cover.svg,Offer and Solution,cover,TikTok photo reflow,1080x1920,110 300 850 1460,editable sample / font & platform checks pending
+51,TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/cover.svg,Meet Easywurld,cover,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+52,TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-a.svg,Meet Easywurld,interior-a,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+53,TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-b.svg,Meet Easywurld,interior-b,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+54,TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/conclusion.svg,Meet Easywurld,conclusion,carousel,1080x1350,110 155 970 1170,editable sample / font & platform checks pending
+55,TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/tiktok-photo-cover.svg,Meet Easywurld,cover,TikTok photo reflow,1080x1920,110 300 850 1460,editable sample / font & platform checks pending
+56,TEMPLATE_LIBRARY/STORIES/ENGAGEMENT/01_poll.svg,ENGAGEMENT,01_poll,story,1080x1920,110 260 970 1500,editable sample / font & platform checks pending
+57,TEMPLATE_LIBRARY/STORIES/ENGAGEMENT/02_question.svg,ENGAGEMENT,02_question,story,1080x1920,110 260 970 1500,editable sample / font & platform checks pending
+58,TEMPLATE_LIBRARY/STORIES/ENGAGEMENT/03_this_or_that.svg,ENGAGEMENT,03_this_or_that,story,1080x1920,110 260 970 1500,editable sample / font & platform checks pending
+59,TEMPLATE_LIBRARY/STORIES/ENGAGEMENT/04_opinion.svg,ENGAGEMENT,04_opinion,story,1080x1920,110 260 970 1500,editable sample / font & platform checks pending
+60,TEMPLATE_LIBRARY/STORIES/EDUCATION/01_one_minute_lesson.svg,EDUCATION,01_one_minute_lesson,story,1080x1920,110 260 970 1500,editable sample / font & platform checks pending
+61,TEMPLATE_LIBRARY/STORIES/EDUCATION/02_tip.svg,EDUCATION,02_tip,story,1080x1920,110 260 970 1500,editable sample / font & platform checks pending
+62,TEMPLATE_LIBRARY/STORIES/EDUCATION/03_myth_truth.svg,EDUCATION,03_myth_truth,story,1080x1920,110 260 970 1500,editable sample / font & platform checks pending
+63,TEMPLATE_LIBRARY/STORIES/EDUCATION/04_continuation.svg,EDUCATION,04_continuation,story,1080x1920,110 260 970 1500,editable sample / font & platform checks pending
+64,TEMPLATE_LIBRARY/STORIES/CONVERSION/01_service_spotlight.svg,CONVERSION,01_service_spotlight,story,1080x1920,110 260 970 1500,editable sample / font & platform checks pending
+65,TEMPLATE_LIBRARY/STORIES/CONVERSION/02_offer.svg,CONVERSION,02_offer,story,1080x1920,110 260 970 1500,editable sample / font & platform checks pending
+66,TEMPLATE_LIBRARY/STORIES/CONVERSION/03_problem_solution.svg,CONVERSION,03_problem_solution,story,1080x1920,110 260 970 1500,editable sample / font & platform checks pending
+67,TEMPLATE_LIBRARY/STORIES/CONVERSION/04_direct_enquiry.svg,CONVERSION,04_direct_enquiry,story,1080x1920,110 260 970 1500,editable sample / font & platform checks pending
+68,TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/01_insight.svg,BUSINESS_PAGE,01_insight,LinkedIn,1200x1200,110 135 1090 1030,editable sample / font & platform checks pending
+69,TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/02_education_document.svg,BUSINESS_PAGE,02_education_document,LinkedIn,1080x1350,110 155 970 1180,editable sample / font & platform checks pending
+70,TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/02_education_document-inside-a.svg,BUSINESS_PAGE,02_education_document-inside-a,LinkedIn document,1080x1350,110 155 970 1180,editable sample / font & platform checks pending
+71,TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/02_education_document-inside-b.svg,BUSINESS_PAGE,02_education_document-inside-b,LinkedIn document,1080x1350,110 155 970 1180,editable sample / font & platform checks pending
+72,TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/02_education_document-conclusion.svg,BUSINESS_PAGE,02_education_document-conclusion,LinkedIn document,1080x1350,110 155 970 1180,editable sample / font & platform checks pending
+73,TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/03_diagnosis.svg,BUSINESS_PAGE,03_diagnosis,LinkedIn,1200x1200,110 135 1090 1030,editable sample / font & platform checks pending
+74,TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/04_strategy_framework.svg,BUSINESS_PAGE,04_strategy_framework,LinkedIn,1080x1350,110 155 970 1180,editable sample / font & platform checks pending
+75,TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/05_service_explanation.svg,BUSINESS_PAGE,05_service_explanation,LinkedIn,1200x1200,110 135 1090 1030,editable sample / font & platform checks pending
+76,TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/06_practical_demo.svg,BUSINESS_PAGE,06_practical_demo,LinkedIn,1080x1350,110 155 970 1180,editable sample / font & platform checks pending
+77,TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/06_practical_demo-inside.svg,BUSINESS_PAGE,06_practical_demo-inside,LinkedIn document,1080x1350,110 155 970 1180,editable sample / font & platform checks pending
+78,TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/07_principle.svg,BUSINESS_PAGE,07_principle,LinkedIn,1200x628,110 120 1090 520,editable sample / font & platform checks pending
+79,TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/01_observation.svg,PERSONAL_PAGE,01_observation,LinkedIn,1200x1200,110 135 1090 1030,editable sample / font & platform checks pending
+80,TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/02_lessons_learned.svg,PERSONAL_PAGE,02_lessons_learned,LinkedIn,1080x1350,110 155 970 1180,editable sample / font & platform checks pending
+81,TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/03_industry_opinion.svg,PERSONAL_PAGE,03_industry_opinion,LinkedIn,1200x628,110 120 1090 520,editable sample / font & platform checks pending
+82,TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/04_project_update.svg,PERSONAL_PAGE,04_project_update,LinkedIn,1200x1200,110 135 1090 1030,editable sample / font & platform checks pending
+83,TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/05_educational_breakdown.svg,PERSONAL_PAGE,05_educational_breakdown,LinkedIn,1080x1350,110 155 970 1180,editable sample / font & platform checks pending
+84,TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/05_educational_breakdown-inside.svg,PERSONAL_PAGE,05_educational_breakdown-inside,LinkedIn document,1080x1350,110 155 970 1180,editable sample / font & platform checks pending
+85,TEMPLATE_LIBRARY/COMPONENTS/COMPONENT_LIBRARY.svg,Easywurld,reusable components,component sheet,1200x1650,105 130 1095 1565,editable sample / font & platform checks pending

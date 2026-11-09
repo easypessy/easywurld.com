@@ -1,0 +1,13 @@
+id,closest_old_id,lexical_similarity,exact_hook_collision,semantic_and_live_queue_review
+N11-20261111-S01,V2-20261214-03,0.51,False,pending
+N11-20261111-S02,CF-20261113-09,0.48,False,pending
+N11-20261111-S03,EW-D04-S02,0.67,False,pending
+N11-20261111-S04,V2-20261226-03,0.5,False,pending
+N11-20261111-S05,EW-D11-S01,0.56,False,pending
+N11-20261111-S06,CF-20261114-11,0.46,False,pending
+N11-20261111-S07,CF-20261114-11,0.44,False,pending
+N11-20261111-S08,CF-20261110-02,0.51,False,pending
+N11-20261111-S09,CF-20261110-09,0.66,False,pending
+N11-20261111-S10,EW-D02-S11,0.51,False,pending
+N11-20261111-S11,EW-D09-S06,0.52,False,pending
+N11-20261111-S12,CF-20261113-01,0.48,False,pending

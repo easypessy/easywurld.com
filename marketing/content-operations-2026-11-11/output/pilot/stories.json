@@ -1,0 +1,26 @@
+[
+  {
+    "kind": "Engagement",
+    "objective": "Collect a real audience question for later research",
+    "copy": "Which question do customers ask you every week?\nA. What is included?\nB. How much?\nC. Do you cover my area?\nD. Something else — reply",
+    "interaction": "Poll: A/B/C/D where the platform supports it; otherwise question sticker or text replies",
+    "visual": "Beige field, four outlined green answer rows; no invented poll result",
+    "cta": "Vote or reply; no private customer details."
+  },
+  {
+    "kind": "Education",
+    "objective": "Extend the first-screen test without copying the carousel",
+    "copy": "Quick test: ask someone new to your page, “What do you think I sell?”\nIf their answer surprises you, write down the exact words before editing.",
+    "interaction": "Optional question sticker: What did they say? (no personal details)",
+    "visual": "One open notebook line and small green question mark",
+    "cta": "Try this with one willing reader."
+  },
+  {
+    "kind": "Conversion",
+    "objective": "Invite a scoped conversation without a price claim",
+    "copy": "If your customers keep asking the same buying question, your message may need a clearer route.\nWant to discuss the gap? Message CLARITY. We’ll confirm what help is available.",
+    "interaction": "DM keyword only if account owner confirms inbox monitoring",
+    "visual": "Green field, beige type; one understated message icon",
+    "cta": "Message CLARITY after monitoring and service availability are confirmed."
+  }
+]

@@ -1,0 +1,1277 @@
+[
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/cover.svg",
+    "kind": "carousel",
+    "family": "Marketing Diagnosis",
+    "role": "cover",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg",
+    "kind": "carousel",
+    "family": "Marketing Diagnosis",
+    "role": "interior-a",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-b.svg",
+    "kind": "carousel",
+    "family": "Marketing Diagnosis",
+    "role": "interior-b",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/conclusion.svg",
+    "kind": "carousel",
+    "family": "Marketing Diagnosis",
+    "role": "conclusion",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/tiktok-photo-cover.svg",
+    "kind": "TikTok photo reflow",
+    "family": "Marketing Diagnosis",
+    "role": "cover",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      300,
+      850,
+      1460
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/cover.svg",
+    "kind": "carousel",
+    "family": "Marketing Education",
+    "role": "cover",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg",
+    "kind": "carousel",
+    "family": "Marketing Education",
+    "role": "interior-a",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg",
+    "kind": "carousel",
+    "family": "Marketing Education",
+    "role": "interior-b",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/conclusion.svg",
+    "kind": "carousel",
+    "family": "Marketing Education",
+    "role": "conclusion",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/tiktok-photo-cover.svg",
+    "kind": "TikTok photo reflow",
+    "family": "Marketing Education",
+    "role": "cover",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      300,
+      850,
+      1460
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/cover.svg",
+    "kind": "carousel",
+    "family": "Marketing Myths and Truths",
+    "role": "cover",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-a.svg",
+    "kind": "carousel",
+    "family": "Marketing Myths and Truths",
+    "role": "interior-a",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-b.svg",
+    "kind": "carousel",
+    "family": "Marketing Myths and Truths",
+    "role": "interior-b",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/conclusion.svg",
+    "kind": "carousel",
+    "family": "Marketing Myths and Truths",
+    "role": "conclusion",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/tiktok-photo-cover.svg",
+    "kind": "TikTok photo reflow",
+    "family": "Marketing Myths and Truths",
+    "role": "cover",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      300,
+      850,
+      1460
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/cover.svg",
+    "kind": "carousel",
+    "family": "Relatable Enemy / Common Ground",
+    "role": "cover",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-a.svg",
+    "kind": "carousel",
+    "family": "Relatable Enemy / Common Ground",
+    "role": "interior-a",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-b.svg",
+    "kind": "carousel",
+    "family": "Relatable Enemy / Common Ground",
+    "role": "interior-b",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/conclusion.svg",
+    "kind": "carousel",
+    "family": "Relatable Enemy / Common Ground",
+    "role": "conclusion",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/tiktok-photo-cover.svg",
+    "kind": "TikTok photo reflow",
+    "family": "Relatable Enemy / Common Ground",
+    "role": "cover",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      300,
+      850,
+      1460
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/cover.svg",
+    "kind": "carousel",
+    "family": "If I Were Hired Today",
+    "role": "cover",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-a.svg",
+    "kind": "carousel",
+    "family": "If I Were Hired Today",
+    "role": "interior-a",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-b.svg",
+    "kind": "carousel",
+    "family": "If I Were Hired Today",
+    "role": "interior-b",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/conclusion.svg",
+    "kind": "carousel",
+    "family": "If I Were Hired Today",
+    "role": "conclusion",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/tiktok-photo-cover.svg",
+    "kind": "TikTok photo reflow",
+    "family": "If I Were Hired Today",
+    "role": "cover",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      300,
+      850,
+      1460
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/cover.svg",
+    "kind": "carousel",
+    "family": "Easywurld Client Process",
+    "role": "cover",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-a.svg",
+    "kind": "carousel",
+    "family": "Easywurld Client Process",
+    "role": "interior-a",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-b.svg",
+    "kind": "carousel",
+    "family": "Easywurld Client Process",
+    "role": "interior-b",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/conclusion.svg",
+    "kind": "carousel",
+    "family": "Easywurld Client Process",
+    "role": "conclusion",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/tiktok-photo-cover.svg",
+    "kind": "TikTok photo reflow",
+    "family": "Easywurld Client Process",
+    "role": "cover",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      300,
+      850,
+      1460
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/cover.svg",
+    "kind": "carousel",
+    "family": "Proof and Practical Demonstration",
+    "role": "cover",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-a.svg",
+    "kind": "carousel",
+    "family": "Proof and Practical Demonstration",
+    "role": "interior-a",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-b.svg",
+    "kind": "carousel",
+    "family": "Proof and Practical Demonstration",
+    "role": "interior-b",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/conclusion.svg",
+    "kind": "carousel",
+    "family": "Proof and Practical Demonstration",
+    "role": "conclusion",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/tiktok-photo-cover.svg",
+    "kind": "TikTok photo reflow",
+    "family": "Proof and Practical Demonstration",
+    "role": "cover",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      300,
+      850,
+      1460
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/cover.svg",
+    "kind": "carousel",
+    "family": "Growth Strategy and Copywriting",
+    "role": "cover",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-a.svg",
+    "kind": "carousel",
+    "family": "Growth Strategy and Copywriting",
+    "role": "interior-a",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-b.svg",
+    "kind": "carousel",
+    "family": "Growth Strategy and Copywriting",
+    "role": "interior-b",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/conclusion.svg",
+    "kind": "carousel",
+    "family": "Growth Strategy and Copywriting",
+    "role": "conclusion",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/tiktok-photo-cover.svg",
+    "kind": "TikTok photo reflow",
+    "family": "Growth Strategy and Copywriting",
+    "role": "cover",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      300,
+      850,
+      1460
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/cover.svg",
+    "kind": "carousel",
+    "family": "AI and Business Automation",
+    "role": "cover",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-a.svg",
+    "kind": "carousel",
+    "family": "AI and Business Automation",
+    "role": "interior-a",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-b.svg",
+    "kind": "carousel",
+    "family": "AI and Business Automation",
+    "role": "interior-b",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/conclusion.svg",
+    "kind": "carousel",
+    "family": "AI and Business Automation",
+    "role": "conclusion",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/tiktok-photo-cover.svg",
+    "kind": "TikTok photo reflow",
+    "family": "AI and Business Automation",
+    "role": "cover",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      300,
+      850,
+      1460
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/cover.svg",
+    "kind": "carousel",
+    "family": "Offer and Solution",
+    "role": "cover",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-a.svg",
+    "kind": "carousel",
+    "family": "Offer and Solution",
+    "role": "interior-a",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-b.svg",
+    "kind": "carousel",
+    "family": "Offer and Solution",
+    "role": "interior-b",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/conclusion.svg",
+    "kind": "carousel",
+    "family": "Offer and Solution",
+    "role": "conclusion",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/tiktok-photo-cover.svg",
+    "kind": "TikTok photo reflow",
+    "family": "Offer and Solution",
+    "role": "cover",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      300,
+      850,
+      1460
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/cover.svg",
+    "kind": "carousel",
+    "family": "Meet Easywurld",
+    "role": "cover",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-a.svg",
+    "kind": "carousel",
+    "family": "Meet Easywurld",
+    "role": "interior-a",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-b.svg",
+    "kind": "carousel",
+    "family": "Meet Easywurld",
+    "role": "interior-b",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/conclusion.svg",
+    "kind": "carousel",
+    "family": "Meet Easywurld",
+    "role": "conclusion",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1170
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/tiktok-photo-cover.svg",
+    "kind": "TikTok photo reflow",
+    "family": "Meet Easywurld",
+    "role": "cover",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      300,
+      850,
+      1460
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/STORIES/ENGAGEMENT/01_poll.svg",
+    "kind": "story",
+    "family": "ENGAGEMENT",
+    "role": "01_poll",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      260,
+      970,
+      1500
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/STORIES/ENGAGEMENT/02_question.svg",
+    "kind": "story",
+    "family": "ENGAGEMENT",
+    "role": "02_question",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      260,
+      970,
+      1500
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/STORIES/ENGAGEMENT/03_this_or_that.svg",
+    "kind": "story",
+    "family": "ENGAGEMENT",
+    "role": "03_this_or_that",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      260,
+      970,
+      1500
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/STORIES/ENGAGEMENT/04_opinion.svg",
+    "kind": "story",
+    "family": "ENGAGEMENT",
+    "role": "04_opinion",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      260,
+      970,
+      1500
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/STORIES/EDUCATION/01_one_minute_lesson.svg",
+    "kind": "story",
+    "family": "EDUCATION",
+    "role": "01_one_minute_lesson",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      260,
+      970,
+      1500
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/STORIES/EDUCATION/02_tip.svg",
+    "kind": "story",
+    "family": "EDUCATION",
+    "role": "02_tip",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      260,
+      970,
+      1500
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/STORIES/EDUCATION/03_myth_truth.svg",
+    "kind": "story",
+    "family": "EDUCATION",
+    "role": "03_myth_truth",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      260,
+      970,
+      1500
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/STORIES/EDUCATION/04_continuation.svg",
+    "kind": "story",
+    "family": "EDUCATION",
+    "role": "04_continuation",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      260,
+      970,
+      1500
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/STORIES/CONVERSION/01_service_spotlight.svg",
+    "kind": "story",
+    "family": "CONVERSION",
+    "role": "01_service_spotlight",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      260,
+      970,
+      1500
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/STORIES/CONVERSION/02_offer.svg",
+    "kind": "story",
+    "family": "CONVERSION",
+    "role": "02_offer",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      260,
+      970,
+      1500
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/STORIES/CONVERSION/03_problem_solution.svg",
+    "kind": "story",
+    "family": "CONVERSION",
+    "role": "03_problem_solution",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      260,
+      970,
+      1500
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/STORIES/CONVERSION/04_direct_enquiry.svg",
+    "kind": "story",
+    "family": "CONVERSION",
+    "role": "04_direct_enquiry",
+    "size": "1080x1920",
+    "safe": [
+      110,
+      260,
+      970,
+      1500
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/01_insight.svg",
+    "kind": "LinkedIn",
+    "family": "BUSINESS_PAGE",
+    "role": "01_insight",
+    "size": "1200x1200",
+    "safe": [
+      110,
+      135,
+      1090,
+      1030
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/02_education_document.svg",
+    "kind": "LinkedIn",
+    "family": "BUSINESS_PAGE",
+    "role": "02_education_document",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1180
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/02_education_document-inside-a.svg",
+    "kind": "LinkedIn document",
+    "family": "BUSINESS_PAGE",
+    "role": "02_education_document-inside-a",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1180
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/02_education_document-inside-b.svg",
+    "kind": "LinkedIn document",
+    "family": "BUSINESS_PAGE",
+    "role": "02_education_document-inside-b",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1180
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/02_education_document-conclusion.svg",
+    "kind": "LinkedIn document",
+    "family": "BUSINESS_PAGE",
+    "role": "02_education_document-conclusion",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1180
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/03_diagnosis.svg",
+    "kind": "LinkedIn",
+    "family": "BUSINESS_PAGE",
+    "role": "03_diagnosis",
+    "size": "1200x1200",
+    "safe": [
+      110,
+      135,
+      1090,
+      1030
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/04_strategy_framework.svg",
+    "kind": "LinkedIn",
+    "family": "BUSINESS_PAGE",
+    "role": "04_strategy_framework",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1180
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/05_service_explanation.svg",
+    "kind": "LinkedIn",
+    "family": "BUSINESS_PAGE",
+    "role": "05_service_explanation",
+    "size": "1200x1200",
+    "safe": [
+      110,
+      135,
+      1090,
+      1030
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/06_practical_demo.svg",
+    "kind": "LinkedIn",
+    "family": "BUSINESS_PAGE",
+    "role": "06_practical_demo",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1180
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/06_practical_demo-inside.svg",
+    "kind": "LinkedIn document",
+    "family": "BUSINESS_PAGE",
+    "role": "06_practical_demo-inside",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1180
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/07_principle.svg",
+    "kind": "LinkedIn",
+    "family": "BUSINESS_PAGE",
+    "role": "07_principle",
+    "size": "1200x628",
+    "safe": [
+      110,
+      120,
+      1090,
+      520
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/01_observation.svg",
+    "kind": "LinkedIn",
+    "family": "PERSONAL_PAGE",
+    "role": "01_observation",
+    "size": "1200x1200",
+    "safe": [
+      110,
+      135,
+      1090,
+      1030
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/02_lessons_learned.svg",
+    "kind": "LinkedIn",
+    "family": "PERSONAL_PAGE",
+    "role": "02_lessons_learned",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1180
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/03_industry_opinion.svg",
+    "kind": "LinkedIn",
+    "family": "PERSONAL_PAGE",
+    "role": "03_industry_opinion",
+    "size": "1200x628",
+    "safe": [
+      110,
+      120,
+      1090,
+      520
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/04_project_update.svg",
+    "kind": "LinkedIn",
+    "family": "PERSONAL_PAGE",
+    "role": "04_project_update",
+    "size": "1200x1200",
+    "safe": [
+      110,
+      135,
+      1090,
+      1030
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/05_educational_breakdown.svg",
+    "kind": "LinkedIn",
+    "family": "PERSONAL_PAGE",
+    "role": "05_educational_breakdown",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1180
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/05_educational_breakdown-inside.svg",
+    "kind": "LinkedIn document",
+    "family": "PERSONAL_PAGE",
+    "role": "05_educational_breakdown-inside",
+    "size": "1080x1350",
+    "safe": [
+      110,
+      155,
+      970,
+      1180
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  },
+  {
+    "path": "TEMPLATE_LIBRARY/COMPONENTS/COMPONENT_LIBRARY.svg",
+    "kind": "component sheet",
+    "family": "Easywurld",
+    "role": "reusable components",
+    "size": "1200x1650",
+    "safe": [
+      105,
+      130,
+      1095,
+      1565
+    ],
+    "version": "1.0",
+    "status": "editable sample / font & platform checks pending"
+  }
+]

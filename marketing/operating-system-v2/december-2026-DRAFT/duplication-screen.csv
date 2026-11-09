@@ -1,0 +1,331 @@
+new_id,hook,closest_old_id,similarity,manual_review,live_queue_check
+V2-20261202-01,The mobile car wash page leaves one question open.,CF-20261107-03,0.54,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261202-02,Teach mobile phone repairer buyers what to check first.,EW-D09-S07,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261202-03,Myth: A term fee tells parents how many classes they get.,CF-20261110-03,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261202-04,The owner of an appliance-installation team is repeating one answer.,EW-D26-S01,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261202-05,Hypothetical: I take over an artisan bread subscription brief today.,CF-20261112-05,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261202-06,What happens during intake and brief for a fabric-dye studio?,EW-D02-S06,0.43,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261202-07,Illustrative rewrite: ceramic tile dealer wording.,CF-20261108-07,0.67,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261202-08,Copy move: name what the buyer receives.,CF-20261109-08,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261202-09,The independent cleaning co-op enquiry needs a human gate.,EW-D30-S08,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261202-10,When a private music teacher needs landing pages.,EW-D04-S06,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261202-11,Clarity is a service.,CF-20261115-07,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261203-01,An enquiry to a bike-rental kiosk needs a better first screen.,CF-20261113-03,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261203-02,A juice-prep business lesson starts with the next question.,CF-20261110-01,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261203-03,Myth: Clinical case details can arrive in any file.,CF-20261115-03,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261203-04,The public-speaking coach inbox has a hidden tax.,EW-D16-S05,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261203-05,Hypothetical: I take over a remote bookkeeping practice brief today.,CF-20261107-05,0.58,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261203-06,What happens during audience/offer diagnosis for a community bookstore?,CF-20261115-09,0.42,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261203-07,Illustrative rewrite: home laundry pickup wording.,CF-20261110-07,0.70,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261203-08,Copy move: use genuine customer phrasing with consent.,EW-D12-S04,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261203-09,The solar maintenance team enquiry needs a human gate.,EW-D23-S05,0.58,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261203-10,When a small cold-chain courier needs business systems.,EW-D13-S10,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261203-11,A good question can save a bad campaign.,CF-20261107-02,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261204-01,This craft-supply shop page hides a buying detail.,EW-D27-S05,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261204-02,The plant nursery buyer needs this explanation.,EW-D24-S05,0.58,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261204-03,Myth: Wholesale minimums only matter after checkout.,CF-20261108-03,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261204-04,This organic spice seller owner needs a clearer system.,CF-20261112-05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261204-05,Hypothetical: I take over a mobile car wash brief today.,CF-20261108-05,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261204-06,What happens during strategy and claim review for a mobile phone repairer?,CF-20261111-08,0.39,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261204-07,Illustrative rewrite: local theatre school wording.,CF-20261110-07,0.67,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261204-08,Copy move: turn a feature into an actual use.,EW-D28-S07,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261204-09,The artisan bread subscription enquiry needs a human gate.,EW-D23-S05,0.54,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261204-10,When a fabric-dye studio needs social media.,EW-D23-S08,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261204-11,The offer must survive a small screen.,CF-20261111-06,0.59,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261205-01,The private music teacher page leaves one question open.,EW-D27-S05,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261205-02,Teach storage-locker operator buyers what to check first.,CF-20261115-01,0.45,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261205-03,Myth: All translations have the same certification status.,EW-D18-S08,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261205-04,The owner of a neighbourhood print kiosk is repeating one answer.,EW-D12-S06,0.45,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261205-05,Hypothetical: I take over a bike-rental kiosk brief today.,CF-20261115-05,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261205-06,What happens during concept approval for a juice-prep business?,CF-20261112-06,0.46,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261205-07,Illustrative rewrite: independent dental lab wording.,CF-20261108-07,0.65,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261205-08,Copy move: make a promise narrow enough to prove.,CF-20261113-09,0.46,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261205-09,The remote bookkeeping practice enquiry needs a human gate.,EW-D17-S06,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261205-10,When a community bookstore needs copywriting.,EW-D18-S06,0.55,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261205-11,A brief is a kindness to the team.,CF-20261111-01,0.54,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261206-01,An enquiry to a small cold-chain courier needs a better first screen.,CF-20261113-03,0.46,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261206-02,A independent optician lesson starts with the next question.,CF-20261110-01,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261206-03,Myth: Beginners can choose an advanced class from its title.,EW-D26-S02,0.46,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261206-04,The art-framing shop inbox has a hidden tax.,CF-20261111-06,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261206-05,Hypothetical: I take over a craft-supply shop brief today.,CF-20261108-05,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261206-06,What happens during copy handoff for a plant nursery?,EW-D12-S06,0.45,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261206-07,Illustrative rewrite: reusable-packaging supplier wording.,CF-20261111-07,0.66,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261206-08,Copy move: give instructions in action order.,EW-D20-S11,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261206-09,The mobile car wash enquiry needs a human gate.,EW-D23-S05,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261206-10,When a mobile phone repairer needs reports & presentations.,CF-20261113-06,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261206-11,Growth should be measured honestly.,CF-20261111-06,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261207-01,This fabric-dye studio page hides a buying detail.,EW-D27-S05,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261207-02,The ceramic tile dealer buyer needs this explanation.,EW-D24-S05,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261207-03,Myth: A scent name explains candle size and care.,CF-20261110-03,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261207-04,This independent cleaning co-op owner needs a clearer system.,EW-D22-S05,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261207-05,Hypothetical: I take over a private music teacher brief today.,CF-20261112-05,0.54,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261207-06,What happens during creative and rights review for a storage-locker operator?,EW-D07-S02,0.40,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261207-07,Illustrative rewrite: language translation studio wording.,CF-20261114-07,0.69,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261207-08,Copy move: use a demonstration instead of a superlative.,CF-20261108-11,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261207-09,The bike-rental kiosk enquiry needs a human gate.,EW-D23-S05,0.55,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261207-10,When a juice-prep business needs digital marketing.,CF-20261113-03,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261207-11,Simple systems are easier to own.,EW-D22-S10,0.54,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261208-01,The community bookstore page leaves one question open.,EW-D27-S05,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261208-02,Teach home laundry pickup buyers what to check first.,CF-20261109-05,0.45,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261208-03,Myth: Cute photos tell owners the boarding rules.,CF-20261113-01,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261208-04,The owner of a solar maintenance team is repeating one answer.,EW-D08-S04,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261208-05,Hypothetical: I take over a small cold-chain courier brief today.,CF-20261112-05,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261208-06,What happens during final platform check for an independent optician?,CF-20261113-09,0.39,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261208-07,Illustrative rewrite: computer training centre wording.,CF-20261109-07,0.67,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261208-08,Copy move: clarify before adding urgency.,EW-D01-S07,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261208-09,The craft-supply shop enquiry needs a human gate.,EW-D25-S06,0.55,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261208-10,When a plant nursery needs web design.,EW-D20-S06,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261208-11,The customer deserves the boundary.,EW-D16-S06,0.62,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261209-01,An enquiry to a mobile phone repairer needs a better first screen.,CF-20261114-04,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261209-02,A local theatre school lesson starts with the next question.,EW-D05-S06,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261209-03,Myth: A flat installation fee includes every part.,CF-20261112-05,0.55,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261209-04,The artisan bread subscription inbox has a hidden tax.,EW-D09-S05,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261209-05,Hypothetical: I take over a fabric-dye studio brief today.,CF-20261108-05,0.61,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261209-06,What happens during delivery handover for a ceramic tile dealer?,CF-20261107-06,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261209-07,Illustrative rewrite: handmade candle store wording.,CF-20261109-07,0.69,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261209-08,Copy move: write for the next decision.,CF-20261113-06,0.59,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261209-09,The private music teacher enquiry needs a human gate.,EW-D25-S06,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261209-10,When a storage-locker operator needs landing pages.,EW-D04-S06,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261209-11,One truthful example beats a bold promise.,EW-D24-S09,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261210-01,This juice-prep business page hides a buying detail.,CF-20261113-03,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261210-02,The independent dental lab buyer needs this explanation.,EW-D20-S06,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261210-03,Myth: A workshop is the same decision as private coaching.,CF-20261110-03,0.54,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261210-04,This remote bookkeeping practice owner needs a clearer system.,EW-D23-S10,0.54,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261210-05,Hypothetical: I take over a community bookstore brief today.,CF-20261108-05,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261210-06,What happens during measurement definition for a home laundry pickup?,CF-20261114-11,0.41,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261210-07,Illustrative rewrite: pet boarding service wording.,CF-20261115-07,0.79,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261210-08,Copy move: match CTA to reader readiness.,EW-D05-S07,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261210-09,The small cold-chain courier enquiry needs a human gate.,EW-D25-S06,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261210-10,When an independent optician needs business systems.,EW-D06-S10,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261210-11,We would rather hold a claim than guess.,CF-20261109-11,0.58,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261211-01,The plant nursery page leaves one question open.,CF-20261114-10,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261211-02,Teach reusable-packaging supplier buyers what to check first.,CF-20261110-01,0.44,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261211-03,Myth: Calling a product organic needs no evidence.,EW-D11-S05,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261211-04,The owner of a mobile car wash is repeating one answer.,EW-D30-S06,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261211-05,Hypothetical: I take over a mobile phone repairer brief today.,CF-20261112-05,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261211-06,What happens during learning memo for a local theatre school?,EW-D12-S06,0.41,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261211-07,Illustrative rewrite: appliance-installation team wording.,CF-20261114-07,0.69,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261211-08,Copy move: make the comparison fair.,EW-D08-S06,0.61,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261211-09,The fabric-dye studio enquiry needs a human gate.,EW-D25-S06,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261211-10,When a ceramic tile dealer needs social media.,EW-D23-S05,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261211-11,Design should help the reader decide.,CF-20261111-10,0.60,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261212-01,An enquiry to a storage-locker operator needs a better first screen.,CF-20261113-03,0.43,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261212-02,A language translation studio lesson starts with the next question.,CF-20261109-10,0.46,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261212-03,Myth: Any uploaded image is print ready.,EW-D26-S08,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261212-04,The bike-rental kiosk inbox has a hidden tax.,EW-D16-S05,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261212-05,Hypothetical: I take over a juice-prep business brief today.,CF-20261108-05,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261212-06,What happens during intake and brief for an independent dental lab?,EW-D26-S02,0.37,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261212-07,Illustrative rewrite: public-speaking coach wording.,CF-20261111-07,0.70,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261212-08,Copy move: edit until every sentence earns space.,EW-D07-S07,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261212-09,The community bookstore enquiry needs a human gate.,EW-D25-S06,0.54,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261212-10,When a home laundry pickup needs copywriting.,EW-D05-S10,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261212-11,The handover is part of the deliverable.,CF-20261115-06,0.73,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261213-01,This independent optician page hides a buying detail.,EW-D27-S05,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261213-02,The computer training centre buyer needs this explanation.,CF-20261110-01,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261213-03,Myth: Styled room photos show actual frame dimensions.,EW-D26-S06,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261213-04,This craft-supply shop owner needs a clearer system.,CF-20261112-05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261213-05,Hypothetical: I take over a plant nursery brief today.,CF-20261112-05,0.58,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261213-06,What happens during audience/offer diagnosis for a reusable-packaging supplier?,CF-20261107-06,0.41,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261213-07,Illustrative rewrite: organic spice seller wording.,CF-20261115-07,0.70,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261213-08,Copy move: specificity over adjectives.,EW-D20-S10,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261213-09,The mobile phone repairer enquiry needs a human gate.,EW-D23-S05,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261213-10,When a local theatre school needs reports & presentations.,CF-20261110-05,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261213-11,Not every request needs a new tool.,CF-20261115-11,0.69,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261214-01,The ceramic tile dealer page leaves one question open.,EW-D27-S05,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261214-02,Teach handmade candle store buyers what to check first.,EW-D11-S06,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261214-03,Myth: Two cleaning quotes cover identical tasks.,CF-20261109-03,0.54,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261214-04,The owner of a private music teacher is repeating one answer.,EW-D19-S06,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261214-05,Hypothetical: I take over a storage-locker operator brief today.,CF-20261112-05,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261214-06,What happens during strategy and claim review for a language translation studio?,CF-20261108-07,0.41,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261214-07,Illustrative rewrite: neighbourhood print kiosk wording.,CF-20261110-07,0.68,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261214-08,Copy move: voice of customer without invented quotes.,EW-D19-S07,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261214-09,The juice-prep business enquiry needs a human gate.,CF-20261113-03,0.59,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261214-10,When an independent dental lab needs digital marketing.,CF-20261113-05,0.46,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261214-11,What happens after the click matters.,CF-20261114-11,0.72,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261215-01,An enquiry to a home laundry pickup needs a better first screen.,EW-D25-S02,0.45,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261215-02,A pet boarding service lesson starts with the next question.,CF-20261110-01,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261215-03,Myth: Maintenance and installation are interchangeable.,CF-20261112-03,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261215-04,The small cold-chain courier inbox has a hidden tax.,EW-D02-S08,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261215-05,Hypothetical: I take over an independent optician brief today.,CF-20261113-05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261215-06,What happens during concept approval for a computer training centre?,CF-20261112-06,0.46,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261215-07,Illustrative rewrite: art-framing shop wording.,CF-20261110-07,0.73,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261215-08,Copy move: one primary action per page.,EW-D12-S07,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261215-09,The plant nursery enquiry needs a human gate.,EW-D23-S05,0.55,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261215-10,When a reusable-packaging supplier needs web design.,CF-20261113-06,0.55,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261215-11,We can disagree without blaming customers.,EW-D14-S08,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261216-01,This local theatre school page hides a buying detail.,EW-D27-S05,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261216-02,The appliance-installation team buyer needs this explanation.,EW-D24-S05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261216-03,Myth: A flexible subscription does not need a pause policy.,CF-20261107-09,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261216-04,This fabric-dye studio owner needs a clearer system.,EW-D23-S10,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261216-05,Hypothetical: I take over a ceramic tile dealer brief today.,CF-20261111-05,0.60,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261216-06,What happens during copy handoff for a handmade candle store?,CF-20261107-06,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261216-07,Illustrative rewrite: independent cleaning co-op wording.,CF-20261109-07,0.65,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261216-08,Copy move: reason-why copy.,EW-D13-S07,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261216-09,The storage-locker operator enquiry needs a human gate.,EW-D23-S05,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261216-10,When a language translation studio needs landing pages.,CF-20261110-05,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261216-11,The simplest useful next step is often the right one.,EW-D11-S08,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261217-01,The independent dental lab page leaves one question open.,CF-20261114-10,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261217-02,Teach public-speaking coach buyers what to check first.,CF-20261110-01,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261217-03,Myth: Monthly bookkeeping starts without an intake checklist.,EW-D17-S06,0.45,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261217-04,The owner of a community bookstore is repeating one answer.,EW-D12-S06,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261217-05,Hypothetical: I take over a home laundry pickup brief today.,CF-20261107-05,0.55,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261217-06,What happens during creative and rights review for a pet boarding service?,CF-20261113-09,0.44,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261217-07,Illustrative rewrite: solar maintenance team wording.,CF-20261115-07,0.67,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261217-08,Copy move: match message to awareness.,EW-D05-S07,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261217-09,The independent optician enquiry needs a human gate.,EW-D23-S05,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261217-10,When a computer training centre needs business systems.,CF-20261113-05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261217-11,A brand can be calm and direct.,CF-20261112-11,0.60,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261218-01,An enquiry to a reusable-packaging supplier needs a better first screen.,CF-20261113-03,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261218-02,A organic spice seller lesson starts with the next question.,CF-20261110-01,0.55,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261218-03,Myth: Customers will ask if they are outside the coverage area.,EW-D28-S05,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261218-04,The mobile phone repairer inbox has a hidden tax.,EW-D13-S05,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261218-05,Hypothetical: I take over a local theatre school brief today.,CF-20261110-05,0.57,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261218-06,What happens during final platform check for an appliance-installation team?,EW-D21-S06,0.41,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261218-07,Illustrative rewrite: artisan bread subscription wording.,CF-20261113-07,0.73,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261218-08,Copy move: answer the immediate objection.,EW-D09-S07,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261218-09,The ceramic tile dealer enquiry needs a human gate.,EW-D23-S05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261218-10,When a handmade candle store needs social media.,CF-20261113-05,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261218-11,A credible no builds trust.,CF-20261113-05,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261219-01,This language translation studio page hides a buying detail.,CF-20261111-02,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261219-02,The neighbourhood print kiosk buyer needs this explanation.,CF-20261115-11,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261219-03,Myth: Deposit terms can wait until after a rental.,EW-D29-S05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261219-04,This juice-prep business owner needs a clearer system.,CF-20261113-03,0.57,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261219-05,Hypothetical: I take over an independent dental lab brief today.,CF-20261112-05,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261219-06,What happens during delivery handover for a public-speaking coach?,CF-20261107-06,0.44,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261219-07,Illustrative rewrite: remote bookkeeping practice wording.,CF-20261111-07,0.74,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261219-08,"Copy move: show the process, not just the finish.",EW-D10-S03,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261219-09,The home laundry pickup enquiry needs a human gate.,EW-D23-S05,0.55,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261219-10,When a pet boarding service needs copywriting.,EW-D19-S08,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261219-11,A useful metric changes a decision.,CF-20261115-02,0.69,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261220-01,The computer training centre page leaves one question open.,EW-D27-S05,0.54,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261220-02,Teach art-framing shop buyers what to check first.,CF-20261109-08,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261220-03,Myth: A product photo tells buyers the pack size.,CF-20261108-03,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261220-04,The owner of a plant nursery is repeating one answer.,EW-D20-S06,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261220-05,Hypothetical: I take over a reusable-packaging supplier brief today.,CF-20261108-05,0.57,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261220-06,What happens during measurement definition for an organic spice seller?,EW-D19-S02,0.41,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261220-07,Illustrative rewrite: mobile car wash wording.,CF-20261115-07,0.72,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261220-08,Copy move: write for the comparison moment.,CF-20261115-07,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261220-09,The local theatre school enquiry needs a human gate.,EW-D25-S06,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261220-10,When an appliance-installation team needs reports & presentations.,EW-D24-S08,0.44,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261220-11,The work should still function when we leave.,EW-D29-S05,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261221-01,An enquiry to a handmade candle store needs a better first screen.,CF-20261110-05,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261221-02,A independent cleaning co-op lesson starts with the next question.,CF-20261110-01,0.57,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261221-03,Myth: Parents do not need lesson format before enquiring.,CF-20261110-05,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261221-04,The storage-locker operator inbox has a hidden tax.,EW-D16-S05,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261221-05,Hypothetical: I take over a language translation studio brief today.,CF-20261108-05,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261221-06,What happens during learning memo for a neighbourhood print kiosk?,EW-D21-S06,0.39,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261221-07,Illustrative rewrite: bike-rental kiosk wording.,CF-20261107-07,0.71,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261221-08,Copy move: name exclusions early.,EW-D21-S07,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261221-09,The independent dental lab enquiry needs a human gate.,EW-D23-S05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261221-10,When a public-speaking coach needs digital marketing.,CF-20261112-09,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261221-11,A service page should explain the work.,CF-20261115-01,0.59,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261222-01,This pet boarding service page hides a buying detail.,EW-D27-S05,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261222-02,The solar maintenance team buyer needs this explanation.,EW-D28-S05,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261222-03,Myth: A fast delivery headline explains cold-chain handling.,EW-D13-S05,0.46,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261222-04,This independent optician owner needs a clearer system.,EW-D20-S06,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261222-05,Hypothetical: I take over a computer training centre brief today.,CF-20261108-05,0.59,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261222-06,What happens during intake and brief for an art-framing shop?,CF-20261107-06,0.40,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261222-07,Illustrative rewrite: craft-supply shop wording.,CF-20261110-07,0.70,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261222-08,Copy move: sequence questions from simple to specific.,EW-D15-S07,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261222-09,The reusable-packaging supplier enquiry needs a human gate.,EW-D25-S06,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261222-10,When an organic spice seller needs web design.,CF-20261107-02,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261222-11,Every process has an exception.,CF-20261115-11,0.58,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261223-01,The appliance-installation team page leaves one question open.,EW-D27-S05,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261223-02,Teach artisan bread subscription buyers what to check first.,EW-D11-S06,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261223-03,Myth: A styled image guarantees the next dye batch will match.,EW-D25-S02,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261223-04,The owner of a ceramic tile dealer is repeating one answer.,EW-D30-S06,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261223-05,Hypothetical: I take over a handmade candle store brief today.,CF-20261113-05,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261223-06,What happens during audience/offer diagnosis for an independent cleaning co-op?,CF-20261107-06,0.43,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261223-07,Illustrative rewrite: private music teacher wording.,CF-20261109-07,0.67,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261223-08,Copy move: lead with the buyer's task.,CF-20261112-08,0.54,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261223-09,The language translation studio enquiry needs a human gate.,EW-D25-S06,0.46,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261223-10,When a neighbourhood print kiosk needs landing pages.,CF-20261112-09,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261223-11,A business owner is not a content machine.,EW-D23-S10,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261224-01,An enquiry to a public-speaking coach needs a better first screen.,CF-20261110-05,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261224-02,A remote bookkeeping practice lesson starts with the next question.,CF-20261110-01,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261224-03,Myth: A book catalogue never needs a date.,CF-20261107-03,0.58,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261224-04,The home laundry pickup inbox has a hidden tax.,EW-D15-S05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261224-05,Hypothetical: I take over a pet boarding service brief today.,CF-20261107-05,0.60,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261224-06,What happens during strategy and claim review for a solar maintenance team?,CF-20261107-06,0.39,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261224-07,Illustrative rewrite: small cold-chain courier wording.,CF-20261109-07,0.69,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261224-08,Copy move: keep the first sentence readable.,EW-D07-S07,0.57,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261224-09,The computer training centre enquiry needs a human gate.,EW-D23-S05,0.57,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261224-10,When an art-framing shop needs business systems.,EW-D06-S10,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261224-11,Strategy has a not-now list.,CF-20261109-06,0.74,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261225-01,This organic spice seller page hides a buying detail.,EW-D27-S05,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261225-02,The mobile car wash buyer needs this explanation.,EW-D24-S05,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261225-03,Myth: A damage photo is enough for a final repair quote.,CF-20261110-03,0.57,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261225-04,This local theatre school owner needs a clearer system.,EW-D23-S10,0.58,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261225-05,Hypothetical: I take over an appliance-installation team brief today.,CF-20261112-05,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261225-06,What happens during concept approval for an artisan bread subscription?,EW-D02-S06,0.43,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261225-07,Illustrative rewrite: fabric-dye studio wording.,CF-20261114-07,0.67,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261225-08,Copy move: use a concrete example.,EW-D14-S10,0.61,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261225-09,The handmade candle store enquiry needs a human gate.,EW-D25-S06,0.55,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261225-10,When an independent cleaning co-op needs social media.,EW-D30-S08,0.46,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261225-11,We use AI for bounded jobs.,EW-D28-S05,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261226-01,The neighbourhood print kiosk page leaves one question open.,EW-D27-S05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261226-02,Teach bike-rental kiosk buyers what to check first.,EW-D04-S05,0.44,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261226-03,Myth: One-off and recurring orders need the same explanation.,EW-D15-S08,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261226-04,The owner of an independent dental lab is repeating one answer.,EW-D08-S04,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261226-05,Hypothetical: I take over a public-speaking coach brief today.,CF-20261107-05,0.57,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261226-06,What happens during copy handoff for a remote bookkeeping practice?,CF-20261111-11,0.41,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261226-07,Illustrative rewrite: community bookstore wording.,CF-20261109-07,0.68,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261226-08,Copy move: show the cost without invented numbers.,EW-D25-S10,0.46,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261226-09,The pet boarding service enquiry needs a human gate.,EW-D23-S05,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261226-10,When a solar maintenance team needs copywriting.,EW-D05-S10,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261226-11,Publishing is not the same as learning.,CF-20261110-11,0.66,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261227-01,An enquiry to an art-framing shop needs a better first screen.,CF-20261113-06,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261227-02,A craft-supply shop lesson starts with the next question.,EW-D05-S06,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261227-03,Myth: Every plant suits every room.,CF-20261108-03,0.63,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261227-04,The reusable-packaging supplier inbox has a hidden tax.,EW-D30-S06,0.45,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261227-05,Hypothetical: I take over an organic spice seller brief today.,CF-20261108-05,0.55,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261227-06,What happens during creative and rights review for a mobile car wash?,CF-20261114-10,0.43,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261227-07,Illustrative rewrite: mobile phone repairer wording.,CF-20261110-07,0.65,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261227-08,Copy move: describe the outcome without a guarantee.,CF-20261115-08,0.44,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261227-09,The appliance-installation team enquiry needs a human gate.,EW-D29-S05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261227-10,When an artisan bread subscription needs reports & presentations.,CF-20261113-06,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261227-11,The buyer's question deserves an answer.,EW-D27-S06,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261228-01,This independent cleaning co-op page hides a buying detail.,EW-D27-S05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261228-02,The private music teacher buyer needs this explanation.,EW-D24-S05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261228-03,Myth: A locker price list explains what can be stored.,CF-20261110-03,0.58,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261228-04,This language translation studio owner needs a clearer system.,CF-20261110-05,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261228-05,Hypothetical: I take over a neighbourhood print kiosk brief today.,CF-20261107-05,0.55,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261228-06,What happens during final platform check for a bike-rental kiosk?,EW-D03-S09,0.40,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261228-07,Illustrative rewrite: juice-prep business wording.,CF-20261107-07,0.69,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261228-08,Copy move: separate evidence from possibility.,CF-20261109-06,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261228-09,The public-speaking coach enquiry needs a human gate.,EW-D23-S05,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261228-10,When a remote bookkeeping practice needs digital marketing.,EW-D17-S06,0.54,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261228-11,Rights and privacy are part of quality.,CF-20261109-04,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261229-01,The solar maintenance team page leaves one question open.,EW-D27-S05,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261229-02,Teach small cold-chain courier buyers what to check first.,CF-20261109-11,0.45,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261229-03,Myth: Frame styling advice can double as clinical advice.,CF-20261115-03,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261229-04,The owner of a computer training centre is repeating one answer.,CF-20261107-04,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261229-05,Hypothetical: I take over an art-framing shop brief today.,CF-20261107-05,0.63,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261229-06,What happens during delivery handover for a craft-supply shop?,CF-20261107-06,0.42,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261229-07,Illustrative rewrite: plant nursery wording.,CF-20261115-07,0.76,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261229-08,Copy move: write the helpful label first.,EW-D21-S09,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261229-09,The organic spice seller enquiry needs a human gate.,EW-D25-S06,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261229-10,When a mobile car wash needs web design.,CF-20261113-06,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261229-11,A good offer tells you who it is not for.,EW-D17-S08,0.47,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261230-01,An enquiry to an artisan bread subscription needs a better first screen.,CF-20261113-06,0.48,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261230-02,A fabric-dye studio lesson starts with the next question.,EW-D05-S06,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261230-03,Myth: A tile price makes the unit of sale obvious.,EW-D01-S06,0.53,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261230-04,The handmade candle store inbox has a hidden tax.,CF-20261111-06,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261230-05,Hypothetical: I take over an independent cleaning co-op brief today.,CF-20261107-05,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261230-06,What happens during measurement definition for a private music teacher?,CF-20261114-10,0.42,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261230-07,Illustrative rewrite: storage-locker operator wording.,CF-20261110-07,0.69,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261230-08,Copy move: test one variable at a time.,EW-D04-S06,0.49,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261230-09,The neighbourhood print kiosk enquiry needs a human gate.,EW-D23-S05,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261230-10,When a bike-rental kiosk needs landing pages.,EW-D04-S06,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261230-11,The final file needs an owner.,EW-D04-S06,0.56,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261231-01,This remote bookkeeping practice page hides a buying detail.,EW-D27-S05,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261231-02,The community bookstore buyer needs this explanation.,EW-D24-S05,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261231-03,Myth: A checkout will sort out an uncovered address.,EW-D30-S02,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261231-04,This pet boarding service owner needs a clearer system.,CF-20261112-09,0.52,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261231-05,Hypothetical: I take over a solar maintenance team brief today.,CF-20261112-05,0.61,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261231-06,What happens during learning memo for a small cold-chain courier?,EW-D13-S02,0.40,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261231-07,Illustrative rewrite: independent optician wording.,CF-20261112-07,0.65,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261231-08,Copy move: reduce jargon without losing precision.,EW-D21-S07,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261231-09,The art-framing shop enquiry needs a human gate.,EW-D23-S05,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261231-10,When a craft-supply shop needs business systems.,EW-D13-S10,0.51,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected
+V2-20261231-11,Optimize only what you understand.,EW-D16-S10,0.50,required: compare topic/angle/example; similarity is not clearance,unknown — platform not connected

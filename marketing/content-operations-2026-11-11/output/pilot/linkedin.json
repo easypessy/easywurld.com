@@ -1,0 +1,54 @@
+{
+  "company": [
+    {
+      "topic": "The real work behind an enquiry",
+      "hook": "A reply is not the same thing as a usable enquiry.",
+      "body": "Consider a fictional home-cleaning business. Its page gets messages, but customers still ask what a standard visit includes. The team cannot quote without answering the same scope question repeatedly. A practical test is to list the rooms covered, exclusions and the details needed for a quote. Track complete requests, not just message count. This is a decision-path example—not a claim about a client or a measured lift.",
+      "cta": "What information would your buyer need before requesting a quote?"
+    },
+    {
+      "topic": "The first-screen exercise",
+      "hook": "A website first screen can be tested with three blanks.",
+      "body": "Ask someone unfamiliar with the business to finish these sentences: This business helps ___. I can get ___. The next step is ___. If the answers are guesses, improve the message before polishing another animation. This is an editorial exercise, not a universal conversion benchmark.",
+      "cta": "Try it with someone outside your team."
+    },
+    {
+      "topic": "Volume versus clarity",
+      "hook": "More publishing cannot substitute for a clear buying path.",
+      "body": "More posts may produce more chances to be seen. That does not tell a reader what is included, how pricing works or how to make a relevant request. Before adding another slot, define the question a qualified buyer should be able to answer after reading the post. Then compare the questions people actually ask. Treat this as a hypothesis to test, not a promised outcome.",
+      "cta": "What buyer question is missing from your content?"
+    },
+    {
+      "topic": "Human-reviewed automation",
+      "hook": "The useful automation may be the one that knows when to stop.",
+      "body": "A bounded enquiry workflow can read a verified coverage list, draft a response and route unknown areas to a person. The owner checks the draft before sending. This is an architecture example, not a live Easywurld bot. Exceptions, consent and data handling matter more than a demo that answers everything.",
+      "cta": "Map one exception before adding a bot."
+    },
+    {
+      "topic": "A gate before creative",
+      "hook": "Who owns a claim before the design team types it?",
+      "body": "Our curriculum defines G0 intake, G1 strategy and claims, G2 concept, G3 production and rights, and G4 final editorial/asset/platform check. A named approver makes the release decision; G5 learns from real publication. This sequence is how we want a content department to think, not proof that a particular project has cleared those gates.",
+      "cta": "Ask for the source and the approver before signing off."
+    }
+  ],
+  "personal": [
+    {
+      "topic": "Why I would ask for an actual question",
+      "hook": "I would rather start with a customer’s question than a prettier template.",
+      "body": "“What exactly is included?” can reveal more useful writing work than a brainstorm full of broad themes. If I were reviewing a service page, I would first ask what a buyer needs to know before reaching out. Then I would compare the page with that question. That is a proposed way to work—not a story about a client I have served.",
+      "cta": "What question keeps returning in your inbox?"
+    },
+    {
+      "topic": "An opinion on more content",
+      "hook": "I do not think volume is the first answer to a vague offer.",
+      "body": "Publishing more can be sensible when the underlying message is clear. When it is not, I would rather repair the first explanation and see whether the next enquiries are better informed. Likes can be interesting; a relevant conversation is a different kind of evidence. This is my proposed editorial opinion for owner review, not a claim about Easywurld’s results.",
+      "cta": "Which explanation would you fix first?"
+    },
+    {
+      "topic": "Limits are part of useful AI",
+      "hook": "A draft that waits for a person can be more useful than an instant answer.",
+      "body": "For an imagined service-area enquiry, I would let an assistant propose a reply from a checked list and hold unknown locations. The owner would verify and send it. I would not feed private messages into an unapproved tool or describe that workflow as already running. If this went live, I would first test its failure cases.",
+      "cta": "What is one question your assistant should refuse to guess?"
+    }
+  ]
+}
