@@ -1,0 +1,712 @@
+{
+  "day": "2026-11-12",
+  "niche": "Fictional laundry pickup business",
+  "buyer_question": "Which areas and pickup days are covered?",
+  "editorial_note": "All laundry operations, availability and policy details below are illustrative; use the real business terms only after checking them.",
+  "twelfth_rationale": "S12 is a second EDUCATION carousel about garment-care exclusions and intake consent, a distinct buyer concern from service-area coverage. Chosen on risk/expectation grounds, not a series rotation.",
+  "posts": [
+    {
+      "id": "EW-20261112-C01",
+      "series": 1,
+      "hook": "More laundry enquiries will not fix an unclear pickup area.",
+      "objective": "Diagnosis",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "More laundry enquiries will not fix an unclear pickup area.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Illustrative buyer question: “Do you pick up near me?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "The page says “doorstep pickup” but names no current coverage.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "The buyer must start a chat just to learn if the service applies.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Audit the page: current areas, pickup days, confirmation route.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Fix the missing answer before asking for more traffic.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/conclusion.svg"
+        }
+      ],
+      "caption": "A fictional laundry page promises doorstep pickup without specifying where or when. The useful diagnosis is not “post more”; it is “let the buyer check eligibility first.” Ask the operator for the current area and day list before publishing any version of it.",
+      "cta": "Fix the missing answer before asking for more traffic.",
+      "risk": "No real laundry business or confirmed area/day is represented.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "A fictional laundry page promises doorstep pickup without specifying where or when. The useful diagnosis is not “post more”; it is “let the buyer check eligibility first.” Ask the operator for the current area and day list before publishing any version of it.\n\nFix the missing answer before asking for more traffic.",
+      "facebook": "More laundry enquiries will not fix an unclear pickup area.\n\nA fictional laundry page promises doorstep pickup without specifying where or when. The useful diagnosis is not “post more”; it is “let the buyer check eligibility first.” Ask the operator for the current area and day list before publishing any version of it.\n\nFix the missing answer before asking for more traffic.",
+      "tiktok_photo": "More laundry enquiries will not fix an unclear pickup area.\n\nFix the missing answer before asking for more traffic.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261112-C02",
+      "series": 2,
+      "hook": "A service-area page needs more than a city name.",
+      "objective": "Education",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "A service-area page needs more than a city name.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Start with places you actually serve today—not where you hope to expand.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Add pickup days only when the operation can honour them.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Explain how a buyer confirms an address at the boundary.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "If availability changes, give the page an owner and update rule.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Make “Can you collect here?” answerable without a guess.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/conclusion.svg"
+        }
+      ],
+      "caption": "Use this as a writing checklist, not a model service-area policy. A precise address check can be more helpful than a broad city name. Dates, neighbourhoods and boundaries must come from whoever runs the service.",
+      "cta": "Make “Can you collect here?” answerable without a guess.",
+      "risk": "Current zones and pickup timetable unknown.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "Use this as a writing checklist, not a model service-area policy. A precise address check can be more helpful than a broad city name. Dates, neighbourhoods and boundaries must come from whoever runs the service.\n\nMake “Can you collect here?” answerable without a guess.",
+      "facebook": "A service-area page needs more than a city name.\n\nUse this as a writing checklist, not a model service-area policy. A precise address check can be more helpful than a broad city name. Dates, neighbourhoods and boundaries must come from whoever runs the service.\n\nMake “Can you collect here?” answerable without a guess.",
+      "tiktok_photo": "A service-area page needs more than a city name.\n\nMake “Can you collect here?” answerable without a guess.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261112-C03",
+      "series": 3,
+      "hook": "Myth: “We deliver everywhere” is the safest headline.",
+      "objective": "Claim qualification",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Myth: “We deliver everywhere” is the safest headline.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "The phrase may sound welcoming. It also creates a hard promise.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "If the service has boundaries, the promise needs boundaries too.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "A vague location claim can send an ineligible buyer into the inbox.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Better: state verified zones and how edge cases are checked.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Verdict: broad language is not a substitute for a real route map.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/conclusion.svg"
+        }
+      ],
+      "caption": "This is a wording principle, not a claim about any courier or laundry service. If your footprint changes, publish a checked list or a reliable address-confirmation step. Never turn an unverified estimate into “everywhere.”",
+      "cta": "Verdict: broad language is not a substitute for a real route map.",
+      "risk": "Do not imply specific delivery coverage.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "This is a wording principle, not a claim about any courier or laundry service. If your footprint changes, publish a checked list or a reliable address-confirmation step. Never turn an unverified estimate into “everywhere.”\n\nVerdict: broad language is not a substitute for a real route map.",
+      "facebook": "Myth: “We deliver everywhere” is the safest headline.\n\nThis is a wording principle, not a claim about any courier or laundry service. If your footprint changes, publish a checked list or a reliable address-confirmation step. Never turn an unverified estimate into “everywhere.”\n\nVerdict: broad language is not a substitute for a real route map.",
+      "tiktok_photo": "Myth: “We deliver everywhere” is the safest headline.\n\nVerdict: broad language is not a substitute for a real route map.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261112-C04",
+      "series": 4,
+      "hook": "“Do you come here?” is a fair question.",
+      "objective": "Shared friction",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "“Do you come here?” is a fair question.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "A buyer should not have to decode a vague “citywide” promise.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "The owner may be tired of repeating the same answer in DMs.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Both problems come from one missing piece of public context.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Write the coverage answer once. Keep exceptions with a person.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "What location question keeps returning to your inbox?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/conclusion.svg"
+        }
+      ],
+      "caption": "The buyer is not a nuisance for asking whether pickup is available. If there is a clear coverage list, publish it; if the location is borderline, route it to a human. Avoid asking for a full address in public replies.",
+      "cta": "What location question keeps returning to your inbox?",
+      "risk": "Rhetorical scenario; not a real customer conversation.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "The buyer is not a nuisance for asking whether pickup is available. If there is a clear coverage list, publish it; if the location is borderline, route it to a human. Avoid asking for a full address in public replies.\n\nWhat location question keeps returning to your inbox?",
+      "facebook": "“Do you come here?” is a fair question.\n\nThe buyer is not a nuisance for asking whether pickup is available. If there is a clear coverage list, publish it; if the location is borderline, route it to a human. Avoid asking for a full address in public replies.\n\nWhat location question keeps returning to your inbox?",
+      "tiktok_photo": "“Do you come here?” is a fair question.\n\nWhat location question keeps returning to your inbox?",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261112-C05",
+      "series": 5,
+      "hook": "If I took a laundry-pickup brief, I would check the route first.",
+      "objective": "Hypothetical strategy",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "If I took a laundry-pickup brief, I would check the route first.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "HYPOTHETICAL: enquiries arrive from addresses outside the route.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "First ask: who owns today’s area and pickup-day list?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Then compare the published promise with that approved list.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Only after that, design an address-check step and exception path.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "First deliverable: an answer buyers can verify before booking.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/conclusion.svg"
+        }
+      ],
+      "caption": "This is a proposed first move for a fictional business, not a report from a client engagement. I would not invent zones, day slots or route capacity to make the creative feel complete. Operations must supply and sign off those facts.",
+      "cta": "First deliverable: an answer buyers can verify before booking.",
+      "risk": "Illustrative scenario; do not present as a client case.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "This is a proposed first move for a fictional business, not a report from a client engagement. I would not invent zones, day slots or route capacity to make the creative feel complete. Operations must supply and sign off those facts.\n\nFirst deliverable: an answer buyers can verify before booking.",
+      "facebook": "If I took a laundry-pickup brief, I would check the route first.\n\nThis is a proposed first move for a fictional business, not a report from a client engagement. I would not invent zones, day slots or route capacity to make the creative feel complete. Operations must supply and sign off those facts.\n\nFirst deliverable: an answer buyers can verify before booking.",
+      "tiktok_photo": "If I took a laundry-pickup brief, I would check the route first.\n\nFirst deliverable: an answer buyers can verify before booking.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261112-C06",
+      "series": 6,
+      "hook": "A pickup promise should have an owner.",
+      "objective": "Accountable process",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "A pickup promise should have an owner.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "LISTEN: record the buyer’s real coverage question.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "DIAGNOSE: compare public wording with the operating route.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "DECIDE: an owner confirms the exact areas and current days.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "CREATE + CHECK: revise copy; test the address edge cases.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "DISTRIBUTE only after the owner approves the final promise.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/conclusion.svg"
+        }
+      ],
+      "caption": "This is a proposed editorial handoff, not a claim about an Easywurld client workflow already deployed. A live service promise needs an owner who can verify it. G3/G4 review still checks the exact claim in the exported asset.",
+      "cta": "DISTRIBUTE only after the owner approves the final promise.",
+      "risk": "No named approver or live route supplied.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "This is a proposed editorial handoff, not a claim about an Easywurld client workflow already deployed. A live service promise needs an owner who can verify it. G3/G4 review still checks the exact claim in the exported asset.\n\nDISTRIBUTE only after the owner approves the final promise.",
+      "facebook": "A pickup promise should have an owner.\n\nThis is a proposed editorial handoff, not a claim about an Easywurld client workflow already deployed. A live service promise needs an owner who can verify it. G3/G4 review still checks the exact claim in the exported asset.\n\nDISTRIBUTE only after the owner approves the final promise.",
+      "tiktok_photo": "A pickup promise should have an owner.\n\nDISTRIBUTE only after the owner approves the final promise.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261112-C07",
+      "series": 7,
+      "hook": "A service-area rewrite should remove the guesswork.",
+      "objective": "Illustrative demonstration",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "A service-area rewrite should remove the guesswork.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "SAMPLE BEFORE: “We pick up across the city.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "The sample leaves the boundary and pickup day unclear.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "SAMPLE AFTER: “Check your area and next available day before booking.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Replace the sample with a verified list or owned address-check route.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Proof here is a clearer question path—not a claimed sales lift.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/conclusion.svg"
+        }
+      ],
+      "caption": "Before/after is a fictional copy demonstration. The “after” line is not a real booking feature: it requires a staffed confirmation route before use. No customer, deployment or performance number is being represented.",
+      "cta": "Proof here is a clearer question path—not a claimed sales lift.",
+      "risk": "Do not imply there is a working address-check tool.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "Before/after is a fictional copy demonstration. The “after” line is not a real booking feature: it requires a staffed confirmation route before use. No customer, deployment or performance number is being represented.\n\nProof here is a clearer question path—not a claimed sales lift.",
+      "facebook": "A service-area rewrite should remove the guesswork.\n\nBefore/after is a fictional copy demonstration. The “after” line is not a real booking feature: it requires a staffed confirmation route before use. No customer, deployment or performance number is being represented.\n\nProof here is a clearer question path—not a claimed sales lift.",
+      "tiktok_photo": "A service-area rewrite should remove the guesswork.\n\nProof here is a clearer question path—not a claimed sales lift.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261112-C08",
+      "series": 8,
+      "hook": "Edit “pickup available” into an answer someone can use.",
+      "objective": "Line-level rewrite",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Edit “pickup available” into an answer someone can use.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "VAGUE: “Convenient laundry pickup near you.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Missing: where, when, and who confirms exceptions.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "USEFUL STRUCTURE: “We collect in [verified areas] on [verified days].”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Add: “For addresses near the boundary, ask [owned contact route].”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Do not publish brackets until the operator has filled and checked them.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/conclusion.svg"
+        }
+      ],
+      "caption": "A copywriting framework should make verification easier, not make invented details sound polished. This example deliberately leaves operational terms in brackets. Ask for the live service-area record before writing the final sentence.",
+      "cta": "Do not publish brackets until the operator has filled and checked them.",
+      "risk": "Bracketed terms cannot be posted as a live offer.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "A copywriting framework should make verification easier, not make invented details sound polished. This example deliberately leaves operational terms in brackets. Ask for the live service-area record before writing the final sentence.\n\nDo not publish brackets until the operator has filled and checked them.",
+      "facebook": "Edit “pickup available” into an answer someone can use.\n\nA copywriting framework should make verification easier, not make invented details sound polished. This example deliberately leaves operational terms in brackets. Ask for the live service-area record before writing the final sentence.\n\nDo not publish brackets until the operator has filled and checked them.",
+      "tiktok_photo": "Edit “pickup available” into an answer someone can use.\n\nDo not publish brackets until the operator has filled and checked them.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261112-C09",
+      "series": 9,
+      "hook": "Let automation hold an uncertain address.",
+      "objective": "Human-reviewed automation",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Let automation hold an uncertain address.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "INPUT: a buyer asks whether pickup covers an address.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "RULE: compare the area against an owner-maintained list.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "UNKNOWN: do not guess, promise a day or expose the address.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "HUMAN: review boundary cases through an approved private channel.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Test refusals before any assistant speaks for the service.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/conclusion.svg"
+        }
+      ],
+      "caption": "This is a possible workflow sketch, not a deployed bot. Avoid sending private addresses to an unapproved system. Even if the route list is checked, someone must own updates and the exception queue.",
+      "cta": "Test refusals before any assistant speaks for the service.",
+      "risk": "No deployed system, data handling approval or route list.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "This is a possible workflow sketch, not a deployed bot. Avoid sending private addresses to an unapproved system. Even if the route list is checked, someone must own updates and the exception queue.\n\nTest refusals before any assistant speaks for the service.",
+      "facebook": "Let automation hold an uncertain address.\n\nThis is a possible workflow sketch, not a deployed bot. Avoid sending private addresses to an unapproved system. Even if the route list is checked, someone must own updates and the exception queue.\n\nTest refusals before any assistant speaks for the service.",
+      "tiktok_photo": "Let automation hold an uncertain address.\n\nTest refusals before any assistant speaks for the service.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261112-C10",
+      "series": 10,
+      "hook": "What would a coverage-clarity project actually include?",
+      "objective": "Commercial fit — HOLD",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "What would a coverage-clarity project actually include?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Start with the buyer’s question and an owner-approved route list.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Possible scope: page wording, enquiry prompts and an update owner.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Not included by default: a new booking system or route expansion.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Easywurld service availability and terms are NOT VERIFIED.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Do not send this offer draft until scope and destination are approved.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/conclusion.svg"
+        }
+      ],
+      "caption": "Commercial hold: this is a possible scope discussion, not an advertised Easywurld package. Confirm an actual service, deliverables, price if any, fulfilment owner and contact route before turning it into a public offer.",
+      "cta": "Do not send this offer draft until scope and destination are approved.",
+      "risk": "G1 HOLD: current Easywurld offer and fulfilment unverified.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "Commercial hold: this is a possible scope discussion, not an advertised Easywurld package. Confirm an actual service, deliverables, price if any, fulfilment owner and contact route before turning it into a public offer.\n\nDo not send this offer draft until scope and destination are approved.",
+      "facebook": "What would a coverage-clarity project actually include?\n\nCommercial hold: this is a possible scope discussion, not an advertised Easywurld package. Confirm an actual service, deliverables, price if any, fulfilment owner and contact route before turning it into a public offer.\n\nDo not send this offer draft until scope and destination are approved.",
+      "tiktok_photo": "What would a coverage-clarity project actually include?\n\nDo not send this offer draft until scope and destination are approved.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261112-C11",
+      "series": 11,
+      "hook": "Clear boundaries are a form of useful marketing.",
+      "objective": "Brand principle",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Clear boundaries are a form of useful marketing.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "“Simplify” can mean one place to check coverage.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "“Optimize” can mean naming who updates a changing route.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "“Grow” does not require promising a pickup you cannot make.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "For this fictional laundry example, clarity comes before promotion.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Simplify. Optimize. Grow.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/conclusion.svg"
+        }
+      ],
+      "caption": "A service promise is useful only if the business can keep it. The laundry scenario is fictional; the brand principles are Easywurld’s stated direction, not evidence of a completed client result.",
+      "cta": "Simplify. Optimize. Grow.",
+      "risk": "No client or delivery result asserted.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "A service promise is useful only if the business can keep it. The laundry scenario is fictional; the brand principles are Easywurld’s stated direction, not evidence of a completed client result.\n\nSimplify. Optimize. Grow.",
+      "facebook": "Clear boundaries are a form of useful marketing.\n\nA service promise is useful only if the business can keep it. The laundry scenario is fictional; the brand principles are Easywurld’s stated direction, not evidence of a completed client result.\n\nSimplify. Optimize. Grow.",
+      "tiktok_photo": "Clear boundaries are a form of useful marketing.\n\nSimplify. Optimize. Grow.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261112-C12",
+      "series": 2,
+      "hook": "Before a garment is collected, what needs agreement?",
+      "objective": "Distinct second education problem",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Before a garment is collected, what needs agreement?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Different question: care instructions—not service-area coverage.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "At intake, identify the item and any visible care label.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "State what the service can and cannot accept; let staff decide edge cases.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Record an agreed route for concerns without posting private photos.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Publish only the intake rules your operator can honour.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/conclusion.svg"
+        }
+      ],
+      "caption": "This second education concept is about care expectations, not pickup geography. It is a general decision checklist for a fictional laundry business; no fabric handling method or liability policy is prescribed. Have the real operator and legal/terms owner approve any final rule.",
+      "cta": "Publish only the intake rules your operator can honour.",
+      "risk": "No real intake policy, fabric advice or liability terms verified.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "This second education concept is about care expectations, not pickup geography. It is a general decision checklist for a fictional laundry business; no fabric handling method or liability policy is prescribed. Have the real operator and legal/terms owner approve any final rule.\n\nPublish only the intake rules your operator can honour.",
+      "facebook": "Before a garment is collected, what needs agreement?\n\nThis second education concept is about care expectations, not pickup geography. It is a general decision checklist for a fictional laundry business; no fabric handling method or liability policy is prescribed. Have the real operator and legal/terms owner approve any final rule.\n\nPublish only the intake rules your operator can honour.",
+      "tiktok_photo": "Before a garment is collected, what needs agreement?\n\nPublish only the intake rules your operator can honour.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    }
+  ],
+  "stories": [
+    {
+      "id": "EW-20261112-ST1",
+      "kind": "Engagement",
+      "copy": "What stops you from trying pickup?\nArea unclear / Day unclear / Care rules unclear / Something else",
+      "interaction": "Question sticker or native poll where available; no fake sticker",
+      "cta": "Collect themes only. Do not request addresses or customer details.",
+      "visual": "TEMPLATE_LIBRARY/STORIES/ENGAGEMENT/02_question.svg",
+      "gate": "G1–G4 pending",
+      "publication": "not scheduled"
+    },
+    {
+      "id": "EW-20261112-ST2",
+      "kind": "Education",
+      "copy": "Service-area copy: say where, when and how to check a borderline address. All three need current owner-approved terms.",
+      "interaction": "No interactive element required",
+      "cta": "Save the three-part checklist.",
+      "visual": "TEMPLATE_LIBRARY/STORIES/EDUCATION/02_tip.svg",
+      "gate": "G1–G4 pending",
+      "publication": "not scheduled"
+    },
+    {
+      "id": "EW-20261112-ST3",
+      "kind": "Conversion HOLD",
+      "copy": "Could a clearer service-area answer save a buyer a chat? We can discuss the question—but no Easywurld package is confirmed here.",
+      "interaction": "No link sticker until actual service/destination verified",
+      "cta": "Do not publish this commercial frame before G1.",
+      "visual": "TEMPLATE_LIBRARY/STORIES/CONVERSION/04_direct_enquiry.svg",
+      "gate": "G1–G4 pending",
+      "publication": "not scheduled"
+    }
+  ],
+  "linkedin": {
+    "company": [
+      {
+        "id": "EW-20261112-LC1",
+        "topic": "The address test",
+        "hook": "A buyer should be able to find out if a service applies before handing over their details.",
+        "body": "Imagine a laundry pickup page that says “citywide” while the route has boundaries. The line may be short, but the buyer still cannot check eligibility. A useful page names verified coverage, states current pickup days and explains how an edge address is confirmed. The operator—not the writer—must supply those facts. This is a fictional diagnostic, not a claim about a client.",
+        "cta": "What eligibility question does your page leave open?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/01_insight.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261112-LC2",
+        "topic": "Who owns changing promises?",
+        "hook": "A service-area page needs an update owner.",
+        "body": "Coverage and pickup days are operational terms. A polished FAQ can become misleading if the route changes and nobody updates it. Before publication, record the person who confirms the list, the source of truth and the review trigger. This is a proposed governance practice, not a claim that a specific company has a particular route.",
+        "cta": "Who would sign off your public service-area wording?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/02_education_document.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261112-LC3",
+        "topic": "A redline exercise",
+        "hook": "Here is a copy edit with its assumptions exposed.",
+        "body": "SAMPLE BEFORE: “We pick up across the city.” SAMPLE AFTER: “Check your area and next pickup day before booking.” The edit helps only if an actual team can answer and maintain that check. It does not prove a conversion result or create a feature that does not exist. Verify the route and ownership before making a real service promise.",
+        "cta": "Which assumption would you need to check first?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/03_diagnosis.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261112-LC4",
+        "topic": "Human-in-the-loop boundary",
+        "hook": "An address outside the list should not trigger a guess.",
+        "body": "In a possible FAQ-assisted workflow, the system reads only an owner-maintained coverage list. A definite match can propose a response for human review; an unclear boundary gets held. Private address details stay out of public comment threads. This is a design sketch, not a deployed Easywurld system.",
+        "cta": "What question should your workflow refuse to answer automatically?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/04_strategy_framework.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261112-LC5",
+        "topic": "Measure the right question",
+        "hook": "Count what the buyer had to ask twice.",
+        "body": "If a coverage page changes, one useful observation is whether buyers still need to ask “Do you collect here?” That requires actual before/after enquiry records, privacy-safe handling and context. We have none of those for this hypothetical laundry scenario. A tracking plan is not evidence of improved outcomes.",
+        "cta": "Which recurring question would you review first?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/07_principle.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      }
+    ],
+    "personal": [
+      {
+        "id": "EW-20261112-LP1",
+        "topic": "Where I would begin",
+        "hook": "I would ask who owns the route before touching the headline.",
+        "body": "A public pickup promise is not just a line of copy. If I were drafting for a laundry service, I would ask for a current coverage list, pickup days and an exception owner. Without those, I could suggest a structure but not claim a service area. This is a proposed editorial approach, not a project I have done.",
+        "cta": "Which operational fact would you verify first?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/01_observation.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261112-LP2",
+        "topic": "What a short phrase hides",
+        "hook": "“We serve the city” can hide a lot of decisions.",
+        "body": "I prefer a narrow promise someone can keep to a broad promise that makes the buyer guess. For a fictional pickup business, that may mean naming approved areas and offering a staffed boundary check. The exact route is the operator’s decision, not mine.",
+        "cta": "Where would precision help your page?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/03_industry_opinion.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261112-LP3",
+        "topic": "A useful stop rule",
+        "hook": "I would rather leave a boundary case unanswered than have a bot promise pickup.",
+        "body": "The work is to design a safe handoff: checked list, private enquiry, human review, updated terms. I am describing a proposed guardrail, not an existing system or a personal result. Unknowns should remain visible until somebody can verify them.",
+        "cta": "What would your assistant be allowed to say “I’m not sure” about?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/05_educational_breakdown.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      }
+    ]
+  },
+  "source": "new authored first-batch source; art directions from approved-for-drafting visual library"
+}

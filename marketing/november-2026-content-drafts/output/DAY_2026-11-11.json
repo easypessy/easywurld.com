@@ -1,0 +1,769 @@
+{
+  "day": "2026-11-11",
+  "niche": "Existing 11 November pilot: multiple illustrative service contexts",
+  "buyer_question": "See each authored carousel brief",
+  "editorial_note": "Existing first-day pilot copy is reused as a draft, NOT presented as freshly authored. Old pilot SVGs are not final art; each slide is mapped to visual template v1.",
+  "twelfth_rationale": "S12 is a second diagnosis on service delivery-area uncertainty, distinct from S01 cleaning quote scope; already selected by original pilot editor.",
+  "posts": [
+    {
+      "id": "EW-20261111-C01",
+      "series": 1,
+      "hook": "Your cleaning ad gets replies. The quote still stalls.",
+      "objective": "Discovery; reveal a fixable enquiry friction",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "The ad gets replies. The quote still stalls.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "A visitor asks: “What does a standard clean include?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "The page lists “deep clean” but no rooms, exclusions or duration.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "The team asks for a phone number before giving a scope.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Try listing the rooms, exclusions and information needed to quote.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Then compare complete quote requests, not just replies.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg"
+        },
+        {
+          "number": 7,
+          "copy": "If this sounds familiar, audit one real enquiry today.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/conclusion.svg"
+        }
+      ],
+      "caption": "A reply is not yet a usable enquiry. In this fictional home-cleaning example, the buyer has to guess what is included before asking for a price. Audit one real enquiry: what did they need to know before the quote could proceed?",
+      "cta": "Audit one real enquiry today.",
+      "risk": "Hypothetical example; do not imply an audit of a real cleaning business.",
+      "research_status": "Original illustrative reasoning; no external numerical claim",
+      "visual_status": "pilot copy imported; v1 visual template mapped, not composited/exported/phone checked",
+      "instagram": "A reply is not yet a usable enquiry. In this fictional home-cleaning example, the buyer has to guess what is included before asking for a price. Audit one real enquiry: what did they need to know before the quote could proceed? Audit one real enquiry today. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "facebook": "A reply is not yet a usable enquiry. In this fictional home-cleaning example, the buyer has to guess what is included before asking for a price. Audit one real enquiry: what did they need to know before the quote could proceed? Audit one real enquiry today.\nDiscussion prompt: What would you change first?",
+      "tiktok_photo": "Your cleaning ad gets replies. The quote still stalls.\nMake the buying question answerable before requesting more traffic. Audit one real enquiry today. #Easywurld\nPhoto post: verify multi-image composer; no video required.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending",
+      "source_ref": "N11-20261111-S01"
+    },
+    {
+      "id": "EW-20261111-C02",
+      "series": 2,
+      "hook": "Can a first-time visitor finish these three sentences?",
+      "objective": "Education; make a decision tool saveable",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Can a visitor finish these three sentences?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "“This business helps ___.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "“I can get ___.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "“The next step is ___.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "If any answer is a guess, rewrite the first screen before buying traffic.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Test it with someone who did not help write the page.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg"
+        },
+        {
+          "number": 7,
+          "copy": "Save the test. Ask for their words, not a polite score.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/conclusion.svg"
+        }
+      ],
+      "caption": "Here is a first-screen exercise for a service website: ask an unfamiliar reader to tell you who it helps, what they get and what to do next. Their answer is more useful than your opinion of the layout. This is an editorial test, not a published conversion benchmark.",
+      "cta": "Save this three-question test.",
+      "risk": "No claim of conversion lift or universal research finding.",
+      "research_status": "Source in research register; verify current accuracy before release",
+      "visual_status": "pilot copy imported; v1 visual template mapped, not composited/exported/phone checked",
+      "instagram": "Here is a first-screen exercise for a service website: ask an unfamiliar reader to tell you who it helps, what they get and what to do next. Their answer is more useful than your opinion of the layout. This is an editorial test, not a published conversion benchmark. Save this three-question test. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "facebook": "Here is a first-screen exercise for a service website: ask an unfamiliar reader to tell you who it helps, what they get and what to do next. Their answer is more useful than your opinion of the layout. This is an editorial test, not a published conversion benchmark. Save this three-question test.\nDiscussion prompt: Which step feels missing?",
+      "tiktok_photo": "Can a first-time visitor finish these three sentences?\nA first screen should tell the right buyer what is offered and how to act. Save this three-question test. #Easywurld\nPhoto post: verify multi-image composer; no video required.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending",
+      "source_ref": "N11-20261111-S02"
+    },
+    {
+      "id": "EW-20261111-C03",
+      "series": 3,
+      "hook": "Myth: more posts always means more customers.",
+      "objective": "Trust; qualify an absolute marketing claim",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Myth: more posts always means more customers.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "More posts may create more chances to be seen.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "But a vague offer can still send people into the wrong conversation.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Ask: which post led to a qualified question?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Test one clearer offer explanation before adding another slot.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Verdict: volume is a choice; it is not proof of demand.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/conclusion.svg"
+        }
+      ],
+      "caption": "The claim “more posts always means more customers” is too broad. More publishing can increase opportunities to be noticed, but it cannot explain an offer nobody understands. For your next test, define a qualified enquiry first; then compare the questions that come in. No result is promised.",
+      "cta": "Test one clearer offer explanation.",
+      "risk": "Opinion/hypothesis; no algorithm or quantitative platform claim.",
+      "research_status": "Original illustrative reasoning; no external numerical claim",
+      "visual_status": "pilot copy imported; v1 visual template mapped, not composited/exported/phone checked",
+      "instagram": "The claim “more posts always means more customers” is too broad. More publishing can increase opportunities to be noticed, but it cannot explain an offer nobody understands. For your next test, define a qualified enquiry first; then compare the questions that come in. No result is promised. Test one clearer offer explanation. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "facebook": "The claim “more posts always means more customers” is too broad. More publishing can increase opportunities to be noticed, but it cannot explain an offer nobody understands. For your next test, define a qualified enquiry first; then compare the questions that come in. No result is promised. Test one clearer offer explanation.\nDiscussion prompt: What would you change first?",
+      "tiktok_photo": "Myth: more posts always means more customers.\nVolume without clarity can increase workload without resolving buying friction. Test one clearer offer explanation. #Easywurld\nPhoto post: verify multi-image composer; no video required.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending",
+      "source_ref": "N11-20261111-S03"
+    },
+    {
+      "id": "EW-20261111-C04",
+      "series": 4,
+      "hook": "You have typed the same price explanation five times today.",
+      "objective": "Engagement; recognise owner frustration without blame",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "The same explanation. Again.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "“How much?” is a fair question.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Sometimes the answer changes with size, location or scope.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "The exhausting part is starting from zero every time.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Write one short reply: what affects price, what you need, what happens next.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Keep exceptions with a person. Save the reply as a draft.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-a.svg"
+        },
+        {
+          "number": 7,
+          "copy": "Which question do you answer every day?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/conclusion.svg"
+        }
+      ],
+      "caption": "The repetitive enquiry is not the enemy; the missing explanation is. If pricing depends on scope, say which details matter and what the customer should send. Keep the answer human-reviewed when there are exceptions.",
+      "cta": "Which question do you answer every day?",
+      "risk": "Opening is rhetorical, not a real diary or measured count.",
+      "research_status": "Original illustrative reasoning; no external numerical claim",
+      "visual_status": "pilot copy imported; v1 visual template mapped, not composited/exported/phone checked",
+      "instagram": "The repetitive enquiry is not the enemy; the missing explanation is. If pricing depends on scope, say which details matter and what the customer should send. Keep the answer human-reviewed when there are exceptions. Which question do you answer every day? #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "facebook": "The repetitive enquiry is not the enemy; the missing explanation is. If pricing depends on scope, say which details matter and what the customer should send. Keep the answer human-reviewed when there are exceptions. Which question do you answer every day?\nDiscussion prompt: Which step feels missing?",
+      "tiktok_photo": "You have typed the same price explanation five times today.\nRepeated questions may signal missing public context. Which question do you answer every day? #Easywurld\nPhoto post: verify multi-image composer; no video required.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending",
+      "source_ref": "N11-20261111-S04"
+    },
+    {
+      "id": "EW-20261111-C05",
+      "series": 5,
+      "hook": "If I took a repair-shop brief today, I would start here.",
+      "objective": "Demonstrate niche thinking; no invented client proof",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "If I took a repair-shop brief today, I would start here.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "The fictional problem: DMs ask for a final repair price from one photo.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "First: list which device details help triage an enquiry.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Then: explain when an inspection changes the quote.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Never request passcodes in a public comment or casual DM.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Measure complete diagnostic requests and quote revisions.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-a.svg"
+        },
+        {
+          "number": 7,
+          "copy": "Aim for an honest next step, not a guaranteed booking.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/conclusion.svg"
+        }
+      ],
+      "caption": "Hypothetical repair-shop brief, not a client result: a photo may not tell the whole repair story. I would make diagnosis and quote conditions clear, ask for model and problem description, and avoid collecting passcodes in casual messages. Then I would measure complete diagnostic requests, not likes.",
+      "cta": "Save this as a briefing example.",
+      "risk": "Hypothetical case; have a repair professional validate any technical diagnosis language.",
+      "research_status": "Original illustrative reasoning; no external numerical claim",
+      "visual_status": "pilot copy imported; v1 visual template mapped, not composited/exported/phone checked",
+      "instagram": "Hypothetical repair-shop brief, not a client result: a photo may not tell the whole repair story. I would make diagnosis and quote conditions clear, ask for model and problem description, and avoid collecting passcodes in casual messages. Then I would measure complete diagnostic requests, not likes. Save this as a briefing example. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "facebook": "Hypothetical repair-shop brief, not a client result: a photo may not tell the whole repair story. I would make diagnosis and quote conditions clear, ask for model and problem description, and avoid collecting passcodes in casual messages. Then I would measure complete diagnostic requests, not likes. Save this as a briefing example.\nDiscussion prompt: What would you change first?",
+      "tiktok_photo": "If I took a repair-shop brief today, I would start here.\nSet quote expectations without asking for private access codes. Save this as a briefing example. #Easywurld\nPhoto post: verify multi-image composer; no video required.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending",
+      "source_ref": "N11-20261111-S05"
+    },
+    {
+      "id": "EW-20261111-C06",
+      "series": 6,
+      "hook": "Before a carousel gets designed, who approves its claim?",
+      "objective": "Trust; explain the actual gated workflow",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Before design: who approves the claim?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "G0: accept a brief with audience, objective and owner.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "G1: check strategy and claim evidence.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "G2: approve the concept and story.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "G3: clear production package and rights.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "G4: review the final asset, caption and platform.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-a.svg"
+        },
+        {
+          "number": 7,
+          "copy": "Only the named approver releases. G5 reviews the real result later.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/conclusion.svg"
+        }
+      ],
+      "caption": "Our curriculum defines G0 intake, G1 strategy/claims, G2 concept/story, G3 production/rights and G4 final asset/platform checks. A named approver releases work; G5 happens after actual publication. The steps do not mean any specific client project has passed them.",
+      "cta": "Ask who signs off your next campaign.",
+      "risk": "Process in training material, not proof that all projects follow it or a client has passed it.",
+      "research_status": "Source in research register; verify current accuracy before release",
+      "visual_status": "pilot copy imported; v1 visual template mapped, not composited/exported/phone checked",
+      "instagram": "Our curriculum defines G0 intake, G1 strategy/claims, G2 concept/story, G3 production/rights and G4 final asset/platform checks. A named approver releases work; G5 happens after actual publication. The steps do not mean any specific client project has passed them. Ask who signs off your next campaign. #Easywurld\nCarousel: attach numbered slides in order; verify crop and text.",
+      "facebook": "Our curriculum defines G0 intake, G1 strategy/claims, G2 concept/story, G3 production/rights and G4 final asset/platform checks. A named approver releases work; G5 happens after actual publication. The steps do not mean any specific client project has passed them. Ask who signs off your next campaign.\nDiscussion prompt: Which step feels missing?",
+      "tiktok_photo": "Before a carousel gets designed, who approves its claim?\nWe identify facts, rights, reviewer and decision owner before production. Ask who signs off your next campaign. #Easywurld\nPhoto post: verify multi-image composer; no video required.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending",
+      "source_ref": "N11-20261111-S06"
+    },
+    {
+      "id": "EW-20261111-C07",
+      "series": 7,
+      "hook": "Before: “Book now.” What exactly is the customer booking?",
+      "objective": "Show craft without claiming measured outcomes",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Before: “Book now.” For what?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Sample before: “Book now for the best service.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Missing: the service, location and what happens after the click.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Sample after: “Request a site visit. Tell us your area and the job.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Add the real response window only after the owner confirms it.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "No claim of higher sales; test completion and fit of enquiries.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/conclusion.svg"
+        }
+      ],
+      "caption": "An illustrative rewrite, not a real A/B test: “Book now” gives an appointment-seeking buyer little context. A proposed alternative names the request and the details to send. Confirm the actual service, area and response promise before publishing either version.",
+      "cta": "Rewrite one vague button today.",
+      "risk": "Proposed copy includes a site visit; confirm actual fulfilment before applying to a live business.",
+      "research_status": "Original illustrative reasoning; no external numerical claim",
+      "visual_status": "pilot copy imported; v1 visual template mapped, not composited/exported/phone checked",
+      "instagram": "An illustrative rewrite, not a real A/B test: “Book now” gives an appointment-seeking buyer little context. A proposed alternative names the request and the details to send. Confirm the actual service, area and response promise before publishing either version. Rewrite one vague button today. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "facebook": "An illustrative rewrite, not a real A/B test: “Book now” gives an appointment-seeking buyer little context. A proposed alternative names the request and the details to send. Confirm the actual service, area and response promise before publishing either version. Rewrite one vague button today.\nDiscussion prompt: What would you change first?",
+      "tiktok_photo": "Before: “Book now.” What exactly is the customer booking?\nA clear request can reduce guesswork; verify live conditions. Rewrite one vague button today. #Easywurld\nPhoto post: verify multi-image composer; no video required.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending",
+      "source_ref": "N11-20261111-S07"
+    },
+    {
+      "id": "EW-20261111-C08",
+      "series": 8,
+      "hook": "“Premium solutions” says less than one useful detail.",
+      "objective": "Teach an original copywriting framework",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "“Premium solutions” says less than one useful detail.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Adjectives tell the reader how you want to sound.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Decision details tell them what they can do next.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Try: who it is for + what is included + what is excluded.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Example: “One-page enquiry site; copy draft and handover included.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Do not publish the example unless its scope is true for your offer.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-a.svg"
+        },
+        {
+          "number": 7,
+          "copy": "The best sentence helps the right person decide.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/conclusion.svg"
+        }
+      ],
+      "caption": "A practical copy move: exchange a vague descriptor for the details a buyer would ask about. Who is the service for? What is included? What is not? The site-page line is illustrative, not an Easywurld package promise; verify the terms before publishing it.",
+      "cta": "Try the three-part sentence.",
+      "risk": "Illustrative scope must not be treated as a currently purchasable offer.",
+      "research_status": "Source in research register; verify current accuracy before release",
+      "visual_status": "pilot copy imported; v1 visual template mapped, not composited/exported/phone checked",
+      "instagram": "A practical copy move: exchange a vague descriptor for the details a buyer would ask about. Who is the service for? What is included? What is not? The site-page line is illustrative, not an Easywurld package promise; verify the terms before publishing it. Try the three-part sentence. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "facebook": "A practical copy move: exchange a vague descriptor for the details a buyer would ask about. Who is the service for? What is included? What is not? The site-page line is illustrative, not an Easywurld package promise; verify the terms before publishing it. Try the three-part sentence.\nDiscussion prompt: Which step feels missing?",
+      "tiktok_photo": "“Premium solutions” says less than one useful detail.\nHelp readers evaluate the offer rather than admire the wording. Try the three-part sentence. #Easywurld\nPhoto post: verify multi-image composer; no video required.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending",
+      "source_ref": "N11-20261111-S08"
+    },
+    {
+      "id": "EW-20261111-C09",
+      "series": 9,
+      "hook": "An AI reply should know when not to reply.",
+      "objective": "Education; show a bounded automation design",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "An AI reply should know when not to reply.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Input: a customer asks about service coverage.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "AI drafts a reply from a checked coverage list.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "If the area is missing, it asks a human rather than inventing availability.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "The owner reviews the draft and sends it. Nothing auto-publishes.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Track errors and questions the list could not answer.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-a.svg"
+        },
+        {
+          "number": 7,
+          "copy": "Start with a test inbox and no customer secrets.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/conclusion.svg"
+        }
+      ],
+      "caption": "A bounded example: use a checked coverage list to draft a response, hold unknown locations for a person and log exceptions. This is a proposed workflow, not a live Easywurld bot or proof of saved hours. Keep real customer data out of unapproved tools.",
+      "cta": "Map one exception before automating.",
+      "risk": "Conceptual architecture only; no connected bot or live data.",
+      "research_status": "Source in research register; verify current accuracy before release",
+      "visual_status": "pilot copy imported; v1 visual template mapped, not composited/exported/phone checked",
+      "instagram": "A bounded example: use a checked coverage list to draft a response, hold unknown locations for a person and log exceptions. This is a proposed workflow, not a live Easywurld bot or proof of saved hours. Keep real customer data out of unapproved tools. Map one exception before automating. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "facebook": "A bounded example: use a checked coverage list to draft a response, hold unknown locations for a person and log exceptions. This is a proposed workflow, not a live Easywurld bot or proof of saved hours. Keep real customer data out of unapproved tools. Map one exception before automating.\nDiscussion prompt: What would you change first?",
+      "tiktok_photo": "An AI reply should know when not to reply.\nClassify questions, draft a suggested reply, let an owner send it. Map one exception before automating. #Easywurld\nPhoto post: verify multi-image composer; no video required.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending",
+      "source_ref": "N11-20261111-S09"
+    },
+    {
+      "id": "EW-20261111-C10",
+      "series": 10,
+      "hook": "A chat playbook is not a salesperson.",
+      "objective": "Offer awareness; hold commercial claims",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "A chat playbook is not a salesperson.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Easywurld’s site lists “The Chat-to-Customer Playbook.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "The catalogue describes scripts, a follow-up tracker and a setup checklist.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "It is a DIY resource, not a custom marketing engagement.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "It will not create enquiries or promise sales.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Before buying: confirm current price, files and fulfilment with Easywurld.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-a.svg"
+        },
+        {
+          "number": 7,
+          "copy": "Need fit advice? Ask whether this resource suits your enquiry problem.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/conclusion.svg"
+        }
+      ],
+      "caption": "The Easywurld offer catalogue lists the Chat-to-Customer Playbook as a DIY resource with scripts, a tracker and a setup checklist. It is not custom consulting and cannot generate enquiries or guarantee sales. Current availability, price and delivery have not been confirmed for this campaign: ask before buying.",
+      "cta": "Ask Easywurld to confirm current terms and fit.",
+      "risk": "G1 HOLD: verify current stock, price, rights, fulfilment and purchase journey; do not publish until signed off.",
+      "research_status": "Source in research register; verify current accuracy before release",
+      "visual_status": "pilot copy imported; v1 visual template mapped, not composited/exported/phone checked",
+      "instagram": "The Easywurld offer catalogue lists the Chat-to-Customer Playbook as a DIY resource with scripts, a tracker and a setup checklist. It is not custom consulting and cannot generate enquiries or guarantee sales. Current availability, price and delivery have not been confirmed for this campaign: ask before buying. Ask Easywurld to confirm current terms and fit. #Easywurld\nCarousel: attach numbered slides in order; verify crop and text.",
+      "facebook": "The Easywurld offer catalogue lists the Chat-to-Customer Playbook as a DIY resource with scripts, a tracker and a setup checklist. It is not custom consulting and cannot generate enquiries or guarantee sales. Current availability, price and delivery have not been confirmed for this campaign: ask before buying. Ask Easywurld to confirm current terms and fit.\nDiscussion prompt: Which step feels missing?",
+      "tiktok_photo": "A chat playbook is not a salesperson.\nA DIY resource is distinct from custom consulting. Ask Easywurld to confirm current terms and fit. #Easywurld\nPhoto post: verify multi-image composer; no video required.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending",
+      "source_ref": "N11-20261111-S10"
+    },
+    {
+      "id": "EW-20261111-C11",
+      "series": 11,
+      "hook": "Growth is not a button you press.",
+      "objective": "Positioning; explain agency belief",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Growth is not a button you press.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Simplify: name the buyer’s actual question.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Optimize: make the path to an answer less confusing.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Grow: learn from real enquiries and refine what works.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "A website, message and follow-up should agree.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Our line is “Simplify. Optimize. Grow.” Not a sales guarantee.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/conclusion.svg"
+        }
+      ],
+      "caption": "Easywurld is more than a posting service. Our work can connect messaging, websites, copy and practical business systems. Simplify. Optimize. Grow. is how we frame the work—not a promise that any one campaign will produce a particular result.",
+      "cta": "What part of the journey feels least clear?",
+      "risk": "Positioning only; does not imply capacity for any specific project.",
+      "research_status": "Source in research register; verify current accuracy before release",
+      "visual_status": "pilot copy imported; v1 visual template mapped, not composited/exported/phone checked",
+      "instagram": "Easywurld is more than a posting service. Our work can connect messaging, websites, copy and practical business systems. Simplify. Optimize. Grow. is how we frame the work—not a promise that any one campaign will produce a particular result. What part of the journey feels least clear? #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "facebook": "Easywurld is more than a posting service. Our work can connect messaging, websites, copy and practical business systems. Simplify. Optimize. Grow. is how we frame the work—not a promise that any one campaign will produce a particular result. What part of the journey feels least clear?\nDiscussion prompt: What would you change first?",
+      "tiktok_photo": "Growth is not a button you press.\nSimplify. Optimize. Grow. is a sequence of work, not a guarantee. What part of the journey feels least clear? #Easywurld\nPhoto post: verify multi-image composer; no video required.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending",
+      "source_ref": "N11-20261111-S11"
+    },
+    {
+      "id": "EW-20261111-C12",
+      "series": 1,
+      "hook": "“Do you deliver to my street?” should not be a guessing game.",
+      "objective": "Second diagnosis; conversion relevance rather than another offer ad",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "“Do you deliver to my street?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Illustrative case: a shop says “delivery available.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "The buyer cannot tell which areas, days or fees apply.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Verify the current areas and limitations with the operator.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Place a clear area check before the order request.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "When coverage changes, update the answer before the campaign.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg"
+        },
+        {
+          "number": 7,
+          "copy": "Watch eligible requests—not a guessed delivery promise.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/conclusion.svg"
+        }
+      ],
+      "caption": "A second diagnosis today because location uncertainty can stop a local buyer before the enquiry even starts. This is a hypothetical shop, not a client audit: verify coverage, delivery windows and fees, then make the area check visible before the order request.",
+      "cta": "Check the first location question.",
+      "risk": "Fictional example; no actual delivery coverage or fees asserted.",
+      "research_status": "Original illustrative reasoning; no external numerical claim",
+      "visual_status": "pilot copy imported; v1 visual template mapped, not composited/exported/phone checked",
+      "instagram": "A second diagnosis today because location uncertainty can stop a local buyer before the enquiry even starts. This is a hypothetical shop, not a client audit: verify coverage, delivery windows and fees, then make the area check visible before the order request. Check the first location question. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "facebook": "A second diagnosis today because location uncertainty can stop a local buyer before the enquiry even starts. This is a hypothetical shop, not a client audit: verify coverage, delivery windows and fees, then make the area check visible before the order request. Check the first location question.\nDiscussion prompt: Which step feels missing?",
+      "tiktok_photo": "“Do you deliver to my street?” should not be a guessing game.\nA verified coverage answer belongs where buyers decide. Check the first location question. #Easywurld\nPhoto post: verify multi-image composer; no video required.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending",
+      "source_ref": "N11-20261111-S12"
+    }
+  ],
+  "stories": [
+    {
+      "id": "EW-20261111-ST1",
+      "kind": "Engagement",
+      "copy": "Which question do customers ask you every week?\nA. What is included?\nB. How much?\nC. Do you cover my area?\nD. Something else — reply",
+      "interaction": "Poll: A/B/C/D where the platform supports it; otherwise question sticker or text replies",
+      "cta": "Vote or reply; no private customer details.",
+      "visual": "TEMPLATE_LIBRARY/STORIES/ENGAGEMENT/02_question.svg",
+      "gate": "G1–G4 pending",
+      "publication": "not scheduled"
+    },
+    {
+      "id": "EW-20261111-ST2",
+      "kind": "Education",
+      "copy": "Quick test: ask someone new to your page, “What do you think I sell?”\nIf their answer surprises you, write down the exact words before editing.",
+      "interaction": "Optional question sticker: What did they say? (no personal details)",
+      "cta": "Try this with one willing reader.",
+      "visual": "TEMPLATE_LIBRARY/STORIES/EDUCATION/02_tip.svg",
+      "gate": "G1–G4 pending",
+      "publication": "not scheduled"
+    },
+    {
+      "id": "EW-20261111-ST3",
+      "kind": "Conversion",
+      "copy": "If your customers keep asking the same buying question, your message may need a clearer route.\nWant to discuss the gap? Message CLARITY. We’ll confirm what help is available.",
+      "interaction": "DM keyword only if account owner confirms inbox monitoring",
+      "cta": "Message CLARITY after monitoring and service availability are confirmed.",
+      "visual": "TEMPLATE_LIBRARY/STORIES/CONVERSION/04_direct_enquiry.svg",
+      "gate": "G1–G4 pending",
+      "publication": "not scheduled"
+    }
+  ],
+  "linkedin": {
+    "company": [
+      {
+        "id": "EW-20261111-LC1",
+        "topic": "The real work behind an enquiry",
+        "hook": "A reply is not the same thing as a usable enquiry.",
+        "body": "Consider a fictional home-cleaning business. Its page gets messages, but customers still ask what a standard visit includes. The team cannot quote without answering the same scope question repeatedly. A practical test is to list the rooms covered, exclusions and the details needed for a quote. Track complete requests, not just message count. This is a decision-path example—not a claim about a client or a measured lift.",
+        "cta": "What information would your buyer need before requesting a quote?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/01_insight.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261111-LC2",
+        "topic": "The first-screen exercise",
+        "hook": "A website first screen can be tested with three blanks.",
+        "body": "Ask someone unfamiliar with the business to finish these sentences: This business helps ___. I can get ___. The next step is ___. If the answers are guesses, improve the message before polishing another animation. This is an editorial exercise, not a universal conversion benchmark.",
+        "cta": "Try it with someone outside your team.",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/02_education_document.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261111-LC3",
+        "topic": "Volume versus clarity",
+        "hook": "More publishing cannot substitute for a clear buying path.",
+        "body": "More posts may produce more chances to be seen. That does not tell a reader what is included, how pricing works or how to make a relevant request. Before adding another slot, define the question a qualified buyer should be able to answer after reading the post. Then compare the questions people actually ask. Treat this as a hypothesis to test, not a promised outcome.",
+        "cta": "What buyer question is missing from your content?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/03_diagnosis.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261111-LC4",
+        "topic": "Human-reviewed automation",
+        "hook": "The useful automation may be the one that knows when to stop.",
+        "body": "A bounded enquiry workflow can read a verified coverage list, draft a response and route unknown areas to a person. The owner checks the draft before sending. This is an architecture example, not a live Easywurld bot. Exceptions, consent and data handling matter more than a demo that answers everything.",
+        "cta": "Map one exception before adding a bot.",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/04_strategy_framework.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261111-LC5",
+        "topic": "A gate before creative",
+        "hook": "Who owns a claim before the design team types it?",
+        "body": "Our curriculum defines G0 intake, G1 strategy and claims, G2 concept, G3 production and rights, and G4 final editorial/asset/platform check. A named approver makes the release decision; G5 learns from real publication. This sequence is how we want a content department to think, not proof that a particular project has cleared those gates.",
+        "cta": "Ask for the source and the approver before signing off.",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/07_principle.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      }
+    ],
+    "personal": [
+      {
+        "id": "EW-20261111-LP1",
+        "topic": "Why I would ask for an actual question",
+        "hook": "I would rather start with a customer’s question than a prettier template.",
+        "body": "“What exactly is included?” can reveal more useful writing work than a brainstorm full of broad themes. If I were reviewing a service page, I would first ask what a buyer needs to know before reaching out. Then I would compare the page with that question. That is a proposed way to work—not a story about a client I have served.",
+        "cta": "What question keeps returning in your inbox?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/01_observation.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261111-LP2",
+        "topic": "An opinion on more content",
+        "hook": "I do not think volume is the first answer to a vague offer.",
+        "body": "Publishing more can be sensible when the underlying message is clear. When it is not, I would rather repair the first explanation and see whether the next enquiries are better informed. Likes can be interesting; a relevant conversation is a different kind of evidence. This is my proposed editorial opinion for owner review, not a claim about Easywurld’s results.",
+        "cta": "Which explanation would you fix first?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/03_industry_opinion.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261111-LP3",
+        "topic": "Limits are part of useful AI",
+        "hook": "A draft that waits for a person can be more useful than an instant answer.",
+        "body": "For an imagined service-area enquiry, I would let an assistant propose a reply from a checked list and hold unknown locations. The owner would verify and send it. I would not feed private messages into an unapproved tool or describe that workflow as already running. If this went live, I would first test its failure cases.",
+        "cta": "What is one question your assistant should refuse to guess?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/05_educational_breakdown.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      }
+    ]
+  },
+  "source": "imported unchanged from ../content-operations-2026-11-11/output/pilot/*.json; v1 visual-map added"
+}

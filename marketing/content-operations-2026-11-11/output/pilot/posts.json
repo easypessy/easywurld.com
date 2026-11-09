@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "N11-20261111-S01",
+    "date": "2026-11-11",
+    "format": "master carousel",
+    "series": "Marketing Diagnosis",
+    "series_number": 1,
+    "objective": "Discovery; reveal a fixable enquiry friction",
+    "audience": "Local service businesses using chat enquiries",
+    "niche": "Home cleaning",
+    "topic": "The missing detail between interest and a usable quote",
+    "angle": "Diagnose the handoff, not the reach",
+    "main_message": "Make the buying question answerable before requesting more traffic",
+    "hook": "Your cleaning ad gets replies. The quote still stalls.",
+    "slides": [
+      {
+        "number": 1,
+        "copy": "The ad gets replies. The quote still stalls.",
+        "visual_direction": "Cover composition; one outlined chat bubble; editorial whitespace, no fabricated screenshot.",
+        "layout": "cover",
+        "element": "one outlined chat bubble",
+        "asset": "pilot/svg/N11-20261111-S01-01.svg"
+      },
+      {
+        "number": 2,
+        "copy": "A visitor asks: “What does a standard clean include?”",
+        "visual_direction": "Question composition; single message card marked illustrative; editorial whitespace, no fabricated screenshot.",
+        "layout": "question",
+        "element": "single message card marked illustrative",
+        "asset": "pilot/svg/N11-20261111-S01-02.svg"
+      },
+      {
+        "number": 3,
+        "copy": "The page lists “deep clean” but no rooms, exclusions or duration.",
+        "visual_direction": "Contrast composition; two-column offer card; editorial whitespace, no fabricated screenshot.",
+        "layout": "contrast",
+        "element": "two-column offer card",
+        "asset": "pilot/svg/N11-20261111-S01-03.svg"
+      },
+      {
+        "number": 4,
+        "copy": "The team asks for a phone number before giving a scope.",
+        "visual_direction": "Sequence composition; one broken step in a three-step route; editorial whitespace, no fabricated screenshot.",
+        "layout": "sequence",
+        "element": "one broken step in a three-step route",
+        "asset": "pilot/svg/N11-20261111-S01-04.svg"
+      },
+      {
+        "number": 5,
+        "copy": "Try listing the rooms, exclusions and information needed to quote.",
+        "visual_direction": "Checklist composition; three ruled lines; editorial whitespace, no fabricated screenshot.",
+        "layout": "checklist",
+        "element": "three ruled lines",
+        "asset": "pilot/svg/N11-20261111-S01-05.svg"
+      },
+      {
+        "number": 6,
+        "copy": "Then compare complete quote requests, not just replies.",
+        "visual_direction": "Metric composition; empty tracker row; editorial whitespace, no fabricated screenshot.",
+        "layout": "metric",
+        "element": "empty tracker row",
+        "asset": "pilot/svg/N11-20261111-S01-06.svg"
+      },
+      {
+        "number": 7,
+        "copy": "If this sounds familiar, audit one real enquiry today.",
+        "visual_direction": "Closing composition; one circled next action; editorial whitespace, no fabricated screenshot.",
+        "layout": "closing",
+        "element": "one circled next action",
+        "asset": "pilot/svg/N11-20261111-S01-07.svg"
+      }
+    ],
+    "design_layout": "1080 × 1350 editable SVG; beige/deep-green editorial cards, 78px safe inset, Lora heading and Canva Sans body requested; browser fallback is not font approval.",
+    "suggested_visual_elements": [
+      "one outlined chat bubble",
+      "single message card marked illustrative",
+      "two-column offer card",
+      "one broken step in a three-step route",
+      "three ruled lines",
+      "empty tracker row",
+      "one circled next action"
+    ],
+    "caption": "A reply is not yet a usable enquiry. In this fictional home-cleaning example, the buyer has to guess what is included before asking for a price. Audit one real enquiry: what did they need to know before the quote could proceed?",
+    "cta": "Audit one real enquiry today.",
+    "keywords": [
+      "enquiry quality",
+      "service scope",
+      "home cleaning"
+    ],
+    "hashtags": [
+      "#Easywurld",
+      "#SmallBusinessMarketing"
+    ],
+    "source_ids": [],
+    "research_status": "Original illustrative reasoning; no external numerical claim",
+    "risk": "Hypothetical example; do not imply an audit of a real cleaning business.",
+    "qc_status": "unscored; SVG layout/mobile/font review pending",
+    "approval_status": "G0 recorded; G1–G4 pending",
+    "publication_status": "not scheduled",
+    "platform_adaptations": {
+      "Instagram": "A reply is not yet a usable enquiry. In this fictional home-cleaning example, the buyer has to guess what is included before asking for a price. Audit one real enquiry: what did they need to know before the quote could proceed? Audit one real enquiry today. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "Facebook": "A reply is not yet a usable enquiry. In this fictional home-cleaning example, the buyer has to guess what is included before asking for a price. Audit one real enquiry: what did they need to know before the quote could proceed? Audit one real enquiry today.\nDiscussion prompt: What would you change first?",
+      "TikTok photo": "Your cleaning ad gets replies. The quote still stalls.\nMake the buying question answerable before requesting more traffic. Audit one real enquiry today. #Easywurld\nPhoto post: verify multi-image composer; no video required."
+    }
+  },
+  {
+    "id": "N11-20261111-S02",
+    "date": "2026-11-11",
+    "format": "master carousel",
+    "series": "Marketing Education",
+    "series_number": 2,
+    "objective": "Education; make a decision tool saveable",
+    "audience": "Owner-led service firms writing a homepage",
+    "niche": "Service websites",
+    "topic": "The three-question first-screen test",
+    "angle": "Evaluate comprehension before decoration",
+    "main_message": "A first screen should tell the right buyer what is offered and how to act",
+    "hook": "Can a first-time visitor finish these three sentences?",
+    "slides": [
+      {
+        "number": 1,
+        "copy": "Can a visitor finish these three sentences?",
+        "visual_direction": "Cover composition; three large blank rules; editorial whitespace, no fabricated screenshot.",
+        "layout": "cover",
+        "element": "three large blank rules",
+        "asset": "pilot/svg/N11-20261111-S02-01.svg"
+      },
+      {
+        "number": 2,
+        "copy": "“This business helps ___.”",
+        "visual_direction": "Question composition; first blank card; editorial whitespace, no fabricated screenshot.",
+        "layout": "question",
+        "element": "first blank card",
+        "asset": "pilot/svg/N11-20261111-S02-02.svg"
+      },
+      {
+        "number": 3,
+        "copy": "“I can get ___.”",
+        "visual_direction": "Question composition; second blank card; editorial whitespace, no fabricated screenshot.",
+        "layout": "question",
+        "element": "second blank card",
+        "asset": "pilot/svg/N11-20261111-S02-03.svg"
+      },
+      {
+        "number": 4,
+        "copy": "“The next step is ___.”",
+        "visual_direction": "Question composition; third blank card; editorial whitespace, no fabricated screenshot.",
+        "layout": "question",
+        "element": "third blank card",
+        "asset": "pilot/svg/N11-20261111-S02-04.svg"
+      },
+      {
+        "number": 5,
+        "copy": "If any answer is a guess, rewrite the first screen before buying traffic.",
+        "visual_direction": "Decision composition; large if/then box; editorial whitespace, no fabricated screenshot.",
+        "layout": "decision",
+        "element": "large if/then box",
+        "asset": "pilot/svg/N11-20261111-S02-05.svg"
+      },
+      {
+        "number": 6,
+        "copy": "Test it with someone who did not help write the page.",
+        "visual_direction": "Action composition; unfilled review card; editorial whitespace, no fabricated screenshot.",
+        "layout": "action",
+        "element": "unfilled review card",
+        "asset": "pilot/svg/N11-20261111-S02-06.svg"
+      },
+      {
+        "number": 7,
+        "copy": "Save the test. Ask for their words, not a polite score.",
+        "visual_direction": "Closing composition; note margin; editorial whitespace, no fabricated screenshot.",
+        "layout": "closing",
+        "element": "note margin",
+        "asset": "pilot/svg/N11-20261111-S02-07.svg"
+      }
+    ],
+    "design_layout": "1080 × 1350 editable SVG; beige/deep-green editorial cards, 78px safe inset, Lora heading and Canva Sans body requested; browser fallback is not font approval.",
+    "suggested_visual_elements": [
+      "three large blank rules",
+      "first blank card",
+      "second blank card",
+      "third blank card",
+      "large if/then box",
+      "unfilled review card",
+      "note margin"
+    ],
+    "caption": "Here is a first-screen exercise for a service website: ask an unfamiliar reader to tell you who it helps, what they get and what to do next. Their answer is more useful than your opinion of the layout. This is an editorial test, not a published conversion benchmark.",
+    "cta": "Save this three-question test.",
+    "keywords": [
+      "homepage copy",
+      "customer understanding",
+      "website"
+    ],
+    "hashtags": [
+      "#Easywurld",
+      "#SmallBusinessMarketing"
+    ],
+    "source_ids": [
+      "SITE_SERVICES"
+    ],
+    "research_status": "Source in research register; verify current accuracy before release",
+    "risk": "No claim of conversion lift or universal research finding.",
+    "qc_status": "unscored; SVG layout/mobile/font review pending",
+    "approval_status": "G0 recorded; G1–G4 pending",
+    "publication_status": "not scheduled",
+    "platform_adaptations": {
+      "Instagram": "Here is a first-screen exercise for a service website: ask an unfamiliar reader to tell you who it helps, what they get and what to do next. Their answer is more useful than your opinion of the layout. This is an editorial test, not a published conversion benchmark. Save this three-question test. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "Facebook": "Here is a first-screen exercise for a service website: ask an unfamiliar reader to tell you who it helps, what they get and what to do next. Their answer is more useful than your opinion of the layout. This is an editorial test, not a published conversion benchmark. Save this three-question test.\nDiscussion prompt: Which step feels missing?",
+      "TikTok photo": "Can a first-time visitor finish these three sentences?\nA first screen should tell the right buyer what is offered and how to act. Save this three-question test. #Easywurld\nPhoto post: verify multi-image composer; no video required."
+    }
+  },
+  {
+    "id": "N11-20261111-S03",
+    "date": "2026-11-11",
+    "format": "master carousel",
+    "series": "Marketing Myths and Truths",
+    "series_number": 3,
+    "objective": "Trust; qualify an absolute marketing claim",
+    "audience": "Owners comparing content and enquiry outcomes",
+    "niche": "Social marketing",
+    "topic": "Does posting more always bring better enquiries?",
+    "angle": "Reject the universal claim without denying reach",
+    "main_message": "Volume without clarity can increase workload without resolving buying friction",
+    "hook": "Myth: more posts always means more customers.",
+    "slides": [
+      {
+        "number": 1,
+        "copy": "Myth: more posts always means more customers.",
+        "visual_direction": "Cover composition; MYTH label, crossed tally; editorial whitespace, no fabricated screenshot.",
+        "layout": "cover",
+        "element": "MYTH label, crossed tally",
+        "asset": "pilot/svg/N11-20261111-S03-01.svg"
+      },
+      {
+        "number": 2,
+        "copy": "More posts may create more chances to be seen.",
+        "visual_direction": "Nuance composition; thin distribution diagram; editorial whitespace, no fabricated screenshot.",
+        "layout": "nuance",
+        "element": "thin distribution diagram",
+        "asset": "pilot/svg/N11-20261111-S03-02.svg"
+      },
+      {
+        "number": 3,
+        "copy": "But a vague offer can still send people into the wrong conversation.",
+        "visual_direction": "Contrast composition; two enquiry cards; editorial whitespace, no fabricated screenshot.",
+        "layout": "contrast",
+        "element": "two enquiry cards",
+        "asset": "pilot/svg/N11-20261111-S03-03.svg"
+      },
+      {
+        "number": 4,
+        "copy": "Ask: which post led to a qualified question?",
+        "visual_direction": "Metric composition; blank evidence ledger; editorial whitespace, no fabricated screenshot.",
+        "layout": "metric",
+        "element": "blank evidence ledger",
+        "asset": "pilot/svg/N11-20261111-S03-04.svg"
+      },
+      {
+        "number": 5,
+        "copy": "Test one clearer offer explanation before adding another slot.",
+        "visual_direction": "Action composition; one marked test card; editorial whitespace, no fabricated screenshot.",
+        "layout": "action",
+        "element": "one marked test card",
+        "asset": "pilot/svg/N11-20261111-S03-05.svg"
+      },
+      {
+        "number": 6,
+        "copy": "Verdict: volume is a choice; it is not proof of demand.",
+        "visual_direction": "Closing composition; qualified verdict stamp; editorial whitespace, no fabricated screenshot.",
+        "layout": "closing",
+        "element": "qualified verdict stamp",
+        "asset": "pilot/svg/N11-20261111-S03-06.svg"
+      }
+    ],
+    "design_layout": "1080 × 1350 editable SVG; beige/deep-green editorial cards, 78px safe inset, Lora heading and Canva Sans body requested; browser fallback is not font approval.",
+    "suggested_visual_elements": [
+      "MYTH label, crossed tally",
+      "thin distribution diagram",
+      "two enquiry cards",
+      "blank evidence ledger",
+      "one marked test card",
+      "qualified verdict stamp"
+    ],
+    "caption": "The claim “more posts always means more customers” is too broad. More publishing can increase opportunities to be noticed, but it cannot explain an offer nobody understands. For your next test, define a qualified enquiry first; then compare the questions that come in. No result is promised.",
+    "cta": "Test one clearer offer explanation.",
+    "keywords": [
+      "content strategy",
+      "qualified enquiries",
+      "marketing myth"
+    ],
+    "hashtags": [
+      "#Easywurld",
+      "#SmallBusinessMarketing"
+    ],
+    "source_ids": [],
+    "research_status": "Original illustrative reasoning; no external numerical claim",
+    "risk": "Opinion/hypothesis; no algorithm or quantitative platform claim.",
+    "qc_status": "unscored; SVG layout/mobile/font review pending",
+    "approval_status": "G0 recorded; G1–G4 pending",
+    "publication_status": "not scheduled",
+    "platform_adaptations": {
+      "Instagram": "The claim “more posts always means more customers” is too broad. More publishing can increase opportunities to be noticed, but it cannot explain an offer nobody understands. For your next test, define a qualified enquiry first; then compare the questions that come in. No result is promised. Test one clearer offer explanation. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "Facebook": "The claim “more posts always means more customers” is too broad. More publishing can increase opportunities to be noticed, but it cannot explain an offer nobody understands. For your next test, define a qualified enquiry first; then compare the questions that come in. No result is promised. Test one clearer offer explanation.\nDiscussion prompt: What would you change first?",
+      "TikTok photo": "Myth: more posts always means more customers.\nVolume without clarity can increase workload without resolving buying friction. Test one clearer offer explanation. #Easywurld\nPhoto post: verify multi-image composer; no video required."
+    }
+  },
+  {
+    "id": "N11-20261111-S04",
+    "date": "2026-11-11",
+    "format": "master carousel",
+    "series": "Relatable Enemy / Common Ground",
+    "series_number": 4,
+    "objective": "Engagement; recognise owner frustration without blame",
+    "audience": "Business owners answering DMs themselves",
+    "niche": "Chat-based selling",
+    "topic": "The endless “How much?” loop",
+    "angle": "Make reusable clarity instead of blaming the buyer",
+    "main_message": "Repeated questions may signal missing public context",
+    "hook": "You have typed the same price explanation five times today.",
+    "slides": [
+      {
+        "number": 1,
+        "copy": "The same explanation. Again.",
+        "visual_direction": "Cover composition; five small message rows; editorial whitespace, no fabricated screenshot.",
+        "layout": "cover",
+        "element": "five small message rows",
+        "asset": "pilot/svg/N11-20261111-S04-01.svg"
+      },
+      {
+        "number": 2,
+        "copy": "“How much?” is a fair question.",
+        "visual_direction": "Statement composition; one large quote; editorial whitespace, no fabricated screenshot.",
+        "layout": "statement",
+        "element": "one large quote",
+        "asset": "pilot/svg/N11-20261111-S04-02.svg"
+      },
+      {
+        "number": 3,
+        "copy": "Sometimes the answer changes with size, location or scope.",
+        "visual_direction": "Context composition; three variable chips; editorial whitespace, no fabricated screenshot.",
+        "layout": "context",
+        "element": "three variable chips",
+        "asset": "pilot/svg/N11-20261111-S04-03.svg"
+      },
+      {
+        "number": 4,
+        "copy": "The exhausting part is starting from zero every time.",
+        "visual_direction": "Contrast composition; empty reply box; editorial whitespace, no fabricated screenshot.",
+        "layout": "contrast",
+        "element": "empty reply box",
+        "asset": "pilot/svg/N11-20261111-S04-04.svg"
+      },
+      {
+        "number": 5,
+        "copy": "Write one short reply: what affects price, what you need, what happens next.",
+        "visual_direction": "Action composition; three-line reply skeleton; editorial whitespace, no fabricated screenshot.",
+        "layout": "action",
+        "element": "three-line reply skeleton",
+        "asset": "pilot/svg/N11-20261111-S04-05.svg"
+      },
+      {
+        "number": 6,
+        "copy": "Keep exceptions with a person. Save the reply as a draft.",
+        "visual_direction": "Guardrail composition; human review handoff; editorial whitespace, no fabricated screenshot.",
+        "layout": "guardrail",
+        "element": "human review handoff",
+        "asset": "pilot/svg/N11-20261111-S04-06.svg"
+      },
+      {
+        "number": 7,
+        "copy": "Which question do you answer every day?",
+        "visual_direction": "Closing composition; question bubble; editorial whitespace, no fabricated screenshot.",
+        "layout": "closing",
+        "element": "question bubble",
+        "asset": "pilot/svg/N11-20261111-S04-07.svg"
+      }
+    ],
+    "design_layout": "1080 × 1350 editable SVG; beige/deep-green editorial cards, 78px safe inset, Lora heading and Canva Sans body requested; browser fallback is not font approval.",
+    "suggested_visual_elements": [
+      "five small message rows",
+      "one large quote",
+      "three variable chips",
+      "empty reply box",
+      "three-line reply skeleton",
+      "human review handoff",
+      "question bubble"
+    ],
+    "caption": "The repetitive enquiry is not the enemy; the missing explanation is. If pricing depends on scope, say which details matter and what the customer should send. Keep the answer human-reviewed when there are exceptions.",
+    "cta": "Which question do you answer every day?",
+    "keywords": [
+      "DM replies",
+      "pricing clarity",
+      "owner workload"
+    ],
+    "hashtags": [
+      "#Easywurld",
+      "#SmallBusinessMarketing"
+    ],
+    "source_ids": [],
+    "research_status": "Original illustrative reasoning; no external numerical claim",
+    "risk": "Opening is rhetorical, not a real diary or measured count.",
+    "qc_status": "unscored; SVG layout/mobile/font review pending",
+    "approval_status": "G0 recorded; G1–G4 pending",
+    "publication_status": "not scheduled",
+    "platform_adaptations": {
+      "Instagram": "The repetitive enquiry is not the enemy; the missing explanation is. If pricing depends on scope, say which details matter and what the customer should send. Keep the answer human-reviewed when there are exceptions. Which question do you answer every day? #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "Facebook": "The repetitive enquiry is not the enemy; the missing explanation is. If pricing depends on scope, say which details matter and what the customer should send. Keep the answer human-reviewed when there are exceptions. Which question do you answer every day?\nDiscussion prompt: Which step feels missing?",
+      "TikTok photo": "You have typed the same price explanation five times today.\nRepeated questions may signal missing public context. Which question do you answer every day? #Easywurld\nPhoto post: verify multi-image composer; no video required."
+    }
+  },
+  {
+    "id": "N11-20261111-S05",
+    "date": "2026-11-11",
+    "format": "master carousel",
+    "series": "If I Were Hired Today",
+    "series_number": 5,
+    "objective": "Demonstrate niche thinking; no invented client proof",
+    "audience": "Independent phone repair shops",
+    "niche": "Phone repair",
+    "topic": "What I would fix first for a repair enquiry",
+    "angle": "Replace binding blind estimates with a clear diagnosis path",
+    "main_message": "Set quote expectations without asking for private access codes",
+    "hook": "If I took a repair-shop brief today, I would start here.",
+    "slides": [
+      {
+        "number": 1,
+        "copy": "If I took a repair-shop brief today, I would start here.",
+        "visual_direction": "Cover composition; HYPOTHETICAL badge; editorial whitespace, no fabricated screenshot.",
+        "layout": "cover",
+        "element": "HYPOTHETICAL badge",
+        "asset": "pilot/svg/N11-20261111-S05-01.svg"
+      },
+      {
+        "number": 2,
+        "copy": "The fictional problem: DMs ask for a final repair price from one photo.",
+        "visual_direction": "Context composition; sample chat, marked fictional; editorial whitespace, no fabricated screenshot.",
+        "layout": "context",
+        "element": "sample chat, marked fictional",
+        "asset": "pilot/svg/N11-20261111-S05-02.svg"
+      },
+      {
+        "number": 3,
+        "copy": "First: list which device details help triage an enquiry.",
+        "visual_direction": "Step composition; device/model checklist; editorial whitespace, no fabricated screenshot.",
+        "layout": "step",
+        "element": "device/model checklist",
+        "asset": "pilot/svg/N11-20261111-S05-03.svg"
+      },
+      {
+        "number": 4,
+        "copy": "Then: explain when an inspection changes the quote.",
+        "visual_direction": "Step composition; quote route with condition marker; editorial whitespace, no fabricated screenshot.",
+        "layout": "step",
+        "element": "quote route with condition marker",
+        "asset": "pilot/svg/N11-20261111-S05-04.svg"
+      },
+      {
+        "number": 5,
+        "copy": "Never request passcodes in a public comment or casual DM.",
+        "visual_direction": "Guardrail composition; privacy lock symbol; editorial whitespace, no fabricated screenshot.",
+        "layout": "guardrail",
+        "element": "privacy lock symbol",
+        "asset": "pilot/svg/N11-20261111-S05-05.svg"
+      },
+      {
+        "number": 6,
+        "copy": "Measure complete diagnostic requests and quote revisions.",
+        "visual_direction": "Metric composition; empty two-column ledger; editorial whitespace, no fabricated screenshot.",
+        "layout": "metric",
+        "element": "empty two-column ledger",
+        "asset": "pilot/svg/N11-20261111-S05-06.svg"
+      },
+      {
+        "number": 7,
+        "copy": "Aim for an honest next step, not a guaranteed booking.",
+        "visual_direction": "Closing composition; route arrow; editorial whitespace, no fabricated screenshot.",
+        "layout": "closing",
+        "element": "route arrow",
+        "asset": "pilot/svg/N11-20261111-S05-07.svg"
+      }
+    ],
+    "design_layout": "1080 × 1350 editable SVG; beige/deep-green editorial cards, 78px safe inset, Lora heading and Canva Sans body requested; browser fallback is not font approval.",
+    "suggested_visual_elements": [
+      "HYPOTHETICAL badge",
+      "sample chat, marked fictional",
+      "device/model checklist",
+      "quote route with condition marker",
+      "privacy lock symbol",
+      "empty two-column ledger",
+      "route arrow"
+    ],
+    "caption": "Hypothetical repair-shop brief, not a client result: a photo may not tell the whole repair story. I would make diagnosis and quote conditions clear, ask for model and problem description, and avoid collecting passcodes in casual messages. Then I would measure complete diagnostic requests, not likes.",
+    "cta": "Save this as a briefing example.",
+    "keywords": [
+      "phone repair marketing",
+      "quote process",
+      "privacy"
+    ],
+    "hashtags": [
+      "#Easywurld",
+      "#SmallBusinessMarketing"
+    ],
+    "source_ids": [],
+    "research_status": "Original illustrative reasoning; no external numerical claim",
+    "risk": "Hypothetical case; have a repair professional validate any technical diagnosis language.",
+    "qc_status": "unscored; SVG layout/mobile/font review pending",
+    "approval_status": "G0 recorded; G1–G4 pending",
+    "publication_status": "not scheduled",
+    "platform_adaptations": {
+      "Instagram": "Hypothetical repair-shop brief, not a client result: a photo may not tell the whole repair story. I would make diagnosis and quote conditions clear, ask for model and problem description, and avoid collecting passcodes in casual messages. Then I would measure complete diagnostic requests, not likes. Save this as a briefing example. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "Facebook": "Hypothetical repair-shop brief, not a client result: a photo may not tell the whole repair story. I would make diagnosis and quote conditions clear, ask for model and problem description, and avoid collecting passcodes in casual messages. Then I would measure complete diagnostic requests, not likes. Save this as a briefing example.\nDiscussion prompt: What would you change first?",
+      "TikTok photo": "If I took a repair-shop brief today, I would start here.\nSet quote expectations without asking for private access codes. Save this as a briefing example. #Easywurld\nPhoto post: verify multi-image composer; no video required."
+    }
+  },
+  {
+    "id": "N11-20261111-S06",
+    "date": "2026-11-11",
+    "format": "master carousel",
+    "series": "Easywurld Client Process",
+    "series_number": 6,
+    "objective": "Trust; explain the actual gated workflow",
+    "audience": "Potential Easywurld clients who need a clear process",
+    "niche": "Service enquiry",
+    "topic": "What happens before design starts",
+    "angle": "A brief must exist before an asset",
+    "main_message": "We identify facts, rights, reviewer and decision owner before production",
+    "hook": "Before a carousel gets designed, who approves its claim?",
+    "slides": [
+      {
+        "number": 1,
+        "copy": "Before design: who approves the claim?",
+        "visual_direction": "Cover composition; workflow gate marker; editorial whitespace, no fabricated screenshot.",
+        "layout": "cover",
+        "element": "workflow gate marker",
+        "asset": "pilot/svg/N11-20261111-S06-01.svg"
+      },
+      {
+        "number": 2,
+        "copy": "G0: accept a brief with audience, objective and owner.",
+        "visual_direction": "Gate composition; intake card; editorial whitespace, no fabricated screenshot.",
+        "layout": "gate",
+        "element": "intake card",
+        "asset": "pilot/svg/N11-20261111-S06-02.svg"
+      },
+      {
+        "number": 3,
+        "copy": "G1: check strategy and claim evidence.",
+        "visual_direction": "Gate composition; source ledger; editorial whitespace, no fabricated screenshot.",
+        "layout": "gate",
+        "element": "source ledger",
+        "asset": "pilot/svg/N11-20261111-S06-03.svg"
+      },
+      {
+        "number": 4,
+        "copy": "G2: approve the concept and story.",
+        "visual_direction": "Gate composition; numbered storyboard; editorial whitespace, no fabricated screenshot.",
+        "layout": "gate",
+        "element": "numbered storyboard",
+        "asset": "pilot/svg/N11-20261111-S06-04.svg"
+      },
+      {
+        "number": 5,
+        "copy": "G3: clear production package and rights.",
+        "visual_direction": "Gate composition; rights checklist; editorial whitespace, no fabricated screenshot.",
+        "layout": "gate",
+        "element": "rights checklist",
+        "asset": "pilot/svg/N11-20261111-S06-05.svg"
+      },
+      {
+        "number": 6,
+        "copy": "G4: review the final asset, caption and platform.",
+        "visual_direction": "Gate composition; phone crop outline; editorial whitespace, no fabricated screenshot.",
+        "layout": "gate",
+        "element": "phone crop outline",
+        "asset": "pilot/svg/N11-20261111-S06-06.svg"
+      },
+      {
+        "number": 7,
+        "copy": "Only the named approver releases. G5 reviews the real result later.",
+        "visual_direction": "Closing composition; human release signature; editorial whitespace, no fabricated screenshot.",
+        "layout": "closing",
+        "element": "human release signature",
+        "asset": "pilot/svg/N11-20261111-S06-07.svg"
+      }
+    ],
+    "design_layout": "1080 × 1350 editable SVG; beige/deep-green editorial cards, 78px safe inset, Lora heading and Canva Sans body requested; browser fallback is not font approval.",
+    "suggested_visual_elements": [
+      "workflow gate marker",
+      "intake card",
+      "source ledger",
+      "numbered storyboard",
+      "rights checklist",
+      "phone crop outline",
+      "human release signature"
+    ],
+    "caption": "Our curriculum defines G0 intake, G1 strategy/claims, G2 concept/story, G3 production/rights and G4 final asset/platform checks. A named approver releases work; G5 happens after actual publication. The steps do not mean any specific client project has passed them.",
+    "cta": "Ask who signs off your next campaign.",
+    "keywords": [
+      "content production",
+      "approval workflow",
+      "Easywurld process"
+    ],
+    "hashtags": [
+      "#Easywurld"
+    ],
+    "source_ids": [
+      "CURRICULUM_00"
+    ],
+    "research_status": "Source in research register; verify current accuracy before release",
+    "risk": "Process in training material, not proof that all projects follow it or a client has passed it.",
+    "qc_status": "unscored; SVG layout/mobile/font review pending",
+    "approval_status": "G0 recorded; G1–G4 pending",
+    "publication_status": "not scheduled",
+    "platform_adaptations": {
+      "Instagram": "Our curriculum defines G0 intake, G1 strategy/claims, G2 concept/story, G3 production/rights and G4 final asset/platform checks. A named approver releases work; G5 happens after actual publication. The steps do not mean any specific client project has passed them. Ask who signs off your next campaign. #Easywurld\nCarousel: attach numbered slides in order; verify crop and text.",
+      "Facebook": "Our curriculum defines G0 intake, G1 strategy/claims, G2 concept/story, G3 production/rights and G4 final asset/platform checks. A named approver releases work; G5 happens after actual publication. The steps do not mean any specific client project has passed them. Ask who signs off your next campaign.\nDiscussion prompt: Which step feels missing?",
+      "TikTok photo": "Before a carousel gets designed, who approves its claim?\nWe identify facts, rights, reviewer and decision owner before production. Ask who signs off your next campaign. #Easywurld\nPhoto post: verify multi-image composer; no video required."
+    }
+  },
+  {
+    "id": "N11-20261111-S07",
+    "date": "2026-11-11",
+    "format": "master carousel",
+    "series": "Proof and Practical Demonstration",
+    "series_number": 7,
+    "objective": "Show craft without claiming measured outcomes",
+    "audience": "Appointment-based service businesses",
+    "niche": "Service bookings",
+    "topic": "Illustrative booking CTA rewrite",
+    "angle": "Move from an empty promise to a concrete next step",
+    "main_message": "A clear request can reduce guesswork; verify live conditions",
+    "hook": "Before: “Book now.” What exactly is the customer booking?",
+    "slides": [
+      {
+        "number": 1,
+        "copy": "Before: “Book now.” For what?",
+        "visual_direction": "Cover composition; ILLUSTRATIVE REWRITE badge; editorial whitespace, no fabricated screenshot.",
+        "layout": "cover",
+        "element": "ILLUSTRATIVE REWRITE badge",
+        "asset": "pilot/svg/N11-20261111-S07-01.svg"
+      },
+      {
+        "number": 2,
+        "copy": "Sample before: “Book now for the best service.”",
+        "visual_direction": "Before composition; fictional copy card; editorial whitespace, no fabricated screenshot.",
+        "layout": "before",
+        "element": "fictional copy card",
+        "asset": "pilot/svg/N11-20261111-S07-02.svg"
+      },
+      {
+        "number": 3,
+        "copy": "Missing: the service, location and what happens after the click.",
+        "visual_direction": "Diagnosis composition; three missing labels; editorial whitespace, no fabricated screenshot.",
+        "layout": "diagnosis",
+        "element": "three missing labels",
+        "asset": "pilot/svg/N11-20261111-S07-03.svg"
+      },
+      {
+        "number": 4,
+        "copy": "Sample after: “Request a site visit. Tell us your area and the job.”",
+        "visual_direction": "After composition; large proposed copy card; editorial whitespace, no fabricated screenshot.",
+        "layout": "after",
+        "element": "large proposed copy card",
+        "asset": "pilot/svg/N11-20261111-S07-04.svg"
+      },
+      {
+        "number": 5,
+        "copy": "Add the real response window only after the owner confirms it.",
+        "visual_direction": "Guardrail composition; unfilled time field; editorial whitespace, no fabricated screenshot.",
+        "layout": "guardrail",
+        "element": "unfilled time field",
+        "asset": "pilot/svg/N11-20261111-S07-05.svg"
+      },
+      {
+        "number": 6,
+        "copy": "No claim of higher sales; test completion and fit of enquiries.",
+        "visual_direction": "Metric composition; blank outcome ledger; editorial whitespace, no fabricated screenshot.",
+        "layout": "metric",
+        "element": "blank outcome ledger",
+        "asset": "pilot/svg/N11-20261111-S07-06.svg"
+      }
+    ],
+    "design_layout": "1080 × 1350 editable SVG; beige/deep-green editorial cards, 78px safe inset, Lora heading and Canva Sans body requested; browser fallback is not font approval.",
+    "suggested_visual_elements": [
+      "ILLUSTRATIVE REWRITE badge",
+      "fictional copy card",
+      "three missing labels",
+      "large proposed copy card",
+      "unfilled time field",
+      "blank outcome ledger"
+    ],
+    "caption": "An illustrative rewrite, not a real A/B test: “Book now” gives an appointment-seeking buyer little context. A proposed alternative names the request and the details to send. Confirm the actual service, area and response promise before publishing either version.",
+    "cta": "Rewrite one vague button today.",
+    "keywords": [
+      "CTA copy",
+      "booking page",
+      "before and after"
+    ],
+    "hashtags": [
+      "#Easywurld",
+      "#SmallBusinessMarketing"
+    ],
+    "source_ids": [],
+    "research_status": "Original illustrative reasoning; no external numerical claim",
+    "risk": "Proposed copy includes a site visit; confirm actual fulfilment before applying to a live business.",
+    "qc_status": "unscored; SVG layout/mobile/font review pending",
+    "approval_status": "G0 recorded; G1–G4 pending",
+    "publication_status": "not scheduled",
+    "platform_adaptations": {
+      "Instagram": "An illustrative rewrite, not a real A/B test: “Book now” gives an appointment-seeking buyer little context. A proposed alternative names the request and the details to send. Confirm the actual service, area and response promise before publishing either version. Rewrite one vague button today. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "Facebook": "An illustrative rewrite, not a real A/B test: “Book now” gives an appointment-seeking buyer little context. A proposed alternative names the request and the details to send. Confirm the actual service, area and response promise before publishing either version. Rewrite one vague button today.\nDiscussion prompt: What would you change first?",
+      "TikTok photo": "Before: “Book now.” What exactly is the customer booking?\nA clear request can reduce guesswork; verify live conditions. Rewrite one vague button today. #Easywurld\nPhoto post: verify multi-image composer; no video required."
+    }
+  },
+  {
+    "id": "N11-20261111-S08",
+    "date": "2026-11-11",
+    "format": "master carousel",
+    "series": "Growth Strategy and Copywriting Breakdowns",
+    "series_number": 8,
+    "objective": "Teach an original copywriting framework",
+    "audience": "Business owners writing service descriptions",
+    "niche": "Service-page copy",
+    "topic": "Replace adjectives with decision details",
+    "angle": "Specificity as a buyer aid, not hype",
+    "main_message": "Help readers evaluate the offer rather than admire the wording",
+    "hook": "“Premium solutions” says less than one useful detail.",
+    "slides": [
+      {
+        "number": 1,
+        "copy": "“Premium solutions” says less than one useful detail.",
+        "visual_direction": "Cover composition; generic phrase crossed out; editorial whitespace, no fabricated screenshot.",
+        "layout": "cover",
+        "element": "generic phrase crossed out",
+        "asset": "pilot/svg/N11-20261111-S08-01.svg"
+      },
+      {
+        "number": 2,
+        "copy": "Adjectives tell the reader how you want to sound.",
+        "visual_direction": "Contrast composition; small adjective column; editorial whitespace, no fabricated screenshot.",
+        "layout": "contrast",
+        "element": "small adjective column",
+        "asset": "pilot/svg/N11-20261111-S08-02.svg"
+      },
+      {
+        "number": 3,
+        "copy": "Decision details tell them what they can do next.",
+        "visual_direction": "Contrast composition; larger detail column; editorial whitespace, no fabricated screenshot.",
+        "layout": "contrast",
+        "element": "larger detail column",
+        "asset": "pilot/svg/N11-20261111-S08-03.svg"
+      },
+      {
+        "number": 4,
+        "copy": "Try: who it is for + what is included + what is excluded.",
+        "visual_direction": "Framework composition; three stacked cards; editorial whitespace, no fabricated screenshot.",
+        "layout": "framework",
+        "element": "three stacked cards",
+        "asset": "pilot/svg/N11-20261111-S08-04.svg"
+      },
+      {
+        "number": 5,
+        "copy": "Example: “One-page enquiry site; copy draft and handover included.”",
+        "visual_direction": "Example composition; sample copy, marked illustrative; editorial whitespace, no fabricated screenshot.",
+        "layout": "example",
+        "element": "sample copy, marked illustrative",
+        "asset": "pilot/svg/N11-20261111-S08-05.svg"
+      },
+      {
+        "number": 6,
+        "copy": "Do not publish the example unless its scope is true for your offer.",
+        "visual_direction": "Guardrail composition; scope verification tag; editorial whitespace, no fabricated screenshot.",
+        "layout": "guardrail",
+        "element": "scope verification tag",
+        "asset": "pilot/svg/N11-20261111-S08-06.svg"
+      },
+      {
+        "number": 7,
+        "copy": "The best sentence helps the right person decide.",
+        "visual_direction": "Closing composition; one highlighted sentence; editorial whitespace, no fabricated screenshot.",
+        "layout": "closing",
+        "element": "one highlighted sentence",
+        "asset": "pilot/svg/N11-20261111-S08-07.svg"
+      }
+    ],
+    "design_layout": "1080 × 1350 editable SVG; beige/deep-green editorial cards, 78px safe inset, Lora heading and Canva Sans body requested; browser fallback is not font approval.",
+    "suggested_visual_elements": [
+      "generic phrase crossed out",
+      "small adjective column",
+      "larger detail column",
+      "three stacked cards",
+      "sample copy, marked illustrative",
+      "scope verification tag",
+      "one highlighted sentence"
+    ],
+    "caption": "A practical copy move: exchange a vague descriptor for the details a buyer would ask about. Who is the service for? What is included? What is not? The site-page line is illustrative, not an Easywurld package promise; verify the terms before publishing it.",
+    "cta": "Try the three-part sentence.",
+    "keywords": [
+      "copywriting",
+      "service description",
+      "specificity"
+    ],
+    "hashtags": [
+      "#Easywurld",
+      "#SmallBusinessMarketing"
+    ],
+    "source_ids": [
+      "SITE_SERVICES"
+    ],
+    "research_status": "Source in research register; verify current accuracy before release",
+    "risk": "Illustrative scope must not be treated as a currently purchasable offer.",
+    "qc_status": "unscored; SVG layout/mobile/font review pending",
+    "approval_status": "G0 recorded; G1–G4 pending",
+    "publication_status": "not scheduled",
+    "platform_adaptations": {
+      "Instagram": "A practical copy move: exchange a vague descriptor for the details a buyer would ask about. Who is the service for? What is included? What is not? The site-page line is illustrative, not an Easywurld package promise; verify the terms before publishing it. Try the three-part sentence. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "Facebook": "A practical copy move: exchange a vague descriptor for the details a buyer would ask about. Who is the service for? What is included? What is not? The site-page line is illustrative, not an Easywurld package promise; verify the terms before publishing it. Try the three-part sentence.\nDiscussion prompt: Which step feels missing?",
+      "TikTok photo": "“Premium solutions” says less than one useful detail.\nHelp readers evaluate the offer rather than admire the wording. Try the three-part sentence. #Easywurld\nPhoto post: verify multi-image composer; no video required."
+    }
+  },
+  {
+    "id": "N11-20261111-S09",
+    "date": "2026-11-11",
+    "format": "master carousel",
+    "series": "AI and Business Automation",
+    "series_number": 9,
+    "objective": "Education; show a bounded automation design",
+    "audience": "Small teams handling repeat enquiries",
+    "niche": "Enquiry triage",
+    "topic": "One low-risk use of AI in a reply workflow",
+    "angle": "Draft assistance with a human release gate",
+    "main_message": "Classify questions, draft a suggested reply, let an owner send it",
+    "hook": "An AI reply should know when not to reply.",
+    "slides": [
+      {
+        "number": 1,
+        "copy": "An AI reply should know when not to reply.",
+        "visual_direction": "Cover composition; clear stop sign; editorial whitespace, no fabricated screenshot.",
+        "layout": "cover",
+        "element": "clear stop sign",
+        "asset": "pilot/svg/N11-20261111-S09-01.svg"
+      },
+      {
+        "number": 2,
+        "copy": "Input: a customer asks about service coverage.",
+        "visual_direction": "Input composition; fictional message card; editorial whitespace, no fabricated screenshot.",
+        "layout": "input",
+        "element": "fictional message card",
+        "asset": "pilot/svg/N11-20261111-S09-02.svg"
+      },
+      {
+        "number": 3,
+        "copy": "AI drafts a reply from a checked coverage list.",
+        "visual_direction": "Workflow composition; document-to-draft arrow; editorial whitespace, no fabricated screenshot.",
+        "layout": "workflow",
+        "element": "document-to-draft arrow",
+        "asset": "pilot/svg/N11-20261111-S09-03.svg"
+      },
+      {
+        "number": 4,
+        "copy": "If the area is missing, it asks a human rather than inventing availability.",
+        "visual_direction": "Exception composition; forked arrow; editorial whitespace, no fabricated screenshot.",
+        "layout": "exception",
+        "element": "forked arrow",
+        "asset": "pilot/svg/N11-20261111-S09-04.svg"
+      },
+      {
+        "number": 5,
+        "copy": "The owner reviews the draft and sends it. Nothing auto-publishes.",
+        "visual_direction": "Approval composition; manual send button; editorial whitespace, no fabricated screenshot.",
+        "layout": "approval",
+        "element": "manual send button",
+        "asset": "pilot/svg/N11-20261111-S09-05.svg"
+      },
+      {
+        "number": 6,
+        "copy": "Track errors and questions the list could not answer.",
+        "visual_direction": "Metric composition; empty exception log; editorial whitespace, no fabricated screenshot.",
+        "layout": "metric",
+        "element": "empty exception log",
+        "asset": "pilot/svg/N11-20261111-S09-06.svg"
+      },
+      {
+        "number": 7,
+        "copy": "Start with a test inbox and no customer secrets.",
+        "visual_direction": "Closing composition; sandbox frame; editorial whitespace, no fabricated screenshot.",
+        "layout": "closing",
+        "element": "sandbox frame",
+        "asset": "pilot/svg/N11-20261111-S09-07.svg"
+      }
+    ],
+    "design_layout": "1080 × 1350 editable SVG; beige/deep-green editorial cards, 78px safe inset, Lora heading and Canva Sans body requested; browser fallback is not font approval.",
+    "suggested_visual_elements": [
+      "clear stop sign",
+      "fictional message card",
+      "document-to-draft arrow",
+      "forked arrow",
+      "manual send button",
+      "empty exception log",
+      "sandbox frame"
+    ],
+    "caption": "A bounded example: use a checked coverage list to draft a response, hold unknown locations for a person and log exceptions. This is a proposed workflow, not a live Easywurld bot or proof of saved hours. Keep real customer data out of unapproved tools.",
+    "cta": "Map one exception before automating.",
+    "keywords": [
+      "AI for business",
+      "human review",
+      "enquiry triage"
+    ],
+    "hashtags": [
+      "#Easywurld",
+      "#SmallBusinessMarketing"
+    ],
+    "source_ids": [
+      "CURRICULUM_00"
+    ],
+    "research_status": "Source in research register; verify current accuracy before release",
+    "risk": "Conceptual architecture only; no connected bot or live data.",
+    "qc_status": "unscored; SVG layout/mobile/font review pending",
+    "approval_status": "G0 recorded; G1–G4 pending",
+    "publication_status": "not scheduled",
+    "platform_adaptations": {
+      "Instagram": "A bounded example: use a checked coverage list to draft a response, hold unknown locations for a person and log exceptions. This is a proposed workflow, not a live Easywurld bot or proof of saved hours. Keep real customer data out of unapproved tools. Map one exception before automating. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "Facebook": "A bounded example: use a checked coverage list to draft a response, hold unknown locations for a person and log exceptions. This is a proposed workflow, not a live Easywurld bot or proof of saved hours. Keep real customer data out of unapproved tools. Map one exception before automating.\nDiscussion prompt: What would you change first?",
+      "TikTok photo": "An AI reply should know when not to reply.\nClassify questions, draft a suggested reply, let an owner send it. Map one exception before automating. #Easywurld\nPhoto post: verify multi-image composer; no video required."
+    }
+  },
+  {
+    "id": "N11-20261111-S10",
+    "date": "2026-11-11",
+    "format": "master carousel",
+    "series": "Offer and Solution",
+    "series_number": 10,
+    "objective": "Offer awareness; hold commercial claims",
+    "audience": "Owner-led businesses selling through chat",
+    "niche": "DIY business resource",
+    "topic": "The Chat-to-Customer Playbook in the Easywurld offer catalogue",
+    "angle": "Explain what the listed resource is and is not",
+    "main_message": "A DIY resource is distinct from custom consulting",
+    "hook": "A chat playbook is not a salesperson.",
+    "slides": [
+      {
+        "number": 1,
+        "copy": "A chat playbook is not a salesperson.",
+        "visual_direction": "Cover composition; OFFER CATALOGUE / VERIFY TERMS tag; editorial whitespace, no fabricated screenshot.",
+        "layout": "cover",
+        "element": "OFFER CATALOGUE / VERIFY TERMS tag",
+        "asset": "pilot/svg/N11-20261111-S10-01.svg"
+      },
+      {
+        "number": 2,
+        "copy": "Easywurld’s site lists “The Chat-to-Customer Playbook.”",
+        "visual_direction": "Evidence composition; product name as text, no screenshot; editorial whitespace, no fabricated screenshot.",
+        "layout": "evidence",
+        "element": "product name as text, no screenshot",
+        "asset": "pilot/svg/N11-20261111-S10-02.svg"
+      },
+      {
+        "number": 3,
+        "copy": "The catalogue describes scripts, a follow-up tracker and a setup checklist.",
+        "visual_direction": "Contents composition; three item stack; editorial whitespace, no fabricated screenshot.",
+        "layout": "contents",
+        "element": "three item stack",
+        "asset": "pilot/svg/N11-20261111-S10-03.svg"
+      },
+      {
+        "number": 4,
+        "copy": "It is a DIY resource, not a custom marketing engagement.",
+        "visual_direction": "Boundary composition; DIY / custom divider; editorial whitespace, no fabricated screenshot.",
+        "layout": "boundary",
+        "element": "DIY / custom divider",
+        "asset": "pilot/svg/N11-20261111-S10-04.svg"
+      },
+      {
+        "number": 5,
+        "copy": "It will not create enquiries or promise sales.",
+        "visual_direction": "Guardrail composition; plain-language exclusion card; editorial whitespace, no fabricated screenshot.",
+        "layout": "guardrail",
+        "element": "plain-language exclusion card",
+        "asset": "pilot/svg/N11-20261111-S10-05.svg"
+      },
+      {
+        "number": 6,
+        "copy": "Before buying: confirm current price, files and fulfilment with Easywurld.",
+        "visual_direction": "Action composition; verification checklist; editorial whitespace, no fabricated screenshot.",
+        "layout": "action",
+        "element": "verification checklist",
+        "asset": "pilot/svg/N11-20261111-S10-06.svg"
+      },
+      {
+        "number": 7,
+        "copy": "Need fit advice? Ask whether this resource suits your enquiry problem.",
+        "visual_direction": "Closing composition; soft enquiry route; editorial whitespace, no fabricated screenshot.",
+        "layout": "closing",
+        "element": "soft enquiry route",
+        "asset": "pilot/svg/N11-20261111-S10-07.svg"
+      }
+    ],
+    "design_layout": "1080 × 1350 editable SVG; beige/deep-green editorial cards, 78px safe inset, Lora heading and Canva Sans body requested; browser fallback is not font approval.",
+    "suggested_visual_elements": [
+      "OFFER CATALOGUE / VERIFY TERMS tag",
+      "product name as text, no screenshot",
+      "three item stack",
+      "DIY / custom divider",
+      "plain-language exclusion card",
+      "verification checklist",
+      "soft enquiry route"
+    ],
+    "caption": "The Easywurld offer catalogue lists the Chat-to-Customer Playbook as a DIY resource with scripts, a tracker and a setup checklist. It is not custom consulting and cannot generate enquiries or guarantee sales. Current availability, price and delivery have not been confirmed for this campaign: ask before buying.",
+    "cta": "Ask Easywurld to confirm current terms and fit.",
+    "keywords": [
+      "Chat-to-Customer Playbook",
+      "DIY resources",
+      "chat enquiries"
+    ],
+    "hashtags": [
+      "#Easywurld"
+    ],
+    "source_ids": [
+      "SITE_OFFERS",
+      "OFFERS_MASTER"
+    ],
+    "research_status": "Source in research register; verify current accuracy before release",
+    "risk": "G1 HOLD: verify current stock, price, rights, fulfilment and purchase journey; do not publish until signed off.",
+    "qc_status": "unscored; SVG layout/mobile/font review pending",
+    "approval_status": "G0 recorded; G1–G4 pending",
+    "publication_status": "not scheduled",
+    "platform_adaptations": {
+      "Instagram": "The Easywurld offer catalogue lists the Chat-to-Customer Playbook as a DIY resource with scripts, a tracker and a setup checklist. It is not custom consulting and cannot generate enquiries or guarantee sales. Current availability, price and delivery have not been confirmed for this campaign: ask before buying. Ask Easywurld to confirm current terms and fit. #Easywurld\nCarousel: attach numbered slides in order; verify crop and text.",
+      "Facebook": "The Easywurld offer catalogue lists the Chat-to-Customer Playbook as a DIY resource with scripts, a tracker and a setup checklist. It is not custom consulting and cannot generate enquiries or guarantee sales. Current availability, price and delivery have not been confirmed for this campaign: ask before buying. Ask Easywurld to confirm current terms and fit.\nDiscussion prompt: Which step feels missing?",
+      "TikTok photo": "A chat playbook is not a salesperson.\nA DIY resource is distinct from custom consulting. Ask Easywurld to confirm current terms and fit. #Easywurld\nPhoto post: verify multi-image composer; no video required."
+    }
+  },
+  {
+    "id": "N11-20261111-S11",
+    "date": "2026-11-11",
+    "format": "master carousel",
+    "series": "Meet Easywurld",
+    "series_number": 11,
+    "objective": "Positioning; explain agency belief",
+    "audience": "Owners who want connected growth support",
+    "niche": "Agency positioning",
+    "topic": "Why simplify comes before growth",
+    "angle": "An agency can connect messaging, site and enquiry process",
+    "main_message": "Simplify. Optimize. Grow. is a sequence of work, not a guarantee",
+    "hook": "Growth is not a button you press.",
+    "slides": [
+      {
+        "number": 1,
+        "copy": "Growth is not a button you press.",
+        "visual_direction": "Cover composition; one restrained directional line; editorial whitespace, no fabricated screenshot.",
+        "layout": "cover",
+        "element": "one restrained directional line",
+        "asset": "pilot/svg/N11-20261111-S11-01.svg"
+      },
+      {
+        "number": 2,
+        "copy": "Simplify: name the buyer’s actual question.",
+        "visual_direction": "Step composition; single buyer question; editorial whitespace, no fabricated screenshot.",
+        "layout": "step",
+        "element": "single buyer question",
+        "asset": "pilot/svg/N11-20261111-S11-02.svg"
+      },
+      {
+        "number": 3,
+        "copy": "Optimize: make the path to an answer less confusing.",
+        "visual_direction": "Step composition; two-stage route; editorial whitespace, no fabricated screenshot.",
+        "layout": "step",
+        "element": "two-stage route",
+        "asset": "pilot/svg/N11-20261111-S11-03.svg"
+      },
+      {
+        "number": 4,
+        "copy": "Grow: learn from real enquiries and refine what works.",
+        "visual_direction": "Step composition; empty review chart; editorial whitespace, no fabricated screenshot.",
+        "layout": "step",
+        "element": "empty review chart",
+        "asset": "pilot/svg/N11-20261111-S11-04.svg"
+      },
+      {
+        "number": 5,
+        "copy": "A website, message and follow-up should agree.",
+        "visual_direction": "Connection composition; three aligned cards; editorial whitespace, no fabricated screenshot.",
+        "layout": "connection",
+        "element": "three aligned cards",
+        "asset": "pilot/svg/N11-20261111-S11-05.svg"
+      },
+      {
+        "number": 6,
+        "copy": "Our line is “Simplify. Optimize. Grow.” Not a sales guarantee.",
+        "visual_direction": "Closing composition; brand lockup as text; editorial whitespace, no fabricated screenshot.",
+        "layout": "closing",
+        "element": "brand lockup as text",
+        "asset": "pilot/svg/N11-20261111-S11-06.svg"
+      }
+    ],
+    "design_layout": "1080 × 1350 editable SVG; beige/deep-green editorial cards, 78px safe inset, Lora heading and Canva Sans body requested; browser fallback is not font approval.",
+    "suggested_visual_elements": [
+      "one restrained directional line",
+      "single buyer question",
+      "two-stage route",
+      "empty review chart",
+      "three aligned cards",
+      "brand lockup as text"
+    ],
+    "caption": "Easywurld is more than a posting service. Our work can connect messaging, websites, copy and practical business systems. Simplify. Optimize. Grow. is how we frame the work—not a promise that any one campaign will produce a particular result.",
+    "cta": "What part of the journey feels least clear?",
+    "keywords": [
+      "Easywurld",
+      "business growth",
+      "agency approach"
+    ],
+    "hashtags": [
+      "#Easywurld",
+      "#SmallBusinessMarketing"
+    ],
+    "source_ids": [
+      "SITE_SERVICES"
+    ],
+    "research_status": "Source in research register; verify current accuracy before release",
+    "risk": "Positioning only; does not imply capacity for any specific project.",
+    "qc_status": "unscored; SVG layout/mobile/font review pending",
+    "approval_status": "G0 recorded; G1–G4 pending",
+    "publication_status": "not scheduled",
+    "platform_adaptations": {
+      "Instagram": "Easywurld is more than a posting service. Our work can connect messaging, websites, copy and practical business systems. Simplify. Optimize. Grow. is how we frame the work—not a promise that any one campaign will produce a particular result. What part of the journey feels least clear? #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "Facebook": "Easywurld is more than a posting service. Our work can connect messaging, websites, copy and practical business systems. Simplify. Optimize. Grow. is how we frame the work—not a promise that any one campaign will produce a particular result. What part of the journey feels least clear?\nDiscussion prompt: What would you change first?",
+      "TikTok photo": "Growth is not a button you press.\nSimplify. Optimize. Grow. is a sequence of work, not a guarantee. What part of the journey feels least clear? #Easywurld\nPhoto post: verify multi-image composer; no video required."
+    }
+  },
+  {
+    "id": "N11-20261111-S12",
+    "date": "2026-11-11",
+    "format": "master carousel",
+    "series": "Marketing Diagnosis",
+    "series_number": 1,
+    "objective": "Second diagnosis; conversion relevance rather than another offer ad",
+    "audience": "Local businesses with multi-area delivery",
+    "niche": "Local delivery",
+    "topic": "“Do you deliver here?” as a repeated conversion obstacle",
+    "angle": "Location uncertainty at the first decision",
+    "main_message": "A verified coverage answer belongs where buyers decide",
+    "hook": "“Do you deliver to my street?” should not be a guessing game.",
+    "slides": [
+      {
+        "number": 1,
+        "copy": "“Do you deliver to my street?”",
+        "visual_direction": "Cover composition; large map pin outline; editorial whitespace, no fabricated screenshot.",
+        "layout": "cover",
+        "element": "large map pin outline",
+        "asset": "pilot/svg/N11-20261111-S12-01.svg"
+      },
+      {
+        "number": 2,
+        "copy": "Illustrative case: a shop says “delivery available.”",
+        "visual_direction": "Context composition; fictional product card; editorial whitespace, no fabricated screenshot.",
+        "layout": "context",
+        "element": "fictional product card",
+        "asset": "pilot/svg/N11-20261111-S12-02.svg"
+      },
+      {
+        "number": 3,
+        "copy": "The buyer cannot tell which areas, days or fees apply.",
+        "visual_direction": "Diagnosis composition; three question marks; editorial whitespace, no fabricated screenshot.",
+        "layout": "diagnosis",
+        "element": "three question marks",
+        "asset": "pilot/svg/N11-20261111-S12-03.svg"
+      },
+      {
+        "number": 4,
+        "copy": "Verify the current areas and limitations with the operator.",
+        "visual_direction": "Checklist composition; blank coverage ledger; editorial whitespace, no fabricated screenshot.",
+        "layout": "checklist",
+        "element": "blank coverage ledger",
+        "asset": "pilot/svg/N11-20261111-S12-04.svg"
+      },
+      {
+        "number": 5,
+        "copy": "Place a clear area check before the order request.",
+        "visual_direction": "Action composition; single input and next-step wireframe; editorial whitespace, no fabricated screenshot.",
+        "layout": "action",
+        "element": "single input and next-step wireframe",
+        "asset": "pilot/svg/N11-20261111-S12-05.svg"
+      },
+      {
+        "number": 6,
+        "copy": "When coverage changes, update the answer before the campaign.",
+        "visual_direction": "Guardrail composition; dated update note; editorial whitespace, no fabricated screenshot.",
+        "layout": "guardrail",
+        "element": "dated update note",
+        "asset": "pilot/svg/N11-20261111-S12-06.svg"
+      },
+      {
+        "number": 7,
+        "copy": "Watch eligible requests—not a guessed delivery promise.",
+        "visual_direction": "Closing composition; metric label with empty value; editorial whitespace, no fabricated screenshot.",
+        "layout": "closing",
+        "element": "metric label with empty value",
+        "asset": "pilot/svg/N11-20261111-S12-07.svg"
+      }
+    ],
+    "design_layout": "1080 × 1350 editable SVG; beige/deep-green editorial cards, 78px safe inset, Lora heading and Canva Sans body requested; browser fallback is not font approval.",
+    "suggested_visual_elements": [
+      "large map pin outline",
+      "fictional product card",
+      "three question marks",
+      "blank coverage ledger",
+      "single input and next-step wireframe",
+      "dated update note",
+      "metric label with empty value"
+    ],
+    "caption": "A second diagnosis today because location uncertainty can stop a local buyer before the enquiry even starts. This is a hypothetical shop, not a client audit: verify coverage, delivery windows and fees, then make the area check visible before the order request.",
+    "cta": "Check the first location question.",
+    "keywords": [
+      "local delivery",
+      "customer journey",
+      "coverage clarity"
+    ],
+    "hashtags": [
+      "#Easywurld",
+      "#SmallBusinessMarketing"
+    ],
+    "source_ids": [],
+    "research_status": "Original illustrative reasoning; no external numerical claim",
+    "risk": "Fictional example; no actual delivery coverage or fees asserted.",
+    "qc_status": "unscored; SVG layout/mobile/font review pending",
+    "approval_status": "G0 recorded; G1–G4 pending",
+    "publication_status": "not scheduled",
+    "platform_adaptations": {
+      "Instagram": "A second diagnosis today because location uncertainty can stop a local buyer before the enquiry even starts. This is a hypothetical shop, not a client audit: verify coverage, delivery windows and fees, then make the area check visible before the order request. Check the first location question. #Easywurld #SmallBusinessMarketing\nCarousel: attach numbered slides in order; verify crop and text.",
+      "Facebook": "A second diagnosis today because location uncertainty can stop a local buyer before the enquiry even starts. This is a hypothetical shop, not a client audit: verify coverage, delivery windows and fees, then make the area check visible before the order request. Check the first location question.\nDiscussion prompt: Which step feels missing?",
+      "TikTok photo": "“Do you deliver to my street?” should not be a guessing game.\nA verified coverage answer belongs where buyers decide. Check the first location question. #Easywurld\nPhoto post: verify multi-image composer; no video required."
+    }
+  }
+]

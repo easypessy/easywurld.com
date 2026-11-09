@@ -1,0 +1,712 @@
+{
+  "day": "2026-11-27",
+  "niche": "Fictional neighbourhood meal prep",
+  "buyer_question": "What is the ordering cutoff this week?",
+  "editorial_note": "This neighbourhood meal prep context is hypothetical. “Order whenever you like” is invented sample copy, not a quotation. Verify a current dated cutoff and fulfilment calendar and all policies before release.",
+  "twelfth_rationale": "S12 uses S02 for the independent question “How do buyers ask about allergens?” with the distinct action “Route ingredient/allergen questions to a verified food-safety owner; do not invent guarantees.” Selected for buyer risk/decision, not a rotation.",
+  "posts": [
+    {
+      "id": "EW-20261127-C01",
+      "series": 1,
+      "hook": "Why does “What is the ordering cutoff this week?” still need a DM?",
+      "objective": "Find the missing buyer decision",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Why does “What is the ordering cutoff this week?” still need a DM?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "HYPOTHETICAL: a neighbourhood meal prep buyer asks that question.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "The public line is “Order whenever you like”. It does not settle the decision.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "An owner must supply a current dated cutoff and fulfilment calendar.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Check the page against the question; examine what happens if capacity fills before the cutoff.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Fix this answer before paying to attract more enquiries.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/01_MARKETING_DIAGNOSIS/conclusion.svg"
+        }
+      ],
+      "caption": "Fictional neighbourhood meal prep example: the first question to answer is “What is the ordering cutoff this week?” The headline “Order whenever you like” cannot stand in for a current dated cutoff and fulfilment calendar. Start by checking the actual operation, then compare the published page with a buyer’s decision. No client or performance result is implied.",
+      "cta": "Fix this answer before paying to attract more enquiries.",
+      "risk": "Hypothetical sector example; no actual operational terms or client evidence.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "Fictional neighbourhood meal prep example: the first question to answer is “What is the ordering cutoff this week?” The headline “Order whenever you like” cannot stand in for a current dated cutoff and fulfilment calendar. Start by checking the actual operation, then compare the published page with a buyer’s decision. No client or performance result is implied.\n\nFix this answer before paying to attract more enquiries.",
+      "facebook": "Why does “What is the ordering cutoff this week?” still need a DM?\n\nFictional neighbourhood meal prep example: the first question to answer is “What is the ordering cutoff this week?” The headline “Order whenever you like” cannot stand in for a current dated cutoff and fulfilment calendar. Start by checking the actual operation, then compare the published page with a buyer’s decision. No client or performance result is implied.\n\nFix this answer before paying to attract more enquiries.",
+      "tiktok_photo": "Why does “What is the ordering cutoff this week?” still need a DM?\n\nFix this answer before paying to attract more enquiries.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261127-C02",
+      "series": 2,
+      "hook": "Write a useful answer to “What is the ordering cutoff this week?”",
+      "objective": "Give a saveable decision checklist",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Write a useful answer to “What is the ordering cutoff this week?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "First, get a current dated cutoff and fulfilment calendar from an accountable owner.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Second, state the condition that decides whether the buyer qualifies.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Third, explain what happens if capacity fills before the cutoff.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Finally, show the exact confirmed window and update owner.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "A checklist is not a promise; verify each term before publishing.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/conclusion.svg"
+        }
+      ],
+      "caption": "For a neighbourhood meal prep, an FAQ answer needs a condition, an exception and a real next step. This is an editorial checklist, not a description of a particular provider. Ask who maintains a current dated cutoff and fulfilment calendar; then have that person approve the final wording.",
+      "cta": "A checklist is not a promise; verify each term before publishing.",
+      "risk": "Needs owner-verified eligibility and exception rules.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "For a neighbourhood meal prep, an FAQ answer needs a condition, an exception and a real next step. This is an editorial checklist, not a description of a particular provider. Ask who maintains a current dated cutoff and fulfilment calendar; then have that person approve the final wording.\n\nA checklist is not a promise; verify each term before publishing.",
+      "facebook": "Write a useful answer to “What is the ordering cutoff this week?”\n\nFor a neighbourhood meal prep, an FAQ answer needs a condition, an exception and a real next step. This is an editorial checklist, not a description of a particular provider. Ask who maintains a current dated cutoff and fulfilment calendar; then have that person approve the final wording.\n\nA checklist is not a promise; verify each term before publishing.",
+      "tiktok_photo": "Write a useful answer to “What is the ordering cutoff this week?”\n\nA checklist is not a promise; verify each term before publishing.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261127-C03",
+      "series": 3,
+      "hook": "Myth: “Order whenever you like” answers the buyer.",
+      "objective": "Qualify a broad claim",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Myth: “Order whenever you like” answers the buyer.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "The buyer actually asks: “What is the ordering cutoff this week?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "A broad claim may be easy to read but hard to honour.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "The answer depends on a current dated cutoff and fulfilment calendar.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "If capacity fills before the cutoff, give an honest check rather than a guarantee.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Verdict: replace a sweeping promise with a verified condition.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/03_MYTHS_AND_TRUTHS/conclusion.svg"
+        }
+      ],
+      "caption": "This is a wording exercise, not an allegation that any neighbourhood meal prep makes this claim. “Order whenever you like” would require evidence and clear limits. A buyer asking “What is the ordering cutoff this week?” deserves a maintained answer and a route for exceptions.",
+      "cta": "Verdict: replace a sweeping promise with a verified condition.",
+      "risk": "Illustrative myth, not a quotation from a real business.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "This is a wording exercise, not an allegation that any neighbourhood meal prep makes this claim. “Order whenever you like” would require evidence and clear limits. A buyer asking “What is the ordering cutoff this week?” deserves a maintained answer and a route for exceptions.\n\nVerdict: replace a sweeping promise with a verified condition.",
+      "facebook": "Myth: “Order whenever you like” answers the buyer.\n\nThis is a wording exercise, not an allegation that any neighbourhood meal prep makes this claim. “Order whenever you like” would require evidence and clear limits. A buyer asking “What is the ordering cutoff this week?” deserves a maintained answer and a route for exceptions.\n\nVerdict: replace a sweeping promise with a verified condition.",
+      "tiktok_photo": "Myth: “Order whenever you like” answers the buyer.\n\nVerdict: replace a sweeping promise with a verified condition.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261127-C04",
+      "series": 4,
+      "hook": "“What is the ordering cutoff this week?” is a fair question.",
+      "objective": "Recognise shared frustration without blaming buyers",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "“What is the ordering cutoff this week?” is a fair question.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "A buyer may see “Order whenever you like” and still feel unsure.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "A small team may be tired of explaining one condition in every DM.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Both sides need a current dated cutoff and fulfilment calendar to be clear.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "If capacity fills before the cutoff, keep the decision with a real person.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "What useful answer is missing from your own page?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/04_RELATABLE_COMMON_GROUND/conclusion.svg"
+        }
+      ],
+      "caption": "The repeated enquiry is not the enemy. In this imagined neighbourhood meal prep scenario, the buyer is trying to check fit and the owner is trying not to overpromise. An accurate public answer can reduce needless guessing; a person should still handle exceptions.",
+      "cta": "What useful answer is missing from your own page?",
+      "risk": "Dialogue is rhetorical; no actual customer complaint or time-saving measured.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "The repeated enquiry is not the enemy. In this imagined neighbourhood meal prep scenario, the buyer is trying to check fit and the owner is trying not to overpromise. An accurate public answer can reduce needless guessing; a person should still handle exceptions.\n\nWhat useful answer is missing from your own page?",
+      "facebook": "“What is the ordering cutoff this week?” is a fair question.\n\nThe repeated enquiry is not the enemy. In this imagined neighbourhood meal prep scenario, the buyer is trying to check fit and the owner is trying not to overpromise. An accurate public answer can reduce needless guessing; a person should still handle exceptions.\n\nWhat useful answer is missing from your own page?",
+      "tiktok_photo": "“What is the ordering cutoff this week?” is a fair question.\n\nWhat useful answer is missing from your own page?",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261127-C05",
+      "series": 5,
+      "hook": "If I took a neighbourhood meal prep brief, I would start here.",
+      "objective": "Show an honest first-brief route",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "If I took a neighbourhood meal prep brief, I would start here.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "HYPOTHETICAL: the question is “What is the ordering cutoff this week?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Ask the operator for a current dated cutoff and fulfilment calendar.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Watch for the exception: capacity fills before the cutoff.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "First deliverable: show the exact confirmed window and update owner.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Do not design a stronger promise than the operation can keep.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/05_IF_I_WERE_HIRED/conclusion.svg"
+        }
+      ],
+      "caption": "This is a hypothetical first-brief exercise, not a story about work Easywurld has done for a neighbourhood meal prep. I would map the real process and its exceptions before drafting a public claim. The operator must confirm a current dated cutoff and fulfilment calendar; a writer cannot invent it.",
+      "cta": "Do not design a stronger promise than the operation can keep.",
+      "risk": "Explicitly hypothetical; no invented client engagement.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "This is a hypothetical first-brief exercise, not a story about work Easywurld has done for a neighbourhood meal prep. I would map the real process and its exceptions before drafting a public claim. The operator must confirm a current dated cutoff and fulfilment calendar; a writer cannot invent it.\n\nDo not design a stronger promise than the operation can keep.",
+      "facebook": "If I took a neighbourhood meal prep brief, I would start here.\n\nThis is a hypothetical first-brief exercise, not a story about work Easywurld has done for a neighbourhood meal prep. I would map the real process and its exceptions before drafting a public claim. The operator must confirm a current dated cutoff and fulfilment calendar; a writer cannot invent it.\n\nDo not design a stronger promise than the operation can keep.",
+      "tiktok_photo": "If I took a neighbourhood meal prep brief, I would start here.\n\nDo not design a stronger promise than the operation can keep.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261127-C06",
+      "series": 6,
+      "hook": "Who owns the answer to “What is the ordering cutoff this week?”",
+      "objective": "Show an accountable approval chain",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Who owns the answer to “What is the ordering cutoff this week?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "LISTEN: collect the real buyer question without private details.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "DIAGNOSE: compare “Order whenever you like” with the operation.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "DECIDE: the owner confirms a current dated cutoff and fulfilment calendar.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "CREATE + CHECK: test wording against capacity fills before the cutoff.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "DISTRIBUTE only after named approval and platform checks.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/06_CLIENT_PROCESS/conclusion.svg"
+        }
+      ],
+      "caption": "Process is part of the claim. For an imagined neighbourhood meal prep, a writer can propose an answer; the business must verify and own it. This is a proposed workflow, not a completed client case or an approval to publish the sample.",
+      "cta": "DISTRIBUTE only after named approval and platform checks.",
+      "risk": "No named owner, verified policy, release signoff or live queue.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "Process is part of the claim. For an imagined neighbourhood meal prep, a writer can propose an answer; the business must verify and own it. This is a proposed workflow, not a completed client case or an approval to publish the sample.\n\nDISTRIBUTE only after named approval and platform checks.",
+      "facebook": "Who owns the answer to “What is the ordering cutoff this week?”\n\nProcess is part of the claim. For an imagined neighbourhood meal prep, a writer can propose an answer; the business must verify and own it. This is a proposed workflow, not a completed client case or an approval to publish the sample.\n\nDISTRIBUTE only after named approval and platform checks.",
+      "tiktok_photo": "Who owns the answer to “What is the ordering cutoff this week?”\n\nDISTRIBUTE only after named approval and platform checks.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261127-C07",
+      "series": 7,
+      "hook": "SAMPLE: the buyer asks “What is the ordering cutoff this week?”",
+      "objective": "Demonstrate a wording change without fake evidence",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "SAMPLE: the buyer asks “What is the ordering cutoff this week?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "BEFORE: “Order whenever you like”.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Why it fails: the decision remains hidden in the inbox.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "AFTER: “Check [approved terms] before requesting a slot.”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "To finish the edit, insert a current dated cutoff and fulfilment calendar.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "This shows a decision path—not a measured result.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/07_PROOF_AND_DEMONSTRATION/conclusion.svg"
+        }
+      ],
+      "caption": "The before/after is fictional sample copy for a neighbourhood meal prep; it is not a screenshot, testimonial or conversion test. The “after” line cannot go live with brackets or an imaginary check route. Obtain the actual terms, then test whether a first-time buyer understands them.",
+      "cta": "This shows a decision path—not a measured result.",
+      "risk": "Illustrative sample only; no real before/after or performance claim.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "The before/after is fictional sample copy for a neighbourhood meal prep; it is not a screenshot, testimonial or conversion test. The “after” line cannot go live with brackets or an imaginary check route. Obtain the actual terms, then test whether a first-time buyer understands them.\n\nThis shows a decision path—not a measured result.",
+      "facebook": "SAMPLE: the buyer asks “What is the ordering cutoff this week?”\n\nThe before/after is fictional sample copy for a neighbourhood meal prep; it is not a screenshot, testimonial or conversion test. The “after” line cannot go live with brackets or an imaginary check route. Obtain the actual terms, then test whether a first-time buyer understands them.\n\nThis shows a decision path—not a measured result.",
+      "tiktok_photo": "SAMPLE: the buyer asks “What is the ordering cutoff this week?”\n\nThis shows a decision path—not a measured result.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261127-C08",
+      "series": 8,
+      "hook": "Edit “Order whenever you like” before adding another CTA.",
+      "objective": "Explain one line-level copy decision",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Edit “Order whenever you like” before adding another CTA.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "The missing noun is the buyer’s actual condition.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Ask: “What is the ordering cutoff this week?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Build from a current dated cutoff and fulfilment calendar.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Add an exception route when capacity fills before the cutoff.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Underline the checkable detail; remove unsupported adjectives.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/08_GROWTH_AND_COPYWRITING/conclusion.svg"
+        }
+      ],
+      "caption": "A practical copy edit begins with the buyer’s question, not a longer slogan. In this hypothetical neighbourhood meal prep brief, the next step is to replace “Order whenever you like” with a current dated cutoff and fulfilment calendar and explain the exception path. That information must come from operations, not from a template.",
+      "cta": "Underline the checkable detail; remove unsupported adjectives.",
+      "risk": "No live service details or claim evidence provided.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "A practical copy edit begins with the buyer’s question, not a longer slogan. In this hypothetical neighbourhood meal prep brief, the next step is to replace “Order whenever you like” with a current dated cutoff and fulfilment calendar and explain the exception path. That information must come from operations, not from a template.\n\nUnderline the checkable detail; remove unsupported adjectives.",
+      "facebook": "Edit “Order whenever you like” before adding another CTA.\n\nA practical copy edit begins with the buyer’s question, not a longer slogan. In this hypothetical neighbourhood meal prep brief, the next step is to replace “Order whenever you like” with a current dated cutoff and fulfilment calendar and explain the exception path. That information must come from operations, not from a template.\n\nUnderline the checkable detail; remove unsupported adjectives.",
+      "tiktok_photo": "Edit “Order whenever you like” before adding another CTA.\n\nUnderline the checkable detail; remove unsupported adjectives.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261127-C09",
+      "series": 9,
+      "hook": "An assistant should not guess “What is the ordering cutoff this week?”",
+      "objective": "Bound a human-reviewed FAQ idea",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "An assistant should not guess “What is the ordering cutoff this week?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "INPUT: an owner-approved record of a current dated cutoff and fulfilment calendar.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "RULE: propose only answers present in that record.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "STOP: hold the case if capacity fills before the cutoff.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "HUMAN: review the exception through a private approved route.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Test refusals, privacy and updates before any deployment.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/09_AI_AUTOMATION/conclusion.svg"
+        }
+      ],
+      "caption": "This is a possible bounded FAQ design for a neighbourhood meal prep, not a live Easywurld automation. An unknown should stay unknown. Never copy private messages or customer details into an unapproved tool, and never imply a bot has confirmed an operational promise on its own.",
+      "cta": "Test refusals, privacy and updates before any deployment.",
+      "risk": "No deployment, privacy approval, operational record or measured saving.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "This is a possible bounded FAQ design for a neighbourhood meal prep, not a live Easywurld automation. An unknown should stay unknown. Never copy private messages or customer details into an unapproved tool, and never imply a bot has confirmed an operational promise on its own.\n\nTest refusals, privacy and updates before any deployment.",
+      "facebook": "An assistant should not guess “What is the ordering cutoff this week?”\n\nThis is a possible bounded FAQ design for a neighbourhood meal prep, not a live Easywurld automation. An unknown should stay unknown. Never copy private messages or customer details into an unapproved tool, and never imply a bot has confirmed an operational promise on its own.\n\nTest refusals, privacy and updates before any deployment.",
+      "tiktok_photo": "An assistant should not guess “What is the ordering cutoff this week?”\n\nTest refusals, privacy and updates before any deployment.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261127-C10",
+      "series": 10,
+      "hook": "Could a clearer “What is the ordering cutoff this week?” answer be a project?",
+      "objective": "Explore commercial fit without advertising unverified services",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Could a clearer “What is the ordering cutoff this week?” answer be a project?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Potential brief: map the question against a current dated cutoff and fulfilment calendar.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Possible output: one verified explainer and a human exception route.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Not assumed: new software, fulfilment capacity or a fixed price.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "EASYWURLD OFFER TERMS NOT VERIFIED — INTERNAL HOLD.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Do not send a public offer until scope and contact route are signed.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/10_OFFERS_AND_SOLUTIONS/conclusion.svg"
+        }
+      ],
+      "caption": "Internal commercial-fit concept only. This does not announce an available Easywurld package or promise a price, delivery or feature. Verify current offer scope, owner, inclusions, exclusions and destination before advertising anything related to a neighbourhood meal prep.",
+      "cta": "Do not send a public offer until scope and contact route are signed.",
+      "risk": "G1 HOLD: current Easywurld offer, capacity, price and destination unverified.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "Internal commercial-fit concept only. This does not announce an available Easywurld package or promise a price, delivery or feature. Verify current offer scope, owner, inclusions, exclusions and destination before advertising anything related to a neighbourhood meal prep.\n\nDo not send a public offer until scope and contact route are signed.",
+      "facebook": "Could a clearer “What is the ordering cutoff this week?” answer be a project?\n\nInternal commercial-fit concept only. This does not announce an available Easywurld package or promise a price, delivery or feature. Verify current offer scope, owner, inclusions, exclusions and destination before advertising anything related to a neighbourhood meal prep.\n\nDo not send a public offer until scope and contact route are signed.",
+      "tiktok_photo": "Could a clearer “What is the ordering cutoff this week?” answer be a project?\n\nDo not send a public offer until scope and contact route are signed.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261127-C11",
+      "series": 11,
+      "hook": "Clarity starts with “What is the ordering cutoff this week?”",
+      "objective": "Connect the brand principle to a buyer decision",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Clarity starts with “What is the ordering cutoff this week?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "Simplify: replace “Order whenever you like” with the real condition.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "Optimize: assign an owner to a current dated cutoff and fulfilment calendar.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Grow: avoid inviting the wrong enquiry when capacity fills before the cutoff.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "For this fictional neighbourhood meal prep, accurate boundaries come first.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Simplify. Optimize. Grow.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/11_MEET_EASYWURLD/conclusion.svg"
+        }
+      ],
+      "caption": "Easywurld’s stated direction is “Simplify. Optimize. Grow.” Here is how it could guide a fictional neighbourhood meal prep: explain the buyer’s condition, name who keeps it current and avoid promising an exception automatically. It is a principle, not evidence of a client result.",
+      "cta": "Simplify. Optimize. Grow.",
+      "risk": "No brand-performance or service-delivery proof claimed.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "Easywurld’s stated direction is “Simplify. Optimize. Grow.” Here is how it could guide a fictional neighbourhood meal prep: explain the buyer’s condition, name who keeps it current and avoid promising an exception automatically. It is a principle, not evidence of a client result.\n\nSimplify. Optimize. Grow.",
+      "facebook": "Clarity starts with “What is the ordering cutoff this week?”\n\nEasywurld’s stated direction is “Simplify. Optimize. Grow.” Here is how it could guide a fictional neighbourhood meal prep: explain the buyer’s condition, name who keeps it current and avoid promising an exception automatically. It is a principle, not evidence of a client result.\n\nSimplify. Optimize. Grow.",
+      "tiktok_photo": "Clarity starts with “What is the ordering cutoff this week?”\n\nSimplify. Optimize. Grow.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    },
+    {
+      "id": "EW-20261127-C12",
+      "series": 2,
+      "hook": "Separate question: How do buyers ask about allergens?",
+      "objective": "Address a second independent buyer concern",
+      "slides": [
+        {
+          "number": 1,
+          "copy": "Separate question: How do buyers ask about allergens?",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/cover.svg"
+        },
+        {
+          "number": 2,
+          "copy": "This is not another version of “What is the ordering cutoff this week?”",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg"
+        },
+        {
+          "number": 3,
+          "copy": "A buyer needs a distinct decision about the how do buyers ask about allergens.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg"
+        },
+        {
+          "number": 4,
+          "copy": "Route ingredient/allergen questions to a verified food-safety owner; do not invent guarantees.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-a.svg"
+        },
+        {
+          "number": 5,
+          "copy": "Verify the underlying terms with the relevant operator first.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/interior-b.svg"
+        },
+        {
+          "number": 6,
+          "copy": "Keep this second decision visible; do not bury it in a generic offer.",
+          "layout": "TEMPLATE_LIBRARY/CAROUSELS/02_MARKETING_EDUCATION/conclusion.svg"
+        }
+      ],
+      "caption": "Second concept for a fictional neighbourhood meal prep: “How do buyers ask about allergens?” It is deliberately separate from the main daily question about “What is the ordering cutoff this week?” Route ingredient/allergen questions to a verified food-safety owner; do not invent guarantees. This draft is not a claim that the service or policy exists; verify with the right operator before release.",
+      "cta": "Keep this second decision visible; do not bury it in a generic offer.",
+      "risk": "Independent illustrative concern; operational policy and rights unverified.",
+      "research_status": "Illustrative editorial hypothesis; verify real business process before use",
+      "visual_status": "template mapped only; not composited/exported/phone checked",
+      "instagram": "Second concept for a fictional neighbourhood meal prep: “How do buyers ask about allergens?” It is deliberately separate from the main daily question about “What is the ordering cutoff this week?” Route ingredient/allergen questions to a verified food-safety owner; do not invent guarantees. This draft is not a claim that the service or policy exists; verify with the right operator before release.\n\nKeep this second decision visible; do not bury it in a generic offer.",
+      "facebook": "Separate question: How do buyers ask about allergens?\n\nSecond concept for a fictional neighbourhood meal prep: “How do buyers ask about allergens?” It is deliberately separate from the main daily question about “What is the ordering cutoff this week?” Route ingredient/allergen questions to a verified food-safety owner; do not invent guarantees. This draft is not a claim that the service or policy exists; verify with the right operator before release.\n\nKeep this second decision visible; do not bury it in a generic offer.",
+      "tiktok_photo": "Separate question: How do buyers ask about allergens?\n\nKeep this second decision visible; do not bury it in a generic offer.",
+      "publication": "not scheduled",
+      "gate": "G1–G4 pending"
+    }
+  ],
+  "stories": [
+    {
+      "id": "EW-20261127-ST1",
+      "kind": "Engagement",
+      "copy": "Which question would you ask a neighbourhood meal prep before deciding?\nA: What is the ordering cutoff this week?\nB: How do buyers ask about allergens?\nC: Something else (no personal details)",
+      "interaction": "Native question/poll sticker only where available; no fake button",
+      "cta": "Ask for themes, not addresses, names or customer records.",
+      "visual": "TEMPLATE_LIBRARY/STORIES/ENGAGEMENT/02_question.svg",
+      "gate": "G1–G4 pending",
+      "publication": "not scheduled"
+    },
+    {
+      "id": "EW-20261127-ST2",
+      "kind": "Education",
+      "copy": "Quick test: does “Order whenever you like” answer “What is the ordering cutoff this week?” Not yet. Ask for a current dated cutoff and fulfilment calendar and an exception route.",
+      "interaction": "No sticker necessary; content stays above the provisional overlay",
+      "cta": "Save the question-before-claim check.",
+      "visual": "TEMPLATE_LIBRARY/STORIES/EDUCATION/02_tip.svg",
+      "gate": "G1–G4 pending",
+      "publication": "not scheduled"
+    },
+    {
+      "id": "EW-20261127-ST3",
+      "kind": "Conversion HOLD",
+      "copy": "What would make “What is the ordering cutoff this week?” easier to answer? A proposed service discussion only. Easywurld package and destination are unverified.",
+      "interaction": "No link/contact sticker before the real service/inbox is checked",
+      "cta": "HOLD commercial CTA at G1; do not publish.",
+      "visual": "TEMPLATE_LIBRARY/STORIES/CONVERSION/04_direct_enquiry.svg",
+      "gate": "G1–G4 pending",
+      "publication": "not scheduled"
+    }
+  ],
+  "linkedin": {
+    "company": [
+      {
+        "id": "EW-20261127-LC1",
+        "topic": "The missing decision",
+        "hook": "“What is the ordering cutoff this week?” is a decision question, not a content theme.",
+        "body": "Consider a fictional neighbourhood meal prep. The public line “Order whenever you like” does not tell a buyer whether the service fits. A useful rewrite requires a current dated cutoff and fulfilment calendar; it cannot be supplied by a writer guessing from the category. The actual operator must sign off the wording. This is a diagnostic exercise, not a client result.",
+        "cta": "What would a buyer still need to ask?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/01_insight.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261127-LC2",
+        "topic": "The exception owner",
+        "hook": "An exception needs a person before it needs a clever headline.",
+        "body": "For an imagined neighbourhood meal prep, a clear rule still needs a route when capacity fills before the cutoff. Record who maintains the rule and who can say yes or no to an edge case. Publish the decision path only after that owner approves it. No particular business policy is claimed here.",
+        "cta": "Who decides your exceptions?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/02_education_document.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261127-LC3",
+        "topic": "The sample redline",
+        "hook": "Copy sample: “Order whenever you like”",
+        "body": "The sample headline is too broad for the question “What is the ordering cutoff this week?” A more useful draft would state a current dated cutoff and fulfilment calendar and explain how exceptions are checked. Both need verification; a polished sentence is not evidence that a service exists. This is a fictional redline, not a screenshot or a performance case.",
+        "cta": "What fact would you ask operations for first?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/03_diagnosis.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261127-LC4",
+        "topic": "The measurement question",
+        "hook": "Observe whether “What is the ordering cutoff this week?” still arrives after a rewrite.",
+        "body": "A proposed review would compare real, consented buyer questions before and after an approved explanation. For this fictional neighbourhood meal prep, one signal is which late-order requests need manual response. Without actual records, control of other changes and context, there is no result to report. Plan the observation before making a claim.",
+        "cta": "Which question would you track?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/04_strategy_framework.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261127-LC5",
+        "topic": "The boundary of automation",
+        "hook": "A workflow must know when not to answer “What is the ordering cutoff this week?”",
+        "body": "A possible assistant could look up a current dated cutoff and fulfilment calendar from an owner-maintained record. If capacity fills before the cutoff, it should stop and route the case privately to a human. This is a hypothetical architecture, not deployed Easywurld software. Review data permissions, failure paths and accountable ownership first.",
+        "cta": "Where should your workflow stop?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/BUSINESS_PAGE/07_principle.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      }
+    ],
+    "personal": [
+      {
+        "id": "EW-20261127-LP1",
+        "topic": "First question",
+        "hook": "I would start with “What is the ordering cutoff this week?”",
+        "body": "If I were asked to review a neighbourhood meal prep page, I would ask for a current dated cutoff and fulfilment calendar before proposing the headline. That is a future-facing editorial method, not a story about a client I served or a result I achieved. The operator knows the service; a writer must check it.",
+        "cta": "What fact would you ask for first?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/01_observation.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261127-LP2",
+        "topic": "Honest boundary",
+        "hook": "I would rather hold a claim than make “Order whenever you like” sound better.",
+        "body": "When capacity fills before the cutoff, a smooth phrase can create the wrong expectation. I would show the exception in a draft and ask the responsible person to confirm how it is handled. This is an opinion for the actual personal-account owner to approve, not a reported personal experience.",
+        "cta": "Where do your claims need a boundary?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/03_industry_opinion.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      },
+      {
+        "id": "EW-20261127-LP3",
+        "topic": "Another buyer decision",
+        "hook": "“How do buyers ask about allergens?” deserves its own answer.",
+        "body": "I would not tuck this separate decision into a broad neighbourhood meal prep offer. Route ingredient/allergen questions to a verified food-safety owner; do not invent guarantees. That is a proposed approach for discussion, not a claim that a real operator has adopted it. The account owner should review the first-person wording before use.",
+        "cta": "What second question should your page answer?",
+        "visual": "TEMPLATE_LIBRARY/LINKEDIN/PERSONAL_PAGE/05_educational_breakdown.svg",
+        "visual_status": "optional source concept; text-led post does not require a graphic",
+        "gate": "G1–G4 pending",
+        "publication": "not scheduled"
+      }
+    ]
+  },
+  "source": "Structured first-pass draft from manually selected niche brief and distinct 12th topic; needs human line edit before G2 review."
+}

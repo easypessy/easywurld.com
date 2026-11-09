@@ -1,0 +1,11 @@
+# Easywurld visual-template intake / audit
+
+8 November 2026 (WAT). New library is isolated under `marketing/visual-identity-v1/`; existing November/December production, nine older SVGs, brand artwork and website are not overwritten.
+
+**Inspected:** `client/public/brand/` (logo, mark and icons); `marketing/content-operations-2026-11-11/templates/*.svg` (nine single-card draft layouts), `output/pilot/svg/` (81 pilot slides and three stories); `marketing/brand-prompt.md`, `marketing/ai-training/modules/04-visual-design-and-creative-direction.md` and existing strategy/production docs. The older `brand-prompt.md` uses cream `#FAE7C7`, other greens, Fraunces/Inter and videos; it is **not** silently modified. This request specifies beige `#FBE7C5`, green `#144D3C`, Lora and Canva Sans, all carousel-first. The site has logos, but logo application rights and correct variants need owner review.
+
+**Tool reality:** repository + Python standard library can generate editable SVG; the sandbox has a temporary local resvg renderer for proof PNGs/PDFs, not a Canva connection. No Lora or licensed Canva Sans file has been found or bundled; SVG family declarations fall back to Georgia/Arial. A vector file is editable, but does not become a Canva-native editable template by upload. No mobile device/platform composer or signed G3/G4 visual check is connected. Existing pilot SVGs have demonstrated text clipping when rendered by some font engines, so the new library must wrap text and test rendered proofs rather than merely XML-parse.
+
+**Safety requirement from owner:** keep essential message, CTA, labels and interaction prompts away from app controls, account chrome and caption overlays. `01_MASTER_VISUAL_PROMPT.md` adds explicit provisional content-safe rectangles for each format and forbids placing essential text in the uncertainty zones. These are **internal conservative design limits, not official platform specifications**: real placement and account-specific composer previews must be checked before release.
+
+**Evidence/claims:** all template text is explicitly sample/fictional or generic instructional copy, not real clients/results. Offer template has a G1 hold. Stock/industry photographs, screenshot mockups, fake engagement widgets and personal portraits are deliberately not bundled. Font, image and logo rights remain pending.
