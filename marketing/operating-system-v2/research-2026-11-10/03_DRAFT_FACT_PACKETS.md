@@ -331,7 +331,7 @@ Belief posts carry the brand voice. They are low-fact but not exempt: any claim 
 | `NG-FCCPA-06` | Consumer-facing notices and information must be in plain, understandable language. | Federal Competition and Consumer Protection Act, 2018 | s.114(1)-(2) |
 | `NG-NDPA-05` | People can ask for a copy, correction, erasure or a pause on their data. | Nigeria Data Protection Act, 2023 (Act No. 37) | s.34(1)(a)-(e) |
 | `NG-NDPA-06` | Withdrawing consent must be as easy as giving it, and opting out of marketing must be honoured. | Nigeria Data Protection Act, 2023 (Act No. 37) | s.35(1)-(2), s.36(3)-(4) |
-| `REPO-01` | Brand typefaces are referenced, not licensed. | marketing/operating-system-v2/skills/easywurld-human-intelligence-and-editorial-system/SKILL.md | section 2 |
+| `REPO-01` | The logo and the Canva Sans reference in the older brief remain unverified; the typefaces now used are cleared. | marketing/operating-system-v2/skills/easywurld-human-intelligence-and-editorial-system/SKILL.md | section 2 |
 
 **Sector additions** (applied when the draft uses that sector):
 

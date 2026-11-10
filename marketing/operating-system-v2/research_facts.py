@@ -349,14 +349,15 @@ FACTS = [
        'OFL covers the typefaces, not the logo, photography or any Canva Sans reference elsewhere. '
        'Those remain separate.'),
     _f('REPO-01',
-       'Brand typefaces are referenced, not licensed.',
-       'The operating-system-v2 skill states Lora and Canva Sans are "intended typefaces, not proof of font '
-       'rights"; the live site uses other typefaces. No font licence record exists in this repository.',
+       'The logo and the Canva Sans reference in the older brief remain unverified; the typefaces now used are cleared.',
+       'The repository contains the mark at client/public/brand/ with no provenance or licence record beside it. '
+       'The v2 skill also references Canva Sans, a commercial face: it is not used in the rendered assets and is '
+       'not covered by the OFL grant in REPO-03.',
        'marketing/operating-system-v2/skills/'
        'easywurld-human-intelligence-and-editorial-system/SKILL.md', 'section 2',
        'marketing/operating-system-v2/skills/easywurld-human-intelligence-and-editorial-system/SKILL.md',
        'repository evidence', 'verified', [6, 7, 10, 11],
-       'Exporting 330 carousels in a typeface nobody has cleared for commercial use.'),
+       'Exporting carousels with a logo nobody can prove they own, or switching to Canva Sans without a licence.'),
     _f('REPO-02',
        'The December track is generated copy, and its own checker says so.',
        '`build_calendar.py` states "Structural QA != human approval"; `check.py` states "Passing does not mean '
