@@ -1,12 +1,8 @@
 # 2026-11-28 — carousel run sheet
 
-**11 carousels · 10 ready · 1 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
+**11 carousels · 11 ready · 0 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
 
 Post top to bottom. Slide files are numbered `01.jpg`, `02.jpg` … in each folder. Upload in that order.
-
-> **On hold and why.** A held carousel is not a rendering failure — the copy needs a decision only you can make. Fix the named item, then it becomes schedulable.
-
-> - `S10` — Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 ---
 
@@ -254,31 +250,32 @@ For a home laundry pickup (illustrative), pickup radius is unclear. A useful fir
 
 ---
 
-## 20:30 · S10 Offer and solution  ⛔ HOLD
+## 20:30 · S10 Offer and solution
 
 - **Channel:** Facebook photo album
 - **Folder:** `2026-11-28/S10/` — 6 slides, upload 01→06 in order
-- **HOLD:** Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 **Caption (copy everything inside the box):**
 
 ```
-The site lists Copywriting as a category, not a fixed package. A pet boarding service with this problem may need a scoped conversation. Price and availability require confirmation. Ask Easywurld whether this scope is available; terms require confirmation.
+If this is your week: unclear what to decide first, who owns the domain, or what happens after launch. The Website Launch & Care Handbook is ₦5,000 and it is built for owners planning a first site or rebuild, or living with one nobody maintains.
+
+Files are sent on WhatsApp after payment. Price is per pack, and no consultation or custom work is included. Message LAUNCH on WhatsApp to order The Website Launch & Care Handbook.
 
 #Easywurld #SmallBusinessMarketing #LagosBusiness
 ```
 
-**CTA:** Ask Easywurld whether this scope is available; terms require confirmation.
+**CTA:** Message LAUNCH on WhatsApp to order The Website Launch & Care Handbook.
 
 **LinkedIn company version:**
 
 ```
-When a pet boarding service needs copywriting.
+Web Design: The Website Launch & Care Handbook, ₦5,000.
 
-For a pet boarding service (illustrative), owners cannot find vaccination and check-in rules. A useful first decision is to publish approved intake and animal welfare requirements. Then offer a pre-booking fit conversation. Review eligible booking requests before deciding what to change next. Ask Easywurld whether this scope is available; terms require confirmation.
+For a pet boarding service (illustrative), owners cannot find vaccination and check-in rules. A useful first decision is to publish approved intake and animal welfare requirements. Then offer a pre-booking fit conversation. Review eligible booking requests before deciding what to change next. Message LAUNCH on WhatsApp to order The Website Launch & Care Handbook.
 ```
 
-**Facts this relies on:** NG-FCCPA-01 | NG-FCCPA-04 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | NG-NDPA-10 | NG-FCCPA-06 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
+**Facts this relies on:** REPO-04 | REPO-05 | NG-FCCPA-01 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | MKT-01 | NG-FCCPA-06 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
 
 ---
 

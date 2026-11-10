@@ -1,13 +1,8 @@
 # 2026-11-29 — carousel run sheet
 
-**11 carousels · 9 ready · 2 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
+**11 carousels · 11 ready · 0 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
 
 Post top to bottom. Slide files are numbered `01.jpg`, `02.jpg` … in each folder. Upload in that order.
-
-> **On hold and why.** A held carousel is not a rendering failure — the copy needs a decision only you can make. Fix the named item, then it becomes schedulable.
-
-> - `S07` — Unresolved [placeholder] in the copy — needs an owner-supplied detail
-> - `S10` — Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 ---
 
@@ -174,11 +169,10 @@ For an organic spice seller (illustrative), the origin statement lacks a traceab
 
 ---
 
-## 16:00 · S07 Proof and practical demonstration  ⛔ HOLD
+## 16:00 · S07 Proof and practical demonstration
 
 - **Channel:** TikTok photo mode
 - **Folder:** `2026-11-29/S07/` — 6 slides, upload 01→06 in order
-- **HOLD:** Unresolved [placeholder] in the copy — needs an owner-supplied detail
 
 **Caption (copy everything inside the box):**
 
@@ -256,31 +250,32 @@ For a local theatre school (illustrative), a term fee hides the number of classe
 
 ---
 
-## 20:30 · S10 Offer and solution  ⛔ HOLD
+## 20:30 · S10 Offer and solution
 
 - **Channel:** Facebook photo album
 - **Folder:** `2026-11-29/S10/` — 6 slides, upload 01→06 in order
-- **HOLD:** Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 **Caption (copy everything inside the box):**
 
 ```
-The site lists Reports & Presentations as a category, not a fixed package. A appliance-installation team with this problem may need a scoped conversation. Price and availability require confirmation. Ask Easywurld whether this scope is available; terms require confirmation.
+4 editable files for ₦5,000: 36 scripts, a playbook, a follow-up tracker and a 7-day setup checklist. For owners who sell by WhatsApp or DM and answer enquiries themselves.
+
+Files are sent on WhatsApp after payment. Price is per pack, and no consultation or custom work is included. Message PLAYBOOK on WhatsApp to order The Chat-to-Customer Playbook.
 
 #Easywurld #SmallBusinessMarketing #LagosBusiness
 ```
 
-**CTA:** Ask Easywurld whether this scope is available; terms require confirmation.
+**CTA:** Message PLAYBOOK on WhatsApp to order The Chat-to-Customer Playbook.
 
 **LinkedIn company version:**
 
 ```
-When an appliance-installation team needs reports & presentations.
+The Chat-to-Customer Playbook: 4 editable files, ₦5,000.
 
-For an appliance-installation team (illustrative), buyers assume hardware is included. A useful first decision is to list what's included and site conditions to check. Then ask for model and access details before quoting. Review quotes needing fewer revisions before deciding what to change next. Ask Easywurld whether this scope is available; terms require confirmation.
+For an appliance-installation team (illustrative), buyers assume hardware is included. A useful first decision is to list what's included and site conditions to check. Then ask for model and access details before quoting. Review quotes needing fewer revisions before deciding what to change next. Message PLAYBOOK on WhatsApp to order The Chat-to-Customer Playbook.
 ```
 
-**Facts this relies on:** NG-FCCPA-01 | NG-FCCPA-04 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | NG-NDPA-10 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
+**Facts this relies on:** REPO-04 | REPO-05 | NG-FCCPA-01 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | MKT-01 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
 
 ---
 

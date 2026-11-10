@@ -1,13 +1,8 @@
 # 2026-11-25 — carousel run sheet
 
-**11 carousels · 9 ready · 2 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
+**11 carousels · 11 ready · 0 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
 
 Post top to bottom. Slide files are numbered `01.jpg`, `02.jpg` … in each folder. Upload in that order.
-
-> **On hold and why.** A held carousel is not a rendering failure — the copy needs a decision only you can make. Fix the named item, then it becomes schedulable.
-
-> - `S08` — Unresolved [placeholder] in the copy — needs an owner-supplied detail
-> - `S10` — Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 ---
 
@@ -201,11 +196,10 @@ For an independent cleaning co-op (illustrative), buyers cannot see whether supp
 
 ---
 
-## 17:30 · S08 Growth strategy and copywriting breakdowns  ⛔ HOLD
+## 17:30 · S08 Growth strategy and copywriting breakdowns
 
 - **Channel:** TikTok photo mode
 - **Folder:** `2026-11-25/S08/` — 6 slides, upload 01→06 in order
-- **HOLD:** Unresolved [placeholder] in the copy — needs an owner-supplied detail
 
 **Caption (copy everything inside the box):**
 
@@ -256,31 +250,32 @@ For a storage-locker operator (illustrative), users do not know what can be stor
 
 ---
 
-## 20:30 · S10 Offer and solution  ⛔ HOLD
+## 20:30 · S10 Offer and solution
 
 - **Channel:** Facebook photo album
 - **Folder:** `2026-11-25/S10/` — 6 slides, upload 01→06 in order
-- **HOLD:** Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 **Caption (copy everything inside the box):**
 
 ```
-The site lists Landing Pages as a category, not a fixed package. A language translation studio with this problem may need a scoped conversation. Price and availability require confirmation. Ask Easywurld whether this scope is available; terms require confirmation.
+If this is your week: the site, bio and pitch all say different things, so buyers cannot choose. The Clear Message Workbook is ₦5,000 and it is built for founders who cannot explain what they do in one sentence.
+
+Files are sent on WhatsApp after payment. Price is per pack, and no consultation or custom work is included. Message MESSAGE on WhatsApp to order The Clear Message Workbook.
 
 #Easywurld #SmallBusinessMarketing #LagosBusiness
 ```
 
-**CTA:** Ask Easywurld whether this scope is available; terms require confirmation.
+**CTA:** Message MESSAGE on WhatsApp to order The Clear Message Workbook.
 
 **LinkedIn company version:**
 
 ```
-When a language translation studio needs landing pages.
+Digital Marketing Strategy: The Clear Message Workbook, ₦5,000.
 
-For a language translation studio (illustrative), clients cannot tell if certified translation is offered. A useful first decision is to separate ordinary and certified work where verified. Then state required format and turnaround enquiry steps. Review requests with correct document type before deciding what to change next. Ask Easywurld whether this scope is available; terms require confirmation.
+For a language translation studio (illustrative), clients cannot tell if certified translation is offered. A useful first decision is to separate ordinary and certified work where verified. Then state required format and turnaround enquiry steps. Review requests with correct document type before deciding what to change next. Message MESSAGE on WhatsApp to order The Clear Message Workbook.
 ```
 
-**Facts this relies on:** NG-FCCPA-01 | NG-FCCPA-04 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | NG-NDPA-10 | NG-NDPA-09 | NG-NDPA-04 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
+**Facts this relies on:** REPO-04 | REPO-05 | NG-FCCPA-01 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | MKT-01 | NG-NDPA-09 | NG-NDPA-04 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
 
 ---
 

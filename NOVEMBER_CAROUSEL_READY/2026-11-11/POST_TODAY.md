@@ -1,13 +1,8 @@
 # 2026-11-11 — carousel run sheet
 
-**11 carousels · 9 ready · 2 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
+**11 carousels · 11 ready · 0 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
 
 Post top to bottom. Slide files are numbered `01.jpg`, `02.jpg` … in each folder. Upload in that order.
-
-> **On hold and why.** A held carousel is not a rendering failure — the copy needs a decision only you can make. Fix the named item, then it becomes schedulable.
-
-> - `S07` — Unresolved [placeholder] in the copy — needs an owner-supplied detail
-> - `S10` — Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 ---
 
@@ -174,16 +169,15 @@ For a fabric-dye studio (illustrative), buyers cannot predict colour variation. 
 
 ---
 
-## 16:00 · S07 Proof and practical demonstration  ⛔ HOLD
+## 16:00 · S07 Proof and practical demonstration
 
 - **Channel:** TikTok photo mode
 - **Folder:** `2026-11-11/S07/` — 6 slides, upload 01→06 in order
-- **HOLD:** Unresolved [placeholder] in the copy — needs an owner-supplied detail
 
 **Caption (copy everything inside the box):**
 
 ```
-This is an illustrative copy exercise. “Tiles from [price]” asks a buyer to guess. The alternative gives one concrete next step; it is not a measured outcome. Save this for your next planning session.
+This is an illustrative copy exercise. “Tiles at great prices” asks a buyer to guess. The alternative gives one concrete next step; it is not a measured outcome. Save this for your next planning session.
 
 #Easywurld #SmallBusinessMarketing #LagosBusiness
 ```
@@ -256,31 +250,32 @@ For an independent cleaning co-op (illustrative), buyers cannot see whether supp
 
 ---
 
-## 20:30 · S10 Offer and solution  ⛔ HOLD
+## 20:30 · S10 Offer and solution
 
 - **Channel:** Facebook photo album
 - **Folder:** `2026-11-11/S10/` — 6 slides, upload 01→06 in order
-- **HOLD:** Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 **Caption (copy everything inside the box):**
 
 ```
-The site lists Landing Pages as a category, not a fixed package. A private music teacher with this problem may need a scoped conversation. Price and availability require confirmation. Ask Easywurld whether this scope is available; terms require confirmation.
+The Chat-to-Customer Playbook, ₦5,000. 36 scripts, a playbook, a follow-up tracker and a 7-day setup checklist. It is for owners who sell by WhatsApp or DM and answer enquiries themselves.
+
+Files are sent on WhatsApp after payment. Price is per pack, and no consultation or custom work is included. Message PLAYBOOK on WhatsApp to order The Chat-to-Customer Playbook.
 
 #Easywurld #SmallBusinessMarketing #LagosBusiness
 ```
 
-**CTA:** Ask Easywurld whether this scope is available; terms require confirmation.
+**CTA:** Message PLAYBOOK on WhatsApp to order The Chat-to-Customer Playbook.
 
 **LinkedIn company version:**
 
 ```
-When a private music teacher needs landing pages.
+The Chat-to-Customer Playbook — ₦5,000, delivered on WhatsApp.
 
-For a private music teacher (illustrative), parents cannot see which ages or levels are taught. A useful first decision is to publish eligible levels and lesson format. Then explain how a first lesson is arranged. Review level-matched lesson enquiries before deciding what to change next. Ask Easywurld whether this scope is available; terms require confirmation.
+For a private music teacher (illustrative), parents cannot see which ages or levels are taught. A useful first decision is to publish eligible levels and lesson format. Then explain how a first lesson is arranged. Review level-matched lesson enquiries before deciding what to change next. Message PLAYBOOK on WhatsApp to order The Chat-to-Customer Playbook.
 ```
 
-**Facts this relies on:** NG-FCCPA-01 | NG-FCCPA-04 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | NG-NDPA-10 | NG-NDPA-03 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
+**Facts this relies on:** REPO-04 | REPO-05 | NG-FCCPA-01 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | MKT-01 | NG-NDPA-03 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
 
 ---
 

@@ -37,13 +37,33 @@ and each package carries the OFL text in its `LICENSE`. Copyright lines read:
 bash marketing/operating-system-v2/setup_fonts.sh
 ```
 
-That fetches the three packages with `npm pack`, copies `*-latin-{400,600,700}-normal.woff2` into
-`~/.cache/easywurld-fonts`, and converts each to a fixed-weight `.ttf` with `fontTools`, because Pillow cannot read
-`woff2` directly. `EASYWURLD_FONT_DIR` overrides the cache location.
+That fetches the three packages with `npm pack`, builds the faces with `fontTools`, and writes them to
+`marketing/operating-system-v2/fonts/`, next to this record. Pillow cannot read `woff2`, so each face is converted
+to a fixed-weight `.ttf`.
 
-The fonts are **not committed** to the repository. They are fetched on demand into the cache directory, which is
-covered by the existing ignore conventions for generated and external files. That keeps the repository from
-carrying third-party binaries it does not need to own.
+### Why the pipeline changed: the naira sign
+
+The first version of this script fetched only the `latin` subsets into `~/.cache`. That produced slides where
+**₦ rendered as an empty box**. fontsource splits each family into subsets, and they do not overlap the way you
+would assume:
+
+| Subset | Digits | ₦ (U+20A6) |
+|---|---|---|
+| `latin` | yes | **no** |
+| `latin-ext` | **no** | yes |
+
+Neither subset alone can render a price. The script now **merges `latin` + `latin-ext`** per weight, so one face
+carries both the digits and the naira sign. It then asserts, for every face, that digits are present and — for
+Fraunces and Inter only — that U+20A6 is present. JetBrains Mono has no ₦ in *any* subset (checked across
+`latin`, `latin-ext`, `vietnamese` and `cyrillic-ext`), so monospace type is never used to draw a price; the
+renderer asserts this at import time rather than trusting it.
+
+The fonts are now **committed** at `marketing/operating-system-v2/fonts/`, together with the combined OFL text at
+`fonts/OFL.txt`. Two reasons: `~/.cache` is wiped between sessions, which silently broke a rebuild, and a rendered
+JPEG should be traceable to the exact face that produced it without a network fetch. The whole set is under 1 MB.
+
+The faces are unmodified in outline. Subsets are merged and the reserved font names are not renamed, which is what
+OFL 1.1 permits; the licence text travels in `fonts/OFL.txt` and in each fontsource package.
 
 ## What is still open
 
@@ -53,6 +73,7 @@ carrying third-party binaries it does not need to own.
 | Canva Sans | Referenced in the older v2 brief and in the draft day-file headers. **Not used in these renders**, and not covered by this record. If it is ever used, its licence must be checked separately — it is a commercial font, not an OFL one. |
 | Photography / likeness | No photography appears in these carousels; they are typographic. Nothing to clear today. |
 | Music | Still deferred. See `04_MUSIC_AND_RIGHTS_NOTE.md`. These carousels are silent. |
+| Naira glyph | **Resolved.** Present in Fraunces and Inter; `setup_fonts.sh` fails the build if it ever disappears. |
 
 **Snapshot:** licences checked 2026-11-10. An OFL grant does not expire or need renewal, so this row does not need
 the refresh cadence that platform policies do — but if a family is swapped, add a new row rather than editing this one.

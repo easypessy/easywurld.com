@@ -1,12 +1,8 @@
 # 2026-11-23 — carousel run sheet
 
-**11 carousels · 10 ready · 1 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
+**11 carousels · 11 ready · 0 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
 
 Post top to bottom. Slide files are numbered `01.jpg`, `02.jpg` … in each folder. Upload in that order.
-
-> **On hold and why.** A held carousel is not a rendering failure — the copy needs a decision only you can make. Fix the named item, then it becomes schedulable.
-
-> - `S10` — Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 ---
 
@@ -254,31 +250,32 @@ For a juice-prep business (illustrative), subscriptions and one-off orders are m
 
 ---
 
-## 20:30 · S10 Offer and solution  ⛔ HOLD
+## 20:30 · S10 Offer and solution
 
 - **Channel:** Facebook photo album
 - **Folder:** `2026-11-23/S10/` — 6 slides, upload 01→06 in order
-- **HOLD:** Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 **Caption (copy everything inside the box):**
 
 ```
-The site lists Digital Marketing as a category, not a fixed package. A independent dental lab with this problem may need a scoped conversation. Price and availability require confirmation. Ask Easywurld whether this scope is available; terms require confirmation.
+If this is your week: buyers are sent to a bio or a chat thread instead of a page that explains. The One-Offer Landing Page Kit is ₦5,000 and it is built for anyone launching one product, workshop, service or campaign.
+
+Files are sent on WhatsApp after payment. Price is per pack, and no consultation or custom work is included. Message PAGE on WhatsApp to order The One-Offer Landing Page Kit.
 
 #Easywurld #SmallBusinessMarketing #LagosBusiness
 ```
 
-**CTA:** Ask Easywurld whether this scope is available; terms require confirmation.
+**CTA:** Message PAGE on WhatsApp to order The One-Offer Landing Page Kit.
 
 **LinkedIn company version:**
 
 ```
-When an independent dental lab needs digital marketing.
+Landing Pages: The One-Offer Landing Page Kit, ₦5,000.
 
-For an independent dental lab (illustrative), clinics cannot see sample handover requirements. A useful first decision is to create a clinician-facing submission checklist. Then confirm permitted data transfer before files are shared. Review complete and compliant submissions before deciding what to change next. Ask Easywurld whether this scope is available; terms require confirmation.
+For an independent dental lab (illustrative), clinics cannot see sample handover requirements. A useful first decision is to create a clinician-facing submission checklist. Then confirm permitted data transfer before files are shared. Review complete and compliant submissions before deciding what to change next. Message PAGE on WhatsApp to order The One-Offer Landing Page Kit.
 ```
 
-**Facts this relies on:** NG-FCCPA-01 | NG-FCCPA-04 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | NG-NDPA-10 | NG-NDPA-01 | NG-NDPA-04 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
+**Facts this relies on:** REPO-04 | REPO-05 | NG-FCCPA-01 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | MKT-01 | NG-NDPA-01 | NG-NDPA-04 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
 
 ---
 

@@ -1,12 +1,8 @@
 # 2026-11-13 — carousel run sheet
 
-**11 carousels · 10 ready · 1 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
+**11 carousels · 11 ready · 0 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
 
 Post top to bottom. Slide files are numbered `01.jpg`, `02.jpg` … in each folder. Upload in that order.
-
-> **On hold and why.** A held carousel is not a rendering failure — the copy needs a decision only you can make. Fix the named item, then it becomes schedulable.
-
-> - `S10` — Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 ---
 
@@ -254,31 +250,32 @@ For an artisan bread subscription (illustrative), customers do not understand pa
 
 ---
 
-## 20:30 · S10 Offer and solution  ⛔ HOLD
+## 20:30 · S10 Offer and solution
 
 - **Channel:** Facebook photo album
 - **Folder:** `2026-11-13/S10/` — 6 slides, upload 01→06 in order
-- **HOLD:** Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 **Caption (copy everything inside the box):**
 
 ```
-The site lists Social Media as a category, not a fixed package. A fabric-dye studio with this problem may need a scoped conversation. Price and availability require confirmation. Ask Easywurld whether this scope is available; terms require confirmation.
+The 30-Day Content Engine, ₦5,000. A 30-day calendar, 60 post ideas, a hook and caption file, and a guide. It is for owners who post on Instagram, Facebook, TikTok or LinkedIn and run dry.
+
+Files are sent on WhatsApp after payment. Price is per pack, and no consultation or custom work is included. Message ENGINE on WhatsApp to order The 30-Day Content Engine.
 
 #Easywurld #SmallBusinessMarketing #LagosBusiness
 ```
 
-**CTA:** Ask Easywurld whether this scope is available; terms require confirmation.
+**CTA:** Message ENGINE on WhatsApp to order The 30-Day Content Engine.
 
 **LinkedIn company version:**
 
 ```
-When a fabric-dye studio needs social media.
+The 30-Day Content Engine — ₦5,000, delivered on WhatsApp.
 
-For a fabric-dye studio (illustrative), buyers cannot predict colour variation. A useful first decision is to explain batch variation with permissioned examples. Then offer a current-batch photo before payment. Review returns caused by mismatched expectations before deciding what to change next. Ask Easywurld whether this scope is available; terms require confirmation.
+For a fabric-dye studio (illustrative), buyers cannot predict colour variation. A useful first decision is to explain batch variation with permissioned examples. Then offer a current-batch photo before payment. Review returns caused by mismatched expectations before deciding what to change next. Message ENGINE on WhatsApp to order The 30-Day Content Engine.
 ```
 
-**Facts this relies on:** NG-FCCPA-01 | NG-FCCPA-04 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | NG-NDPA-10 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
+**Facts this relies on:** REPO-04 | REPO-05 | NG-FCCPA-01 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | MKT-01 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
 
 ---
 

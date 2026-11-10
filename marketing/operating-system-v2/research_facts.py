@@ -348,6 +348,38 @@ FACTS = [
        'Treating the font question as unresolved when it is in fact resolved by an open licence.',
        'OFL covers the typefaces, not the logo, photography or any Canva Sans reference elsewhere. '
        'Those remain separate.'),
+    _f('REPO-04',
+       'The site sells nine packs at a single published price of ₦5,000 each, delivered over WhatsApp.',
+       '`client/src/data/offers.ts` exports OFFER_PRICE = 5000 and nine offers, each with a keyword. '
+       'Every buy button reads "Message {KEYWORD} on WhatsApp" and the contact number is +234 905 069 0837. '
+       'There is no online checkout and nothing is downloadable from the site; files are sent on WhatsApp '
+       'after payment is confirmed. `TOTAL_VALUE` (₦297,500) is declared in the file header as an estimate of '
+       'replacement cost (hours x RATE), explicitly "not previous selling prices".',
+       'client/src/data/offers.ts, client/src/pages/Offers.tsx', 'OFFER_PRICE, OFFERS, waLink',
+       'client/src/data/offers.ts', 'repository evidence', 'verified', [10],
+       'Quoting a price from memory or from an older brief, or implying the ₦297,500 figure was ever charged.',
+       'The site data is the source of the figure, not a legal review of the offer terms. If the price changes '
+       'on the site, this register row is out of date until `offers_data.py` is re-run.'),
+    _f('REPO-05',
+       'Custom service work is deliberately unpriced on the site: it is quoted per brief, not sold as a pack.',
+       'The offer FAQ states the ₦5,000 packs include no consultation, and that custom systems or websites are '
+       '"a separate paid project" priced "for a range" on WhatsApp. The service pages list categories with no '
+       'published figure. A pack is a fixed-price file set; a service is a scoped quote.',
+       'client/src/data/offers.ts, client/src/pages/Offers.tsx', 'GENERAL_FAQ',
+       'client/src/pages/Offers.tsx', 'repository evidence', 'verified', [10],
+       'Advertising a ₦5,000 pack as though it included custom build work, which the FAQ rules out.',
+       'A quote for custom work must not be published as a fixed price until the owner sets one.'),
+    _f('MKT-01',
+       '₦5,000 sits inside or below the published market range for comparable Nigerian digital guides and template packs.',
+       'A 2026 pricing guide for African creators puts short guides and PDFs at ₦2,000-₦10,000, comprehensive '
+       'workbooks at ₦8,000-₦25,000 and template packs of 3-10 items at ₦3,000-₦20,000. Each Easywurld pack is a '
+       'guide plus three editable files, so ₦5,000 is at the low end of the template-pack band and inside the guide band.',
+       'Digital Products for African Creators: From Idea to First Sale (Kobocourse, 2026)', 'pricing benchmarks',
+       'https://kobocourse.com/blog/digital-products-african-creators-idea-to-first-sale',
+       'secondary commentary', 'verified-secondary', [10],
+       'Pricing a guide from instinct, or claiming a pack is a discount against a "market price" nobody measured.',
+       'A single commercial blog\'s ranges, not a statistical survey or a regulator\'s figure. It supports "inside a '
+       'published range" and nothing stronger. It must never be used to imply a saving or a struck-through price.'),
     _f('REPO-01',
        'The logo and the Canva Sans reference in the older brief remain unverified; the typefaces now used are cleared.',
        'The repository contains the mark at client/public/brand/ with no provenance or licence record beside it. '
@@ -383,7 +415,7 @@ SERIES_BASE = {
     7: ['NG-FCCPA-02', 'NG-FCCPA-03', 'NG-FCCPA-04', 'NG-FCCPA-05', 'PL-META-03'],
     8: ['NG-FCCPA-01', 'NG-FCCPA-02', 'REPO-02'],
     9: ['NG-NDPA-07', 'NG-NDPA-01', 'NG-NDPA-09', 'NG-NDPA-08', 'PL-WA-01', 'NG-NDPA-03'],
-    10: ['NG-FCCPA-01', 'NG-FCCPA-04', 'NG-FCCPA-07', 'NG-FCCPA-08', 'NG-ARCON-02', 'NG-NDPA-10'],
+    10: ['REPO-04', 'REPO-05', 'NG-FCCPA-01', 'NG-FCCPA-07', 'NG-FCCPA-08', 'NG-ARCON-02', 'MKT-01'],
     11: ['NG-FCCPA-05', 'NG-FCCPA-06', 'NG-NDPA-05', 'NG-NDPA-06', 'REPO-01'],
 }
 

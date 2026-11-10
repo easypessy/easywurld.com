@@ -296,12 +296,13 @@ Offer posts are the hardest gate. Price, scope, turnaround and availability must
 
 | Fact | What it establishes | Source | Pinpoint |
 |---|---|---|---|
+| `REPO-04` | The site sells nine packs at a single published price of ₦5,000 each, delivered over WhatsApp. | client/src/data/offers.ts, client/src/pages/Offers.tsx | OFFER_PRICE, OFFERS, waLink |
+| `REPO-05` | Custom service work is deliberately unpriced on the site: it is quoted per brief, not sold as a pack. | client/src/data/offers.ts, client/src/pages/Offers.tsx | GENERAL_FAQ |
 | `NG-FCCPA-01` | Marketing representations must not be false, incorrect, misleading or deceptive. | Federal Competition and Consumer Protection Act, 2018 | s.123(1)(a)-(c) |
-| `NG-FCCPA-04` | You may not imply sponsorship, approval or affiliation you do not have. | Federal Competition and Consumer Protection Act, 2018 | s.125(2)(a) |
 | `NG-FCCPA-07` | A displayed price is binding, and the lowest displayed price wins. | Federal Competition and Consumer Protection Act, 2018 | s.115(1), s.115(3) |
 | `NG-FCCPA-08` | Terms that strip a consumer's statutory rights are void. | Federal Competition and Consumer Protection Act, 2018 | s.129(1)(b)(i), s.129(2) |
 | `NG-ARCON-02` | Advertising aimed at the Nigerian market must be legal, decent, honest and truthful. | Advertising Regulatory Council of Nigeria Act, 2022 (Act No. 23) | s.2(1)(b) |
-| `NG-NDPA-10` | Registration as a "controller of major importance" can trigger at a low volume threshold. | NDPC Guidance Notice on Registration of Data Controllers and Data Processors of Major Importance (NDPC/HQ/GN/VOL.03/B/24) | para 1(1)(a)-(c), para 3 |
+| `MKT-01` | ₦5,000 sits inside or below the published market range for comparable Nigerian digital guides and template packs. | Digital Products for African Creators: From Idea to First Sale (Kobocourse, 2026) | pricing benchmarks |
 
 **Sector additions** (applied when the draft uses that sector):
 
@@ -310,6 +311,7 @@ Offer posts are the hardest gate. Price, scope, turnaround and availability must
 - *private music teacher*: `NG-NDPA-03`
 - *local theatre school*: `NG-NDPA-03`, `NG-FCCPA-05`
 - *pet boarding service*: `NG-FCCPA-06`
+- *solar maintenance team*: `NG-FCCPA-04`
 - *small cold-chain courier*: `NG-FCCPA-06`
 - *juice-prep business*: `NG-NDPA-03`, `NG-FCCPA-06`
 - *artisan bread subscription*: `NG-NDPA-06`
@@ -362,5 +364,6 @@ Belief posts carry the brand voice. They are low-fact but not exempt: any claim 
 | `NG-FCCPC-01` | Use as evidence that enforcement happens in practice. It is not a prediction about any specific business or sector. | Not needed for use as background. Cite it as a Commission release, never as a prediction about a specific sector. |
 | `PL-TT-01` | TikTok's own terms were not retrieved for this register (blocked on 2026-11-10). Confirm in TikTok's current Music Terms before relying on any placement claim. | Read TikTok's current Music Terms and the per-track "usable placements" for the specific track. |
 | `PL-LI-01` | LinkedIn Help would not load on 2026-11-10. Confirm the role and format limits in the actual account before promising any timetable. | Check the admin role and the format limit inside the actual Page, then record the screenshot date. |
+| `MKT-01` | A single commercial blog's ranges, not a statistical survey or a regulator's figure. It supports "inside a published range" and nothing stronger. It must never be used to imply a saving or a struck-through price. | A primary source read and dated, or a named reviewer |
 
 Every row marked `verified` still needs the document re-checked on the day a post goes out. Statutes change, platform policies change faster, and this register is a snapshot dated 2026-11-10.

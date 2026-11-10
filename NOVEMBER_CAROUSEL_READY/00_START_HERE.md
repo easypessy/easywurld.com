@@ -1,6 +1,6 @@
 # November carousel delivery — 11 to 30 November 2026
 
-**220 carousels · 1360 slide images · 195 ready to schedule · 25 on hold.** 99 MB on disk.
+**220 carousels · 1360 slide images · 220 ready to schedule · 0 on hold.** 99 MB on disk.
 
 Start here: open the date folder for the day you are scheduling, read `POST_TODAY.md`.
 
@@ -16,15 +16,22 @@ Start here: open the date folder for the day you are scheduling, read `POST_TODA
 
 ## What is ready and what is not
 
-**195 carousels are ready.** Copy is complete, every illustration is labelled on the image itself, and the type fits at a readable size at 1080×1350.
+**220 carousels are ready.** Copy is complete, every illustration is labelled on the image itself, and the type fits at a readable size at 1080×1350.
 
-**25 carousels are on hold** — every one is the offer series:
+**Nothing is on hold.** Every carousel has complete copy and no unresolved placeholder.
 
-| Series | Count | Why held |
-|---|---|---|
-| S10 Offer and solution | 25 | Price, scope, availability and turnaround are not confirmed. A displayed price is binding under FCCPA s.115; an unclear scope is misleading under s.123. Nothing is guessed. |
+## The offer carousels now sell the real product
 
-To release them: send the confirmed price or price range, what is included, the enquiry route, and who answers it. I will fill the placeholders and re-render those 20 carousels.
+All 20 S10 carousels are priced from the site's own data, not from a guess: **₦5,000 per pack**, one of nine packs, ordered by messaging its keyword on WhatsApp. The closing slide of each is a rendered price card.
+
+| What the slide claims | Where it comes from |
+|---|---|
+| ₦5,000 per pack | `client/src/data/offers.ts` → `OFFER_PRICE` |
+| What arrives (file list) | That pack's `deliverables` on the site |
+| "Message {KEYWORD} on WhatsApp" | The site's own buy button and keyword |
+| "No consultation or custom work" | The site's own FAQ wording |
+
+What is deliberately **not** on any slide: a struck-through "was" price, a discount, a saving, or a countdown. The site also publishes ₦297,500 as an *estimate of replacement cost*; that is not a price Easywurld ever charged, so it is never shown as one. Every price is re-checked at build time — if the figure on the site changes, this build fails rather than quietly advertising the old one.
 
 ## What this delivery does NOT do
 
@@ -53,7 +60,7 @@ I did not pick one for you, because all three are real choices about your own ca
 |---|---|
 | Fonts | **Resolved.** Fraunces, Inter and JetBrains Mono, all SIL OFL 1.1. See `research-2026-11-10/06_FONT_LICENCE.md` |
 | Logo | Uses the repo mark. Confirm you hold the mark. |
-| Offer terms | **Blocking 20 carousels.** |
+| Offer terms | **Resolved for the packs.** ₦5,000, scope and order route now come from the site data. Custom service work stays unpriced by design. |
 | Released by | **Nobody yet.** No named G4 approver. |
 | Music | Still deferred — see `04_MUSIC_AND_RIGHTS_NOTE.md`. These are silent carousels. |
 
@@ -64,5 +71,34 @@ I did not pick one for you, because all three are real choices about your own ca
 | `2026-11-11/…/2026-11-30/` | One folder per day: `POST_TODAY.md` + one subfolder per carousel |
 | `SCHEDULING_TRACKER.csv` | All 220 rows with captions, channels, status and blank confirmation columns to fill as you post |
 | `CONTACT_SHEETS/` | Slide 1 of every carousel as a numbered thumbnail grid, to check order fast |
+
+## If you change the price
+
+Do not edit the slides. Change `OFFER_PRICE` in `client/src/data/offers.ts` — the same constant the
+site reads — then rebuild:
+
+```bash
+python marketing/operating-system-v2/build_calendar.py   # regenerate S10 copy
+python marketing/operating-system-v2/check.py            # price integrity gate
+python marketing/operating-system-v2/build_delivery.py   # re-render
+```
+
+`check.py` fails if a slide quotes any figure other than the site's own, if a price appears outside
+S10, if a "was/discount/save" framing sits near a naira amount, if the order keyword is not one of the
+nine real ones, or if a pack is missing from the run. That is deliberate: a stale price is the most
+expensive typo in this package.
+
+## Rebuilding from scratch
+
+```bash
+bash marketing/operating-system-v2/setup_fonts.sh   # only needed if fonts/ is missing
+python marketing/operating-system-v2/research_facts.py
+python marketing/operating-system-v2/build_calendar.py
+python marketing/operating-system-v2/check.py
+python marketing/operating-system-v2/build_delivery.py
+```
+
+Needs Python 3 with `Pillow`, `fonttools` and `brotli`. The fonts are committed, so rendering works
+offline.
 
 Rebuild any time: `python marketing/operating-system-v2/build_delivery.py`

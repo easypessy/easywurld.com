@@ -1,12 +1,8 @@
 # 2026-11-16 — carousel run sheet
 
-**11 carousels · 10 ready · 1 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
+**11 carousels · 11 ready · 0 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
 
 Post top to bottom. Slide files are numbered `01.jpg`, `02.jpg` … in each folder. Upload in that order.
-
-> **On hold and why.** A held carousel is not a rendering failure — the copy needs a decision only you can make. Fix the named item, then it becomes schedulable.
-
-> - `S10` — Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 ---
 
@@ -254,31 +250,32 @@ For a bike-rental kiosk (illustrative), a rider cannot see deposit and return te
 
 ---
 
-## 20:30 · S10 Offer and solution  ⛔ HOLD
+## 20:30 · S10 Offer and solution
 
 - **Channel:** Facebook photo album
 - **Folder:** `2026-11-16/S10/` — 6 slides, upload 01→06 in order
-- **HOLD:** Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 **Caption (copy everything inside the box):**
 
 ```
-The site lists Digital Marketing as a category, not a fixed package. A juice-prep business with this problem may need a scoped conversation. Price and availability require confirmation. Ask Easywurld whether this scope is available; terms require confirmation.
+The Clear Message Workbook, ₦5,000. A workbook, a customer interview kit, a message bank and a one-page plan. It is for founders who cannot explain what they do in one sentence.
+
+Files are sent on WhatsApp after payment. Price is per pack, and no consultation or custom work is included. Message MESSAGE on WhatsApp to order The Clear Message Workbook.
 
 #Easywurld #SmallBusinessMarketing #LagosBusiness
 ```
 
-**CTA:** Ask Easywurld whether this scope is available; terms require confirmation.
+**CTA:** Message MESSAGE on WhatsApp to order The Clear Message Workbook.
 
 **LinkedIn company version:**
 
 ```
-When a juice-prep business needs digital marketing.
+The Clear Message Workbook — ₦5,000, delivered on WhatsApp.
 
-For a juice-prep business (illustrative), subscriptions and one-off orders are mixed together. A useful first decision is to compare one-off and recurring options. Then confirm ingredient and delivery terms before checkout. Review correctly scoped order requests before deciding what to change next. Ask Easywurld whether this scope is available; terms require confirmation.
+For a juice-prep business (illustrative), subscriptions and one-off orders are mixed together. A useful first decision is to compare one-off and recurring options. Then confirm ingredient and delivery terms before checkout. Review correctly scoped order requests before deciding what to change next. Message MESSAGE on WhatsApp to order The Clear Message Workbook.
 ```
 
-**Facts this relies on:** NG-FCCPA-01 | NG-FCCPA-04 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | NG-NDPA-10 | NG-NDPA-03 | NG-FCCPA-06 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
+**Facts this relies on:** REPO-04 | REPO-05 | NG-FCCPA-01 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | MKT-01 | NG-NDPA-03 | NG-FCCPA-06 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
 
 ---
 

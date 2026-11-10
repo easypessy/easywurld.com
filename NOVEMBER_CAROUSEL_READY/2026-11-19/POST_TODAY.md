@@ -1,12 +1,8 @@
 # 2026-11-19 — carousel run sheet
 
-**11 carousels · 10 ready · 1 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
+**11 carousels · 11 ready · 0 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
 
 Post top to bottom. Slide files are numbered `01.jpg`, `02.jpg` … in each folder. Upload in that order.
-
-> **On hold and why.** A held carousel is not a rendering failure — the copy needs a decision only you can make. Fix the named item, then it becomes schedulable.
-
-> - `S10` — Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 ---
 
@@ -254,31 +250,32 @@ For a small cold-chain courier (illustrative), senders cannot tell whether tempe
 
 ---
 
-## 20:30 · S10 Offer and solution  ⛔ HOLD
+## 20:30 · S10 Offer and solution
 
 - **Channel:** Facebook photo album
 - **Folder:** `2026-11-19/S10/` — 6 slides, upload 01→06 in order
-- **HOLD:** Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 **Caption (copy everything inside the box):**
 
 ```
-The site lists Business Systems as a category, not a fixed package. A independent optician with this problem may need a scoped conversation. Price and availability require confirmation. Ask Easywurld whether this scope is available; terms require confirmation.
+The Website Launch & Care Handbook, ₦5,000. A handbook, a planning brief, an accounts workbook and hiring questions. It is for owners planning a first site or rebuild, or living with one nobody maintains.
+
+Files are sent on WhatsApp after payment. Price is per pack, and no consultation or custom work is included. Message LAUNCH on WhatsApp to order The Website Launch & Care Handbook.
 
 #Easywurld #SmallBusinessMarketing #LagosBusiness
 ```
 
-**CTA:** Ask Easywurld whether this scope is available; terms require confirmation.
+**CTA:** Message LAUNCH on WhatsApp to order The Website Launch & Care Handbook.
 
 **LinkedIn company version:**
 
 ```
-When an independent optician needs business systems.
+The Website Launch & Care Handbook — ₦5,000, delivered on WhatsApp.
 
-For an independent optician (illustrative), frame posts blur style advice and clinical claims. A useful first decision is to separate fashion information from clinical guidance. Then route vision questions to qualified staff. Review appropriate appointment requests before deciding what to change next. Ask Easywurld whether this scope is available; terms require confirmation.
+For an independent optician (illustrative), frame posts blur style advice and clinical claims. A useful first decision is to separate fashion information from clinical guidance. Then route vision questions to qualified staff. Review appropriate appointment requests before deciding what to change next. Message LAUNCH on WhatsApp to order The Website Launch & Care Handbook.
 ```
 
-**Facts this relies on:** NG-FCCPA-01 | NG-FCCPA-04 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | NG-NDPA-10 | PL-META-01 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
+**Facts this relies on:** REPO-04 | REPO-05 | NG-FCCPA-01 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | MKT-01 | PL-META-01 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
 
 ---
 

@@ -10,11 +10,20 @@ What "ready" means here, precisely:
   HOLD   - copy needs an owner decision before it may post. The reason is printed on the
            slide set and in the day sheet. This is not a rendering failure.
 
-Two hold causes, both inherited from the research register, not invented here:
-  * Series 10 (offer) - price, scope and availability are UNKNOWN. A displayed price is
-    binding under FCCPA s.115 and an unclear scope is misleading under s.123. Publishing
-    without confirmed terms would be the exact thing the register warns about.
-  * Any slide containing a [bracketed placeholder] or claiming a result.
+Series 10 (offer) was previously held in full: price, scope and availability were unknown, and a
+displayed price is binding under FCCPA s.115 while an unclear scope is misleading under s.123.
+That gap is now closed from the published site data rather than by guessing:
+
+  * The price is read from `client/src/data/offers.ts` (OFFER_PRICE) through `offers_data.py`,
+    which re-checks the arithmetic and fails the build if the site changes underneath it.
+  * Scope is the pack's own deliverable list, and the "no consultation, no custom work" boundary
+    is the site's own FAQ wording.
+  * The order route is the site's own button: "Message {KEYWORD} on WhatsApp".
+  * The closing slide is a rendered price card, not a line of text.
+
+What is NOT claimed: no former price, no discount, no saving, no scarcity. The site's ₦297,500
+figure is an estimate of replacement cost, not a price it ever charged, so it is never shown as
+one. Remaining hold causes: a [bracketed placeholder], or a claim of a result.
 
 Rendering proves the copy fits and is legible. It does not prove the claim, the offer terms,
 or permission to publish. G4 release still needs a named approver.
@@ -27,6 +36,7 @@ import sys
 
 sys.path.insert(0, str(Path(__file__).parent))
 import render_carousel as R
+import offers_data as O
 
 ROOT = Path(__file__).resolve().parent
 PLAN = json.loads((ROOT / 'december-2026-DRAFT' / 'posts.json').read_text(), )
@@ -76,9 +86,17 @@ def hold_reason(post):
     text = ' '.join(s['copy'] for s in post['slides']) + ' ' + post['caption']
     if PLACEHOLDER.search(text):
         return 'Unresolved [placeholder] in the copy — needs an owner-supplied detail'
-    if post['series_number'] == 10:
-        return 'Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)'
+    # The offer series is no longer held on terms: the price, the scope and the order route now
+    # come from the published site data. It can still be held for a placeholder like any other
+    # series, and it is still not approved — release needs G4 like everything else.
+    if post['series_number'] == 10 and not post.get('pack_keyword'):
+        return 'Offer series has no pack keyword, so the order route cannot be rendered'
     return None
+
+
+def price_slide(post):
+    """True if this is the offer series' closing price card."""
+    return post['series_number'] == 10
 
 
 def display_id(post):
@@ -110,7 +128,12 @@ def build():
         files = []
         for i, slide in enumerate(post['slides'], 1):
             tag = tag_for(sn, i) or ('HOLD' if reason else None)
-            if i == 1:
+            if price_slide(post) and i == len(post['slides']):
+                # The closing slide of an offer post is the price card: the figure, the pack,
+                # what arrives, and the WhatsApp keyword route. No struck-through anchor.
+                im = R.price_card(did, post['series'], O.PACK_BY_KEYWORD[post['pack_keyword']],
+                                  O.PRICE_LABEL, page=i, total=len(post['slides']), tag=tag)
+            elif i == 1:
                 im = R.cover_card(did, post['series'], post['series'], slide['copy'],
                                   sub='', page=i, total=len(post['slides']), tag=tag)
             else:
@@ -264,16 +287,29 @@ def write_readme(rows):
         f'**{ready} carousels are ready.** Copy is complete, every illustration is labelled on the image '
         'itself, and the type fits at a readable size at 1080×1350.',
         '',
-        f'**{len(holds)} carousels are on hold** — every one is the offer series:',
+        (f'**{len(holds)} carousels are on hold.** Each one still contains a [placeholder] that needs an '
+         'owner-supplied detail. The reason is printed on the slide and in that day\'s sheet.'
+         if holds else
+         '**Nothing is on hold.** Every carousel has complete copy and no unresolved placeholder.'),
         '',
-        '| Series | Count | Why held |',
-        '|---|---|---|',
-        f'| S10 Offer and solution | {len(holds)} | Price, scope, availability and turnaround are not '
-        'confirmed. A displayed price is binding under FCCPA s.115; an unclear scope is misleading under '
-        's.123. Nothing is guessed. |',
+        '## The offer carousels now sell the real product',
         '',
-        'To release them: send the confirmed price or price range, what is included, the enquiry route, and '
-        'who answers it. I will fill the placeholders and re-render those 20 carousels.',
+        f'All 20 S10 carousels are priced from the site\'s own data, not from a guess: '
+        f'**{O.PRICE_LABEL} per pack**, one of nine packs, ordered by messaging its keyword on WhatsApp. '
+        'The closing slide of each is a rendered price card.',
+        '',
+        f'| What the slide claims | Where it comes from |',
+        '|---|---|',
+        f'| {O.PRICE_LABEL} per pack | `client/src/data/offers.ts` → `OFFER_PRICE` |',
+        '| What arrives (file list) | That pack\'s `deliverables` on the site |',
+        '| "Message {KEYWORD} on WhatsApp" | The site\'s own buy button and keyword |',
+        '| "No consultation or custom work" | The site\'s own FAQ wording |',
+        '',
+        'What is deliberately **not** on any slide: a struck-through "was" price, a discount, a saving, or '
+        f'a countdown. The site also publishes {O.naira(O.TOTAL_VALUE)} as an *estimate of replacement cost*; '
+        'that is not a price Easywurld ever charged, so it is never shown as one. Every price is re-checked '
+        'at build time — if the figure on the site changes, this build fails rather than quietly '
+        'advertising the old one.',
         '',
         '## What this delivery does NOT do',
         '',
@@ -311,7 +347,8 @@ def write_readme(rows):
         '| Fonts | **Resolved.** Fraunces, Inter and JetBrains Mono, all SIL OFL 1.1. '
         'See `research-2026-11-10/06_FONT_LICENCE.md` |',
         '| Logo | Uses the repo mark. Confirm you hold the mark. |',
-        '| Offer terms | **Blocking 20 carousels.** |',
+        f'| Offer terms | **Resolved for the packs.** {O.PRICE_LABEL}, scope and order route now come '
+        'from the site data. Custom service work stays unpriced by design. |',
         '| Released by | **Nobody yet.** No named G4 approver. |',
         '| Music | Still deferred — see `04_MUSIC_AND_RIGHTS_NOTE.md`. These are silent carousels. |',
         '',
@@ -323,6 +360,35 @@ def write_readme(rows):
         '| `SCHEDULING_TRACKER.csv` | All 220 rows with captions, channels, status and blank confirmation '
         'columns to fill as you post |',
         '| `CONTACT_SHEETS/` | Slide 1 of every carousel as a numbered thumbnail grid, to check order fast |',
+        '',
+        '## If you change the price',
+        '',
+        'Do not edit the slides. Change `OFFER_PRICE` in `client/src/data/offers.ts` — the same constant the',
+        'site reads — then rebuild:',
+        '',
+        '```bash',
+        'python marketing/operating-system-v2/build_calendar.py   # regenerate S10 copy',
+        'python marketing/operating-system-v2/check.py            # price integrity gate',
+        'python marketing/operating-system-v2/build_delivery.py   # re-render',
+        '```',
+        '',
+        '`check.py` fails if a slide quotes any figure other than the site\'s own, if a price appears outside',
+        'S10, if a "was/discount/save" framing sits near a naira amount, if the order keyword is not one of the',
+        'nine real ones, or if a pack is missing from the run. That is deliberate: a stale price is the most',
+        'expensive typo in this package.',
+        '',
+        '## Rebuilding from scratch',
+        '',
+        '```bash',
+        'bash marketing/operating-system-v2/setup_fonts.sh   # only needed if fonts/ is missing',
+        'python marketing/operating-system-v2/research_facts.py',
+        'python marketing/operating-system-v2/build_calendar.py',
+        'python marketing/operating-system-v2/check.py',
+        'python marketing/operating-system-v2/build_delivery.py',
+        '```',
+        '',
+        'Needs Python 3 with `Pillow`, `fonttools` and `brotli`. The fonts are committed, so rendering works',
+        'offline.',
         '',
         f'Rebuild any time: `python marketing/operating-system-v2/build_delivery.py`',
         '',

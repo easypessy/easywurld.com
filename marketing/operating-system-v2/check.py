@@ -73,6 +73,54 @@ for x in posts:
 assert all(len(x['fact_refs'])>=2 for x in posts)
 # Series 10 (offer) must never be able to publish without a commercial-terms fact attached.
 assert all({'NG-FCCPA-01','NG-FCCPA-07'}<=set(x['fact_refs']) for x in posts if x['series_number']==10)
+# ---- Price integrity: the offer series advertises a real, published figure ----
+# These checks exist because a wrong price is the most expensive typo in the campaign:
+# a displayed price is binding (FCCPA s.115) and a misleading one is actionable (s.123).
+import offers_data
+import re as _re
+offers_data.validate()
+S10=[x for x in posts if x['series_number']==10]
+assert len(S10)==30
+# Every offer slot carries the price facts, not just the general consumer ones.
+for x in S10:
+    assert {'REPO-04','REPO-05','NG-FCCPA-07'}<=set(x['fact_refs']), x['id']
+# A price may only appear as the site's own figure. Any other naira amount is a build failure —
+# this catches an invented discount, a stray "was ₦X", or a stale price after a site edit.
+ALLOWED_PRICED={offers_data.PRICE_LABEL}
+for x in posts:
+    text=' '.join(s['copy'] for s in x['slides'])+' '+x['caption']+' '+x['cta']+' '+' '.join(x['platform_adaptations'].values())
+    for amount in _re.findall(r'\u20a6\s?(\d{1,3}(?:,\d{3})*)',text):
+        assert f'\u20a6{amount}' in ALLOWED_PRICED, (x['id'],amount)
+# Only the offer series may quote a price at all; other series talk about process, not price.
+for x in posts:
+    if x['series_number']!=10:
+        assert '\u20a6' not in ' '.join(s['copy'] for s in x['slides'])+x['caption'], x['id']
+# No struck-through, "from", "was", discount or urgency framing around the price.
+BANNED=_re.compile(r'\b(was|formerly|discount|save|saving|slashed|half price|limited time|'
+                   r'only today|expires|from \u20a6|rrp|worth \u20a6)\b',_re.I)
+for x in S10:
+    text=' '.join(s['copy'] for s in x['slides'])+' '+x['caption']
+    # "was" is ordinary past tense elsewhere, so anchor the ban to currency proximity.
+    for m in BANNED.finditer(text):
+        window=text[max(0,m.start()-40):m.end()+40]
+        if '\u20a6' in window or m.group(0).lower() in {'from \u20a6','worth \u20a6'}:
+            raise AssertionError(f'{x["id"]}: price framing near {m.group(0)!r}: {window!r}')
+# The ₦5,000 figure the site publishes is reproduced exactly, and the replacement-cost total is
+# never presented as a former price.
+assert offers_data.PRICE_LABEL=='\u20a65,000'
+assert offers_data.TOTAL_VALUE==sum(p['value'] for p in offers_data.PACKS)
+for x in S10:
+    for a in _re.findall(r'\u20a6\d{1,3}(?:,\d{3})*',' '.join(s['copy'] for s in x['slides'])+x['caption']):
+        assert a!=offers_data.naira(offers_data.TOTAL_VALUE), (
+            f'{x["id"]} quotes the replacement-cost total as if it were a price')
+# The route named on the slide must be a real pack keyword, so "Message X" cannot be invented.
+KEYWORDS={p['keyword'] for p in offers_data.PACKS}
+for x in S10:
+    for m in _re.findall(r'Message ([A-Z]+) on WhatsApp', ' '.join(s['copy'] for s in x['slides'])+' '+x['cta']):
+        assert m in KEYWORDS, (x['id'],m)
+# All nine packs appear across the run, or the campaign is quietly hiding stock.
+covered={x['topic'].split(' (')[0] for x in S10}
+assert covered=={p['name'] for p in offers_data.PACKS}, covered
 # Series 9 (automation) must always carry a data-protection fact.
 assert all(any(f.startswith('NG-NDPA') for f in x['fact_refs']) for x in posts if x['series_number']==9)
 # Every dated markdown package must print its research block.

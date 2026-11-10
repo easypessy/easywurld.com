@@ -1,12 +1,8 @@
 # 2026-11-17 — carousel run sheet
 
-**11 carousels · 10 ready · 1 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
+**11 carousels · 11 ready · 0 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
 
 Post top to bottom. Slide files are numbered `01.jpg`, `02.jpg` … in each folder. Upload in that order.
-
-> **On hold and why.** A held carousel is not a rendering failure — the copy needs a decision only you can make. Fix the named item, then it becomes schedulable.
-
-> - `S10` — Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 ---
 
@@ -254,31 +250,32 @@ For a craft-supply shop (illustrative), makers cannot compare pack sizes. A usef
 
 ---
 
-## 20:30 · S10 Offer and solution  ⛔ HOLD
+## 20:30 · S10 Offer and solution
 
 - **Channel:** Facebook photo album
 - **Folder:** `2026-11-17/S10/` — 6 slides, upload 01→06 in order
-- **HOLD:** Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 **Caption (copy everything inside the box):**
 
 ```
-The site lists Web Design as a category, not a fixed package. A plant nursery with this problem may need a scoped conversation. Price and availability require confirmation. Ask Easywurld whether this scope is available; terms require confirmation.
+The Everyday AI Prompt Desk, ₦5,000. A prompting guide, 60 prompts, a knowledge sheet and a safety checklist. It is for owners using an AI chat assistant for writing, replies, planning and admin.
+
+Files are sent on WhatsApp after payment. Price is per pack, and no consultation or custom work is included. Message PROMPTS on WhatsApp to order The Everyday AI Prompt Desk.
 
 #Easywurld #SmallBusinessMarketing #LagosBusiness
 ```
 
-**CTA:** Ask Easywurld whether this scope is available; terms require confirmation.
+**CTA:** Message PROMPTS on WhatsApp to order The Everyday AI Prompt Desk.
 
 **LinkedIn company version:**
 
 ```
-When a plant nursery needs web design.
+The Everyday AI Prompt Desk — ₦5,000, delivered on WhatsApp.
 
-For a plant nursery (illustrative), customers mistake indoor plants for outdoor stock. A useful first decision is to mark placement guidance as species-specific. Then ask buyers for light conditions before suggesting options. Review plant-fit questions before deciding what to change next. Ask Easywurld whether this scope is available; terms require confirmation.
+For a plant nursery (illustrative), customers mistake indoor plants for outdoor stock. A useful first decision is to mark placement guidance as species-specific. Then ask buyers for light conditions before suggesting options. Review plant-fit questions before deciding what to change next. Message PROMPTS on WhatsApp to order The Everyday AI Prompt Desk.
 ```
 
-**Facts this relies on:** NG-FCCPA-01 | NG-FCCPA-04 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | NG-NDPA-10 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
+**Facts this relies on:** REPO-04 | REPO-05 | NG-FCCPA-01 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | MKT-01 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
 
 ---
 

@@ -1,13 +1,8 @@
 # 2026-11-22 — carousel run sheet
 
-**11 carousels · 9 ready · 2 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
+**11 carousels · 11 ready · 0 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
 
 Post top to bottom. Slide files are numbered `01.jpg`, `02.jpg` … in each folder. Upload in that order.
-
-> **On hold and why.** A held carousel is not a rendering failure — the copy needs a decision only you can make. Fix the named item, then it becomes schedulable.
-
-> - `S08` — Unresolved [placeholder] in the copy — needs an owner-supplied detail
-> - `S10` — Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 ---
 
@@ -201,11 +196,10 @@ For an organic spice seller (illustrative), the origin statement lacks a traceab
 
 ---
 
-## 17:30 · S08 Growth strategy and copywriting breakdowns  ⛔ HOLD
+## 17:30 · S08 Growth strategy and copywriting breakdowns
 
 - **Channel:** TikTok photo mode
 - **Folder:** `2026-11-22/S08/` — 6 slides, upload 01→06 in order
-- **HOLD:** Unresolved [placeholder] in the copy — needs an owner-supplied detail
 
 **Caption (copy everything inside the box):**
 
@@ -256,31 +250,32 @@ For a mobile phone repairer (illustrative), a damage photo cannot establish the 
 
 ---
 
-## 20:30 · S10 Offer and solution  ⛔ HOLD
+## 20:30 · S10 Offer and solution
 
 - **Channel:** Facebook photo album
 - **Folder:** `2026-11-22/S10/` — 6 slides, upload 01→06 in order
-- **HOLD:** Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 **Caption (copy everything inside the box):**
 
 ```
-The site lists Reports & Presentations as a category, not a fixed package. A local theatre school with this problem may need a scoped conversation. Price and availability require confirmation. Ask Easywurld whether this scope is available; terms require confirmation.
+If this is your week: you start strong, run out of ideas, and every post is a fresh decision. The 30-Day Content Engine is ₦5,000 and it is built for owners who post on Instagram, Facebook, TikTok or LinkedIn and run dry.
+
+Files are sent on WhatsApp after payment. Price is per pack, and no consultation or custom work is included. Message ENGINE on WhatsApp to order The 30-Day Content Engine.
 
 #Easywurld #SmallBusinessMarketing #LagosBusiness
 ```
 
-**CTA:** Ask Easywurld whether this scope is available; terms require confirmation.
+**CTA:** Message ENGINE on WhatsApp to order The 30-Day Content Engine.
 
 **LinkedIn company version:**
 
 ```
-When a local theatre school needs reports & presentations.
+Social Media: The 30-Day Content Engine, ₦5,000.
 
-For a local theatre school (illustrative), a term fee hides the number of classes. A useful first decision is to publish term dates and session counts. Then say what happens when a class is missed. Review enquiries that cite the right class before deciding what to change next. Ask Easywurld whether this scope is available; terms require confirmation.
+For a local theatre school (illustrative), a term fee hides the number of classes. A useful first decision is to publish term dates and session counts. Then say what happens when a class is missed. Review enquiries that cite the right class before deciding what to change next. Message ENGINE on WhatsApp to order The 30-Day Content Engine.
 ```
 
-**Facts this relies on:** NG-FCCPA-01 | NG-FCCPA-04 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | NG-NDPA-10 | NG-NDPA-03 | NG-FCCPA-05 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
+**Facts this relies on:** REPO-04 | REPO-05 | NG-FCCPA-01 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | MKT-01 | NG-NDPA-03 | NG-FCCPA-05 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
 
 ---
 

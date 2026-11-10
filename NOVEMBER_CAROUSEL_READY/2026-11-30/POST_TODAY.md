@@ -1,12 +1,8 @@
 # 2026-11-30 — carousel run sheet
 
-**11 carousels · 10 ready · 1 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
+**11 carousels · 11 ready · 0 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
 
 Post top to bottom. Slide files are numbered `01.jpg`, `02.jpg` … in each folder. Upload in that order.
-
-> **On hold and why.** A held carousel is not a rendering failure — the copy needs a decision only you can make. Fix the named item, then it becomes schedulable.
-
-> - `S10` — Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 ---
 
@@ -254,31 +250,32 @@ For an independent dental lab (illustrative), clinics cannot see sample handover
 
 ---
 
-## 20:30 · S10 Offer and solution  ⛔ HOLD
+## 20:30 · S10 Offer and solution
 
 - **Channel:** Facebook photo album
 - **Folder:** `2026-11-30/S10/` — 6 slides, upload 01→06 in order
-- **HOLD:** Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 **Caption (copy everything inside the box):**
 
 ```
-The site lists Digital Marketing as a category, not a fixed package. A public-speaking coach with this problem may need a scoped conversation. Price and availability require confirmation. Ask Easywurld whether this scope is available; terms require confirmation.
+4 editable files for ₦5,000: A page structure, copy templates, a content planner and a 20-point audit. For owners whose site visitors leave without understanding what is sold.
+
+Files are sent on WhatsApp after payment. Price is per pack, and no consultation or custom work is included. Message CLEAR on WhatsApp to order The Clear Homepage Blueprint.
 
 #Easywurld #SmallBusinessMarketing #LagosBusiness
 ```
 
-**CTA:** Ask Easywurld whether this scope is available; terms require confirmation.
+**CTA:** Message CLEAR on WhatsApp to order The Clear Homepage Blueprint.
 
 **LinkedIn company version:**
 
 ```
-When a public-speaking coach needs digital marketing.
+The Clear Homepage Blueprint: 4 editable files, ₦5,000.
 
-For a public-speaking coach (illustrative), workshop and 1:1 services look identical. A useful first decision is to compare the two formats and suitable goals. Then use a labelled sample session outline. Review fit-matched enquiries before deciding what to change next. Ask Easywurld whether this scope is available; terms require confirmation.
+For a public-speaking coach (illustrative), workshop and 1:1 services look identical. A useful first decision is to compare the two formats and suitable goals. Then use a labelled sample session outline. Review fit-matched enquiries before deciding what to change next. Message CLEAR on WhatsApp to order The Clear Homepage Blueprint.
 ```
 
-**Facts this relies on:** NG-FCCPA-01 | NG-FCCPA-04 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | NG-NDPA-10 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
+**Facts this relies on:** REPO-04 | REPO-05 | NG-FCCPA-01 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | MKT-01 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
 
 ---
 

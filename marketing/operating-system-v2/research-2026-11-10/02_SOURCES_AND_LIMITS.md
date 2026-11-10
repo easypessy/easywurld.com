@@ -1,6 +1,6 @@
 # 02 — Sources, method and honest limits
 
-Research pass: **10 November 2026**. Register: `01_FACT_REGISTER.csv` (34 rows). This note says how those rows
+Research pass: **10 November 2026**. Register: `01_FACT_REGISTER.csv` (38 rows). This note says how those rows
 were checked and where the research is still thin, so nobody mistakes a register entry for legal advice.
 
 ## What was actually opened
@@ -15,6 +15,7 @@ were checked and where the research is still thin, so nobody mistakes a register
 | Meta Music Guidelines (effective 26 March 2024) | platform policy, full text | commercial use of music, muting/removal, music density | 2026-11-10 |
 | WhatsApp Business Messaging Policy | platform policy, full text | opt-in, approved templates, 24-hour service window, escalation path | 2026-11-10 |
 | FCCPC consumer-rights pages and enforcement releases | regulator | evidence that description/quantity enforcement happens | 2026-11-10 |
+| Kobocourse, *Digital Products for African Creators: From Idea to First Sale* (2026) | secondary commentary, full text | Nigerian price bands for guides, workbooks and template packs (`MKT-01`) | 2026-11-10 |
 
 ## What could not be opened, and is therefore marked down
 
@@ -25,6 +26,28 @@ were checked and where the research is still thin, so nobody mistakes a register
 | LinkedIn Help — scheduled posts for Pages | HTTP 500 on the official page | `PL-LI-01` is **unverified**; scheduling limits are reported, not confirmed |
 | TikTok Music Terms / Commercial Music Library terms | policy pages blocked to this environment | `PL-TT-01` is **secondary**; scope wording comes from licensing commentary |
 | NDPA s.65 definition and NDPA penalty schedule | not read in this pass | Registration thresholds are quoted from the Guidance Notice only; penalties are **not** quoted anywhere |
+
+## The price rows (added when the offer series was rewritten)
+
+The December offer carousels no longer describe services at an unconfirmed scope. They sell the nine
+published packs. That made the price itself a claim, so four rows now carry it:
+
+| Row | What it says | Tier / confidence | How to read it |
+|---|---|---|---|
+| `REPO-04` | The site sells nine packs at ₦5,000 each, ordered by keyword on WhatsApp | repository evidence / verified | Read straight from `client/src/data/offers.ts`. If the figure there changes, this row is stale. |
+| `REPO-05` | Custom service work is deliberately unpriced; a pack includes no consultation | repository evidence / verified | Taken from the site's own FAQ. It is why no slide offers bespoke work at a fixed price. |
+| `MKT-01` | ₦5,000 sits inside or below published Nigerian ranges for guides and template packs | secondary commentary / verified-secondary | **One commercial blog, not a survey.** It supports "inside a published range" and nothing stronger. It must never be turned into a discount or a struck-through price. |
+| `NG-FCCPA-07` (existing) | A displayed price is binding, and the lowest displayed price wins | primary statute / verified | Why the figure on the slides has to equal the figure on the site, exactly, at the moment of posting. |
+
+The market benchmark was checked directly on 2026-11-10. The same page gives: short guides and PDFs
+₦2,000–₦10,000, comprehensive workbooks ₦8,000–₦25,000, and template packs of 3–10 items ₦3,000–₦20,000.
+Each Easywurld pack is one guide plus three editable files, so ₦5,000 sits at the low end of the
+template-pack band and inside the guide band. That is the entire claim the register will support.
+
+**What this does not license.** Three other 2026 Nigerian pricing articles were read in search results and
+broadly agree, but they are listed here only as corroboration of direction, not as citations: they were not
+opened in full, so they are not register rows. None of them is evidence that ₦5,000 is right for Easywurld's
+particular packs, and none of them justifies a "worth ₦X" or "save ₦Y" framing.
 
 ## The two reading traps this register is built to prevent
 

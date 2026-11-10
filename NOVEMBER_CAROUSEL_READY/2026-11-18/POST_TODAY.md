@@ -1,12 +1,8 @@
 # 2026-11-18 — carousel run sheet
 
-**11 carousels · 10 ready · 1 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
+**11 carousels · 11 ready · 0 on hold.** Times are WAT and are a *proposal*, not an approved timetable — shift any row you like.
 
 Post top to bottom. Slide files are numbered `01.jpg`, `02.jpg` … in each folder. Upload in that order.
-
-> **On hold and why.** A held carousel is not a rendering failure — the copy needs a decision only you can make. Fix the named item, then it becomes schedulable.
-
-> - `S10` — Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 ---
 
@@ -254,31 +250,32 @@ For a private music teacher (illustrative), parents cannot see which ages or lev
 
 ---
 
-## 20:30 · S10 Offer and solution  ⛔ HOLD
+## 20:30 · S10 Offer and solution
 
 - **Channel:** Facebook photo album
 - **Folder:** `2026-11-18/S10/` — 6 slides, upload 01→06 in order
-- **HOLD:** Offer series: price/scope/availability unconfirmed (FCCPA s.115, s.123)
 
 **Caption (copy everything inside the box):**
 
 ```
-The site lists Landing Pages as a category, not a fixed package. A storage-locker operator with this problem may need a scoped conversation. Price and availability require confirmation. Ask Easywurld whether this scope is available; terms require confirmation.
+The Proposal & Report Template Pack, ₦5,000. A proposal template, report and summary templates, and a quote workbook. It is for freelancers, consultants and teams who send proposals, quotes and reports.
+
+Files are sent on WhatsApp after payment. Price is per pack, and no consultation or custom work is included. Message TEMPLATES on WhatsApp to order The Proposal & Report Template Pack.
 
 #Easywurld #SmallBusinessMarketing #LagosBusiness
 ```
 
-**CTA:** Ask Easywurld whether this scope is available; terms require confirmation.
+**CTA:** Message TEMPLATES on WhatsApp to order The Proposal & Report Template Pack.
 
 **LinkedIn company version:**
 
 ```
-When a storage-locker operator needs landing pages.
+The Proposal & Report Template Pack — ₦5,000, delivered on WhatsApp.
 
-For a storage-locker operator (illustrative), users do not know what can be stored. A useful first decision is to publish usable unit measurements. Then show a prohibited-items checklist. Review eligible locker enquiries before deciding what to change next. Ask Easywurld whether this scope is available; terms require confirmation.
+For a storage-locker operator (illustrative), users do not know what can be stored. A useful first decision is to publish usable unit measurements. Then show a prohibited-items checklist. Review eligible locker enquiries before deciding what to change next. Message TEMPLATES on WhatsApp to order The Proposal & Report Template Pack.
 ```
 
-**Facts this relies on:** NG-FCCPA-01 | NG-FCCPA-04 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | NG-NDPA-10 | NG-NDPA-04 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
+**Facts this relies on:** REPO-04 | REPO-05 | NG-FCCPA-01 | NG-FCCPA-07 | NG-FCCPA-08 | NG-ARCON-02 | MKT-01 | NG-NDPA-04 — see `marketing/operating-system-v2/research-2026-11-10/01_FACT_REGISTER.csv`
 
 ---
 
