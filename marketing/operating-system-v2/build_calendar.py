@@ -1,18 +1,22 @@
 """Build a separate, date-assumed December carousel draft library. No publishing operations.
 Rows are hand-authored situations; templates only arrange them. Structural QA != human approval.
+Each slot also carries the researched fact rows it must be checked against: see research_facts.py and
+research-2026-11-10/01_FACT_REGISTER.csv. Attaching a fact is not clearance.
 """
 from pathlib import Path
 from datetime import date,timedelta
 from difflib import SequenceMatcher
 import csv,json,re
+import research_facts
+import offers_data
 ROOT=Path(__file__).parent
 OUT=ROOT/'december-2026-DRAFT'
 OUT.mkdir(exist_ok=True)
 # sector | friction | evidence a reader can check | first action | second action | useful metric | sample before | sample after
-CASES='''mobile car wash|customers cannot tell whether their street is covered|a booking form asks for a phone number before an area|publish a verified coverage map|ask for postcode/area before suggesting a slot|eligible booking requests|We clean everywhere|Mobile car wash in [verified areas]; check a slot by area
+CASES='''mobile car wash|customers cannot tell whether their street is covered|a booking form asks for a phone number before an area|publish a verified coverage map|ask for postcode/area before suggesting a slot|eligible booking requests|We clean everywhere|Tell us your area and we will confirm a slot
 bike-rental kiosk|a rider cannot see deposit and return terms|a photo of bicycles says nothing about late returns|put current rental terms beside each bike|show what happens if a return time changes|complete rental enquiries|Rent a bike today|Choose a bike, review the deposit and confirm a return time
-craft-supply shop|makers cannot compare pack sizes|a spool image has no length or material on it|label size and material next to the price|link to a verified stock check|size-specific product questions|Supplies for all projects|Cotton cord, [verified length], available in [confirmed colours]
-private music teacher|parents cannot see which ages or levels are taught|the page shows a piano without a lesson outline|publish eligible levels and lesson format|explain how a first lesson is arranged|level-matched lesson enquiries|Music lessons for everyone|Beginner piano lessons for [verified age range] in [area]
+craft-supply shop|makers cannot compare pack sizes|a spool image has no length or material on it|label size and material next to the price|link to a verified stock check|size-specific product questions|Supplies for all projects|Cotton cord, 3 mm, in four colours; check stock before you travel
+private music teacher|parents cannot see which ages or levels are taught|the page shows a piano without a lesson outline|publish eligible levels and lesson format|explain how a first lesson is arranged|level-matched lesson enquiries|Music lessons for everyone|Beginner piano lessons for ages 7 and up, at your home
 small cold-chain courier|senders cannot tell whether temperature control is offered|the website lists delivery speed but no handling scope|state accepted items and handling limits|route high-risk items to a staff assessment|suitable shipment requests|We deliver anything fast|Ask whether your item fits our verified cold-chain route
 fabric-dye studio|buyers cannot predict colour variation|product images imply every batch is identical|explain batch variation with permissioned examples|offer a current-batch photo before payment|returns caused by mismatched expectations|Every piece is identical|Each dye batch varies; request this week's exact piece
 community bookstore|readers cannot confirm whether a title is in stock|a catalogue screenshot is older than the latest delivery|date the availability list|give an order hold request with a clear expiry|confirmed title holds|Thousands of books in stock|Ask us to check this title before you travel
@@ -21,7 +25,7 @@ juice-prep business|subscriptions and one-off orders are mixed together|a custom
 plant nursery|customers mistake indoor plants for outdoor stock|pictures have no light or watering context|mark placement guidance as species-specific|ask buyers for light conditions before suggesting options|plant-fit questions|Beautiful plants for every room|Tell us your light conditions before choosing a plant
 storage-locker operator|users do not know what can be stored|a price table omits dimensions and exclusions|publish usable unit measurements|show a prohibited-items checklist|eligible locker enquiries|Space for anything|Compare unit size and approved storage items before booking
 independent optician|frame posts blur style advice and clinical claims|a product photo appears to imply a medical result|separate fashion information from clinical guidance|route vision questions to qualified staff|appropriate appointment requests|Frames that fix your vision|See frame options; ask a qualified optician about eye care
-ceramic tile dealer|buyers cannot tell whether prices are per piece or box|a price photo omits coverage area|state box quantity and verified dimensions|add a measurement guide with waste caveat|quotes with correct quantities|Tiles from [price]|Price per box; ask for room measurements before a quote
+ceramic tile dealer|buyers cannot tell whether prices are per piece or box|a price photo omits coverage area|state box quantity and verified dimensions|add a measurement guide with waste caveat|quotes with correct quantities|Tiles at great prices|Price per box; ask for room measurements before a quote
 home laundry pickup|pickup radius is unclear|a postcode outside coverage still reaches the checkout|verify area before accepting an order|display turnaround as a confirmed range, not a promise|eligible pickups|We collect anywhere|Check your area and current pickup availability
 local theatre school|a term fee hides the number of classes|a parent sees a stage photo but not dates|publish term dates and session counts|say what happens when a class is missed|enquiries that cite the right class|Join the best theatre school|See the term schedule, age group and what is included
 independent dental lab|clinics cannot see sample handover requirements|an order arrives without shade and case details|create a clinician-facing submission checklist|confirm permitted data transfer before files are shared|complete and compliant submissions|Send your case|Review the approved case checklist before sending records
@@ -64,6 +68,7 @@ OBJECTIVES=['recognition','teach','qualify','connection','demonstrate thinking',
 def article(phrase): return ('an ' if phrase[0].lower() in 'aeiou' else 'a ')+phrase
 
 def concept(d,i):
+ pack=None  # only the offer series (i==9) sets this
  idx=(d+i*7)%30
  case=CASES[idx]
  sector,friction,example,first,second,measure,before,after=case
@@ -85,35 +90,55 @@ def concept(d,i):
   hook=f'Hypothetical: I take over {article(sector)} brief today.'
   slides=[hook,f'Starting point: {friction}.',f'Investigate first: {example}.',f'Priority: answer the buyer’s question before adding more reach.',f'Change: {first}.',f'Implement: {second}; have an owner verify every term.',f'Measure: {measure}.',f'Aim: fewer unanswered questions and better-fit enquiries, not promised sales.']
  elif i==5:
-  hook=f'What happens during {step} for {article(sector)}?'
+  hook=f'Inside {step}: {article(sector)} request.'
   slides=[hook,f'Illustrative request from {article(sector)}: {friction}.',f'The documented step is {step}; a named owner records its decision.',f'Illustrative detail to verify: {example}.',f'What we still need to confirm: scope, reviewer and rights for this project.',f'Only an authorised approver releases this package. Ask how the step works.']
  elif i==6:
   hook=f'Illustrative rewrite: {sector} wording.'
   slides=[hook,f'Sample BEFORE: “{before}.”',f'Why it misses: {friction}.',f'Sample AFTER: “{after}.”',f'Make the next step usable: {second}.',f'Check {measure} after the change. This is not a client result.']
  elif i==7:
   hook=f'Copy move: {principle}.'
-  slides=[hook,f'Imagine {article(sector)} making an offer.',f'The buyer’s unanswered question: {friction}.',f'The principle: {principle}.',f'Original application: “{after}.”',f'Verify every bracketed detail; watch {measure}. Save this move.']
+  slides=[hook,f'Imagine {article(sector)} making an offer.',f'The buyer’s unanswered question: {friction}.',f'The principle: {principle}.',f'Original application: “{after}.”',f'Check each detail on your own page; watch {measure}. Save this move.']
  elif i==8:
   hook=f'The {sector} enquiry needs a human gate.'
   slides=[hook,f'{article(sector).capitalize()} sees repeated enquiries because {friction}.',f'Approved input: a buyer’s area/item/goal, only with permission.',f'Tool job: flag this sample friction for review: {example}.',f'Human gate: verify current terms and route exceptions; {second}.',f'Pilot metric: incorrect routes and {measure}. No magic claims.']
  elif i==9:
-  hook=f'When {article(sector)} needs {service.lower()}.'
-  slides=[hook,f'Possible fit: {friction}.',f'The Easywurld site lists {service} as a service category.',f'Potential scoped work: {first}; confirm deliverables in a brief.',f'Next task to scope: {second}. Terms are unverified.',f'Ask whether {service.lower()} is available for this brief. No price or result promised.']
+  # The offer series sells the thing the site actually sells: one fixed-price file pack,
+  # ordered by messaging its keyword on WhatsApp. Every claim below is read from
+  # client/src/data/offers.ts via offers_data.py, so a price change on the site either
+  # flows through here or fails the build. Packs rotate so all nine are covered.
+  # The pack's own buyer is the audience. Pairing a pack with an unrelated sector was arbitrary;
+  # the site already says who each pack is for.
+  pack=offers_data.PACKS[d%len(offers_data.PACKS)]
+  P=offers_data.PRICE_LABEL
+  # Four framings cycle every nine slots, so all 30 offer hooks differ while staying factual.
+  # Four framings cycle every nine slots. Each names the pack, so all 30 hooks differ: a hook
+  # that only said "one problem, four files, ₦5,000" repeated nine times and said nothing.
+  cycle=d//len(offers_data.PACKS)
+  hook=[f'{pack["name"]} — {P}, delivered on WhatsApp.',
+        f'{pack["category"]}: {pack["name"]}, {P}.',
+        f'{pack["name"]}: {pack["file_count"]} editable files, {P}.',
+        f'{P} for {pack["name"]}. No consultation included.'][cycle]
+  slides=[hook,
+          pack['buyer'],
+          pack['problem'],
+          pack['what'],
+          f'Message {pack["keyword"]} on WhatsApp to order. Price is per pack.',
+          f'{P}. Files are sent on WhatsApp after payment.']  # replaced by the rendered price card
  else:
   hook=belief+'.'
   slides=[hook,f'Consider the owner of {article(sector)}: {friction}.',f'At Easywurld, Simplify means {first}.',f'Optimize means {second}.',f'Grow means measuring {measure} without claiming a guaranteed lift.',f'We hold that boundary. Follow for useful business-growth thinking.']
- return case,hook,slides,service,step
+ return case,hook,slides,service,step,pack
 
 posts=[]
 for d in range(30):
  dt=date(2026,12,2)+timedelta(days=d)
  for i,series in enumerate(SERIES):
-  case,hook,slides,service,step=concept(d,i)
+  case,hook,slides,service,step,pack=concept(d,i)
   sector,friction,example,first,second,measure,before,after=case
   idx=(d+i*7)%30
   myth=MYTHS[idx]; principle=PRINCIPLES[idx]; belief=BELIEFS[d]
   pid=f'V2-{dt:%Y%m%d}-{i+1:02d}'
-  cta='Ask Easywurld whether this scope is available; terms require confirmation.' if i==9 else ('Share this with an owner who needs a clearer process.' if i==3 else 'Save this for your next planning session.' if i in [0,1,4,6,7,8] else 'Follow Easywurld for practical growth thinking.' if i==10 else 'Ask us what this step would require for your project.' if i==5 else 'Test the claim against a real buyer decision.')
+  cta=f'Message {pack["keyword"]} on WhatsApp to order {pack["name"]}.' if i==9 else ('Share this with an owner who needs a clearer process.' if i==3 else 'Save this for your next planning session.' if i in [0,1,4,6,7,8] else 'Follow Easywurld for practical growth thinking.' if i==10 else 'Ask us what this step would require for your project.' if i==5 else 'Test the claim against a real buyer decision.')
   caption_stems=[
    f'If {article(sector)} cannot answer the coverage or scope question clearly, more views will not explain it. {example.capitalize()}. Check the path from interest to a usable enquiry.',
    f'For {article(sector)}, the useful lesson is about {principle}. {example.capitalize()}. Teach the buyer which detail to check before asking for a decision.',
@@ -124,9 +149,23 @@ for d in range(30):
    f'This is an illustrative copy exercise. “{before}” asks a buyer to guess. The alternative gives one concrete next step; it is not a measured outcome.',
    f'The copy move is {principle}. In the {sector} illustration, the buyer needs to know: {friction}. Only publish the replacement line when its details are verified.',
    f'An automation for {article(sector)} could collect missing context, but a person must still check exceptions. The tool should not promise an answer it cannot verify.',
-   f'The site lists {service} as a category, not a fixed package. A {sector} with this problem may need a scoped conversation. Price and availability require confirmation.',
+   '',  # filled in below: the offer stem needs the pack
    f'Our belief: {belief.lower()}. For a {sector}, that means taking the buyer’s question seriously before adding another campaign.'
   ]
+  cycle=d//len(offers_data.PACKS)  # mirrors concept(); same rotation, so captions vary too
+  if i==9:
+   buyer_sentence=pack['buyer'][0].lower()+pack['buyer'][1:]
+   delivery=('Files are sent on WhatsApp after payment. Price is per pack, and no consultation '
+             'or custom work is included.')
+   caption_stems[9]=[
+     f'{pack["name"]}, {offers_data.PRICE_LABEL}. {pack["what"]} It is for {buyer_sentence}\n\n{delivery}',
+     f'If this is your week: {pack["problem"][0].lower()+pack["problem"][1:]} {pack["name"]} is '
+     f'{offers_data.PRICE_LABEL} and it is built for {buyer_sentence}\n\n{delivery}',
+     f'{pack["file_count"]} editable files for {offers_data.PRICE_LABEL}: {pack["what"]} '
+     f'For {buyer_sentence}\n\n{delivery}',
+     f'{pack["category"]}, written for {buyer_sentence} The problem it answers: '
+     f'{pack["problem"][0].lower()+pack["problem"][1:]} {pack["name"]}, {offers_data.PRICE_LABEL}.\n\n{delivery}',
+   ][cycle]
   caption=caption_stems[i]+' '+cta
   tags=['#Easywurld','#SmallBusinessMarketing','#LagosBusiness']
   variants={
@@ -136,15 +175,19 @@ for d in range(30):
     'LinkedIn company':f'{hook}\n\nFor {article(sector)} (illustrative), {friction}. A useful first decision is to {first}. Then {second}. Review {measure} before deciding what to change next. {cta}',
     'LinkedIn personal':f'Illustrative situation, not a client story: {article(sector).capitalize()} has this friction: {friction}. One possible test is to {first}. Review {measure} before claiming any result. {cta}'
   }
-  if i==9: variants['TikTok photo']=f'{hook} Availability, scope and terms need confirming. {cta} #Easywurld'
+  if i==9: variants['TikTok photo']=f'{hook} {pack["what"]} {cta} #Easywurld'
   art=DESIGNS[i]
   assert len(art)==len(slides)
-  posts.append({'id':pid,'date':dt.isoformat(),'series_number':i+1,'series':series,'objective':OBJECTIVES[i],'audience':f'Owner-led small businesses; illustrative {sector} situation','topic':(myth if i==2 else principle if i==7 else BELIEFS[d] if i==10 else f'{sector}: {friction}'),'angle':friction,'hook':hook,'slides':[{'number':n+1,'copy':x,'visual':art[n]} for n,x in enumerate(slides)],'caption':caption,'cta':cta,'keywords':[sector,'small business marketing',f'{service.lower()} services' if i==9 else 'customer decision'],'hashtags':tags,'platform_adaptations':variants,'publication_time':'TIME PENDING — timetable not approved','status':'editorial draft / G1–G4 pending / not scheduled','example_label':'Illustrative, hypothetical, not a client result','source_class':'existing site category + provisional scope' if i==9 else 'curriculum process; project details unverified' if i==5 else 'illustrative editorial hypothesis','measurement_question':measure})
+  refs=research_facts.refs_for(i+1,sector)
+  posts.append({'id':pid,'date':dt.isoformat(),'series_number':i+1,'series':series,'objective':OBJECTIVES[i],'audience':(f'{pack["name"]} buyer: {pack["buyer"]}' if i==9 else f'Owner-led small businesses; illustrative {sector} situation'),'topic':(f'{pack["name"]} ({offers_data.PRICE_LABEL})' if i==9 else myth if i==2 else principle if i==7 else BELIEFS[d] if i==10 else f'{sector}: {friction}'),'angle':(pack['problem'] if i==9 else friction),'hook':hook,'slides':[{'number':n+1,'copy':x,
+            'visual':('on-slide price card: figure, pack, file count, WhatsApp keyword route'
+                      if (i==9 and n==len(slides)-1) else art[n])}
+           for n,x in enumerate(slides)],'caption':caption,'cta':cta,'keywords':([pack['keyword'].lower(),pack['category'].lower()+' pack','digital download Nigeria'] if i==9 else [sector,'small business marketing','customer decision']),'hashtags':tags,'platform_adaptations':variants,'publication_time':'TIME PENDING — timetable not approved','status':'editorial draft / G1–G4 pending / not scheduled','example_label':'Illustrative, hypothetical, not a client result','source_class':'published offer data from client/src/data/offers.ts' if i==9 else 'curriculum process; project details unverified' if i==5 else 'illustrative editorial hypothesis','measurement_question':(f'orders by keyword {pack["keyword"]}' if i==9 else measure),'fact_refs':refs,**({'pack_keyword':pack['keyword']} if i==9 else {})})
 assert len(posts)==330
 (OUT/'posts.json').write_text(json.dumps(posts,indent=2,ensure_ascii=False),encoding='utf-8')
 with (OUT/'calendar.csv').open('w',newline='',encoding='utf-8') as f:
- w=csv.writer(f);w.writerow(['date','id','series','topic','hook','audience','time_wat','status'])
- for x in posts:w.writerow([x['date'],x['id'],x['series'],x['topic'],x['hook'],x['audience'],x['publication_time'],x['status']])
+ w=csv.writer(f);w.writerow(['date','id','series','topic','hook','audience','time_wat','status','fact_refs','fact_check_status'])
+ for x in posts:w.writerow([x['date'],x['id'],x['series'],x['topic'],x['hook'],x['audience'],x['publication_time'],x['status'],research_facts.verify_line(x['fact_refs']),'sources attached; not yet checked for this exact copy'])
 for d in range(30):
  daily=posts[d*11:(d+1)*11]
  out=[f'# Easywurld carousel drafts — {daily[0]["date"]}', '', '**Review-only.** Date is an unapproved planning assumption; every time is TIME PENDING; no exports or live schedule. No prior content altered. All business examples are illustrative, not client cases. Use #FBE7C5/#144D3C, Lora/Canva Sans after font rights check. Render mobile-first at a verified platform size and label hypothetical examples on-slide.', '']
@@ -153,7 +196,13 @@ for d in range(30):
   for sl in p['slides']:out += [f'- **Slide {sl["number"]}:** {sl["copy"]}  ',f'  - Visual: {sl["visual"]}; deep-green type on beige; respect safe margins.']
   out += ['',f'**Caption:** {p["caption"]}',f'**CTA:** {p["cta"]}',f'**Keywords:** {", ".join(p["keywords"])}. **Tags:** {" ".join(p["hashtags"])} (relevance review required).','**Platform adaptations (no additional placement implied):**']
   for platform,body in p['platform_adaptations'].items():out.append(f'- {platform}: {body}')
-  out += ['','---','']
+  out += ['','**Research to check before this slot is scheduled** (sources attached, not yet clearance):','']
+  for fid in p['fact_refs']:
+   fact=research_facts.FACT_BY_ID[fid]
+   out.append(f'- `{fid}` · {fact["statement"]} — *{fact["instrument"]}, {fact["pinpoint"]}* '
+              f'({fact["tier"]}, {fact["confidence"]}). Guards against: {fact["prevents"]}')
+  out += ['',f'_Fact register: `../research-2026-11-10/01_FACT_REGISTER.csv`, checked '
+          f'{research_facts.CHECKED}. Attaching a source does not approve the copy._','','---','']
  (OUT/f'{daily[0]["date"]}.md').write_text('\n'.join(out),encoding='utf-8')
 # Screening only, no declaration of semantic uniqueness or live queue status.
 old=json.loads((ROOT.parent/'content-plan.json').read_text())['posts']
