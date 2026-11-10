@@ -1,10 +1,13 @@
 """Build a separate, date-assumed December carousel draft library. No publishing operations.
 Rows are hand-authored situations; templates only arrange them. Structural QA != human approval.
+Each slot also carries the researched fact rows it must be checked against: see research_facts.py and
+research-2026-11-10/01_FACT_REGISTER.csv. Attaching a fact is not clearance.
 """
 from pathlib import Path
 from datetime import date,timedelta
 from difflib import SequenceMatcher
 import csv,json,re
+import research_facts
 ROOT=Path(__file__).parent
 OUT=ROOT/'december-2026-DRAFT'
 OUT.mkdir(exist_ok=True)
@@ -139,12 +142,13 @@ for d in range(30):
   if i==9: variants['TikTok photo']=f'{hook} Availability, scope and terms need confirming. {cta} #Easywurld'
   art=DESIGNS[i]
   assert len(art)==len(slides)
-  posts.append({'id':pid,'date':dt.isoformat(),'series_number':i+1,'series':series,'objective':OBJECTIVES[i],'audience':f'Owner-led small businesses; illustrative {sector} situation','topic':(myth if i==2 else principle if i==7 else BELIEFS[d] if i==10 else f'{sector}: {friction}'),'angle':friction,'hook':hook,'slides':[{'number':n+1,'copy':x,'visual':art[n]} for n,x in enumerate(slides)],'caption':caption,'cta':cta,'keywords':[sector,'small business marketing',f'{service.lower()} services' if i==9 else 'customer decision'],'hashtags':tags,'platform_adaptations':variants,'publication_time':'TIME PENDING — timetable not approved','status':'editorial draft / G1–G4 pending / not scheduled','example_label':'Illustrative, hypothetical, not a client result','source_class':'existing site category + provisional scope' if i==9 else 'curriculum process; project details unverified' if i==5 else 'illustrative editorial hypothesis','measurement_question':measure})
+  refs=research_facts.refs_for(i+1,sector)
+  posts.append({'id':pid,'date':dt.isoformat(),'series_number':i+1,'series':series,'objective':OBJECTIVES[i],'audience':f'Owner-led small businesses; illustrative {sector} situation','topic':(myth if i==2 else principle if i==7 else BELIEFS[d] if i==10 else f'{sector}: {friction}'),'angle':friction,'hook':hook,'slides':[{'number':n+1,'copy':x,'visual':art[n]} for n,x in enumerate(slides)],'caption':caption,'cta':cta,'keywords':[sector,'small business marketing',f'{service.lower()} services' if i==9 else 'customer decision'],'hashtags':tags,'platform_adaptations':variants,'publication_time':'TIME PENDING — timetable not approved','status':'editorial draft / G1–G4 pending / not scheduled','example_label':'Illustrative, hypothetical, not a client result','source_class':'existing site category + provisional scope' if i==9 else 'curriculum process; project details unverified' if i==5 else 'illustrative editorial hypothesis','measurement_question':measure,'fact_refs':refs})
 assert len(posts)==330
 (OUT/'posts.json').write_text(json.dumps(posts,indent=2,ensure_ascii=False),encoding='utf-8')
 with (OUT/'calendar.csv').open('w',newline='',encoding='utf-8') as f:
- w=csv.writer(f);w.writerow(['date','id','series','topic','hook','audience','time_wat','status'])
- for x in posts:w.writerow([x['date'],x['id'],x['series'],x['topic'],x['hook'],x['audience'],x['publication_time'],x['status']])
+ w=csv.writer(f);w.writerow(['date','id','series','topic','hook','audience','time_wat','status','fact_refs','fact_check_status'])
+ for x in posts:w.writerow([x['date'],x['id'],x['series'],x['topic'],x['hook'],x['audience'],x['publication_time'],x['status'],research_facts.verify_line(x['fact_refs']),'sources attached; not yet checked for this exact copy'])
 for d in range(30):
  daily=posts[d*11:(d+1)*11]
  out=[f'# Easywurld carousel drafts — {daily[0]["date"]}', '', '**Review-only.** Date is an unapproved planning assumption; every time is TIME PENDING; no exports or live schedule. No prior content altered. All business examples are illustrative, not client cases. Use #FBE7C5/#144D3C, Lora/Canva Sans after font rights check. Render mobile-first at a verified platform size and label hypothetical examples on-slide.', '']
@@ -153,7 +157,13 @@ for d in range(30):
   for sl in p['slides']:out += [f'- **Slide {sl["number"]}:** {sl["copy"]}  ',f'  - Visual: {sl["visual"]}; deep-green type on beige; respect safe margins.']
   out += ['',f'**Caption:** {p["caption"]}',f'**CTA:** {p["cta"]}',f'**Keywords:** {", ".join(p["keywords"])}. **Tags:** {" ".join(p["hashtags"])} (relevance review required).','**Platform adaptations (no additional placement implied):**']
   for platform,body in p['platform_adaptations'].items():out.append(f'- {platform}: {body}')
-  out += ['','---','']
+  out += ['','**Research to check before this slot is scheduled** (sources attached, not yet clearance):','']
+  for fid in p['fact_refs']:
+   fact=research_facts.FACT_BY_ID[fid]
+   out.append(f'- `{fid}` · {fact["statement"]} — *{fact["instrument"]}, {fact["pinpoint"]}* '
+              f'({fact["tier"]}, {fact["confidence"]}). Guards against: {fact["prevents"]}')
+  out += ['',f'_Fact register: `../research-2026-11-10/01_FACT_REGISTER.csv`, checked '
+          f'{research_facts.CHECKED}. Attaching a source does not approve the copy._','','---','']
  (OUT/f'{daily[0]["date"]}.md').write_text('\n'.join(out),encoding='utf-8')
 # Screening only, no declaration of semantic uniqueness or live queue status.
 old=json.loads((ROOT.parent/'content-plan.json').read_text())['posts']
