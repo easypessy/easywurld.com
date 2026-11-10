@@ -124,6 +124,9 @@ client/public/__manus__/version.json
 # not in this public one - see launch-content/README.md.
 /offer-deliverables/
 /Easywurld-Offers-Deliverables.zip
+# Zip bundle of MONEY_PACK, built for Drive upload; the folder itself is source-tracked.
+/easywurld-november-money.zip
+/november-money.zip
 /offers-summary.md
 /tools/packkit/
 
