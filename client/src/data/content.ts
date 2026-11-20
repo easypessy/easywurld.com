@@ -57,6 +57,13 @@ export const HOME_HERO = {
   lighthouseNote: "Results are measured live — no sample scores.",
 };
 
+/** Title tag and meta description for the homepage. Kept here so the static
+ *  shell in index.html and the per-route <Seo> component cannot disagree. */
+export const HOME_SEO = {
+  title: "Easywurld | Web Design & SEO for Lagos Small Businesses",
+  description: DESCRIPTION,
+};
+
 export const MARQUEE = [
   "Strategy",
   "Web design",

@@ -3,10 +3,10 @@ import { ArrowUpRight } from "lucide-react";
 import { projects, CATEGORIES, countFor } from "@/data";
 import {
   BRAND,
-  DESCRIPTION,
   HOME_CTA,
   HOME_HERO,
   HOME_PROBLEMS,
+  HOME_SEO,
   HOME_PROCESS,
   HOME_SERVICES,
   HOME_WHY,
@@ -21,11 +21,7 @@ export default function Home() {
   const feature = projects.filter(p => (p.weight ?? 1) >= 2).slice(0, 6);
   return (
     <>
-      <Seo
-        title={`${BRAND.name} | ${BRAND.slogan}`}
-        description={DESCRIPTION}
-        path="/"
-      />
+      <Seo title={HOME_SEO.title} description={HOME_SEO.description} path="/" />
 
       {/* HOMEPAGE HERO — headline plus the dimensional Easywurld brand scene */}
       <HomeHero />
