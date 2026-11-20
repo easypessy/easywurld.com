@@ -19,7 +19,6 @@ export const BRAND = {
   name: "Easywurld",
   slogan: "Simplify. Optimize. Grow.",
   tagline: "Independent digital studio · Lagos, Nigeria",
-  email: "hello@easywurld.com",
   phoneDisplay: "0905 069 0837",
   phoneIntl: "+2349050690837",
   whatsapp: "https://wa.me/2349050690837",
