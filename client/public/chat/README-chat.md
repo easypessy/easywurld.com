@@ -53,12 +53,12 @@ back. Nothing else in the widget changes. Rule-based buttons keep working either
 
 ### Free providers that need no card
 
-| Provider | Free allowance | Notes |
-|---|---|---|
-| **Google AI Studio (Gemini Flash)** | Generous free tier, no card | Easiest to start with |
-| **Groq** | Free tier, very fast | Good for short answers |
-| **OpenRouter** | Several `:free` models | Rotate if one is busy |
-| **Cloudflare Workers AI** | Free daily allowance | Runs next to your site |
+| Provider                            | Free allowance              | Notes                  |
+| ----------------------------------- | --------------------------- | ---------------------- |
+| **Google AI Studio (Gemini Flash)** | Generous free tier, no card | Easiest to start with  |
+| **Groq**                            | Free tier, very fast        | Good for short answers |
+| **OpenRouter**                      | Several `:free` models      | Rotate if one is busy  |
+| **Cloudflare Workers AI**           | Free daily allowance        | Runs next to your site |
 
 The key must live in a **serverless function**, never in this file — anything in
 `public/` is visible to visitors. On Vercel, create `api/chat.js` at the repo root,

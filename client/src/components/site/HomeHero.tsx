@@ -1,7 +1,7 @@
 import { useEffect, useRef, type PointerEvent } from "react";
 import { Link } from "wouter";
 import { ArrowUpRight } from "lucide-react";
-import { WA } from "@/components/site/Layout";
+import { BRAND, HOME_HERO } from "@/data/content";
 
 /** Homepage-only hero. CSS owns the motion; the artwork is purely decorative. */
 export default function HomeHero() {
@@ -26,11 +26,18 @@ export default function HomeHero() {
 
       const bounds = element.getBoundingClientRect();
       const travel = window.innerHeight + bounds.height;
-      const progress = Math.max(0, Math.min(1, (window.innerHeight - bounds.top) / travel));
-      element.style.setProperty("--scene-depth-y", `${(12 - progress * 24).toFixed(1)}px`);
+      const progress = Math.max(
+        0,
+        Math.min(1, (window.innerHeight - bounds.top) / travel)
+      );
+      element.style.setProperty(
+        "--scene-depth-y",
+        `${(12 - progress * 24).toFixed(1)}px`
+      );
     };
     const scheduleDepth = () => {
-      if (frameRef.current === null) frameRef.current = window.requestAnimationFrame(updateDepth);
+      if (frameRef.current === null)
+        frameRef.current = window.requestAnimationFrame(updateDepth);
     };
     const syncMotionPreference = () => {
       motionAllowedRef.current = !reducedMotion.matches;
@@ -51,17 +58,28 @@ export default function HomeHero() {
       window.removeEventListener("scroll", scheduleDepth);
       window.removeEventListener("resize", scheduleDepth);
       reducedMotion.removeEventListener("change", syncMotionPreference);
-      if (frameRef.current !== null) window.cancelAnimationFrame(frameRef.current);
+      if (frameRef.current !== null)
+        window.cancelAnimationFrame(frameRef.current);
     };
   }, []);
 
   function handlePointerMove(event: PointerEvent<HTMLDivElement>) {
-    if (!motionAllowedRef.current || (event.pointerType !== "mouse" && event.pointerType !== "pen")) return;
+    if (
+      !motionAllowedRef.current ||
+      (event.pointerType !== "mouse" && event.pointerType !== "pen")
+    )
+      return;
     const bounds = event.currentTarget.getBoundingClientRect();
     const x = (event.clientX - bounds.left) / bounds.width - 0.5;
     const y = (event.clientY - bounds.top) / bounds.height - 0.5;
-    event.currentTarget.style.setProperty("--scene-rotate-x", `${(-y * 6).toFixed(2)}deg`);
-    event.currentTarget.style.setProperty("--scene-rotate-y", `${(x * 8).toFixed(2)}deg`);
+    event.currentTarget.style.setProperty(
+      "--scene-rotate-x",
+      `${(-y * 6).toFixed(2)}deg`
+    );
+    event.currentTarget.style.setProperty(
+      "--scene-rotate-y",
+      `${(x * 8).toFixed(2)}deg`
+    );
   }
 
   function resetPointer(event: PointerEvent<HTMLDivElement>) {
@@ -73,41 +91,42 @@ export default function HomeHero() {
     <section className="home-hero">
       <div className="wrap home-hero-grid">
         <div className="home-hero-copy">
-          <p className="eyebrow">Independent digital studio · Lagos, Nigeria</p>
+          <p className="eyebrow">{HOME_HERO.eyebrow}</p>
 
-          <h1 className="home-hero-title">
-            Simplify. Optimize. Grow.
-          </h1>
+          <h1 className="home-hero-title">{HOME_HERO.title}</h1>
 
-          <p className="lead home-hero-lead">
-            Marketing clarity for small businesses in Lagos — strategy, design, words
-            and simple systems that work together. Clear, fast and built to bring in
-            messages.
-          </p>
+          <p className="lead home-hero-lead">{HOME_HERO.lead}</p>
 
           <div className="home-hero-actions">
-            <a href={WA} target="_blank" rel="noopener noreferrer" className="btn btn-solid">
-              Start a project <ArrowUpRight size={17} />
+            <a
+              href={BRAND.whatsapp}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn btn-solid"
+            >
+              {HOME_HERO.primary} <ArrowUpRight size={17} />
             </a>
             <Link href="/projects" className="btn btn-ghost">
-              Explore our work
+              {HOME_HERO.secondary}
             </Link>
             <Link href="/services" className="home-services-link">
-              Our services <ArrowUpRight size={15} />
+              {HOME_HERO.services} <ArrowUpRight size={15} />
             </Link>
           </div>
 
           <div className="lh-row home-lh-row">
-            <span className="lh-chip"><b>LIVE TEST</b>Lighthouse · Mobile &amp; desktop</span>
+            <span className="lh-chip">
+              <b>LIVE TEST</b>Lighthouse · Mobile &amp; desktop
+            </span>
             <a
               className="lh-link"
-              href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fwebsite-builder-portfolio.vercel.app"
+              href={HOME_HERO.lighthouseUrl}
               target="_blank"
               rel="noopener noreferrer"
             >
               Run a site check <ArrowUpRight size={14} />
             </a>
-            <span className="home-lh-note">Results are measured live — no sample scores.</span>
+            <span className="home-lh-note">{HOME_HERO.lighthouseNote}</span>
           </div>
         </div>
 
@@ -124,30 +143,74 @@ export default function HomeHero() {
             <div className="hero-orbit hero-orbit-outer" />
             <div className="hero-orbit hero-orbit-inner" />
 
-            <svg className="hero-circuit-art" viewBox="0 0 520 520" focusable="false">
-              <path className="hero-circuit-path hero-circuit-path-one" d="M75 335h80l38-38v-71l48-48h69" />
-              <path className="hero-circuit-path hero-circuit-path-two" d="M345 145h54v68l-42 42v90h75" />
-              <path className="hero-circuit-path hero-circuit-path-three" d="M121 386h70l53 53h107" />
-              <circle className="hero-circuit-node node-one" cx="310" cy="178" r="7" />
-              <circle className="hero-circuit-node node-two" cx="357" cy="255" r="6" />
-              <circle className="hero-circuit-node node-three" cx="351" cy="439" r="5" />
-              <circle className="hero-circuit-node node-four" cx="75" cy="335" r="5" />
+            <svg
+              className="hero-circuit-art"
+              viewBox="0 0 520 520"
+              focusable="false"
+            >
+              <path
+                className="hero-circuit-path hero-circuit-path-one"
+                d="M75 335h80l38-38v-71l48-48h69"
+              />
+              <path
+                className="hero-circuit-path hero-circuit-path-two"
+                d="M345 145h54v68l-42 42v90h75"
+              />
+              <path
+                className="hero-circuit-path hero-circuit-path-three"
+                d="M121 386h70l53 53h107"
+              />
+              <circle
+                className="hero-circuit-node node-one"
+                cx="310"
+                cy="178"
+                r="7"
+              />
+              <circle
+                className="hero-circuit-node node-two"
+                cx="357"
+                cy="255"
+                r="6"
+              />
+              <circle
+                className="hero-circuit-node node-three"
+                cx="351"
+                cy="439"
+                r="5"
+              />
+              <circle
+                className="hero-circuit-node node-four"
+                cx="75"
+                cy="335"
+                r="5"
+              />
             </svg>
 
             <div className="hero-float-card hero-card-strategy">
               <span className="hero-card-index">01</span>
-              <span><b>Strategy</b><small>Understand</small></span>
+              <span>
+                <b>Strategy</b>
+                <small>Understand</small>
+              </span>
             </div>
             <div className="hero-float-card hero-card-design">
               <span className="hero-card-index">02</span>
-              <span><b>Design & words</b><small>Simplify</small></span>
+              <span>
+                <b>Design & words</b>
+                <small>Simplify</small>
+              </span>
             </div>
             <div className="hero-float-card hero-card-systems">
               <span className="hero-card-index">03</span>
-              <span><b>Systems</b><small>Optimize</small></span>
+              <span>
+                <b>Systems</b>
+                <small>Optimize</small>
+              </span>
             </div>
           </div>
-          <p className="hero-scene-caption">A clear path from idea to next step</p>
+          <p className="hero-scene-caption">
+            A clear path from idea to next step
+          </p>
         </div>
       </div>
     </section>

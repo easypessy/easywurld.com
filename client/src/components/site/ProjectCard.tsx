@@ -10,8 +10,13 @@ const Artwork = lazy(() => import("./Artwork"));
 export default function ProjectCard({ p }: { p: Project }) {
   const w = p.weight ?? 1;
   return (
-    <article className={`card ${w === 3 ? "card--w3" : w === 2 ? "card--w2" : ""}`}>
-      <Link href={`/projects/${p.slug}`} aria-label={`${p.title} — ${p.category} case study`}>
+    <article
+      className={`card ${w === 3 ? "card--w3" : w === 2 ? "card--w2" : ""}`}
+    >
+      <Link
+        href={`/projects/${p.slug}`}
+        aria-label={`${p.title} — ${p.category} case study`}
+      >
         <div className="card-media">
           {p.shot ? (
             <img
@@ -24,21 +29,31 @@ export default function ProjectCard({ p }: { p: Project }) {
           ) : (
             <Suspense
               fallback={
-                <div className="artwork" style={{ aspectRatio: "8 / 5" }} aria-hidden="true" />
+                <div
+                  className="artwork"
+                  style={{ aspectRatio: "8 / 5" }}
+                  aria-hidden="true"
+                />
               }
             >
               <Artwork project={p} />
             </Suspense>
           )}
           {p.liveUrl && (
-            <span className="live-tag">{p.liveUrl.endsWith(".pdf") ? "PDF document" : "Live build"}</span>
+            <span className="live-tag">
+              {p.liveUrl.endsWith(".pdf") ? "PDF document" : "Live build"}
+            </span>
           )}
         </div>
         <div className="card-meta">
-          <span className="card-cat">{p.category} · {p.industry}</span>
+          <span className="card-cat">
+            {p.category} · {p.industry}
+          </span>
           <h3>{p.title}</h3>
           <p>{p.summary}</p>
-          <span className="badge" data-s={p.status} style={{ marginTop: 8 }}>{p.status}</span>
+          <span className="badge" data-s={p.status} style={{ marginTop: 8 }}>
+            {p.status}
+          </span>
         </div>
       </Link>
     </article>

@@ -26,8 +26,12 @@ function Router() {
         <Route path="/projects" component={Work} />
         <Route path="/projects/:slug" component={CaseStudy} />
         {/* legacy /work URLs keep working */}
-        <Route path="/work"><Redirect to="/projects" /></Route>
-        <Route path="/work/:slug">{(p) => <Redirect to={`/projects/${p.slug}`} />}</Route>
+        <Route path="/work">
+          <Redirect to="/projects" />
+        </Route>
+        <Route path="/work/:slug">
+          {p => <Redirect to={`/projects/${p.slug}`} />}
+        </Route>
         <Route path="/services" component={Services} />
         <Route path="/offers" component={Offers} />
         <Route path="/offers/:slug" component={OfferDetail} />

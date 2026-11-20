@@ -3,3 +3,8 @@ node_modules
 .git
 *.min.js
 *.min.css
+
+# Hand-written demo builds and generated offer artwork — not ours to reformat.
+client/public/demo
+client/public/offers
+client/public/shots
